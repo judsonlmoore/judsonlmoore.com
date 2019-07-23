@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2007-12-20 21:58:53+00:00
-excerpt: Do you have life goals? Do you need help identifying life goals? Or maybe
-  you need help structuring a plan to achieve your life goals? Read this now.
-layout: post
-link: https://www.judsonlmoore.com/life-goals-exercise/
-slug: life-goals-exercise
 title: How To Identify and Accomplish Your Life Goals
-wordpress_id: 2594
+date: 2007-12-20 21:58:53 Z
 categories:
 - Lifestyle
 tags:
@@ -16,6 +8,13 @@ tags:
 - Goals
 - Impact
 - Interests
+author: judsonlmoore
+comments: true
+excerpt: Do you have life goals? Do you need help identifying life goals? Or maybe
+  you need help structuring a plan to achieve your life goals? Read this now.
+layout: post
+link: https://www.judsonlmoore.com/life-goals-exercise/
+wordpress_id: 2594
 ---
 
 _photo credit: [Calum MacAulay](https://unsplash.com/@calum_mac)_

@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2015-08-18 17:00:03+00:00
-excerpt: I've been part of the Rotary Family since I was in high school, and anyone
-  who knows me, knows that today is a very significant moment for me.
-layout: post
-link: https://www.judsonlmoore.com/im-a-rotarian/
-slug: im-a-rotarian
 title: I Have Joined The Rotary Club of Austin
-wordpress_id: 3656
+date: 2015-08-18 17:00:03 Z
 categories:
 - Austin
 tags:
@@ -16,6 +8,13 @@ tags:
 - Rotary
 - Rotary International
 - Service Above Self
+author: judsonlmoore
+comments: true
+excerpt: I've been part of the Rotary Family since I was in high school, and anyone
+  who knows me, knows that today is a very significant moment for me.
+layout: post
+link: https://www.judsonlmoore.com/im-a-rotarian/
+wordpress_id: 3656
 ---
 
 I've hit a great milestone in my life today: I am a Rotarian! I've been part of the Rotary Family since I was in high school, and anyone who knows me, knows that this is a very significant moment for me. The club I joined is the [Rotary Club of Austin](http://rotary-austin.org) in [District 5870](http://www.clubrunner.ca/5870/). We meet Tuesdays for lunch at St. David's Episcopal Church in downtown Austin. If  you are ever in the area, come join us!

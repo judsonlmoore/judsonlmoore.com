@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-11-05 04:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/medical-review-eyes/
-slug: medical-review-eyes
 title: 'Medical Review: Eyes'
-wordpress_id: 77
+date: 2010-11-05 04:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/medical-review-eyes/
+wordpress_id: 77
 ---
 
 My housemate, Jenny, works at the Alexandria Eye and Laser Center and got me hooked up with an eye exam.  That was easy enough.  Turns out, I still have perfect vision!

@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2013-05-18 14:02:50+00:00
-excerpt: The C4 Gathering is hosted annually by the National Corvette Museum in Bowling
-  Green, Kentucky, for enthusiasts of the 4th Generation Corvette.
-layout: post
-link: https://www.judsonlmoore.com/corvette-c4-gathering/
-slug: corvette-c4-gathering
 title: National Corvette Museum Hosts the C4 Gathering
-wordpress_id: 4031
+date: 2013-05-18 14:02:50 Z
 categories:
 - USA
 tags:
@@ -16,6 +8,13 @@ tags:
 - Corvette
 - Kentucky
 - Road Trip
+author: judsonlmoore
+comments: true
+excerpt: The C4 Gathering is hosted annually by the National Corvette Museum in Bowling
+  Green, Kentucky, for enthusiasts of the 4th Generation Corvette.
+layout: post
+link: https://www.judsonlmoore.com/corvette-c4-gathering/
+wordpress_id: 4031
 ---
 
 ## The C4 Gathering: An American Tradition

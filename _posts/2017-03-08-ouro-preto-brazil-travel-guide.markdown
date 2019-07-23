@@ -1,20 +1,19 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-03-08 15:06:37+00:00
-excerpt: Ouro Preto Brazil is the best preserved colonial city in South America. Today,
-  it is a treasure of riches, architecture and revolutionary history.
-layout: post
-link: https://www.judsonlmoore.com/ouro-preto-brazil-travel-guide/
-slug: ouro-preto-brazil-travel-guide
 title: Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion
-wordpress_id: 5826
+date: 2017-03-08 15:06:37 Z
 categories:
 - Brazil
 tags:
 - brazil
 - historic sites
 - travel tips
+author: judsonlmoore
+comments: true
+excerpt: Ouro Preto Brazil is the best preserved colonial city in South America. Today,
+  it is a treasure of riches, architecture and revolutionary history.
+layout: post
+link: https://www.judsonlmoore.com/ouro-preto-brazil-travel-guide/
+wordpress_id: 5826
 ---
 
 Ouro Preto is a small colonial town in the heart of the Brazilian state of Minas Gerais, [near to Belo Horizonte](https://www.judsonlmoore.com/belo-horizonte-travel-guide/). The entire town was Brazil’s first place to be designated a UNESCO world heritage site, due to its vast historical significance from the early days of Portuguese colonization of Brazil and for its high quality of architectural preservation.

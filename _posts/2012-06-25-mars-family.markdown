@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-06-25 06:40:10+00:00
-layout: post
-link: https://www.judsonlmoore.com/mars-family/
-slug: mars-family
 title: Mars Family
-wordpress_id: 786
+date: 2012-06-25 06:40:10 Z
 categories:
 - Peace Corps
 tags:
@@ -14,6 +8,11 @@ tags:
 - Friends
 - Kyrgyz Culture
 - Kyrgyzstan
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/mars-family/
+wordpress_id: 786
 ---
 
 Mars is a dear friend of mine from Bishkek and was my main host when I visited Bishkek before I moved here. Here I am with his family having a great time enjoying a beautiful day.

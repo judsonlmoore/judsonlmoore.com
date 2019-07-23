@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-11-08 08:44:27+00:00
-excerpt: The Salt Cathedral of Zipaquirá on the outskirts of Bogota, Colombia, is
-  perhaps the world's grandest testament of a people's faith to their creator.
-layout: post
-link: https://www.judsonlmoore.com/salt-cathedral-zipaquira/
-slug: salt-cathedral-zipaquira
 title: 'Salt Cathedral of Zipaquirá: A Subterranean Monument of Faith'
-wordpress_id: 3008
+date: 2014-11-08 08:44:27 Z
 categories:
 - Colombia
 tags:
@@ -18,6 +10,13 @@ tags:
 - RYE
 - South America
 - Travel
+author: judsonlmoore
+comments: true
+excerpt: The Salt Cathedral of Zipaquirá on the outskirts of Bogota, Colombia, is
+  perhaps the world's grandest testament of a people's faith to their creator.
+layout: post
+link: https://www.judsonlmoore.com/salt-cathedral-zipaquira/
+wordpress_id: 3008
 ---
 
 ## The Salt Cathedral of Zipaquirá

@@ -1,14 +1,6 @@
 ---
-author: visitbrasil
-comments: true
-date: 2017-06-30 10:00:15+00:00
-excerpt: Have you ever wanted to visit Brazil but are not sure of the best way to
-  get there, the best time to go, or the best destinations to check out?
-layout: post
-link: https://www.judsonlmoore.com/visit-brazil-guide/
-slug: visit-brazil-guide
 title: 'Visit Brazil: A guide to when, where, and how to visit Brazil'
-wordpress_id: 17966
+date: 2017-06-30 10:00:15 Z
 categories:
 - Brazil
 tags:
@@ -17,6 +9,13 @@ tags:
 - travel tips
 - visa
 - visit brazil
+author: visitbrasil
+comments: true
+excerpt: Have you ever wanted to visit Brazil but are not sure of the best way to
+  get there, the best time to go, or the best destinations to check out?
+layout: post
+link: https://www.judsonlmoore.com/visit-brazil-guide/
+wordpress_id: 17966
 ---
 
 **Imagine yourself going on an adventure** in the Amazon Forest or in the Pantanal, being amazed by the beauty of the nature in [Foz do Iguaçu](https://www.judsonlmoore.com/iguazu-falls-largest-waterfall-system/) or Bonito, living the culture of São Luís or [Ouro Preto](https://www.judsonlmoore.com/ouro-preto-brazil-travel-guide/), trying the hustle and bustle of great centers such as [Rio de Janeiro](http://www.visitbrasil.com/en/destinos/rio-de-janeiro/) or [São Paulo](http://www.visitbrasil.com/en/destinos/sao-paulo/), or simply relaxing and enjoying the sun and the breeze of the ocean in [Fernando de Noronha](http://www.visitbrasil.com/en/estados/pernambuco/) or [Trancoso](http://www.visitbrasil.com/en/destinos/trancoso/). **This is what you can discover when you visit Brazil**.

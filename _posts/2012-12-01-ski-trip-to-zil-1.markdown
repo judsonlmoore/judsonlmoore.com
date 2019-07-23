@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-12-01 17:05:44+00:00
-layout: post
-link: https://www.judsonlmoore.com/ski-trip-to-zil-1/
-slug: ski-trip-to-zil-1
 title: 'Ski Trip To Zil #1'
-wordpress_id: 1956
+date: 2012-12-01 17:05:44 Z
 categories:
 - Peace Corps
 tags:
@@ -17,6 +11,11 @@ tags:
 - skiing
 - Sports
 - Zil
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/ski-trip-to-zil-1/
+wordpress_id: 1956
 ---
 
 Ski Season is here! My desire for years has been to live within a 3-hours drive of skiing. And now I am less than an hour away from skiing. And what makes it even better is that an entire day's cost (transport, food, ski rental and lift pass) costs less than $30.00!

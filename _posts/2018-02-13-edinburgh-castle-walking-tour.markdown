@@ -1,16 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2018-02-13 11:00:30+00:00
-excerpt: Edinburgh Castle is a must-see attraction in Edinburgh. I took a walking
-  tour of the castle which proved to be very educational and a highly efficient use
-  of my limited time in Edinburgh. Here are my notes from the tour as well as photos
-  of the best details.
-layout: post
-link: https://www.judsonlmoore.com/edinburgh-castle-walking-tour/
-slug: edinburgh-castle-walking-tour
 title: Edinburgh Castle Walking Tour
-wordpress_id: 18839
+date: 2018-02-13 11:00:30 Z
 categories:
 - Scotland
 tags:
@@ -18,6 +8,15 @@ tags:
 - travel guide
 - travel tips
 - walking tour
+author: judsonlmoore
+comments: true
+excerpt: Edinburgh Castle is a must-see attraction in Edinburgh. I took a walking
+  tour of the castle which proved to be very educational and a highly efficient use
+  of my limited time in Edinburgh. Here are my notes from the tour as well as photos
+  of the best details.
+layout: post
+link: https://www.judsonlmoore.com/edinburgh-castle-walking-tour/
+wordpress_id: 18839
 ---
 
 After having spent my morning taking [a free walking tour](https://www.judsonlmoore.com/edinburgh-free-walking-tour/), I decided it was worth buying a ticket to one of the afternoon paid tours. The tour organizer, SANDEMANs, had several to chose from but I was most interested in getting to know the Edinburgh Castle. So after a quick lunch on my own, I rejoined my trusty (and awesome) guide, [Dave](http://www.neweuropetours.eu/Edinburgh/en/Guides/Details/Yb9onL/dave), and off we went together on **the Edinburgh Castle walking tour**.

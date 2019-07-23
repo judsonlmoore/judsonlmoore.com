@@ -1,18 +1,17 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2016-01-30 17:44:26+00:00
-excerpt: Relationships struggle to survive the test of distance, and for good reason.
-  As a nomad, I have learned how to protect the most precious relationships.
-layout: post
-link: https://www.judsonlmoore.com/relationships-a-nomads-philosophy/
-slug: relationships-a-nomads-philosophy
 title: 'Relationships: A Nomad''s Philosophy'
-wordpress_id: 308
+date: 2016-01-30 17:44:26 Z
 categories:
 - Lifestyle
 tags:
 - whileyoung
+author: judsonlmoore
+comments: true
+excerpt: Relationships struggle to survive the test of distance, and for good reason.
+  As a nomad, I have learned how to protect the most precious relationships.
+layout: post
+link: https://www.judsonlmoore.com/relationships-a-nomads-philosophy/
+wordpress_id: 308
 ---
 
 For many years, I have had a philosophy regarding the quality of relationships. I have shared it with many people along my journey but I have never written about it. Recent events in my life make this philosophy seem increasingly relevant and so I would like to go ahead and share this with the world.

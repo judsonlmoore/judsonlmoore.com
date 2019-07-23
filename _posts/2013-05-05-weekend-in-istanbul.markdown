@@ -1,16 +1,15 @@
 ---
+title: What to do for A Weekend in Istanbul
+date: 2013-05-05 17:29:52 Z
+categories:
+- Turkey
 author: judsonlmoore
 comments: true
-date: 2013-05-05 17:29:52+00:00
 excerpt: If you find yourself having a weekend in Istanbul, Turkey, then this is the
   guide for you! I was there just three days but saw a huge amount of sites.
 layout: post
 link: https://www.judsonlmoore.com/weekend-in-istanbul/
-slug: weekend-in-istanbul
-title: What to do for A Weekend in Istanbul
 wordpress_id: 3686
-categories:
-- Turkey
 ---
 
 Before we get too far down the Istanbul rabbit hole of awesomeness, let me remind you that I just had a major abdominal surgery a few weeks ago and am still very much in the midst of recovering. I give a lot of thumbs ups and smiles for the camera, but I had to move really carefully and slowly through all of this. That said, please forgive me if I tended to not do my hair.

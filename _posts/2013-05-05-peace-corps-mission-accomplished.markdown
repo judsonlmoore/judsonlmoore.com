@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2013-05-05 04:44:56+00:00
-layout: post
-link: https://www.judsonlmoore.com/peace-corps-mission-accomplished/
-slug: peace-corps-mission-accomplished
 title: 'Peace Corps: Mission Accomplished'
-wordpress_id: 2457
+date: 2013-05-05 04:44:56 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - Peace Corps
 - RPCV
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/peace-corps-mission-accomplished/
+wordpress_id: 2457
 ---
 
 Serving with the United States Peace Corps in Kyrgyzstan these last two years has been a tremendous experience. During my two years in Kyrgyzstan I accomplished many things; too many to attempt listing here. So let me just describe the cornerstone achievement: Mobile Community Media Centers.

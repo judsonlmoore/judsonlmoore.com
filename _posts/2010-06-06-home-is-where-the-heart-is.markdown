@@ -1,16 +1,15 @@
 ---
+title: 'What I Would Have Said: Home Is Where the Heart Is.'
+date: 2010-06-06 08:19:00 Z
+categories:
+- Los Angeles
 author: judsonlmoore
 comments: true
-date: 2010-06-06 08:19:00+00:00
 excerpt: My heart has found a new place to call home in Los Angeles and I owe it all
   to this very special group of community leaders and humanitarians.
 layout: post
 link: https://www.judsonlmoore.com/home-is-where-the-heart-is/
-slug: home-is-where-the-heart-is
-title: 'What I Would Have Said: Home Is Where the Heart Is.'
 wordpress_id: 96
-categories:
-- Los Angeles
 ---
 
 _Photo Credit: [Volkan Olmez](https://unsplash.com/@volkanolmez)_

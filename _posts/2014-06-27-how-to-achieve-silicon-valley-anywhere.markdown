@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-06-27 04:45:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/how-to-achieve-silicon-valley-anywhere/
-slug: how-to-achieve-silicon-valley-anywhere
 title: How to Achieve Silicon Valley Anywhere [crosspost]
-wordpress_id: 2623
+date: 2014-06-27 04:45:00 Z
 categories:
 - Philanthropy
 tags:
@@ -15,6 +9,11 @@ tags:
 - Community
 - Mutual Mobile
 - publications
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/how-to-achieve-silicon-valley-anywhere/
+wordpress_id: 2623
 ---
 
 _The following was originally posted on <re/code> on June 25, 2014. Read the original post [here](http://recode.net/2014/06/25/how-to-achieve-silicon-valley-anywhere)._

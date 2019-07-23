@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-06-01 14:42:06+00:00
-layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-summer-2012/
-slug: lsu-alumni-magazine-article-summer-2012
 title: LSU Alumni Magazine Article - Summer 2012
-wordpress_id: 536
+date: 2012-06-01 14:42:06 Z
 categories:
 - Peace Corps
 tags:
@@ -16,9 +10,12 @@ tags:
 - Peace Corps
 - Published
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-summer-2012/
+wordpress_id: 536
 ---
-
-
 
 [](https://www.judsonlmoore.com/lsu-alumni-magazine-article-summer-2012/)
 

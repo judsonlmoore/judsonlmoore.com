@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-06-20 10:00:45+00:00
-excerpt: Porto Seguro is where Portuguese colonialists discovered Brazil. Full of
-  history, this coastal town has the perfect mix of beach, activity, and history.
-layout: post
-link: https://www.judsonlmoore.com/porto-seguro-brazil-travel-guide/
-slug: porto-seguro-brazil-travel-guide
 title: Porto Seguro is the best beach town in the whole world. Here is why.
-wordpress_id: 12815
+date: 2017-06-20 10:00:45 Z
 categories:
 - Brazil
 tags:
@@ -16,6 +8,13 @@ tags:
 - brazil
 - South America
 - travel guide
+author: judsonlmoore
+comments: true
+excerpt: Porto Seguro is where Portuguese colonialists discovered Brazil. Full of
+  history, this coastal town has the perfect mix of beach, activity, and history.
+layout: post
+link: https://www.judsonlmoore.com/porto-seguro-brazil-travel-guide/
+wordpress_id: 12815
 ---
 
 ## Porto Seguro: My favorite beach in the world

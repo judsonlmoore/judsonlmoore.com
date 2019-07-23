@@ -1,16 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2018-02-08 11:00:44+00:00
-excerpt: On my recent trip to Edinburgh, I kicked off my day with a free walking tour
-  of the city. The experience proved to be a great way to orient myself to the city
-  and to Scottish history. I took lots of photos and now share what I learned along
-  the way.
-layout: post
-link: https://www.judsonlmoore.com/edinburgh-free-walking-tour/
-slug: edinburgh-free-walking-tour
 title: Edinburgh Free Walking Tour
-wordpress_id: 18780
+date: 2018-02-08 11:00:44 Z
 categories:
 - Scotland
 tags:
@@ -18,6 +8,15 @@ tags:
 - travel guide
 - travel tips
 - walking tour
+author: judsonlmoore
+comments: true
+excerpt: On my recent trip to Edinburgh, I kicked off my day with a free walking tour
+  of the city. The experience proved to be a great way to orient myself to the city
+  and to Scottish history. I took lots of photos and now share what I learned along
+  the way.
+layout: post
+link: https://www.judsonlmoore.com/edinburgh-free-walking-tour/
+wordpress_id: 18780
 ---
 
 I am believing more and more that **the very best way to start any trip** is with a free walking tour. These tours are offered in many of the world's top destinations and are a great way to quickly orient yourself to the highlights a city has to offer. Most walking tours do not go inside of the sites, churches, and castles, but rather offer stories and a local's perspective on what makes the city unique. If you kick off a weekend trip with a free walking tour, then you will be well-equipped to spend the next days getting to know the city in greater detail on your own.

@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2005-02-07 05:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/sponsored-identity-cultural-policy-in-puerto-rico/
-slug: sponsored-identity-cultural-policy-in-puerto-rico
 title: 'Sponsored Identity: Cultural Policy in Puerto Rico'
-wordpress_id: 155
+date: 2005-02-07 05:00:00 Z
 categories:
 - College Papers
 tags:
 - Politics
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/sponsored-identity-cultural-policy-in-puerto-rico/
+wordpress_id: 155
 ---
 
 _Sponsored Identity: Cultural Policy in Puerto Rico,_ by Arlene Davilla, explores the current and historical context of Puerto Rico’s cultural identity, mostly as expressed through events and festivals.  The author explores the governments concern of the expanding presence of corporate sponsors and how they are affecting the traditional aspects of the nation and what problems this poses for some people.  The author lays out a significant and interesting combination of facts which revolve around how this influence is being regulated to stay within reasonable guidelines, and how it is affecting the festive scene of the nation.

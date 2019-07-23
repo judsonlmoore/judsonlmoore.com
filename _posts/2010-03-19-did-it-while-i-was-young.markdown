@@ -1,14 +1,13 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-03-19 07:39:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/did-it-while-i-was-young/
-slug: did-it-while-i-was-young
 title: Did It While I Was Young
-wordpress_id: 98
+date: 2010-03-19 07:39:00 Z
 categories:
 - Interests
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/did-it-while-i-was-young/
+wordpress_id: 98
 ---
 
 “Do it while your young.” I can’t tell you how many times I heard those words growing up. I heard them from family, friends, T.V., people I aspired to be like, and everywhere in between. I don’t know how many times it took hearing it before it sank in, but sink in it did!

@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-03-03 19:22:04+00:00
-excerpt: Living without a car is the new American dream established by Millennials
-  seeking a more efficient life. Here are the top cities where dreams come true.
-layout: post
-link: https://www.judsonlmoore.com/top-10-american-cities-living-without-car/
-slug: top-10-american-cities-living-without-car
 title: Top 10 American Cities for Living Without a Car in 2017
-wordpress_id: 5815
+date: 2017-03-03 19:22:04 Z
 categories:
 - Lifestyle
 tags:
@@ -18,6 +10,13 @@ tags:
 - top 10
 - transportation
 - walking
+author: judsonlmoore
+comments: true
+excerpt: Living without a car is the new American dream established by Millennials
+  seeking a more efficient life. Here are the top cities where dreams come true.
+layout: post
+link: https://www.judsonlmoore.com/top-10-american-cities-living-without-car/
+wordpress_id: 5815
 ---
 
 ## Living without a car in America: First Impressions

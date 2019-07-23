@@ -1,14 +1,13 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-08-31 14:03:16+00:00
-layout: post
-link: https://www.judsonlmoore.com/everything-i-own-right-here/
-slug: everything-i-own-right-here
 title: Everything I Own, Right Here.
-wordpress_id: 84
+date: 2010-08-31 14:03:16 Z
 categories:
 - Interests
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/everything-i-own-right-here/
+wordpress_id: 84
 ---
 
 ![](http://media.tumblr.com/tumblr_l80s5chiRn1qb60c5.jpg)

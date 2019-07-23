@@ -1,17 +1,16 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2005-12-02 08:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/
-slug: the-decision-that-saved-the-world-an-analysis-of-the
 title: 'The Decision that Saved the World:  An Analysis of the Decision-Making Process
   during the Cuban Missile Crisis'
-wordpress_id: 138
+date: 2005-12-02 08:00:00 Z
 categories:
 - College Papers
 tags:
 - Politics
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/
+wordpress_id: 138
 ---
 
 During the thirteen-day period from October 18-29, 1962, the world stood and watched as the United States and USSR nearly entered into a war which could have resulted in world-wide nuclear holocaust.  The end result of the showdown was the extraction of Soviet nuclear presence in Cuba in exchange for the removal of US nuclear weapons in Turkey and a continued quarantine against Cuba which is still in place to this day.  There were many events during this thirteen-day period which nearly set off a war but thanks to the diligent decisions made by both President John F. Kennedy and Russian Premier Khrushchev, nuclear war was avoided.

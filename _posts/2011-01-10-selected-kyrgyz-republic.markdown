@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2011-01-10 05:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/selected-kyrgyz-republic/
-slug: selected-kyrgyz-republic
 title: 'Selected: Kyrgyz Republic'
-wordpress_id: 70
+date: 2011-01-10 05:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/selected-kyrgyz-republic/
+wordpress_id: 70
 ---
 
 I was right! Kyrgyz Republic here I come!

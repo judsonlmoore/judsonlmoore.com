@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-03-17 22:07:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-spring-2012/
-slug: lsu-alumni-magazine-article-spring-2012
 title: LSU Alumni Magazine Article - Spring 2012
-wordpress_id: 6
+date: 2012-03-17 22:07:00 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - Peace Corps
 - Published
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-spring-2012/
+wordpress_id: 6
 ---
 
 Greetings Tiger Nation,

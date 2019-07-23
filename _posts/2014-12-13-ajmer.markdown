@@ -1,16 +1,15 @@
 ---
+title: Ajmer and a 1000 Year Old Manmade Lake in Rajasthan
+date: 2014-12-13 07:46:03 Z
+categories:
+- India
 author: judsonlmoore
 comments: true
-date: 2014-12-13 07:46:03+00:00
 excerpt: 'After arriving to Rajasthan India we stopped first in Ajmer to charge our
   batteries and see one of the world''s oldest manmade structures. '
 layout: post
 link: https://www.judsonlmoore.com/ajmer/
-slug: ajmer
-title: Ajmer and a 1000 Year Old Manmade Lake in Rajasthan
 wordpress_id: 3066
-categories:
-- India
 ---
 
 ## Arriving to Ajmer

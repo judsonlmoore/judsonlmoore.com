@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2011-03-24 20:10:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/i-have-arrived-at-staging/
-slug: i-have-arrived-at-staging
 title: I have Arrived at Staging
-wordpress_id: 65
+date: 2011-03-24 20:10:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/i-have-arrived-at-staging/
+wordpress_id: 65
 ---
 
 I have safely arrived to the Staging hotel in Philadelphia (room 542 if you are nearby!) I don't have anything scheduled until tomorrow at noon. From there, the schedule is head spinning! The staging event will last for 7 hours tomorrow afternoon. Presumably there will be free time in the evening to get to know my new colleagues and friends.

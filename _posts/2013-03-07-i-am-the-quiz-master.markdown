@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2013-03-07 15:00:59+00:00
-layout: post
-link: https://www.judsonlmoore.com/i-am-the-quiz-master/
-slug: i-am-the-quiz-master
 title: I Am The Quiz Master
-wordpress_id: 2139
+date: 2013-03-07 15:00:59 Z
 categories:
 - Peace Corps
 tags:
@@ -15,6 +9,11 @@ tags:
 - Interests
 - Kyrgyzstan
 - Trivia
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/i-am-the-quiz-master/
+wordpress_id: 2139
 ---
 
 Last night I was the quiz master at my favorite local quiz night in Bishkek. We had a great turnout of 30 people consisting of locals, foreigners and all ages and professions. This weekly quiz night is a relaxed place to have fun and learning something new. This was my first time to be the quiz master and I am pretty happy with the questions I came up with so I thought I would share them with you. Pay attention to number 11-20; those are about Kyrgyzstan.

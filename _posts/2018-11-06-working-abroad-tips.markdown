@@ -1,16 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2018-11-06 20:07:05+00:00
-excerpt: People have been asking me a lot lately for tips for how to find a job in
-  Germany. Now that I have been working in Germany for more than two years, I have
-  identified a few universal truths that I believe will help anyone who is seeking
-  employment abroad.
-layout: post
-link: https://www.judsonlmoore.com/working-abroad-tips/
-slug: working-abroad-tips
 title: Tips for how to successfully find work abroad as an American
-wordpress_id: 19238
+date: 2018-11-06 20:07:05 Z
 categories:
 - Career
 tags:
@@ -18,6 +8,15 @@ tags:
 - inspiration
 - interview
 - whileyoung
+author: judsonlmoore
+comments: true
+excerpt: People have been asking me a lot lately for tips for how to find a job in
+  Germany. Now that I have been working in Germany for more than two years, I have
+  identified a few universal truths that I believe will help anyone who is seeking
+  employment abroad.
+layout: post
+link: https://www.judsonlmoore.com/working-abroad-tips/
+wordpress_id: 19238
 featured: true
 hidden: true
 image: https://cdn.judsonlmoore.com/uploads/2018/11/18114712/working-abroad-tips-featured-image.jpg

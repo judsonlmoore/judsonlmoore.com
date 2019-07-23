@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2015-11-30 02:30:23+00:00
-excerpt: After living for two years in Kyrgyzstan, I have some pro tips for how your
-  next Central Asian adventure can be the top experience of a lifetime.
-layout: post
-link: https://www.judsonlmoore.com/travel-advice-kyrgyzstan/
-slug: travel-advice-kyrgyzstan
 title: Kyrgyzstan Travel Guide and 2-Week Itinerary Recommendation
-wordpress_id: 4415
+date: 2015-11-30 02:30:23 Z
 categories:
 - Kyrgyzstan
 tags:
@@ -16,6 +8,13 @@ tags:
 - advice
 - Kyrgyzstan
 - Travel
+author: judsonlmoore
+comments: true
+excerpt: After living for two years in Kyrgyzstan, I have some pro tips for how your
+  next Central Asian adventure can be the top experience of a lifetime.
+layout: post
+link: https://www.judsonlmoore.com/travel-advice-kyrgyzstan/
+wordpress_id: 4415
 ---
 
 I've done a lot of sharing my experience in Kyrgyzstan and I often find myself repeating my travel advice for the country. Where to go? What to see? Who to meet? So I have decided to put together a sample itinerary. This is designed for someone who has limited time in the country, just 1-2 weeks. Of course, I was here for two years and I think there is no such thing as a "maximum" amount of time you should spend in one location, but the reality is that most of you will have to budget your time.

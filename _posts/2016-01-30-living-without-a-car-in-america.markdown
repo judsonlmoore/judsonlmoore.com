@@ -1,18 +1,17 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2016-01-30 17:44:26+00:00
-excerpt: Living without a car in America may seem unpatriotic or even impossible,
-  but with these basic tips, you too can live a blissful and car-free life!
-layout: post
-link: https://www.judsonlmoore.com/living-without-a-car-in-america/
-slug: living-without-a-car-in-america
 title: Living Without A Car in America
-wordpress_id: 277
+date: 2016-01-30 17:44:26 Z
 categories:
 - Lifestyle
 tags:
 - whileyoung
+author: judsonlmoore
+comments: true
+excerpt: Living without a car in America may seem unpatriotic or even impossible,
+  but with these basic tips, you too can live a blissful and car-free life!
+layout: post
+link: https://www.judsonlmoore.com/living-without-a-car-in-america/
+wordpress_id: 277
 ---
 
 After living abroad for a few years, I found myself coming home to America for a new job. I was headed to Texas, home of big trucks and vast expanses between places. I thought to myself that the first order of business would be to purchase a new vehicle, seeing as how I didn't own one at the time. On arrival, the guy who hired me offered me a challenge: try living without a car for 30 days; if you hate it, buy a vehicle. I took his challenge and am happy to report that three years later, I am still blissfully living without a car!

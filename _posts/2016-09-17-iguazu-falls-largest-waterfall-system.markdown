@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2016-09-17 11:49:24+00:00
-excerpt: 'In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one
-  of the grandest natural wonders in the world, the Iguazu Falls. '
-layout: post
-link: https://www.judsonlmoore.com/iguazu-falls-largest-waterfall-system/
-slug: iguazu-falls-largest-waterfall-system
 title: The Iguazu Falls Are More Than The World's Largest Waterfall System
-wordpress_id: 5365
+date: 2016-09-17 11:49:24 Z
 categories:
 - Brazil
 tags:
@@ -16,6 +8,13 @@ tags:
 - brazil
 - travel guide
 - waterfalls
+author: judsonlmoore
+comments: true
+excerpt: 'In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one
+  of the grandest natural wonders in the world, the Iguazu Falls. '
+layout: post
+link: https://www.judsonlmoore.com/iguazu-falls-largest-waterfall-system/
+wordpress_id: 5365
 ---
 
 ## Iguazu Falls Recap

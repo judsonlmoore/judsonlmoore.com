@@ -1,20 +1,19 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-09-11 05:18:20+00:00
-excerpt: 'After a 3-year hiatus I am back on wheels with this great Giant ATX 770
-  that I found in Bishkek, Kyrgyzstan! Here are the tech specs and photos. '
-layout: post
-link: https://www.judsonlmoore.com/giant-atx-770/
-slug: giant-atx-770
 title: Giant ATX 770 Mountain Bike Technical Specifications
-wordpress_id: 556
+date: 2012-09-11 05:18:20 Z
 categories:
 - Interests
 tags:
 - Adventure
 - Biking
 - toys
+author: judsonlmoore
+comments: true
+excerpt: 'After a 3-year hiatus I am back on wheels with this great Giant ATX 770
+  that I found in Bishkek, Kyrgyzstan! Here are the tech specs and photos. '
+layout: post
+link: https://www.judsonlmoore.com/giant-atx-770/
+wordpress_id: 556
 ---
 
 After a 3-year hiatus beginning when I moved off to London and had a massive sell-off of all my possessions, I am back on wheels with this great bike I found in Bishkek. This used Giant ATX 770 has a few upgraded components and rides great. The price? Well, let's call it an even trade for my 1st Gen iPad That I sold last week. The iPad wasn't getting much use and certainly was not promoting my health. I think the trade is a good one. The real challenge will come in a few weeks when the temperatures start to drop. Will I have the strength to ride during winter? We will see...

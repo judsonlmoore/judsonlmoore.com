@@ -1,14 +1,13 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2015-11-23 04:42:52+00:00
-layout: post
-link: https://www.judsonlmoore.com/shafik-gabr-2015-fellowship-notes/
-slug: shafik-gabr-2015-fellowship-notes
 title: 'Shafik Gabr''s 2015 East-West: The Art of Dialogue Fellowship Notes'
-wordpress_id: 5183
+date: 2015-11-23 04:42:52 Z
 categories:
 - Egypt
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/shafik-gabr-2015-fellowship-notes/
+wordpress_id: 5183
 ---
 
 ## M. Shafik Gabr and his Foundation

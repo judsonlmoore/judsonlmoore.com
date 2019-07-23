@@ -1,17 +1,25 @@
-# Site
-name: "Judson L Moore"
-title: "American Author and travel addict."
-description: "Travel guides and inspiration to follow your dreams and do it while you're young, from author and travel addict, Judson L Moore."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.png'
+---
+title: American Author and travel addict.
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Judson L Moore
+description: Travel guides and inspiration to follow your dreams and do it while you're
+  young, from author and travel addict, Judson L Moore.
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
 baseurl: ''
-google_analytics: 'UA-12358141-4'
-disqus: 'judsonlmoore'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
-permalink: /:title/
-
-# Authors
+google_analytics: UA-12358141-4
+disqus: judsonlmoore
+mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
+include:
+- _pages
+permalink: "/:title/"
 authors:
   sal:
     name: judsonlmoore
@@ -20,44 +28,39 @@ authors:
     email: judson@judsonlmoore.com
     web: https://www.judsonlmoore.com
     twitter: https://twitter.com/judsonlmoore
-    description: "I didn’t have many extraordinary advantages growing up, but what I did have was the encouragement of those older than me saying, “do it while you’re young.” One day, when I was 17, that advice stuck and I started traveling the world. I haven’t stopped and now half a lifetime later, I want to tell the world what I’ve learned and how YOU can live an adventurous and prosperous life!"
-
-# Plugins
+    description: I didn’t have many extraordinary advantages growing up, but what
+      I did have was the encouragement of those older than me saying, “do it while
+      you’re young.” One day, when I was 17, that advice stuck and I started traveling
+      the world. I haven’t stopped and now half a lifetime later, I want to tell the
+      world what I’ve learned and how YOU can live an adventurous and prosperous life!
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
 jekyll-archives:
   enabled:
-    - categories
+  - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
+    category: "/category/:name/"
 paginate: 6
-paginate_path: /page:num/
-    
-# Other
+paginate_path: "/page:num/"
 markdown: kramdown
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
       line_numbers: true
-
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+adsense: disabled
+adsense-data-ad-client: ca-pub-3412143450191416
+adsense-data-ad-slot: '1363087678'
+lazyimages: enabled
+exclude:
+- changelog.md
+- LICENSE.txt
+- README.md
+- Gemfile
+- Gemfile.lock

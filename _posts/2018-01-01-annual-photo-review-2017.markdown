@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2018-01-01 21:08:48+00:00
-excerpt: Happy New Year! 2017 was my most traveled year to-date, full of all sorts
-  of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
-layout: post
-link: https://www.judsonlmoore.com/annual-photo-review-2017/
-slug: annual-photo-review-2017
 title: My most traveled year. A photo review of 2017.
-wordpress_id: 18623
+date: 2018-01-01 21:08:48 Z
 categories:
 - blog
 tags:
@@ -17,6 +9,13 @@ tags:
 - Hiking
 - Holiday
 - Kyrgyzstan
+author: judsonlmoore
+comments: true
+excerpt: Happy New Year! 2017 was my most traveled year to-date, full of all sorts
+  of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
+layout: post
+link: https://www.judsonlmoore.com/annual-photo-review-2017/
+wordpress_id: 18623
 ---
 
 ## **2017 was a whirlwind year**

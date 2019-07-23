@@ -1,18 +1,17 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2016-03-28 18:03:34+00:00
-excerpt: Rajasthan India is a magical wonderland of castles, camels and amazing food!
-  Check out these tips for places to stay, things to do and how to get around!
-layout: post
-link: https://www.judsonlmoore.com/travel-advice-rajasthan-india/
-slug: travel-advice-rajasthan-india
 title: Travel Advice To Rajasthan India
-wordpress_id: 4624
+date: 2016-03-28 18:03:34 Z
 categories:
 - India
 tags:
 - whileyoung
+author: judsonlmoore
+comments: true
+excerpt: Rajasthan India is a magical wonderland of castles, camels and amazing food!
+  Check out these tips for places to stay, things to do and how to get around!
+layout: post
+link: https://www.judsonlmoore.com/travel-advice-rajasthan-india/
+wordpress_id: 4624
 ---
 
 Rajasthan India is one of the most sought after destinations in the world. This dusty desert plain is a throwback to a more magical time when sultans ruled and where the unbelievable power of mystics can still be felt today.

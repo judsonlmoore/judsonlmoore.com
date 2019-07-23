@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-10-07 22:38:22+00:00
-excerpt: In celebration of construction beginning at the new Mutual Mobile office
-  in Hyderabad, the builders organized a puja to be performed.
-layout: post
-link: https://www.judsonlmoore.com/mutual-mobile-puja/
-slug: mutual-mobile-puja
 title: Mutual Mobile Receives High Blessings In Hyderabad
-wordpress_id: 2903
+date: 2014-10-07 22:38:22 Z
 categories:
 - Mutual Mobile
 tags:
@@ -17,6 +9,13 @@ tags:
 - India
 - Mutual Mobile
 - Puja
+author: judsonlmoore
+comments: true
+excerpt: In celebration of construction beginning at the new Mutual Mobile office
+  in Hyderabad, the builders organized a puja to be performed.
+layout: post
+link: https://www.judsonlmoore.com/mutual-mobile-puja/
+wordpress_id: 2903
 ---
 
 ## Blessings For Mutual Mobile Hyderabad

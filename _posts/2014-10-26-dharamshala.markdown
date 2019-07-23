@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-10-26 13:45:18+00:00
-excerpt: Dharamshala is the refuge of the Tibetan people in India. Hospitality shines
-  through their acts, their stories, and their business ethics.
-layout: post
-link: https://www.judsonlmoore.com/dharamshala/
-slug: dharamshala
 title: Dharamshala is Home To The Dalai Lama and This Wonderful Shopkeeper
-wordpress_id: 3060
+date: 2014-10-26 13:45:18 Z
 categories:
 - India
 tags:
@@ -18,6 +10,13 @@ tags:
 - Mountains
 - Travel
 - Trekking
+author: judsonlmoore
+comments: true
+excerpt: Dharamshala is the refuge of the Tibetan people in India. Hospitality shines
+  through their acts, their stories, and their business ethics.
+layout: post
+link: https://www.judsonlmoore.com/dharamshala/
+wordpress_id: 3060
 ---
 
 ## Dharamshala

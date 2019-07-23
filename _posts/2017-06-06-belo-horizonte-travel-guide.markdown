@@ -1,20 +1,19 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-06-06 10:09:12+00:00
-excerpt: Discover the best things to do with this Belo Horizonte travel guide, including
-  panoramic views, the metal museum, majestic parks, and the best steakhouse.
-layout: post
-link: https://www.judsonlmoore.com/belo-horizonte-travel-guide/
-slug: belo-horizonte-travel-guide
 title: Belo Horizonte is a historic and cultural capital of Brazil
-wordpress_id: 12728
+date: 2017-06-06 10:09:12 Z
 categories:
 - Brazil
 tags:
 - brazil
 - South America
 - travel guide
+author: judsonlmoore
+comments: true
+excerpt: Discover the best things to do with this Belo Horizonte travel guide, including
+  panoramic views, the metal museum, majestic parks, and the best steakhouse.
+layout: post
+link: https://www.judsonlmoore.com/belo-horizonte-travel-guide/
+wordpress_id: 12728
 ---
 
 ## Belo Horizonte Travel Guide

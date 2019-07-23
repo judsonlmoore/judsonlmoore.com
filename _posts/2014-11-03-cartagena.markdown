@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-11-03 08:34:38+00:00
-excerpt: Cartagena is a historic city on the Caribbean coast of Colombia full of culture,
-  music, seafood and great times for great people!
-layout: post
-link: https://www.judsonlmoore.com/cartagena/
-slug: cartagena
 title: 'Cartagena: A Historical Tour Through Colombia''s Magnificent Port'
-wordpress_id: 3001
+date: 2014-11-03 08:34:38 Z
 categories:
 - Colombia
 tags:
@@ -18,6 +10,13 @@ tags:
 - RYE
 - South America
 - Travel
+author: judsonlmoore
+comments: true
+excerpt: Cartagena is a historic city on the Caribbean coast of Colombia full of culture,
+  music, seafood and great times for great people!
+layout: post
+link: https://www.judsonlmoore.com/cartagena/
+wordpress_id: 3001
 ---
 
 I am so excited to tell you about the stunning and fun city of Cartagena! If you have some tips to add, please do so in the comments below or by messaging me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).

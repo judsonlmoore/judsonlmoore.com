@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-09-29 04:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/application-submitted/
-slug: application-submitted
 title: Application Submitted!
-wordpress_id: 80
+date: 2010-09-29 04:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/application-submitted/
+wordpress_id: 80
 ---
 
 Ok so not much of an update here.  It took me weeks to do what I could have really done in a few hours or days at most.  Darn those essays!

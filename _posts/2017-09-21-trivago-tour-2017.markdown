@@ -1,24 +1,23 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-09-21 16:43:54+00:00
-excerpt: The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about
-  the surprise concerts, unknown destinations, and jumping with moose!
-layout: post
-link: https://www.judsonlmoore.com/trivago-tour-2017/
-slug: trivago-tour-2017
 title: 'trivago On Tour: Cruise 2017 to Norway and Denmark'
-wordpress_id: 18195
+date: 2017-09-21 16:43:54 Z
 categories:
 - Denmark
 - Norway
 tags:
-- '#lifeattrivago'
+- "#lifeattrivago"
 - copenhagen
 - denmark
 - norway
 - Road Trip
 - travel tale
+author: judsonlmoore
+comments: true
+excerpt: The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about
+  the surprise concerts, unknown destinations, and jumping with moose!
+layout: post
+link: https://www.judsonlmoore.com/trivago-tour-2017/
+wordpress_id: 18195
 ---
 
 _The opinions expressed in this article are my own and not the views of my employer._

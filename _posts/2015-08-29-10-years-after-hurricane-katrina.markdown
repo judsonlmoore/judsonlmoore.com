@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2015-08-29 17:54:54+00:00
-excerpt: On the 10 year anniversary of Hurricane Katrina, I reflect on how that was
-  a pivotal moment when the trajectory of my life changed.
-layout: post
-link: https://www.judsonlmoore.com/10-years-after-hurricane-katrina/
-slug: 10-years-after-hurricane-katrina
 title: How Hurricane Katrina Changed My Life 10 Years Later
-wordpress_id: 3659
+date: 2015-08-29 17:54:54 Z
 categories:
 - American Red Cross
 tags:
@@ -16,6 +8,13 @@ tags:
 - Disaster
 - Hurricane Katrina
 - Memories
+author: judsonlmoore
+comments: true
+excerpt: On the 10 year anniversary of Hurricane Katrina, I reflect on how that was
+  a pivotal moment when the trajectory of my life changed.
+layout: post
+link: https://www.judsonlmoore.com/10-years-after-hurricane-katrina/
+wordpress_id: 3659
 ---
 
 _Photo Credit: From _[LSU: In The Eye of The Storm](https://www.judsonlmoore.com/get/lsu-in-the-eye-of-the-storm/)

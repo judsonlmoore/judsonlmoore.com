@@ -1,17 +1,20 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2018-08-21 20:35:07+00:00
-description: I was honored with the opportunity to headline the bi-annual trivagoVibe this summer at the global headquarters for the hotel metasearch website (and my employer), in Düsseldorf Germany. This concert consists of trivago's greatest musical talent, and there is a lot of it! In this article, I write about how I got involved, what happened on the day of the show, and you can also check out a video of my performance!
-layout: post
-link: https://www.judsonlmoore.com/trivagovibe-summer-2018/
-slug: trivagovibe-summer-2018
 title: DRUMSON performs live at the trivagoVibe in Düsseldorf
-wordpress_id: 19185
+date: 2018-08-21 20:35:07 Z
 categories:
 - Music
 tags:
-- '#lifeattrivago'
+- "#lifeattrivago"
+author: judsonlmoore
+comments: true
+description: I was honored with the opportunity to headline the bi-annual trivagoVibe
+  this summer at the global headquarters for the hotel metasearch website (and my
+  employer), in Düsseldorf Germany. This concert consists of trivago's greatest musical
+  talent, and there is a lot of it! In this article, I write about how I got involved,
+  what happened on the day of the show, and you can also check out a video of my performance!
+layout: post
+link: https://www.judsonlmoore.com/trivagovibe-summer-2018/
+wordpress_id: 19185
 image: https://cdn.judsonlmoore.com/uploads/2018/08/18114740/trivagoVibe-Summer-2018-007.jpg
 ---
 

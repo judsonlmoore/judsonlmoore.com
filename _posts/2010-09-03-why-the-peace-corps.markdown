@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-09-03 04:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/why-the-peace-corps/
-slug: why-the-peace-corps
 title: Why The Peace Corps?
-wordpress_id: 82
+date: 2010-09-03 04:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/why-the-peace-corps/
+wordpress_id: 82
 ---
 
 Having grown up in a politically-charged family I always took politics and matters of great concern with a grain of salt. It was not until my return from a year in Germany as a Rotary Youth Exchange Student that I started to have a greater appreciation for the world around me. Exactly one year later I returned from a 6-month trip to Brazil. As my mother says, "Germany opened my eyes to the world and Brazil opened my eyes to myself."

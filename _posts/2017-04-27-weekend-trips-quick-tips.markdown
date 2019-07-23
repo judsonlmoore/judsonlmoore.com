@@ -1,14 +1,6 @@
 ---
-author: jenniferchang
-comments: true
-date: 2017-04-27 05:17:34+00:00
-excerpt: Weekend trips are often times the best trips. Guest author Jennifer Chang
-  shares tips for how to make your weekend trips spontaneous and full of adventure.
-layout: post
-link: https://www.judsonlmoore.com/weekend-trips-quick-tips/
-slug: weekend-trips-quick-tips
 title: 'Weekend Trips: Quick Tips for the Jetsetter and Novice Traveler Alike'
-wordpress_id: 12378
+date: 2017-04-27 05:17:34 Z
 categories:
 - Female Travel
 tags:
@@ -16,6 +8,13 @@ tags:
 - guest author
 - packing list
 - travel tips
+author: jenniferchang
+comments: true
+excerpt: Weekend trips are often times the best trips. Guest author Jennifer Chang
+  shares tips for how to make your weekend trips spontaneous and full of adventure.
+layout: post
+link: https://www.judsonlmoore.com/weekend-trips-quick-tips/
+wordpress_id: 12378
 ---
 
 So this is kind of a comprehensive mini-guide to traveling, inspired by my travels around Southeast Asia. These are the best tips and tricks for quick, easy, and affordable travel; good for everything from studying abroad to weekend trips and road-tripping around your state. Special thanks to[ Michelle](https://www.instagram.com/michelleparkerrr/),[ Annie](https://www.instagram.com/anniemalstylefries/),[ Britt](http://brittanyvinh.com), and[ Eileen](https://www.instagram.com/eileeeenc/) for contributing ♥ you guys are great.
