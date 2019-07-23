@@ -1,6 +1,15 @@
 ---
+author: judsonlmoore
+comments: true
+date: 2018-08-27T10:00:17.000+00:00
+excerpt: Wadi Rum is a majestic out of this world landscape in the south of Jordan.
+  Learn about the jeep tours, camel safaris, ancient human origins and more before
+  you visit this incredible place.
+layout: post
+link: https://www.judsonlmoore.com/wadi-rum-jordan-destination-guide/
+slug: wadi-rum-jordan-destination-guide
 title: 'Mars on Earth: The Wadi Rum Desert in Jordan'
-date: 2018-08-27 10:00:17 Z
+wordpress_id: "19010"
 categories:
 - Jordan
 tags:
@@ -9,16 +18,8 @@ tags:
 - Safari
 - tours
 - travel guide
-author: judsonlmoore
-comments: true
-excerpt: Wadi Rum is a majestic out of this world landscape in the south of Jordan.
-  Learn about the jeep tours, camel safaris, ancient human origins and more before
-  you visit this incredible place.
-layout: post
-link: https://www.judsonlmoore.com/wadi-rum-jordan-destination-guide/
-wordpress_id: 19010
----
 
+---
 ## Wadi Rum's Hollywood Fame and Tourism
 
 
@@ -32,11 +33,6 @@ Getting to Wadi Rum is actually a lot easier than you might suspect. If you are 
 
 ## Wadi Rum In a Nutshell
 
-
-
-
-
- 	
   * **Highlights -** Breathtaking views unlike anything else you can see. Even though it is a desert, there are some historical markers and interesting stories to walk in the footsteps of. Great hospitality from the locals.
 
  	
