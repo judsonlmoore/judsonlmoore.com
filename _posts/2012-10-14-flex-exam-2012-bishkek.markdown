@@ -1,0 +1,24 @@
+---
+author: judsonlmoore
+comments: true
+date: 2012-10-14 12:46:46+00:00
+layout: post
+link: https://www.judsonlmoore.com/flex-exam-2012-bishkek/
+slug: flex-exam-2012-bishkek
+title: FLEX Exam 2012 Bishkek
+wordpress_id: 1828
+categories:
+- Peace Corps
+tags:
+- ACCELS
+- Bishkek
+- FLEX
+- Kyrgyzstan
+- Testing
+---
+
+I was asked to help proctor the FLEX exam this year in Bishkek. Here is a snippet about the program from the FLEX Website:
+
+The Future Leaders Exchange (FLEX) Program is a US government-sponsored program for secondary school students from the 11 republics of the former Soviet Union (Eurasia). The program provides scholarship funding for students to travel to the United States, attend a US high school for a full academic year, and live with a US host family. FLEX was established in 1992 as the centerpiece of the Eurasian Secondary School Initiative under the FREEDOM Support Act. Funding is provided by the US Department of State. The goal of the program is to provide the students with experience living in a democratic society for the purpose of promoting democratic values and institutions throughout Eurasia. FLEX celebrated its 10th anniversary in 2002. Since the program’s founding, more than 17,000 students have been awarded scholarships. _[read more...](http://www.americancouncils.kg/flex.html)_
+
+[gallery link="file" ids="1829,1830,1838,1831,1832,1833,1834,1835,1836,1837,1839,1840,1841"]

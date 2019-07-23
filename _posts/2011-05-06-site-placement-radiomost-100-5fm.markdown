@@ -1,0 +1,26 @@
+---
+author: judsonlmoore
+comments: true
+date: 2011-05-06 00:11:10+00:00
+layout: post
+link: https://www.judsonlmoore.com/site-placement-radiomost-100-5fm/
+slug: site-placement-radiomost-100-5fm
+title: 'Site Placement: Radiomost 100.5FM'
+wordpress_id: 43
+categories:
+- Peace Corps
+tags:
+- Kyrgyzstan
+- Peace Corps
+- Talas
+---
+
+The NGO I will be working for is call Radiomost. I have not been given very much information from the PC about this organization but after some Google searches I found the articles below.
+
+[http://www.unesco.kz/ci/projects/2004/talas/report_cmc_talas_2004.pdf](http://www.unesco.kz/ci/projects/2004/talas/report_cmc_talas_2004.pdf)
+
+This seems to be a rewritten version of the first article but has some extra detail
+[http://www.unesco.kz/?lang=&newsid=2049&menu=&keyword=](http://www.unesco.kz/?lang=&newsid=2049&menu=&keyword=)
+
+Twitter!
+[http://twitter.com/radiomost](http://twitter.com/radiomost)

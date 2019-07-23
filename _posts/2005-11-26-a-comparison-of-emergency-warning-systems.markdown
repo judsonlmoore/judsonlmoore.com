@@ -1,0 +1,44 @@
+---
+author: judsonlmoore
+comments: true
+date: 2005-11-26 08:00:00+00:00
+layout: post
+link: https://www.judsonlmoore.com/a-comparison-of-emergency-warning-systems/
+slug: a-comparison-of-emergency-warning-systems
+title: A Comparison of Emergency Warning Systems
+wordpress_id: 140
+categories:
+- College Papers
+---
+
+In a November 2000 report published by the executive Subcommittee on Natural Disaster Reduction, about _Natural Disaster Information Systems_, three different major disaster warning systems and their relative application and effectiveness were discussed.  These three were the NOAA Weather Radio, the Emergency Alert System, and GPS technology.
+
+
+
+
+The NOAA Weather Radio is one of the few broad-range warning systems which is exclusively government controlled and owned.  This system works by broadcasting a four to six minute long warning about weather hazards in certain area, and the looping it so that anyone can tune in and get the warning at anytime.  This radio network is a currently available in 90% of the United States, but is hindered by the fact that one must own a specific type of radio to decode its signal.  One of the implications this executive committee would like to see happen is that all radios be made compatible with the NOAA signal so that anyone can receive warnings from any radio, at anytime. Although the NOAA radio decoder can be purchased inexpensively, many people do not own one, and do not listen to it constantly waiting for a warning.  Doing this would enable many more people to be reached in times of danger.  One further hope of the committee is that the system could be made ‘smart’, so that radios could decipher your location in relation to the pinpointed location of the threat, and let you know which direction and what distance the threat is from you.
+
+
+
+
+            So why is the NOAA system one of the few exclusively government owned and operated systems?  The answer is quite obvious, and that is the cost of communications networks.  There are so many networks already in place, to build another, new one, would be both extremely expensive, and take a long time to create.  For this reason, many warning systems are broadcast through privately owned networks like television and radio, but also include the internet, paging systems, cellular networks, and several others.  This public/private partnership is generally a good situation because the private industry has an interest in taking care of its customers, but can not originate a warning due to liability issues.  Allowing the government to issue warnings, and then having them communicated over the private networks, allows for private interests to be protected from liability issues, warns everybody’s constituents, and is cost-effective for the government.
+
+
+
+
+            The Emergency Alert System (EAS) is one example of these public/private partnerships.  The EAS’s main purpose is to allow a nation-wide level of communication for the President of the United States to communicate with the nation in times of need.  Rarely is it the President who actually uses this system however.  More typically, this system is used to issue warnings about dangerous weather on television and radio stations.  The Federal Communications Commission (FCC) mandates that all radio and television stations be equipped with EAS deciphers and broadcasters.  The system works by automatically interrupting any signal produced from the station and transmitting instead a signal which is produced from NOAA or other governmental agency.
+
+
+
+
+One problem with this system is that it is not selective in who it reaches.  If a television or radio station broadcasts over a huge area, the warning may only need to be received by a small percent of the listeners, but everybody hears it.  There is a great concern with creating too much apathy by using this system too much when there isn’t a huge are that needs to get the message because of the fear that people will stop paying attention to the warnings when they never experience a reason for it in the end.
+
+
+
+
+            Global Positioning Satellite (GPS) systems are becoming more and more effective and available for use of a broad scope of applications.  Many businesses are starting to be able to afford this technology and use it as a means to track vehicle positions for example in freight and trucking companies.  Geologists and Meteorologists can use GPS to determine changes in geographical features, like water levels along the coast during a hurricane, or shifts in land masses during earthquakes.  Being able to determine the position of flood planes in respect to where hurricanes make landfall is important in being able to accurately predict who is going to be at the most risk of flooding.  GPS has a very broad scope of applications and can be useful to determine the location and movement of virtually anything at a real-time basis.
+
+
+
+
+During the incident of a chemical spill, there are three common scenarios.  Either the spill is in a factory or plant (point or origin) where there is specialized staff and equipment to deal with the situation, or in transit by water or roadway.  If a chemical spill occurs within a production or refinery facility, there is a rehearsed procedure for how to deal with the problem, and everyone in the area knows how to play out there roll.  If the chemical spill occurs at sea, the warning needs to go out to the coast guard, and appropriate governments in the affected area.  People should be taken off of beaches, and the waterway quarantined from civilian and non-rescue boats.  If the incident occurs on a roadway, things get much more complicated.  Here, you are dealing with people who are unfamiliar with procedures and hazards, and are not equipped to safely be in close proximity to them.  Roadways often are very busy with motorists and interrupting the flow of traffic opens up another set of hazards which come along with traffic jams.  To warn these people about what hazards are on the road way, it is best to employ local radio stations to make traffic alerts, send out alerts on CB-Radios, so that commercial truckers whose’ cargo may also be hazardous, may try to avoid the area.  Most important is to get the message to just the people in the immediate area, and the people who may be coming to that area.  This could most effectively be accomplished by using RBDS systems at the incident scene, which can transmit warnings with a range of just a mile or fraction of a mile, depending on what may be most appropriate.
