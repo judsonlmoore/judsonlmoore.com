@@ -21,8 +21,7 @@ wordpress_id: 18018
 
 Please listen, share, and comment below with your thoughts!
 
-
-
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5706524/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ## Show Notes
 
