@@ -1,19 +1,18 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-09-30 10:11:10+00:00
-excerpt: Giving thanks has a range of benefits from making you feel better to making
-  the world a better place. Learn more and take the thanksgiving challenge.
-layout: post
-link: https://www.judsonlmoore.com/giving-thanks/
-slug: giving-thanks
 title: 5 Reasons Why Giving Thanks is Good For You
-wordpress_id: 18256
+date: 2017-09-30 10:11:10 Z
 categories:
 - Lifestyle
 tags:
 - inspiration
 - whileyoung
+author: judsonlmoore
+comments: true
+excerpt: Giving thanks has a range of benefits from making you feel better to making
+  the world a better place. Learn more and take the thanksgiving challenge.
+layout: post
+link: https://www.judsonlmoore.com/giving-thanks/
+wordpress_id: 18256
 ---
 
 ## Why should we give thanks?

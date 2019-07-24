@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-06-29 06:42:03+00:00
-layout: post
-link: https://www.judsonlmoore.com/radiomost-office/
-slug: radiomost-office
 title: Radiomost Office
-wordpress_id: 791
+date: 2012-06-29 06:42:03 Z
 categories:
 - Peace Corps
 tags:
@@ -14,6 +8,11 @@ tags:
 - Peace Corps
 - RadioMost
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/radiomost-office/
+wordpress_id: 791
 ---
 
 Here is the office and colleagues from my first site in Talas City, [RadioMost](https://www.judsonlmoore.com/radiomost-office/).

@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2011-03-27 11:34:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/in-route-to-the-kyrgyz-republic/
-slug: in-route-to-the-kyrgyz-republic
 title: In Route to the Kyrgyz Republic
-wordpress_id: 61
+date: 2011-03-27 11:34:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/in-route-to-the-kyrgyz-republic/
+wordpress_id: 61
 ---
 
 We are in route to Istanbul, Delta Flight 75 from JFK.  The in flight film was The Kings Speech.  Brilliant!  I am so glad to have seen it  It was on the top of my list of movies to see before I left the country and I never had the time for it.  Just goes to show that things tend to work out if you just trust the system.

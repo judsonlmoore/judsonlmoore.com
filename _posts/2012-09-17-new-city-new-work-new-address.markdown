@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-09-17 20:21:04+00:00
-excerpt: I am moving To Bishkek, Kyrgyzstan to continue to the next step of my Peace
-  Corps Service. Get all of my new details and learn about my new project here.
-layout: post
-link: https://www.judsonlmoore.com/new-city-new-work-new-address/
-slug: new-city-new-work-new-address
 title: 'Moving To Bishkek: New City. New Work. New Address.'
-wordpress_id: 734
+date: 2012-09-17 20:21:04 Z
 categories:
 - Peace Corps
 tags:
@@ -17,6 +9,13 @@ tags:
 - Kyrgyzstan
 - Peace Corps
 - Site Change
+author: judsonlmoore
+comments: true
+excerpt: I am moving To Bishkek, Kyrgyzstan to continue to the next step of my Peace
+  Corps Service. Get all of my new details and learn about my new project here.
+layout: post
+link: https://www.judsonlmoore.com/new-city-new-work-new-address/
+wordpress_id: 734
 ---
 
 ## I Am Moving To Bishkek

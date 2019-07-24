@@ -1,17 +1,16 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2011-06-29 20:53:02+00:00
-layout: post
-link: https://www.judsonlmoore.com/%d0%b6%d0%b0%d1%82%d1%81%d0%be%d0%bd-%d0%b4%d0%be%d1%81%d0%ba%d0%be-%d1%82%d0%b0%d0%bc%d0%b0%d1%88%d0%b0/
-slug: '%d0%b6%d0%b0%d1%82%d1%81%d0%be%d0%bd-%d0%b4%d0%be%d1%81%d0%ba%d0%be-%d1%82%d0%b0%d0%bc%d0%b0%d1%88%d0%b0'
 title: Жатсон доско тамаша!
-wordpress_id: 21
+date: 2011-06-29 20:53:02 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/%d0%b6%d0%b0%d1%82%d1%81%d0%be%d0%bd-%d0%b4%d0%be%d1%81%d0%ba%d0%be-%d1%82%d0%b0%d0%bc%d0%b0%d1%88%d0%b0/
+wordpress_id: 21
 ---
 
 For my birthday, the Press Secretary to the Governor of Talas State wrote me

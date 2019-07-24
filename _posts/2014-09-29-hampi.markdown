@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-09-29 01:16:22+00:00
-layout: post
-link: https://www.judsonlmoore.com/hampi/
-slug: hampi
 title: Hampi the Fallen Capital of the Vijayanagara Empire in India
-wordpress_id: 3226
+date: 2014-09-29 01:16:22 Z
 categories:
 - India
 tags:
@@ -14,6 +8,11 @@ tags:
 - Architecture
 - Best Places
 - India
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/hampi/
+wordpress_id: 3226
 ---
 
 ## Hampi: Fallen Seat of an Empire

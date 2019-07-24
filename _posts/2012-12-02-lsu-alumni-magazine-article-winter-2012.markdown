@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-12-02 02:44:09+00:00
-layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-winter-2012/
-slug: lsu-alumni-magazine-article-winter-2012
 title: LSU Alumni Magazine Article – Winter 2012
-wordpress_id: 2047
+date: 2012-12-02 02:44:09 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - LSU Alumni
 - Peace Corps
 - Published
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-winter-2012/
+wordpress_id: 2047
 ---
 
 [caption id="attachment_2048" align="aligncenter" width="935"] Photo Caption: Judson and his Kyrgyz friends having fun at a cross-cultural dinner party. One of many such events he hosts in his home to share American culture and Louisiana cuisine.[/caption]

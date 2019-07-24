@@ -1,18 +1,17 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-03-20 15:03:03+00:00
-layout: post
-link: https://www.judsonlmoore.com/peace-corps-hardship/
-slug: peace-corps-hardship
 title: Peace Corps Hardship
-wordpress_id: 5
+date: 2012-03-20 15:03:03 Z
 categories:
 - Peace Corps
 tags:
 - Lifestyle
 - Peace Corps
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/peace-corps-hardship/
+wordpress_id: 5
 ---
 
 Life in the Peace Corps is not as luxurious as some might think it could be. Here is a quick shot of my daily hardship:

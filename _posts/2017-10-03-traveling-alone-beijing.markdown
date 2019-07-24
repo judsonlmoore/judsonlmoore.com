@@ -1,20 +1,19 @@
 ---
-author: kelly.branyik
-comments: true
-date: 2017-10-03 10:00:01+00:00
-excerpt: Returned Peace Corps Volunteer and author of the Propitious Panda blog and
-  the new book "It Depends" shares a tale of solo travel in Beijing.
-layout: post
-link: https://www.judsonlmoore.com/traveling-alone-beijing/
-slug: traveling-alone-beijing
 title: What happened when I traveled alone in Beijing
-wordpress_id: 18182
+date: 2017-10-03 10:00:01 Z
 categories:
 - Female Travel
 tags:
 - female travel
 - guest author
 - travel tips
+author: kelly.branyik
+comments: true
+excerpt: Returned Peace Corps Volunteer and author of the Propitious Panda blog and
+  the new book "It Depends" shares a tale of solo travel in Beijing.
+layout: post
+link: https://www.judsonlmoore.com/traveling-alone-beijing/
+wordpress_id: 18182
 ---
 
 ## Breaking Through the Fear of Travel

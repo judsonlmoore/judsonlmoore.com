@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2013-09-11 10:39:38+00:00
-layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-association-magazine-article-fall-2013/
-slug: lsu-alumni-association-magazine-article-fall-2013
 title: LSU Alumni Association Magazine Article – Fall 2013
-wordpress_id: 2480
+date: 2013-09-11 10:39:38 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - LSU Alumni
 - Peace Corps
 - Published
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/lsu-alumni-association-magazine-article-fall-2013/
+wordpress_id: 2480
 ---
 
 Well, this chapter of my life has now officially concluded. With my final article in the LSU Alumni Magazine, Peace Corps is officially in my past. Enjoy the read and thank you all for the support. On to the next adventure!

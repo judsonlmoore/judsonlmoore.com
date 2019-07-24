@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2011-02-02 16:50:14+00:00
-layout: post
-link: https://www.judsonlmoore.com/kyrgyzstan-anthropology/
-slug: kyrgyzstan-anthropology
 title: Kyrgyzstan + Anthropology
-wordpress_id: 69
+date: 2011-02-02 16:50:14 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/kyrgyzstan-anthropology/
+wordpress_id: 69
 ---
 
  

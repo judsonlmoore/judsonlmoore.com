@@ -1,18 +1,17 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-10-10 06:52:09+00:00
-layout: post
-link: https://www.judsonlmoore.com/my-new-contact-information/
-slug: my-new-contact-information
 title: My New Contact Information
-wordpress_id: 1187
+date: 2012-10-10 06:52:09 Z
 categories:
 - Interests
 tags:
 - About Me
 - Contact Info
 - Judson L Moore
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/my-new-contact-information/
+wordpress_id: 1187
 ---
 
 [](https://www.judsonlmoore.com/my-new-contact-information/)

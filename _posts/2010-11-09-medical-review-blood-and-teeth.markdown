@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-11-09 05:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/medical-review-blood-and-teeth/
-slug: medical-review-blood-and-teeth
 title: 'Medical Review: Blood and Teeth'
-wordpress_id: 75
+date: 2010-11-09 05:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/medical-review-blood-and-teeth/
+wordpress_id: 75
 ---
 
 17 vials of blood!!  They took more blood out of me than I knew I even had in me!  It was more or less painless but still it was a shock to the system.  I had breakfast right after and then I was feeling fine.  

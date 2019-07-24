@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2005-05-05 04:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/the-history-of-events-surrounding-the-camp-david/
-slug: the-history-of-events-surrounding-the-camp-david
 title: The History of Events Surrounding the Camp David Accords
-wordpress_id: 151
+date: 2005-05-05 04:00:00 Z
 categories:
 - College Papers
 tags:
 - Politics
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/the-history-of-events-surrounding-the-camp-david/
+wordpress_id: 151
 ---
 
 ![](http://media.tumblr.com/tumblr_l6pgvn60651qb60c5.png)

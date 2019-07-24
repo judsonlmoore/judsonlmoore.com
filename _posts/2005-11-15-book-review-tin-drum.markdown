@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2005-11-15 08:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/book-review-tin-drum/
-slug: book-review-tin-drum
 title: 'Book Review: Tin Drum'
-wordpress_id: 143
+date: 2005-11-15 08:00:00 Z
 categories:
 - College Papers
 tags:
 - Germany
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/book-review-tin-drum/
+wordpress_id: 143
 ---
 
 The main character and narrator is Oskar Matzerath.  Oskar is a man who never grew up, literally.  He stunted his own growth when he was three years old, at three feet.  In the book he does grow an additional 13 inches.  Oskar is known for never parting with his red and white lacquered tin drum, which he is constantly beating on.  Oskar’s other unique characteristic is that he has an extremely high-pitched singing voice which has the ability to shatter glass.  As Oskar grows taller, he also looses this glass-breaking voice.  Oskar does not attend school, but tries to educate himself instead by studying the writings of Goethe and Rasputin.

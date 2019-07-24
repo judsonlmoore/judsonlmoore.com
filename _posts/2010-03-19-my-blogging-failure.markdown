@@ -1,14 +1,13 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-03-19 01:09:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/my-blogging-failure/
-slug: my-blogging-failure
 title: My Blogging Failure
-wordpress_id: 99
+date: 2010-03-19 01:09:00 Z
 categories:
 - Interests
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/my-blogging-failure/
+wordpress_id: 99
 ---
 
 When I was 8 years old my mom sat me down at the dinning room table, placed a composition journal in front of me and told me there would be no T.V. or playing until I wrote an ENTIRE half page of my thoughts.  She knew the importance of journaling. While my parents vary rarely made the really dumb mistakes that plague most child-rearing experiments, mom did this time: she thought that equating writing with the lack of fun activities, would be the best way for me to fall in love with the task.

@@ -1,21 +1,20 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2018-02-19 16:41:33+00:00
-excerpt: I share travel advice from Kyrgyzstan on The Without a Path Podcast with
-  American writer, traveler, and meddler Joe Baur. We discuss travel, tourism, humanitarianism,
-  and a sheep slaughter.
-layout: post
-link: https://www.judsonlmoore.com/without-a-path-podcast/
-slug: without-a-path-podcast
 title: The Without a Path Podcast asked me to share travel advice in Kyrgyzstan
-wordpress_id: 18965
+date: 2018-02-19 16:41:33 Z
 categories:
 - Kyrgyzstan
 tags:
 - interview
 - podcast
 - Travel
+author: judsonlmoore
+comments: true
+excerpt: I share travel advice from Kyrgyzstan on The Without a Path Podcast with
+  American writer, traveler, and meddler Joe Baur. We discuss travel, tourism, humanitarianism,
+  and a sheep slaughter.
+layout: post
+link: https://www.judsonlmoore.com/without-a-path-podcast/
+wordpress_id: 18965
 ---
 
 [The Without a Path Podcast](https://withoutapath.com/) with the American writer, traveler, and meddler Joe Baur is chock full of intriguing chats with creative types, adventurers, and the occasional story of hope for humanity. Guests share stories about the travels which has helped define their lives in this weekly travel podcast. **I highly encourage you to subscribe to** the [Without A Path Podcast on iTunes](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).

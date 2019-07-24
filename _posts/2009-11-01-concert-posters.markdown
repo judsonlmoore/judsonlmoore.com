@@ -1,14 +1,13 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2009-11-01 19:44:51+00:00
-layout: post
-link: https://www.judsonlmoore.com/concert-posters/
-slug: concert-posters
 title: Concert Posters
-wordpress_id: 2827
+date: 2009-11-01 19:44:51 Z
 categories:
 - TCB Concerts
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/concert-posters/
+wordpress_id: 2827
 ---
 
 Here are a number of posters from concerts that I was the promoter / production rep for back in my music career days. I worked with TCB Concerts (now [Green Machine Concerts](http://greenmachineconcerts.com/)) for nearly 2 years.

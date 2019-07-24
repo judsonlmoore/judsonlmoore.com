@@ -1,18 +1,17 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2016-01-30 22:45:45+00:00
-excerpt: Negotiating travel policy with your work is both possible and can be beneficial
-  for all concerned! Read this article for tips and best practices!
-layout: post
-link: https://www.judsonlmoore.com/negotiating-travel-at-your-job/
-slug: negotiating-travel-at-your-job
 title: Tips For Negotiating Travel At Your Job
-wordpress_id: 296
+date: 2016-01-30 22:45:45 Z
 categories:
 - Career
 tags:
 - whileyoung
+author: judsonlmoore
+comments: true
+excerpt: Negotiating travel policy with your work is both possible and can be beneficial
+  for all concerned! Read this article for tips and best practices!
+layout: post
+link: https://www.judsonlmoore.com/negotiating-travel-at-your-job/
+wordpress_id: 296
 ---
 
 For many, the dream job often comes with at least a little bit of travel. Truth is, traveling for work is not a vacation. When someone else is floating the bill and watching the bottom line, they tend to care a lot more for the ROI than they do for your experience. That said, a lot of companies are glad to make you a happy employee if you take the initiative of negotiating travel by putting together a plan which demonstrates the benefits to all concerned.

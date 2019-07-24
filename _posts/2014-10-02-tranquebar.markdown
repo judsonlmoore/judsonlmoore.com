@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-10-02 23:00:29+00:00
-excerpt: Tranquebar is Christianity's origin point in India, home to the largest Danish
-  fort outside of Europe, and one amazing B&B I called home.
-layout: post
-link: https://www.judsonlmoore.com/tranquebar/
-slug: tranquebar
 title: Three reasons Tranquebar is worth the long drive to get to
-wordpress_id: 3056
+date: 2014-10-02 23:00:29 Z
 categories:
 - India
 tags:
@@ -18,6 +10,13 @@ tags:
 - India
 - Seafood
 - Vacation
+author: judsonlmoore
+comments: true
+excerpt: Tranquebar is Christianity's origin point in India, home to the largest Danish
+  fort outside of Europe, and one amazing B&B I called home.
+layout: post
+link: https://www.judsonlmoore.com/tranquebar/
+wordpress_id: 3056
 ---
 
 ## Resting In Tranquebar

@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2013-04-18 20:42:04+00:00
-layout: post
-link: https://www.judsonlmoore.com/appendectomy-in-bishkek/
-slug: appendectomy-in-bishkek
 title: Appendectomy In Bishkek
-wordpress_id: 2241
+date: 2013-04-18 20:42:04 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - Kyrgyzstan
 - Peace Corps
 - Travel Safety
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/appendectomy-in-bishkek/
+wordpress_id: 2241
 ---
 
 **A Fair Warning**

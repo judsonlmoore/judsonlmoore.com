@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-06-30 06:39:29+00:00
-layout: post
-link: https://www.judsonlmoore.com/golden-birthday-and-sie-germans/
-slug: golden-birthday-and-sie-germans
 title: Golden Birthday and Sie Germans
-wordpress_id: 784
+date: 2012-06-30 06:39:29 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - Kyrgyzstan
 - Party
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/golden-birthday-and-sie-germans/
+wordpress_id: 784
 ---
 
 **Golden Birthday Party**

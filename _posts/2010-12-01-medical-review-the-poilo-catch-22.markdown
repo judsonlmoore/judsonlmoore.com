@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-12-01 05:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/medical-review-the-poilo-catch-22/
-slug: medical-review-the-poilo-catch-22
 title: 'Medical Review: The Poilo Catch 22'
-wordpress_id: 74
+date: 2010-12-01 05:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/medical-review-the-poilo-catch-22/
+wordpress_id: 74
 ---
 
 The VA does not give Polio Boosters.  I don't have a record that I have had one before.  All the local hospitals, clinics and doctor's offices that give polio booster shots do so with shots provided by the federal government.  The feds regulate that the shots are to be given at no cost but only to people 10 years of age and younger.

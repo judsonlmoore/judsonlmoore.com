@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-11-13 21:13:21+00:00
-excerpt: I recently learned a few things which I did not know about my own legacy
-  in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
-layout: post
-link: https://www.judsonlmoore.com/my-peace-corps-legacy/
-slug: my-peace-corps-legacy
 title: What I have learned about my Peace Corps legacy in Kyrgyzstan
-wordpress_id: 18421
+date: 2017-11-13 21:13:21 Z
 categories:
 - Peace Corps
 tags:
@@ -17,6 +9,13 @@ tags:
 - Peace Corps
 - Service Above Self
 - Talas
+author: judsonlmoore
+comments: true
+excerpt: I recently learned a few things which I did not know about my own legacy
+  in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
+layout: post
+link: https://www.judsonlmoore.com/my-peace-corps-legacy/
+wordpress_id: 18421
 ---
 
 I just returned from a 2-week trip to Kyrgyzstan. “Kyrgyz-what???” you say? Exactly. Well, if you have been paying attention to my writings the last years then you will recall that [**I served in the US Peace Corps**](https://www.judsonlmoore.com/blog/jobs/peace-corps/) from 2011-2013 in Kyrgyzstan.

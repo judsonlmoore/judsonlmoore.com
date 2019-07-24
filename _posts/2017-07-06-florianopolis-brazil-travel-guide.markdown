@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-07-06 10:00:14+00:00
-excerpt: 'Florianopolis Brazil is a magnificent city with a blend of beach, surfing,
-  adventure sport, and a modern city driving Brazilian innovation. '
-layout: post
-link: https://www.judsonlmoore.com/florianopolis-brazil-travel-guide/
-slug: florianopolis-brazil-travel-guide
 title: Beach, innovation, and majestic views. Welcome to Florianopolis, Brazil.
-wordpress_id: 12794
+date: 2017-07-06 10:00:14 Z
 categories:
 - Brazil
 tags:
@@ -17,6 +9,13 @@ tags:
 - brazil
 - South America
 - travel guide
+author: judsonlmoore
+comments: true
+excerpt: 'Florianopolis Brazil is a magnificent city with a blend of beach, surfing,
+  adventure sport, and a modern city driving Brazilian innovation. '
+layout: post
+link: https://www.judsonlmoore.com/florianopolis-brazil-travel-guide/
+wordpress_id: 12794
 ---
 
 ## An island of the land

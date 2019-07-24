@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-11-01 08:36:48+00:00
-excerpt: In Colombia's capital city, Bogotá, one finds themselves taken to a time
-  when romance lived permanently in the air and anything was possible.
-layout: post
-link: https://www.judsonlmoore.com/bogota/
-slug: bogota
 title: 'Bogotá: A Capital of More Romantic Times and a Beautiful Nation'
-wordpress_id: 3000
+date: 2014-11-01 08:36:48 Z
 categories:
 - Colombia
 tags:
@@ -18,6 +10,13 @@ tags:
 - RYE
 - South America
 - Travel
+author: judsonlmoore
+comments: true
+excerpt: In Colombia's capital city, Bogotá, one finds themselves taken to a time
+  when romance lived permanently in the air and anything was possible.
+layout: post
+link: https://www.judsonlmoore.com/bogota/
+wordpress_id: 3000
 ---
 
 Our first days were spent in the capital city, Bogotá. On the first day we explored the Monastery, [Cerro de Monserrate](http://en.wikipedia.org/wiki/Monserrate), which has breathtaking panoramic views of Bogotá. After some photo ops with local school children, we went down into the city center and spent several hours at [The Gold Museum](http://en.wikipedia.org/wiki/Gold_Museum,_Bogot%C3%A1). This museum is the most extensive collection of gold artifacts in the world. Located in a region of town called [La Candelaria](http://en.wikipedia.org/wiki/La_Candelaria) (the old town), the museum is next to the national capital and some very interesting architecture.

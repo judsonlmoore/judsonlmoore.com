@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-09-10 03:28:44+00:00
-excerpt: During a 6-month business trip to India, I was faced with poverty every day
-  from the window of my high rise 7-star hotel. What could I do about it?
-layout: post
-link: https://www.judsonlmoore.com/the-trident-hotel-and-poverty/
-slug: the-trident-hotel-and-poverty
 title: The Trident Hotel and Poverty
-wordpress_id: 2885
+date: 2014-09-10 03:28:44 Z
 categories:
 - Hyderabad
 tags:
@@ -18,6 +10,13 @@ tags:
 - Mutual Mobile
 - Poverty
 - Travel
+author: judsonlmoore
+comments: true
+excerpt: During a 6-month business trip to India, I was faced with poverty every day
+  from the window of my high rise 7-star hotel. What could I do about it?
+layout: post
+link: https://www.judsonlmoore.com/the-trident-hotel-and-poverty/
+wordpress_id: 2885
 ---
 
 ## Living high above the poverty line

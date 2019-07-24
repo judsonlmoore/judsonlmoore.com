@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2015-01-16 22:10:15+00:00
-layout: post
-link: https://www.judsonlmoore.com/reunion-koln/
-slug: reunion-koln
 title: Reunion, Kölsch and Architecture of Köln (Cologne)
-wordpress_id: 3672
+date: 2015-01-16 22:10:15 Z
 categories:
 - Germany
 tags:
@@ -14,6 +8,11 @@ tags:
 - Germany
 - reunion
 - Train
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/reunion-koln/
+wordpress_id: 3672
 ---
 
 After spending [5-months in India](https://www.judsonlmoore.com/location/india/) building out [a new facility for Mutual Mobile](https://www.judsonlmoore.com/mutual-mobile-hyderabad/), I get to take a few weeks of vacation! I am returning to Germany for the first time since my high school Rotary Youth Exchange year in Oldenburg and am very excited to reconnect with old friends. My fist stop on this journey is Köln, known in English-speaking circles as Cologne.

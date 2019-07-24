@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-09-01 05:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/reflections-and-the-future/
-slug: reflections-and-the-future
 title: Reflections and the Future
-wordpress_id: 83
+date: 2010-09-01 05:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/reflections-and-the-future/
+wordpress_id: 83
 ---
 
 The past year has been quite busy for me!  In the past 12 months I have lived in Chattanooga TN, London UK, Bryan TX, New Orleans LA, Los Angeles CA and now I hang my hat in Atlanta GA.  It’s hard to say that in this period of time one can truly live in this many locations, but somehow I have done it.

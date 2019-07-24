@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-10-24 10:54:24+00:00
-excerpt: Half a day's drive north of New Delhi you find yourself scaling the foothills
-  of the Himalayan Mountains. Once you reach Manali, you know you're there.
-layout: post
-link: https://www.judsonlmoore.com/manali/
-slug: manali
 title: 'Manali: India''s Doorway to the Himalayan Mountains'
-wordpress_id: 3059
+date: 2014-10-24 10:54:24 Z
 categories:
 - India
 tags:
@@ -17,6 +9,13 @@ tags:
 - India
 - Travel
 - Trekking
+author: judsonlmoore
+comments: true
+excerpt: Half a day's drive north of New Delhi you find yourself scaling the foothills
+  of the Himalayan Mountains. Once you reach Manali, you know you're there.
+layout: post
+link: https://www.judsonlmoore.com/manali/
+wordpress_id: 3059
 ---
 
 ## On The Road To Manali

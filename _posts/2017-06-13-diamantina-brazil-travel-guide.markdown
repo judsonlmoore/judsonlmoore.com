@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-06-13 10:00:28+00:00
-excerpt: Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial
-  history. Surrounded by spectacular nature, it dances with life once a year.
-layout: post
-link: https://www.judsonlmoore.com/diamantina-brazil-travel-guide/
-slug: diamantina-brazil-travel-guide
 title: Diamantina Brazil is a sleepy town with a party spirit
-wordpress_id: 12773
+date: 2017-06-13 10:00:28 Z
 categories:
 - Brazil
 tags:
@@ -18,6 +10,13 @@ tags:
 - Nature
 - South America
 - travel guide
+author: judsonlmoore
+comments: true
+excerpt: Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial
+  history. Surrounded by spectacular nature, it dances with life once a year.
+layout: post
+link: https://www.judsonlmoore.com/diamantina-brazil-travel-guide/
+wordpress_id: 12773
 ---
 
 ## From New Orleans to Diamantina Brazil, Carnival reigns supreme

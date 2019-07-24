@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2015-01-15 14:37:39+00:00
-excerpt: 'During a 6-month business trip to India, I took advantage of every weekend
-  to travel to a different corner of this beautiful and vibrant country. '
-layout: post
-link: https://www.judsonlmoore.com/travel-advice-india/
-slug: travel-advice-india
 title: 'India Travel Guide: What I Learned After 6 Months On The Road'
-wordpress_id: 3246
+date: 2015-01-15 14:37:39 Z
 categories:
 - India
 tags:
@@ -19,6 +11,13 @@ tags:
 - Recommendations
 - Tips
 - Travel
+author: judsonlmoore
+comments: true
+excerpt: 'During a 6-month business trip to India, I took advantage of every weekend
+  to travel to a different corner of this beautiful and vibrant country. '
+layout: post
+link: https://www.judsonlmoore.com/travel-advice-india/
+wordpress_id: 3246
 ---
 
 I have seen so much of India at this point that I feel like I can give you some good advice and connect you with folks in each area of the country. In the event that you visit India, I think the below India travel guide will be very helpful. Please, add your comments below!

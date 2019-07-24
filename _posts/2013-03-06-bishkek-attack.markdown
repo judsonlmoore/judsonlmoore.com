@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2013-03-06 14:12:41+00:00
-layout: post
-link: https://www.judsonlmoore.com/bishkek-attack/
-slug: bishkek-attack
 title: Bishkek Attack
-wordpress_id: 2142
+date: 2013-03-06 14:12:41 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - Kyrgyzstan
 - Travel Safety
 - Violence
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/bishkek-attack/
+wordpress_id: 2142
 ---
 
 Just considering that I would begin this post with something like, "I don't know how important it is to tell you that..." should be a pretty clear indicator, but for the sake of documentation, and most importantly, to let you all know that I am OK, let me tell you a little about my Saturday evening.

@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-10-08 11:54:21+00:00
-excerpt: The Dandiya Festival is an Indian celebration of an ancient battle. The music
-  is percussion-driven and the dance reflects the bravery and honor of battle.
-layout: post
-link: https://www.judsonlmoore.com/dandiya-festival-2014/
-slug: dandiya-festival-2014
 title: Dandiya Is The Festival Drummers and Dancers Were Born For
-wordpress_id: 2919
+date: 2014-10-08 11:54:21 Z
 categories:
 - Hyderabad
 tags:
@@ -18,6 +10,13 @@ tags:
 - Fun
 - Hyderabad
 - India
+author: judsonlmoore
+comments: true
+excerpt: The Dandiya Festival is an Indian celebration of an ancient battle. The music
+  is percussion-driven and the dance reflects the bravery and honor of battle.
+layout: post
+link: https://www.judsonlmoore.com/dandiya-festival-2014/
+wordpress_id: 2919
 ---
 
 ## Dandiya: Festival of Sounds

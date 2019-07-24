@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2000-10-14 19:00:00+00:00
-excerpt: I met Papa Roach in Hamburg on the last night of their first European tour,
-  and had one of the best nights of my entire life!
-layout: post
-link: https://www.judsonlmoore.com/meeting-papa-roach/
-slug: meeting-papa-roach
 title: Meeting Papa Roach On Tour In Hamburg Germany
-wordpress_id: 160
+date: 2000-10-14 19:00:00 Z
 categories:
 - Germany
 tags:
@@ -17,6 +9,13 @@ tags:
 - Papa Roach
 - Rotary
 - RYE
+author: judsonlmoore
+comments: true
+excerpt: I met Papa Roach in Hamburg on the last night of their first European tour,
+  and had one of the best nights of my entire life!
+layout: post
+link: https://www.judsonlmoore.com/meeting-papa-roach/
+wordpress_id: 160
 ---
 
 ## The Journey To Papa Roach

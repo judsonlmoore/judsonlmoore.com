@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2011-12-04 17:06:57+00:00
-layout: post
-link: https://www.judsonlmoore.com/thanksgiving-new-government-and-new-year/
-slug: thanksgiving-new-government-and-new-year
 title: Thanksgiving, New Government and New Year
-wordpress_id: 8
+date: 2011-12-04 17:06:57 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - Kyrgyzstan
 - Peace Corps
 - Thanksgiving
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/thanksgiving-new-government-and-new-year/
+wordpress_id: 8
 ---
 
 Being as far away from America as I am did not put even the slightest dent in my celebrating the Thanksgiving holiday last week. Thanks to the US Embassy in Bishkek and the Peace Corps staff we had 3 x 20lbs Butterball turkeys and all the dishes you would expect to see at any American celebration of thanks.

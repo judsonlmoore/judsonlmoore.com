@@ -1,18 +1,17 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2016-01-30 22:43:36+00:00
-excerpt: This suite of awesome travel apps will get you the information you need,
-  when you need it while traveling around the world. 
-layout: post
-link: https://www.judsonlmoore.com/essential-travel-apps/
-slug: essential-travel-apps
 title: 20 Essential Travel Apps from My Life on the Road
-wordpress_id: 312
+date: 2016-01-30 22:43:36 Z
 categories:
 - Adventure
 tags:
 - whileyoung
+author: judsonlmoore
+comments: true
+excerpt: This suite of awesome travel apps will get you the information you need,
+  when you need it while traveling around the world. 
+layout: post
+link: https://www.judsonlmoore.com/essential-travel-apps/
+wordpress_id: 312
 ---
 
 With tens of millions of apps out there in the world, it is hard to see the forest through the trees. Travels Apps are only a fraction of all apps, but still one of the largest categories of apps which you will find. I am either currently traveling, or thinking about traveling, literally _all the time_. Whether sitting on a plane, trying to cross a city or laying in bed at night dreaming of my next trip, these are the travel apps that I rely on the most.  Please also share your favorite travel apps in the comments below, or let me know what they are directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!

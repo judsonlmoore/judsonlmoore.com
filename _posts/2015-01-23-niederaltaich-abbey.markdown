@@ -1,14 +1,13 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2015-01-23 04:33:23+00:00
-layout: post
-link: https://www.judsonlmoore.com/niederaltaich-abbey/
-slug: niederaltaich-abbey
 title: Photo Tour of the Niederaltaich Abbey
-wordpress_id: 3680
+date: 2015-01-23 04:33:23 Z
 categories:
 - Germany
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/niederaltaich-abbey/
+wordpress_id: 3680
 ---
 
 ## First Impressions of the Niederaltaich Abbey Church

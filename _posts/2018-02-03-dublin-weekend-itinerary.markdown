@@ -1,16 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2018-02-03 12:00:51+00:00
-excerpt: With just one visit, Dublin has become one of my favorite cities in the world.
-  I pieced together the very best from my trip to Dublin in to this 3-day itinerary
-  for things to do in Dublin. From historical sites, to nightlife, and hikes, Dublin
-  has something for everyone.
-layout: post
-link: https://www.judsonlmoore.com/dublin-weekend-itinerary/
-slug: dublin-weekend-itinerary
 title: 'Things to Do in Dublin: A 3-day Weekend Itinerary'
-wordpress_id: 18833
+date: 2018-02-03 12:00:51 Z
 categories:
 - Ireland
 tags:
@@ -18,6 +8,15 @@ tags:
 - itenerary
 - travel guide
 - travel tips
+author: judsonlmoore
+comments: true
+excerpt: With just one visit, Dublin has become one of my favorite cities in the world.
+  I pieced together the very best from my trip to Dublin in to this 3-day itinerary
+  for things to do in Dublin. From historical sites, to nightlife, and hikes, Dublin
+  has something for everyone.
+layout: post
+link: https://www.judsonlmoore.com/dublin-weekend-itinerary/
+wordpress_id: 18833
 ---
 
 There are an incredible array of **things to do in Dublin**, so if you are visiting for a short weekend, it can be a bit overwhelming to figure out how to best make use of your time. I recently had the good fortune of spending a week in Dublin. While there, I visited a lot of places, some were undeniably incredible, while others I could have lived without.

@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2014-11-12 10:35:29+00:00
-excerpt: A 36-hour layover in Abu Dhabi became one of the most interesting and spontaneous
-  adventures of my life! Check out all the awesome things you can do too.
-layout: post
-link: https://www.judsonlmoore.com/abu-dhabi/
-slug: abu-dhabi
 title: 'Abu Dhabi: Making the Best of a 36-Hour Layover in the UAE'
-wordpress_id: 3062
+date: 2014-11-12 10:35:29 Z
 categories:
 - UAE
 tags:
@@ -17,6 +9,13 @@ tags:
 - Heritage
 - Travel
 - UAE
+author: judsonlmoore
+comments: true
+excerpt: A 36-hour layover in Abu Dhabi became one of the most interesting and spontaneous
+  adventures of my life! Check out all the awesome things you can do too.
+layout: post
+link: https://www.judsonlmoore.com/abu-dhabi/
+wordpress_id: 3062
 ---
 
 ## A 36-Hour Layover in Abu Dhabi

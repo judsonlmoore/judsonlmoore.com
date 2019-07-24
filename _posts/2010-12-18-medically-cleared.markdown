@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-12-18 05:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/medically-cleared/
-slug: medically-cleared
 title: Medically Cleared
-wordpress_id: 73
+date: 2010-12-18 05:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/medically-cleared/
+wordpress_id: 73
 ---
 
 Two days ago my status was updated to reflect that "a decision has been made regarding your medical eligibility."  Well that is sure a little bit unsettling.  I have seen all of my results and everyone assures me that I am 100% healthy and that all tests came back with the desired results.  Plus I was on the phone with my PC medical office a few days ago and she told me that she expected to clear me the next day (when in fact my status was updated).

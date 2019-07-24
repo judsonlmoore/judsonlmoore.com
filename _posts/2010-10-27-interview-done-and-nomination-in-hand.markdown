@@ -1,16 +1,15 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2010-10-27 04:00:00+00:00
-layout: post
-link: https://www.judsonlmoore.com/interview-done-and-nomination-in-hand/
-slug: interview-done-and-nomination-in-hand
 title: Interview Done and Nomination In Hand
-wordpress_id: 78
+date: 2010-10-27 04:00:00 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/interview-done-and-nomination-in-hand/
+wordpress_id: 78
 ---
 
 I'm just going to jump in and tell you the end of the story up front:

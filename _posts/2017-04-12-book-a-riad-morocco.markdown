@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-04-12 21:58:33+00:00
-excerpt: 'Morocco is a land with charms dating back centuries. If you want to have
-  an authentic experience, book a riad in Morocco, but ask these questions first. '
-layout: post
-link: https://www.judsonlmoore.com/book-a-riad-morocco/
-slug: book-a-riad-morocco
 title: 10 Questions to Ask Before You Book a Riad in Morocco
-wordpress_id: 10303
+date: 2017-04-12 21:58:33 Z
 categories:
 - Morocco
 tags:
@@ -19,6 +11,13 @@ tags:
 - Mountains
 - Travel
 - travel tips
+author: judsonlmoore
+comments: true
+excerpt: 'Morocco is a land with charms dating back centuries. If you want to have
+  an authentic experience, book a riad in Morocco, but ask these questions first. '
+layout: post
+link: https://www.judsonlmoore.com/book-a-riad-morocco/
+wordpress_id: 10303
 ---
 
 ## The allure of Morocco

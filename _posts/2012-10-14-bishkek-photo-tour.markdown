@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-10-14 15:01:03+00:00
-excerpt: On a perfect morning in Bishkek, the capital city of Kyrgyzstan in the heart
-  of Central Asia, I grabbed a camera and went on a tour to capture some beauty.
-layout: post
-link: https://www.judsonlmoore.com/bishkek-photo-tour/
-slug: bishkek-photo-tour
 title: Bishkek Photo Tour - A Morning in Kyrgyzstan's Capital City
-wordpress_id: 1892
+date: 2012-10-14 15:01:03 Z
 categories:
 - Bishkek
 tags:
@@ -16,6 +8,13 @@ tags:
 - Bishkek
 - Kyrgyzstan
 - Photos
+author: judsonlmoore
+comments: true
+excerpt: On a perfect morning in Bishkek, the capital city of Kyrgyzstan in the heart
+  of Central Asia, I grabbed a camera and went on a tour to capture some beauty.
+layout: post
+link: https://www.judsonlmoore.com/bishkek-photo-tour/
+wordpress_id: 1892
 ---
 
 Waking up to a perfect October morning, I decided to make a Bishkek photo tour before the streets filled up.  I grabbed one of the Cannon 600D cameras from [Kloop Media](http://kloop.kg) and hit the street of Bishkek to see if I could find anything interesting. I was lucky to have perfect weather and find some interesting subjects.

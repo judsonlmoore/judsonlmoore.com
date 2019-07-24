@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-10-07 00:18:45+00:00
-layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-fall-2012/
-slug: lsu-alumni-magazine-article-fall-2012
 title: LSU Alumni Magazine Article - Fall 2012
-wordpress_id: 1179
+date: 2012-10-07 00:18:45 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - Peace Corps
 - Published
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-fall-2012/
+wordpress_id: 1179
 ---
 
 Here is a screenshot of my most recent article in the [LSU Alumni Association Magazine](http://lsualumni.org). The text from the article is posted below the screen shot. Enjoy!

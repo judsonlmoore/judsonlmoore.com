@@ -1,16 +1,15 @@
 ---
+title: 'Satsang Vihar: The Religious Center of Hyderabad India'
+date: 2014-12-22 02:45:17 Z
+categories:
+- Hyderabad
 author: judsonlmoore
 comments: true
-date: 2014-12-22 02:45:17+00:00
 excerpt: Satsang Vihar in Hyderabad India is a holy place which welcomed me to their
   anniversary festival and honored me in the most surprising of ways.
 layout: post
 link: https://www.judsonlmoore.com/satsang/
-slug: satsang
-title: 'Satsang Vihar: The Religious Center of Hyderabad India'
 wordpress_id: 3298
-categories:
-- Hyderabad
 ---
 
 ## The Satsang Temple

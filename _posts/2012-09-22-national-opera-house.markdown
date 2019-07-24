@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-09-22 17:43:28+00:00
-layout: post
-link: https://www.judsonlmoore.com/national-opera-house/
-slug: national-opera-house
 title: National Opera House
-wordpress_id: 760
+date: 2012-09-22 17:43:28 Z
 categories:
 - Bishkek
 tags:
@@ -14,6 +8,11 @@ tags:
 - Bishkek
 - Kyrgyzstan
 - Peace Corps
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/national-opera-house/
+wordpress_id: 760
 ---
 
 This is the national Opera House which I pass every day to and from my office. I often hear the singers practicing through the windows so everyday I get a little bit of a free concert.   

@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-07-12 10:00:15+00:00
-excerpt: Blumenau is the craft beer capital of Brazil, and is also in the heart of
-  wine country, pulling cultural and architectural inspirations from Germany.
-layout: post
-link: https://www.judsonlmoore.com/blumenau-brazil-travel-guide/
-slug: blumenau-brazil-travel-guide
 title: In the south of Brazil, find Germany in the town of Blumenau
-wordpress_id: 12749
+date: 2017-07-12 10:00:15 Z
 categories:
 - Brazil
 tags:
@@ -18,6 +10,13 @@ tags:
 - South America
 - travel guide
 - wine
+author: judsonlmoore
+comments: true
+excerpt: Blumenau is the craft beer capital of Brazil, and is also in the heart of
+  wine country, pulling cultural and architectural inspirations from Germany.
+layout: post
+link: https://www.judsonlmoore.com/blumenau-brazil-travel-guide/
+wordpress_id: 12749
 ---
 
 ## Far from Germany, Blumenau is all Deutsch

@@ -1,17 +1,16 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2011-09-01 23:12:27+00:00
-layout: post
-link: https://www.judsonlmoore.com/may-freedom-ring/
-slug: may-freedom-ring
 title: May Freedom Ring
-wordpress_id: 15
+date: 2011-09-01 23:12:27 Z
 categories:
 - Peace Corps
 tags:
 - Peace Corps
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/may-freedom-ring/
+wordpress_id: 15
 ---
 
 Yesterday was the 20th anniversary of the Kyrgyz Republic's independence from the USSR.  To mark the occasion there was a parade downtown in front of the White House (The State of Talas's government building) in the morning followed by widely-held house parties, demonstrations of the national horse games and fireworks in the evening.

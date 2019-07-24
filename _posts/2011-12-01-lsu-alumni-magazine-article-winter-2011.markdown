@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2011-12-01 15:48:38+00:00
-layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-winter-2011/
-slug: lsu-alumni-magazine-article-winter-2011
 title: LSU Alumni Magazine Article – Winter 2011
-wordpress_id: 540
+date: 2011-12-01 15:48:38 Z
 categories:
 - Peace Corps
 tags:
@@ -16,6 +10,11 @@ tags:
 - Peace Corps
 - Published
 - Talas
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-winter-2011/
+wordpress_id: 540
 ---
 
 [![](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011-758x1024.png)](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png)

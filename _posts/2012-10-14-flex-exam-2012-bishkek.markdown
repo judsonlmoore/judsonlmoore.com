@@ -1,12 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2012-10-14 12:46:46+00:00
-layout: post
-link: https://www.judsonlmoore.com/flex-exam-2012-bishkek/
-slug: flex-exam-2012-bishkek
 title: FLEX Exam 2012 Bishkek
-wordpress_id: 1828
+date: 2012-10-14 12:46:46 Z
 categories:
 - Peace Corps
 tags:
@@ -15,6 +9,11 @@ tags:
 - FLEX
 - Kyrgyzstan
 - Testing
+author: judsonlmoore
+comments: true
+layout: post
+link: https://www.judsonlmoore.com/flex-exam-2012-bishkek/
+wordpress_id: 1828
 ---
 
 I was asked to help proctor the FLEX exam this year in Bishkek. Here is a snippet about the program from the FLEX Website:

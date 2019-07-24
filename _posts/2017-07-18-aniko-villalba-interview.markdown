@@ -1,14 +1,6 @@
 ---
-author: judsonlmoore
-comments: true
-date: 2017-07-18 10:00:14+00:00
-excerpt: Aniko Villalba and I got to talking about being digital nomads, solo travel,
-  female travel, and what it really means to live the dream of a global citizen.
-layout: post
-link: https://www.judsonlmoore.com/aniko-villalba-interview/
-slug: aniko-villalba-interview
 title: An Interview with Aniko Villalba of the Viajando Por Ahí Travel Blog and Books
-wordpress_id: 12596
+date: 2017-07-18 10:00:14 Z
 categories:
 - Female Travel
 tags:
@@ -19,6 +11,13 @@ tags:
 - interview
 - South America
 - travel tips
+author: judsonlmoore
+comments: true
+excerpt: Aniko Villalba and I got to talking about being digital nomads, solo travel,
+  female travel, and what it really means to live the dream of a global citizen.
+layout: post
+link: https://www.judsonlmoore.com/aniko-villalba-interview/
+wordpress_id: 12596
 ---
 
 **Aniko Villalba is an Argentinean-Hungarian author** and true citizen of the world. She has spent the last decade traveling the world and sharing her experiences as the author of three books and the [Viajando Por Ahi Blog](https://viajandoporahi.com).
