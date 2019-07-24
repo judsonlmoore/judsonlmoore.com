@@ -5,7 +5,7 @@ description: "Travel guides and inspiration to follow your dreams and do it whil
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
-google_analytics: 'UA-12358141-4'
+# google_analytics: 'UA-12358141-4'
 disqus: 'judsonlmoore'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -58,6 +58,21 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+# Cloudinary 
+# Learn More https://github.com/nhoizey/jekyll-cloudinary
+cloudinary:
+  cloud_name: judsonlmoore-com
+  only_prod: true
+  verbose: true
+  # origin_url: https://cdn.judsonlmoore.com
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width: 50rem) 50rem, 90vw"

@@ -18,10 +18,9 @@ tags:
 - Symbols
 ---
 
-
 _Photo Credit: [Larry Vienneau](https://www.etsy.com/listing/82025011/raven-artwork-raven-crow-aquatint?ref=shop_home_active_24)_
 
-<blockquote>If you have any questions about this paper or the Raven in Native American Mythology, feel free to leave a comment below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).</blockquote>
+> If you have any questions about this paper or the Raven in Native American Mythology, feel free to leave a comment below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).
 
 ## The Raven in Native American Mythology
 Native American culture is embedded with extensive tales and legends.  Every aspect of life, death, and existence has its own story to explain why things are the way they are.  Often, different Native American tribes had very similar beliefs, but most tribes have their own unique variations in the details of these legends. The raven is a very important figure in most Native American cultures.  It is seen as the creator of light and as a trickster figure.  As the maker of light, the raven symbolizes the ultimate creator of all things of that which existed before the beginning.  As a trickster figure, the raven is seen as a catalyst of mischief and mayhem.
