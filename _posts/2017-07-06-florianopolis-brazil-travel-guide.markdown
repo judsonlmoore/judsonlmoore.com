@@ -133,7 +133,7 @@ I was situated in the eastern (central) area of Florianopolis, so these are the
 
 **Pro tip: **The northern beaches are the most popular, and have the most activities and amenities, however, the southern stretch of the Florianopolis island is less inhabited and the beaches there will be much less crowded. If you go that way, **be prepared with a picnic and anything else you might need** to be comfortable for the day, as there might be fewer vendors to sell you such things.
 
-[caption id="attachment_12797" align="alignnone" width="1024"]![Florianopolis, Santa Catarina Brazil, Joaquina Beach](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Florianópolis-Santa-Catarina-Brazil-Beach-1024x683.jpg) Florianopolis, Santa Catarina Brazil, Joaquina Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12797" align="alignnone" width="1024"]![Florianopolis, Santa Catarina Brazil, Joaquina Beach](../assets/images/2017/04/Florianópolis-Santa-Catarina-Brazil-Beach.jpg) Florianopolis, Santa Catarina Brazil, Joaquina Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## **Joaquina Beach**
@@ -145,7 +145,7 @@ I acquainted myself more with a beach towel and long walks during the sunrise an
 
 All of the to-be-expected beach activities can be found at Joaquina Beach. You should note that this is one of the **top surfing destinations in Brazil**, and known worldwide for its reliable waves. This means that as a swimmer, you will be sharing space with surfers, so just be mindful of that.
 
-[caption id="attachment_12800" align="alignnone" width="1024"]![Florianopolis, Santa Catarina Brazil, Joaquina Beach Sandboard](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Florianópolis-Santa-Catarina-Brazil-Sand-Dunes-1024x682.jpg) Florianopolis, Santa Catarina Brazil, Joaquina Beach Sandboard. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12800" align="alignnone" width="1024"]![Florianopolis, Santa Catarina Brazil, Joaquina Beach Sandboard](../assets/images/2017/04/Florianópolis-Santa-Catarina-Brazil-Sand-Dunes.jpg) Florianopolis, Santa Catarina Brazil, Joaquina Beach Sandboard. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 The other super cool activity at Joaquina Beach, which I did not expect to find, is **sandboarding!** The dunes of Joaquina Beach are really impressive and are perfect for strapping a board to your feet and letting gravity do all the work. At the time and location when I was there, there were no lifts, so you have to walk up the dunes yourself, which isn't a bad thing due to distance, as much as it is just difficult to walk up a hill of sand.
 
@@ -159,7 +159,7 @@ Here is a great video I found with a short driving tour around Florianopolis, a
 
 Like other eastern / central beaches Florianopolis, Mole is also all about the surfing. In fact, this beach is nearly exclusively about the surfing. The terrain here is a bit less sandy, so no sandboarding, but there are **several scuba expeditions** which depart from Mole. The surrounding view is really beautiful **with green hills and large rock formations**. I find that the aesthetic of Mole Beach is much more interesting than the more typical sandy beaches.
 
-[caption id="attachment_12801" align="alignnone" width="1024"]![Florianopolis, Santa Catarina Brazil, Mole Beach](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Florianópolis-Santa-Catarina-Brazil-Surfing-1024x682.jpg) Florianopolis, Santa Catarina Brazil, Mole Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12801" align="alignnone" width="1024"]![Florianopolis, Santa Catarina Brazil, Mole Beach](../assets/images/2017/04/Florianópolis-Santa-Catarina-Brazil-Surfing.jpg) Florianopolis, Santa Catarina Brazil, Mole Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Traveling between the mainland and the beaches
@@ -171,7 +171,7 @@ Visiting both sides of Florianopolis is well worth it, just be aware of this. *
 
 Taking all of that in mind, **Florianopolis is a big place**, so you might like to align your accommodations with the area that you want to focus your time in. That, or switch accommodations after a few days so that you can experience both the island side and the continental side of Florianopolis with greater ease.
 
-[caption id="attachment_12798" align="alignnone" width="1024"]![Florianopolis, Santa Catarina, Brazil, Hercilio Luz Bridge at night](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Florianópolis-Santa-Catarina-Brazil-Hercilio-Luz-Bridge-1024x682.jpg) Florianopolis, Santa Catarina, Brazil, Hercilio Luz Bridge at night. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12798" align="alignnone" width="1024"]![Florianopolis, Santa Catarina, Brazil, Hercilio Luz Bridge at night](../assets/images/2017/04/Florianópolis-Santa-Catarina-Brazil-Hercilio-Luz-Bridge.jpg) Florianopolis, Santa Catarina, Brazil, Hercilio Luz Bridge at night. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Learn more about Florianopolis

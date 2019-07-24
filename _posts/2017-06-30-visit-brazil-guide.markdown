@@ -26,7 +26,7 @@ It is also a young country marked by **a mixture of cultures** originating from 
 
 In fact, Brazil offers **infinite possibilities** to the traveler. Going there may be simpler than many Americans imagine. Even so, **some tips** may come in handy before one makes the decision to pack his or her bags and head south.
 
-[caption id="attachment_17975" align="alignnone" width="1024"]![Sao Pedro Church in Gramado, Brazil](https://www.judsonlmoore.com/wp-content/uploads/2017/06/SU_SerraGaúcha0106-1024x683.jpg) Sao Pedro Church in Gramado, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_17975" align="alignnone" width="1024"]![Sao Pedro Church in Gramado, Brazil](../assets/images/2017/06/SU_SerraGaúcha0106.jpg) Sao Pedro Church in Gramado, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## The best time of the year to visit Brazil
@@ -46,7 +46,7 @@ Brazil is a tropical country, with high average temperatures and plenty of rain 
 
 However, because it is such a huge country, it is hard to indicate the best time to visit Brazil. Whichever period you choose, if you want to fully enjoy your experience in each destination, it is a good idea to **do a little research and plan beforehand**.
 
-[caption id="attachment_17969" align="alignnone" width="1024"]![Beach of Buzios, Brazil](https://www.judsonlmoore.com/wp-content/uploads/2017/06/SE_Buzios0115-1024x683.jpg) Beach of Buzios, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_17969" align="alignnone" width="1024"]![Beach of Buzios, Brazil](../assets/images/2017/06/SE_Buzios0115.jpg) Beach of Buzios, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## The Tourist Visa
@@ -64,7 +64,7 @@ Brazil is currently discussing the **issue of electronic visas** for citizens of
 
 Learn more about obtaining a visa to Brazil by visiting [the official website of the Brazilian Embassy in Washington DC](http://washington.itamaraty.gov.br/en-us/).
 
-[caption id="attachment_17976" align="alignnone" width="1024"]![Caves of the Amazon Rain Forest in Brazil](https://www.judsonlmoore.com/wp-content/uploads/2017/06/NO_Amazonas0990-1024x683.jpg) Caves of the Amazon Rain Forest in Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_17976" align="alignnone" width="1024"]![Caves of the Amazon Rain Forest in Brazil](../assets/images/2017/06/NO_Amazonas0990.jpg) Caves of the Amazon Rain Forest in Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## The route network between the US and Brazil
@@ -74,7 +74,7 @@ The number of flights between Brazil and the United States has **grown more than
 
 It is also one of the most comprehensive, since it contains more than 190 weekly **flights that connect 12 American cities** (Atlanta, Chicago, Dallas, Houston, Detroit, Fort Lauderdale, Los Angeles, Miami, New York, Newark, Orlando, and Washington) to 9 Brazilian destinations (São Paulo, Campinas, Rio de Janeiro, Brasília, Belo Horizonte, Fortaleza, Recife, Belém, and Manaus).
 
-[caption id="attachment_17974" align="alignnone" width="1024"]![The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil](https://www.judsonlmoore.com/wp-content/uploads/2017/06/SE_SãoPaulo0741-1024x683.jpg) The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_17974" align="alignnone" width="1024"]![The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil](../assets/images/2017/06/SE_SãoPaulo0741.jpg) The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Traveling in Brazil
@@ -88,7 +88,7 @@ The foreign tourist coming to Brazil who intends to visit several destinations h
 
 Besides traveling by plane, **traveling by bus in Brazil** may also be a good alternative, especially for short trips. The road transport system is efficient and generally offers excellent benefits for low costs. For longer trips, the tourist should choose buses with **fully or semi-reclining seats** (leito or semi-leito). This way, comfort will be guaranteed for the whole trip!
 
-[caption id="attachment_17973" align="alignnone" width="1024"]![Rio de Janeiro, Brazil, Central Nightlife.](https://www.judsonlmoore.com/wp-content/uploads/2017/06/SE_Riodejaneiro0705-1024x683.jpg) Rio de Janeiro, Brazil, Central Nightlife. | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_17973" align="alignnone" width="1024"]![Rio de Janeiro, Brazil, Central Nightlife.](../assets/images/2017/06/SE_Riodejaneiro0705.jpg) Rio de Janeiro, Brazil, Central Nightlife. | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## VisitBrasil.com

@@ -49,7 +49,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 ## Celebrity encounters in Porto Seguro
 
 
-[caption id="attachment_17895" align="alignright" width="181"]![Comparison of Judson Moore and Fred Durst](https://www.judsonlmoore.com/wp-content/uploads/2017/06/judson-moore-fred-durst-150x150.jpg) Fred Durst or Judson Moore?[/caption]
+[caption id="attachment_17895" align="alignright" width="181"]![Comparison of Judson Moore and Fred Durst](../assets/images/2017/06/judson-moore-fred-durst.jpg) Fred Durst or Judson Moore?[/caption]
 
 My friends and I went by bus to Porto Seguro for spring break. The bus journey from Belo Horizonte, [where I was based out of for 6-weeks](https://www.judsonlmoore.com/belo-horizonte-travel-guide/), was a tiresome overnight ride. The bus was very luxurious and comfortable, but it was a long way to go, **lasting around 15 hours**.
 
@@ -75,11 +75,11 @@ Porto Seguro is located along what is known as the Discovery Coast. Called this 
 
 It is also among the most beautiful places in the country. The beaches feel untouched. There are no major cities for hundreds of miles, no (noticeable) pollution, and **everything is left in a very natural state**.
 
-[caption id="attachment_12816" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Beach Panoramic](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Porto-Seguro-Bahia-Brazil-Beach-Panoramic-1024x682.jpg) Porto Seguro, Bahia, Brazil, Beach Panoramic. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12816" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Beach Panoramic](../assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Beach-Panoramic.jpg) Porto Seguro, Bahia, Brazil, Beach Panoramic. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 The entire coastline is lined with beach huts which play music the whole day and night. There is no lack of facility to relax, a place to sit or layout, or servers to bring you a **fresh-cut coconut, pineapple, or a refreshing caipirinha**. The beach life in Porto Seguro is both relaxed and energetic at the same time. You will feel the joy, the fun, and the warmth of the Brazilian spirit while being completely relaxed.
 
-[caption id="attachment_12820" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Ponta Grande Beach](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Porto-Seguro-Bahia-Brazil-Ponta-Grande-Beach-1024x682.jpg) Porto Seguro, Bahia, Brazil, Ponta Grande Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12820" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Ponta Grande Beach](../assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Ponta-Grande-Beach.jpg) Porto Seguro, Bahia, Brazil, Ponta Grande Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Axé: The Music of Bahia. The Music of Brazil.
@@ -99,7 +99,7 @@ The Nossa Senhora da Pena Church houses many religious paintings from the sixte
 
 Though not exactly a religious symbol, you must also visit the Discovery Landmark (_Marco do Descobrimento_) which celebrates the original landing spot of Portuguese settlers to Brazil. It is the **Brazilian equivalent to Plymouth Rock** in the USA.
 
-[caption id="attachment_12821" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Religious Sculpture](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Porto-Seguro-Bahia-Brazil-Religious-Sculpture-1024x682.jpg) Porto Seguro, Bahia, Brazil, Religious Sculpture. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12821" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Religious Sculpture](../assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Religious-Sculpture.jpg) Porto Seguro, Bahia, Brazil, Religious Sculpture. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## What to do in Porto Seguro
@@ -113,7 +113,7 @@ Though Porto Seguro had a lot of tourists at this time, the numerous nightclubs 
 
 There are other watercraft activities like the banana ride and parasailing, which I also did. All of this is easily accessible from any beach in Porto Seguro and is quite affordable, so **I highly recommend that you do it too**!
 
-[caption id="attachment_12818" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Historic Center Clouds](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Porto-Seguro-Bahia-Brazil-Historic-Center-Clouds-1024x682.jpg) Porto Seguro, Bahia, Brazil, Historic Center Clouds. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12818" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Historic Center Clouds](../assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Historic-Center-Clouds.jpg) Porto Seguro, Bahia, Brazil, Historic Center Clouds. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Where to get more information about Porto Seguro

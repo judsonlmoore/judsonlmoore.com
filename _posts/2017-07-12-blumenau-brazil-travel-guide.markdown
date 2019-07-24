@@ -45,7 +45,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 
 
-[caption id="attachment_17912" align="alignnone" width="1024"]![Blumenau Brazil Oktoberfest](https://www.judsonlmoore.com/wp-content/uploads/2017/06/blumenau-brazil-oktoberfest-1024x683.jpg) The Blumenau Oktoberfest | Photo by: [ Vitor Pamplona](https://www.flickr.com/photos/vitorpamplona/).[/caption]
+[caption id="attachment_17912" align="alignnone" width="1024"]![Blumenau Brazil Oktoberfest](../assets/images/2017/06/blumenau-brazil-oktoberfest.jpg) The Blumenau Oktoberfest | Photo by: [ Vitor Pamplona](https://www.flickr.com/photos/vitorpamplona/).[/caption]
 
 
 ## Party like a German in Brazil: Oktoberfest in Blumenau
@@ -57,7 +57,7 @@ The +500,000 liters of beer consumed during the 2-week Blumenau Oktoberfest is p
 
 All in all, the Blumenau Oktoberfest is both in a class of its own, and as near to a **mirror-image as you can find of the Munich Oktoberfest.** If you are planning a trip to Brazil in October, be sure to make time to get down south and give Blumenau a twirl!
 
-[caption id="attachment_12752" align="alignnone" width="1024"]![Blumenau, Santa Catarina, Brazil, Street Scene](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Blumenau-Santa-Catarina-Brazil-Street-Scene-1024x683.jpg) Blumenau, Santa Catarina, Brazil, Street Scene. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12752" align="alignnone" width="1024"]![Blumenau, Santa Catarina, Brazil, Street Scene](../assets/images/2017/04/Blumenau-Santa-Catarina-Brazil-Street-Scene.jpg) Blumenau, Santa Catarina, Brazil, Street Scene. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Blumenau: A city split by a river
@@ -67,13 +67,13 @@ Blumenau is divided in two by the Itajaí-Açu River. The city center runs alo
 
 On most days, though, the riverfront is a great place to walk, have a drink, and enjoy the view and fresh mountain air. The hilly region around Blumenau is also ideal for vineyards, and thusly there are many. **Pinot Noir is the wine of choice in Blumenau**, so get a glass, find a place to relax, and enjoy life in Blumenau!
 
-[caption id="attachment_17906" align="alignnone" width="722"]![Blumenau Brazil vista skyline](https://www.judsonlmoore.com/wp-content/uploads/2017/06/blumenau-brazil-vista-skyline.jpg) By [Marlon Hammes](http://flickr.com/people/hams/) de Blumenau, Brasil. - [Blumenau](http://flickr.com/photos/hams/1808536345/), [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), [Link](https://commons.wikimedia.org/w/index.php?curid=3606926)[/caption]
+[caption id="attachment_17906" align="alignnone" width="722"]![Blumenau Brazil vista skyline](../assets/images/2017/06/blumenau-brazil-vista-skyline.jpg) By [Marlon Hammes](http://flickr.com/people/hams/) de Blumenau, Brasil. - [Blumenau](http://flickr.com/photos/hams/1808536345/), [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), [Link](https://commons.wikimedia.org/w/index.php?curid=3606926)[/caption]
 
 Even with more than 300,000 inhabitants, Blumenau feels like a pretty small town. While visiting here, you will find many modern amenities and great shopping. The standard of living is among the highest in all of Brazil, so **all the comforts of life will be available to you** as a visitor.
 
 So take a walk, take a breather, enjoy a glass of wine or beer fresh from Blumenau, and enjoy the city's interesting streets, architecture, and numerous statues which hail from the city founders' **European heritage**.
 
-[caption id="attachment_12751" align="alignnone" width="1024"]![Blumenau, Santa Catarina, Brazil, Golden Statue](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Blumenau-Santa-Catarina-Brazil-statue-1024x683.jpg) Blumenau, Santa Catarina, Brazil, Golden Statue. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12751" align="alignnone" width="1024"]![Blumenau, Santa Catarina, Brazil, Golden Statue](../assets/images/2017/04/Blumenau-Santa-Catarina-Brazil-statue.jpg) Blumenau, Santa Catarina, Brazil, Golden Statue. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Learn about what you are drinking
@@ -85,7 +85,7 @@ The Museu da Cerveja will walk you through the entire history of beer from pre
 
 **Pro Tip:** The museum is free and the bathrooms are really clean.
 
-[caption id="attachment_12750" align="alignnone" width="1024"]![Blumenau, Santa Catarina, Brazil, Museu da Cerveja](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Blumenau-Santa-Catarina-Brazil-Museu-da-Cerveja-1024x683.jpg) Blumenau, Santa Catarina, Brazil, Museu da Cerveja. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12750" align="alignnone" width="1024"]![Blumenau, Santa Catarina, Brazil, Museu da Cerveja](../assets/images/2017/04/Blumenau-Santa-Catarina-Brazil-Museu-da-Cerveja.jpg) Blumenau, Santa Catarina, Brazil, Museu da Cerveja. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## For more information about Blumenau

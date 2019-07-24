@@ -83,7 +83,7 @@ There are also a number of art museums: **Casa Guignard**, **Museu de Arte Sacra
 
 Everywhere you look in Ouro Preto you will find beauty. I encourage you to stroll down every alley, walk through every door, and keep an open mind and an open heart to what treasures you might find around the next corner.
 
-![Ouro Preto Brazil Churches - source: Leandro Neumann Ciuffo, https://flic.kr/p/bSHhev](https://www.judsonlmoore.com/wp-content/uploads/2017/03/ouro-preto-brazil-churches-1024x687.jpg)
+![Ouro Preto Brazil Churches - source: Leandro Neumann Ciuffo, https://flic.kr/p/bSHhev](../assets/images/2017/03/ouro-preto-brazil-churches.jpg)
 
 
 ### Churches
@@ -123,7 +123,7 @@ Throughout all my travels in Brazil, I found that the handicrafts available in O
 
 Probably the most beautiful pieces are the local handicrafts made of stone. **The Soapstone market** is down the hill to the east from the Praca Tiradentes. This open-air market is full of local artisans selling beautiful handcrafted soapstone and wood art pieces. I bought an amazing stone chess set here, but had to leave it behind in Brazil as it did not fit in my luggage! I am very sad for that, but I was able to turn it into a great gift for my hosts in Campinas, which made my whole 6-month Brazilian excursion possible. And I can’t feel too bad about that!
 
-![Ouro Preto Brazil, Soapstone Market handcrafted plates, Source: Lunna Campos https://flic.kr/p/oWYuEJ](https://www.judsonlmoore.com/wp-content/uploads/2017/03/ouro-preto-brazil-soapstone-market-1024x678.jpg)
+![Ouro Preto Brazil, Soapstone Market handcrafted plates, Source: Lunna Campos https://flic.kr/p/oWYuEJ](../assets/images/2017/03/ouro-preto-brazil-soapstone-market.jpg)
 
 
 ## In the near from Ouro Preto

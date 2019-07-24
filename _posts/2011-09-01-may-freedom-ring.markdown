@@ -33,7 +33,7 @@ Here are some photos:
 
 
 
-![The start of the parade in front of the Talas Oblast White House](https://www.judsonlmoore.com/wp-content/uploads/2011/09/tumblr_lqu1hvkIFi1qb60c5.jpg)
+![The start of the parade in front of the Talas Oblast White House](../assets/images/2011/09/tumblr_lqu1hvkIFi1qb60c5.jpg)
 
 
 

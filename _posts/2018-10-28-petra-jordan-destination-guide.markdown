@@ -62,7 +62,7 @@ The drive to Petra is its own experience. The roads are very new and well-mainta
 
 The welcome center to Petra is much more than a gift shop and a ticket booth. There are a series of cafes and restaurants, a museum, an official hotel, and also a bar claiming to be the world's oldest because it is inside of a cave which has been actively used for trade and rest for thousands of years. Just the same, it is a really awesome place to relax at the end of the day. But let's leave that for later. Time to descend the _Siq_ and discover Petra!
 
-[caption id="attachment_19060" align="alignnone" width="1024"]![A 1-day ticket to Petra, taken at the entrance of the Siiq](https://www.judsonlmoore.com/wp-content/uploads/2018/05/petra-jordan-one-day-ticket-1024x683.jpg) A 1-day ticket to Petra.[/caption]
+[caption id="attachment_19060" align="alignnone" width="1024"]![A 1-day ticket to Petra, taken at the entrance of the Siiq](../assets/images/2018/05/petra-jordan-one-day-ticket.jpg) A 1-day ticket to Petra.[/caption]
 
 
 ## The _Siq_ into Petra
@@ -72,7 +72,7 @@ The sloping path into Petra is called the _Siq_. It is a gently-sloping dirt an
 
 The majority of structures which you will discover in Petra are tombs and are the only remaining symbols of the Nabataean Kingdom which ruled the area from 400BC until the Roman's conquered them in the 1st Century AD. Not much is known about the Nabataean people except for what has been found in trade Greek and Roman trade records from the era.
 
-[caption id="attachment_19056" align="alignright" width="300"][![Obelisk Tomb and the Triclinium along the Siiq to Petra](https://www.judsonlmoore.com/wp-content/uploads/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium-300x200.jpg)](https://www.judsonlmoore.com/wp-content/uploads/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg) Obelisk Tomb and the Triclinium along the Siq to Petra[/caption]
+[caption id="attachment_19056" align="alignright" width="300"][![Obelisk Tomb and the Triclinium along the Siiq to Petra](../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg)](../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg) Obelisk Tomb and the Triclinium along the Siq to Petra[/caption]
 
 The tombs of Petra do not have names or years indicated on them, however, some of the architecture in Petra offers clues about the period in which they were built. One of the first structures you come to along the Siq is called the Obelisk Tomb. It is called this because it features obelisks, which is very uncommon in Petra. Probably this tomb was built for a wealthy Egyptian merchant or someone who had a strong connection with Egypt.
 
@@ -84,7 +84,7 @@ Beyond the Obelisk Tomb and a few others, the rock walls start to climb up on ei
 
 One really interesting thing to note in the Siq (as pictured below) is the waist-high channels carved into the sides of the walls. These are actually aqueducts which carried fresh water to the buildings below! In a few places you can still see the clay pipes which were set into these carvings, but in most places, it is just an open trough today.
 
-[caption id="attachment_19063" align="alignnone" width="1024"]![I take a selfie halfway down the Siiq on the way to The Treasury at Petra](https://www.judsonlmoore.com/wp-content/uploads/2018/05/petra-jordan-the-siiq-path-1024x683.jpg) Halfway down the Siq on the way to The Treasury at Petra[/caption]
+[caption id="attachment_19063" align="alignnone" width="1024"]![I take a selfie halfway down the Siiq on the way to The Treasury at Petra](../assets/images/2018/05/petra-jordan-the-siiq-path.jpg) Halfway down the Siq on the way to The Treasury at Petra[/caption]
 
 
 ## The Treasury at Petra
@@ -98,7 +98,7 @@ Due to years of vandalization and graffiti, the inside of The Treasury is not ac
 
 **Pro tip:** The photo below is taken upon a ledge high above the place where the Siq ends in front of the Treasury. There are two ways to get there: the 3.5km (2.2 miles) Al-Khubtha trail (AKA green trail), which takes about 3 hours or pay one of the local kids at The Treasury to take you up a secret (and guarded) path which takes about 5 minutes. Trust me, you don't want to do this by yourself and the $5 will help a local family. The best part: you get an awesome photo like this, and now you freed up 3 hours of your day to explore other trails instead!
 
-[caption id="attachment_19045" align="alignnone" width="1024"]![Judson stands on a ledge above The Treasury at Petra.](https://www.judsonlmoore.com/wp-content/uploads/2018/05/petra-jordan-al-khazneh-treasury-above-1024x683.jpg) The Treasury at Petra.[/caption]
+[caption id="attachment_19045" align="alignnone" width="1024"]![Judson stands on a ledge above The Treasury at Petra.](../assets/images/2018/05/petra-jordan-al-khazneh-treasury-above.jpg) The Treasury at Petra.[/caption]
 
 
 ## Getting around inside Petra
@@ -112,7 +112,7 @@ Thanks to eons of water flow and millions of visitors, the paths around Petra ar
 
 There are several camel stations around Petra, so you can hop on one from and to just about anywhere. If you were to take one at all, I recommend that you wait until the end of the day and take one from next to the Treasury back up to the visitor's entrance.
 
-[caption id="attachment_19052" align="alignnone" width="1024"]![Camels and donkeys relaxing at The Treasury in Petra](https://www.judsonlmoore.com/wp-content/uploads/2018/05/petra-jordan-camels-1024x682.jpg) Camels and donkeys await tourists to give rides to.[/caption]
+[caption id="attachment_19052" align="alignnone" width="1024"]![Camels and donkeys relaxing at The Treasury in Petra](../assets/images/2018/05/petra-jordan-camels.jpg) Camels and donkeys await tourists to give rides to.[/caption]
 
 
 ## The Monastery at Petra
@@ -122,7 +122,7 @@ What I most enjoyed about Petra is that _it is so much more_ than The Treasury. 
 
 This magnificent structure appears to be built rather than carved, but actually, it is a mix. You can see the rock wall to the right is part of the original hillside from which The Monastery is indeed carved. But you can also see a sloping seam-line on the column left of center which slopes in the direction of the original hillside, thus indicating that the top of the Monastery was indeed built, at least in part.
 
-[caption id="attachment_19041" align="alignnone" width="1024"]![The Monastery at Petra with a Jordanian flag](https://www.judsonlmoore.com/wp-content/uploads/2018/05/petra-jordan-ad-deir-monastery-1024x683.jpg) The Monastery at Petra[/caption]
+[caption id="attachment_19041" align="alignnone" width="1024"]![The Monastery at Petra with a Jordanian flag](../assets/images/2018/05/petra-jordan-ad-deir-monastery.jpg) The Monastery at Petra[/caption]
 
 
 ## The High Place of Sacrifice and Trail
@@ -134,7 +134,7 @@ Aside from the trail being very beautiful and mostly void of other visitors, the
 
 [gallery link="file" size="medium" ids="19053,19061,19064"]
 
-[caption id="attachment_19062" align="alignnone" width="1024"]![A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice](https://www.judsonlmoore.com/wp-content/uploads/2018/05/petra-jordan-royal-tombs-1024x683.jpg) The Royal Tombs of Petra, taken from atop the High Place of Sacrifice[/caption]
+[caption id="attachment_19062" align="alignnone" width="1024"]![A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice](../assets/images/2018/05/petra-jordan-royal-tombs.jpg) The Royal Tombs of Petra, taken from atop the High Place of Sacrifice[/caption]
 
 
 ## When are you going to Petra?

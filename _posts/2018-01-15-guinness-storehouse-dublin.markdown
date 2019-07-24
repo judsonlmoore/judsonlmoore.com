@@ -64,7 +64,7 @@ The barley was a field of grains probably 30' x 30' with multimedia displayed on
 
 All of this was to set up what came next: **the brewing process**. (Step 11 is an on-going theme throughout the Guinness Storehouse.)
 
-![image-28](https://www.judsonlmoore.com/wp-content/uploads/2018/01/guinness-storehouse-dublin-brewing-process-1024x683.jpg)
+![image-28](../assets/images/2018/01/guinness-storehouse-dublin-brewing-process.jpg)
 
 
 ## Guinness as an industrial revolution leader
@@ -74,7 +74,7 @@ A phrase which came up many times at the Guinness Storehouse was that this space
 
 I must say that **of all the breweries I have visited around the world**, none have showcased their industrial roots quite like this.
 
-![image-27](https://www.judsonlmoore.com/wp-content/uploads/2018/01/guinness-storehouse-dublin-brewing-machinery-1024x683.jpg)
+![image-27](../assets/images/2018/01/guinness-storehouse-dublin-brewing-machinery.jpg)
 
 
 ## Detail and impressive scale at every step of the way
@@ -86,7 +86,7 @@ I must say that **of all the breweries I have visited around the world**, none h
 
 This exhibit area features a large stack of Guinness barrels, a display of original cooper tools, and a video which shows the whole process, start to finish, of a cooper making one of these barrels. **Fascinating.**
 
-![image-25](https://www.judsonlmoore.com/wp-content/uploads/2018/01/guinness-storehouse-dublin-barrels-1024x683.jpg)
+![image-25](../assets/images/2018/01/guinness-storehouse-dublin-barrels.jpg)
 
 
 ## Cultural impacts of Guinness
@@ -100,7 +100,7 @@ Part of the claim in the advertising section of the museum is that these **Guinn
 
 The culture piece which I gravitated to was the one which impacts my daily work in the technology sector: **the constant availability of beer at work**. Every day at 10am, the official taste-testers at Guinness have to take a drink. This is only about quality assurance, of course, but hey, someone has to do it!
 
-![image-24](https://www.judsonlmoore.com/wp-content/uploads/2018/01/guinness-storehouse-dublin-tasting-time-clock-1024x682.jpg)
+![image-24](../assets/images/2018/01/guinness-storehouse-dublin-tasting-time-clock.jpg)
 
 
 ## A little taste of the black stuff
@@ -114,7 +114,7 @@ We are asked to describe what we smell. The room responds with all sorts of "not
 
 And then finally, we get to drink some Guinness! Unfortunately, as you can see from this image, **it is the world's smallest beer.**
 
-![image-23](https://www.judsonlmoore.com/wp-content/uploads/2018/01/guinness-storehouse-dublin-tiny-taste-testing-1024x683.jpg)
+![image-23](../assets/images/2018/01/guinness-storehouse-dublin-tiny-taste-testing.jpg)
 
 
 ## How to achieve a perfect pour of Guinness
@@ -124,7 +124,7 @@ But the drinking isn't over yet! The last stop on the tour is the Guinness Pouri
 
 **The perfect pour of Guinness** demands that you first fill the glass about 2/3 by pulling the tap toward you. Then you let this settle for a minute and when you continue filling the glass you _push_ the tap _in_ which actually pours Guinness _without_ nitro! It is this combination that creates the trademark creamy head on top of the glass.
 
-![image-22](https://www.judsonlmoore.com/wp-content/uploads/2018/01/guinness-storehouse-dublin-perfect-pint-certification-1024x683.jpg)
+![image-22](../assets/images/2018/01/guinness-storehouse-dublin-perfect-pint-certification.jpg)
 
 
 ## Plan a visit to the Guinness Storehouse

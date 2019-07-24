@@ -38,7 +38,7 @@ After a few months of this, **I started to get an idea**. I observed that many o
 
 Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone and was keeping in touch with the news and their friends via phone apps. Therefore, I came up with the idea that **we should provide phones and an online platform** to these journalists so that they could publish stories today, while they continue to progress toward building a radio station tomorrow.
 
-[caption id="attachment_18434" align="alignnone" width="1024"]![Judson delivering the keynote at a media conference in Bishkek in November 2017](https://www.judsonlmoore.com/wp-content/uploads/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote-1024x683.jpg) Judson delivering the keynote at a media conference in Bishkek in November 2017.[/caption]
+[caption id="attachment_18434" align="alignnone" width="1024"]![Judson delivering the keynote at a media conference in Bishkek in November 2017](../assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg) Judson delivering the keynote at a media conference in Bishkek in November 2017.[/caption]
 
 [KyrgyzMedia.com](http://kyrgyzmedia.com/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
 
@@ -46,7 +46,7 @@ Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone
 
 Last week, **I was afforded the opportunity** to present this history and success to the journalists at a media conference in Bishkek, where I was a guest of the conference at the invitation of Deutsche Welle. I am eternally grateful to their support of the project, and of course to the journalists who saw value in this concept and who have owned it ever since.
 
-[caption id="attachment_18424" align="alignnone" width="1024"]![A chart showing the growth in articles read year over year. ](https://www.judsonlmoore.com/wp-content/uploads/2017/11/kyrgyzmedia.com-5-year-growth-1024x555.png) Year over year growth in articles read on KyrgyzMedia.com[/caption]
+[caption id="attachment_18424" align="alignnone" width="1024"]![A chart showing the growth in articles read year over year. ](../assets/images/2017/11/kyrgyzmedia.com-5-year-growth.png) Year over year growth in articles read on KyrgyzMedia.com[/caption]
 
 
 ## Improvements in medical facilities
@@ -58,7 +58,7 @@ As a writer **constrained to a hospital bed** for a week, I did just what you mi
 
 In my writing, I strived to compliment the skills and achievement of the medical teams, who were indeed great. However, they had very limited resources to work with. The purpose of my article was more to shine a light on the awful conditions of Kyrgyzstan's top surgical center in hopes that it might be **a contributing factor to future improvements**. My article was even [translated into Russian and posted on the local news site, Kloop Media](https://kloop.kg/blog/2013/04/29/kak-amerikanets-perezhil-appenditsit-v-bishkeke/).
 
-[caption id="attachment_2263" align="alignnone" width="1024"]![Judson recovering in a hospital bed after having an appendectomy in Bishkek.](https://www.judsonlmoore.com/wp-content/uploads/2013/04/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049-1024x768.jpg) Judson recovering in a hospital bed after having an appendectomy in Bishkek.[/caption]
+[caption id="attachment_2263" align="alignnone" width="1024"]![Judson recovering in a hospital bed after having an appendectomy in Bishkek.](../assets/images/2013/04/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049.jpg) Judson recovering in a hospital bed after having an appendectomy in Bishkek.[/caption]
 
 This week, my old doctor shared with me the news that **something indeed did happen** as a result of my reporting.
 
@@ -68,7 +68,7 @@ What I have now learned, is that this started a wave on which enough support was
 
 I was only dreaming that by sharing my experiences, I could make some impact at all on the Kyrgyz health care system. To learn that now a whole new hospital has been built on the support which my article played a part in forming is one of **the most remarkable things** I have ever come to know.
 
-[caption id="attachment_18425" align="alignnone" width="1000"]![President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. ](https://www.judsonlmoore.com/wp-content/uploads/2017/11/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg) President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html)[/caption]
+[caption id="attachment_18425" align="alignnone" width="1000"]![President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. ](../assets/images/2017/11/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg) President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html)[/caption]
 
 
 ## Students attending university
@@ -84,7 +84,7 @@ After a week, the camp concluded and everyone went home, where **I was never to 
 
 This week, I caught up with Meerim and she informed me that **100% of those students** applied to, and are now attending, university! To top it off, they all got scholarships! This outcome was beyond anyone’s wildest hopes and is a testament to what impact anyone can make in the life of another person, especially if you reach them at a young age.
 
-[caption id="attachment_18426" align="alignnone" width="999"]![Judson provides computer training to students in Bishkek.](https://www.judsonlmoore.com/wp-content/uploads/2017/11/Bishkek-ICT-Training.jpg) Judson provides computer training to students in Bishkek.[/caption]
+[caption id="attachment_18426" align="alignnone" width="999"]![Judson provides computer training to students in Bishkek.](../assets/images/2017/11/Bishkek-ICT-Training.jpg) Judson provides computer training to students in Bishkek.[/caption]
 
 
 ## Friends that are like family

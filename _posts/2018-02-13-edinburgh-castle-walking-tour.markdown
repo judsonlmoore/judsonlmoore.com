@@ -52,7 +52,7 @@ Keeping things simple, our meeting point was at the same location as the free wa
 ## Edinburgh Castle Walking Tour
 
 
-[The official website of the Edinburgh Castle](https://www.edinburghcastle.gov.uk) offers a lot of great information about the castle's history and the independent tours you can take on your own. **I recommend** that you [download the official Edinburgh Castle Map](https://www.judsonlmoore.com/wp-content/uploads/2018/01/edinburgh-castle-orientation-map.pdf) now so that you can better orient yourself as you read this article and follow along on the map.
+[The official website of the Edinburgh Castle](https://www.edinburghcastle.gov.uk) offers a lot of great information about the castle's history and the independent tours you can take on your own. **I recommend** that you [download the official Edinburgh Castle Map](../assets/images/2018/01/edinburgh-castle-orientation-map.pdf) now so that you can better orient yourself as you read this article and follow along on the map.
 
 The tour was nearly **two hours from start to finish**. When the tour concludes, you are free to explore the castle on your own and see some of the special exhibits, such as Scotland's Crown Jewels which are on display in the castle.
 
@@ -66,7 +66,7 @@ The Edinburgh Castle was built as an impenetrable and menacing fortress with det
 
 The new gatehouse is the first thing you see when you approach the Edinburgh Castle. You can see that the stone color and the architecture is rather different from the castle which lay behind. The reason for this was triggered by a visit of Queen Victoria who upon arrival was **a bit disappointed at how unwelcoming the castle felt**. She desired that there be a more royal castle aesthetic and so this new gatehouse was built in 1888, along with one tower on the main building which, though a small detail, does go a long way to making the Edinburgh Castle feel a bit more like the royal castles of England, such as Windsor Castle.
 
-[caption id="attachment_18792" align="alignnone" width="1024"]![A red coffee truck stands in front of The Gatehouse at Edinburgh Castle](https://www.judsonlmoore.com/wp-content/uploads/2018/01/castle-walking-tour-edinburgh-new-gatehouse-coffee-truck-1024x682.jpg) A coffee truck stands in front of the Gatehouse at Edinburgh Castle[/caption]
+[caption id="attachment_18792" align="alignnone" width="1024"]![A red coffee truck stands in front of The Gatehouse at Edinburgh Castle](../assets/images/2018/01/castle-walking-tour-edinburgh-new-gatehouse-coffee-truck.jpg) A coffee truck stands in front of the Gatehouse at Edinburgh Castle[/caption]
 
 
 ## Prisoners of War
@@ -74,7 +74,7 @@ The new gatehouse is the first thing you see when you approach the Edinburgh Cas
 
 What _really_ makes a castle? A dungeon! The Prisoners of War is a reenactment and multimedia experience in the Edinburgh Castle's dungeon. Here, you get to explore the castle's prison as it would have looked for centuries as the home to prisoners of war from all over the world. Alongside furnishings and personal items which were typical of prisoners who live here, there also audio clips playing throughout the room. As you listen, you get to learn about some of the lives and experiences of real prisoners, who were kept in the Edinburgh Castle dungeon. Prisoners came from all over the world, because of all sorts of conflicts, including **the American Revolution**.
 
-[caption id="attachment_18790" align="alignnone" width="1024"]![A photo of the sleeping conditions which prisoners of war held at Edinburgh Castle would have endured](https://www.judsonlmoore.com/wp-content/uploads/2018/01/castle-walking-tour-edinburgh-military-prison-1024x683.jpg) Prisoners of War Exhibit at Edinburgh Castle[/caption]
+[caption id="attachment_18790" align="alignnone" width="1024"]![A photo of the sleeping conditions which prisoners of war held at Edinburgh Castle would have endured](../assets/images/2018/01/castle-walking-tour-edinburgh-military-prison.jpg) Prisoners of War Exhibit at Edinburgh Castle[/caption]
 
 
 ## Scotland's Crown Jewels
@@ -84,7 +84,7 @@ What _really_ makes a castle? A dungeon! The Prisoners of War is a reenactment 
 
 Leading up to seeing the crown jewels is an exhibit chronicling the history of the monarchy and other various royal families and dynasties of Scotland. **The whole exhibit is done very well.** Unfortunately, I didn't have very much time left to spend in the castle so I had to rush through all of that fairly quickly. You should give yourself at least 20 to 30 minutes to enjoy The Honors of the Kingdom exhibit.
 
-[caption id="attachment_18789" align="alignnone" width="1024"]![A photo of the sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle](https://www.judsonlmoore.com/wp-content/uploads/2018/01/castle-walking-tour-edinburgh-crown-jewles-sign-1024x683.jpg) Sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle[/caption]
+[caption id="attachment_18789" align="alignnone" width="1024"]![A photo of the sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle](../assets/images/2018/01/castle-walking-tour-edinburgh-crown-jewles-sign.jpg) Sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle[/caption]
 
 
 ## Mons Meg - 510mm Caliber Cannon
@@ -94,7 +94,7 @@ The Mons Meg is a 500-year-old siege cannon. Its 20-inch (510mm) barrel size mak
 
 The last time Mons Meg was fired with ammunition was in 1680 to celebrate the arrival of James, Duke of Albany and York, who would later become King James VII. On this occasion, **the barrel burst open** and it has not been capable of munitions firing ever since. However, it is fired still today once a year on Hogmanay (new year) to mark the beginning of the fireworks display. Of course, now it just fires blanks.
 
-[caption id="attachment_18791" align="alignnone" width="1024"]![Mons Meg pointed out to the harbor below Edinburgh Castle](https://www.judsonlmoore.com/wp-content/uploads/2018/01/castle-walking-tour-edinburgh-mons-meg-1024x683.jpg) Mons Meg at Edinburgh Castle[/caption]
+[caption id="attachment_18791" align="alignnone" width="1024"]![Mons Meg pointed out to the harbor below Edinburgh Castle](../assets/images/2018/01/castle-walking-tour-edinburgh-mons-meg.jpg) Mons Meg at Edinburgh Castle[/caption]
 
 
 ## Scottish National War Memorial
@@ -104,7 +104,7 @@ Another recent addition to the Edinburgh Castle is the Scottish National War Mem
 
 The exterior of the memorial has been designed with the Edinburgh Castle aesthetic kept in mind. As this rests atop one of the highest points of the castle's grounds, it is very visible from afar and so the architecture is intended to blend in. The interior, on the other hand, is almost art deco in style and feel much more like a modern memorial of sorts. **The flags of Scottish regiments hang throughout.** Under each flag are thick books on display with the names of all those who have served in each regiment and who have died in service.
 
-[caption id="attachment_18794" align="alignnone" width="1024"]![The outside of the Scottish National War Memorial](https://www.judsonlmoore.com/wp-content/uploads/2018/01/castle-walking-tour-edinburgh-scottish-national-war-memorial-1024x683.jpg) Scottish National War Memorial at Edinburgh Castle[/caption]
+[caption id="attachment_18794" align="alignnone" width="1024"]![The outside of the Scottish National War Memorial](../assets/images/2018/01/castle-walking-tour-edinburgh-scottish-national-war-memorial.jpg) Scottish National War Memorial at Edinburgh Castle[/caption]
 
 
 ## St Margaret's Chapel
@@ -114,7 +114,7 @@ The exterior of the memorial has been designed with the Edinburgh Castle aesthet
 
 In 1314 the castle was captured by Robert the Bruce and all the buildings inside, except for the Chapel, were destroyed. Though the chapel did fall in to disuse after that, it would eventually be renovated and put back in to use in the 19th century. **It has held services on a fairly regular basis ever since.**
 
-[caption id="attachment_18795" align="alignnone" width="1024"]![Judson taking a selfie in front of St Margaret's Chapel](https://www.judsonlmoore.com/wp-content/uploads/2018/01/castle-walking-tour-edinburgh-st-margarets-chapel-judson-1024x683.jpg) St Margaret's Chapel at Edinburgh Castle[/caption]
+[caption id="attachment_18795" align="alignnone" width="1024"]![Judson taking a selfie in front of St Margaret's Chapel](../assets/images/2018/01/castle-walking-tour-edinburgh-st-margarets-chapel-judson.jpg) St Margaret's Chapel at Edinburgh Castle[/caption]
 
 
 ## A Day Well Spent in Edinburgh

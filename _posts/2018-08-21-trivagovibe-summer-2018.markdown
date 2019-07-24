@@ -51,9 +51,7 @@ _Then came the question:_
 
 And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum >BOOM< we all knew we struck gold. **This. Drum set. Sounds. AMAZING. Live!** Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.
 
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
-
-<!-- [caption id="attachment_19188" align="alignnone" width="1024"]![Janine (Avocadogate) sound checks on the Roland TD-30KV](https://www.judsonlmoore.com/wp-content/uploads/2018/08/trivagoVibe-Summer-2018-001-1024x768.jpg) Janine (Avocadogate) sound checks on the Roland TD-30KV[/caption] -->
+[caption id="attachment_19188" align="alignnone" width="1024"]![Janine (Avocadogate) sound checks on the Roland TD-30KV](../assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg) Janine (Avocadogate) sound checks on the Roland TD-30KV[/caption]
 
 ## Musical Talent of trivago: The Lineup
 **I am just blown away at the level of musical talent that exists in this company.** Not to mention the courage it takes to play music in front of all your colleagues. The concert featured 8 acts: 6 bands, a DJ, and me. Here are some highlight photos from the evening.
@@ -71,7 +69,7 @@ As I walked onto the stage, I slipped into character. For the next 32 minutes, I
 
 <blockquote>**Update:** Checkout the official website for Drumson at [https://drumson.de](https://drumson.de)!</blockquote>
 
-[caption id="attachment_19193" align="alignnone" width="1024"]![](https://www.judsonlmoore.com/wp-content/uploads/2018/08/trivagoVibe-Summer-2018-006-1024x768.jpg) Drumson performs a solo show at the 2018 trivagoVibe[/caption]
+[caption id="attachment_19193" align="alignnone" width="1024"]![](../assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg) Drumson performs a solo show at the 2018 trivagoVibe[/caption]
 
 ## Watch Video Footage from my First DRUMSON Performance
 In all the years that I have played drums, I have no videos from a live performance, and I hardly have any photos. I certainly have no quality photos. Therefore, I asked a few friends to take some videos of my performance. **The results were really amazing!** Many people sent me videos and I was able to splice together this video recap of the show.
@@ -87,4 +85,4 @@ Please excuse the unstable audio level, I think the phones had a difficult time 
 
 Until then, please leave me your thoughts in the comments below, and you can always reach me directly on [Facebook](https://www.facebook.com/JudsonLMooreBlog/) and [Twitter](https://twitter.com/judsonlmoore)!
 
-![](https://www.judsonlmoore.com/wp-content/uploads/2018/08/trivagoVibe-Summer-2018-011-1024x768.jpg)
+![](../assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg)

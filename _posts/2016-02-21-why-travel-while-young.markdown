@@ -22,7 +22,7 @@ The greatest advantage I have had in life is that when I was young, I had many a
 
 People say _carpe diem_ like as if you don't know what the future holds. Though you can't know if this is your last day in good health or not, for many people, life can be somehow predictable. I've made this infographic to represent an average American's life who sticks to the traditional routine of education, career, family and retirement. The dark blue represents things in our life which make travel more difficult. The yellow represents time of greater flexibility.
 
-![Why Travel While Young Graph](https://www.judsonlmoore.com/wp-content/uploads/2016/02/Why-Travel-While-Young-Graph.jpg)
+![Why Travel While Young Graph](../assets/images/2016/02/Why-Travel-While-Young-Graph.jpg)
 
 
 

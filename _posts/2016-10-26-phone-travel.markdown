@@ -106,7 +106,7 @@ Once you’re on the plane, remove your SIM card. You’ll also want a [SIM too
 
 
 
-![A diagram of how to remove a SIM card from an iPhone with a paperclip.](https://www.judsonlmoore.com/wp-content/uploads/2016/10/iphone-sim-removal-diagram-614x430.png)
+![A diagram of how to remove a SIM card from an iPhone with a paperclip.](../assets/images/2016/10/iphone-sim-removal-diagram.png)
 
 
 

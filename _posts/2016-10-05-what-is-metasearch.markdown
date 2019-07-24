@@ -46,7 +46,7 @@ Please forgive the nerd in me that despite my best judgement will now show you a
 
 
 
-![metasearch explained in a chart](https://www.judsonlmoore.com/wp-content/uploads/2016/08/metasearch-explained-614x562.png)
+![metasearch explained in a chart](../assets/images/2016/08/metasearch-explained.png)
 
 
 _source: [Jakob Voss](https://en.wikipedia.org/wiki/Metasearch_engine#/media/File:Meta-search-en.svg)_

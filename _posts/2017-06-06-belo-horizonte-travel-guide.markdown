@@ -54,7 +54,7 @@ The square is surrounded by a number of historic buildings, including the old go
 
 The area around the square is designated as a cultural center called Circuito Cultural Praça da Liberdade (The Cultural Circuit of Freedom Square). This zone recognizes the historical significance of the space and the buildings which shaped Brazil's history for more than a century. In this area, there are more than a dozen institutions, museums, and cultural centers.
 
-[caption id="attachment_12746" align="alignnone" width="1024"]![Belo Horizonte, Brasil, Minas Gerais, Praça da liberdade | Courtesy of Embratur Image Bank](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Praça-da-liberdade-1024x682.jpg) Belo Horizonte, Brasil, Minas Gerais, Praça da liberdade. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12746" align="alignnone" width="1024"]![Belo Horizonte, Brasil, Minas Gerais, Praça da liberdade | Courtesy of Embratur Image Bank](../assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Praça-da-liberdade.jpg) Belo Horizonte, Brasil, Minas Gerais, Praça da liberdade. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## The Seat of Government
@@ -64,7 +64,7 @@ At the southern end of Freedom Park is the **Palácio da Liberdade**. This is th
 
 Today the Palácio da Liberdade acts as a tourist attraction and is only put into official service during the transfer of power ceremonies between elected officials.
 
-[caption id="attachment_12743" align="alignnone" width="1024"]![Belo Horizonte, Brasil, Minas Gerais, Palácio da Liberdade](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Palácio-da-Liberdade-1024x682.jpg) Belo Horizonte, Brasil, Minas Gerais, Palácio da Liberdade. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12743" align="alignnone" width="1024"]![Belo Horizonte, Brasil, Minas Gerais, Palácio da Liberdade](../assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Palácio-da-Liberdade.jpg) Belo Horizonte, Brasil, Minas Gerais, Palácio da Liberdade. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Museums reflect the rich history of Minas Gerais
@@ -80,7 +80,7 @@ The name of the state Belo Horizonte is in is _Minas Gerais,_ which translates
 
 There are many museums in Belo Horizonte, but perhaps the most unique is the [Museu do metal](http://www.mmgerdau.org.br/explore-o-museu/). This museum tells the history of metal in Brazil. The precious ores have been at the heart of Brazil's economic success, and their ability to be among the world's emerging superpowers. The museum is a modern structure with **breathtaking architecture, play on light, reflection, and metal of every shape, size, and color**.
 
-[caption id="attachment_12742" align="alignnone" width="1024"]![Belo Horizonte, Brasil, Minas Gerais, Museu do metal](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Museu-do-metal-1024x682.jpg) Belo Horizonte, Brasil, Minas Gerais, Museu do metal. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12742" align="alignnone" width="1024"]![Belo Horizonte, Brasil, Minas Gerais, Museu do metal](../assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Museu-do-metal.jpg) Belo Horizonte, Brasil, Minas Gerais, Museu do metal. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Arts, crafts, and rainbows make a splash
@@ -90,7 +90,7 @@ On a hot summer day in Belo Horizonte, you will find the streets lined with arti
 
 Even if you don't go in the museum, you can find artisans in the plaza out front and **cool down with a dance in the water fountains**. It is also a great place to catch a rainbow on a cloudless day!
 
-[caption id="attachment_12741" align="alignnone" width="1024"]![Belo Horizonte, Brasil, Minas Gerais, Palácio de artes e ofícios](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Museu-de-Artes-e-Ofícios-1024x682.jpg) Belo Horizonte, Brasil, Minas Gerais, Palácio de artes e ofícios. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12741" align="alignnone" width="1024"]![Belo Horizonte, Brasil, Minas Gerais, Palácio de artes e ofícios](../assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Museu-de-Artes-e-Ofícios.jpg) Belo Horizonte, Brasil, Minas Gerais, Palácio de artes e ofícios. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## Panoramic City Views
@@ -109,7 +109,7 @@ Here are two places I can recommend for catching the panoramic view of Belo Hori
   * **Alta Vila Tower** - Located in the district of Nova Lima on the south side of Belo Horizonte, this tower offers a spectacular view of Belo Horizonte and its surrounding mountains but without the hefty price tag of Porcão BH. If you get hungry then you are in luck, because on the first floor is the Belo Horizonte Hard Rock Cafe!
 
 
-[caption id="attachment_12744" align="aligncenter" width="1280"]![Arquitetura, Belo Horizonte, Brasil, Minas Gerais, Panorâmica](https://www.judsonlmoore.com/wp-content/uploads/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Panorâmica.jpg) Belo Horizonte, Brasil, Minas Gerais, Panorâmica. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+[caption id="attachment_12744" align="aligncenter" width="1280"]![Arquitetura, Belo Horizonte, Brasil, Minas Gerais, Panorâmica](../assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Panorâmica.jpg) Belo Horizonte, Brasil, Minas Gerais, Panorâmica. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
 
 ## How to get more information about Belo Horizonte

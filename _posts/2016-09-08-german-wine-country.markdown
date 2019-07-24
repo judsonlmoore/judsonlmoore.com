@@ -31,7 +31,7 @@ Upon arrival, we were cheerfully greeted by the owner and wine master, who didn'
 
 After a brief tour of the facilities and a crash course of the winemaking process, we moved into the tasting room and the main event got underway.
 
-![Germany Wine Country Taste Testing at Weingut Pfirmann](https://www.judsonlmoore.com/wp-content/uploads/2016/08/germany-wine-country-taste-testing-at-weingut-pfirmann.jpg)
+![Germany Wine Country Taste Testing at Weingut Pfirmann](../assets/images/2016/08/germany-wine-country-taste-testing-at-weingut-pfirmann.jpg)
 
 
 _photo credit: Kathrin Rupprath_
@@ -45,7 +45,7 @@ _photo credit: Kathrin Rupprath_
 
 Now, I have to admit, I took notes on my thoughts for each wine, but aside from having a wrecked pallet long before I got to the 11th bottle, I also just don't have the vocabulary for properly describing wines. Therefore, I have merged my personal thoughts with some descriptions I found on [EuroWineKontor](https://euroweinkontor.de/de/shop/winzershop/pfirmann/) to help me out. You can also buy the wine online from that site.
 
-Download the entire Weingut Pfirmann 2016 wine list [here (PDF)](https://www.judsonlmoore.com/wp-content/uploads/2016/09/weingut-pfirmann-weinliste.pdf).
+Download the entire Weingut Pfirmann 2016 wine list [here (PDF)](../assets/images/2016/09/weingut-pfirmann-weinliste.pdf).
 
 ***** _denotes my top picks_
 
@@ -95,4 +95,4 @@ It is hard to say that there was a part of this day's experience which was bette
 
 I highly recommend that you make a visit to the German wine country and to Landau. Take your family, your friends, or just yourself. You are going to have a great time! Have you been to Landau before? Are you thinking about making a trip there? I would love to hear your thoughts in the comments below, or reach out to me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
 
-![Friends in the German Wine Country walking through a vineyard.](https://www.judsonlmoore.com/wp-content/uploads/2016/09/friends-in-the-german-wine-country-walking-through-a-vineyard-1024x683.jpg)
+![Friends in the German Wine Country walking through a vineyard.](../assets/images/2016/09/friends-in-the-german-wine-country-walking-through-a-vineyard.jpg)

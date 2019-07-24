@@ -98,7 +98,7 @@ Without further adieu, here is the start to finish top 10 list of Redfin’s bes
 
 
 Top 10 cities by composite score
-![Redfin's top 10 American cities for living without a car](https://www.judsonlmoore.com/wp-content/uploads/2017/03/best-cities-no-car-redfin-2017.jpg)
+![Redfin's top 10 American cities for living without a car](../assets/images/2017/03/best-cities-no-car-redfin-2017.jpg)
 
 
 _Source: _[_Walk Score_](https://www.walkscore.com/)

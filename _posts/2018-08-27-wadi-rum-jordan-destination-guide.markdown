@@ -56,7 +56,7 @@ Even the **nearby site of the City of Petra**, which was the capital of the myst
 
 But enough with the human history: **what can people do here today?** Well, people still live here and carry on a desert and nomadic culture. Though trade was once the core of the local economy, like that of the Silk Road, Wadi Rum now flourishes on tourism.
 
-[caption id="attachment_19051" align="alignnone" width="1024"]![My new friends from the Wadi Rum tour, including Tiffany Tchouboukjian (opposite from me), pilled up in the back of a truck for our desert jeep tour](https://www.judsonlmoore.com/wp-content/uploads/2018/05/wadi-rum-jordan-jeep-tour-group-1024x683.jpg) My new friends from the Wadi Rum tour, including Tiffany Tchouboukjian (opposite from me), pilled up in the back of a truck for our desert jeep tour[/caption]
+[caption id="attachment_19051" align="alignnone" width="1024"]![My new friends from the Wadi Rum tour, including Tiffany Tchouboukjian (opposite from me), pilled up in the back of a truck for our desert jeep tour](../assets/images/2018/05/wadi-rum-jordan-jeep-tour-group.jpg) My new friends from the Wadi Rum tour, including Tiffany Tchouboukjian (opposite from me), pilled up in the back of a truck for our desert jeep tour[/caption]
 
 
 ## Tours of Wadi Rum
@@ -72,7 +72,7 @@ The tour included stops in Jerash, Amman, Petra, and lastly (but most certainly
 
 The Wadi Rum tour consisted of three parts: jeep tour, camel tour (optional), lunch. Jeep is the best way to get around the desert, I believe. **We only ever got stuck in the sand once!**
 
-[caption id="attachment_19055" align="alignnone" width="1024"]![Judson poses with Wadi Rum tour jeeps in the Lawrence Memorial Bedouin Camp](https://www.judsonlmoore.com/wp-content/uploads/2018/05/wadi-rum-jordan-jeep-tour-parked-1024x683.jpg) The jeeps line up at the Lawrence Memorial Bedouin Camp.[/caption]
+[caption id="attachment_19055" align="alignnone" width="1024"]![Judson poses with Wadi Rum tour jeeps in the Lawrence Memorial Bedouin Camp](../assets/images/2018/05/wadi-rum-jordan-jeep-tour-parked.jpg) The jeeps line up at the Lawrence Memorial Bedouin Camp.[/caption]
 
 
 ## Camels of Wadi Rum
@@ -86,7 +86,7 @@ In Wadi Rum, you will see **two types of camels** when you visit: those which ar
 
 And here is something new I learned: when you see camels freely walking in a straight line, it means they intend to walk a really long distance! **I wonder if that has to do with aerodynamics?**
 
-[caption id="attachment_19040" align="alignnone" width="1024"]![Camels laying on the red sand of Wadi Rum in Jordan](https://www.judsonlmoore.com/wp-content/uploads/2018/05/wadi-rum-jordan-camels-1024x683.jpg) Camels of the Wadi Rum Desert in Jordan[/caption]
+[caption id="attachment_19040" align="alignnone" width="1024"]![Camels laying on the red sand of Wadi Rum in Jordan](../assets/images/2018/05/wadi-rum-jordan-camels.jpg) Camels of the Wadi Rum Desert in Jordan[/caption]
 
 
 ## Desert Camel Safari
@@ -96,7 +96,7 @@ Despite my weird love for camels, when offered the optional opportunity to take 
 
 This camel safari only lasted 20-30 minutes and ended at the Lawrence Memorial Bedouin Camp where I was already waiting for everyone, as I came in a jeep. This also meant **I had more time for drinking** the incredible (and incredibly sweet) Bedouin tea!
 
-[caption id="attachment_19033" align="alignnone" width="1024"]![A tour group takes a camel safari in the Wadi Rum Desert in southern Jordan](https://www.judsonlmoore.com/wp-content/uploads/2018/05/wadi-rum-jordan-camel-ride-1024x683.jpg) The camel safari of the Wadi Rum Desert[/caption]
+[caption id="attachment_19033" align="alignnone" width="1024"]![A tour group takes a camel safari in the Wadi Rum Desert in southern Jordan](../assets/images/2018/05/wadi-rum-jordan-camel-ride.jpg) The camel safari of the Wadi Rum Desert[/caption]
 
 
 ## Petroglyphs and Inscriptions
@@ -104,7 +104,7 @@ This camel safari only lasted 20-30 minutes and ended at the Lawrence Memorial 
 
 Right, so I mentioned the 12,000-year-old origins of humans in the area. Wadi Rum is scattered with **more than 40,000 known petroglyphs and inscriptions** on the rocks. The point of our tour where the camel safari began is one such point of interest where these markings are clearly visible. Luckily, the markings are very much out of reach without a ladder, which is probably one of the reasons they have lasted for so long.
 
-[caption id="attachment_19058" align="alignnone" width="1024"]![Judson points out the 12,000 year-old Petroglyphs and inscriptions in Wadi Rum.](https://www.judsonlmoore.com/wp-content/uploads/2018/05/wadi-rum-jordan-nomads-petroglyphs-inscriptions-1024x683.jpg) Petroglyphs and inscriptions in Wadi Rum date as far back as 10,000 B.C.[/caption]
+[caption id="attachment_19058" align="alignnone" width="1024"]![Judson points out the 12,000 year-old Petroglyphs and inscriptions in Wadi Rum.](../assets/images/2018/05/wadi-rum-jordan-nomads-petroglyphs-inscriptions.jpg) Petroglyphs and inscriptions in Wadi Rum date as far back as 10,000 B.C.[/caption]
 
 
 ## No Filter Needed
@@ -112,6 +112,6 @@ Right, so I mentioned the 12,000-year-old origins of humans in the area. Wadi Ru
 
 I am occasionally guilty of applying some filter or editing touches to photos. But I wanted to highlight that the next landscape photo is totally untouched. **This is just how the place looks.** And this was taken with an iPhone, not a professional camera, which means the color depth of the photo is not nearly as rich as the real-life view of Wadi Rum. This place is just truly spectacular, and at every turn, you better be prepared to lose your breath!
 
-[caption id="attachment_19044" align="alignnone" width="1024"]![The "Seven Pillars of Wisdom" rock formation in Wadi Rum, Jordan](https://www.judsonlmoore.com/wp-content/uploads/2018/05/wadi-rum-jordan-daytime-landscape-1024x682.jpg) The "Seven Pillars of Wisdom" rock formation in Wadi Rum, Jordan[/caption]
+[caption id="attachment_19044" align="alignnone" width="1024"]![The "Seven Pillars of Wisdom" rock formation in Wadi Rum, Jordan](../assets/images/2018/05/wadi-rum-jordan-daytime-landscape.jpg) The "Seven Pillars of Wisdom" rock formation in Wadi Rum, Jordan[/caption]
 
 I hope you enjoyed this article! Have you been to Wadi Rum before? What did I miss? What questions do you have? **Please contribute your thoughts below in the comments.** Safe travels!

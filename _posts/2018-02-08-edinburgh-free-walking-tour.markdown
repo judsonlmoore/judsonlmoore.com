@@ -62,7 +62,7 @@ In nearly a millennium of history, you can imagine that St Giles' Cathedral is t
 
 St Giles' Cathedral is also considered to be **the mother church of Presbyterianism**.
 
-[caption id="attachment_18804" align="alignnone" width="1024"]![A Photo of the front of St Giles' Cathedral in Edinburgh](https://www.judsonlmoore.com/wp-content/uploads/2018/01/free-walking-tour-edinburgh-st-giles-cathedral-1024x683.jpg) St Giles' Cathedral in Edinburgh[/caption]
+[caption id="attachment_18804" align="alignnone" width="1024"]![A Photo of the front of St Giles' Cathedral in Edinburgh](../assets/images/2018/01/free-walking-tour-edinburgh-st-giles-cathedral.jpg) St Giles' Cathedral in Edinburgh[/caption]
 
 
 ## The Elephant House
@@ -74,7 +74,7 @@ Pictured below, The Elephant House is a coffee shop inside of the Harvey's Furni
 
 Where I am standing to take this photo is the Greyfriars Kirkyard, a graveyard **where many recognizable names** from the novels can be found. But more on that later. First, we have to go to school.
 
-[caption id="attachment_18799" align="alignnone" width="1024"]![A photo of the front of The Elephant House](https://www.judsonlmoore.com/wp-content/uploads/2018/01/free-walking-tour-edinburgh-harveys-furniture-store-1024x683.jpg) The Elephant House in Edinburgh where J.K. Rowling wrote Harry Potter[/caption]
+[caption id="attachment_18799" align="alignnone" width="1024"]![A photo of the front of The Elephant House](../assets/images/2018/01/free-walking-tour-edinburgh-harveys-furniture-store.jpg) The Elephant House in Edinburgh where J.K. Rowling wrote Harry Potter[/caption]
 
 
 ## George Heriot's School
@@ -86,7 +86,7 @@ As you can see pictured below, the square building has a tall tower in each corn
 
 The combination of this school with the four houses and the dramatic view of the Edinburgh Castle on a cliff across the way, form the basis of J. K. Rowling's vision for **Hogwarts School of Witchcraft and Wizardry**.
 
-[caption id="attachment_18796" align="alignnone" width="1024"]![View of George Heriot's School from the side of the Greyfriars Kirkyard](https://www.judsonlmoore.com/wp-content/uploads/2018/01/free-walking-tour-edinburgh-george-heriots-school-1024x683.jpg) George Heriot's School in Edinburgh[/caption]
+[caption id="attachment_18796" align="alignnone" width="1024"]![View of George Heriot's School from the side of the Greyfriars Kirkyard](../assets/images/2018/01/free-walking-tour-edinburgh-george-heriots-school.jpg) George Heriot's School in Edinburgh[/caption]
 
 
 ## Greyfriars Kirkyard
@@ -96,7 +96,7 @@ Turning back now to Greyfriars Kirkyard, this graveyard is home to many familiar
 
 **So why did these graves inspire these characters?** It is simple: graveyards offer authors all around the world with free and easy access to name inspiration for books. It is actually a common practice for authors to take names from graves, just as J. K. Rowling did.
 
-[caption id="attachment_18798" align="alignnone" width="1024"]![A photo of our tour group in front of Sir George McKenzie's tomb in the Greyfriars Kirkyard](https://www.judsonlmoore.com/wp-content/uploads/2018/01/free-walking-tour-edinburgh-greyfriars-kirkyard-1024x683.jpg) Sir George McKenzie's tomb in the Greyfriars Kirkyard[/caption]
+[caption id="attachment_18798" align="alignnone" width="1024"]![A photo of our tour group in front of Sir George McKenzie's tomb in the Greyfriars Kirkyard](../assets/images/2018/01/free-walking-tour-edinburgh-greyfriars-kirkyard.jpg) Sir George McKenzie's tomb in the Greyfriars Kirkyard[/caption]
 
 
 ## Greyfriars Bobby Memorial Statue
@@ -108,7 +108,7 @@ On the tour, we learned that **the greatest honor a Scot can receive is to have 
 
 On another funny note: the graveyard actually has signs now saying that **dogs are not allowed**. Oh how times change.
 
-[caption id="attachment_18797" align="alignnone" width="1024"]![Greyfriars Bobby Memorial Statue with the Greyfriars Bobby Pub in the background](https://www.judsonlmoore.com/wp-content/uploads/2018/01/free-walking-tour-edinburgh-greyfriars-bobby-memorial-statue-1024x682.jpg) Greyfriars Bobby Memorial Statue[/caption]
+[caption id="attachment_18797" align="alignnone" width="1024"]![Greyfriars Bobby Memorial Statue with the Greyfriars Bobby Pub in the background](../assets/images/2018/01/free-walking-tour-edinburgh-greyfriars-bobby-memorial-statue.jpg) Greyfriars Bobby Memorial Statue[/caption]
 
 
 ## National Museum of Scotland
@@ -116,7 +116,7 @@ On another funny note: the graveyard actually has signs now saying that **dogs a
 
 Our walking tour concluded at the National Museum of Scotland. This is a great destination because from here **you can check out the museum, which is also free**. The museum is divided by era of Scottish history, starting with pre-historical origins, then lots of stuff about Vikings, Roman rule, the independence movement led by William Wallace, and then all the way up to modern-day Scotland with its engineering achievements and most notably, Dolly the Sheep!
 
-[caption id="attachment_18801" align="alignnone" width="1024"]![The atrium of the National Museum of Scotland in Edinburgh. ](https://www.judsonlmoore.com/wp-content/uploads/2018/01/free-walking-tour-edinburgh-national-museum-scottland-atrium-1024x683.jpg) National Museum of Scotland in Edinburgh[/caption]
+[caption id="attachment_18801" align="alignnone" width="1024"]![The atrium of the National Museum of Scotland in Edinburgh. ](../assets/images/2018/01/free-walking-tour-edinburgh-national-museum-scottland-atrium.jpg) National Museum of Scotland in Edinburgh[/caption]
 
 
 ## Dolly The Sheep
@@ -128,7 +128,7 @@ Dolly the Sheep is the first mammal to be cloned from an adult somatic cell. She
 
 And who knows, maybe one day **I can get a clone of myself** to help me write this blog!
 
-[caption id="attachment_18803" align="alignnone" width="1024"]![A close-up photo of Dolly the Sheep, the first mammal to be cloned](https://www.judsonlmoore.com/wp-content/uploads/2018/01/free-walking-tour-edinburgh-national-museum-scottland-dolly-sheep-1024x683.jpg) Dolly the Sheep in the National Museum of Scotland in Edinburgh[/caption]
+[caption id="attachment_18803" align="alignnone" width="1024"]![A close-up photo of Dolly the Sheep, the first mammal to be cloned](../assets/images/2018/01/free-walking-tour-edinburgh-national-museum-scottland-dolly-sheep.jpg) Dolly the Sheep in the National Museum of Scotland in Edinburgh[/caption]
 
 On a final note, the guides of this (and all) free walking tours are not paid at all for the tour they provide. They earn money only on tips from tour participants. So if you think the job they did was good, **be sure to recognize them for that**. Keeping in mind that a normal paid tour costs around 27£, offering a +10£ will go a long way for the guide and is really nothing at all for you as a participant. **Be generous!**
 

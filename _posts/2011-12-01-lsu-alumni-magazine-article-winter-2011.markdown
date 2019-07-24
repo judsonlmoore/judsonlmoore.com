@@ -17,4 +17,4 @@ link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-winter-2011/
 wordpress_id: 540
 ---
 
-[![](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011-758x1024.png)](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png)
+[![](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png)](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png)
