@@ -3,10 +3,10 @@
   <channel>
     <title>American Author and travel addict.</title>
     <description>Travel guides and inspiration to follow your dreams and do it while you're young, from author and travel addict, Judson L Moore.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jul 2019 19:11:14 +0200</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2019 19:11:14 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Jul 2019 19:34:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2019 19:34:00 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -126,8 +126,8 @@
 &lt;p&gt;Go give this a try, look around LinkedIn, and let me know what you discover and how it went &lt;strong&gt;by leaving a comment below&lt;/strong&gt;. Do you have other advice to offer? Please share that here as well, and good luck, you can do it!&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Nov 2018 21:07:05 +0100</pubDate>
-        <link>/working-abroad-tips/</link>
-        <guid isPermaLink="true">/working-abroad-tips/</guid>
+        <link>http://localhost:4000/working-abroad-tips/</link>
+        <guid isPermaLink="true">http://localhost:4000/working-abroad-tips/</guid>
         
         <category>Germany</category>
         
@@ -240,8 +240,8 @@
 
 </description>
         <pubDate>Sun, 28 Oct 2018 11:00:54 +0100</pubDate>
-        <link>/petra-jordan-destination-guide/</link>
-        <guid isPermaLink="true">/petra-jordan-destination-guide/</guid>
+        <link>http://localhost:4000/petra-jordan-destination-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/petra-jordan-destination-guide/</guid>
         
         <category>travel guide</category>
         
@@ -329,8 +329,8 @@
 &lt;p&gt;I hope you enjoyed this article! Have you been to Wadi Rum before? What did I miss? What questions do you have? &lt;strong&gt;Please contribute your thoughts below in the comments.&lt;/strong&gt; Safe travels!&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Aug 2018 12:00:17 +0200</pubDate>
-        <link>/wadi-rum-jordan-destination-guide/</link>
-        <guid isPermaLink="true">/wadi-rum-jordan-destination-guide/</guid>
+        <link>http://localhost:4000/wadi-rum-jordan-destination-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/wadi-rum-jordan-destination-guide/</guid>
         
         <category>Camel</category>
         
@@ -388,7 +388,7 @@
 
 &lt;p&gt;And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum &amp;gt;BOOM&amp;lt; we all knew we struck gold. &lt;strong&gt;This. Drum set. Sounds. AMAZING. Live!&lt;/strong&gt; Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg&quot; loading=&quot;eager&quot; alt=&quot;Janine (Avocadogate) sound checks on the Roland TD-30KV&quot; width=&quot;2048&quot; height=&quot;1536&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg&quot; alt=&quot;Janine (Avocadogate) sound checks on the Roland TD-30KV&quot; width=&quot;2048&quot; height=&quot;1536&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- [caption id=&quot;attachment_19188&quot; align=&quot;alignnone&quot; width=&quot;1024&quot;]![Janine (Avocadogate) sound checks on the Roland TD-30KV](https://www.judsonlmoore.com/wp-content/uploads/2018/08/trivagoVibe-Summer-2018-001-1024x768.jpg) Janine (Avocadogate) sound checks on the Roland TD-30KV[/caption] --&gt;
 
@@ -427,8 +427,8 @@
 &lt;p&gt;&lt;img src=&quot;https://www.judsonlmoore.com/wp-content/uploads/2018/08/trivagoVibe-Summer-2018-011-1024x768.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Aug 2018 22:35:07 +0200</pubDate>
-        <link>/trivagovibe-summer-2018/</link>
-        <guid isPermaLink="true">/trivagovibe-summer-2018/</guid>
+        <link>http://localhost:4000/trivagovibe-summer-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/trivagovibe-summer-2018/</guid>
         
         <category>#lifeattrivago</category>
         
@@ -505,8 +505,8 @@
 &lt;p&gt;I hope that you enjoyed the episode! Please leave me a comment below to &lt;strong&gt;let me know your thoughts&lt;/strong&gt;, feedback, or to ask me followup questions. Alternatively, you can also reach out to me directly on Twitter at &lt;a href=&quot;https://twitter.com/judsonlmoore&quot;&gt;@JudsonLMoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Feb 2018 17:41:33 +0100</pubDate>
-        <link>/without-a-path-podcast/</link>
-        <guid isPermaLink="true">/without-a-path-podcast/</guid>
+        <link>http://localhost:4000/without-a-path-podcast/</link>
+        <guid isPermaLink="true">http://localhost:4000/without-a-path-podcast/</guid>
         
         <category>interview</category>
         
@@ -598,8 +598,8 @@
 &lt;p&gt;Have you been to Edinburgh? Have you visited the Edinburgh Castle? &lt;strong&gt;I would love to have your feedback and impressions of the castle.&lt;/strong&gt; Please feel free to leave a comment below or reach me directly on Twitter &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 Feb 2018 12:00:30 +0100</pubDate>
-        <link>/edinburgh-castle-walking-tour/</link>
-        <guid isPermaLink="true">/edinburgh-castle-walking-tour/</guid>
+        <link>http://localhost:4000/edinburgh-castle-walking-tour/</link>
+        <guid isPermaLink="true">http://localhost:4000/edinburgh-castle-walking-tour/</guid>
         
         <category>Adventure</category>
         
@@ -709,8 +709,8 @@
 &lt;p&gt;So what do you think? Have you toured Edinburgh before? Have you been on a walking tour (paid or free) before? How do you think this one measures up? I would love to hear your thoughts. Feel free to leave a comment below or you can reach me directly on Twitter at &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Feb 2018 12:00:44 +0100</pubDate>
-        <link>/edinburgh-free-walking-tour/</link>
-        <guid isPermaLink="true">/edinburgh-free-walking-tour/</guid>
+        <link>http://localhost:4000/edinburgh-free-walking-tour/</link>
+        <guid isPermaLink="true">http://localhost:4000/edinburgh-free-walking-tour/</guid>
         
         <category>Adventure</category>
         
@@ -1251,8 +1251,8 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp;amp; food vend
 &lt;p&gt;Have I missed any major attractions which you think should be on this list? Have you been to any of these sites? &lt;strong&gt;Please share your experience&lt;/strong&gt; and provide any feedback, tips, or questions in the comments below. You may also reach me directly on Twitter at &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Feb 2018 13:00:51 +0100</pubDate>
-        <link>/dublin-weekend-itinerary/</link>
-        <guid isPermaLink="true">/dublin-weekend-itinerary/</guid>
+        <link>http://localhost:4000/dublin-weekend-itinerary/</link>
+        <guid isPermaLink="true">http://localhost:4000/dublin-weekend-itinerary/</guid>
         
         <category>Adventure</category>
         
@@ -1356,8 +1356,8 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp;amp; food vend
 &lt;p&gt;Have you been to the Guinness Storehouse before? &lt;strong&gt;I would love to know your thoughts about the experience!&lt;/strong&gt; Please leave a comment below, or feel free to reach me directly on Twitter &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore.com&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Jan 2018 17:08:37 +0100</pubDate>
-        <link>/guinness-storehouse-dublin/</link>
-        <guid isPermaLink="true">/guinness-storehouse-dublin/</guid>
+        <link>http://localhost:4000/guinness-storehouse-dublin/</link>
+        <guid isPermaLink="true">http://localhost:4000/guinness-storehouse-dublin/</guid>
         
         <category>alcohol</category>
         
@@ -1516,8 +1516,8 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp;amp; food vend
 &lt;p&gt;I hope you enjoyed my review of the Jameson Bow St. Experience and the premium whiskey taste testing. Please feel free to leave a comment below with details of your own experience, thoughts on my experience, or any followup questions that you have for me. You can also connect with me directly on twitter &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Jan 2018 16:42:41 +0100</pubDate>
-        <link>/jameson-distillery-tour-dublin/</link>
-        <guid isPermaLink="true">/jameson-distillery-tour-dublin/</guid>
+        <link>http://localhost:4000/jameson-distillery-tour-dublin/</link>
+        <guid isPermaLink="true">http://localhost:4000/jameson-distillery-tour-dublin/</guid>
         
         <category>alcohol</category>
         
