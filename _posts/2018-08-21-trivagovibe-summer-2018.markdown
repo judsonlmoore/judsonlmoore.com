@@ -15,7 +15,7 @@ description: I was honored with the opportunity to headline the bi-annual trivag
 layout: post
 link: https://www.judsonlmoore.com/trivagovibe-summer-2018/
 wordpress_id: 19185
-image: ../assets/images/2018/08/18114740/trivagoVibe-Summer-2018-007.jpg
+image: ../assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
 ---
 
 

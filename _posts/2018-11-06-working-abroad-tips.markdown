@@ -19,7 +19,7 @@ link: https://www.judsonlmoore.com/working-abroad-tips/
 wordpress_id: 19238
 featured: true
 hidden: true
-image: ../assets/images/2018/11/18114712/working-abroad-tips-featured-image.jpg
+image: ../assets/images/2018/11/working-abroad-tips-featured-image.jpg
 ---
 
 **The whole reason I started this blog** was as a way to publicly answer the question I have been asked for many years, "Judson, _how_ do you get to travel so much?" The answer to that is varied and complex if you want it to be. On one side, it is as simple as saying that I just packed my bag and went for it, but of course, there is a large degree of planning that goes into making the plans which lead to a successful experience abroad.
