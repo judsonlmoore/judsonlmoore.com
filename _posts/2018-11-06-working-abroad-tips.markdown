@@ -1,6 +1,6 @@
 ---
 title: Tips for how to successfully find work abroad as an American
-date: 2018-11-06 20:07:05 Z
+date: 2018-11-06 20:07:05
 categories:
   - Career
 tags:

@@ -1,26 +1,49 @@
 # Site
-name: "Judson L Moore"
-title: "American Author and travel addict."
-description: "Travel guides and inspiration to follow your dreams and do it while you're young, from author and travel addict, Judson L Moore."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.png'
-baseurl: ''
+title: Judson L Moore
+name: Judson L Moore
+description: American Author and travel addict
+url: https://www.judsonlmoore.com
+author: judsonlmoore
+twitter:
+  username: judsonlmoore
+  card: summary_large_image
+facebook:
+  app_id: 611458568990674
+  publisher:
+  admins:
+logo: assets/images/jlm-logo-full-bw-dark.png
+favicon: "assets/images/favicon.png"
+social:
+  name: Judson L Moore
+  links:
+    - https://twitter.com/judsonlmoore
+    - https://www.facebook.com/judsonlmooreblog
+    - https://www.linkedin.com/in/judsonlmoore
+    - https://github.com/judsonlmoore
+    - https://www.instagram.com/judsonlmoore
+  google: 3MN-XApFrgWYSpGop2aNPX3eHkQtKupxl-OltwME23o
+  bing: 1571295b1311496094a646cca481014e
+  alexa:
+  yandex: df106ee154e1faa4
+  baidu:
+
+baseurl: ""
 # google_analytics: 'UA-12358141-4'
-disqus: 'judsonlmoore'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: "judsonlmoore"
+mailchimp-list: "https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  judsonlmoore:
     name: judsonlmoore
     display_name: Judson L Moore
     gravatar: 8b6eff6e1152352a262b6276e3685350
     email: judson@judsonlmoore.com
     web: https://www.judsonlmoore.com
     twitter: https://twitter.com/judsonlmoore
-    description: "I didn’t have many extraordinary advantages growing up, but what I did have was the encouragement of those older than me saying, “do it while you’re young.” One day, when I was 17, that advice stuck and I started traveling the world. I haven’t stopped and now half a lifetime later, I want to tell the world what I’ve learned and how YOU can live an adventurous and prosperous life!"
+    description: "Travel addict. Ambitious about making the world a better place. Writing what I learn along the way."
 
 # Plugins
 plugins:
@@ -29,19 +52,19 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
+    category: "/category/:name/"
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
@@ -61,8 +84,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-
-# Cloudinary 
+# Cloudinary
 # Learn More https://github.com/nhoizey/jekyll-cloudinary
 # cloudinary:
 #   cloud_name: judsonlmoore-com
