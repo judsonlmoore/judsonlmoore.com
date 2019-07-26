@@ -1,15 +1,13 @@
 ---
 title: 'The Elgin Marbles: Should they be returned to Greece?'
 date: 2006-02-07 05:00:00 Z
-categories:
-  - College Papers
-tags:
-  - Politics
+categories: College Papers
+tags: Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/the-elgin-marbles-should-they-be-returned-to-greece/
-wordpress_id: 136
+
+
 ---
 
 The prestige of the world’s finest museums is largely rooted in collections of stolen art.  There is a fair share of ‘home-grown’ art in national museums but there are also vast collections of artifacts that have been obtained by nations by forcefully removing them from their places of origin.  Frequently these acts are done during times of conquest when one nation has fallen to a greater power, and the taking from the weak is generally excepted as normal behavior under these circumstances.  However, there has rarely been an act of thievery so damaging to the history of a culture and carried out in such a unforgiving way than that of the removal of the Parthenon sculptures known as the Elgin Marbles.

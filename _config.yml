@@ -26,7 +26,6 @@ social:
   alexa:
   yandex: df106ee154e1faa4
   baidu:
-
 baseurl: ""
 # google_analytics: 'UA-12358141-4'
 disqus: "judsonlmoore"
@@ -81,7 +80,7 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 # Cloudinary

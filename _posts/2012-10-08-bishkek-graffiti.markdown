@@ -1,10 +1,8 @@
 ---
 title: Bishkek Graffiti
 date: 2012-10-08 14:34:41 Z
-categories:
-  - Bishkek
-tags:
-  - Bishkek
+categories: Bishkek
+tags: Bishkek
   - Graffiti
   - Kyrgyz Culture
   - Kyrgyzstan
@@ -12,8 +10,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/bishkek-graffiti/
-wordpress_id: 1869
+
+
 ---
 
 I took a long bike ride and found this great stretch of graffiti art on a long concrete wall. I haven't seen anything else like this in Kyrgyzstan so I though it was worth sharing with the world. Please leave a comment below with your thoughts about these pieces.

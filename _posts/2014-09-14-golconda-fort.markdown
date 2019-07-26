@@ -1,10 +1,8 @@
 ---
 title: Golconda Fort
 date: 2014-09-14 13:57:38 Z
-categories:
-  - Hyderabad
-tags:
-  - Architecture
+categories: Hyderabad
+tags: Architecture
   - Fort
   - History
   - India
@@ -12,8 +10,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/golconda-fort/
-wordpress_id: 3053
+
+
 ---
 
 I was a child when I first visited the National Natural History Museum in Washington D.C. I've never been one for jewels, especially diamonds, but ever since my childhood, I've been captivated by the Hope Diamond, which is notorious for supposedly being cursed. The history and mystery of that stone is very interesting, and it's origins are rather unknown, except that it was mined and originally housed just west of Hyderabad, India, at the once formidable Golconda Fort.

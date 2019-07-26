@@ -1,10 +1,8 @@
 ---
 title: 'How Its Made: The Mutual Mobile Office in Hyderabad India'
 date: 2015-01-09 12:34:52 Z
-categories:
-  - Mutual Mobile
-tags:
-  - Career
+categories: Mutual Mobile
+tags: Career
   - Challenge
   - Construction
   - Facility
@@ -17,8 +15,8 @@ comments: true
 excerpt: Mutual Mobile sent me to India for 6 moths to build a new office in Hyderabad
   India. This is the story of the collaborative process to create this space.
 layout: post
-link: https://git.judsonlmoore.com/mutual-mobile-hyderabad/
-wordpress_id: 3440
+
+
 ---
 
 It's no secret that I've spent some time in India, but I am frequently asked, "why were you there?" I know that I am better at documenting my weekends and time off, but I don't just travel the world for fun, I do have a job to get done! It is now my great pleasure to unveil to you the new office of Mutual Mobile in Hyderabad, India! If you have ever built a space in another country, or were part of building this space, please tell me about it in the comments below, or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!

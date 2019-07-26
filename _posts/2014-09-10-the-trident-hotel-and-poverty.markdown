@@ -1,10 +1,8 @@
 ---
 title: The Trident Hotel and Poverty
 date: 2014-09-10 03:28:44 Z
-categories:
-  - Hyderabad
-tags:
-  - Adventure
+categories: Hyderabad
+tags: Adventure
   - Hotel Life
   - India
   - Mutual Mobile
@@ -15,8 +13,8 @@ comments: true
 excerpt: During a 6-month business trip to India, I was faced with poverty every day
   from the window of my high rise 7-star hotel. What could I do about it?
 layout: post
-link: https://git.judsonlmoore.com/the-trident-hotel-and-poverty/
-wordpress_id: 2885
+
+
 ---
 
 ## Living high above the poverty line
@@ -39,7 +37,7 @@ There is a strange situation I am faced with every day, and I haven't yet figure
 
 When the coffee arrives, I move to a chair that faces out the windows and overlooks this huge park called [Shilparamam](http://en.wikipedia.org/wiki/Shilparamam). So here I am, 19-floors above this beautiful scene, watching the sunrise, drinking my pretentious coffee, and my only worry is to make sure I get to the fitness center on time to meet with Raj for the day's workout. Then, at my feet, this is what I see:
 
-![Indian man bathes in public park while living in poverty](../assets/images/2014/10/IMG_0225-Version-2.jpg)
+{% include image.html alt="Indian man bathes in public park while living in poverty" file="../assets/images/2014/10/IMG_0225-Version-2.jpg" description="" %}
 
 I don't know that this structure on the left is a home, but on the right is a courtyard with some running water piped in and a laundry line. You will notice the man bathing; he is usually joined by a few friends, but today he is alone, as am I. We are so close to each other but our lives are worlds apart. He bathes under a trickling stream of water, exposed to the open air in the shadows of my glass palace where I have all the comforts modern times can offer.
 

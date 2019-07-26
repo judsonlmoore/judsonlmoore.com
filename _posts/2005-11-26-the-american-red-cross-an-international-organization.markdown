@@ -1,13 +1,12 @@
 ---
 title: 'The American Red Cross : An International Organization'
 date: 2005-11-26 08:00:00 Z
-categories:
-  - College Papers
+categories: College Papers
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/the-american-red-cross-an-international-organization/
-wordpress_id: 141
+
+
 ---
 
 The American Red Cross was chartered in 1905 by the American Congress to, “carry on a system of national and international relief in time of peace and apply the same in mitigating the sufferings caused by pestilence, famine, fire, floods, and other great national calamities, and to devise and carry on measures for preventing the same.”  The American Red Cross plays a substantial roll in the United States and the world in providing assistance to victims of disaster (clients), and other agencies which are involved in disaster situations (firefighters, FEMA, police, etc…)

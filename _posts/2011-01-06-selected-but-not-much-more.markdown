@@ -1,15 +1,13 @@
 ---
 title: Selected! But Not Much More...
 date: 2011-01-06 05:00:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Peace Corps
+categories: Peace Corps
+tags: Peace Corps
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/selected-but-not-much-more/
-wordpress_id: 71
+
+
 ---
 
 Woooo!  My status has been updated to SELECTED FOR SERVICE!  Most unfortunately there is nothing else to report at this time.  They only state

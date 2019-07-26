@@ -1,15 +1,14 @@
 ---
 title: German Wine Country - A Taste of Landau and the Pfirmann Weingut
 date: 2016-09-08 20:38:08 Z
-categories:
-  - Germany
+categories: Germany
 author: judsonlmoore
 comments: true
 excerpt: The wide array of wineries, beautiful scenery, and friendly wine masters
   make German Wine Country a must-taste destination.
 layout: post
-link: https://git.judsonlmoore.com/german-wine-country/
-wordpress_id: 5247
+
+
 ---
 
 ## A Weekend In The German Wine Country
@@ -28,7 +27,7 @@ Upon arrival, we were cheerfully greeted by the owner and wine master, who didn'
 
 After a brief tour of the facilities and a crash course of the winemaking process, we moved into the tasting room and the main event got underway.
 
-![Germany Wine Country Taste Testing at Weingut Pfirmann](../assets/images/2016/08/germany-wine-country-taste-testing-at-weingut-pfirmann.jpg)
+{% include image.html alt="Germany Wine Country Taste Testing at Weingut Pfirmann" file="../assets/images/2016/08/germany-wine-country-taste-testing-at-weingut-pfirmann.jpg" description="" %}
 
 _photo credit: Kathrin Rupprath_
 
@@ -36,7 +35,7 @@ _photo credit: Kathrin Rupprath_
 
 Now, I have to admit, I took notes on my thoughts for each wine, but aside from having a wrecked pallet long before I got to the 11th bottle, I also just don't have the vocabulary for properly describing wines. Therefore, I have merged my personal thoughts with some descriptions I found on [EuroWineKontor](https://euroweinkontor.de/de/shop/winzershop/pfirmann/) to help me out. You can also buy the wine online from that site.
 
-Download the entire Weingut Pfirmann 2016 wine list [here (PDF)](../assets/images/2016/09/weingut-pfirmann-weinliste.pdf).
+Download the entire Weingut Pfirmann 2016 wine list [here (PDF)" file="../assets/images/2016/09/weingut-pfirmann-weinliste.pdf).
 
 **\*** *denotes my top picks*
 
@@ -70,4 +69,4 @@ It is hard to say that there was a part of this day's experience which was bette
 
 I highly recommend that you make a visit to the German wine country and to Landau. Take your family, your friends, or just yourself. You are going to have a great time! Have you been to Landau before? Are you thinking about making a trip there? I would love to hear your thoughts in the comments below, or reach out to me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
 
-![Friends in the German Wine Country walking through a vineyard.](../assets/images/2016/09/friends-in-the-german-wine-country-walking-through-a-vineyard.jpg)
+{% include image.html alt="Friends in the German Wine Country walking through a vineyard." file="../assets/images/2016/09/friends-in-the-german-wine-country-walking-through-a-vineyard.jpg" description="" %}

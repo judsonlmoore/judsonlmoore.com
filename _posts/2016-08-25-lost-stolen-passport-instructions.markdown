@@ -1,15 +1,14 @@
 ---
 title: Lost or Stolen Passport? Stay Calm and Follow These Instructions.
 date: 2016-08-25 20:51:44 Z
-categories:
-  - Adventure
+categories: Adventure
 author: judsonlmoore
 comments: true
 excerpt: A lost or stolen passport can be one of the most panic-inducing realizations
   a traveler can encounter. This happens everyday, and there is a clear solution.
 layout: post
-link: https://git.judsonlmoore.com/lost-stolen-passport-instructions/
-wordpress_id: 5227
+
+
 ---
 
 You're planning your next adventure, or perhaps you are out somewhere in the world discovering new sights, smells, and sounds. Then you come to a panicked realization: **I have lost my passport!** Yes, this is bad news. But do not panic! This happens all the time and there are clear guidelines for how to replace your lost or stolen passport.
@@ -60,4 +59,4 @@ Sometimes a new passport might be issued as a temporary passport which is only v
 
 Have you lost a passport or had it stolen? What did you learn from the experience? Please share your thoughts in the comments below, or reach me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
 
-_photo credit: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/93/My_collection_of_passport_stamps.jpg)_
+_photo credit: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/93/My_collection_of_passport_stamps.jpg" description="_

@@ -1,10 +1,8 @@
 ---
 title: How Hurricane Katrina Changed My Life 10 Years Later
 date: 2015-08-29 17:54:54 Z
-categories:
-  - American Red Cross
-tags:
-  - Anniversary
+categories: American Red Cross
+tags: Anniversary
   - Disaster
   - Hurricane Katrina
   - Memories
@@ -13,8 +11,8 @@ comments: true
 excerpt: On the 10 year anniversary of Hurricane Katrina, I reflect on how that was
   a pivotal moment when the trajectory of my life changed.
 layout: post
-link: https://git.judsonlmoore.com/10-years-after-hurricane-katrina/
-wordpress_id: 3659
+
+
 ---
 
 _Photo Credit: From _[LSU: In The Eye of The Storm](https://www.judsonlmoore.com/get/lsu-in-the-eye-of-the-storm/)

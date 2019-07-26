@@ -1,16 +1,14 @@
 ---
 title: Celebrity Encounters List
 date: 2010-04-27 02:29:00 Z
-categories:
-  - Music
-tags:
-  - celebrity encounter
+categories: Music
+tags: celebrity encounter
   - Music
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/celebrity-encounters-list/
-wordpress_id: 97
+
+
 ---
 
 **\* indicates the number of times I have encountered this group/person  

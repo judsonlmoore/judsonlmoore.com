@@ -1,10 +1,8 @@
 ---
 title: How to Achieve Silicon Valley Anywhere [crosspost]
 date: 2014-06-27 04:45:00 Z
-categories:
-  - Philanthropy
-tags:
-  - Austin
+categories: Philanthropy
+tags: Austin
   - Brazos Tech District
   - Community
   - Mutual Mobile
@@ -12,8 +10,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/how-to-achieve-silicon-valley-anywhere/
-wordpress_id: 2623
+
+
 ---
 
 _The following was originally posted on <re/code> on June 25, 2014. Read the original post [here](http://recode.net/2014/06/25/how-to-achieve-silicon-valley-anywhere)._

@@ -1,10 +1,8 @@
 ---
 title: Otto von Bismarck and His Path to Unification
 date: 2004-05-05 08:00:00 Z
-categories:
-  - College Papers
-tags:
-  - Austro-Prussian War
+categories: College Papers
+tags: Austro-Prussian War
   - Germany
   - Otto von Bismarck
   - Politics
@@ -13,11 +11,13 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/otto-von-bismarck-and-his-path-to-unification/
-wordpress_id: 157
+
+
 ---
 
-![Otto von Bismarck portrait](../assets/images/2004/05/otto-von-bismark.jpg)During the 19th Century, Europe underwent many dynamic changes such as many wars, governmental upheavals and cultural refinements; therefore, no one thing could stand alone as the main event of the European 19th Century.  However, if one were to take the largest geographic area in central Europe contained by a single empire, one would find Prussia and Austria.   Therefore, the unification of Germany could reasonably be considered the most dynamic change in central Europe during the 19th century, with the possible exception of the 1848 revolutionsy.  With little doubt, Otto von Bismarck was the most influential leader of Prussia during this time frame.  His authoritative leadership  aidedleadership aided in the creation of a unifiedunification of Germany.  Bismarck’s legacy was to see the German people united and he was very careful and patient in planning the road map to this unification.  In part, Bismarck succeeded in this with two major phases now known as the Austro-Prussian War and the Franco-Prussian War.
+{% include image.html alt="Otto von Bismarck portrait" file="../assets/images/2004/05/otto-von-bismark.jpg" description="" %}
+
+During the 19th Century, Europe underwent many dynamic changes such as many wars, governmental upheavals and cultural refinements; therefore, no one thing could stand alone as the main event of the European 19th Century.  However, if one were to take the largest geographic area in central Europe contained by a single empire, one would find Prussia and Austria.   Therefore, the unification of Germany could reasonably be considered the most dynamic change in central Europe during the 19th century, with the possible exception of the 1848 revolutionsy.  With little doubt, Otto von Bismarck was the most influential leader of Prussia during this time frame.  His authoritative leadership  aidedleadership aided in the creation of a unifiedunification of Germany.  Bismarck’s legacy was to see the German people united and he was very careful and patient in planning the road map to this unification.  In part, Bismarck succeeded in this with two major phases now known as the Austro-Prussian War and the Franco-Prussian War.
 
 Bismarck – A brief history.
 
@@ -31,7 +31,7 @@ Bismarck’s opportunity to act on his ambitions came in 1847 when a United Diet
 
 From 1848 to 1859, there were a series of German revolts during which Bismarck defended the King’s policies and desires during parliamentary debates and remained one of the few capable speakers on the King’s side.  The German people were becoming contemptuous of their leaders and pressure was rising for a change in government.  The radical liberals were threatening a force of this change through revolution which Bismarck understood as a real threat to which he must heed.  To avoid revolution, Bismarck lobbied for a parliament in which policy could be made, and lesser people could have a voice in national politics.  “This frightened traditional aristocrats, and was the impetus for a modernizing movement, which Bismarck embraced, of establishing parliaments which allowed for at least the sense of ‘participatory democracy’ by the masses, and served as a safety valve to diffuse revolutionary forces.  Bismarck was pacifying the masses.”  Although the eventual outcome would indeed be a reorganization of political structure, the effectiveness of such a parliament would be nullified by the provisions under which it must operate. By granting the liberals a few of their requests (such as a parliament), Bismarck minimized the revolution’s effect by creating a government with a parliament, but one which was so restricted that it was as if it did not exist at all. Even had the parliament not been so weak, the effect would have been nearly the same because the limited membership would have allowed betterment of only the upper classes.  “So Germany obtained neither unity nor constitutional government. The only tangible result of the revolution was the constitution issued by the King of Prussia in 1850. This remarkable document left the executive power in the hands of the King; it established a parliament of two houses, the lower to be elected by manhood suffrage—but it reduced that suffrage to a joke by dividing the voters into three classes, according to the amount of taxes paid”.  As a result, “Bismarck was duly rewarded for the role he had played as one of the leading younger men of the conservative faction in the stormy years from 1848 to 1850.  In 1851 he was appointed Prussian envoy to the diet of the German Confederation in Frankfurt. It was a key post in the making of Prussian policy, especially in relation to the future shape of Germany.”  Bismarck uses this position to springboard his plans for German unification.
 
-![](http://media.tumblr.com/tumblr_l6c1t2CjKg1qb60c5.png)
+{% include image.html alt="](http://media.tumblr.com/tumblr_l6c1t2CjKg1qb60c5.png" description="" %}
 
 The Prussian envoy to the Diet of the German Confederation which was the highest position within the Prussian Foreign Service, and Bismarck was able to accomplish mighty things with the power he inherited from this title.  During his time with the Foreign Service, Bismarck filled several ambassador positions, to Berlin, St. Petersburg, and Paris.  In 1862 he became the Prussian minister-president.  In this position, Bismarck was vested with the power to  where he rarun the country in the name of the king, and began to earn the title, “The Iron Fisted Chancellor,” as he ran the country like a dictator in insubordination? of parliament, often times over-riding the King’s interests.  and iIt is from this position that he was able to oversee the unification of Germany. 1
 

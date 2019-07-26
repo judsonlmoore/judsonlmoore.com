@@ -1,16 +1,14 @@
 ---
 title: 'Book Review: The Unification of Germany'
 date: 2004-03-08 08:00:00 Z
-categories:
-  - College Papers
-tags:
-  - Germany
+categories: College Papers
+tags: Germany
   - Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/book-review-the-unification-of-germany/
-wordpress_id: 159
+
+
 ---
 
 The Unification of Germany, by Michael Gorman, is a short yet precise and detailed book which outlines the events surrounding and influencing the German Unification of 1870-71.  This book tells the history of Germany during the 19th century, focusing on details which help the reader understand the causes for revolution in 1848, the conflict between central European states, and the eventual unification of Germany as a nation-state.  To powerfully illustrate the changes and the preventions during this time, this book is packed full of translated primary sources, political cartoons, charts and graphs, and commentary from the author.

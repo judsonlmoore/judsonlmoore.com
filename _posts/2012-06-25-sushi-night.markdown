@@ -1,10 +1,8 @@
 ---
 title: Sushi Nights
 date: 2012-06-25 06:40:51 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Cooking
   - Culture Exchange
   - Kyrgyzstan
@@ -14,8 +12,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/sushi-night/
-wordpress_id: 788
+
+
 ---
 
 In the year that I have lived in Talas I have made many visits to the Kyrgyz capital city, Bishkek. During this time I have been the beneficiary of great kindness and hospitality by those who live in the capital and have housed me and made me feel at home. These last few weeks I have been house-sitting for my friend, colleague and mentor, Bettina Ruigies, and she allowed me to have some guests over. I recently learned from a Japaneese friend how to make sushi and so I hosted two sushi nights where I taught others how to do this as well. Thank you all who have supported me! I will appreciate your kindness forever!

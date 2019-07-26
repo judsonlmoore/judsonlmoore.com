@@ -1,15 +1,14 @@
 ---
 title: Three Ways Travel Changed My Life When I Was Young
 date: 2016-08-09 16:17:57 Z
-categories:
-  - Lifestyle
+categories: Lifestyle
 author: bobmoore
 comments: true
 excerpt: My father tells of a romantic encounter from his youth while traveling in
   the Caribbean Islands which forever changed his life.
 layout: post
-link: https://git.judsonlmoore.com/three-ways-travel-changed-life/
-wordpress_id: 5123
+
+
 ---
 
 <blockquote>I am thrilled to have my father, Bob Moore, be the first guest author on my blog! The following is an account of how travel changed his life at an early age. Maybe this is where I got it from? It's a beautiful story, with a great lesson to each each of us. I hope you enjoy it and that you will leave a comment below. You can also reach me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).</blockquote>

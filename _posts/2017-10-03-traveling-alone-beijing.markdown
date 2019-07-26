@@ -1,10 +1,8 @@
 ---
 title: What happened when I traveled alone in Beijing
 date: 2017-10-03 10:00:01 Z
-categories:
-  - Female Travel
-tags:
-  - female travel
+categories: Female Travel
+tags: female travel
   - guest author
   - travel tips
 author: kelly.branyik
@@ -12,8 +10,8 @@ comments: true
 excerpt: Returned Peace Corps Volunteer and author of the Propitious Panda blog and
   the new book "It Depends" shares a tale of solo travel in Beijing.
 layout: post
-link: https://git.judsonlmoore.com/traveling-alone-beijing/
-wordpress_id: 18182
+
+
 ---
 
 ## Breaking Through the Fear of Travel
@@ -37,7 +35,7 @@ I reached my hostel very late that night. It was tucked in what seemed like the 
 
 When I entered the hostel, all the beds were occupied by sleeping women. I did my best to be quiet, undressing in the dark, adding extra socks, sweaters, and pants to stay warm and climbed into the top bunk. I fell asleep immediately. The next day would be my first full day in Beijing.
 
-![Kelly Branyik of Propitious Panda marble boat on frozen lake](../assets/images/2017/10/kelly-branyik-propitious-panda-marble-boat.jpg)
+{% include image.html alt="Kelly Branyik of Propitious Panda marble boat on frozen lake" file="../assets/images/2017/10/kelly-branyik-propitious-panda-marble-boat.jpg" description="" %}
 
 ## The Great Wall of China, Badaling, South Wall in Beijing
 
@@ -63,7 +61,7 @@ It was a carved wooden doll that resembled a nesting doll. It’s smiling face a
 
 It was quite possibly the only thing this boy had to give me. And while it may not have been worth much when he bought it, it was worth a fortune to me. It was moments like this that brought me to China in the first place. I wanted to see places, experience the world, connect with people and make a lasting impact on at least one person. Down the road, I would impact many.
 
-![Kelly Branyik of Propitious Panda shows a wooden carved doll](../assets/images/2017/10/kelly-branyik-propitious-panda-carved-doll.jpg)
+{% include image.html alt="Kelly Branyik of Propitious Panda shows a wooden carved doll" file="../assets/images/2017/10/kelly-branyik-propitious-panda-carved-doll.jpg" description="" %}
 
 ## Communicating Love and Gratitude
 

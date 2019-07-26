@@ -1,10 +1,8 @@
 ---
 title: Diamantina Brazil is a sleepy town with a party spirit
 date: 2017-06-13 10:00:28 Z
-categories:
-  - Brazil
-tags:
-  - backpacking
+categories: Brazil
+tags: backpacking
   - brazil
   - History
   - Nature
@@ -15,8 +13,8 @@ comments: true
 excerpt: Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial
   history. Surrounded by spectacular nature, it dances with life once a year.
 layout: post
-link: https://git.judsonlmoore.com/diamantina-brazil-travel-guide/
-wordpress_id: 12773
+
+
 ---
 
 ## From New Orleans to Diamantina Brazil, Carnival reigns supreme
@@ -57,7 +55,7 @@ Diamantina has been **masterfully preserved through the centuries** and since it
 
 There are several notable figures to come out of Diamantina. In particular, Juscelino Kubitschek, who was the president of Brazil in the 1950's, and who constructed the modern-day federal capital of Brasilia. I find it fascinating that such a small and historic colonial town produced the person who in addition to leading the country at a very important time, also **envisioned the creation of a modern and planned capital city**.
 
-[caption id="attachment_12779" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, Street Scene](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Street-Scene.jpg) Diamantina, Minas Gerais, Brazil, Street Scene. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+{% include image.html alt="Diamantina, Minas Gerais, Brazil, Street Scene" file="../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Street-Scene.jpg" description=" Diamantina, Minas Gerais, Brazil, Street Scene. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## A walking tour of Diamantina Brazil
 
@@ -65,7 +63,7 @@ No visit to Diamantina is going to be complete without simply walking around the
 
 As you can see in this photo, the streets are hilly, sidewalks intermittent at best, and the streets are pretty rough. This is all very charming and beautiful, but when it comes to walking around, **just watch your step**.
 
-[caption id="attachment_12778" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, Steep Streets Landscape](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Steep-Streets-Landscape.jpg) Diamantina, Minas Gerais, Brazil, Steep Streets Landscape. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+{% include image.html alt="Diamantina, Minas Gerais, Brazil, Steep Streets Landscape" file="../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Steep-Streets-Landscape.jpg" description=" Diamantina, Minas Gerais, Brazil, Steep Streets Landscape. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## St. Anthony Cathedral in Diamantina
 
@@ -73,9 +71,9 @@ The St. Anthony Cathedral is the center point of Diamantina. Though the building
 
 Despite that, the towering facade and the **Baroque interior** make an impression and really highlight European colonialism in Diamantina. Though the church is closed during Carnival, it is wall-to-wall people in every direction on the streets during the celebration.
 
-[caption id="attachment_12777" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Side](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathedral-Side.jpg) Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Side. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+{% include image.html alt="Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Side" file="../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathedral-Side.jpg" description=" Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Side. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
-[caption id="attachment_12776" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Front](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathedral-Front.jpg) Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Front. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+{% include image.html alt="Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Front" file="../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathedral-Front.jpg" description=" Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Front. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## Igreja Nossa Senhora do Carmo
 
@@ -83,7 +81,7 @@ Just a 3-minute walk southeast of the St. Anthony Cathedral is the *Igreja Noss
 
 This architectural style extends beyond the churches of Diamantina to the early colonial estates. Though the estates are mostly privately owned and therefore hard to get into, the **churches offer a view into Brazilian colonial style**.
 
-[caption id="attachment_12775" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, Igreja Nossa Senhora do Carmo](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Igreja-Nossa-Senhora-do-Carmo.jpg) Diamantina, Minas Gerais, Brazil, Igreja Nossa Senhora do Carmo. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
+{% include image.html alt="Diamantina, Minas Gerais, Brazil, Igreja Nossa Senhora do Carmo" file="../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Igreja-Nossa-Senhora-do-Carmo.jpg" description=" Diamantina, Minas Gerais, Brazil, Igreja Nossa Senhora do Carmo. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## Adeus
 

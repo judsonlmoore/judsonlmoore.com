@@ -1,10 +1,8 @@
 ---
 title: Ski Trip to Zil 2
 date: 2013-01-02 17:24:50 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Fun
   - Kyrgyzstan
   - Ski KG
@@ -14,8 +12,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/ski-trip-to-zil-2/
-wordpress_id: 1969
+
+
 ---
 
 I made my third trip skiing this season today and it was a real blast. The weather was the best I have had all season. It was warm and sunny for most of the day. I also got in quite a few runs, 15 or so! There is a new upper-lift on the right side of the mountain and this was really the best skiing. It is challenging and fast. But the best part is the lift has literally no wait because most people are afraid to go to this summit (my theory).

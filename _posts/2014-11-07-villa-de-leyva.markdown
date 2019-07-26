@@ -1,10 +1,8 @@
 ---
 title: Villa de Leyva - A Historical Mountain Retreat In Colombia
 date: 2014-11-07 08:34:47 Z
-categories:
-  - Colombia
-tags:
-  - Colombia
+categories: Colombia
+tags: Colombia
   - reunion
   - Rotary
   - RYE
@@ -15,8 +13,8 @@ comments: true
 excerpt: Villa de Leyva is a small historical mountain town in Colombia with beautiful
   architecture, adventure tourism galore, and waterfalls everywhere.
 layout: post
-link: https://git.judsonlmoore.com/villa-de-leyva/
-wordpress_id: 3003
+
+
 ---
 
 ## Villa de Leyva - A Historical Mountain Retreat

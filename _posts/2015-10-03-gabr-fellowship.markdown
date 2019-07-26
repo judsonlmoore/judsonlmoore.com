@@ -1,10 +1,8 @@
 ---
 title: The Gabr Fellowship Has Selected Me As A 2015 Fellow
 date: 2015-10-03 02:00:23 Z
-categories:
-  - Egypt
-tags:
-  - Adventure
+categories: Egypt
+tags: Adventure
   - Art
   - Culture
   - Education
@@ -18,8 +16,8 @@ comments: true
 excerpt: 'I will be meeting with Egyptian and American diplomats, military leaders,
   entrepreneurs and influencers during the 6-week Gabr Fellowship Program. '
 layout: post
-link: https://git.judsonlmoore.com/gabr-fellowship/
-wordpress_id: 3669
+
+
 ---
 
 ## The 2015 Gabr Fellowship

@@ -1,15 +1,13 @@
 ---
 title: Does Oil Hender Democracy?
 date: 2005-12-06 08:00:00 Z
-categories:
-  - College Papers
-tags:
-  - Politics
+categories: College Papers
+tags: Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/does-oil-hender-democracy/
-wordpress_id: 137
+
+
 ---
 
 The Article, _Does Oil Hender Democracy_, by Michael Ross, examines why the generally excepted theory that economic growth fosters democratic rule fails in countries where the main economic stimulator is from oil production.  The Middle East, Central Asia, and Venezuela all share two things in common: they are all major oil-producing countries and they all have non-democratic regimes.  Ross structures his paper by studying three aspects to the, “oil-impedes-democracy” claim.

@@ -1,20 +1,15 @@
 ---
-title: The Without a Path Podcast asked me to share travel advice in Kyrgyzstan
-date: 2018-02-19 16:41:33 Z
-categories:
-  - Kyrgyzstan
-tags:
-  - interview
-  - podcast
-  - Travel
-author: judsonlmoore
-comments: true
-excerpt: I share travel advice from Kyrgyzstan on The Without a Path Podcast with
-  American writer, traveler, and meddler Joe Baur. We discuss travel, tourism, humanitarianism,
-  and a sheep slaughter.
-layout: post
-link: https://git.judsonlmoore.com/without-a-path-podcast/
-wordpress_id: 18965
+title: 			The Without a Path Podcast asked me to share travel advice in Kyrgyzstan
+date: 			2018-02-19 16:41:33 Z
+categories: 	Kyrgyzstan
+tags: 			interview, podcast, travel
+author: 		judsonlmoore
+comments: 		true
+description:	
+excerpt: 		I share travel advice from Kyrgyzstan on The Without a Path Podcast with American writer, traveler, and meddler Joe Baur. We discuss travel, tourism, humanitarianism, and a sheep slaughter.
+layout: 		post
+image:			../assets/images/2018/02/without-a-path-judson-in-kyrgyzstan.jpg
+
 ---
 
 [The Without a Path Podcast](https://withoutapath.com/) with the American writer, traveler, and meddler Joe Baur is chock full of intriguing chats with creative types, adventurers, and the occasional story of hope for humanity. Guests share stories about the travels which has helped define their lives in this weekly travel podcast. **I highly encourage you to subscribe to** the [Without A Path Podcast on iTunes](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).
@@ -24,6 +19,8 @@ wordpress_id: 18965
 **To learn more about Joe Baur**, the Without a Path Podcast, or even to suggest yourself or someone else as a guest of the show, check out [WithoutAPath.com](https://withoutapath.com).
 
 Please listen, share, and comment below with your thoughts!
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395218398&amp;auto_play=true&amp;color=255b87"></iframe>
 
 ## Resources I mentioned during the interview
 
@@ -47,7 +44,7 @@ I talked about a lot in this episode of the Without a Path Podcast. Here are som
 
 During the interview, I mentioned a sacrificial sheep slaughter which temporarily converted me into a vegetarian. Joe thought it wise to include some of the audio in the Podcast episode, **which has stirred a lot of questions** about what the event looked like. Look no further, here is the full event for those of you whose curiosity is stronger than your stomachs.
 
-[embed]https://www.youtube.com/watch?v=4f3QsvHVv20[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4f3QsvHVv20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## My favorite Without a Path Podcast Episodes
 

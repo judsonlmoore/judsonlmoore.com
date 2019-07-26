@@ -1,10 +1,8 @@
 ---
 title: LSU Alumni Association Magazine Article - Spring 2013
 date: 2013-03-08 15:26:21 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Kyrgyzstan
   - LSU
   - LSU Alumni
@@ -13,8 +11,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/lsu-alumni-association-magazine-article-spring-2013/
-wordpress_id: 2150
+
+
 ---
 
 _Here is my contribution to the LSU Alumni Association Magazine for Spring 2013. View original source here: [http://issuu.com/lsualumni/docs/lsuaa_spring2013](http://www.facebook.com/l.php?u=http%3A%2F%2Fissuu.com%2Flsualumni%2Fdocs%2Flsuaa_spring2013&h=GAQHabBym&s=1)_

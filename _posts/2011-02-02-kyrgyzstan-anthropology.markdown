@@ -1,15 +1,13 @@
 ---
 title: Kyrgyzstan + Anthropology
 date: 2011-02-02 16:50:14 Z
-categories:
-  - Peace Corps
-tags:
-  - Peace Corps
+categories: Peace Corps
+tags: Peace Corps
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/kyrgyzstan-anthropology/
-wordpress_id: 69
+
+
 ---
 
 My parent's live near Texas A&M University and they discovered a Anthropologist who teaches there and specializes in the Kyrgyz culture and the surrounding region.  I emailed with her and got an interesting list readings that I thought I should share.  

@@ -1,18 +1,16 @@
 ---
 title: Radiomost Office
 date: 2012-06-29 06:42:03 Z
-categories:
-  - Peace Corps
-tags:
-  - Kyrgyzstan
+categories: Peace Corps
+tags: Kyrgyzstan
   - Peace Corps
   - RadioMost
   - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/radiomost-office/
-wordpress_id: 791
+
+
 ---
 
 Here is the office and colleagues from my first site in Talas City, [RadioMost](https://www.judsonlmoore.com/radiomost-office/).

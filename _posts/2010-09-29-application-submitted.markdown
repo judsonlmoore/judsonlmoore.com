@@ -1,15 +1,13 @@
 ---
 title: Application Submitted!
 date: 2010-09-29 04:00:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Peace Corps
+categories: Peace Corps
+tags: Peace Corps
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/application-submitted/
-wordpress_id: 80
+
+
 ---
 
 Ok so not much of an update here.  It took me weeks to do what I could have really done in a few hours or days at most.  Darn those essays!

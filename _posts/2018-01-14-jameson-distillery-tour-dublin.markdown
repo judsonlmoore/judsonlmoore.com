@@ -1,10 +1,8 @@
 ---
 title: Jameson distillery tour and whiskey tasting experience in Dublin
 date: 2018-01-14 15:42:41 Z
-categories:
-  - Ireland
-tags:
-  - alcohol
+categories: Ireland
+tags: alcohol
   - dublin
   - Museum
   - tours
@@ -14,8 +12,8 @@ excerpt: The Jameson Distillery on Bow St. in Dublin will fulfill all of your wh
   demands while visiting Ireland. Learn how whiskey is made and taste test some of
   the world's finest all in one great experience.
 layout: post
-link: https://git.judsonlmoore.com/jameson-distillery-tour-dublin/
-wordpress_id: 18722
+
+
 ---
 
 **When visiting Dublin** there are a few staple must-do activities and tourist traps you simply have to fall in to. Drink a Guinness? Check! Go for a hike? Check! Have a whiskey distillery tour and whiskey taste testing? Check check! Welcome to the home of Ireland's most famous whiskey: **The Jameson Distillery on Bow St.**
@@ -42,13 +40,13 @@ The tour of The Jameson Distillery is called [The Bow St. Experience](https://ww
 
 Once you work your way down the timeline, you find yourself in a small theater in the round where the "Jameson Ambassador" will tell the story of Jameson Whiskey with the aid of some astoundingly well-engineered visual and audio aids. **Walt Disney would be proud!**
 
-![](../assets/images/2018/01/jameson-distillery-bow-st-dublin-tour.jpg)
+{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-tour.jpg" description="" %}
 
 Now that we have gained a theoretical knowledge of all things related to Jameson Whiskey, we move into another room where we get to put our hands on what makes Jameson, Jameson: **the ingredients!**
 
 In the _process room_, our ambassador guides us through an interactive explanation of the distilling process. We get to touch the ingredients, smell the stages of distillation, and even come to appreciate the difference between different woods used to make the barrels which infuse whiskey with their smokey quality. Turns out that all **Jameson whiskey is aged in recycled bourbon barrels** from American bourbon makers.
 
-![](../assets/images/2018/01/jameson-distillery-bow-st-dublin-ingredients.jpg)
+{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-ingredients.jpg" description="" %}
 
 After all of this, we make our way into yet another room where we get **a free taste testing of whiskey!** Guests are taught how to properly drink whiskey, what qualities to look (and taste) for, and we got to compare three kinds of whiskey.
 
@@ -62,7 +60,7 @@ We then moved on to the third tasting, which was, of course, Jameson.
 
 Learn more about this tour and book tickets for your visit on [the Jameson website](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/bow-st-experience).
 
-![](../assets/images/2018/01/jameson-distillery-bow-st-dublin-tour-taste-testing.jpg)
+{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-tour-taste-testing.jpg" description="" %}
 
 ## A premium whiskey tasting at the Jameson Distillery Bow St.
 
@@ -108,7 +106,7 @@ The Jameson Crested is created in much the same way as the original but it is le
 
 [Learn more and buy Jameson Crested](https://shop.jamesonwhiskey.com/collections/whiskeys/products/crested-10)
 
-![](../assets/images/2018/01/jameson-distillery-bow-st-dublin-premium-whiskey-taste-testing.jpg)
+{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-premium-whiskey-taste-testing.jpg" description="" %}
 
 ### Jameson Distillery Edition
 
@@ -134,7 +132,7 @@ This stuff is like lighter-fluid. Really, it is the moonshine of Jameson whiskey
 
 [Learn more and buy Jameson Black Barrel](https://shop.jamesonwhiskey.com/collections/whiskeys/products/jameson-select-reserve)
 
-![](../assets/images/2018/01/jameson-distillery-bow-st-dublin-behind-the-bar.jpg)
+{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-behind-the-bar.jpg" description="" %}
 
 ## Final thoughts on the taste testing
 

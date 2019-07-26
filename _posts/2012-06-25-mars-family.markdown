@@ -1,18 +1,16 @@
 ---
 title: Mars Family
 date: 2012-06-25 06:40:10 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Friends
   - Kyrgyz Culture
   - Kyrgyzstan
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/mars-family/
-wordpress_id: 786
+
+
 ---
 
 Mars is a dear friend of mine from Bishkek and was my main host when I visited Bishkek before I moved here. Here I am with his family having a great time enjoying a beautiful day.

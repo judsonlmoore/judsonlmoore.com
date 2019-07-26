@@ -1,13 +1,12 @@
 ---
 title: Rotary Is Ubiquitous
 date: 2011-06-24 09:33:05 Z
-categories:
-  - Philanthropy
+categories: Philanthropy
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/rotary-is-ubiquitous/
-wordpress_id: 22
+
+
 ---
 
 For many of you this post is going to sound like a broken record. But hey, it’s a big deal to me, so keep reading. :)

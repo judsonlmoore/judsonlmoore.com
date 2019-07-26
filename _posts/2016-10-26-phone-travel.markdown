@@ -1,15 +1,14 @@
 ---
 title: 5 Simple Tips to Prepare Your Phone for Travel
 date: 2016-10-26 18:17:15 Z
-categories:
-  - Adventure
+categories: Adventure
 author: judsonlmoore
 comments: true
 excerpt: International phone travel can be expensive or even scary. Follow these best
   practices to ensure you get the most out of your phone and avoid extra charges.
 layout: post
-link: https://git.judsonlmoore.com/phone-travel/
-wordpress_id: 5618
+
+
 ---
 
 ## Phone Travel in a Nutshell
@@ -51,7 +50,7 @@ That way when you text someone, they will respond to your iMessage only and not 
 
 Once you’re on the plane, remove your SIM card. You’ll also want a [SIM tool](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=sim+tool) just to make life easier, or just use a paperclip.
 
-![A diagram of how to remove a SIM card from an iPhone with a paperclip.](../assets/images/2016/10/iphone-sim-removal-diagram.png)
+{% include image.html alt="A diagram of how to remove a SIM card from an iPhone with a paperclip." file="../assets/images/2016/10/iphone-sim-removal-diagram.png" description="" %}
 
 Keep the SIM card like it’s your passport. You don’t want to get back on US soil and not have service. Seriously, if you lose your passport they’ll still let you back into the country. No SIM card means you have to go to the AT&T or Verizon store.
 

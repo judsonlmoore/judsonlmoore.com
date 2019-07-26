@@ -1,15 +1,13 @@
 ---
 title: The Development of the Modern State
 date: 2005-02-02 05:00:00 Z
-categories:
-  - College Papers
-tags:
-  - Politics
+categories: College Papers
+tags: Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/the-development-of-the-modern-state/
-wordpress_id: 156
+
+
 ---
 
 In this chapter two points are made: first, discuss the different forms of ‘state’ which have existed and how that transformed into the modern state; second, why it is that the nation-state became the dominate form of the modern state.

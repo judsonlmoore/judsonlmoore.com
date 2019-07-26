@@ -1,10 +1,8 @@
 ---
 title: Golden Birthday and Sie Germans
 date: 2012-06-30 06:39:29 Z
-categories:
-  - Peace Corps
-tags:
-  - Birthday
+categories: Peace Corps
+tags: Birthday
   - Culture
   - Germans
   - Kyrgyzstan
@@ -13,8 +11,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/golden-birthday-and-sie-germans/
-wordpress_id: 784
+
+
 ---
 
 **Golden Birthday Party**

@@ -1,18 +1,16 @@
 ---
 title: 5 Reasons Why Giving Thanks is Good For You
 date: 2017-09-30 10:11:10 Z
-categories:
-  - Lifestyle
-tags:
-  - inspiration
+categories: Lifestyle
+tags: inspiration
   - whileyoung
 author: judsonlmoore
 comments: true
 excerpt: Giving thanks has a range of benefits from making you feel better to making
   the world a better place. Learn more and take the thanksgiving challenge.
 layout: post
-link: https://git.judsonlmoore.com/giving-thanks/
-wordpress_id: 18256
+
+
 ---
 
 ## Why should we give thanks?
@@ -49,7 +47,7 @@ However, looking toward tomorrow should not distract from your good fortunes of 
 
 According to one research paper from the Yale Center for Emotional Intelligence, [people who express gratitude are perceived as more trustworthy by others](http://ei.yale.edu/what-is-gratitude/). Wouldn't you like for people to trust you more than they already do? Become more conscious in your expressions of gratitude and enjoy **the benefits of others holding you in higher esteem**.
 
-[caption id="attachment_18802" align="alignnone" width="960"]![The Thanks Wall at Mutual Mobile.](../assets/images/2017/09/giving-thanks-chalk-wall.jpg) The Thanks Wall at Mutual Mobile.[/caption]
+{% include image.html alt="The Thanks Wall at Mutual Mobile." file="../assets/images/2017/09/giving-thanks-chalk-wall.jpg" description=" The Thanks Wall at Mutual Mobile." %}
 
 ## #5 - Giving thanks feels good
 

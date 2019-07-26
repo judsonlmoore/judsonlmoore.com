@@ -1,10 +1,8 @@
 ---
 title: Disaster Ski Trip
 date: 2012-03-18 06:59:44 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Disaster
   - Kyrgyzstan
   - Ski KG
@@ -14,8 +12,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/disaster-ski-trip/
-wordpress_id: 803
+
+
 ---
 
 I don't like to be negative about too many things, but man oh man this day was pretty much a disaster (and I have seen some disasters.. Katrina, Rita, Gustav... I know what I am talking about!) The car was late picking us up, the ski rental shop was closed, finally found another one, then drove to the resort, our car couldn't make it up the mountain so about a mile short of the skibase we strapped on our ski boots and hiked up while lugging our skis.

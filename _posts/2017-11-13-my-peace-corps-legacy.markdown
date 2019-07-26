@@ -1,10 +1,8 @@
 ---
 title: What I have learned about my Peace Corps legacy in Kyrgyzstan
 date: 2017-11-13 21:13:21 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Kyrgyzstan
   - Peace Corps
   - Service Above Self
@@ -14,15 +12,15 @@ comments: true
 excerpt: I recently learned a few things which I did not know about my own legacy
   in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 layout: post
-link: https://git.judsonlmoore.com/my-peace-corps-legacy/
-wordpress_id: 18421
+
+
 ---
 
 I just returned from a 2-week trip to Kyrgyzstan. “Kyrgyz-what???” you say? Exactly. Well, if you have been paying attention to my writings the last years then you will recall that [**I served in the US Peace Corps**](https://www.judsonlmoore.com/blog/jobs/peace-corps/) from 2011-2013 in Kyrgyzstan.
 
 Kyrgyzstan is a gorgeous and remote country in the heart of Central Asia. Europeans who visit the country refer to it as **the Switzerland of Central Asia**. The history of the country is steeped in nomadic traditions, and it was once a major route along the Silk Road.
 
-During my time there, I came to truly love the country and adore its people and culture. I had not been back since the end of my service over 4 years ago, so it was now** high-time that I make it back that way**.
+During my time there, I came to truly love the country and adore its people and culture. I had not been back since the end of my service over 4 years ago, so it was now *high-time that I make it back that way.*
 
 In the Peace Corps, we don’t really expect that we will ever understand the full breadth or impact of the work we do. This is especially true of the organization’s roots over 50 years ago. Even so, there are **well-documented cases of the ripple effect Peace Corps Volunteers** have made around the world, sometimes in the most unexpected ways.
 
@@ -36,7 +34,7 @@ After a few months of this, **I started to get an idea**. I observed that many o
 
 Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone and was keeping in touch with the news and their friends via phone apps. Therefore, I came up with the idea that **we should provide phones and an online platform** to these journalists so that they could publish stories today, while they continue to progress toward building a radio station tomorrow.
 
-[caption id="attachment_18434" align="alignnone" width="1024"]![Judson delivering the keynote at a media conference in Bishkek in November 2017](../assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg) Judson delivering the keynote at a media conference in Bishkek in November 2017.[/caption]
+{% include image.html alt="Judson delivering the keynote at a media conference in Bishkek in November 2017" file="../assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg" description=" Judson delivering the keynote at a media conference in Bishkek in November 2017." %}
 
 [KyrgyzMedia.com](http://kyrgyzmedia.com/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
 
@@ -44,7 +42,7 @@ Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone
 
 Last week, **I was afforded the opportunity** to present this history and success to the journalists at a media conference in Bishkek, where I was a guest of the conference at the invitation of Deutsche Welle. I am eternally grateful to their support of the project, and of course to the journalists who saw value in this concept and who have owned it ever since.
 
-[caption id="attachment_18424" align="alignnone" width="1024"]![A chart showing the growth in articles read year over year. ](../assets/images/2017/11/kyrgyzmedia.com-5-year-growth.png) Year over year growth in articles read on KyrgyzMedia.com[/caption]
+{% include image.html alt="A chart showing the growth in articles read year over year. " file="../assets/images/2017/11/kyrgyzmedia.com-5-year-growth.png" description=" Year over year growth in articles read on KyrgyzMedia.com" %}
 
 ## Improvements in medical facilities
 
@@ -54,7 +52,7 @@ As a writer **constrained to a hospital bed** for a week, I did just what you mi
 
 In my writing, I strived to compliment the skills and achievement of the medical teams, who were indeed great. However, they had very limited resources to work with. The purpose of my article was more to shine a light on the awful conditions of Kyrgyzstan's top surgical center in hopes that it might be **a contributing factor to future improvements**. My article was even [translated into Russian and posted on the local news site, Kloop Media](https://kloop.kg/blog/2013/04/29/kak-amerikanets-perezhil-appenditsit-v-bishkeke/).
 
-[caption id="attachment_2263" align="alignnone" width="1024"]![Judson recovering in a hospital bed after having an appendectomy in Bishkek.](../assets/images/2013/04/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049.jpg) Judson recovering in a hospital bed after having an appendectomy in Bishkek.[/caption]
+{% include image.html alt="Judson recovering in a hospital bed after having an appendectomy in Bishkek." file="../assets/images/2013/04/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049.jpg" description=" Judson recovering in a hospital bed after having an appendectomy in Bishkek." %}
 
 This week, my old doctor shared with me the news that **something indeed did happen** as a result of my reporting.
 
@@ -64,7 +62,7 @@ What I have now learned, is that this started a wave on which enough support was
 
 I was only dreaming that by sharing my experiences, I could make some impact at all on the Kyrgyz health care system. To learn that now a whole new hospital has been built on the support which my article played a part in forming is one of **the most remarkable things** I have ever come to know.
 
-[caption id="attachment_18425" align="alignnone" width="1000"]![President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. ](../assets/images/2017/11/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg) President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html)[/caption]
+{% include image.html alt="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. " file="../assets/images/2017/11/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg" description=" President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html)" %}
 
 ## Students attending university
 
@@ -78,7 +76,7 @@ After a week, the camp concluded and everyone went home, where **I was never to 
 
 This week, I caught up with Meerim and she informed me that **100% of those students** applied to, and are now attending, university! To top it off, they all got scholarships! This outcome was beyond anyone’s wildest hopes and is a testament to what impact anyone can make in the life of another person, especially if you reach them at a young age.
 
-[caption id="attachment_18426" align="alignnone" width="999"]![Judson provides computer training to students in Bishkek.](../assets/images/2017/11/Bishkek-ICT-Training.jpg) Judson provides computer training to students in Bishkek.[/caption]
+{% include image.html alt="Judson provides computer training to students in Bishkek." file="../assets/images/2017/11/Bishkek-ICT-Training.jpg" description=" Judson provides computer training to students in Bishkek." %}
 
 ## Friends that are like family
 

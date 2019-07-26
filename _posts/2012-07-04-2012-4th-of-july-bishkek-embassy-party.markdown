@@ -1,10 +1,8 @@
 ---
 title: 2012 4th of July Bishkek Embassy Party
 date: 2012-07-04 06:38:52 Z
-categories:
-  - Peace Corps
-tags:
-  - 4th of July
+categories: Peace Corps
+tags: 4th of July
   - Bishkek
   - Culture
   - Embassy
@@ -14,8 +12,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/2012-4th-of-july-bishkek-embassy-party/
-wordpress_id: 782
+
+
 ---
 
 Happy Birthday America! Here are a few photos of the festivities at the American Embassy in Bishkek. They really know how to throw a party and make us ExPats feel at home for a day! Thank you!

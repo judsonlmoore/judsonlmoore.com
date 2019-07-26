@@ -1,10 +1,8 @@
 ---
 title: Best podcast 2017 - What I listen to for my daily dose of inspiration
 date: 2017-03-15 10:00:18 Z
-categories:
-  - Lifestyle
-tags:
-  - podcasts
+categories: Lifestyle
+tags: podcasts
   - top list
   - trypod
 author: judsonlmoore
@@ -12,8 +10,8 @@ comments: true
 excerpt: After a toxic presidential election cycle, I found podcasts to be a boost
   for sanity and inspiration. Here is my list for best podcast 2017.
 layout: post
-link: https://git.judsonlmoore.com/best-podcast-2017/
-wordpress_id: 5876
+
+
 ---
 
 Since I was a teenager, I have been a bit of a political junkie. I grew up in a politically active family, I studied political science at university, and I have lobbied Congress more times than I can recall. So as you might imagine, I absorbed every ounce of news coverage and reading that I could during the last U.S. presidential election. By the time the party conventions arrived in July 2016, I was so burned out on the divisive and toxic nature of the whole thing that **I was desperate for something new**.

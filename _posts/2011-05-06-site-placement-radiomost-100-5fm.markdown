@@ -1,17 +1,15 @@
 ---
 title: 'Site Placement: Radiomost 100.5FM'
 date: 2011-05-06 00:11:10 Z
-categories:
-  - Peace Corps
-tags:
-  - Kyrgyzstan
+categories: Peace Corps
+tags: Kyrgyzstan
   - Peace Corps
   - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/site-placement-radiomost-100-5fm/
-wordpress_id: 43
+
+
 ---
 
 The NGO I will be working for is call Radiomost. I have not been given very much information from the PC about this organization but after some Google searches I found the articles below.

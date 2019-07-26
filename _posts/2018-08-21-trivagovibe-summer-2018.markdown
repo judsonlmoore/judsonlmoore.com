@@ -1,21 +1,17 @@
 ---
-title: DRUMSON performs live at the trivagoVibe in Düsseldorf
-date: 2018-08-21 20:35:07 Z
-categories:
-  - Music
-tags:
-  - '#lifeattrivago'
-author: judsonlmoore
-comments: true
-description: I was honored with the opportunity to headline the bi-annual trivagoVibe
-  this summer at the global headquarters for the hotel metasearch website (and my
-  employer), in Düsseldorf Germany. This concert consists of trivago's greatest musical
-  talent, and there is a lot of it! In this article, I write about how I got involved,
-  what happened on the day of the show, and you can also check out a video of my performance!
-layout: post
-link: https://git.judsonlmoore.com/trivagovibe-summer-2018/
-wordpress_id: 19185
+title:			DRUMSON performs live at the trivagoVibe in Düsseldorf
+date: 			2018-08-21 20:35:07 Z
+categories:	 	Music
+tags: 			#lifeattrivago
+author: 		judsonlmoore
+comments: 		true
+featured:		true
+hidden:			true
+description: 	I made my European debut as a solo drummer / performer during trivago's bi-annual trivagoVibe concert in Düsseldorf, Germany this summer.
+excerpt:		I was honored with the opportunity to headline the bi-annual trivagoVibe this summer.
+layout: 		post
 image: ../assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
+
 ---
 
 **I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed trivago on Tour annual trip](https://www.judsonlmoore.com/trivago-tour-2017/). Nothing beats live music in my book!) And at trivago, live music means **trivagoVibe!**
@@ -52,7 +48,7 @@ _Then came the question:_
 
 And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum >BOOM< we all knew we struck gold. **This. Drum set. Sounds. AMAZING. Live!** Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.
 
-[caption id="attachment_19188" align="alignnone" width="1024"]![Janine (Avocadogate) sound checks on the Roland TD-30KV](../assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg) Janine (Avocadogate) sound checks on the Roland TD-30KV[/caption]
+{% include image.html alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" file="../assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg" description=" Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
 
 ## Musical Talent of trivago: The Lineup
 
@@ -72,7 +68,7 @@ As I walked onto the stage, I slipped into character. For the next 32 minutes, I
 
 <blockquote>**Update:** Checkout the official website for Drumson at [https://drumson.de](https://drumson.de)!</blockquote>
 
-[caption id="attachment_19193" align="alignnone" width="1024"]![](../assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg) Drumson performs a solo show at the 2018 trivagoVibe[/caption]
+{% include image.html alt="" file="../assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg" description=" Drumson performs a solo show at the 2018 trivagoVibe" %}
 
 ## Watch Video Footage from my First DRUMSON Performance
 
@@ -90,4 +86,4 @@ Please excuse the unstable audio level, I think the phones had a difficult time 
 
 Until then, please leave me your thoughts in the comments below, and you can always reach me directly on [Facebook](https://www.facebook.com/JudsonLMooreBlog/) and [Twitter](https://twitter.com/judsonlmoore)!
 
-![](../assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg)
+{% include image.html alt="" file="../assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg" description="" %}

@@ -1,10 +1,8 @@
 ---
 title: "Manali: India's Doorway to the Himalayan Mountains"
 date: 2014-10-24 10:54:24 Z
-categories:
-  - India
-tags:
-  - Adventure
+categories: India
+tags: Adventure
   - Bucket List
   - India
   - Travel
@@ -14,8 +12,8 @@ comments: true
 excerpt: Half a day's drive north of New Delhi you find yourself scaling the foothills
   of the Himalayan Mountains. Once you reach Manali, you know you're there.
 layout: post
-link: https://git.judsonlmoore.com/manali/
-wordpress_id: 3059
+
+
 ---
 
 ## On The Road To Manali

@@ -1,10 +1,8 @@
 ---
 title: Nooryz 2013
 date: 2013-04-17 18:59:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Culture
   - Holiday
   - Islam
@@ -13,8 +11,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/nooryz-2013/
-wordpress_id: 2192
+
+
 ---
 
 Nooryz is the Islamic new year and is celebrated in the spring time as new life is emerging from the icy grip of winter. In Kyrgyzstan, celebrations typically include cultural performances of music and dance.

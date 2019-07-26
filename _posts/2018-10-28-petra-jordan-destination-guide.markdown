@@ -1,23 +1,17 @@
 ---
-title: The Lost City of Petra is More Amazing Than I Ever Imagined
-date: 2018-10-28 10:00:54 Z
-categories:
-  - Jordan
-tags:
-  - travel guide
-author: judsonlmoore
-comments: true
-excerpt: The lost city of Petra, of Indiana Jones fame, sits in the southern territories
-  of Jordan, between Amman and Wadi Rum. This UNESCO World Heritage Site has been
-  on my bucket list for a long time and I am glad to report that it does not disappoint.
-  All I really knew about Petra was The Treasury building, which is famous for being
-  the resting place of the Holy Grail in the 1989 film Indiana Jones and the Last
-  Crusade. I was thrilled to descend the long and winding Siq, or path, into Petra,
-  where The Treasury is not the first thing you see along the path, and as it turns
-  out, it is not nearly the last thing either.
-layout: post
-link: https://git.judsonlmoore.com/petra-jordan-destination-guide/
-wordpress_id: 19008
+title:			The Lost City of Petra is More Amazing Than I Ever Imagined
+date: 			2018-10-28 10:00:54 Z
+categories: 	Jordan
+tags: 			travel guide
+author:			judsonlmoore
+layout: 		post
+comments: 		true
+featured:		true
+hidden:			true
+excerpt:		Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye.
+description:		Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye. Read now why a visit to Petra is a must for anyone visiting Israel or Jordan.
+image:			../assets/images/2018/05/petra-jordan-al-khazneh-treasury.jpg
+
 ---
 
 The lost city of Petra, of Indiana Jones fame, sits in the southern territories of Jordan, between Amman and [Wadi Rum](https://www.judsonlmoore.com/wadi-rum-jordan-destination-guide/). This UNESCO World Heritage Site has been on my bucket list for a long time and I am glad to report that it does not disappoint. All I really knew about Petra was The Treasury building, which is famous for being the resting place of the Holy Grail in the 1989 film *Indiana Jones and the Last Crusade*. I was thrilled to descend the long and winding *Siq*, or path, into Petra, where The Treasury is not the first thing you see along the path, and as it turns out, it is not nearly the last thing either.
@@ -38,11 +32,9 @@ I joined a tour group out of Tel-Aviv to make this journey into Jordan. Along wi
 
 The drive to Petra is its own experience. The roads are very new and well-maintained, so no fear there! Along the way, you get treated to incredible views of the desert vistas and a sneak-peak into the lifestyles of modern-day Bedouin tribes. Upon arrival at the entrance to Petra, there are a few hotels and ample parking, so if you were to come here on your own, there are some really nice places to stay.
 
-**Affiliate Link: [Find your ideal Petra hotel at the best available rate on trivago](https://www.trivago.com/?aPriceRange%5Bfrom%5D=0&aPriceRange%5Bto%5D=0&iPathId=481413&aGeoCode%5Blat%5D=30.321316&aGeoCode%5Blng%5D=35.474319&iGeoDistanceItem=0&aCategoryRange=0%2C1%2C2%2C3%2C4%2C5&aOverallLiking=1%2C2%2C3%2C4%2C5&sOrderBy=relevance%20desc&bTopDealsOnly=false&iRoomType=7&cpt=48141303&iIncludeAll=0&iViewType=0&bIsSeoPage=false&bIsSitemap=false&). **
-
 The welcome center to Petra is much more than a gift shop and a ticket booth. There are a series of cafes and restaurants, a museum, an official hotel, and also a bar claiming to be the world's oldest because it is inside of a cave which has been actively used for trade and rest for thousands of years. Just the same, it is a really awesome place to relax at the end of the day. But let's leave that for later. Time to descend the *Siq* and discover Petra!
 
-[caption id="attachment_19060" align="alignnone" width="1024"]![A 1-day ticket to Petra, taken at the entrance of the Siiq](../assets/images/2018/05/petra-jordan-one-day-ticket.jpg) A 1-day ticket to Petra.[/caption]
+{% include image.html alt="A 1-day ticket to Petra, taken at the entrance of the Siiq" file="../assets/images/2018/05/petra-jordan-one-day-ticket.jpg" description="A 1-day ticket to Petra." %}
 
 ## The _Siq_ into Petra
 
@@ -50,7 +42,7 @@ The sloping path into Petra is called the *Siq*. It is a gently-sloping dirt an
 
 The majority of structures which you will discover in Petra are tombs and are the only remaining symbols of the Nabataean Kingdom which ruled the area from 400BC until the Roman's conquered them in the 1st Century AD. Not much is known about the Nabataean people except for what has been found in trade Greek and Roman trade records from the era.
 
-[caption id="attachment_19056" align="alignright" width="300"]![Obelisk Tomb and the Triclinium along the Siiq to Petra](../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg)](../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg) Obelisk Tomb and the Triclinium along the Siq to Petra[/caption]
+{% include image.html alt="Obelisk Tomb and the Triclinium along the Siiq to Petra" file="../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg" description="" file="../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg" description="Obelisk Tomb and the Triclinium along the Siq to Petra" %}
 
 The tombs of Petra do not have names or years indicated on them, however, some of the architecture in Petra offers clues about the period in which they were built. One of the first structures you come to along the Siq is called the Obelisk Tomb. It is called this because it features obelisks, which is very uncommon in Petra. Probably this tomb was built for a wealthy Egyptian merchant or someone who had a strong connection with Egypt.
 
@@ -62,7 +54,7 @@ Beyond the Obelisk Tomb and a few others, the rock walls start to climb up on ei
 
 One really interesting thing to note in the Siq (as pictured below) is the waist-high channels carved into the sides of the walls. These are actually aqueducts which carried fresh water to the buildings below! In a few places you can still see the clay pipes which were set into these carvings, but in most places, it is just an open trough today.
 
-[caption id="attachment_19063" align="alignnone" width="1024"]![I take a selfie halfway down the Siiq on the way to The Treasury at Petra](../assets/images/2018/05/petra-jordan-the-siiq-path.jpg) Halfway down the Siq on the way to The Treasury at Petra[/caption]
+{% include image.html alt="I take a selfie halfway down the Siiq on the way to The Treasury at Petra" file="../assets/images/2018/05/petra-jordan-the-siiq-path.jpg" description="Halfway down the Siq on the way to The Treasury at Petra" %}
 
 ## The Treasury at Petra
 
@@ -74,7 +66,7 @@ Due to years of vandalization and graffiti, the inside of The Treasury is not ac
 
 **Pro tip:** The photo below is taken upon a ledge high above the place where the Siq ends in front of the Treasury. There are two ways to get there: the 3.5km (2.2 miles) Al-Khubtha trail (AKA green trail), which takes about 3 hours or pay one of the local kids at The Treasury to take you up a secret (and guarded) path which takes about 5 minutes. Trust me, you don't want to do this by yourself and the \$5 will help a local family. The best part: you get an awesome photo like this, and now you freed up 3 hours of your day to explore other trails instead!
 
-[caption id="attachment_19045" align="alignnone" width="1024"]![Judson stands on a ledge above The Treasury at Petra.](../assets/images/2018/05/petra-jordan-al-khazneh-treasury-above.jpg) The Treasury at Petra.[/caption]
+{% include image.html alt="Judson stands on a ledge above The Treasury at Petra." file="../assets/images/2018/05/petra-jordan-al-khazneh-treasury-above.jpg" description="The Treasury at Petra." %}
 
 ## Getting around inside Petra
 
@@ -84,7 +76,7 @@ Thanks to eons of water flow and millions of visitors, the paths around Petra ar
 
 There are several camel stations around Petra, so you can hop on one from and to just about anywhere. If you were to take one at all, I recommend that you wait until the end of the day and take one from next to the Treasury back up to the visitor's entrance.
 
-[caption id="attachment_19052" align="alignnone" width="1024"]![Camels and donkeys relaxing at The Treasury in Petra](../assets/images/2018/05/petra-jordan-camels.jpg) Camels and donkeys await tourists to give rides to.[/caption]
+{% include image.html alt="Camels and donkeys relaxing at The Treasury in Petra" file="../assets/images/2018/05/petra-jordan-camels.jpg" description="Camels and donkeys await tourists to give rides to." %}
 
 ## The Monastery at Petra
 
@@ -92,7 +84,7 @@ What I most enjoyed about Petra is that _it is so much more_ than The Treasury. 
 
 This magnificent structure appears to be built rather than carved, but actually, it is a mix. You can see the rock wall to the right is part of the original hillside from which The Monastery is indeed carved. But you can also see a sloping seam-line on the column left of center which slopes in the direction of the original hillside, thus indicating that the top of the Monastery was indeed built, at least in part.
 
-[caption id="attachment_19041" align="alignnone" width="1024"]![The Monastery at Petra with a Jordanian flag](../assets/images/2018/05/petra-jordan-ad-deir-monastery.jpg) The Monastery at Petra[/caption]
+{% include image.html alt="The Monastery at Petra with a Jordanian flag" file="../assets/images/2018/05/petra-jordan-ad-deir-monastery.jpg" description="The Monastery at Petra" %}
 
 ## The High Place of Sacrifice and Trail
 
@@ -102,7 +94,7 @@ Aside from the trail being very beautiful and mostly void of other visitors, the
 
 [gallery link="file" size="medium" ids="19053,19061,19064"]
 
-[caption id="attachment_19062" align="alignnone" width="1024"]![A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice](../assets/images/2018/05/petra-jordan-royal-tombs.jpg) The Royal Tombs of Petra, taken from atop the High Place of Sacrifice[/caption]
+{% include image.html alt="A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice" file="../assets/images/2018/05/petra-jordan-royal-tombs.jpg" description="The Royal Tombs of Petra, taken from atop the High Place of Sacrifice" %}
 
 ## When are you going to Petra?
 

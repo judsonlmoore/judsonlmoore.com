@@ -1,16 +1,14 @@
 ---
 title: Working Hard For The (no) Money
 date: 2011-06-12 21:42:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Peace Corps
+categories: Peace Corps
+tags: Peace Corps
   - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/working-hard-for-the-no-money/
-wordpress_id: 23
+
+
 ---
 
 Thus far in the Peace Corps, I have been elected or appointed into every available leadership roll. They are:

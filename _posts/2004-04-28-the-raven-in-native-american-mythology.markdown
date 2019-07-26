@@ -1,10 +1,8 @@
 ---
 title: The Raven in Native American Mythology
 date: 2004-04-28 07:00:00 Z
-categories:
-  - College Papers
-tags:
-  - Culture
+categories: College Papers
+tags: Culture
   - Mythology
   - Native American
   - Raven
@@ -14,8 +12,8 @@ comments: true
 excerpt: The raven is a very important figure in most Native American cultures. It
   is seen as the creator of light and as a trickster figure.
 layout: post
-link: https://git.judsonlmoore.com/the-raven-in-native-american-mythology/
-wordpress_id: 158
+
+
 ---
 
 _Photo Credit: [Larry Vienneau](https://www.etsy.com/listing/82025011/raven-artwork-raven-crow-aquatint?ref=shop_home_active_24)_
@@ -40,7 +38,7 @@ The next day the boy cried for more of the things on the shelf and was given a b
 
 Raven shortly thereafter was told of a well with a never-ending supply of water.  Raven went to the place where the well was and learned that the man who owned the well kept it covered and never left its side. He even built his house around the well and slept by it so that no one else could drink from it.  Once again Raven began to scheme a plan to get this water.
 
-[![](../assets/images/2004/04/exponential-happiness-fb-banner.png)](https://www.judsonlmoore.com/book/)
+{% include image.html alt="" file="../assets/images/2004/04/exponential-happiness-fb-banner.png" description="" %}(https://www.judsonlmoore.com/book/)
 
 Raven disguised himself as the man’s brother-in-law and went to the man telling him they he would stay the night with him.  Both went to sleep and in the early morning Raven woke up and went away from the well.  When Raven returned he brought with him dog dung and put it on the sleeping man’s buttocks.  Raven awoke the man and showed the man the accident he had had in the night.  The man embarrassed and in need to clean up, ran out of the house to clean up.
 

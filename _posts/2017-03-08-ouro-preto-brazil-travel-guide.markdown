@@ -1,10 +1,8 @@
 ---
 title: Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion
 date: 2017-03-08 15:06:37 Z
-categories:
-  - Brazil
-tags:
-  - brazil
+categories: Brazil
+tags: brazil
   - historic sites
   - travel tips
 author: judsonlmoore
@@ -12,8 +10,8 @@ comments: true
 excerpt: Ouro Preto Brazil is the best preserved colonial city in South America. Today,
   it is a treasure of riches, architecture and revolutionary history.
 layout: post
-link: https://git.judsonlmoore.com/ouro-preto-brazil-travel-guide/
-wordpress_id: 5826
+
+
 ---
 
 Ouro Preto is a small colonial town in the heart of the Brazilian state of Minas Gerais, [near to Belo Horizonte](https://www.judsonlmoore.com/belo-horizonte-travel-guide/). The entire town was Brazil’s first place to be designated a UNESCO world heritage site, due to its vast historical significance from the early days of Portuguese colonization of Brazil and for its high quality of architectural preservation.
@@ -62,7 +60,7 @@ There are also a number of art museums: **Casa Guignard**, **Museu de Arte Sacra
 
 Everywhere you look in Ouro Preto you will find beauty. I encourage you to stroll down every alley, walk through every door, and keep an open mind and an open heart to what treasures you might find around the next corner.
 
-![Ouro Preto Brazil Churches - source: Leandro Neumann Ciuffo, https://flic.kr/p/bSHhev](../assets/images/2017/03/ouro-preto-brazil-churches.jpg)
+{% include image.html alt="Ouro Preto Brazil Churches - source: Leandro Neumann Ciuffo, https://flic.kr/p/bSHhev" file="../assets/images/2017/03/ouro-preto-brazil-churches.jpg" description="" %}
 
 ### Churches
 
@@ -94,7 +92,7 @@ Throughout all my travels in Brazil, I found that the handicrafts available in O
 
 Probably the most beautiful pieces are the local handicrafts made of stone. **The Soapstone market** is down the hill to the east from the Praca Tiradentes. This open-air market is full of local artisans selling beautiful handcrafted soapstone and wood art pieces. I bought an amazing stone chess set here, but had to leave it behind in Brazil as it did not fit in my luggage! I am very sad for that, but I was able to turn it into a great gift for my hosts in Campinas, which made my whole 6-month Brazilian excursion possible. And I can’t feel too bad about that!
 
-![Ouro Preto Brazil, Soapstone Market handcrafted plates, Source: Lunna Campos https://flic.kr/p/oWYuEJ](../assets/images/2017/03/ouro-preto-brazil-soapstone-market.jpg)
+{% include image.html alt="Ouro Preto Brazil, Soapstone Market handcrafted plates, Source: Lunna Campos https://flic.kr/p/oWYuEJ" file="../assets/images/2017/03/ouro-preto-brazil-soapstone-market.jpg" description="" %}
 
 ## In the near from Ouro Preto
 

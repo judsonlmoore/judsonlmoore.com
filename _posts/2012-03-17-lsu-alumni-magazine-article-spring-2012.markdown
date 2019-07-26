@@ -1,10 +1,8 @@
 ---
 title: LSU Alumni Magazine Article - Spring 2012
 date: 2012-03-17 22:07:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Kyrgyzstan
+categories: Peace Corps
+tags: Kyrgyzstan
   - LSU
   - LSU Alumni
   - Peace Corps
@@ -13,8 +11,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/lsu-alumni-magazine-article-spring-2012/
-wordpress_id: 6
+
+
 ---
 
 Greetings Tiger Nation,

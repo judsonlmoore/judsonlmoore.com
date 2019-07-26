@@ -1,22 +1,15 @@
 ---
-title: 'How to spend a day in Norway: Hiking in Baneheia Park in Kristiansand'
+title: How to spend a day in Norway - Hiking in Baneheia Park in Kristiansand
 date: 2017-10-09 10:00:27 Z
-categories:
-  - Norway
-tags:
-  - '#lifeattrivago'
-  - Hiking
-  - nordic
-  - scandinavia
-  - travel guide
+categories: norway
+tags: #lifeattrivago, hiking, nordic, scandinavia, travel guide
 author: judsonlmoore
 comments: true
 excerpt: I spent a day in Kristiansand, Norway thanks to a company cruise for the
   2017 trivago on Tour. Though just one day, I experienced memories that will last
   forever!
 layout: post
-link: https://git.judsonlmoore.com/baneheia-kristiansand-norway/
-wordpress_id: 18191
+
 ---
 
 ## I never thought I would spend 6-hours in Norway
@@ -31,7 +24,7 @@ We were welcomed with great fanfare to Kristiansand. There was a color guard dis
 
 We were also quite fortunate with the weather. The sky was blue and nearly cloudless. The temperature was crisp but warm in the sun. I also learned that the last weeks had seen mostly rain and we had arrived on the best day in recent memory, so we were very fortunate for that!
 
-![The welcoming committee with Judson in Kristiansand, Norway](../assets/images/2000/09/trivago-on-tour-2017-kristiansand-norway-welcome-committee.jpg)
+{% include image.html alt="The welcoming committee with Judson in Kristiansand, Norway" file="../assets/images/2000/09/trivago-on-tour-2017-kristiansand-norway-welcome-committee.jpg" description="" %}
 
 ## The trivago Hike: it is an annual tradition
 
@@ -43,7 +36,7 @@ We walked our way through the town center of Kristiansand, which was very quain
 
 The cafes and restaurants all had a 5-star appeal to them. I checked out some of the menus as we walked by and the prices didn't seem at all out of the ordinary for any other place I have been to in Europe. This went at least a small way to shatter my expectation that Norway would make for a cost-prohibitive holiday in the future.
 
-![The town center of Kristiansand, Norway](../assets/images/2000/09/trivago-on-tour-2017-kristiansand-norway-town-center.jpg)
+{% include image.html alt="The town center of Kristiansand, Norway" file="../assets/images/2000/09/trivago-on-tour-2017-kristiansand-norway-town-center.jpg" description="" %}
 
 ## Into the woods: Baneheia Park
 
@@ -63,7 +56,7 @@ Again, the weather could not have been more perfect for us on this day. Here are
 
 [gallery link="file" size="medium" ids="18281,18288,18289,18291,18290,18292"]
 
-![Judson at a lake in the Baneheia Park](../assets/images/2000/09/trivago-on-tour-2017-kristiansand-norway-trivago-sign-lake.jpg)
+{% include image.html alt="Judson at a lake in the Baneheia Park" file="../assets/images/2000/09/trivago-on-tour-2017-kristiansand-norway-trivago-sign-lake.jpg" description="" %}
 
 ## It was a great day
 

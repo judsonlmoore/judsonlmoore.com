@@ -1,17 +1,15 @@
 ---
 title: 19 Amazing International Fellowship Programs
 date: 2016-02-18 00:29:46 Z
-categories:
-  - Career
-tags:
-  - whileyoung
+categories: Career
+tags: whileyoung
 author: judsonlmoore
 comments: true
 excerpt: Looking for ways to study or work abroad while getting someone else to pay
   for the experience? Check out this list of international fellowship programs!
 layout: post
-link: https://git.judsonlmoore.com/international-fellowship-programs/
-wordpress_id: 401
+
+
 ---
 
 International fellowship programs are an excellent way to see the world, learn valuable lessons and get someone else to pay for it all. Many fellowships are tied to current degree-seeking students and researchers, therefore, you might reasonably assume that when you read "fellowship" you need to be in school. This is not true. There are many professional fellowships, as well as opportunities for mid-career international education and research.

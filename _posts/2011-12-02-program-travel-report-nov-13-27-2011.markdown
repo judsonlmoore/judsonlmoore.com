@@ -1,18 +1,16 @@
 ---
 title: Program Travel Report Nov 13-27, 2011
 date: 2011-12-02 16:00:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Kyrgyzstan
   - Peace Corps
   - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/program-travel-report-nov-13-27-2011/
-wordpress_id: 11
+
+
 ---
 
 # Sunday Nov 13 - Monday Nov 14

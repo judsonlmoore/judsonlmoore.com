@@ -2,15 +2,14 @@
 title: India Travel Advice In Under 10 Minutes
 date: 2016-01-22 03:51:26 Z
 published: false
-categories:
-  - Adventure
+categories: Adventure
 author: judsonlmoore
 comments: true
 excerpt: India is a wonderfully diverse and beautifully colorful country. I have traveled
   throughout India and have compiled my best advice here.
 layout: post
-link: https://git.judsonlmoore.com/?p=93
-wordpress_id: 93
+
+
 ---
 
 I have seen so much of India at this point that I feel like I can give you some good advice and connect you with folks in each area of the country. In the event that you visit India, I think the below read will be very helpful. Please, add your comments below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
@@ -31,7 +30,7 @@ The most popular tourist route is the Golden Triangle: Delhi > Agra > Jaipur > D
 
 A great travel plan would be to land in Delhi, see Delhi for 1-2 days, and then go by car to Agra. Agra only requires one day, but you should arrange your travel to see the Taj Mahal at sunrise. Don't be late. Contact Sarfaraz on Whatsapp [(+919412330010](tel:%28%2B919412330010)), he is an amazing guide. He is a university professor and is very knowledgeable about all things Agra. His rate for me was INR 950 for 4 (or maybe 6) hours. While in Agra, you must see the Taj Mahal and the Agra Fort. I also highly recommend seeing the Taj Mahal from across the river; no one is over there, and you can get an awesome photo like this one:
 
-![Judson Moore jumping in front of the Taj Mahal in Agra, India](../assets/images/2016/01/travel-advice-to-india.jpg)
+{% include image.html alt="Judson Moore jumping in front of the Taj Mahal in Agra, India" file="../assets/images/2016/01/travel-advice-to-india.jpg" description="" %}
 
 From Agra, take an overnight train west all the way to whatever your furthest away destination is if you're thinking of returning at the end to Delhi. So that means take a train to Jodhpur, Udaipur or Jaisalmer; then work your way back toward Delhi for your return flight.
 

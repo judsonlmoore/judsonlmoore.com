@@ -1,10 +1,8 @@
 ---
 title: 'Pushkar: A Camel Safari In The Heart of Rajasthan India'
 date: 2014-12-15 13:43:26 Z
-categories:
-  - India
-tags:
-  - Adventure
+categories: India
+tags: Adventure
   - Camel
   - Camping
   - Desert
@@ -15,8 +13,8 @@ comments: true
 excerpt: 'An overnight camel safari in Pushkar with desert nomads led to the best
   meal of my life and a new appreciation for the love life of a camel named Romeo. '
 layout: post
-link: https://git.judsonlmoore.com/pushkar/
-wordpress_id: 3067
+
+
 ---
 
 ## The Town of Pushkar

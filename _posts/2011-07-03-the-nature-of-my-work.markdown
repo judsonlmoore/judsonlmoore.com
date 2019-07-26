@@ -1,16 +1,14 @@
 ---
 title: The Nature of My Work
 date: 2011-07-03 20:40:04 Z
-categories:
-  - Peace Corps
-tags:
-  - Peace Corps
+categories: Peace Corps
+tags: Peace Corps
   - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/the-nature-of-my-work/
-wordpress_id: 20
+
+
 ---
 
 I have been at my site now for 1 month. Though I have only scratched the surface of my work's potential and am still in the "honeymoon" phase, I feel like I have accomplished a lot. I will write more on the programs I have created later once they are funded. For now, allow me just to introduce you to my office.

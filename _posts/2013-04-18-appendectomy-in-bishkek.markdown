@@ -1,10 +1,8 @@
 ---
 title: Appendectomy In Bishkek
 date: 2013-04-18 20:42:04 Z
-categories:
-  - Peace Corps
-tags:
-  - Appendectomy
+categories: Peace Corps
+tags: Appendectomy
   - Bishkek
   - Health
   - Kyrgyzstan
@@ -13,8 +11,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/appendectomy-in-bishkek/
-wordpress_id: 2241
+
+
 ---
 
 **A Fair Warning**

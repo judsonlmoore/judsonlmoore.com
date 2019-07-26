@@ -1,10 +1,8 @@
 ---
 title: Bike Race
 date: 2013-04-01 00:50:52 Z
-categories:
-  - Peace Corps
-tags:
-  - Biking
+categories: Peace Corps
+tags: Biking
   - Bishkek
   - Disaster
   - Kyrgyzstan
@@ -12,8 +10,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/bike-race/
-wordpress_id: 2188
+
+
 ---
 
 I recently participated in my first bike race! It was a really great experience but because I entered into the "professional" category and we were the last of 3 categories to race, I lost a lot of energy just standing around and the weather turned from a beautiful sunny morning to a bitter cold and windy stand storm by the time we hit the track. Combining that the really painful blister I got on my right foot from hiking in the canyons the day before, and a wreck that occurred on the starting line slightly spraining my ankle, I wasn't able to finish the race. That was a major bummer but the day was great just the same.

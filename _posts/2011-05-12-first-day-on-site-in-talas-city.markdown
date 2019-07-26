@@ -1,17 +1,15 @@
 ---
 title: First Day On Site in Talas City
 date: 2011-05-12 02:44:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Kyrgyzstan
+categories: Peace Corps
+tags: Kyrgyzstan
   - Peace Corps
   - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/first-day-on-site-in-talas-city/
-wordpress_id: 36
+
+
 ---
 
 I haven't seen as many horses as I have seen today since I lived in Kentucky!

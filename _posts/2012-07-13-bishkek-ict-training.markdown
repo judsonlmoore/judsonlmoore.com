@@ -1,10 +1,8 @@
 ---
 title: Bishkek ICT Training
 date: 2012-07-13 06:38:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - ICT
   - IREX
   - Kyrgyzstan
@@ -14,8 +12,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/bishkek-ict-training/
-wordpress_id: 778
+
+
 ---
 
 If there is a reason why I joined the Peace Corps it was the experience of the last few days. I conducted an ICT training for students from the southern oblast of Jalalabad where I am not allowed to travel due to Peace Corps regulations. Since I could not go to them, they came to me! Many of these students had never touched a computer before and their only interaction with the internet was what they could access through their cell phones and using text-based messaging service. While covering the basics of the internet, search, social media, research and MC Office, these students all picked up the taught basic skills right away. They were truly incredible.

@@ -2,22 +2,20 @@
 title: 'The Decision that Saved the World:  An Analysis of the Decision-Making Process
   during the Cuban Missile Crisis'
 date: 2005-12-02 08:00:00 Z
-categories:
-  - College Papers
-tags:
-  - Politics
+categories: College Papers
+tags: Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/
-wordpress_id: 138
+
+
 ---
 
 During the thirteen-day period from October 18-29, 1962, the world stood and watched as the United States and USSR nearly entered into a war which could have resulted in world-wide nuclear holocaust.  The end result of the showdown was the extraction of Soviet nuclear presence in Cuba in exchange for the removal of US nuclear weapons in Turkey and a continued quarantine against Cuba which is still in place to this day.  There were many events during this thirteen-day period which nearly set off a war but thanks to the diligent decisions made by both President John F. Kennedy and Russian Premier Khrushchev, nuclear war was avoided.
 
 The Kennedy administration played a key roll in avoiding catastrophe by adhering to a process which considered all options, outcomes, and available information.  To understand the decision-making process, we must first evaluate the people who were of influence.  The Kennedy administration formed the Executive Committee (ExComm), “which brought together a number of NSC members plus others… who were not national security specialists but had the confidence of the president.” [[1]](https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn1)  There were 71 official members, but the most important are as follows:
 
-![](http://media.tumblr.com/tumblr_l6c40zdG7R1qb60c5.png)
+{% include image.html alt="](http://media.tumblr.com/tumblr_l6c40zdG7R1qb60c5.png" description="" %}
 
 To try and detail the input of each of these people would easily fill a book, so for the practical purposes of this paper we will focus on a few of the most influential and polarized members of the ExComm.
 

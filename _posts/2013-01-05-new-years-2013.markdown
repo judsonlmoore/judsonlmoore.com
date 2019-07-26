@@ -1,10 +1,8 @@
 ---
 title: Happy New Year / С новым годом / Жаны жылыныздар менен
 date: 2013-01-05 16:36:53 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Holiday
   - Kyrgyz Culture
   - Kyrgyzstan
@@ -13,8 +11,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/new-years-2013/
-wordpress_id: 1296
+
+
 ---
 
 [gallery link="file" ids="1297,1299,1300,1302,1303"]

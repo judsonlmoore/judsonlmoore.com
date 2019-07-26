@@ -1,13 +1,12 @@
 ---
 title: "Shafik Gabr's 2015 East-West: The Art of Dialogue Fellowship Notes"
 date: 2015-11-23 04:42:52 Z
-categories:
-  - Egypt
+categories: Egypt
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/shafik-gabr-2015-fellowship-notes/
-wordpress_id: 5183
+
+
 ---
 
 ## M. Shafik Gabr and his Foundation

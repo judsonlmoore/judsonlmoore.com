@@ -1,10 +1,8 @@
 ---
 title: Peela Chai Each
 date: 2011-07-27 17:01:00 Z
-categories:
-  - Peace Corps
-tags:
-  - Culture
+categories: Peace Corps
+tags: Culture
   - K19
   - Kyrgyzstan
   - PCVs
@@ -15,8 +13,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/peela-chai-each/
-wordpress_id: 16
+
+
 post_format:
   - Audio
 ---

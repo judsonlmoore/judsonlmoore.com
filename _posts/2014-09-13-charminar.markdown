@@ -1,18 +1,16 @@
 ---
 title: Charminar
 date: 2014-09-13 13:41:39 Z
-categories:
-  - Hyderabad
-tags:
-  - Architecture
+categories: Hyderabad
+tags: Architecture
   - India
   - Islam
   - Mosque
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/charminar/
-wordpress_id: 2901
+
+
 ---
 
 I had the most wonderful experience exploring Hyderabad today! I went to visit one of India's most recognizable monuments, a mosque called Charminar. The name comes from combining the Urdu words Chār and Minar', which translates to "Four Towers," referencing the monument's four ornate minarets. This structure is the icon of Hyderabad and is visited by thousands of people every day.

@@ -1,13 +1,12 @@
 ---
 title: 'Play Review: The Weavers'
 date: 2005-10-31 08:00:00 Z
-categories:
-  - College Papers
+categories: College Papers
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/play-review-the-weavers/
-wordpress_id: 146
+
+
 ---
 
 _The Weavers_, by Gerhart Hauptman, is a play about the suppressed weavers of Peterswaldu, Langenbielau, and Kaschbach, Germany.  This story tells about their efforts to liberalize themselves from the trappings of poverty and the social structure which keeps them there.  This struggle leads into a violent revolt which ends with innocent death.  Before the events of the play can be outlined in any detail, I will introduce a few of the main characters.

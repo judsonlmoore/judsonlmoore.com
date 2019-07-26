@@ -1,16 +1,14 @@
 ---
 title: A quick update on the last week of my life…
 date: 2011-06-06 22:25:25 Z
-categories:
-  - Peace Corps
-tags:
-  - Peace Corps
+categories: Peace Corps
+tags: Peace Corps
   - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/a-quick-update-on-the-last-week-of-my-life/
-wordpress_id: 27
+
+
 ---
 
 A quick update on the last week of my life…

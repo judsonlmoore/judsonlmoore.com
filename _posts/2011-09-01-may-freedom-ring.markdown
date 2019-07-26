@@ -1,16 +1,14 @@
 ---
 title: May Freedom Ring
 date: 2011-09-01 23:12:27 Z
-categories:
-  - Peace Corps
-tags:
-  - Peace Corps
+categories: Peace Corps
+tags: Peace Corps
   - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/may-freedom-ring/
-wordpress_id: 15
+
+
 ---
 
 Yesterday was the 20th anniversary of the Kyrgyz Republic's independence from the USSR. To mark the occasion there was a parade downtown in front of the White House (The State of Talas's government building) in the morning followed by widely-held house parties, demonstrations of the national horse games and fireworks in the evening.
@@ -21,31 +19,31 @@ I caught about the last hour of the game which would be longer than my attention
 
 Here are some photos:
 
-![The start of the parade in front of the Talas Oblast White House](../assets/images/2011/09/tumblr_lqu1hvkIFi1qb60c5.jpg)
+{% include image.html alt="The start of the parade in front of the Talas Oblast White House" file="../assets/images/2011/09/tumblr_lqu1hvkIFi1qb60c5.jpg" description="" %}
 
 The start of the parade in front of the Talas Oblast White House
 
-![](http://media.tumblr.com/tumblr_lqu1lswGMT1qb60c5.jpg)
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1lswGMT1qb60c5.jpg" description="" %}
 
 Youth carrying a giant flag of Kyrgyzstan
 
-![](http://media.tumblr.com/tumblr_lqu1q5U1eh1qb60c5.jpg)
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1q5U1eh1qb60c5.jpg" description="" %}
 
 Me at the horse games
 
-![](http://media.tumblr.com/tumblr_lqu1rp73yg1qb60c5.jpg)
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1rp73yg1qb60c5.jpg" description="" %}
 
 A rider got knocked off his horse trying to reach for the sheep (at his feet) which fell short of the goal (the mound encircled by tires)
 
-![](http://media.tumblr.com/tumblr_lqu1u2m45S1qb60c5.jpg)
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1u2m45S1qb60c5.jpg" description="" %}
 
 A successful grab of the sheep in full gallup
 
-![](http://media.tumblr.com/tumblr_lqu1w5ghS91qb60c5.jpg)
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1w5ghS91qb60c5.jpg" description="" %}
 
 The grand stands of the horse stadium
 
-![](http://media.tumblr.com/tumblr_lqu1xdwZ1p1qb60c5.jpg)
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1xdwZ1p1qb60c5.jpg" description="" %}
 
 More of me at the games (can you ever get enough?!)
 

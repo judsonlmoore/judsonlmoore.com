@@ -1,10 +1,8 @@
 ---
 title: Merry Christmas (Russian Orthodox)
 date: 2013-01-07 18:56:11 Z
-categories:
-  - Peace Corps
-tags:
-  - Bishkek
+categories: Peace Corps
+tags: Bishkek
   - Christmas
   - Holiday
   - Kyrgyzstan
@@ -13,8 +11,8 @@ tags:
 author: judsonlmoore
 comments: true
 layout: post
-link: https://git.judsonlmoore.com/merry-christmas-russian-orthodox/
-wordpress_id: 1487
+
+
 ---
 
 January 7th is the date of Orthodox Christmas. For a long and detailed explanation of why this differs from the western-celebrated December 25th Christmas you can refer to [this article on Wikipedia](http://en.wikipedia.org/wiki/Christmas#Date_of_celebration). My friend Dimity instructed me to the time and place where the Orthodox observance of Christmas could be witnessed in Bishkek and I wrangled up about 15 other foreign friends and we went to the Bishkek Orthodox Cathedral together at 8pm to take it all in.

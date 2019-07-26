@@ -1,10 +1,8 @@
 ---
 title: Peace Corps Volunteers on Kyrgyz National Television OTPK
 date: 2012-02-18 10:39:49 Z
-categories:
-  - Peace Corps
-tags:
-  - journalism
+categories: Peace Corps
+tags: journalism
   - Peace Corps
   - video
 author: judsonlmoore
@@ -12,8 +10,8 @@ comments: true
 excerpt: National television station OTPK in Kyrgyzstan featured me and some of my
   Peace Corps Volunteer colleagues during a story about how Americans celebrate NYE.
 layout: post
-link: https://git.judsonlmoore.com/pcvs-on-kyrgyz-national-television/
-wordpress_id: 7
+
+
 ---
 
 ## How and why were Peace Corps Volunteers on Kyrgyz National Television?
