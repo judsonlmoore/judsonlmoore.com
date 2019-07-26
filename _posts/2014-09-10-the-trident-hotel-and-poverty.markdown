@@ -9,7 +9,6 @@ tags: Adventure
   - Poverty
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: During a 6-month business trip to India, I was faced with poverty every day
   from the window of my high rise 7-star hotel. What could I do about it?
 layout: post

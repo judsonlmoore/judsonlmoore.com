@@ -6,7 +6,6 @@ tags: Lifestyle
   - Peace Corps
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

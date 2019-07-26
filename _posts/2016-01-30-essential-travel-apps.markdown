@@ -4,7 +4,6 @@ date: 2016-01-30 22:43:36 Z
 categories: Adventure
 tags: whileyoung
 author: judsonlmoore
-comments: true
 excerpt: This suite of awesome travel apps will get you the information you need,
   when you need it while traveling around the world.
 layout: post

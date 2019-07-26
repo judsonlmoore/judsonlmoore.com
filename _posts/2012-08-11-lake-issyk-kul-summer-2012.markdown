@@ -7,7 +7,6 @@ tags: Issyk-Kul
   - Lake Issyk-Kul
   - Peace Corps
 author: judsonlmoore
-comments: true
 layout: post
 
 

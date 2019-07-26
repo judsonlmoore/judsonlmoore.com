@@ -4,7 +4,6 @@ date: 			2018-02-13 11:00:30 Z
 categories:		scotland
 tags: 			adventure, travel guide, travel tips, walking tour
 author: 		judsonlmoore
-comments: 
 description:	The Edinburgh Castle walking tour is a must-do activity in Edinburgh. I took the walking tour of the castle which proved to be very educational and a highly efficient use of my limited time in Edinburgh. Read all my thoughts and see my best photos here.
 excerpt: 		Edinburgh Castle is a must-see attraction in Edinburgh. I took a walking
   tour of the castle which proved to be very educational and a highly efficient use

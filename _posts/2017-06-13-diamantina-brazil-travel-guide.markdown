@@ -9,7 +9,6 @@ tags: backpacking
   - South America
   - travel guide
 author: judsonlmoore
-comments: true
 excerpt: Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial
   history. Surrounded by spectacular nature, it dances with life once a year.
 layout: post

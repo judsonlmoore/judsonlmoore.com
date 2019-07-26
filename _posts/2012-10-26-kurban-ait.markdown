@@ -7,7 +7,6 @@ tags: Bishkek
   - Kyrgyz Culture
   - Kyrgyzstan
 author: judsonlmoore
-comments: true
 layout: post
 
 

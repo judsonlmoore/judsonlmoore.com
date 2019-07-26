@@ -3,7 +3,6 @@ title: Photo Tour of the Niederaltaich Abbey
 date: 2015-01-23 04:33:23 Z
 categories: Germany
 author: judsonlmoore
-comments: true
 layout: post
 
 

@@ -10,7 +10,6 @@ tags: Bishkek
   - Sports
   - Zil
 author: judsonlmoore
-comments: true
 layout: post
 
 

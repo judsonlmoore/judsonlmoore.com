@@ -3,7 +3,6 @@ title: 5 Simple Tips to Prepare Your Phone for Travel
 date: 2016-10-26 18:17:15 Z
 categories: Adventure
 author: judsonlmoore
-comments: true
 excerpt: International phone travel can be expensive or even scary. Follow these best
   practices to ensure you get the most out of your phone and avoid extra charges.
 layout: post

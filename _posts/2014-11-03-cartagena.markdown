@@ -9,7 +9,6 @@ tags: Colombia
   - South America
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: Cartagena is a historic city on the Caribbean coast of Colombia full of culture,
   music, seafood and great times for great people!
 layout: post

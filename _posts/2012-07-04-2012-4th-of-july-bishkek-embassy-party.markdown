@@ -10,7 +10,6 @@ tags: 4th of July
   - Party
   - Peace Corps
 author: judsonlmoore
-comments: true
 layout: post
 
 

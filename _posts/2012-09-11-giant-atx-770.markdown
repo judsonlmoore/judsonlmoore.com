@@ -6,7 +6,6 @@ tags: Adventure
   - Biking
   - toys
 author: judsonlmoore
-comments: true
 excerpt: 'After a 3-year hiatus I am back on wheels with this great Giant ATX 770
   that I found in Bishkek, Kyrgyzstan! Here are the tech specs and photos. '
 layout: post

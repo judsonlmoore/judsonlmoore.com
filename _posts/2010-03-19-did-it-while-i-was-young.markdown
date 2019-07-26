@@ -3,7 +3,6 @@ title: Did It While I Was Young
 date: 2010-03-19 07:39:00 Z
 categories: Interests
 author: judsonlmoore
-comments: true
 layout: post
 
 

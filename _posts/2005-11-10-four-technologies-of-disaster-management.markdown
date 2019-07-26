@@ -3,7 +3,6 @@ title: Four Technologies of Disaster Management
 date: 2005-11-10 08:00:00 Z
 categories: College Papers
 author: judsonlmoore
-comments: true
 layout: post
 
 

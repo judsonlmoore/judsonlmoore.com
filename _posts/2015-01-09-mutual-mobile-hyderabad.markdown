@@ -11,7 +11,6 @@ tags: Career
   - Mutual Mobile
   - Success
 author: judsonlmoore
-comments: true
 excerpt: Mutual Mobile sent me to India for 6 moths to build a new office in Hyderabad
   India. This is the story of the collaborative process to create this space.
 layout: post

@@ -3,7 +3,6 @@ title: Concert Posters
 date: 2009-11-01 19:44:51 Z
 categories: TCB Concerts
 author: judsonlmoore
-comments: true
 layout: post
 
 

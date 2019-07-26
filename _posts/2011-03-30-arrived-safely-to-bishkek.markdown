@@ -5,7 +5,6 @@ categories: Peace Corps
 tags: Bishkek
   - Peace Corps
 author: judsonlmoore
-comments: true
 layout: post
 
 

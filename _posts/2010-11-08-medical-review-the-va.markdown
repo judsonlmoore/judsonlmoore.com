@@ -4,7 +4,6 @@ date: 2010-11-08 05:00:00 Z
 categories: Peace Corps
 tags: Peace Corps
 author: judsonlmoore
-comments: true
 layout: post
 
 

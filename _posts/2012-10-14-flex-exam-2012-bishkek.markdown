@@ -8,7 +8,6 @@ tags: ACCELS
   - Kyrgyzstan
   - Testing
 author: judsonlmoore
-comments: true
 layout: post
 
 

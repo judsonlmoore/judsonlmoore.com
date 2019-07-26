@@ -10,7 +10,6 @@ tags: Agra
   - Tips
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: 'During a 6-month business trip to India, I took advantage of every weekend
   to travel to a different corner of this beautiful and vibrant country. '
 layout: post

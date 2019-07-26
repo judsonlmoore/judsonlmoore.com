@@ -9,7 +9,6 @@ tags: Bishkek
   - Kyrgyzstan
   - Peace Corps
 author: judsonlmoore
-comments: true
 layout: post
 
 

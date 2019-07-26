@@ -9,7 +9,6 @@ tags: Awesome
   - Seafood
   - Vacation
 author: judsonlmoore
-comments: true
 excerpt: Tranquebar is Christianity's origin point in India, home to the largest Danish
   fort outside of Europe, and one amazing B&B I called home.
 layout: post

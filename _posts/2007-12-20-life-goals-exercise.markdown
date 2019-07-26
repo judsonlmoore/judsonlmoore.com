@@ -7,7 +7,6 @@ tags: Accomplishments
   - Impact
   - Interests
 author: judsonlmoore
-comments: true
 excerpt: Do you have life goals? Do you need help identifying life goals? Or maybe
   you need help structuring a plan to achieve your life goals? Read this now.
 layout: post

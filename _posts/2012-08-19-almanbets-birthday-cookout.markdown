@@ -11,7 +11,6 @@ tags: BBQ
   - Mountains
   - Nature
 author: judsonlmoore
-comments: true
 layout: post
 
 

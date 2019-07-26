@@ -6,7 +6,6 @@ tags: podcasts
   - top list
   - trypod
 author: judsonlmoore
-comments: true
 excerpt: After a toxic presidential election cycle, I found podcasts to be a boost
   for sanity and inspiration. Here is my list for best podcast 2017.
 layout: post

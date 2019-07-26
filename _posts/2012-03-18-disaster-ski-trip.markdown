@@ -10,7 +10,6 @@ tags: Bishkek
   - skiing
   - TIK
 author: judsonlmoore
-comments: true
 layout: post
 
 

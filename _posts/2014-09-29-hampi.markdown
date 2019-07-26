@@ -7,7 +7,6 @@ tags: Adventure
   - Best Places
   - India
 author: judsonlmoore
-comments: true
 layout: post
 
 

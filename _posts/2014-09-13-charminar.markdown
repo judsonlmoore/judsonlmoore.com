@@ -7,7 +7,6 @@ tags: Architecture
   - Islam
   - Mosque
 author: judsonlmoore
-comments: true
 layout: post
 
 

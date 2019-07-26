@@ -9,7 +9,6 @@ tags: Abu Dhabi
   - Travel
   - Travel Announcement
 author: judsonlmoore
-comments: true
 layout: post
 
 

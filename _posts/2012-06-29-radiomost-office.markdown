@@ -7,7 +7,6 @@ tags: Kyrgyzstan
   - RadioMost
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

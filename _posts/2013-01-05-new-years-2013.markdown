@@ -9,7 +9,6 @@ tags: Bishkek
   - New Year
   - Party
 author: judsonlmoore
-comments: true
 layout: post
 
 

@@ -4,7 +4,6 @@ date: 2005-11-15 08:00:00 Z
 categories: College Papers
 tags: Germany
 author: judsonlmoore
-comments: true
 layout: post
 
 

@@ -4,7 +4,6 @@ date: 2016-01-25 03:19:18 Z
 categories: Career
 tags: whileyoung
 author: judsonlmoore
-comments: true
 excerpt: Resume writing is an art form. Use these innovative resume tips to show that
   you understand technology and can think outside of the box.
 layout: post

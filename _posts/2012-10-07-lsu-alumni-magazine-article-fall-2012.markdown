@@ -9,7 +9,6 @@ tags: Kyrgyzstan
   - Published
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

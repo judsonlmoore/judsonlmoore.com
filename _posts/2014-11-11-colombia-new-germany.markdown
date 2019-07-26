@@ -9,7 +9,6 @@ tags: Colombia
   - South America
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: I spend two weeks in Colombia with old friends exploring the hottest destinations,
   eating the most delicious food, and learning to dance in the streets!
 layout: post

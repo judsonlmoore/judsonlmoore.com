@@ -7,7 +7,6 @@ tags: female travel
   - packing list
   - travel tips
 author: jenniferchang
-comments: true
 excerpt: Weekend trips are often times the best trips. Guest author Jennifer Chang
   shares tips for how to make your weekend trips spontaneous and full of adventure.
 layout: post

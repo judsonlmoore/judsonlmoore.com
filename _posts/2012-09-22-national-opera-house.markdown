@@ -7,7 +7,6 @@ tags: Architecture
   - Kyrgyzstan
   - Peace Corps
 author: judsonlmoore
-comments: true
 layout: post
 
 

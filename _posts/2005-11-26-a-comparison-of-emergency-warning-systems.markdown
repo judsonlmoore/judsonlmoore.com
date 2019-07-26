@@ -3,7 +3,6 @@ title: A Comparison of Emergency Warning Systems
 date: 2005-11-26 08:00:00 Z
 categories: College Papers
 author: judsonlmoore
-comments: true
 layout: post
 
 

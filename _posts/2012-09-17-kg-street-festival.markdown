@@ -9,7 +9,6 @@ tags: Bishkek
   - Peace Corps
   - Street Festival
 author: judsonlmoore
-comments: true
 layout: post
 
 

@@ -5,7 +5,6 @@ categories: Peace Corps
 tags: Peace Corps
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

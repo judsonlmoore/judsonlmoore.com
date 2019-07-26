@@ -9,7 +9,6 @@ tags: Colombia
   - South America
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: 'Isla Palma is the private island retreat of cartel boss Pablo Escobar. Today,
   this all-inclusive resort is scattered with the ruins of that page in history. '
 layout: post

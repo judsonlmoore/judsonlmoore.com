@@ -4,7 +4,6 @@ date: 2016-01-30 22:44:25 Z
 categories: Lifestyle
 tags: whileyoung
 author: judsonlmoore
-comments: true
 excerpt: Showing up is the first step in every success story, but it can be hard to
   know where to put your efforts. Learn now from my first "showing up" story!
 layout: post

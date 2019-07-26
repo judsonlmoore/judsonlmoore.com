@@ -8,7 +8,6 @@ tags: BarCamp
   - Peace Corps
   - Technology
 author: judsonlmoore
-comments: true
 layout: post
 
 

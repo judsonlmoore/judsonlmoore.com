@@ -9,7 +9,6 @@ tags: Attack
   - Travel Safety
   - Violence
 author: judsonlmoore
-comments: true
 layout: post
 
 

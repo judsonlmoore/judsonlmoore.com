@@ -10,7 +10,6 @@ tags: Bishkek
   - Sushi
   - Thanks
 author: judsonlmoore
-comments: true
 layout: post
 
 

@@ -4,7 +4,6 @@ date: 2016-03-28 18:03:34 Z
 categories: India
 tags: whileyoung
 author: judsonlmoore
-comments: true
 excerpt: Rajasthan India is a magical wonderland of castles, camels and amazing food!
   Check out these tips for places to stay, things to do and how to get around!
 layout: post

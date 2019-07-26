@@ -4,7 +4,6 @@ date: 2016-02-21 02:47:46 Z
 categories: Adventure
 tags: whileyoung
 author: judsonlmoore
-comments: true
 excerpt: 'Learn why travel at a young age is a critical foundation for developing
   skill, independence, and for ensuring a prosperous life. '
 layout: post

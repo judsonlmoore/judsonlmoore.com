@@ -9,7 +9,6 @@ tags: Austin
   - Custom
   - SRAM
 author: judsonlmoore
-comments: true
 layout: post
 
 

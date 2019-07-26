@@ -8,7 +8,6 @@ tags: Bishkek
   - Kyrgyzstan
   - Photos
 author: judsonlmoore
-comments: true
 layout: post
 
 

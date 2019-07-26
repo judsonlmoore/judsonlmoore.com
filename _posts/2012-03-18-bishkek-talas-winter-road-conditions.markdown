@@ -10,7 +10,6 @@ tags: Bishkek
   - Travel
   - Winter
 author: judsonlmoore
-comments: true
 layout: post
 
 

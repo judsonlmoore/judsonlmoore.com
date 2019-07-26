@@ -9,7 +9,6 @@ tags: Architecture
   - Kyrgyzstan
   - Photos
 author: judsonlmoore
-comments: true
 layout: post
 
 

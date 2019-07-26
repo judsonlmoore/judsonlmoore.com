@@ -9,7 +9,6 @@ tags: Adventure
   - Nomads
   - Safari
 author: judsonlmoore
-comments: true
 excerpt: 'An overnight camel safari in Pushkar with desert nomads led to the best
   meal of my life and a new appreciation for the love life of a camel named Romeo. '
 layout: post

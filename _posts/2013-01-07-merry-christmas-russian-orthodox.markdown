@@ -9,7 +9,6 @@ tags: Bishkek
   - Orthodox
   - Religion
 author: judsonlmoore
-comments: true
 layout: post
 
 

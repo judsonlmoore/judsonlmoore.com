@@ -7,7 +7,6 @@ tags: Anniversary
   - Hurricane Katrina
   - Memories
 author: judsonlmoore
-comments: true
 excerpt: On the 10 year anniversary of Hurricane Katrina, I reflect on how that was
   a pivotal moment when the trajectory of my life changed.
 layout: post

@@ -5,7 +5,6 @@ categories: Lifestyle
 tags: inspiration
   - whileyoung
 author: judsonlmoore
-comments: true
 excerpt: Giving thanks has a range of benefits from making you feel better to making
   the world a better place. Learn more and take the thanksgiving challenge.
 layout: post

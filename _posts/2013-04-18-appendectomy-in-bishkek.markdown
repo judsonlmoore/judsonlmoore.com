@@ -9,7 +9,6 @@ tags: Appendectomy
   - Peace Corps
   - Travel Safety
 author: judsonlmoore
-comments: true
 layout: post
 
 

@@ -8,7 +8,6 @@ tags:
 - Hiking
 - Nature
 author: judsonlmoore
-comments: true
 layout: post
 
 

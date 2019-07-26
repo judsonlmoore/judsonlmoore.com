@@ -8,7 +8,6 @@ tags: Hinduism
   - Mutual Mobile
   - Puja
 author: judsonlmoore
-comments: true
 excerpt: In celebration of construction beginning at the new Mutual Mobile office
   in Hyderabad, the builders organized a puja to be performed.
 layout: post

@@ -3,7 +3,6 @@ title: Tips For Overcoming Language Barriers
 date: 2016-08-01 17:43:59 Z
 categories: Adventure
 author: judsonlmoore
-comments: true
 excerpt: Language barriers are hard to overcome but with these simple tips you will
   find yourself speaking and comprehending in no time!
 layout: post

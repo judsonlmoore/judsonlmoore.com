@@ -8,7 +8,6 @@ tags: Architecture
   - India
   - Ruins
 author: judsonlmoore
-comments: true
 layout: post
 
 

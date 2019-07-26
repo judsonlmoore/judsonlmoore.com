@@ -9,7 +9,6 @@ tags: Birthday
   - Party
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

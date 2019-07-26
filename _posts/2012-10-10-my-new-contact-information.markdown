@@ -6,7 +6,6 @@ tags: About Me
   - Contact Info
   - Judson L Moore
 author: judsonlmoore
-comments: true
 layout: post
 
 

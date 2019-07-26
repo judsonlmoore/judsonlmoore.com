@@ -9,7 +9,6 @@ tags: Colombia
   - South America
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: Villa de Leyva is a small historical mountain town in Colombia with beautiful
   architecture, adventure tourism galore, and waterfalls everywhere.
 layout: post

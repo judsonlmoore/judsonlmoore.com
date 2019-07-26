@@ -8,7 +8,6 @@ tags: Culture
   - Raven
   - Symbols
 author: judsonlmoore
-comments: true
 excerpt: The raven is a very important figure in most Native American cultures. It
   is seen as the creator of light and as a trickster figure.
 layout: post

@@ -6,7 +6,6 @@ tags: interview
   - podcast
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: The Expat Sandwich Podcast features Americans living abroad and the crazy
   but interesting lives they lead. I share stories from my travels and work in humanitarian
   service in the season 2 opener.

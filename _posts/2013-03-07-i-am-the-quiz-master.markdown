@@ -8,7 +8,6 @@ tags: Bishkek
   - Kyrgyzstan
   - Trivia
 author: judsonlmoore
-comments: true
 layout: post
 
 

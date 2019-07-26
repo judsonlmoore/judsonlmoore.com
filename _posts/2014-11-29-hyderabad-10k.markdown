@@ -8,7 +8,6 @@ tags: Fitness
   - India
   - Running
 author: judsonlmoore
-comments: true
 excerpt: The annual Hyderabad 10k is a massive city-wide event with olympian leaders,
   beautiful scenery and live music on at every kilometer.
 layout: post

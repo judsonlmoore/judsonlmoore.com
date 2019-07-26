@@ -6,7 +6,6 @@ tags: guest author
   - life choices
   - live your what if
 author: tarahmason
-comments: true
 excerpt: Travel blogger Tarah Mason writes a guest post about how to be happy in a
   world full of opportunities, pressures, and unlimited possibilities.
 layout: post

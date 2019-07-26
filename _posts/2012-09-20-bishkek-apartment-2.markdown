@@ -9,7 +9,6 @@ tags: Apartment
   - Living Conditions
   - Peace Corps
 author: judsonlmoore
-comments: true
 layout: post
 
 

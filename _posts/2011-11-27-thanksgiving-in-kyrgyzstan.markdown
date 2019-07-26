@@ -6,7 +6,6 @@ tags: Bishkek
   - Holidays
   - Peace Corps
 author: judsonlmoore
-comments: true
 layout: post
 
 

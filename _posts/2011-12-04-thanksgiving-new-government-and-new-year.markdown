@@ -9,7 +9,6 @@ tags: Bishkek
   - Peace Corps
   - Thanksgiving
 author: judsonlmoore
-comments: true
 layout: post
 
 

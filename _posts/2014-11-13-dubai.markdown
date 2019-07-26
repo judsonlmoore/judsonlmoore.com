@@ -8,7 +8,6 @@ tags: Adventure
   - reunion
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: Dubai is the playground of billionaires, royalty and me (for a day)! I've
   studied the architecture and dreamed of skiing in the desert. Dreams come true!
 layout: post

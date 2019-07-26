@@ -9,7 +9,6 @@ tags: India
   - Temple
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: "I made a lot out of a quick trip to India's Garden City: Bangalore. Temples
   of bulls, parks, and rooftop discos make Bangalore a must-visit destination!"
 layout: post

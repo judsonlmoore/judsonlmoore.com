@@ -3,7 +3,6 @@ title: What is Metasearch And How It Saves Me Loads of Time and Money
 date: 2016-10-05 10:11:23 Z
 categories: Adventure
 author: judsonlmoore
-comments: true
 excerpt: I explain what is metasearch, the king of all internet search tools. With
   metasearch, you can search more of the internet faster, saving you time and money.
 layout: post

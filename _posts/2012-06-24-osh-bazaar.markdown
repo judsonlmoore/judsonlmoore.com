@@ -9,7 +9,6 @@ tags: Bishkek
   - Peace Corps
   - Shopping
 author: judsonlmoore
-comments: true
 layout: post
 
 

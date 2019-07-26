@@ -8,7 +8,6 @@ tags: Adventure
   - Holiday
   - Kyrgyzstan
 author: judsonlmoore
-comments: true
 excerpt: Happy New Year! 2017 was my most traveled year to-date, full of all sorts
   of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
 layout: post

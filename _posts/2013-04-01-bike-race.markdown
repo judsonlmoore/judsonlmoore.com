@@ -8,7 +8,6 @@ tags: Biking
   - Kyrgyzstan
   - Sport
 author: judsonlmoore
-comments: true
 layout: post
 
 

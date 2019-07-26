@@ -8,7 +8,6 @@ tags: Bishkek
   - Party
   - Sie Germans
 author: judsonlmoore
-comments: true
 layout: post
 
 

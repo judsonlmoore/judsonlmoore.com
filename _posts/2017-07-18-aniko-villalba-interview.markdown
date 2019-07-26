@@ -10,7 +10,6 @@ tags: argentina
   - South America
   - travel tips
 author: judsonlmoore
-comments: true
 excerpt: Aniko Villalba and I got to talking about being digital nomads, solo travel,
   female travel, and what it really means to live the dream of a global citizen.
 layout: post

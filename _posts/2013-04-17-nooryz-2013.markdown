@@ -9,7 +9,6 @@ tags: Bishkek
   - Kyrgyzstan
   - New Year
 author: judsonlmoore
-comments: true
 layout: post
 
 

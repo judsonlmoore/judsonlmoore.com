@@ -4,7 +4,6 @@ date: 2017-10-19 10:00:26 Z
 categories: denmark
 tags: #lifeattrivago, biking, copenhagen, cruise, denmark, nordic, travel guide
 author: judsonlmoore
-comments: true
 excerpt: With just one day to see it all, I found that a bike tour of Copenhagen was
   the best way to spend just one day in Denmark.
 layout: post

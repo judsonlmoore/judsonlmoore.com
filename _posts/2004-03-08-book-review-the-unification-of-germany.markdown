@@ -5,7 +5,6 @@ categories: College Papers
 tags: Germany
   - Politics
 author: judsonlmoore
-comments: true
 layout: post
 
 

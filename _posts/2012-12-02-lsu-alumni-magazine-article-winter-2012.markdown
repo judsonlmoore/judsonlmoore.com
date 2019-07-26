@@ -9,7 +9,6 @@ tags: Bishkek
   - Peace Corps
   - Published
 author: judsonlmoore
-comments: true
 layout: post
 
 

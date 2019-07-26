@@ -8,7 +8,6 @@ tags: Bishkek
   - Service Above Self
   - Talas
 author: judsonlmoore
-comments: true
 excerpt: I recently learned a few things which I did not know about my own legacy
   in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 layout: post

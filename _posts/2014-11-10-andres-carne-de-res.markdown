@@ -9,7 +9,6 @@ tags: Colombia
   - South America
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: If you find yourself hungry in Colombia, you better find your way to Andrés
   Carne de Res. This is the tackiest, tastiest and biggest steakhouse ever!
 layout: post

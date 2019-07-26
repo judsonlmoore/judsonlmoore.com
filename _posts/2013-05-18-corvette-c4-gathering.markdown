@@ -7,7 +7,6 @@ tags: Cars
   - Kentucky
   - Road Trip
 author: judsonlmoore
-comments: true
 excerpt: The C4 Gathering is hosted annually by the National Corvette Museum in Bowling
   Green, Kentucky, for enthusiasts of the 4th Generation Corvette.
 layout: post

@@ -8,7 +8,6 @@ tags: Austin
   - Mutual Mobile
   - publications
 author: judsonlmoore
-comments: true
 layout: post
 
 

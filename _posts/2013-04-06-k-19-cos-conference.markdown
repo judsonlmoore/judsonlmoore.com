@@ -7,7 +7,6 @@ tags: COS
   - Peace Corps
   - RPCV
 author: judsonlmoore
-comments: true
 layout: post
 
 

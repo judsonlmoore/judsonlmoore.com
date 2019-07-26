@@ -6,7 +6,6 @@ tags: Adventure
   - India
   - Travel
 author: judsonlmoore
-comments: true
 excerpt: This coastal town of Pondicherry sits on the Bay of Bengal in southeast India.
   This historical French colony is lined with cobblestone streets and charm.
 layout: post

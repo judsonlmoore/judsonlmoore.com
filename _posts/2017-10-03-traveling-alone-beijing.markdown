@@ -6,7 +6,6 @@ tags: female travel
   - guest author
   - travel tips
 author: kelly.branyik
-comments: true
 excerpt: Returned Peace Corps Volunteer and author of the Propitious Panda blog and
   the new book "It Depends" shares a tale of solo travel in Beijing.
 layout: post

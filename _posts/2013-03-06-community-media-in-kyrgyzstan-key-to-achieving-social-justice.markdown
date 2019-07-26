@@ -12,7 +12,6 @@ tags: Bishkek
   - UN
   - UNESCO
 author: judsonlmoore
-comments: true
 layout: post
 
 

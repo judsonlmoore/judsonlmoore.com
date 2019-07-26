@@ -10,7 +10,6 @@ tags: Bishkek
   - Technology
   - Training
 author: judsonlmoore
-comments: true
 layout: post
 
 

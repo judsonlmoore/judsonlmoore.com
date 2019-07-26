@@ -6,7 +6,6 @@ tags: Concert
   - Live
   - Music
 author: judsonlmoore
-comments: true
 excerpt: The English power metal band, DragonForce, of Guitar Hero fame, performed
   in Austin Texas and I got a first row experience of their amazing performance.
 layout: post

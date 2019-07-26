@@ -8,7 +8,6 @@ tags: Besh Tash
   - Peace Corps
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

@@ -11,7 +11,6 @@ tags: Culture
   - RadioMost
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

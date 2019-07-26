@@ -9,7 +9,6 @@ tags: Bishkek
   - Party
   - Wedding
 author: judsonlmoore
-comments: true
 layout: post
 
 

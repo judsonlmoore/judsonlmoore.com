@@ -7,7 +7,6 @@ tags: Bishkek
   - Peace Corps
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

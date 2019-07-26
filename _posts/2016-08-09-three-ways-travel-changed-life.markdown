@@ -3,7 +3,6 @@ title: Three Ways Travel Changed My Life When I Was Young
 date: 2016-08-09 16:17:57 Z
 categories: Lifestyle
 author: bobmoore
-comments: true
 excerpt: My father tells of a romantic encounter from his youth while traveling in
   the Caribbean Islands which forever changed his life.
 layout: post

@@ -9,7 +9,6 @@ tags: Adventure
   - Travel
   - Trekking
 author: judsonlmoore
-comments: true
 excerpt: Dharamshala is the refuge of the Tibetan people in India. Hospitality shines
   through their acts, their stories, and their business ethics.
 layout: post

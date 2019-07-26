@@ -10,7 +10,6 @@ tags: female travel
   - woman’s perspective
   - word trip
 author: judsonlmoore
-comments: true
 excerpt: I recently had the opportunity to sit down with Laura Davies as she pursues
   an epic journey chasing winter around the world with The ForeverWinter Project.
 layout: post

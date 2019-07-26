@@ -4,7 +4,6 @@ date: 2016-01-25 05:55:49 Z
 categories: Adventure
 tags: whileyoung
 author: judsonlmoore
-comments: true
 excerpt: Before you travel use these tips for keeping your family informed without
   making them overly concerned and without driving yourself crazy in the process.
 layout: post

@@ -4,7 +4,6 @@ date: 2016-02-18 00:29:46 Z
 categories: Career
 tags: whileyoung
 author: judsonlmoore
-comments: true
 excerpt: Looking for ways to study or work abroad while getting someone else to pay
   for the experience? Check out this list of international fellowship programs!
 layout: post

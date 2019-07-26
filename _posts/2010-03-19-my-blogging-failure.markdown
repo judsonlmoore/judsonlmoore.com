@@ -3,7 +3,6 @@ title: My Blogging Failure
 date: 2010-03-19 01:09:00 Z
 categories: Interests
 author: judsonlmoore
-comments: true
 layout: post
 
 

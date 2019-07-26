@@ -8,7 +8,6 @@ tags: K20
   - PST
   - Site Placement
 author: judsonlmoore
-comments: true
 layout: post
 
 

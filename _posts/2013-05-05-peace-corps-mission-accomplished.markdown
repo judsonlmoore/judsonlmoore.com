@@ -9,7 +9,6 @@ tags: Bishkek
   - RPCV
   - Talas
 author: judsonlmoore
-comments: true
 layout: post
 
 

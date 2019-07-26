@@ -7,7 +7,6 @@ tags: Membership
   - Rotary International
   - Service Above Self
 author: judsonlmoore
-comments: true
 excerpt: I've been part of the Rotary Family since I was in high school, and anyone
   who knows me, knows that today is a very significant moment for me.
 layout: post

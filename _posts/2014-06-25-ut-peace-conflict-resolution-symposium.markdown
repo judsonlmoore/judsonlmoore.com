@@ -3,7 +3,6 @@ title: UT Peace and Conflict Resolution Symposium
 date: 2014-06-25 06:54:34 Z
 categories: blog
 author: judsonlmoore
-comments: true
 layout: post
 
 

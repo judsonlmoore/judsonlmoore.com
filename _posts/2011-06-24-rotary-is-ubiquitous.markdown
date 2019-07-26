@@ -3,7 +3,6 @@ title: Rotary Is Ubiquitous
 date: 2011-06-24 09:33:05 Z
 categories: Philanthropy
 author: judsonlmoore
-comments: true
 layout: post
 
 

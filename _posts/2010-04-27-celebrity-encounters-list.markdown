@@ -5,7 +5,6 @@ categories: Music
 tags: celebrity encounter
   - Music
 author: judsonlmoore
-comments: true
 layout: post
 
 

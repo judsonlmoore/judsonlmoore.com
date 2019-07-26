@@ -3,7 +3,6 @@ title: "Shafik Gabr's 2015 East-West: The Art of Dialogue Fellowship Notes"
 date: 2015-11-23 04:42:52 Z
 categories: Egypt
 author: judsonlmoore
-comments: true
 layout: post
 
 

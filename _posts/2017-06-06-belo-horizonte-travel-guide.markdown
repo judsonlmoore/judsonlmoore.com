@@ -6,7 +6,6 @@ tags: brazil
   - South America
   - travel guide
 author: judsonlmoore
-comments: true
 excerpt: Discover the best things to do with this Belo Horizonte travel guide, including
   panoramic views, the metal museum, majestic parks, and the best steakhouse.
 layout: post

@@ -7,7 +7,6 @@ tags: argentina
   - travel guide
   - waterfalls
 author: judsonlmoore
-comments: true
 excerpt: 'In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one
   of the grandest natural wonders in the world, the Iguazu Falls. '
 layout: post

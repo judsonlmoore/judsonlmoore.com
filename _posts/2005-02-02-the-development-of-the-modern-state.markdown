@@ -4,7 +4,6 @@ date: 2005-02-02 05:00:00 Z
 categories: College Papers
 tags: Politics
 author: judsonlmoore
-comments: true
 layout: post
 
 
