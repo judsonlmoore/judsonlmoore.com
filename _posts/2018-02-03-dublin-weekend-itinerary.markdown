@@ -1,19 +1,14 @@
 ---
-title: 'Things to Do in Dublin: A 3-day Weekend Itinerary'
-date: 2018-02-03 12:00:51 Z
-categories: Ireland
-tags: Adventure
-  - itenerary
-  - travel guide
-  - travel tips
-author: judsonlmoore
-comments: true
-excerpt: With just one visit, Dublin has become one of my favorite cities in the world.
-  I pieced together the very best from my trip to Dublin in to this 3-day itinerary
-  for things to do in Dublin. From historical sites, to nightlife, and hikes, Dublin
-  has something for everyone.
-layout: post
-
+title:        Things to Do in Dublin - A 3-day Weekend Itinerary
+date:         2018-02-03 12:00:51 Z
+categories:   ireland
+tags:         adventure, itenerary, travel guide, travel tips
+author:       judsonlmoore
+comments:     true
+description:  Discover things to do in Dublin for a weekend trip. Learn about sites of historical significance, the best nightlife, and get inspired for some sensational hikes.
+excerpt:      With just one visit, Dublin has become one of my favorite cities in the world. I pieced together the very best from my trip to Dublin in to this 3-day itinerary for things to do in Dublin. From historical sites, to nightlife, and hikes, Dublin has something for everyone.
+layout:       post
+image:        ../assets/images/2018/01/dublin-weekend-itenerary-river-liffey-min.jpg
 
 ---
 
@@ -110,7 +105,7 @@ back to top
 I found a lot of really cool shops in Dublin, but here are a few places I think everyone should check out:
 
 **The Secret Book and Record Store**
-_15 Wicklow St, Dublin 2, D02 C924, Ireland _
+_15 Wicklow St, Dublin 2, D02 C924, Ireland_
 Cosy, independent bookshop offering a wide selection of new & secondhand titles, plus CDs & vinyl.
 [Website](https://www.facebook.com/pg/The-Secret-Book-and-Record-Store-124706510933587)
 
@@ -356,7 +351,7 @@ back to top
 
 ## Day 3 – A hike along the coast
 
-I hope you are not yet tired of walking because everything else has just been a warmup to get to today! As great as the last days' activities have been, I think this day is the most rewarding. Be aware that** good weather is necessary**, so if you need to rearrange your schedule to accommodate this on day one or day two, go for it.
+I hope you are not yet tired of walking because everything else has just been a warmup to get to today! As great as the last days' activities have been, I think this day is the most rewarding. Be aware that **good weather is necessary**, so if you need to rearrange your schedule to accommodate this on day one or day two, go for it.
 
 We will take the train to **explore the Irish coastline** and get our hiking boots a little dirty. At the end of the day, we will be well rewarded with some of the best fish and chips in all of Ireland.
 

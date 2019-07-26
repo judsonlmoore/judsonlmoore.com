@@ -1,18 +1,14 @@
 ---
-title: Jameson distillery tour and whiskey tasting experience in Dublin
-date: 2018-01-14 15:42:41 Z
-categories: Ireland
-tags: alcohol
-  - dublin
-  - Museum
-  - tours
-author: judsonlmoore
-comments: true
-excerpt: The Jameson Distillery on Bow St. in Dublin will fulfill all of your whiskey
-  demands while visiting Ireland. Learn how whiskey is made and taste test some of
-  the world's finest all in one great experience.
-layout: post
-
+title: 			Jameson distillery tour and whiskey tasting experience in Dublin
+date: 			2018-01-14 15:42:41 Z
+categories: 	ireland
+tags: 			alcohol, dublin, museum, tours
+author: 		judsonlmoore
+comments: 		true
+description: 	The Jameson Distillery on Bow St. in Dublin will fulfill all of your whiskey demands while visiting Ireland. Learn how whiskey is made and taste test some of the world's finest all in one great experience.
+excerpt: 		The Jameson Distillery on Bow St. in Dublin will fulfill all of your whiskey demands while visiting Ireland. Learn how whiskey is made and taste test some of the world's finest all in one great experience.
+layout: 		post
+image:			../assets/images/2018/01/jameson-distillery-bow-st-dublin-sign.jpg
 
 ---
 
@@ -26,15 +22,15 @@ Now, don't get me wrong, I was raised in Kentucky (hint, that is foreshadowing..
 
 ## In A Nutshell
 
-**Highlights - ** The facilities are recently renovated but still have that industrial-era charm. The location of The Jameson Distillery make it easy to get in and out of. There are lots of opportunities to eat and drink in and near The Jameson Distillery. The experience is about much more than just whiskey but also helps visitors understand the history of Irish whiskey in general and interesting facts about Dublin's history.
+**Highlights -** The facilities are recently renovated but still have that industrial-era charm. The location of The Jameson Distillery make it easy to get in and out of. There are lots of opportunities to eat and drink in and near The Jameson Distillery. The experience is about much more than just whiskey but also helps visitors understand the history of Irish whiskey in general and interesting facts about Dublin's history.
 
-**Lowlights - **The tour omits any active area of The Jameson Distillery, so it is not really a functional space in any way, just a really nicely themed museum.
+**Lowlights -** The tour omits any active area of The Jameson Distillery, so it is not really a functional space in any way, just a really nicely themed museum.
 
-**Bottom line - ** The Jameson Distillery on Bow St. is a great way to spend a few hours in Dublin during poor weather or after the sun sets. It offers something for everyone regardless of whiskey appreciation and to understand the history of Jameson, is to understand the history of Dublin.
+**Bottom line -** The Jameson Distillery on Bow St. is a great way to spend a few hours in Dublin during poor weather or after the sun sets. It offers something for everyone regardless of whiskey appreciation and to understand the history of Jameson, is to understand the history of Dublin.
 
 ## Take the Jameson Distillery Bow St. Tour in Dublin
 
-The tour of The Jameson Distillery is called [The Bow St. Experience](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/bow-st-experience). I think this is for two reasons. The obvious one is that the distillery is located on Bow St. The second is that **it is not a distillery anymore**, rather it is a museum of the original distillery, thus, it is an "experience" and not really a distillery tour. According to [the Jameson website](https://www.jamesonwhiskey.com/ie/visit-us), _every drop of Jameson is produced in Midleton, Cork, \_about a 3-hour drive away.
+The tour of The Jameson Distillery is called [The Bow St. Experience](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/bow-st-experience). I think this is for two reasons. The obvious one is that the distillery is located on Bow St. The second is that **it is not a distillery anymore**, rather it is a museum of the original distillery, thus, it is an "experience" and not really a distillery tour. According to [the Jameson website](https://www.jamesonwhiskey.com/ie/visit-us), _every drop of Jameson is produced in Midleton, Cork,_ about a 3-hour drive away.
 
 **The tour consists of four parts.** The first part is mostly about waiting for the second part, but you wait along a wall with a very nice timeline of Jameson history. Much of this is to understand the origins of Jameson, the life of the founder, John Jameson, and the impact that this *city within a city* has had on Dublin, Ireland, and the world.
 
@@ -73,12 +69,9 @@ Space is limited to 18 people per tasting. This is a great activity to organize 
 In this tasting, we were provided four whiskeys to try, **all of which come from Jameson.** They were (in order of testing):
 
 1. Jameson Original
-
-2) Jameson Crested
-
+2. Jameson Crested
 3. Jameson Distillery Edition
-
-4) Jameson Black Barrel
+4. Jameson Black Barrel
 
 I will quickly share what I learned about each of these.
 
@@ -86,9 +79,8 @@ I will quickly share what I learned about each of these.
 
 Triple distilled, twice as smooth, one of a kind. Jameson Irish Whiskey is a blended Irish whiskey which has been aged in oak casks for a minimum of 4 years. The base Jameson pot still whiskey is blended with a delicate grain whiskey, allowing them to mature and inherit the nuttiness of sherry casks balanced with the fragrant vanilla of bourbon casks (see the ingredients image above). The final product is sold in the Jameson iconic green-glass bottle.
 
-**Nose** - A light floral fragrance, peppered with spicy wood and sweet notes.
-
-**Taste** - The perfect balance of spicy, nutty and vanilla notes with hints of sweet sherry and exceptional smoothness.
+- **Nose** - A light floral fragrance, peppered with spicy wood and sweet notes.
+- **Taste** - The perfect balance of spicy, nutty and vanilla notes with hints of sweet sherry and exceptional smoothness.
 
 [Learn More and buy Jameson Original](https://shop.jamesonwhiskey.com/collections/whiskeys/products/jameson-irish-whiskey)
 
@@ -98,11 +90,9 @@ Until the 1960s, Jameson could be purchased by the barrel. This allowed for "bon
 
 The Jameson Crested is created in much the same way as the original but it is left to mature longer in the sherry casts than in the bourbon barrels.  The high proportion of sherry casks in the blend delivers vivid sherry & hearty pot still notes with some spice and a hint of melon & ginger. Full bodied with soft delicate sherry undertones, toasted wood, perfectly balanced with fruit, spice and some chocolate notes.
 
-**Nose** - Vivid sherry pot still aroma.
-
-**Taste** - Delicate sherry undertones & toasted wood, with fruit, spice & chocolate notes.
-
-**Finish** - Warm lingering sherry.
+- **Nose** - Vivid sherry pot still aroma.
+- **Taste** - Delicate sherry undertones & toasted wood, with fruit, spice & chocolate notes.
+- **Finish** - Warm lingering sherry.
 
 [Learn more and buy Jameson Crested](https://shop.jamesonwhiskey.com/collections/whiskeys/products/crested-10)
 
@@ -112,11 +102,9 @@ The Jameson Crested is created in much the same way as the original but it is le
 
 The distillery edition is only available for consumption and purchase directly from the Jameson Bow St. Distillery in Dublin. I found the flavor to be similar to the original Jameson but slightly more citrusy. This whiskey has a bit more of a refined taste with a smoother finish. The initial bite is also dampened a bit, probably by the addition of a little extra single malt.
 
-**Nose** -  Mango, cream, ginger, buttered corn, sugarcane
-
-**Taste** -  Orange, brown sugar, ginger, peach, salt
-
-**Finish** - Corn, sugar, arugula, oak, vanilla, ginger ale, butterscotch
+- **Nose** -  Mango, cream, ginger, buttered corn, sugarcane
+- **Taste** -  Orange, brown sugar, ginger, peach, salt
+- **Finish** - Corn, sugar, arugula, oak, vanilla, ginger ale, butterscotch
 
 _The Jameson Distillery Edition is available only on-site in the Bow St. Distillery._
 
@@ -124,11 +112,9 @@ _The Jameson Distillery Edition is available only on-site in the Bow St. Distill
 
 This stuff is like lighter-fluid. Really, it is the moonshine of Jameson whiskeys. We tasted it first straight, and then with a few drops of water. There was a huge difference. The name comes from the twice-charred bourbon barrels which this whiskey is aged in. This gives the finished product a much richer flavor and a lot more intensity than the other bottles of Jameson.
 
-**Nose** - Time spent maturing in these barrels leads to intensified aromas of butterscotch, fudge, and creamy toffee.
-
-**Taste** - Nutty notes are in abundance alongside the smooth sweetness of spice and vanilla.
-
-**Finish** - Enjoy the richness and intensity of toasted wood and vanilla.
+- **Nose** - Time spent maturing in these barrels leads to intensified aromas of butterscotch, fudge, and creamy toffee.
+- **Taste** - Nutty notes are in abundance alongside the smooth sweetness of spice and vanilla.
+- **Finish** - Enjoy the richness and intensity of toasted wood and vanilla.
 
 [Learn more and buy Jameson Black Barrel](https://shop.jamesonwhiskey.com/collections/whiskeys/products/jameson-select-reserve)
 

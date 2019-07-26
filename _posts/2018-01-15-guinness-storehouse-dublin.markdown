@@ -1,20 +1,14 @@
 ---
-title: Visiting the Guinness Storehouse in Dublin. Tour and experience review.
-date: 2018-01-15 16:08:37 Z
-categories: Ireland
-tags: alcohol
-  - craft beer
-  - dublin
-  - Europe
-  - Museum
-  - tours
-author: judsonlmoore
-comments: true
-excerpt: 'Learn about visiting The Guinness Storehouse in Dublin: the traditional
-  home of the world’s most famous stout beer: Guinness. This 200+ year old city within
-  a city is a major contributor to modern Irish history and to the island’s economy
-  and world fame.'
-layout: post
+title: 			Visiting the Guinness Storehouse in Dublin
+date: 			2018-01-15 16:08:37 Z
+categories: 	ireland
+tags: 			alcohol, craft beer, dublin, europe, museum, tours
+author: 		judsonlmoore
+comments: 		true
+description:	Learn about visiting The Guinness Storehouse in Dublin, the traditional home of the world’s most famous stout beer, Guinness. This 200+ year old city within a city is a major contributor to modern Irish history and to the island’s economy and world fame.
+excerpt:		Learn about visiting The Guinness Storehouse in Dublin, the traditional home of the world’s most famous stout beer, Guinness. This 200+ year old city within a city is a major contributor to modern Irish history and to the island’s economy and world fame.
+layout: 		post
+image:			../assets/images/2018/01/guinness-storehouse-dublin-main-gate-jumping.jpg
 
 
 ---
@@ -29,9 +23,9 @@ So how does a beer with so many complications and which is so limited in drinkab
 
 ## In A Nutshell
 
-**Highlights - ** The facilities are recently renovated but still have that industrial-era charm. The experience is about much more than just beer but also helps visitors understand the history of beer in general. The experience is extraordinarily well curated.
+**Highlights -** The facilities are recently renovated but still have that industrial-era charm. The experience is about much more than just beer but also helps visitors understand the history of beer in general. The experience is extraordinarily well curated.
 
-**Lowlights - **The Guinness Storehouse is a museum and not a brewery. The start of the tour is a bit chaotic without a clear start point. Most of the experience is self-guided.
+**Lowlights -** The Guinness Storehouse is a museum and not a brewery. The start of the tour is a bit chaotic without a clear start point. Most of the experience is self-guided.
 
 **Bottom line -** The space which the Guinness Storehouse occupies is very impressive and will leave visitors more knowledgeable about Guinness, beer, Dublin, and Ireland. A perfect way to spend 3-4 hours in Dublin.
 
@@ -71,7 +65,7 @@ This exhibit area features a large stack of Guinness barrels, a display of origi
 
 There is a whole floor dedicated to Guinness advertising. Apparently, **Guinness has some hilarious ads**. Many of the ads depict exotic animals like seals and toucans propping up a Guinness on their noses. There actually was a real circus seal that could run around the room while balancing a full glass of Guinness on its nose without spilling it. I imagine that practice has ended, but the videos were quite funny.
 
-Probably my favorite ad said "A woman needs a man like a fish needs a bicycle," which then, of course, had a fish riding a bicycle, followed by "not everything in black and white makes sense," and then some call to drink Guinness. **Attention-grabbing, to say the least. **
+Probably my favorite ad said "A woman needs a man like a fish needs a bicycle," which then, of course, had a fish riding a bicycle, followed by "not everything in black and white makes sense," and then some call to drink Guinness. **Attention-grabbing, to say the least.**
 
 Part of the claim in the advertising section of the museum is that these **Guinness ads changed the advertising landscape** by making a shift away from simply stating facts about a product, and instead focusing on humor, emotion, and merely alluding to the qualities of their product.
 
