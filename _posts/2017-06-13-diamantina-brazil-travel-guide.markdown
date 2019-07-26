@@ -2,25 +2,24 @@
 title: Diamantina Brazil is a sleepy town with a party spirit
 date: 2017-06-13 10:00:28 Z
 categories:
-- Brazil
+  - Brazil
 tags:
-- backpacking
-- brazil
-- History
-- Nature
-- South America
-- travel guide
+  - backpacking
+  - brazil
+  - History
+  - Nature
+  - South America
+  - travel guide
 author: judsonlmoore
 comments: true
 excerpt: Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial
   history. Surrounded by spectacular nature, it dances with life once a year.
 layout: post
-link: https://www.judsonlmoore.com/diamantina-brazil-travel-guide/
+link: https://git.judsonlmoore.com/diamantina-brazil-travel-guide/
 wordpress_id: 12773
 ---
 
 ## From New Orleans to Diamantina Brazil, Carnival reigns supreme
-
 
 Diamantina Brazil is a tiny town about 4 hours north of [Belo Horizonte](https://www.judsonlmoore.com/belo-horizonte-travel-guide/), the capital of the state of Minas Gerais. I visited this unlikely party town during the Carnival season and it was full of energy and excitement. I come from the state of Louisiana in the southern part of the USA. In Louisiana, we celebrate Mardi Gras, which is just the French name for Carnival. **Needless to say, I felt right at home amongst the street dancing, live music, and historic architecture.**
 
@@ -28,12 +27,7 @@ Of course, this was no New Orleans Mardi Gras. This was something totally new to
 
 _This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](http://visitbrasil.com/). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
 
-
-
-
-
 ## In A Nutshell
-
 
 **Highlights** - 300-year-old colonial architecture is marvelously preserved, very walkable, UNESCO Cultural Heritage Site, immediate access to beautiful nature, trails, and waterfalls.
 
@@ -41,13 +35,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 **Bottom line** - If you are visiting at Carnival and want the 'real' Brazilian experience, or if you are looking to connect with nature and enjoy the great outdoors, then Diamantina might be the very best place in Brazil to visit.
 
-
-
-
-
-
 ## Celebrating Carnival in Diamantina
-
 
 Diamantina is to Carnival in Brazil, what Mamou is to Mardi Gras in Louisiana: a tiny town of just a few thousand inhabitants that most of the year goes unnoticed, but which the whole country turns to at Carnival to host the **"local and authentic"** celebrations of the holiday.
 
@@ -61,11 +49,7 @@ You should also note that during Carnival, access to churches and museums is res
 
 Here is a video of the celebratory side of Diamantina during Carnival, featuring my friends Lilian and Glauco, and **18-year-old me**.
 
-
-
-
 ## ``Visiting Diamantina outside of Carnival season
-
 
 The majority of the year is not Carnival season and so Diamantina turns into a great place for relaxing and connecting with nature and history. Diamantina is listed as a **World’s Cultural Heritage Site by UNESCO** for the role it played in establishing early Brazilian colonial wealth. As you might have guessed by the name, the area is rich in mineral resources, most notably, diamonds.
 
@@ -75,9 +59,7 @@ There are several notable figures to come out of Diamantina. In particular, Jus
 
 [caption id="attachment_12779" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, Street Scene](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Street-Scene.jpg) Diamantina, Minas Gerais, Brazil, Street Scene. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## A walking tour of Diamantina Brazil
-
 
 No visit to Diamantina is going to be complete without simply walking around the town. **Wear sturdy comfortable shoes** and get ready to burn some calories. And be sure to carry water with you.
 
@@ -85,9 +67,7 @@ As you can see in this photo, the streets are hilly, sidewalks intermittent at b
 
 [caption id="attachment_12778" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, Steep Streets Landscape](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Steep-Streets-Landscape.jpg) Diamantina, Minas Gerais, Brazil, Steep Streets Landscape. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## St. Anthony Cathedral in Diamantina
-
 
 The St. Anthony Cathedral is the center point of Diamantina. Though the building's architecture looks quite old, **it is a fairly modern construction**, built just in 1940. The original building was built a hundred years earlier, but when the seat of the church was upgraded to a cathedral, this new building was built.
 
@@ -97,18 +77,14 @@ Despite that, the towering facade and the **Baroque interior** make an impressi
 
 [caption id="attachment_12776" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Front](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathedral-Front.jpg) Diamantina, Minas Gerais, Brazil, St. Anthony Cathedral Front. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## Igreja Nossa Senhora do Carmo
 
-
-Just a 3-minute walk southeast of the St. Anthony Cathedral is the _Igreja Nossa Senhora do Carmo_. This church is much smaller than the cathedral but it is the original building from 1766, making it much more historic. **The interior is far more impressive** with its wall paintings, carvings, and gilded reliefs.
+Just a 3-minute walk southeast of the St. Anthony Cathedral is the *Igreja Nossa Senhora do Carmo*. This church is much smaller than the cathedral but it is the original building from 1766, making it much more historic. **The interior is far more impressive** with its wall paintings, carvings, and gilded reliefs.
 
 This architectural style extends beyond the churches of Diamantina to the early colonial estates. Though the estates are mostly privately owned and therefore hard to get into, the **churches offer a view into Brazilian colonial style**.
 
 [caption id="attachment_12775" align="alignnone" width="1024"]![Diamantina, Minas Gerais, Brazil, Igreja Nossa Senhora do Carmo](../assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-Igreja-Nossa-Senhora-do-Carmo.jpg) Diamantina, Minas Gerais, Brazil, Igreja Nossa Senhora do Carmo. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## Adeus
-
 
 For more information about Diamantina, check out this page on [VisitBrasil.com](http://www.visitbrasil.com/en/destinos/diamantina/). If you have something to add or an experience to share, please leave a comment below or connect with me directly on Twitter at [@judsonlmoore](http://twitter.com/judsonlmoore).

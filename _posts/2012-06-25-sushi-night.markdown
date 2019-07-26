@@ -2,19 +2,19 @@
 title: Sushi Nights
 date: 2012-06-25 06:40:51 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Cooking
-- Culture Exchange
-- Kyrgyzstan
-- Peace Corps
-- Sushi
-- Thanks
+  - Bishkek
+  - Cooking
+  - Culture Exchange
+  - Kyrgyzstan
+  - Peace Corps
+  - Sushi
+  - Thanks
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/sushi-night/
+link: https://git.judsonlmoore.com/sushi-night/
 wordpress_id: 788
 ---
 
@@ -23,8 +23,6 @@ In the year that I have lived in Talas I have made many visits to the Kyrgyz cap
 **Sushi Night #1**
 
 [gallery link="file" include="1584, 1583, 1582, 1580, 1579, 1578, 1577"]
-
-
 
 **Sushi Night #2**
 

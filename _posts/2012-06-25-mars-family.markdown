@@ -2,16 +2,16 @@
 title: Mars Family
 date: 2012-06-25 06:40:10 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Friends
-- Kyrgyz Culture
-- Kyrgyzstan
+  - Bishkek
+  - Friends
+  - Kyrgyz Culture
+  - Kyrgyzstan
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/mars-family/
+link: https://git.judsonlmoore.com/mars-family/
 wordpress_id: 786
 ---
 

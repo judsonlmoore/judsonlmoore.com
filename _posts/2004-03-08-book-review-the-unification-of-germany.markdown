@@ -2,14 +2,14 @@
 title: 'Book Review: The Unification of Germany'
 date: 2004-03-08 08:00:00 Z
 categories:
-- College Papers
+  - College Papers
 tags:
-- Germany
-- Politics
+  - Germany
+  - Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/book-review-the-unification-of-germany/
+link: https://git.judsonlmoore.com/book-review-the-unification-of-germany/
 wordpress_id: 159
 ---
 

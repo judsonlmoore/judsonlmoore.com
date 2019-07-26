@@ -2,15 +2,15 @@
 title: My New Contact Information
 date: 2012-10-10 06:52:09 Z
 categories:
-- Interests
+  - Interests
 tags:
-- About Me
-- Contact Info
-- Judson L Moore
+  - About Me
+  - Contact Info
+  - Judson L Moore
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/my-new-contact-information/
+link: https://git.judsonlmoore.com/my-new-contact-information/
 wordpress_id: 1187
 ---
 

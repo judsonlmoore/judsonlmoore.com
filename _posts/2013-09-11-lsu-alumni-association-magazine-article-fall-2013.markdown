@@ -2,18 +2,18 @@
 title: LSU Alumni Association Magazine Article – Fall 2013
 date: 2013-09-11 10:39:38 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Kyrgyzstan
-- LSU
-- LSU Alumni
-- Peace Corps
-- Published
+  - Bishkek
+  - Kyrgyzstan
+  - LSU
+  - LSU Alumni
+  - Peace Corps
+  - Published
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-association-magazine-article-fall-2013/
+link: https://git.judsonlmoore.com/lsu-alumni-association-magazine-article-fall-2013/
 wordpress_id: 2480
 ---
 
@@ -22,16 +22,11 @@ Well, this chapter of my life has now officially concluded. With my final articl
 View original source here: [http://issuu.com/lsualumni/docs/lsuaa_fall2013](http://issuu.com/lsualumni/docs/lsuaa_fall2013)
 LSU Alumni Magazine, Fall 2013, Volume 89, Number 3, P. 68-69
 
-
 ###
-
-
-
 
 Greetings Tiger Nation,
 
-
-  Serving in the United States Peace Corps these last two years has been a tremendous experience. During my two years in Kyrgyzstan I accomplished many things; too many to attempt listing here. So let me just describe the cornerstone achievement: Mobile Community Media Centers.
+Serving in the United States Peace Corps these last two years has been a tremendous experience. During my two years in Kyrgyzstan I accomplished many things; too many to attempt listing here. So let me just describe the cornerstone achievement: Mobile Community Media Centers.
 
 Rural and underserved populations of Kyrgyzstan, especially women and children, have a very weak voice in the country and in society. Enabling a wider voice to this population but with a lack of social mobility and weak technological resources posed a great challenge. While working with the Kloop School of Journalism I realized that harnessing mobile technology could provide a sustainable solution. The country has well-developed cellular and data networks, and smartphones are a cheap and prevalent technology in the region.
 
@@ -45,8 +40,8 @@ I have now returned to the USA and am living in Austin, TX where I am leading th
 
 Often when I receive feedback from people who have heard my story, they tell me things like, “I wish I could do that,” or, “I always thought about it...,” and to them I say: just do it. There is nothing special or magical about me or my story--I am just the guy who showed up, raised a hand, walked through a door and followed my heart. If Peace Corps sounds interesting to you, then call a recruiting office--you might just be surprised what all you will learn about, “The Toughest Job You'll Ever Love.”
 
-Yours in Service & GEAUX TIGERS! Signing off--for now…
---
+## Yours in Service & GEAUX TIGERS! Signing off--for now…
+
 Judson L Moore
 US Peace Corps 2011-13
 RPCV, Bishkek Kyrgyzstan

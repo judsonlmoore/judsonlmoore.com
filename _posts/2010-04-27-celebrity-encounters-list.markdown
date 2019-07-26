@@ -2,18 +2,18 @@
 title: Celebrity Encounters List
 date: 2010-04-27 02:29:00 Z
 categories:
-- Music
+  - Music
 tags:
-- celebrity encounter
-- Music
+  - celebrity encounter
+  - Music
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/celebrity-encounters-list/
+link: https://git.judsonlmoore.com/celebrity-encounters-list/
 wordpress_id: 97
 ---
 
-*** indicates the number of times I have encountered this group/person  
+**\* indicates the number of times I have encountered this group/person  
 **.38 Special*  
 12 Stones*  
 4 Lyn*  
@@ -28,12 +28,12 @@ Ben Kweller**
 Blackfoot*  
 Black Stone Cherry***  
 Blind Melon**  
-Boys Like Girls*  
-Breaking Benjamin******  
+Boys Like Girls\*  
+Breaking Benjamin\*\*\*\***  
 Brian Howe of Bad Company*  
 Buckcherry*  
 Carrie Underwood*  
-Chamillionaire**  
+Chamillionaire\*\*  
 Charlie Daniel's Band*  
 Cherry Moore ∞  
 Chevelle**  
@@ -43,7 +43,7 @@ Collective Soul*
 Corey Smith*  
 Cross Canadian Ragweed**  
 Darius Rucker*  
-Daughtry**  
+Daughtry\*\*  
 Dave Matthews*  
 Dezmond Meeks ∞  
 Dierks Bently*  
@@ -52,12 +52,12 @@ Dr. John*
 Drew Holcomb*  
 Drivin n' Cryin*  
 Emerson Drive*  
-Eric Church****  
-Eve 6*  
-Eyes Around*  
+Eric Church\***_  
+Eve 6_  
+Eyes Around\*  
 Fabulous**  
 Foo Fighters**  
-The Format*  
+The Format\*  
 Gabby Johnson**  
 Galactic*  
 Gavin DeGraw*  
@@ -67,14 +67,14 @@ Good Charlotte*
 Gov't Mule*  
 Grace Potter and the Nocturnals*  
 Greg Talmage ∞  
-Hanson*  
+Hanson\*  
 Hurt**  
-Indigo Girls***  
+Indigo Girls**_  
 Ingram Hill ∞  
-Issac Hayes*  
+Issac Hayes_  
 Jason Aldean**  
 Jamey Johnson*  
-Jennifer Johns**  
+Jennifer Johns\*\*  
 Jesse McCartney*  
 Josh Kelley*  
 Josh Turner*  
@@ -94,28 +94,28 @@ Matt Wertz*
 Mavis Staples*  
 Metro Station*  
 The Mississippi Mass Choir*  
-Nappy Roots*  
-North Mississippi All Stars***  
-of Montreal*  
+Nappy Roots\*  
+North Mississippi All Stars**_  
+of Montreal_  
 Old Crow Medicine Show*  
 One Less Reason*  
-OneRepublic***  
-Papa Roach***  
-Paris Hilton*  
+OneRepublic\***  
+Papa Roach**_  
+Paris Hilton_  
 Poison*  
 Project Pat*  
-Puddle of Mudd***  
+Puddle of Mudd\***  
 Ratt*  
-Red******  
+Red**\*\***  
 Red Jump Suit Apparatus*  
 Robert Randolph*  
 Ryan Adams*  
 Saliva*  
-Saving Able****  
+Saving Able\*\*\*\*  
 Sawyer Brown*  
 The Sea and Cake*  
 Sean Kingston*  
-Seether*****  
+Seether**\***  
 Shinedown*  
 Sick Puppies*  
 Speakeasy**  
@@ -123,12 +123,12 @@ Staind*
 Taylor Hicks*  
 Taylor Swift*  
 Tea Leaf Green*  
-Three Days Grace*******  
+Three Days Grace**\*****  
 Three Doors Down*  
 Trace Adkins*  
 Tracy Lawrence*  
 Velvet Revolver*  
 The White Stripes*  
-Wilco**  
+Wilco\*\*  
 Wyclef Jean*  
-ZZ Top**
+ZZ Top\*\*

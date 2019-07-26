@@ -2,23 +2,21 @@
 title: The Secret To All My Success
 date: 2016-01-30 22:44:25 Z
 categories:
-- Lifestyle
+  - Lifestyle
 tags:
-- whileyoung
+  - whileyoung
 author: judsonlmoore
 comments: true
 excerpt: Showing up is the first step in every success story, but it can be hard to
   know where to put your efforts. Learn now from my first "showing up" story!
 layout: post
-link: https://www.judsonlmoore.com/showing-up-secret-to-success/
+link: https://git.judsonlmoore.com/showing-up-secret-to-success/
 wordpress_id: 275
 ---
 
 Throughout my life I've been asked many times about my success. "How do you get to travel so much?" "How are you able to convince others to pay for your travel?" "How are you so lucky?" How.. How.. How. The answer to all of this is exceedingly simple. I did not grow up in a wealthy family. I did not have extraordinary circumstances. It was also most certainly not just luck. The secret to my success is that _I showed up_. But showing up can be trickier than it sounds. Let me tell you the story of when I first started showing up.
 
-
 ## Showing Up: My First Time
-
 
 So what is the big deal about showing up? We all do it every day when we go to school, or attend afternoon practice, and finally when we return home. This might not sound like a special tactic to success, but I assure you that it is.
 
@@ -28,9 +26,7 @@ My story began when I was 16 years old. I was attending a summer camp which had
 
 Upon the conclusion of the presentation, the speaker invited any interested student to come speak with her in private for more information. I thought to myself, 'that is a _line_ I MUST get in!' But when the session ended, the other 50 students rushed outside for the water balloon toss and I was the _only_ person who expressed interest. The result: one year later I embarked on a 12-month program to Germany! And this happened to me, instead of one of those other students, because I showed up when no one else did.
 
-
 ## When To Show Up
-
 
 There are strategies for choosing when to show up. After all, time and energy are finite so you do need to be at least a bit choosy about where to focus your efforts. However, the best advice I can give is said very nicely by the old cliché, "the only way to guarantee failure, is to never try at all." That is to say, you should always try to the extent of your greatest ability.
 
@@ -38,11 +34,8 @@ You and your own self-doubt are your own worst enemy. It's human nature, so don'
 
 When opportunity comes knocking or someone invites you to learn more about an opportunity, I challenge you to approach your response with this quote in mind:
 
-
 <blockquote>Every Day. Every Time. Without Fail. No Exceptions - [Paul Cummings, CEO of Woople](http://paulcummings.com/)</blockquote>
-
 
 What are some examples of times you have shown up? What are your struggles? What are your successes? Please share by leaving a comment now or by messaging me at [@judsonlmoore](http://twitter.com/judsonlmoore)!
 
-
-## 
+##

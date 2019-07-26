@@ -2,29 +2,26 @@
 title: How Hurricane Katrina Changed My Life 10 Years Later
 date: 2015-08-29 17:54:54 Z
 categories:
-- American Red Cross
+  - American Red Cross
 tags:
-- Anniversary
-- Disaster
-- Hurricane Katrina
-- Memories
+  - Anniversary
+  - Disaster
+  - Hurricane Katrina
+  - Memories
 author: judsonlmoore
 comments: true
 excerpt: On the 10 year anniversary of Hurricane Katrina, I reflect on how that was
   a pivotal moment when the trajectory of my life changed.
 layout: post
-link: https://www.judsonlmoore.com/10-years-after-hurricane-katrina/
+link: https://git.judsonlmoore.com/10-years-after-hurricane-katrina/
 wordpress_id: 3659
 ---
 
 _Photo Credit: From _[LSU: In The Eye of The Storm](https://www.judsonlmoore.com/get/lsu-in-the-eye-of-the-storm/)
 
-
 There are events in my life that I often reflect on for being the pivotal moments when the trajectory of my life changed. Great moments like my Rotary Youth Exchange year and not so great moments like appendicitis in Kyrgyzstan have led me to who I am today. I am glad for all of these things because the life I live now is truly a fortunate one and I wouldn't change how I got here. Hurricane Katrina is one of these events, and now after a decade has passed since that destructive day, I reflect on how my life has been impacted.
 
-
 ## Hurricane Katrina: A Decade Later
-
 
 On this 10th anniversary of Hurricane Katrina, I take note that I rarely consider this event to be one which shaped the course of my life. I don't know how I've missed it, I don't know why I've been so consciously avoiding it, but that moment was for me, as for so many others, perhaps the single most important event of my life.
 

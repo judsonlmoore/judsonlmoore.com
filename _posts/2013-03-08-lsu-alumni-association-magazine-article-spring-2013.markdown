@@ -2,18 +2,18 @@
 title: LSU Alumni Association Magazine Article - Spring 2013
 date: 2013-03-08 15:26:21 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Kyrgyzstan
-- LSU
-- LSU Alumni
-- Peace Corps
-- Published
+  - Bishkek
+  - Kyrgyzstan
+  - LSU
+  - LSU Alumni
+  - Peace Corps
+  - Published
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-association-magazine-article-spring-2013/
+link: https://git.judsonlmoore.com/lsu-alumni-association-magazine-article-spring-2013/
 wordpress_id: 2150
 ---
 
@@ -26,8 +26,6 @@ I hope the start of 2013 is fulfilling all of your hopes and dreams! The holiday
 Bringing in the new year was quite a spectacular series of events. Unlike in America, New Year's Eve is a formal family affair. Imagine combining Thanksgiving, Christmas and New Year all together: Santa Clause (Father Frost) and his grand daughter deliver presents to children on New Years Eve, every house has a New Year's Tree decorated almost exactly as westerners would expect to find a Christmas tree and at midnight there are fireworks and champaign to bring it all to a close. All of this is celebrated with family; friends rarely get into the mix.
 
 New Year's Eve started off like a usual day until I heard the sound of a marching band (unheard of around here) passing my window playing Jingle Bells! I looked outside and saw a parade of hundreds of Santas, clowns and city officials. Every year, the mass of characters parades from the main square to city hall where the mayor dishes out presents to the parade participants. Then the parade turns around and returns to the main square where children (mostly orphans and top students) await and are delivered the presents.
-
-
 
 At midnight, fireworks abounded. I live only two blocks from the main square so going there to see the fireworks was easy. One major difference was that alongside the city-sponsored fireworks were an equal amount of personal fireworks being set off, which was not entirely safe, but no one seemed hurt in the process.
 

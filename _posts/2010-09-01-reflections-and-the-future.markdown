@@ -2,13 +2,13 @@
 title: Reflections and the Future
 date: 2010-09-01 05:00:00 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Peace Corps
+  - Peace Corps
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/reflections-and-the-future/
+link: https://git.judsonlmoore.com/reflections-and-the-future/
 wordpress_id: 83
 ---
 

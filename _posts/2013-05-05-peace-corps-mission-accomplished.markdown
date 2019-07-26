@@ -2,18 +2,18 @@
 title: 'Peace Corps: Mission Accomplished'
 date: 2013-05-05 04:44:56 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Kyrgyzstan
-- Life Goal
-- Peace Corps
-- RPCV
-- Talas
+  - Bishkek
+  - Kyrgyzstan
+  - Life Goal
+  - Peace Corps
+  - RPCV
+  - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/peace-corps-mission-accomplished/
+link: https://git.judsonlmoore.com/peace-corps-mission-accomplished/
 wordpress_id: 2457
 ---
 
@@ -30,5 +30,3 @@ I can't begin to thank everyone who has made all of this possible. From those wh
 I have now returned to the USA and am living in Austin, TX where I am leading the charge to establish Kloop-USA. Kloop-USA is a non-profit aimed at promoting journalism and freedom of speech in Central Asia. We have short-term goals of fundraising and advocacy, and long-term goals to create study abroad opportunities for Central Asian students to study journalism in America. For more information about Kloop-USA, please stay tuned to my website.
 
 Often when I receive feedback from people who have heard my story, they tell me things like, “I wish I could do that,” or, “I always thought about it...,” and to them I say: just do it. There is nothing special or magical about me or my story--I am just the guy who showed up, raised a hand, walked through a door and followed my heart. If Peace Corps sounds interesting to you, then call a recruiting office--you might just be surprised what all you will learn about, “The Toughest Job You'll Ever Love.”
-
-

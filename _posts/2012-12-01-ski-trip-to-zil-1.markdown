@@ -2,23 +2,23 @@
 title: 'Ski Trip To Zil #1'
 date: 2012-12-01 17:05:44 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Fun
-- Kyrgyzstan
-- Ski KG
-- skiing
-- Sports
-- Zil
+  - Bishkek
+  - Fun
+  - Kyrgyzstan
+  - Ski KG
+  - skiing
+  - Sports
+  - Zil
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/ski-trip-to-zil-1/
+link: https://git.judsonlmoore.com/ski-trip-to-zil-1/
 wordpress_id: 1956
 ---
 
-Ski Season is here! My desire for years has been to live within a 3-hours drive of skiing. And now I am less than an hour away from skiing. And what makes it even better is that an entire day's cost (transport, food, ski rental and lift pass) costs less than $30.00!
+Ski Season is here! My desire for years has been to live within a 3-hours drive of skiing. And now I am less than an hour away from skiing. And what makes it even better is that an entire day's cost (transport, food, ski rental and lift pass) costs less than \$30.00!
 
 My friend, Artiom, has his own tourism company called Travel In KG. He works non-stop in the summer months but in winter he takes his time to relax. However, he still has his van and he is still happy to drive folks around who need to get somewhere. So Artiom gives us a great price for driving us and joins us skiing. It is a great win-win situation! Plus, he is awesome and super fun to hang out with. So it really doesn't get much better.
 

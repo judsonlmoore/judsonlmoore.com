@@ -2,16 +2,16 @@
 title: Reunion, Kölsch and Architecture of Köln (Cologne)
 date: 2015-01-16 22:10:15 Z
 categories:
-- Germany
+  - Germany
 tags:
-- Europe
-- Germany
-- reunion
-- Train
+  - Europe
+  - Germany
+  - reunion
+  - Train
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/reunion-koln/
+link: https://git.judsonlmoore.com/reunion-koln/
 wordpress_id: 3672
 ---
 
@@ -21,11 +21,7 @@ After flying Hyderabad > Abu Dhabi > Frankfurt I got a first class ticket on the
 
 [embed]https://www.youtube.com/watch?v=ha9seYZ6DPE[/embed]
 
-
-
-
 ## First Impressions of Köln (and beer!)
-
 
 Upon arriving in Köln (Cologne), I met Bettina and Maxim, whom I know from [my time in Kyrgyzstan](/location/kyrgyzstan/). After a quick change of clothes and a smorgasbord of cheese and meat, it was time to get this 3-week pub crawl underway.
 
@@ -33,9 +29,7 @@ Each region, city and sometimes even neighborhoods in Germany are distinguishabl
 
 Bettina and I went to at least half a dozen breweries in search of the best Kölsch in Köln (say that 10 times fast!), of which Früh is the most famous and Peters Brauhaus had the best beer. We drank lots of beer and ate lots of wurst and schnitzel, but burned off the calories as we meandered up and down beautiful cobblestoned streets and in and out of churches and museums.
 
-
 ## The Architecture
-
 
 The Kölner Dom (cathedral) is over 700 years old and was once the tallest building in the world. On the day we visited, the catacombs and the tower were both closed, so we just got to wander the main hall, which is certainly impressive enough. The sub-freezing overcast weather and lack of internal lighting made the space fairly dark, leaving a fair impression of what the cathedral would have been like hundreds of years ago.
 
@@ -44,7 +38,5 @@ Adjacent to the Dom is the Romano-Germanic Museum. This archeological museum is
 Köln is an amazingly beautiful city, even in the freezing cold. I look forward to returning soon when the weather is nicer!
 
 Have you been to Köln? Planning a trip to the region? Please leave a comment below or get in touch with me at[@JudsonLMoore](http://twitter.com/judsonlmoore)!
-
-
 
 [gallery type="rectangular" link="none" ids="3701,3702,3703,3704,3705,3706,3707,3708,3709"]

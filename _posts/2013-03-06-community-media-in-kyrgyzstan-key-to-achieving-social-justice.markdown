@@ -2,21 +2,21 @@
 title: Community Media in Kyrgyzstan Key to Achieving Social Justice [cross-post]
 date: 2013-03-06 04:44:27 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Central Asia
-- Kyrgyzstan
-- Peace Corps
-- Projects
-- Service
-- Talas
-- UN
-- UNESCO
+  - Bishkek
+  - Central Asia
+  - Kyrgyzstan
+  - Peace Corps
+  - Projects
+  - Service
+  - Talas
+  - UN
+  - UNESCO
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/community-media-in-kyrgyzstan-key-to-achieving-social-justice/
+link: https://git.judsonlmoore.com/community-media-in-kyrgyzstan-key-to-achieving-social-justice/
 wordpress_id: 2131
 ---
 

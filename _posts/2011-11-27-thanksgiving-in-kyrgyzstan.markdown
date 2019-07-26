@@ -2,15 +2,15 @@
 title: Thanksgiving in Kyrgyzstan
 date: 2011-11-27 14:21:00 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Holidays
-- Peace Corps
+  - Bishkek
+  - Holidays
+  - Peace Corps
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/thanksgiving-in-kyrgyzstan/
+link: https://git.judsonlmoore.com/thanksgiving-in-kyrgyzstan/
 wordpress_id: 12
 ---
 

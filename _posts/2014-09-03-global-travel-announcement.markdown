@@ -2,43 +2,34 @@
 title: Global Travel Announcement
 date: 2014-09-03 12:57:50 Z
 categories:
-- blog
+  - blog
 tags:
-- Abu Dhabi
-- Colombia
-- India
-- Interests
-- Travel
-- Travel Announcement
+  - Abu Dhabi
+  - Colombia
+  - India
+  - Interests
+  - Travel
+  - Travel Announcement
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/global-travel-announcement/
+link: https://git.judsonlmoore.com/global-travel-announcement/
 wordpress_id: 2643
 ---
 
 1 year, 3 months and 7 days ago I moved to Austin Texas. Since that time I have only spent 10 days traveling. It's time to get a move on! I write you today to announce some exciting travel plans I have for the remainder of 2014. If you are going to be in my vicinity, let me know and lets try to meet up!
 
+- September 8 - October 29: Hyderabad, India
 
+- October 30 - November 10: Bogotá, Colombia
 
-	
-  * September 8 - October 29: Hyderabad, India
+- November 12 - November 13: Abu Dhabi, UAE
 
-	
-  * October 30 - November 10: Bogotá, Colombia
+- November 14 - December 15: Hyderabad, India
 
-	
-  * November 12 - November 13: Abu Dhabi, UAE
+- December 15 - January 4: South Germany / Central Europe
 
-	
-  * November 14 - December 15: Hyderabad, India
-
-	
-  * December 15 - January 4: South Germany / Central Europe
-
-	
-  * January 5 - ???: Austin, Texas, USA
-
+- January 5 - ???: Austin, Texas, USA
 
 Well there you have it. My adventure continues!
 

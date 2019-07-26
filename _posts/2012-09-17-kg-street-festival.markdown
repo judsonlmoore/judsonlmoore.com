@@ -2,18 +2,18 @@
 title: KG Street Festival
 date: 2012-09-17 22:22:41 Z
 categories:
-- Bishkek
+  - Bishkek
 tags:
-- Bishkek
-- Festivals
-- Kyrgyz Culture
-- Kyrgyzstan
-- Peace Corps
-- Street Festival
+  - Bishkek
+  - Festivals
+  - Kyrgyz Culture
+  - Kyrgyzstan
+  - Peace Corps
+  - Street Festival
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/kg-street-festival/
+link: https://git.judsonlmoore.com/kg-street-festival/
 wordpress_id: 765
 ---
 

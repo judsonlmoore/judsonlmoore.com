@@ -3,13 +3,13 @@ title: India Travel Advice In Under 10 Minutes
 date: 2016-01-22 03:51:26 Z
 published: false
 categories:
-- Adventure
+  - Adventure
 author: judsonlmoore
 comments: true
 excerpt: India is a wonderfully diverse and beautifully colorful country. I have traveled
   throughout India and have compiled my best advice here.
 layout: post
-link: https://www.judsonlmoore.com/?p=93
+link: https://git.judsonlmoore.com/?p=93
 wordpress_id: 93
 ---
 
@@ -43,63 +43,38 @@ If you have time to do something other than the Golden Triangle, then you should
 
 **Useful Apps**
 
+- [Uber](https://www.judsonlmoore.com/get/uber/) - Taxi service
 
+- [MakeMyTrip](http://makemytrip.com) - Flights and hotels
 
- 	
-  * [Uber](https://www.judsonlmoore.com/get/uber/) - Taxi service
+- [Cleartrip](http://www.cleartrip.com/) - Train Tickets
 
- 	
-  * [MakeMyTrip](http://makemytrip.com) - Flights and hotels
+- [Zomato](https://www.zomato.com/) - Location-based recommendations (like Yelp)
 
- 	
-  * [Cleartrip](http://www.cleartrip.com/) - Train Tickets
+- [Book My Show](http://bookmyshow.com) - Tickets for events
 
- 	
-  * [Zomato](https://www.zomato.com/) - Location-based recommendations (like Yelp)
+- [Google Maps](https://www.google.com/maps) (note: traffic and drive-time data is unreliable)
 
- 	
-  * [Book My Show](http://bookmyshow.com) - Tickets for events
-
- 	
-  * [Google Maps](https://www.google.com/maps) (note: traffic and drive-time data is unreliable)
-
- 	
-  * [Pocket](http://getpocket.com/a/queue/) (combined with WikiTravel it is a great resource to store travel guides on any place you plan to visit)
-
+- [Pocket](http://getpocket.com/a/queue/) (combined with WikiTravel it is a great resource to store travel guides on any place you plan to visit)
 
 **Other Online Resources**
 
+- [US State Dept](http://travel.state.gov/) - Register for safety and security alerts from the US State Department
 
+- [Carz On Rent](http://carzonrent.com/) - Great resource for hiring car service for a full or multiple days
 
- 	
-  * [US State Dept](http://travel.state.gov/) - Register for safety and security alerts from the US State Department
+- [Zostel](http://zostel.com/) - Trendy hostels in north India
 
- 	
-  * [Carz On Rent](http://carzonrent.com/) - Great resource for hiring car service for a full or multiple days
+- [AirBNB](https://www.judsonlmoore.com/get/airbnb/) - All sorts of places to stay all over the world
 
- 	
-  * [Zostel](http://zostel.com/) - Trendy hostels in north India
+- [WikiTravel](http://wikitravel.org/) - Non-commercialized information for traveling just about anywhere
 
- 	
-  * [AirBNB](https://www.judsonlmoore.com/get/airbnb/) - All sorts of places to stay all over the world
+  - [Hyderabad](http://wikitravel.org/en/Hyderabad)
 
- 	
-  * [WikiTravel](http://wikitravel.org/) - Non-commercialized information for traveling just about anywhere
+  * [Andhra Pradesh](http://wikitravel.org/en/Andhra_Pradesh)
 
- 	
-    * [Hyderabad](http://wikitravel.org/en/Hyderabad)
+  - [Rail Travel in India](http://wikitravel.org/en/Rail_travel_in_India)
 
- 	
-    * [Andhra Pradesh](http://wikitravel.org/en/Andhra_Pradesh)
-
- 	
-    * [Rail Travel in India](http://wikitravel.org/en/Rail_travel_in_India)
-
-
-
-
- 	
-  * Find [JCI Accredited](http://www.jointcommissioninternational.org/about-jci/jci-accredited-organizations/?c=India) hospitals in India.
-
+* Find [JCI Accredited](http://www.jointcommissioninternational.org/about-jci/jci-accredited-organizations/?c=India) hospitals in India.
 
 Comment below if  you make it to any of these destinations! Have fun and good luck!

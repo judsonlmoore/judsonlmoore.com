@@ -2,34 +2,25 @@
 title: Travel Advice To Rajasthan India
 date: 2016-03-28 18:03:34 Z
 categories:
-- India
+  - India
 tags:
-- whileyoung
+  - whileyoung
 author: judsonlmoore
 comments: true
 excerpt: Rajasthan India is a magical wonderland of castles, camels and amazing food!
   Check out these tips for places to stay, things to do and how to get around!
 layout: post
-link: https://www.judsonlmoore.com/travel-advice-rajasthan-india/
+link: https://git.judsonlmoore.com/travel-advice-rajasthan-india/
 wordpress_id: 4624
 ---
 
 Rajasthan India is one of the most sought after destinations in the world. This dusty desert plain is a throwback to a more magical time when sultans ruled and where the unbelievable power of mystics can still be felt today.
 
-
 **[Related Post: India Travel Advice In Under 10 Minutes](https://www.judsonlmoore.com/travel-advice-india/)**
-
-
-
 
 I traveled to three places in Rajasthan: Jaipur, Ajmer and Pushkar. I tell my story here. If you have a story to share, please drop me a line in the comments section below.
 
-
-
-
-
 ## Jaipur, Rajasthan
-
 
 ![Jaipur Rajasthan India Hall Of Mirrors](../assets/images/2016/03/Jaipur-Rajasthan-India-Hall-Of-Mirrors.jpg)
 
@@ -49,9 +40,7 @@ The City Palace is home to some pretty interesting architecture, paintings, and 
 
 One art piece that I thought was striking was a number of rifles and spears that were laid out in a large circle. The guns are pointing in toward the center while the spears are pointed out toward the edge. The guide said that it was to symbolize Indian strength and wealth, but I think it symbolizes the imperial occupation of Britain who had a superior military versus the Indians who had less advanced weaponry.
 
-
 ## Ajmer, Rajasthan
-
 
 ![Ajmer-Rajasthan-India-Ana-Sagar-Lake](../assets/images/2016/03/Ajmer-Rajasthan-India-Ana-Sagar-Lake.jpg)
 
@@ -61,10 +50,9 @@ After the temple, we continued on to Lake Ana Sagar, a 900-year old man made lak
 
 We only had a few hours to spend in Ajmer, so after finding a quick coffee we hailed a cab and moved on to the nearby town of Pushkar where we embarked on an overnight camel safari.
 
-
 ## Pushkar - Religious Center of Rajasthan
-![Pushkar Rajasthan India On Camel](../assets/images/2016/03/Pushkar-Rajasthan-India-On-Camel.jpg)
 
+![Pushkar Rajasthan India On Camel](../assets/images/2016/03/Pushkar-Rajasthan-India-On-Camel.jpg)
 
 Pushkar is one of the most significant pilgrimage sites for Hindus. Hindus believe that Lord Brahma, the Hindu god of creation, created Pushkar. Despite the significance of Lord Brahma, there are very few temples in the world are dedicated to him, thanks to the [Curse of Savitri](https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar#Legend). The Pushkar temple is, however, the most significant of the Brahma temples and viewed by many as the only legitimate temple. Pushkar is widely considered to be one of the most religious places in the world.
 

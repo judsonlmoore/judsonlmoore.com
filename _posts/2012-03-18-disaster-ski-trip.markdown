@@ -2,19 +2,19 @@
 title: Disaster Ski Trip
 date: 2012-03-18 06:59:44 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Disaster
-- Kyrgyzstan
-- Ski KG
-- Ski Trip
-- skiing
-- TIK
+  - Bishkek
+  - Disaster
+  - Kyrgyzstan
+  - Ski KG
+  - Ski Trip
+  - skiing
+  - TIK
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/disaster-ski-trip/
+link: https://git.judsonlmoore.com/disaster-ski-trip/
 wordpress_id: 803
 ---
 

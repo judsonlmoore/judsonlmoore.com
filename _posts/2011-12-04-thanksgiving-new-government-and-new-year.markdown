@@ -2,18 +2,18 @@
 title: Thanksgiving, New Government and New Year
 date: 2011-12-04 17:06:57 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Culture
-- Holiday
-- Kyrgyzstan
-- Peace Corps
-- Thanksgiving
+  - Bishkek
+  - Culture
+  - Holiday
+  - Kyrgyzstan
+  - Peace Corps
+  - Thanksgiving
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/thanksgiving-new-government-and-new-year/
+link: https://git.judsonlmoore.com/thanksgiving-new-government-and-new-year/
 wordpress_id: 8
 ---
 
@@ -22,8 +22,6 @@ Being as far away from America as I am did not put even the slightest dent in my
 The PC Medical Officer (who plays excellent blues guitar) and I provided the entertainment. He played blues/jazz guitar while I accompanied on drums and occasionally I also played guitar. This was my first public guitar performance and I feel pretty good about it. I even led a few sing-alongs of American Pie and Stand By Me.
 
 While in Bishkek for the week I visited a rehearsal studio for a few hours and got some time in on drums after a year of no practice. I believe this may be the only existing video of me playing drums and unfortunately the memory card ran out of space after just 3 minutes. But for your enjoyment:
-
-
 
 With the new year just around the corner Kyrgyzstan has made Central Asian history by peacefully and fairly electing a new president. The elections at the end of October resulted in a landslide victory for former prime minster Almazbek Atambaev. President Atambaev took office on December 1st and so far everything is smooth-sailing. All of the local people I know seem to think he is the right person for the job.
 

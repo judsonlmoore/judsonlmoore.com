@@ -2,18 +2,18 @@
 title: Nooryz 2013
 date: 2013-04-17 18:59:00 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Culture
-- Holiday
-- Islam
-- Kyrgyzstan
-- New Year
+  - Bishkek
+  - Culture
+  - Holiday
+  - Islam
+  - Kyrgyzstan
+  - New Year
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/nooryz-2013/
+link: https://git.judsonlmoore.com/nooryz-2013/
 wordpress_id: 2192
 ---
 
@@ -24,7 +24,5 @@ This video is from the Turkish-Manas Kyrgyz University in Djal, outside of Bishk
 My favorite is the men's dance from the Caucasus. It starts around the 10 minute mark.
 
 [_There are many photos which I took from this day at this event and at the capital's downtown festivities. At the time of this posting, I am unable to upload those photos but intend to update this post within a few days to include those images as well._]
-
-
 
 And here are a bunch of photos.

@@ -2,156 +2,102 @@
 title: Giant ATX 770 Mountain Bike Technical Specifications
 date: 2012-09-11 05:18:20 Z
 categories:
-- Interests
+  - Interests
 tags:
-- Adventure
-- Biking
-- toys
+  - Adventure
+  - Biking
+  - toys
 author: judsonlmoore
 comments: true
 excerpt: 'After a 3-year hiatus I am back on wheels with this great Giant ATX 770
   that I found in Bishkek, Kyrgyzstan! Here are the tech specs and photos. '
 layout: post
-link: https://www.judsonlmoore.com/giant-atx-770/
+link: https://git.judsonlmoore.com/giant-atx-770/
 wordpress_id: 556
 ---
 
 After a 3-year hiatus beginning when I moved off to London and had a massive sell-off of all my possessions, I am back on wheels with this great bike I found in Bishkek. This used Giant ATX 770 has a few upgraded components and rides great. The price? Well, let's call it an even trade for my 1st Gen iPad That I sold last week. The iPad wasn't getting much use and certainly was not promoting my health. I think the trade is a good one. The real challenge will come in a few weeks when the temperatures start to drop. Will I have the strength to ride during winter? We will see...
 
-
 ## Giant ATX 770 Mountain Bike Technical Specifications (EN)
 
+- Wheel GIANT 31.8mm Stem GIANT
 
+- Podsidelny pin GIANT Alloy
 
+- GIANT Uniti MTB seat
 
+- Shimano pedal contacts
 
- 	
-  * Wheel GIANT 31.8mm Stem GIANT
+- Frame Gaint ATX770 ALUXX
 
- 	
-  * Podsidelny pin GIANT Alloy
+- Speed changers Shimano Alivio (integr.)
 
- 	
-  * GIANT Uniti MTB seat
+- Front derailleur Shimano Alivio
 
- 	
-  * Shimano pedal contacts
+- Shimano XT rear derailleur
 
- 	
-  * Frame Gaint ATX770 ALUXX
+- Cassette SRAM PG830 11-28, 8-Speed
 
- 	
-  * Speed changers Shimano Alivio (integr.)
+- Shimano mechanical disc brakes
 
- 	
-  * Front derailleur Shimano Alivio
+- Chain KMC Z72
 
- 	
-  * Shimano XT rear derailleur
+- System Truvativ Iso Flow 3.0
 
- 	
-  * Cassette SRAM PG830 11-28, 8-Speed
+- Neco carbon bottom bracket
 
- 	
-  * Shimano mechanical disc brakes
+- Rims Weinmann Bull Disk
 
- 	
-  * Chain KMC Z72
+- Novatec hub for prompodshipnikah
 
- 	
-  * System Truvativ Iso Flow 3.0
+- Spokes Stainless Steel, 14g
 
- 	
-  * Neco carbon bottom bracket
+- Tires Maxxis Ignitor, 26x2.1
 
- 	
-  * Rims Weinmann Bull Disk
+- Grips: Tioga USA
 
- 	
-  * Novatec hub for prompodshipnikah
+- Velokomp Giant Continuum 8
 
- 	
-  * Spokes Stainless Steel, 14g
-
- 	
-  * Tires Maxxis Ignitor, 26x2.1
-
- 	
-  * Grips: Tioga USA
-
- 	
-  * Velokomp Giant Continuum 8
-
- 	
-  * horns: Uno Alloy
-
-
-
+- horns: Uno Alloy
 
 ## Giant ATX 770 Mountain Bike Technical Specifications (RU)
 
+- Руль GIANT 31.8mm Вынос GIANT
 
+- Подсидельный штырь GIANT Alloy
 
+- Сиденье GIANT Uniti MTB
 
+- Педали контакты Shimano
 
- 	
-  * Руль GIANT 31.8mm Вынос GIANT
+- Рама Gaint ATX770 ALUXX
 
- 	
-  * Подсидельный штырь GIANT Alloy
+- Переключатели скоростей Shimano Alivio (интегр.)
 
- 	
-  * Сиденье GIANT Uniti MTB
+- Передний переключатель Shimano Alivio
 
- 	
-  * Педали контакты Shimano
+- Задний переключатель Shimano XT
 
- 	
-  * Рама Gaint ATX770 ALUXX
+- Кассета SRAM PG830 11-28, 8-Speed
 
- 	
-  * Переключатели скоростей Shimano Alivio (интегр.)
+- Тормоза дисковые механические Shimano
 
- 	
-  * Передний переключатель Shimano Alivio
+- Цепь KMC Z72
 
- 	
-  * Задний переключатель Shimano XT
+- Система Truvativ Iso Flow 3.0
 
- 	
-  * Кассета SRAM PG830 11-28, 8-Speed
+- Кареточный узел Neco карбон
 
- 	
-  * Тормоза дисковые механические Shimano
+- Обода Weinmann Bull Disk
 
- 	
-  * Цепь KMC Z72
+- Втулки Novatec на промподшипниках
 
- 	
-  * Система Truvativ Iso Flow 3.0
+- Спицы Stainless Steel,14g
 
- 	
-  * Кареточный узел Neco карбон
+- Покрышки Maxxis Ignitor, 26x2.1
 
- 	
-  * Обода Weinmann Bull Disk
+- Грипсы: Tioga USA
 
- 	
-  * Втулки Novatec на промподшипниках
+- Велокомп  Giant Continuum 8
 
- 	
-  * Спицы Stainless Steel,14g
-
- 	
-  * Покрышки Maxxis Ignitor, 26x2.1
-
- 	
-  * Грипсы: Tioga USA
-
- 	
-  * Велокомп  Giant Continuum 8
-
- 	
-  * рожки: Uno аллюм
-
-
+- рожки: Uno аллюм

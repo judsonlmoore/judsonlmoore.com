@@ -2,19 +2,19 @@
 title: What I have learned about my Peace Corps legacy in Kyrgyzstan
 date: 2017-11-13 21:13:21 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Kyrgyzstan
-- Peace Corps
-- Service Above Self
-- Talas
+  - Bishkek
+  - Kyrgyzstan
+  - Peace Corps
+  - Service Above Self
+  - Talas
 author: judsonlmoore
 comments: true
 excerpt: I recently learned a few things which I did not know about my own legacy
   in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 layout: post
-link: https://www.judsonlmoore.com/my-peace-corps-legacy/
+link: https://git.judsonlmoore.com/my-peace-corps-legacy/
 wordpress_id: 18421
 ---
 
@@ -28,9 +28,7 @@ In the Peace Corps, we don’t really expect that we will ever understand the fu
 
 While reuniting with friends and colleagues this last week, I learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were **a complete shock**.
 
-
 ## 250,000 readers and growing
-
 
 My initial assignment with the Peace Corps was in the remote western province of Kyrgyzstan called Talas, where I worked with Central Asia’s **premier community radio station**. I did some basic programming work with them and worked out some best-practices on their blog. Moreover, I worked with them to provide trainings to other up-and-coming community radio stations around Kyrgyzstan.
 
@@ -48,9 +46,7 @@ Last week, **I was afforded the opportunity** to present this history and succes
 
 [caption id="attachment_18424" align="alignnone" width="1024"]![A chart showing the growth in articles read year over year. ](../assets/images/2017/11/kyrgyzmedia.com-5-year-growth.png) Year over year growth in articles read on KyrgyzMedia.com[/caption]
 
-
 ## Improvements in medical facilities
-
 
 One morning, just before my first departure from Kyrgyzstan in 2013, **my appendix decided it was time to leave my body**. I had an emergency appendectomy in Kyrgyzstan and it was not a fun experience at all. In fact, it was downright terrible.
 
@@ -70,9 +66,7 @@ I was only dreaming that by sharing my experiences, I could make some impact at 
 
 [caption id="attachment_18425" align="alignnone" width="1000"]![President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. ](../assets/images/2017/11/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg) President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html)[/caption]
 
-
 ## Students attending university
-
 
 **A brilliant university student** named Meerim once asked me to help her with a summer camp for students in the 15-16 year age range. The problem is that the students would be from an area of Kyrgyzstan which was off-limits for me to travel to. As a workaround solution, Meerim packed up all the students and brought them to me, in Bishkek.
 
@@ -86,9 +80,7 @@ This week, I caught up with Meerim and she informed me that **100% of those stud
 
 [caption id="attachment_18426" align="alignnone" width="999"]![Judson provides computer training to students in Bishkek.](../assets/images/2017/11/Bishkek-ICT-Training.jpg) Judson provides computer training to students in Bishkek.[/caption]
 
-
 ## Friends that are like family
-
 
 Coming to Bishkek again felt like coming home. As I said earlier, Kyrgyzstan’s geographic beauty is vast, but that wouldn’t matter at all if it weren’t for the people who occupy the space. **I adore them all.**
 
@@ -98,14 +90,6 @@ Kyrgyzstan empowered me to work hard and to strive for a common good. More impor
 
 This is my story, and so I tell it. But if the legacy is to persevere, it is not because it is mine, but because **it is the collectives**. None of this could have been done alone and I shy away from taking any amount of credit. I am proud to have been a part of these accomplishments, and I will continue to use my life to serve the community around me. **I hope that you will do the same.**
 
-
-
-
-
-
 <blockquote>First time I departed from Bishkek vs the second time. Great friends all around!
 
 Posted by [Judson Moore](https://www.facebook.com/judsonlmoore) on [Saturday, November 11, 2017](https://www.facebook.com/judsonlmoore/posts/10108298844121885)</blockquote>
-
-
-

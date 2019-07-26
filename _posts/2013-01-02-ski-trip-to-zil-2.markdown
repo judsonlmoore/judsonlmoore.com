@@ -2,19 +2,19 @@
 title: Ski Trip to Zil 2
 date: 2013-01-02 17:24:50 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Fun
-- Kyrgyzstan
-- Ski KG
-- skiing
-- Sports
-- Zil
+  - Bishkek
+  - Fun
+  - Kyrgyzstan
+  - Ski KG
+  - skiing
+  - Sports
+  - Zil
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/ski-trip-to-zil-2/
+link: https://git.judsonlmoore.com/ski-trip-to-zil-2/
 wordpress_id: 1969
 ---
 

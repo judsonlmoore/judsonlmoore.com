@@ -2,25 +2,24 @@
 title: 'Isla Palma: Private Island Paradise of Pablo Escobar'
 date: 2014-11-05 08:34:42 Z
 categories:
-- Colombia
+  - Colombia
 tags:
-- Colombia
-- reunion
-- Rotary
-- RYE
-- South America
-- Travel
+  - Colombia
+  - reunion
+  - Rotary
+  - RYE
+  - South America
+  - Travel
 author: judsonlmoore
 comments: true
 excerpt: 'Isla Palma is the private island retreat of cartel boss Pablo Escobar. Today,
   this all-inclusive resort is scattered with the ruins of that page in history. '
 layout: post
-link: https://www.judsonlmoore.com/isla-palma/
+link: https://git.judsonlmoore.com/isla-palma/
 wordpress_id: 3002
 ---
 
 ## Getting To Isla Palma
-
 
 The destination that we considered to be, at lest during the planning phase, the main event, was the 3-day all-inclusive visit to Isla Palma, an island resort which used to be the summer home of famed drug cartel boss, Pablo Escobar.
 
@@ -30,4 +29,4 @@ Between the jungle flora and fauna and the sense of adventure that this forgotte
 
 [gallery link="none" ids="2959,2960,2964,2963,2961,2958,2957,2965,2956,2962"]
 
-*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).
+\*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).

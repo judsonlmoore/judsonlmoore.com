@@ -2,18 +2,18 @@
 title: I Have Joined The Rotary Club of Austin
 date: 2015-08-18 17:00:03 Z
 categories:
-- Austin
+  - Austin
 tags:
-- Membership
-- Rotary
-- Rotary International
-- Service Above Self
+  - Membership
+  - Rotary
+  - Rotary International
+  - Service Above Self
 author: judsonlmoore
 comments: true
 excerpt: I've been part of the Rotary Family since I was in high school, and anyone
   who knows me, knows that today is a very significant moment for me.
 layout: post
-link: https://www.judsonlmoore.com/im-a-rotarian/
+link: https://git.judsonlmoore.com/im-a-rotarian/
 wordpress_id: 3656
 ---
 
@@ -23,9 +23,7 @@ Here are some photos of the pin ceremony, followed by a letter I wrote to [the f
 
 [gallery type="rectangular" link="none" ids="3662,3663,3664,3666"]
 
-
 ## An Open Letter To The Rotary Club of Alexandria
-
 
 Tuesday August 18, 2015
 
@@ -48,9 +46,7 @@ In these short 16 years, I feel like I have had lifetimes of experiences. I reco
 Your Fellow Rotarian,
 Judson Moore
 
-
 ## My Past Rotary Activity
-
 
 2015 – Present Rotary Club of Austin, Member
 2013 – Rotary Club of Austin, Camp Enterprise, Austin, TX

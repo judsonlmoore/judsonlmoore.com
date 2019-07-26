@@ -2,17 +2,17 @@
 title: Biking to Panorama
 date: 2012-11-03 15:50:36 Z
 categories:
-- Bishkek
+  - Bishkek
 tags:
-- Biking
-- Bishkek
-- Fun
-- Kyrgyzstan
-- Sports
+  - Biking
+  - Bishkek
+  - Fun
+  - Kyrgyzstan
+  - Sports
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/biking-to-panorama/
+link: https://git.judsonlmoore.com/biking-to-panorama/
 wordpress_id: 1937
 ---
 

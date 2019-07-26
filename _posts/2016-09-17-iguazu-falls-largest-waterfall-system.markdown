@@ -2,32 +2,26 @@
 title: The Iguazu Falls Are More Than The World's Largest Waterfall System
 date: 2016-09-17 11:49:24 Z
 categories:
-- Brazil
+  - Brazil
 tags:
-- argentina
-- brazil
-- travel guide
-- waterfalls
+  - argentina
+  - brazil
+  - travel guide
+  - waterfalls
 author: judsonlmoore
 comments: true
 excerpt: 'In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one
   of the grandest natural wonders in the world, the Iguazu Falls. '
 layout: post
-link: https://www.judsonlmoore.com/iguazu-falls-largest-waterfall-system/
+link: https://git.judsonlmoore.com/iguazu-falls-largest-waterfall-system/
 wordpress_id: 5365
 ---
 
 ## Iguazu Falls Recap
 
-
 My journey to the Iguazu Falls is woven with **the most thrilling story I have to tell**. The majestic landscape of the Falls is nearly indescribable. I will do my best here to not only describe the experience I had, but to also convince you to make a visit as soon as possible. The story I will tell is one of a desperate, young (clueless), American backpacker and the most beautiful place with a surprise lurking around every corner. **Buckle up, this ride is going to get a little bumpy!**
 
-
-
-
-
 ## In A Nutshell
-
 
 **Highlights -** The Iguazu Falls Park is clean, well-organized, affordable, and unbelievably breathtaking. The border crossings between Brazil, Argentina, and Paraguay give stamps and you can be in all three countries in one day.
 
@@ -35,13 +29,7 @@ My journey to the Iguazu Falls is woven with **the most thrilling story I have t
 
 **Bottom Line -** This is a must visit destination. Just be vigilant in exercising all your traveling best-practices and everything will be great. If you can, stay overnight at the resort inside of the Iguazu Falls Park on the Argentinian side.
 
-
-
-
-
-
 ## Why I Chose To Visit The Iguazu Falls
-
 
 My visit to the Iguazu Falls came on the 89th day after I arrived in Brazil. Why on this day? Tourist visa rules, that's why! My plan was to take a quick day trip in to Argentina to see that side of the Iguazu Falls and then come back to Brazil to continue the rest of my 6-month journey around the country. I somehow did not know what to expect about the Iguazu Falls, just that **I had received many recommendations to go there**. Ultimately, I did make the trip due to this visa situation.
 
@@ -49,9 +37,7 @@ After a 10-hour overnight bus ride from Santa Fé, where I first saw **the Milky
 
 [caption id="attachment_5531" align="alignnone" width="1024"]![Iguazu Falls flowing over green outcrop](../assets/images/2016/09/iguazu-falls-flowing-over-green-outcrop.jpg) Iguazu Falls flowing over green outcrop[/caption]
 
-
 ## Upon Arrival to the Iguazu Falls
-
 
 Because I arrived and departed in the early morning and evening darkness, it took me a long time to realize that **Foz do Iguazu is actually a fairly substantial city**. You can easily spend a few days here enjoying nature and hopping across the Friendship Bridge into Paraguay to do some shopping. However, since I just knew to see the waterfalls, that is pretty much all I did. Even this made the time and effort well worth it.
 
@@ -63,9 +49,7 @@ The day was a bit rainy and I was visiting in the off-season, so I felt like I h
 
 [caption id="attachment_5532" align="alignnone" width="1024"]![Iguazu Falls Panorama](../assets/images/2016/09/iguazu-falls-panorama.jpg) Iguazu Falls Panorama[/caption]
 
-
 ## A Walk Through The Rain Forest
-
 
 My visit to the Iguazu Falls was unsurprisingly focused on seeing water falling down the side of cliffs. I had just spent a few months in the more northern and tropical parts of Brazil, so on this particularly rainy day I didn't expect much more than to interact with water.
 
@@ -83,11 +67,7 @@ You could spend days in the Iguazu Falls Park exploring these amazing trails and
 
 The official tourism website for the Argentinian side of the Iguazu Falls has great information about all the trails in the Park. Just [visit their website](http://www.iguazuargentina.com/en) and select one of the trails from the main menu. At the bottom of each of those pages is an awesome interactive map like this one. This map is for the **Devil's Throat Trail**.
 
-
-
-
 ## Going Off-Road and Off-Land to the Iguazu Falls
-
 
 Now on to the main event! Though you can walk down to water's edge below the Iguazu Falls, I needed to rest after the hiking.
 
@@ -103,15 +83,11 @@ We made a few passes by the waterfalls, each time approaching from a different a
 
 [caption id="attachment_5530" align="alignnone" width="1024"]![Iguazu Falls view from below](../assets/images/2016/09/iguazu-falls-view-from-below.jpg) Iguazu Falls view from below[/caption]
 
-
 ## Dinner, And Then One More Adventure
-
 
 After this exhausting day of hiking, boating, and getting a bit wet, I satisfied my extreme hunger by devouring a steak at the [Sheraton Resort](http://www.booking.com/hotel/ar/sheraton-iguazu-resort-spa.html?aid=1176739) which is inside the Argentinian side of the Iguazu Falls Park. I wish I had the money to get a room there, but just dinner was breaking the bank! It looked like a magnificent place to stay, and **the steak is one of the best I have ever had**.
 
-
 ## One Last Adventure
-
 
 Now I was out of money, out of energy, and out of time. I had a bus to catch back across the border and I needed to get going or be stranded without a place to stay. **I easily caught a cab from the Iguazu Park entrance** and as the sunset behind me, I arrived back to the border.
 
@@ -125,48 +101,29 @@ Years later, I realize that this was likely **a scam to get bribe money**. I did
 
 Furthermore, though at the time this passport stamp issue instilled some degree of panic and stress in me, I now realize that this sort of thing simply happens in certain parts of the world, and that the best thing to do is **remain calm, stick by your morals, and follow the law.** Don't pay bribes, and if you have to, play stupid. I _was_ stupid, and that helped!
 
-
 ## Further Iguazu Falls Resources
-
 
 **Official **
 
+- **[Iguazu Argentina](http://www.iguazuargentina.com/)** (official) - The official tourism site for the Argentinian side of the Iguazu Falls.
 
+- [**Visit Foz**](http://www.visitefoz.com.br/en/) (official) - The official tourism site for the Brazilian city of Foz do Iguazu.
 
- 	
-  * **[Iguazu Argentina](http://www.iguazuargentina.com/)** (official) - The official tourism site for the Argentinian side of the Iguazu Falls.
-
- 	
-  * [**Visit Foz**](http://www.visitefoz.com.br/en/) (official) - The official tourism site for the Brazilian city of Foz do Iguazu.
-
- 	
-  * **[Iguazu Falls on WikiTravel](http://wikitravel.org/en/Igua%C3%A7u_Falls)** - This site is one of the very best resources for travel anywhere! Pair this with the Pocket App ([iOS](https://www.judsonlmoore.com/get/pocket-ios/) | [Android](https://www.judsonlmoore.com/get/pocket-android/)) to compile your own awesome offline travel guides!
-
+- **[Iguazu Falls on WikiTravel](http://wikitravel.org/en/Igua%C3%A7u_Falls)** - This site is one of the very best resources for travel anywhere! Pair this with the Pocket App ([iOS](https://www.judsonlmoore.com/get/pocket-ios/) | [Android](https://www.judsonlmoore.com/get/pocket-android/)) to compile your own awesome offline travel guides!
 
 **From around the blogosphere**
 
+- [**Six Things Nobody Tells You About Iguazu Falls**](http://globetrottergirls.com/2013/08/things-nobody-tells-you-about-iguazu-falls/) - \_by Dani of globetrot_tergirls.com
 
+- **[Igauzu Falls Travel Guide & Tips](http://wanderingtrader.com/iguazu-falls/travel-guide/)** - by Marcello Arrambide of wanderingtrader.com
 
- 	
-  * [**Six Things Nobody Tells You About Iguazu Falls**](http://globetrottergirls.com/2013/08/things-nobody-tells-you-about-iguazu-falls/) - _by Dani of globetrot_tergirls.com
+- **[A guide to Iguazu Falls](https://blog.hihostels.com/2013/06/a-guide-to-iguazu-falls/)** - by Bronwyn Hager on Hosteling International
 
- 	
-  * **[Igauzu Falls Travel Guide & Tips](http://wanderingtrader.com/iguazu-falls/travel-guide/)** - by Marcello Arrambide of wanderingtrader.com
+- **[Meine besten Tipps zum Besuch der Iguazu Fälle](http://backpacker-blog.org/tipps-besuch-iguazu-faelle/)** - by Jörg of backpacker-blog.org
 
- 	
-  * **[A guide to Iguazu Falls](https://blog.hihostels.com/2013/06/a-guide-to-iguazu-falls/)** - by Bronwyn Hager on Hosteling International
-
- 	
-  * **[Meine besten Tipps zum Besuch der Iguazu Fälle](http://backpacker-blog.org/tipps-besuch-iguazu-faelle/)** - by Jörg of backpacker-blog.org
-
- 	
-  * _Have a post to add to this list? Please [contact me](https://www.judsonlmoore.com/contact/)._
-
-
-
+- _Have a post to add to this list? Please [contact me](https://www.judsonlmoore.com/contact/)._
 
 ## That's a Wrap!
-
 
 I Love The Iguazu Falls and I hope you will go there one day! Have you been there already? Are you planning a trip soon? I would love to hear from you about your plans or experience! Please leave me a comment below, or connect with me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore). Travel safely!
 _Featured Photo by [Marco Aurélio Silva Neto](https://www.flickr.com/photos/marcoaurelioneto/)_

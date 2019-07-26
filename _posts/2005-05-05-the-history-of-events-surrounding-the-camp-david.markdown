@@ -2,13 +2,13 @@
 title: The History of Events Surrounding the Camp David Accords
 date: 2005-05-05 04:00:00 Z
 categories:
-- College Papers
+  - College Papers
 tags:
-- Politics
+  - Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/the-history-of-events-surrounding-the-camp-david/
+link: https://git.judsonlmoore.com/the-history-of-events-surrounding-the-camp-david/
 wordpress_id: 151
 ---
 
@@ -128,9 +128,9 @@ SOURCES
 
 10 Nitza Nachmias, _Transfer of Arms, Leverage, and Peace in the Middle East _(New York: Greenwood Press, 1988), 94.
 
-11 _Jimmy Carter Presidential Daily Diary_, September 10, 1978 [database on-line]; available from the Jimmy Carter Presidential Library, [http://jimmycarterlibrary.org/documents/diary/1978/d091078t.pdf;](http://jimmycarterlibrary.org/documents/diary/1978/d091078t.pdf;) Internet; accessed 4 May 2005.
+11 *Jimmy Carter Presidential Daily Diary*, September 10, 1978 [database on-line]; available from the Jimmy Carter Presidential Library, [http://jimmycarterlibrary.org/documents/diary/1978/d091078t.pdf;](http://jimmycarterlibrary.org/documents/diary/1978/d091078t.pdf;) Internet; accessed 4 May 2005.
 
-12 _Negotiations – First Few Days_; [http://www.ibiblio.org/sullivan/Negotiations-1.html](http://www.ibiblio.org/sullivan/Negotiations-1.html) 1.html; Internet; accessed 4 May 2005.
+12 *Negotiations – First Few Days*; [http://www.ibiblio.org/sullivan/Negotiations-1.html](http://www.ibiblio.org/sullivan/Negotiations-1.html) 1.html; Internet; accessed 4 May 2005.
 
 13 Karen A. Feste, _Plans for Peace: Negotiation and the Arab-Israeli Conflict _(New York: Praeger, 1991), 34.
 

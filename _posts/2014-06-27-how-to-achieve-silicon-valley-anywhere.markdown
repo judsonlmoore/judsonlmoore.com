@@ -2,17 +2,17 @@
 title: How to Achieve Silicon Valley Anywhere [crosspost]
 date: 2014-06-27 04:45:00 Z
 categories:
-- Philanthropy
+  - Philanthropy
 tags:
-- Austin
-- Brazos Tech District
-- Community
-- Mutual Mobile
-- publications
+  - Austin
+  - Brazos Tech District
+  - Community
+  - Mutual Mobile
+  - publications
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/how-to-achieve-silicon-valley-anywhere/
+link: https://git.judsonlmoore.com/how-to-achieve-silicon-valley-anywhere/
 wordpress_id: 2623
 ---
 
@@ -28,25 +28,19 @@ In an attempt to address these social and logistical issues, my partner, Ed Ires
 
 In this year, we welcomed 10 businesses and more than 1,000 individuals into the Brazos Tech District, but more importantly we’ve learned some invaluable lessons about what it takes to successfully cultivate a tech community outside of Silicon Valley.
 
-
 ## Keep it organic
-
 
 Try as you might, it’s nearly impossible to force people to participate in anything. In order to successfully create a community like the Brazos Tech District, it has to be an organic evolution; though that’s not to say that the process can’t occur without some strategic effort. It has to be planned. Proof of that came from our own city’s Chamber of Commerce, which tried to create geographic communities several years ago, but lack of direction and lack of business interest caused its plan to fail.
 
 There’s a time and a place when something is going to work; it cannot be forced. In this instance, we saw a need in our community — a lack of viable parking and transportation options for downtown tech employees — and assumed that we were not alone in this need. We provided a unique solution to a familiar pain point, and have seen community interest and involvement as a result.
 
-
 #### Identify your stakeholders early
-
 
 This should go without saying, but targeting the correct stakeholders is one of the easiest ways to create a successful community. For the Brazos Tech District, it was important that we represented a specific geographic region — so important that we included that region in the organization’s name, and we stick to it. Stay true to your boundaries. Figure out what you want to achieve, how you are going to do that, and who you plan to represent, and make no exceptions. It might seem a little exclusive, but history has shown that trying to please everyone often results in pleasing no one. Keeping to your own goals is important.
 
 Not only do you need to find the right people, but you need to get them on board early, and gather people with as many diverse viewpoints as possible. While the Brazos Tech District is built around individuals within a specific geographic area of downtown Austin, it includes tech companies, churches, transportation providers and community organizations. The key is to make sure all stakeholders are helping your community to fulfill your overall needs; bringing the wrong people on board might cause everything to fall apart.
 
-
 ## Generate engagement
-
 
 Building a community means nothing if you can’t get people to actually participate. It’s important to create activities that further your mission, whether it be a social mission or more logistical. At the Brazos Tech District, we have both.
 

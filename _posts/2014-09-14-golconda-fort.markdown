@@ -2,17 +2,17 @@
 title: Golconda Fort
 date: 2014-09-14 13:57:38 Z
 categories:
-- Hyderabad
+  - Hyderabad
 tags:
-- Architecture
-- Fort
-- History
-- India
-- Ruins
+  - Architecture
+  - Fort
+  - History
+  - India
+  - Ruins
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/golconda-fort/
+link: https://git.judsonlmoore.com/golconda-fort/
 wordpress_id: 3053
 ---
 
@@ -23,7 +23,5 @@ The fort's original buildings are over a thousand years old and have been extens
 The massive inner compound is similar to Disney Land, in that you could be here for a week and likely not see everything. Ascending to the top of the hill is quite the trek, but the panoramic views of the city below are stunning.
 
 As I explored the grounds of the fort, I felt like I was on a treasure hunt, imaging where the diamond once rested. It was a surreal experience to be in this place so far from home, but which had such a strong connection with one of my most vivid childhood memories. I frequented the fort while living in Hyderabad, and if ever I return to the area, I will no doubt visit here again.
-
-
 
 [gallery type="rectangular" link="none" ids="4069,4070,4071,4072,4073,4074,4075,4076,4077,4078,4079,4080,4081,4082,4083,4084,4085,4086,4087,4088,4089,4090,4092,4093,4095,4096,4097,4098,4099,4100"]

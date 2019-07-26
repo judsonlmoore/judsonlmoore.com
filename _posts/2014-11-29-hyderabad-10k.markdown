@@ -2,19 +2,19 @@
 title: The Annual Hyderabad 10k Around The Hussain Sagar Lake
 date: 2014-11-29 13:20:20 Z
 categories:
-- Hyderabad
+  - Hyderabad
 tags:
-- Fitness
-- Health
-- Hyderabad
-- India
-- Running
+  - Fitness
+  - Health
+  - Hyderabad
+  - India
+  - Running
 author: judsonlmoore
 comments: true
 excerpt: The annual Hyderabad 10k is a massive city-wide event with olympian leaders,
   beautiful scenery and live music on at every kilometer.
 layout: post
-link: https://www.judsonlmoore.com/hyderabad-10k/
+link: https://git.judsonlmoore.com/hyderabad-10k/
 wordpress_id: 3064
 ---
 
@@ -22,8 +22,6 @@ wordpress_id: 3064
 
 The VIP at the starting line was renowned Indian track Olympian, [Milkha Singh](https://en.wikipedia.org/wiki/Milkha_Singh).
 
-
 ## Photos From The 2014 Hyderabad 10k
-
 
 [gallery link="none" type="rectangular" ids="3141,3142,3143,3144,3145,3146"]

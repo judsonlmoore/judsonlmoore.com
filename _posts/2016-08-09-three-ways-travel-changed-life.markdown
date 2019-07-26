@@ -2,36 +2,25 @@
 title: Three Ways Travel Changed My Life When I Was Young
 date: 2016-08-09 16:17:57 Z
 categories:
-- Lifestyle
+  - Lifestyle
 author: bobmoore
 comments: true
 excerpt: My father tells of a romantic encounter from his youth while traveling in
   the Caribbean Islands which forever changed his life.
 layout: post
-link: https://www.judsonlmoore.com/three-ways-travel-changed-life/
+link: https://git.judsonlmoore.com/three-ways-travel-changed-life/
 wordpress_id: 5123
 ---
 
 <blockquote>I am thrilled to have my father, Bob Moore, be the first guest author on my blog! The following is an account of how travel changed his life at an early age. Maybe this is where I got it from? It's a beautiful story, with a great lesson to each each of us. I hope you enjoy it and that you will leave a comment below. You can also reach me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).</blockquote>
 
-
-
-
 ## Three Ways Travel Changed My Life
 
+1. Travel changed my college major and career aspirations.
 
+2) Travel enabled me to overcome recalcitrant racist feelings.
 
-
-
- 	
-  1. Travel changed my college major and career aspirations.
-
- 	
-  2. Travel enabled me to overcome recalcitrant racist feelings.
-
- 	
-  3. Travel precipitated a break-up with the girl I thought I would marry.
-
+3. Travel precipitated a break-up with the girl I thought I would marry.
 
 When I was 21 years old, I had an opportunity to spend ten weeks doing service work on a Caribbean island. It was a genuine island paradise, with wonderful beaches, rain forest mountains, and exotic people. Having been raised in the rural South of the United States, I had traveled little, and never internationally.
 

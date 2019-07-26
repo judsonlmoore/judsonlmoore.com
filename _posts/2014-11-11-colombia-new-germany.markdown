@@ -2,39 +2,34 @@
 title: 'Colombia Is The New Germany: A Rotary Youth Exchange Reunion'
 date: 2014-11-11 19:36:05 Z
 categories:
-- Colombia
+  - Colombia
 tags:
-- Colombia
-- reunion
-- Rotary
-- RYE
-- South America
-- Travel
+  - Colombia
+  - reunion
+  - Rotary
+  - RYE
+  - South America
+  - Travel
 author: judsonlmoore
 comments: true
 excerpt: I spend two weeks in Colombia with old friends exploring the hottest destinations,
   eating the most delicious food, and learning to dance in the streets!
 layout: post
-link: https://www.judsonlmoore.com/colombia-new-germany/
+link: https://git.judsonlmoore.com/colombia-new-germany/
 wordpress_id: 2934
 ---
 
 ## A Reunion In Colombia
 
-
 I recently made a 12-day trip to Colombia to reunite with a few friends from my year as a [Rotary Youth Exchange Student](https://www.judsonlmoore.com/location/germany/) in Germany. We visited several fantastic places around the country and had the best local insight available thanks to Alejandro Borda who organized our time in his country and made sure we were well-entertained.
 
-
 ## Bogotá: The Capital of Colombia
-
 
 Our first days were spent in the capital city, Bogotá. On the first day we explored the Monastery, [Cerro de Monserrate](http://en.wikipedia.org/wiki/Monserrate), which has breathtaking panoramic views of Bogotá. After some photo ops with local school children, we went down into the city center and spent several hours at [The Gold Museum](http://en.wikipedia.org/wiki/Gold_Museum,_Bogot%C3%A1). This museum is the most extensive collection of gold artifacts in the world. Located in a region of town called [La Candelaria](http://en.wikipedia.org/wiki/La_Candelaria) (the old town), the museum is next to the national capital and some very interesting architecture.
 
 [gallery link="none" ids="2937,2938,2939,2940,2941,2942,2943,2944,2945,2946,2947"]
 
-
 ## Cartagena: Costal Paradise of Colombia
-
 
 After having a chance to recover from jet lag, we headed to the coastal city of Cartagena. This is one of the most visited destinations in Colombia for the rich and the famous; we had just missed Prince Charles by a few days.  The Old City is where you want to spend all of your time in Cartagena. The beaches there are dirty so you will need to leave the city or go out to the islands to find the clear water (easily done by boat). There is an old fort in Cartagena, [Castillo San Felipe de Barajas](http://en.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas), which is totally worth checking out. Other than that, everything is either far away or just in the Old City.
 
@@ -46,9 +41,7 @@ I found that the souvenir shopping was pretty "meh." If you see one street ven
 
 [gallery link="none" ids="2948,2949,2950,2951,2952,2953,2954,2955"]
 
-
 ## Isla Palma: A Drug-Induced Island of Colombia
-
 
 The destination that we considered to be, at least during the planning phase, the main event, was the 3-day all-inclusive visit to Isla Palma, an island resort which used to be the summer home of famed drug cartel boss, Pablo Escobar.
 
@@ -58,9 +51,7 @@ Between the jungle flora and fauna and the sense of adventure that this forgotte
 
 [gallery link="none" ids="2959,2960,2964,2963,2961,2958,2957,2965,2956"]
 
-
 ## Villa de Leyva: Mountain Adventures
-
 
 Our next destination is the preserved town of [Villa de Leyva](http://en.wikipedia.org/wiki/Villa_de_Leyva). Located a 4-hour drive north from Bogotá nestled in rolling hills and a landscape that was, to me, what I expected Colombia to look and feel like. The architecture is uniform: white stucco with red tile roofs. The streets are paved in stones, and I must admit, the ladies here wearing high heels are even braver and more graceful than the Kyrgyz women who wear heels in winter, which is really saying something!
 
@@ -72,47 +63,35 @@ This day was full of adventure and beauty, all complete before lunch!
 
 [gallery link="none" ids="2975,2976,2974,2977,2979,2985,2980,2981,2982,2983,2984,2978"]
 
-
 ## Salt Cathedral of Zipaquirá
-
 
 Near Bogotá is the [Salt Cathedral of Zipaquirá](http://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1). If you go to Colombia and don't go here, you should truly feel like you've missed out on something grand. Dubbed, "a wonder of the world, the first wonder of Colombia," photos can't do this place justice. Just get there.
 
 [gallery link="none" ids="2998,2997,2996,2995,2994,2993,2992,2991,2990,2989,2988,2987"]
 
-
 ## The World's Tackiest, Funnest, and Tastiest Steakhouse
-
 
 We celebrated our final evening in Colombia in grand fashion with incredible food, drinks and dancing. The most famous place to eat in all of Colombia is [Andrés Carne de Res](http://www.andrescarnederes.com/). There are 2 locations in Bogotá. One is in the city center (fashion district) and is new and corporate feeling. The original location is just outside of town. If you get a chance, go to the out-of-town location. It's like Hard Rock Cafe, Cracker Barrel, Tex Mex, BBQ and a hoarder-artist estate sale had a freak baby who turned out to be a culinary prodigy. Andrés Carne de Res is the best place to eat, drink, and party on the weekends. Closes at 3am. Prepare for steep prices on the drinks, but it's well worth it. The food is very reasonably priced and the best meat that I had in all of Colombia (which is REALLY saying something!)
 
 [gallery link="none" ids="2970,2969,2968,2972,2971"]
 
-
 ## A Surprising Place For The Best Breakfast
-
 
 [Crepes and Waffles](http://crepesywaffles.com.co/) is a chain that employees only women (well, a few men) who come from very bad domestic situations in rural areas and need an escape. The food is incredible, the prices low and the cause just. There is one in the Bogotá Airport, which I actually ate at on-arrival and for my last meal. No regrets there.
 
 A note about Lemonades: On every menu anywhere you will see a section for "Lemonades." This is not what we would think of Lemonade in the USA. It's more like fresh-juices, blended with ice. They are incredible.
 
-
 ## Getting a Colombian SIM Card
 
-
-A good thing to note if you are traveling to Colombia is that Uber works very well in Bogotá but nowhere else. That said, you should get a SIM card with data when you land at the airport. The service provider I had is called Movistar. It cost me ~$7 / week for 800 MB of data and was very reliable everywhere I went. Public WiFi isn't really a thing, and most coffee shop WiFi will want you to authenticate using a pin code that they send to your cell by SMS. So you need the service.
+A good thing to note if you are traveling to Colombia is that Uber works very well in Bogotá but nowhere else. That said, you should get a SIM card with data when you land at the airport. The service provider I had is called Movistar. It cost me ~\$7 / week for 800 MB of data and was very reliable everywhere I went. Public WiFi isn't really a thing, and most coffee shop WiFi will want you to authenticate using a pin code that they send to your cell by SMS. So you need the service.
 
 English isn't common, so bring a pocket translator with you (or use the Google Translate app if you get that data SIM card) if you don't have any Spanish skills.
 
-
 ## A Learned Best Practice
-
 
 I have found that [WikiTravel](http://wikitravel.org/) is the best website in the travel. I am a big fan of the app, [Pocket](http://getpocket.com/a/). It is a read-later app which allows you to download websites and articles for later offline reading. I saved all the WikiTravel pages to Pocket for all the places I was planned to go, that way when I arrived I could always reference locations and history. There is a balance to maintain between being well-informed and ruining the surprise for yourself, but at least having access to some information is very helpful. I prefer WikiTravel to Wikipedia because it's more topical facts like "see this; it is at this location" rather than the whole history of the place. It's also better (to me) than Trip Advisor because there are no ads, and it downloads more easily.
 
-
 ## My Dirty Little Secret
-
 
 I make some bold statements here about places being "the best available." How could I know this, I was just there for a short time! Well, the trip was organized by a friend of mine who is from Colombia (Bogotá) and who has travelled extensively throughout the country with his job (producing video and photo shoots for Colombia's top models) and he knows the ins and outs of everything there. If you plan a trip to Colombia, you will be well-served to follow my footsteps!
 

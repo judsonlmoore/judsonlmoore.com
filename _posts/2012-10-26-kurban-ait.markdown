@@ -2,16 +2,16 @@
 title: Kurban Ait
 date: 2012-10-26 14:03:54 Z
 categories:
-- Bishkek
+  - Bishkek
 tags:
-- Bishkek
-- Holiday
-- Kyrgyz Culture
-- Kyrgyzstan
+  - Bishkek
+  - Holiday
+  - Kyrgyz Culture
+  - Kyrgyzstan
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/kurban-ait/
+link: https://git.judsonlmoore.com/kurban-ait/
 wordpress_id: 1951
 ---
 

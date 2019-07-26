@@ -2,20 +2,20 @@
 title: 'Bogotá: A Capital of More Romantic Times and a Beautiful Nation'
 date: 2014-11-01 08:36:48 Z
 categories:
-- Colombia
+  - Colombia
 tags:
-- Colombia
-- reunion
-- Rotary
-- RYE
-- South America
-- Travel
+  - Colombia
+  - reunion
+  - Rotary
+  - RYE
+  - South America
+  - Travel
 author: judsonlmoore
 comments: true
 excerpt: In Colombia's capital city, Bogotá, one finds themselves taken to a time
   when romance lived permanently in the air and anything was possible.
 layout: post
-link: https://www.judsonlmoore.com/bogota/
+link: https://git.judsonlmoore.com/bogota/
 wordpress_id: 3000
 ---
 
@@ -23,4 +23,4 @@ Our first days were spent in the capital city, Bogotá. On the first day we exp
 
 [gallery link="none" ids="2937,2938,2939,2940,2941,2942,2943,2944,2945,2946,2947"]
 
-*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).
+\*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).

@@ -2,18 +2,18 @@
 title: LSU Alumni Magazine Article - Spring 2012
 date: 2012-03-17 22:07:00 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Kyrgyzstan
-- LSU
-- LSU Alumni
-- Peace Corps
-- Published
-- Talas
+  - Kyrgyzstan
+  - LSU
+  - LSU Alumni
+  - Peace Corps
+  - Published
+  - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-spring-2012/
+link: https://git.judsonlmoore.com/lsu-alumni-magazine-article-spring-2012/
 wordpress_id: 6
 ---
 
@@ -35,6 +35,6 @@ You may visit [http://KyrgyzMedia.com](http://KyrgyzMedia.com) to see the develo
 
 I wish you and yours a prosperous 2012 and encourage you to work for the betterment of the community in which you live!  As always, you may follow my adventure at [https://www.judsonlmoore.com](https://www.judsonlmoore.com).
 
-__
+\_\_
 
 Source: LSU Alumni Magazine, Spring 2012 Edition, p. 78 [http://issuu.com/lsualumni/docs/spring2012_lsuaamag](http://issuu.com/lsualumni/docs/spring2012_lsuaamag)

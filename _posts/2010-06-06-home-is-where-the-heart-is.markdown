@@ -2,24 +2,21 @@
 title: 'What I Would Have Said: Home Is Where the Heart Is.'
 date: 2010-06-06 08:19:00 Z
 categories:
-- Los Angeles
+  - Los Angeles
 author: judsonlmoore
 comments: true
 excerpt: My heart has found a new place to call home in Los Angeles and I owe it all
   to this very special group of community leaders and humanitarians.
 layout: post
-link: https://www.judsonlmoore.com/home-is-where-the-heart-is/
+link: https://git.judsonlmoore.com/home-is-where-the-heart-is/
 wordpress_id: 96
 ---
 
 _Photo Credit: [Volkan Olmez](https://unsplash.com/@volkanolmez)_
 
-
 Had I the opportunity to address tonight’s audience at the celebration of the 10th Anniversary of the [Rotaract Club of Southbay](http://portal.clubrunner.ca/7780/SitePage/district-clubs/southbay-rotaract-club), I would have said this:
 
-
 ## Home Is Where The Heart Is
-
 
 In 2006 I made my first journey to Los Angeles.  I was 1 of 6 delegates representing the Rotaract Club of LSU to the 2006 USCC Conference hosted at UCLA by Rotaract District 5280.  This is also when I was first acquainted with the Rotaract Club of Southbay and a few of their illustrious members: Cheryl, Claudia, Megan, Tori, Jonathan and of course, Roderick (to name a few).
 

@@ -2,18 +2,18 @@
 title: LSU Alumni Magazine Article – Winter 2012
 date: 2012-12-02 02:44:09 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Kyrgyzstan
-- LSU
-- LSU Alumni
-- Peace Corps
-- Published
+  - Bishkek
+  - Kyrgyzstan
+  - LSU
+  - LSU Alumni
+  - Peace Corps
+  - Published
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-winter-2012/
+link: https://git.judsonlmoore.com/lsu-alumni-magazine-article-winter-2012/
 wordpress_id: 2047
 ---
 
@@ -35,8 +35,8 @@ The overwhelming support from Tiger Nation has been such a help to my making it 
 
 You may continue to follow my adventure at https://www.judsonlmoore.com and @JudsonLMoore.
 
-Yours In Service & GEAUX TIGERS!
---
+## Yours In Service & GEAUX TIGERS!
+
 Judson L Moore
 US Peace Corps 2011-13
 Volunteer, Bishkek Kyrgyzstan

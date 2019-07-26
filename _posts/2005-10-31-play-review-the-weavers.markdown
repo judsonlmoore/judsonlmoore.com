@@ -2,67 +2,34 @@
 title: 'Play Review: The Weavers'
 date: 2005-10-31 08:00:00 Z
 categories:
-- College Papers
+  - College Papers
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/play-review-the-weavers/
+link: https://git.judsonlmoore.com/play-review-the-weavers/
 wordpress_id: 146
 ---
 
-            _The Weavers_, by Gerhart Hauptman, is a play about the suppressed weavers of Peterswaldu, Langenbielau, and Kaschbach, Germany.  This story tells about their efforts to liberalize themselves from the trappings of poverty and the social structure which keeps them there.  This struggle leads into a violent revolt which ends with innocent death.  Before the events of the play can be outlined in any detail, I will introduce a few of the main characters.
+_The Weavers_, by Gerhart Hauptman, is a play about the suppressed weavers of Peterswaldu, Langenbielau, and Kaschbach, Germany.  This story tells about their efforts to liberalize themselves from the trappings of poverty and the social structure which keeps them there.  This struggle leads into a violent revolt which ends with innocent death.  Before the events of the play can be outlined in any detail, I will introduce a few of the main characters.
 
+Dreissiger is a local merchant and owner of a textile production company.  The weavers come to him once a week to sell him the cloth that they have made and to obtain new yarn in which to make more for the next month.  Dreissiger pays the weavers too little because he says that the cloth is not in high demand on the market.  Yet at the same time he is able to employ 200 additional weavers.  He uses the excuse that he is just trying to help, but in reality he is exploiting the workers.
 
+Pfeifer is the cashier for Dreissiger.  He is abusive of his power to pay the weavers as little as he wants and constantly bullies on them for not producing high-quality enough fabrics.  When the revolt begins, the weavers blame him for many of their problems because he has been so abusive towards them, and he represents the face of this abuse.
 
+Baecker is a weaver who publicly complains about the abuse and insufficient prices of the cloths from Pfeifer.  He is the first to stand up in objection to the unfairness of the weaver’s situations and is the reason why the weavers eventually rise up against Dreissiger.
 
-            Dreissiger is a local merchant and owner of a textile production company.  The weavers come to him once a week to sell him the cloth that they have made and to obtain new yarn in which to make more for the next month.  Dreissiger pays the weavers too little because he says that the cloth is not in high demand on the market.  Yet at the same time he is able to employ 200 additional weavers.  He uses the excuse that he is just trying to help, but in reality he is exploiting the workers.
+Jaeger is a German soldier and nephew of the weaver Baumert.  He sings a song to his uncle which encourages him to unite the weavers, and because of his military experience he is able to assist in the structure of the weaver’s organization and how they should plan to fight.
 
+Old Hilse is a weaver who remains neutral during the revolution.  He becomes an innocent victim of the revolt when he is killed by a stray bullet while he is weaving.  Old Hilse is the character which delivers the most of Hauptman’s message to the audience.
 
+_The Weavers_ is a five act play.  The first act opens in Dreissiger’s house where weavers are lined up to sell their ‘webs’, or cloth.  They are receiving their payments from Pfeifer, which are extremely low, and Pfeifer is verbally abusing them and the quality of their work.  Weaver Baeker stands up against this treatment, especially about the excessively low prices and causes a huge scene.  The weavers start to align behind him in agreement, but Dreissiger enters and puts an end to the commotion and convinces Baecker to leave.  Just as Baecker is about to leave, a boy enters the scene and passes out on the floor.  This causes lots of panic and confusion amongst everyone in the room.  Dreissiger takes the boy into his office and puts him on the couch, giving him water to help him regain his strength.  Although Baeker has left, the point he made still lingers in the thoughts of those who remained.  The other weavers start to talk about it amongst themselves but Dreissiger interjects and explains to them that he is doing the best he can, that really cares about him, and that it is the market, not him, which is making the prices of the webs so low.
 
+In the second act we are introduced to the Baumert household where a few weavers are discussing their poor and tragic situation.  There are mixed beliefs about what the cause of their misfortune is, but they all agree that something needs to get done about it.  Jaeger, the nephew of the Baumerts enters.  He is in the German military and is well fed and has been able to escape the poverty of his family.  He tells of his new life and recites a song to the house which energized Old Baumert to organize the weavers against Dreissiger and those involved in the textile industry about them.  This song would be known as, “The Dreissiger Song.”
 
-            Pfeifer is the cashier for Dreissiger.  He is abusive of his power to pay the weavers as little as he wants and constantly bullies on them for not producing high-quality enough fabrics.  When the revolt begins, the weavers blame him for many of their problems because he has been so abusive towards them, and he represents the face of this abuse.
+Act three takes place in a tavern called the Tap Room.  The weavers have congregated here to discuss their situation amongst each other and what they should do about it.  The climax of the scene is when Police Officer Kutsche enters the tavern.  The weavers take out a lot of their anger on him and Kutsche quickly realizes that this mob out numbers him and so he leaves.  Before leaving, he tells the weavers that they can no longer sing The Dreissiger Song, under penalty of the law.  In defiance, the weavers start singing the song as soon and Officer Kutsche leaves.
 
+The fourth act of the play takes place in Dreissiger’s house and starts off with a conversation between Pastor Kittelhause’s, his wife, a young man named Weinhold, and the Dreissigers.  Dreissiger is complaining about the song that the weavers are singing.  Weinhold is asked to leave the room when he tells Dreissiger that he thinks it is ok for the weavers to sing their song.  All the while, the weavers are gathering outside of Dreissiger’s house, singing the song and forming a protest against the way Dreissiger has been treating them.  Officer Kutsche and the chief of police enter with Jaeger as a prisoner, and try to coerce him into calming the growing mob.  Jaeger refuses to cooperate and is led into the street into the gathering.  Pastor Kittelhause goes to talk to the crowd and never returns.  The mob overruns the house, but not before Mrs. Kittelhause, the Dreissigers, and Pfeifer are able to escape.
 
+The fifth and final act starts off with Old Weaver Hilse praying quietly in his home.  He has not participated in the rioting and refuses to add to the trouble.  He stays at home instead and weaves.  The mob approaches his house.  It is being led by Jaeger, Baumert, and Baeker, and they try to get Hilse to join them, but he will have no part in this procession.  He tells them that what they are doing is wrong and that they should keep to their own way and weave, not rebel.  So without Hilse, the mob goes on to meet the German soldiers which have come to put them down and fighting ensues.  There are gun shots, and one of the bullets goes astray and tragically kills Old Weaver Hilse as he sits at his loom weaving.
 
-
-            Baecker is a weaver who publicly complains about the abuse and insufficient prices of the cloths from Pfeifer.  He is the first to stand up in objection to the unfairness of the weaver’s situations and is the reason why the weavers eventually rise up against Dreissiger.
-
-
-
-
-            Jaeger is a German soldier and nephew of the weaver Baumert.  He sings a song to his uncle which encourages him to unite the weavers, and because of his military experience he is able to assist in the structure of the weaver’s organization and how they should plan to fight.
-
-
-
-
-            Old Hilse is a weaver who remains neutral during the revolution.  He becomes an innocent victim of the revolt when he is killed by a stray bullet while he is weaving.  Old Hilse is the character which delivers the most of Hauptman’s message to the audience.
-
-
-
-
-            _The Weavers_ is a five act play.  The first act opens in Dreissiger’s house where weavers are lined up to sell their ‘webs’, or cloth.  They are receiving their payments from Pfeifer, which are extremely low, and Pfeifer is verbally abusing them and the quality of their work.  Weaver Baeker stands up against this treatment, especially about the excessively low prices and causes a huge scene.  The weavers start to align behind him in agreement, but Dreissiger enters and puts an end to the commotion and convinces Baecker to leave.  Just as Baecker is about to leave, a boy enters the scene and passes out on the floor.  This causes lots of panic and confusion amongst everyone in the room.  Dreissiger takes the boy into his office and puts him on the couch, giving him water to help him regain his strength.  Although Baeker has left, the point he made still lingers in the thoughts of those who remained.  The other weavers start to talk about it amongst themselves but Dreissiger interjects and explains to them that he is doing the best he can, that really cares about him, and that it is the market, not him, which is making the prices of the webs so low.
-
-
-
-
-            In the second act we are introduced to the Baumert household where a few weavers are discussing their poor and tragic situation.  There are mixed beliefs about what the cause of their misfortune is, but they all agree that something needs to get done about it.  Jaeger, the nephew of the Baumerts enters.  He is in the German military and is well fed and has been able to escape the poverty of his family.  He tells of his new life and recites a song to the house which energized Old Baumert to organize the weavers against Dreissiger and those involved in the textile industry about them.  This song would be known as, “The Dreissiger Song.”
-
-
-
-
-            Act three takes place in a tavern called the Tap Room.  The weavers have congregated here to discuss their situation amongst each other and what they should do about it.  The climax of the scene is when Police Officer Kutsche enters the tavern.  The weavers take out a lot of their anger on him and Kutsche quickly realizes that this mob out numbers him and so he leaves.  Before leaving, he tells the weavers that they can no longer sing The Dreissiger Song, under penalty of the law.  In defiance, the weavers start singing the song as soon and Officer Kutsche leaves.
-
-
-
-
-            The fourth act of the play takes place in Dreissiger’s house and starts off with a conversation between Pastor Kittelhause’s, his wife, a young man named Weinhold, and the Dreissigers.  Dreissiger is complaining about the song that the weavers are singing.  Weinhold is asked to leave the room when he tells Dreissiger that he thinks it is ok for the weavers to sing their song.  All the while, the weavers are gathering outside of Dreissiger’s house, singing the song and forming a protest against the way Dreissiger has been treating them.  Officer Kutsche and the chief of police enter with Jaeger as a prisoner, and try to coerce him into calming the growing mob.  Jaeger refuses to cooperate and is led into the street into the gathering.  Pastor Kittelhause goes to talk to the crowd and never returns.  The mob overruns the house, but not before Mrs. Kittelhause, the Dreissigers, and Pfeifer are able to escape.
-
-
-
-
-            The fifth and final act starts off with Old Weaver Hilse praying quietly in his home.  He has not participated in the rioting and refuses to add to the trouble.  He stays at home instead and weaves.  The mob approaches his house.  It is being led by Jaeger, Baumert, and Baeker, and they try to get Hilse to join them, but he will have no part in this procession.  He tells them that what they are doing is wrong and that they should keep to their own way and weave, not rebel.  So without Hilse, the mob goes on to meet the German soldiers which have come to put them down and fighting ensues.  There are gun shots, and one of the bullets goes astray and tragically kills Old Weaver Hilse as he sits at his loom weaving.
-
-
-
-
-            This play was pretty well written and I think adequately depicted some of the realities and struggles of the poor.  There was a real ‘damned if you do, damned if you don’t’ type message being presented here.  These poverty-stricken people really have hit bottom and have no lives worth living.  They have no social means on which to improve their situations, or any way to advance economically.  Their only options are to die helplessly or to rebel against the social and economic institutions which suppress them.  Unfortunately, what happened in this play was that the rebellious were shot down, and the one that was complacent was made an innocent causality.
+This play was pretty well written and I think adequately depicted some of the realities and struggles of the poor.  There was a real ‘damned if you do, damned if you don’t’ type message being presented here.  These poverty-stricken people really have hit bottom and have no lives worth living.  They have no social means on which to improve their situations, or any way to advance economically.  Their only options are to die helplessly or to rebel against the social and economic institutions which suppress them.  Unfortunately, what happened in this play was that the rebellious were shot down, and the one that was complacent was made an innocent causality.

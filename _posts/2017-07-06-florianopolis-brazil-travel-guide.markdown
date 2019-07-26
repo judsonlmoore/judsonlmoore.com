@@ -2,24 +2,23 @@
 title: Beach, innovation, and majestic views. Welcome to Florianopolis, Brazil.
 date: 2017-07-06 10:00:14 Z
 categories:
-- Brazil
+  - Brazil
 tags:
-- backpacking
-- Beach
-- brazil
-- South America
-- travel guide
+  - backpacking
+  - Beach
+  - brazil
+  - South America
+  - travel guide
 author: judsonlmoore
 comments: true
 excerpt: 'Florianopolis Brazil is a magnificent city with a blend of beach, surfing,
   adventure sport, and a modern city driving Brazilian innovation. '
 layout: post
-link: https://www.judsonlmoore.com/florianopolis-brazil-travel-guide/
+link: https://git.judsonlmoore.com/florianopolis-brazil-travel-guide/
 wordpress_id: 12794
 ---
 
 ## An island of the land
-
 
 Florianopolis has received accolades from The New York Times, Newsweek and others ranging from marking the city as the **party destination of the year **to being in the **top ten most dynamic cities worldwide**.
 
@@ -29,12 +28,7 @@ Though I am starting to feel a bit repetitive in my describing of Brazilian beac
 
 _This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](http://visitbrasil.com/). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
 
-
-
-
-
 ## In A Nutshell
-
 
 **Highlights** - Pristine beaches, dynamic topography, great surfing, reliable waves, modern city.
 
@@ -42,92 +36,53 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 **Bottom line** - If you are in the south of Brazil, then you must visit Florianopolis. The city has something for every person and offers an experience very different from any other Brazilian city. If you are a surfer or avid beachgoer: welcome to paradise.
 
-
-
-
-
-
 ## Orienting yourself around Florianopolis
-
 
 Florianopolis is a large island city off the southern coast of Brazil. It is the capital of the state of Santa Catarina, where [I also visited the Germanesque town of Blumenau](https://www.judsonlmoore.com/blumenau-brazil-travel-guide/). The 33-mile-long island is truly a land of two tales. The ocean-facing side of the island is all about the beach, whereas the land-facing side of the island is a bit more serious about the business and politics of running one of **Brazil's highest standard of living states**. The city does extend into the mainland as well, where around **1 million people** live in the metropolitan area.
 
 Though the city is vibrant with nightclubs, cuisine, and many annual events, perhaps the biggest draw to Florianopolis, and the one which I will focus on in this post is the beaches.
 
-
 ## The beaches of Florianopolis
-
 
 There are a total of 42 beaches in Florianopolis. The best known are:
 
+- North
 
+  - Canasvieiras
 
- 	
-  * North
+  * Brava Beach
 
- 	
-    * Canasvieiras
+  - Jurerê (and Jurerê Internacional)
 
- 	
-    * Brava Beach
+  * InglesesBeach
 
- 	
-    * Jurerê (and Jurerê Internacional)
+  - Ponta das Canas
 
- 	
-    * InglesesBeach
+* East
 
- 	
-    * Ponta das Canas
+  - MoleBeach
 
+  * Galheta Beach (nudist beach)
 
+  - Barra da Lagoa
 
+  * Joaquina Beach
 
- 	
-  * East
+  - Brava Beach
 
- 	
-    * MoleBeach
+- South
 
- 	
-    * Galheta Beach (nudist beach)
+  - Campeche
 
- 	
-    * Barra da Lagoa
+  * Armação
 
- 	
-    * Joaquina Beach
+  - Matadeiro
 
- 	
-    * Brava Beach
+  * Pântano do Sul
 
+  - Solidão
 
-
-
- 	
-  * South
-
- 	
-    * Campeche
-
- 	
-    * Armação
-
- 	
-    * Matadeiro
-
- 	
-    * Pântano do Sul
-
- 	
-    * Solidão
-
- 	
-    * Saquinho
-
-
-
-
+  * Saquinho
 
 I was situated in the eastern (central) area of Florianopolis, so these are the beaches I can speak to best. In particular, **Mole Beach** and **Joaquina Beach**
 
@@ -135,9 +90,7 @@ I was situated in the eastern (central) area of Florianopolis, so these are the
 
 [caption id="attachment_12797" align="alignnone" width="1024"]![Florianopolis, Santa Catarina Brazil, Joaquina Beach](../assets/images/2017/04/Florianópolis-Santa-Catarina-Brazil-Beach.jpg) Florianopolis, Santa Catarina Brazil, Joaquina Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## **Joaquina Beach**
-
 
 The Joaquina Beach is located on the eastern side of the Florianopolis island. This beach has the best surfing in the area, and as such, is the most popular destination for younger visitors. **I cannot catch a wave to save my life**, as you can see in [the video posted in my guide about Porto Seguro](/porto-seguro-brazil-travel-guide/), but I love people-watching and admiring others who can do all the water sports way better than I can.
 
@@ -151,30 +104,22 @@ The other super cool activity at Joaquina Beach, which I did not expect to find
 
 Here is a great video I found with a short driving tour around Florianopolis, and then showing off the beaches and the sandboarding as well.
 
-
-
-
 ## Mole Beach
-
 
 Like other eastern / central beaches Florianopolis, Mole is also all about the surfing. In fact, this beach is nearly exclusively about the surfing. The terrain here is a bit less sandy, so no sandboarding, but there are **several scuba expeditions** which depart from Mole. The surrounding view is really beautiful **with green hills and large rock formations**. I find that the aesthetic of Mole Beach is much more interesting than the more typical sandy beaches.
 
 [caption id="attachment_12801" align="alignnone" width="1024"]![Florianopolis, Santa Catarina Brazil, Mole Beach](../assets/images/2017/04/Florianópolis-Santa-Catarina-Brazil-Surfing.jpg) Florianopolis, Santa Catarina Brazil, Mole Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## Traveling between the mainland and the beaches
-
 
 I usually stick to public transportation when I travel, but this is one bus ride you might want to skip. Depending on the route, the trip from the continental side of Florianopolis to any of the island beaches can easily take **more than an hour, and up to 2.5 hours**. You can not avoid making transfers, and since the island and the mainland are connected by only 3 bridges (of which, the main one pictured below, is closed for renovation as of this writing), makes traffic congestion a problem.
 
-Visiting both sides of Florianopolis is well worth it, just be aware of this. **Uber now operates in Florianopolis**, and for just USD$10-15 each way, you can cut down the drive time from the continental downtown to Mole Beach to about 35 minutes.
+Visiting both sides of Florianopolis is well worth it, just be aware of this. **Uber now operates in Florianopolis**, and for just USD\$10-15 each way, you can cut down the drive time from the continental downtown to Mole Beach to about 35 minutes.
 
 Taking all of that in mind, **Florianopolis is a big place**, so you might like to align your accommodations with the area that you want to focus your time in. That, or switch accommodations after a few days so that you can experience both the island side and the continental side of Florianopolis with greater ease.
 
 [caption id="attachment_12798" align="alignnone" width="1024"]![Florianopolis, Santa Catarina, Brazil, Hercilio Luz Bridge at night](../assets/images/2017/04/Florianópolis-Santa-Catarina-Brazil-Hercilio-Luz-Bridge.jpg) Florianopolis, Santa Catarina, Brazil, Hercilio Luz Bridge at night. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## Learn more about Florianopolis
-
 
 For more information about visiting Florianopolis and the state of Santa Catarina, read [this additional information at VisitBrasil.com](http://www.visitbrasil.com/en/estados/santa-catarina/). In the meantime, **I would love to hear your thoughts and learn about your experiences** by leaving a comment below. Alternatively, you may also connect with me directly on Twitter at [@judsonlmoore](http://twitter.com/judsonlmoore). See you soon!

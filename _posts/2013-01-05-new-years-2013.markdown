@@ -2,26 +2,24 @@
 title: Happy New Year / С новым годом / Жаны жылыныздар менен
 date: 2013-01-05 16:36:53 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Holiday
-- Kyrgyz Culture
-- Kyrgyzstan
-- New Year
-- Party
+  - Bishkek
+  - Holiday
+  - Kyrgyz Culture
+  - Kyrgyzstan
+  - New Year
+  - Party
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/new-years-2013/
+link: https://git.judsonlmoore.com/new-years-2013/
 wordpress_id: 1296
 ---
 
 [gallery link="file" ids="1297,1299,1300,1302,1303"]
 
-
 _Photo Credit: Kloop.kg ([source](http://kloop.kg/blog/kloop_galleries/fejerverki-nad-bishkekom/))_
-
 
 Bringing in 2013 in Kyrgyzstan was quite a spectacular series of events! Unlike in America, New Years Eve is a formal family affair. Imagine combining Thanksgiving, Christmas and New Year all together: Santa Clause (Father Frost) and his grand daughter deliver presents to children on New Years Eve, every house has a New Years Tree decorated almost exactly as westerners would expect to find a Christmas tree and at midnight there are fireworks and champaign to bring it all to a close. All of this is celebrated with family; friends rarely get into the mix.
 

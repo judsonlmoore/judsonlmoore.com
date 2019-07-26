@@ -2,15 +2,15 @@
 title: 'Site Placement: Radiomost 100.5FM'
 date: 2011-05-06 00:11:10 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Kyrgyzstan
-- Peace Corps
-- Talas
+  - Kyrgyzstan
+  - Peace Corps
+  - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/site-placement-radiomost-100-5fm/
+link: https://git.judsonlmoore.com/site-placement-radiomost-100-5fm/
 wordpress_id: 43
 ---
 

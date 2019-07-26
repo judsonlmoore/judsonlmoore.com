@@ -2,20 +2,20 @@
 title: Almanbet's Birthday Cookout
 date: 2012-08-19 20:33:09 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- BBQ
-- Birthday
-- Culture Exchange
-- Day Trips
-- Kyrgyz Culture
-- Kyrgyzstan
-- Mountains
-- Nature
+  - BBQ
+  - Birthday
+  - Culture Exchange
+  - Day Trips
+  - Kyrgyz Culture
+  - Kyrgyzstan
+  - Mountains
+  - Nature
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/almanbets-birthday-cookout/
+link: https://git.judsonlmoore.com/almanbets-birthday-cookout/
 wordpress_id: 770
 ---
 

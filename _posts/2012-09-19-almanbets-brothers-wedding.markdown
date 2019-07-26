@@ -2,18 +2,18 @@
 title: Almanbet's Brother's Wedding
 date: 2012-09-19 03:20:43 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Holiday
-- Kyrgyz Culture
-- Kyrgyzstan
-- Party
-- Wedding
+  - Bishkek
+  - Holiday
+  - Kyrgyz Culture
+  - Kyrgyzstan
+  - Party
+  - Wedding
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/almanbets-brothers-wedding/
+link: https://git.judsonlmoore.com/almanbets-brothers-wedding/
 wordpress_id: 1768
 ---
 

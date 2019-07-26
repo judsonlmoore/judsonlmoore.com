@@ -2,25 +2,24 @@
 title: The Trident Hotel and Poverty
 date: 2014-09-10 03:28:44 Z
 categories:
-- Hyderabad
+  - Hyderabad
 tags:
-- Adventure
-- Hotel Life
-- India
-- Mutual Mobile
-- Poverty
-- Travel
+  - Adventure
+  - Hotel Life
+  - India
+  - Mutual Mobile
+  - Poverty
+  - Travel
 author: judsonlmoore
 comments: true
 excerpt: During a 6-month business trip to India, I was faced with poverty every day
   from the window of my high rise 7-star hotel. What could I do about it?
 layout: post
-link: https://www.judsonlmoore.com/the-trident-hotel-and-poverty/
+link: https://git.judsonlmoore.com/the-trident-hotel-and-poverty/
 wordpress_id: 2885
 ---
 
 ## Living high above the poverty line
-
 
 I've now been living in [Hyderabad, India](http://en.wikipedia.org/wiki/Hyderabad), for about 3 weeks and am starting to get accustomed to my daily schedule and the opportunities presented to me here. The main purpose of my being here is for an extended stay business trip with [Mutual Mobile](https://www.judsonlmoore.com/career/mutual-mobile/) as the project manager for developing a new office in the city for around 100 team members. More on that in a separate post as things develop.
 
@@ -34,9 +33,7 @@ I typically wouldn't write about a hotel, but The Trident Hotel is my new home, 
 
 I have made friends with the several key staff members here who have taken me out and shown me a good time, but I still have cultivated the phrase, "I don't need a house of servants, I need a house of friends!" The hospitality is great for a few days, but I live here now and I don't need everyone putting me on a pedestal all the time. It is very isolating. I have started to explain this to a few people and they seem to understand where I am coming from. Only time will tell if they adjust the way they interact with me or not.
 
-
 ## Beneath my feet, the poverty runs wild
-
 
 There is a strange situation I am faced with every day, and I haven't yet figured out what I can or want to do about it. Each morning, I wake up around 6am to the dawn of a new day. I promptly order a 2-shot cappuccino (This your fault, [Ed Ireson](http://ireson.net)!) and some whole wheat toast from in-room dining and then start checking on emails that I received during the night from Austin.
 
@@ -50,9 +47,7 @@ I am no stranger to poverty. My time in [Brazil](https://www.judsonlmoore.com/br
 
 My struggle in this scene is to decide, "how do I feel about this," and "what can I do about it?" I am very interested in being part of effecting widespread change in people's lives, but I am much more of an institutionalist than I am a one-on-one interaction type. My time working for the [Louisiana Capital Area Red Cross](http://www.redcross.org/local/louisiana/local-chapters/Louisiana-Capital-Area-West) ingrained a sense of institutional impacts being more my forte than being the one pouring the soup in the kitchen.
 
-
 ## So what do I do?
-
 
 I can ignore it, but that gets no one anywhere. I can go down there and talk to the man, but about what? If I go there, what can I offer? Does my going there make any positive impact on him? Maybe he will just be bothered by me, or become more conscious of the fact that hundreds of people can watch him bathe every day. Either way, it seems like my interacting with him will be more about making me feel good about me and less about making a positive impact on him and his life.
 

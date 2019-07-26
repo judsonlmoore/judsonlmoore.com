@@ -2,16 +2,16 @@
 title: Radiomost Office
 date: 2012-06-29 06:42:03 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Kyrgyzstan
-- Peace Corps
-- RadioMost
-- Talas
+  - Kyrgyzstan
+  - Peace Corps
+  - RadioMost
+  - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/radiomost-office/
+link: https://git.judsonlmoore.com/radiomost-office/
 wordpress_id: 791
 ---
 

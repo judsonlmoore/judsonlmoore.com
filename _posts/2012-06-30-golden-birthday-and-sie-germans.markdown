@@ -2,18 +2,18 @@
 title: Golden Birthday and Sie Germans
 date: 2012-06-30 06:39:29 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Birthday
-- Culture
-- Germans
-- Kyrgyzstan
-- Party
-- Talas
+  - Birthday
+  - Culture
+  - Germans
+  - Kyrgyzstan
+  - Party
+  - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/golden-birthday-and-sie-germans/
+link: https://git.judsonlmoore.com/golden-birthday-and-sie-germans/
 wordpress_id: 784
 ---
 
@@ -21,9 +21,7 @@ wordpress_id: 784
 
 29 on the 29th is apparently all the reason needed to bring people from all over Kyrgyzstan to Talas. It was also the site visit weekend for the new group of volunteers (K-20). Dinner and then a house party. It was an epic evening full of friends, food, beer pong and many things which shall never ever be mentioned.
 
-[gallery  include="1724, 1723, 1722, 1721, 1720, 1719, 1718, 1717, 1716, 1715, 1714, 1713, 1712, 1711, 1710, 1709"   link="file"]
-
-
+[gallery include="1724, 1723, 1722, 1721, 1720, 1719, 1718, 1717, 1716, 1715, 1714, 1713, 1712, 1711, 1710, 1709" link="file"]
 
 **Hiking in Besh Tash and Manas Ordo**
 

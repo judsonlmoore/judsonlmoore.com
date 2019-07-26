@@ -2,28 +2,22 @@
 title: Hampi the Fallen Capital of the Vijayanagara Empire in India
 date: 2014-09-29 01:16:22 Z
 categories:
-- India
+  - India
 tags:
-- Adventure
-- Architecture
-- Best Places
-- India
+  - Adventure
+  - Architecture
+  - Best Places
+  - India
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/hampi/
+link: https://git.judsonlmoore.com/hampi/
 wordpress_id: 3226
 ---
 
 ## Hampi: Fallen Seat of an Empire
 
-In south central India, in the heart of  a jungle less-traveled, lies the now sleepy town of Hampi. This village was once home to over 500,000 people and in it's time it was one of the largest cities in the world. Now recognized as a UNESCO World Heritage Site, this former capital of the Vijayanagara Empire is a mere shadow of it's former glory, but what remains is truly breathtaking.
-
-
-
-
-
-
+In south central India, in the heart of a jungle less-traveled, lies the now sleepy town of Hampi. This village was once home to over 500,000 people and in it's time it was one of the largest cities in the world. Now recognized as a UNESCO World Heritage Site, this former capital of the Vijayanagara Empire is a mere shadow of it's former glory, but what remains is truly breathtaking.
 
 ## In A Nutshell
 
@@ -33,15 +27,9 @@ In south central India, in the heart of  a jungle less-traveled, lies the now sl
 
 **Bottom Line -** Hampi is stunning! If you have any opportunity to go here, you must! If you had to choose between here and the Taj Mahal, then choose Hampi!
 
-
-
-
-
-
-
 ## Roadtripping to Hampi
 
-Hampi is my favorite place in India. Period. Nowhere else has come even close. This ancient city has been left mostly in ruins despite it once being the capitol of [Vijayanagar](http://en.wikipedia.org/wiki/Vijayanagara_Empire), a 14th century empire.  Just imagine if Rome had been sacked and was then forgotten; that's basically what happened to Hampi.
+Hampi is my favorite place in India. Period. Nowhere else has come even close. This ancient city has been left mostly in ruins despite it once being the capitol of [Vijayanagar](http://en.wikipedia.org/wiki/Vijayanagara_Empire), a 14th century empire. Just imagine if Rome had been sacked and was then forgotten; that's basically what happened to Hampi.
 
 Speaking of 'sacked,' that's how our drive felt. What should have been a 7-hour drive according to Google Maps, turned out to be a 21-hour nightmare. That is partially because Google Maps lacks the data to provide accurate drive times and traffic conditions in India, and partially because we had a flat tire. And then we had.. another flat tire!
 

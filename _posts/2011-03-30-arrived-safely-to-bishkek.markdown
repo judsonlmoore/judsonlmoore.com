@@ -2,14 +2,14 @@
 title: Arrived Safely to Bishkek!
 date: 2011-03-30 18:58:33 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Peace Corps
+  - Bishkek
+  - Peace Corps
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/arrived-safely-to-bishkek/
+link: https://git.judsonlmoore.com/arrived-safely-to-bishkek/
 wordpress_id: 60
 ---
 

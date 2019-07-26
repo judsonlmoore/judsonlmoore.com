@@ -2,38 +2,31 @@
 title: 'trivago On Tour: Cruise 2017 to Norway and Denmark'
 date: 2017-09-21 16:43:54 Z
 categories:
-- Denmark
-- Norway
+  - Denmark
+  - Norway
 tags:
-- "#lifeattrivago"
-- copenhagen
-- denmark
-- norway
-- Road Trip
-- travel tale
+  - '#lifeattrivago'
+  - copenhagen
+  - denmark
+  - norway
+  - Road Trip
+  - travel tale
 author: judsonlmoore
 comments: true
 excerpt: The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about
   the surprise concerts, unknown destinations, and jumping with moose!
 layout: post
-link: https://www.judsonlmoore.com/trivago-tour-2017/
+link: https://git.judsonlmoore.com/trivago-tour-2017/
 wordpress_id: 18195
 ---
 
 _The opinions expressed in this article are my own and not the views of my employer._
 
-
-
-
-
 ## trivago on Tour: The Pinnacle of Office Culture
-
 
 I have had the good fortune to work at **one of Europe’s best companies** for employee satisfaction: trivago. The hotel metasearch, known worldwide for its guerilla television marketing tactics and services for helping travelers find their ideal hotel at the best available rate, is a German-based company with **an amazing workplace culture**. The cultural highlight of the year for trivago employees is _trivago on Tour_.
 
-
 **Read more: [How metasearch saves me loads of time and money](https://www.judsonlmoore.com/what-is-metasearch/)**
-
 
 trivago on Tour is an annual trip for all trivago employees. The activities and destination are closely guarded secrets, leaving employees with only rumors, hearsay, and dreaming of where the trip might take them until we are already there. [My first trivago on Tour](http://whereisper.com/blog/trivago-on-tour-ibiza) was in 2016 when we chartered a fleet of jets to fly us to the Mediterranean island of Ibiza. Now in 2017, our destination turned out to be **a Nordic cruise to Norway and to Denmark**.
 
@@ -41,15 +34,9 @@ Before I dig into what we did this year during trivago on Tour, let me address t
 
 **Kudos to you trivago** for making this kind of social investment in your people.
 
-
 **Want to join me next year for trivago on Tour? [See trivago's open career opportunities](http://company.trivago.com/jobs/).**
 
-
-
-
-
 ## No sleep for the wicked
-
 
 We started out for this year’s trivago on Tour at 3:00 am from the Düsseldorf main train station. Our private train was a Deutsche Bahn classic which looked like it hadn’t seen service for awhile, but I was exhausted enough to put my head down and sleep for most of **the 7-hour journey**. There were two trains, each with about a dozen train cars. I was in a normal train car but later learned some people had the good fortune of sleeper cars. Maybe next year!
 
@@ -59,9 +46,7 @@ One note here on the random seat assignments. The train car I was in had no beds
 
 ![The trivago on Tour 2017 train](../assets/images/2017/09/trivago-on-tour-2017-train.jpg)
 
-
 ## It’s a cruise! Our activity revealed.
-
 
 For the next four days, we will call the AIDAmar cruise ship home! **This modern palace of a ship** sails all around the world and is a gem of the AIDA fleet. As is the tradition for trivago on Tour, this boat is **our private home**; no one else will be on this cruise with us. Despite all of trivago being present, we only fill the ship to about half capacity, and due to **great planning by our events team**, at no moment will we feel like the crowd is thin.
 
@@ -75,9 +60,7 @@ The AIDAmar has everything. An indoor concert hall and theater, a rooftop pool d
 
 ![trivago on Tour is on a cruise ship](../assets/images/2017/09/trivago-on-tour-2017-cruise-ship.jpg)
 
-
 ## Mando Diao makes a surprise concert
-
 
 Just because we now know that we will be taking a cruise for trivago on Tour, that does not mean that all the secrets are revealed. **We do not know exactly where the cruise is headed** and we do not know what surprises might be awaiting us.
 
@@ -87,9 +70,7 @@ As the clock struck 10:00 pm, a stagehand walked out and pulled the backdrop int
 
 [embed]https://youtu.be/b_6quek7QzY[/embed]
 
-
 ## Hiking in Norway with perfect weather
-
 
 On day one I woke up to find that the ship is still sailing. I check my GPS and see that **we have passed Oslo**. Oslo was everyone’s top guess for where we were headed so this did come as a surprise. I made myself ready for the day and got some breakfast, then went to the upper deck to take a look around. Before long, we came to the quaint port of **Kristiansand, Norway**.
 
@@ -97,38 +78,19 @@ Kristiansand is a small town which I learned from a local is known for being “
 
 Our hike wound us through about 5 miles of **pristine nature** in the Baneheia Park. This park was constructed starting in 1860 and is well planned-out with lakes, trails, dining and toilet facilities. In fact, the park has so many great things to say about it, that **I wrote a whole post** about how to spend a day in Norway!
 
-
 **Further reading: [How to spend a day in Norway: Hiking in Baneheia Park in Kristiansand](https://www.judsonlmoore.com/baneheia-kristiansand-norway/)**
-
-
-
-
 
 <blockquote>
 
-> 
-> 
+>
 
-> 
-> ** **
-> 
-> 
+> \*\* \*\*
 
-> 
 > **[A post shared by Judson L Moore (@judsonlmoore)](https://www.instagram.com/p/BZJtZTXHuCy/) on** Sep 17, 2017 at 11:10am PDT
-> 
-> 
 
-
-> 
 > </blockquote>
 
-
-
-
-
 ## A bicycle tour of Copenhagen
-
 
 On day two of trivago on Tour, **we arrived in Copenhagen!** This was of particular excitement to me, because my ancestors came to America from Denmark.
 
@@ -138,15 +100,11 @@ The **8-mile** bike ride through the capital of Denmark was met again with perfe
 
 **Fun fact**: in the Danish language, the only time that the formal “you” is used is when addressing or referring to the queen. To all other people, the informal “you” is used.
 
-
 **Further reading: [How to spend a day in Denmark: A bike tour of Copenhagen](https://www.judsonlmoore.com/bike-tour-copenhagen/)**
-
 
 ![trivago on Tour takes a bike ride through Copenhagen, Denmark](../assets/images/2017/09/trivago-on-tour-2017-copenhagen-bike-ride.jpg)
 
-
 ## The party lasts until the last possible second
-
 
 Despite the all-day physical activities and the all-night parties during trivago on Tour, we somehow found the energy to **party the entire way back to Düsseldorf on our 7-hour train journey** after the cruise ended. Remember the party train I slept through at the beginning of this voyage? Well, I made up for it on the way home. From start to finish, **I partied like crazy for the duration of the whole train ride**.
 
@@ -154,9 +112,7 @@ Words can not describe how insane this was. So let me show you in this video:
 
 [embed]https://youtu.be/k6S3x4rHen4[/embed]
 
-
 ## Exhausted. Happy.
-
 
 What do you think? Could you handle trivago on Tour? **Maybe you can join next year!** If you are interested to join me in 2018, just take a look at [the open careers at trivago](http://company.trivago.com/jobs/)! If anything looks interesting to you, let me know and I will be happy to chat with you about a career in trivago.
 

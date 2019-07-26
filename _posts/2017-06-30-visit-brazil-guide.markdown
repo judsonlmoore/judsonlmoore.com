@@ -2,19 +2,19 @@
 title: 'Visit Brazil: A guide to when, where, and how to visit Brazil'
 date: 2017-06-30 10:00:15 Z
 categories:
-- Brazil
+  - Brazil
 tags:
-- brazil
-- travel guide
-- travel tips
-- visa
-- visit brazil
+  - brazil
+  - travel guide
+  - travel tips
+  - visa
+  - visit brazil
 author: visitbrasil
 comments: true
 excerpt: Have you ever wanted to visit Brazil but are not sure of the best way to
   get there, the best time to go, or the best destinations to check out?
 layout: post
-link: https://www.judsonlmoore.com/visit-brazil-guide/
+link: https://git.judsonlmoore.com/visit-brazil-guide/
 wordpress_id: 17966
 ---
 
@@ -28,9 +28,7 @@ In fact, Brazil offers **infinite possibilities** to the traveler. Going there m
 
 [caption id="attachment_17975" align="alignnone" width="1024"]![Sao Pedro Church in Gramado, Brazil](../assets/images/2017/06/SU_SerraGaúcha0106.jpg) Sao Pedro Church in Gramado, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## The best time of the year to visit Brazil
-
 
 Brazil is a tropical country, with high average temperatures and plenty of rain throughout the year. Due to its huge size, however, its regions show strong climatic differences.
 
@@ -38,9 +36,7 @@ Brazil is a tropical country, with high average temperatures and plenty of rain 
 
 **During Brazilian winter**, nevertheless, between June and September, average temperatures will drop drastically and even go below 32° F in some cities in the south of the country. It’s a great moment to **get to know the mountain regions** of the south and southeast, such as Campos do Jordão, Petrópolis, Gramado, and Canela; or to head to the mountain ranges known as Chapadas ([Diamantina](https://www.judsonlmoore.com/diamantina-brazil-travel-guide/), dos Veadeiros, das Mesas, Jalapão, among others), which have lush vegetation and abundant waterfalls after the rainy season.
 
-
 [**Visit my full Brazilian Travel Guide**](https://www.judsonlmoore.com/brazil/)
-
 
 **The fall**, between March and June, and spring, between September and December, are low seasons in Brazil and, therefore, the perfect moment to **enjoy lower prices and escape tourist-filled hotels and attractions**. Besides, temperatures are milder, with sunny days and pleasant nights in most of the country.
 
@@ -48,9 +44,7 @@ However, because it is such a huge country, it is hard to indicate the best time
 
 [caption id="attachment_17969" align="alignnone" width="1024"]![Beach of Buzios, Brazil](../assets/images/2017/06/SE_Buzios0115.jpg) Beach of Buzios, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## The Tourist Visa
-
 
 Brazil’s visa policy is based on the principle of reciprocity. This means that citizens from countries that require entry visas from Brazilians into their own countries will also need a visa in order to travel to Brazil. **A visa is required for citizens of the United States**, be it for tourists, education, business, temporary work, or any other reason.
 
@@ -66,9 +60,7 @@ Learn more about obtaining a visa to Brazil by visiting [the official website of
 
 [caption id="attachment_17976" align="alignnone" width="1024"]![Caves of the Amazon Rain Forest in Brazil](../assets/images/2017/06/NO_Amazonas0990.jpg) Caves of the Amazon Rain Forest in Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## The route network between the US and Brazil
-
 
 The number of flights between Brazil and the United States has **grown more than 50%** since 2008, making the US the second country with the most direct connections to Brazil, behind Argentina.
 
@@ -76,9 +68,7 @@ It is also one of the most comprehensive, since it contains more than 190 weekly
 
 [caption id="attachment_17974" align="alignnone" width="1024"]![The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil](../assets/images/2017/06/SE_SãoPaulo0741.jpg) The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## Traveling in Brazil
-
 
 The Brazilian domestic route network is one of **the most developed in the world** – great news for those who do not want to miss the opportunity to get to know several destinations in Brazil. The country has a comprehensive network and good airport infrastructure, which have had major improvements due to the great sporting events hosted by the country in recent years.
 
@@ -90,15 +80,12 @@ Besides traveling by plane, **traveling by bus in Brazil** may also be a good al
 
 [caption id="attachment_17973" align="alignnone" width="1024"]![Rio de Janeiro, Brazil, Central Nightlife.](../assets/images/2017/06/SE_Riodejaneiro0705.jpg) Rio de Janeiro, Brazil, Central Nightlife. | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## VisitBrasil.com
-
 
 **[VisitBrasil.com](http://www.visitbrasil.com/en/) is the official tourism site of Brazil.** It is a platform with touristic content **focusing on experiences**, which aims to provide updated information on destinations, activities, and attractions of the various regions in Brazil, allowing visitors to **envision and familiarize themselves** with their future journey through the country.
 
 Moreover, the website provides essential information, from necessary papers and documents to health recommendations, making it **an indispensable source of information** when planning your trip to visit Brazil.
 
 **To ask questions or for more information about visiting Brazil**, please leave a comment below and we will answer you as quickly as possible. Additionally, you can follow [@VisitBrasil on Twitter](https://twitter.com/VisitBrasil).
-
 
 [**Visit my full Brazilian Travel Guide**](https://www.judsonlmoore.com/brazil/)

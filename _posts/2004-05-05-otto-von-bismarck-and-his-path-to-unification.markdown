@@ -2,18 +2,18 @@
 title: Otto von Bismarck and His Path to Unification
 date: 2004-05-05 08:00:00 Z
 categories:
-- College Papers
+  - College Papers
 tags:
-- Austro-Prussian War
-- Germany
-- Otto von Bismarck
-- Politics
-- Prussia
-- Research Paper
+  - Austro-Prussian War
+  - Germany
+  - Otto von Bismarck
+  - Politics
+  - Prussia
+  - Research Paper
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/otto-von-bismarck-and-his-path-to-unification/
+link: https://git.judsonlmoore.com/otto-von-bismarck-and-his-path-to-unification/
 wordpress_id: 157
 ---
 
@@ -35,15 +35,11 @@ From 1848 to 1859, there were a series of German revolts during which Bismarck d
 
 The Prussian envoy to the Diet of the German Confederation which was the highest position within the Prussian Foreign Service, and Bismarck was able to accomplish mighty things with the power he inherited from this title.  During his time with the Foreign Service, Bismarck filled several ambassador positions, to Berlin, St. Petersburg, and Paris.  In 1862 he became the Prussian minister-president.  In this position, Bismarck was vested with the power to  where he rarun the country in the name of the king, and began to earn the title, “The Iron Fisted Chancellor,” as he ran the country like a dictator in insubordination? of parliament, often times over-riding the King’s interests.  and iIt is from this position that he was able to oversee the unification of Germany. 1
 
-
 ## Austro Prussian War (Intro)
-
 
 Prior to the Austro-Prussian War in 1866, most of Central Europe was ruled under by the German Confederation, which included many states, the largest of which being Austria and Prussia.  The cause of the war had its beginnings in a dispute over a section of land annexed from the Danes called the Schleswig-Holstein.  This land was to be jointly ruled by Austria and Prussia according to the Gastein Treaty of 1865,.  However but, Bismarck, saw this as an opportunity wanting to create a reason to exclude Austria from having future influence over German relations, usedand he used this situation to spark war between the two states by accusing Austria of violating the treaty.
 
-
 ## Causes
-
 
 The Gastein Treaty was an unstable document which would not be able to stand the test of time; “it was only a temporary expedient to put off the conflict which henceforward was inevitable-inevitable, that is, if the Emperor of Austria still refused to sell Holstein to Prussia”.2   With this situation, Bismarck had the stage set to act out phaseact one of his plans to unify the German people.  This first phase was to remove Austria from all German affairs.  Bismarck understood that he needed the popular support of the general public, and to invade Austria would diminish his popularity.  The ideal situation would be that for Austria Austria to invade Prussia, and the Schleswig-Holstein situation was the perfect platform to use to manipulate the Austrian government into this trap.
 
@@ -89,50 +85,30 @@ The doctrine under which the German Empire was ruled was the Imperial Constituti
 
 By giving the radical liberals a taste of democracy he preserved his union and through his military genius and political strategy Bismarck expanded the German Empire.  Eventually, however, this false democracy would fall, and what so many men died for, would be lost.  One thing however is for sure:  Bismarck and his actions have had long standing affects on the German nation-state which are still apparent today.  Bismarck formed an empire, unified a common-people, and laid the ground work for the creation of the Central European hegemon of the twentieth and twenty-first centuries.
 
-
 ## Bibliography
 
+- Cole, [Taylor. European Political Systems, 2nd ed. (New York: Knopf, 1960).](http://www.questia.com/PM.qst?a=o&d=8102366)
 
+- Craig, [Gordon A. Germany, 1866-1945 (New York: Oxford University Press, 1978)](http://www.questia.com/PM.qst?a=o&d=30331087).
 
+- Feuchtwanger, Edgar. “Bismarck, Prussia & German Nationalism,” History Review  (2001): 14 [database on-line]; available from Questia, [http://www.questia.com/;](http://www.questia.com/;) Internet; accessed 3 May 2004.
 
+- Headlam, James Wycliffe, Bismarck and the Foundation of the German Empire (New York: The Knickerbocker Press, 1907).
 
- 	
-  * Cole, [Taylor. European Political Systems, 2nd ed. (New York: Knopf, 1960).](http://www.questia.com/PM.qst?a=o&d=8102366)
+- Lord, [Robert Howard. The Origins of the War of 1870: New Documents from the German Archives (Cambridge, MA: Harvard University Press, 1924).](http://www.questia.com/PM.qst?a=o&d=82398128)
 
- 	
-  * Craig, [Gordon A. Germany, 1866-1945 (New York: Oxford University Press, 1978)](http://www.questia.com/PM.qst?a=o&d=30331087).
+- Marriott, [J. A. R. and Robertson, C. Grant. The Evolution of Prussia, the Making of an Empire (Oxford: The Claredon Press, 1915)](http://www.questia.com/PM.qst?a=o&d=20863444).
 
- 	
-  * Feuchtwanger, Edgar. “Bismarck, Prussia & German Nationalism,” History Review  (2001): 14 [database on-line]; available from Questia, [http://www.questia.com/;](http://www.questia.com/;) Internet; accessed 3 May 2004.
+- Merkl, [Peter H. The Origin of the West German Republic (New York: Oxford University Press, 1963)](http://www.questia.com/PM.qst?a=o&d=10303681).
 
- 	
-  * Headlam, James Wycliffe, Bismarck and the Foundation of the German Empire (New York: The Knickerbocker Press, 1907).
+- Murray, [Scott W. Liberal Diplomacy and German Unification: The Early Career of Robert Morier (Westport, CT: Praeger Publishers, 2000)](http://www.questia.com/PM.qst?a=o&d=27222052).
 
- 	
-  * Lord, [Robert Howard. The Origins of the War of 1870: New Documents from the German Archives (Cambridge, MA: Harvard University Press, 1924).](http://www.questia.com/PM.qst?a=o&d=82398128)
+- Pflanze, [Otto. Bismarck and the Development of Germany: The Period of Unification, 1815-1871 (Princeton, NJ: Princeton University Press, 1963)](http://www.questia.com/PM.qst?a=o&d=33733225).
 
- 	
-  * Marriott, [J. A. R. and Robertson, C. Grant. The Evolution of Prussia, the Making of an Empire (Oxford: The Claredon Press, 1915)](http://www.questia.com/PM.qst?a=o&d=20863444).
+- Snell, [John L. The Democratic Movement in Germany, 1789-1914, ed. Schmitt, Hans A. (Chapel Hill: University of North Carolina Press, 1976)](http://www.questia.com/PM.qst?a=o&d=57166396).
 
- 	
-  * Merkl, [Peter H. The Origin of the West German Republic (New York: Oxford University Press, 1963)](http://www.questia.com/PM.qst?a=o&d=10303681).
+- [The Columbia Encyclopedia   6th ed., s.v.”Austro-Prussian War.”](http://www.questia.com/PM.qst?a=o&d=8138015)
 
- 	
-  * Murray, [Scott W. Liberal Diplomacy and German Unification: The Early Career of Robert Morier (Westport, CT: Praeger Publishers, 2000)](http://www.questia.com/PM.qst?a=o&d=27222052).
+- [The Columbia Encyclopedia   6th ed., s.v.”Franco-Prussian War .”](http://www.questia.com/PM.qst?a=o&d=8152651)
 
- 	
-  * Pflanze, [Otto. Bismarck and the Development of Germany: The Period of Unification, 1815-1871 (Princeton, NJ: Princeton University Press, 1963)](http://www.questia.com/PM.qst?a=o&d=33733225).
-
- 	
-  * Snell, [John L. The Democratic Movement in Germany, 1789-1914, ed. Schmitt, Hans A. (Chapel Hill: University of North Carolina Press, 1976)](http://www.questia.com/PM.qst?a=o&d=57166396).
-
- 	
-  * [The Columbia Encyclopedia   6th ed., s.v.”Austro-Prussian War.”](http://www.questia.com/PM.qst?a=o&d=8138015)
-
- 	
-  * [The Columbia Encyclopedia   6th ed., s.v.”Franco-Prussian War .”](http://www.questia.com/PM.qst?a=o&d=8152651)
-
- 	
-  * Moore, Robert W. PhD. Personal interview. 3 May 2004.
-
-
+- Moore, Robert W. PhD. Personal interview. 3 May 2004.

@@ -2,17 +2,17 @@
 title: Martin Abschieds Party
 date: 2012-09-15 00:01:19 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Kyrgyzstan
-- Martin
-- Party
-- Sie Germans
+  - Bishkek
+  - Kyrgyzstan
+  - Martin
+  - Party
+  - Sie Germans
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/martin-abschieds-party/
+link: https://git.judsonlmoore.com/martin-abschieds-party/
 wordpress_id: 1809
 ---
 

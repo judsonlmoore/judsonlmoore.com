@@ -2,74 +2,38 @@
 title: 'The Elgin Marbles: Should they be returned to Greece?'
 date: 2006-02-07 05:00:00 Z
 categories:
-- College Papers
+  - College Papers
 tags:
-- Politics
+  - Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/the-elgin-marbles-should-they-be-returned-to-greece/
+link: https://git.judsonlmoore.com/the-elgin-marbles-should-they-be-returned-to-greece/
 wordpress_id: 136
 ---
 
 The prestige of the world’s finest museums is largely rooted in collections of stolen art.  There is a fair share of ‘home-grown’ art in national museums but there are also vast collections of artifacts that have been obtained by nations by forcefully removing them from their places of origin.  Frequently these acts are done during times of conquest when one nation has fallen to a greater power, and the taking from the weak is generally excepted as normal behavior under these circumstances.  However, there has rarely been an act of thievery so damaging to the history of a culture and carried out in such a unforgiving way than that of the removal of the Parthenon sculptures known as the Elgin Marbles.
 
-
-
-
 The Parthenon, built in Athens Greece around 450 BC, has seen many battles in its two millennia of existence (18).  Many of these battles have resulted in the desecration or remodeling of the building from its original form.  When the British conquered the Turkish occupants of Greece at the end of the 1700’s, the original Parthenon was in dire condition and only a fraction of the original site was still intact.  The statues adorning the roofline of the temple in the frieze were in good condition and the British occupants decided that they would make a great treasure, so they removed many of the pieces which were still in place there and took them back to England.  They remained in the private collection of Lord Elgin until 1816 when he sold them to the British Museum.  They have remained at the museum for almost two centuries under the care of the British despite Greeces repeated pleas to have the marbles returned.
-
-
-
 
 There are many arguments for why the marbles should be returned and just as many for why they should remain in Britain.  The book, _The Elgin Marbles: Should they be returned to Greece_, by Christopher Hitchens defends the Greek’s position for the return of the marbles, and I would have to agree with the author’s position.  It seems that the argument for the marbles’ return is strong enough to warrant the gifting of the marbles back to the Acropolis.  I think that it would be much in England’s favor to return the marbles generously so that they ay be in a position of praise, as opposed to criticism.
 
-
-
-
 Lord Elgin began planning the movement of the marbles in 1799 when he became the British ambassador to Constantinople (24).  Once here, he commissioned two men, William Hamilton and Giovanni Battista to assist with the planning.  William Hamilton was to assist with the political alignment for the approval of the marbles’ removal.  Giovanni Battista was an artist who was hired to illustrate the removal (and related) process as it occurred (25).
 
-
-
-
-The first step toward removal was for Elgin and his team to acquire a _Firman, _which is a formal document from the Turkish document which expresses official permission for the removal.  The Firman which was acquired was legal and legit, but it was very ambiguous and allowed for Elgin to abuse the actual intentions of the Turks, “When they wish to take away some piece of stone with old inscriptions or figures thereon, that no opposition be made thereto” (27).
-
-
-
+The first step toward removal was for Elgin and his team to acquire a \_Firman, \_which is a formal document from the Turkish document which expresses official permission for the removal.  The Firman which was acquired was legal and legit, but it was very ambiguous and allowed for Elgin to abuse the actual intentions of the Turks, “When they wish to take away some piece of stone with old inscriptions or figures thereon, that no opposition be made thereto” (27).
 
 During the removal process, great damage was caused to the pieces removed from the Parthenon.  In order to safely package and ship the statues many of the pieces had to be cut, this in its self was of course very destructive despite the great effort taken to make cuts where it mattered least.  There were also a good number of pieces being carried aboard the ship, _Mentor_, which sank in the Mediterranean.  All of these pieces were recovered, but this still illustrates the great risk which was taken in removing these marbles from Greece (32-4).
 
-
-
-
 When the marbles first arrived in England, Lord Elgin had them put on display in a building adjacent to his residence on Park Lane in London.  This is where the marbles stayed in limited public view for more than a decade (36).  The cost of the display was very much worthwhile to Lord Elgin, however, the cost of upkeep and other related expenses was a great drain on his financial assets.  Needless to say, passing the marbles on to the British Government would have been much more practical, but for Lord Elgin, it was more important for him to retain his treasure (37).
 
-
-
-
-The British Parliament tried for years to purchases the marbles for £$30,000 but Elgin was holding out for a sum closer to £63,000 (38).  Finally, in 1816 an agreement was reached where the marbles would be purchased for £35,000 with the conditions that the exhibit forever be called, “The Elgin Marbles,” be housed in the British Museum and always open for inspection by Lord Elgin, and that all persons to ever acquire the status of Rank of Earl of Elgin be added to the trustees of the British Museum (43).  Now, for almost two centuries, the marbles have remained at the British Museum on public display and the only controversy left over the situation is getting them out of that museum, and brought back to their place of origin atop the Parthenon.
-
-
-
+The British Parliament tried for years to purchases the marbles for £\$30,000 but Elgin was holding out for a sum closer to £63,000 (38).  Finally, in 1816 an agreement was reached where the marbles would be purchased for £35,000 with the conditions that the exhibit forever be called, “The Elgin Marbles,” be housed in the British Museum and always open for inspection by Lord Elgin, and that all persons to ever acquire the status of Rank of Earl of Elgin be added to the trustees of the British Museum (43).  Now, for almost two centuries, the marbles have remained at the British Museum on public display and the only controversy left over the situation is getting them out of that museum, and brought back to their place of origin atop the Parthenon.
 
 There are many arguments for why this should and should not be done.  Amongst the more popular arguments it is said that the, “removal of the marbles to Britain was boon to the fine arts and the study of the classics” (72).  There is no recourse for this argument.  It is certainly true that many people of been inspired by the marbles, and that many more people have had access to see them in the British museum than they would have if the marbles still adorned the Pantheon.  However (the argument goes), this is not justification for defacing the greatest artistic and architectural masterpiece that has ever existed.  It is stated in the book, and quite rightly so, that even though more people have seen them in the British Museum than would have on the Parthenon, then wouldn’t also be true that even more inspiration could be had from the marbles if they were on display in Disneyland (75)?  I for one think that would look a little odd at any Disney resort, but if the purpose of art is to educate and inspire, then maybe moving them to Disney is actually a good idea.  Besides, who needs the inspiration more than the world’s children?
 
-
-
-
 Additionally, it is argued that the marbles are safer in London than they had been, or would be, in Athens.  The book points out that there is no way to know the course of history which was not taken.  The marbles could have been just fine to remain in Greece, or not.  No one will ever know (75).  The author does point out two times (in 200 years) that the marbles where endangered in London:  the first in 1938 when it was discovered that the cleaning method being used on the sculptures where causing harm to them (mainly the heads of the Horses of the Sun) (78).  The other instance in which the marbles were put in harm way was in 1941 when Hitler’s air force had a successful bombing raid on London which severely damaged the gallery where the marbles were on display.  Luckily, the marbles had been moved just in time to an offsite storage facility which was considered to be safe (which it was) (78).
-
-
-
 
 With Athens being in the current environmental state that it is, there is also concern that the marbles should not be exposed to the toxic and polluted air at the Acropolis.  This is viewed as the strongest argument on the retentionist’s side because the oxidation which could occur to the marble would have severe and irreversible consequences (79).
 
-
-
-
 Finally, the most interesting argument for the retention of the marbles in London is that to return them would set a president for returning artifacts with foreign origin.  The thing that makes most people disagree with this argument is that the Elgin Marbles are not just _any artifact_, they are rather pieces of a masterful whole which is probably the greatest cultural symbol and significant achievement in western civilization.  The reunion of these pieces in particular would not justify the return of other ‘stand alone’ artifacts.  Besides these marbles represent such a world-wide symbol of importance and history, an exception can be made to (properly) reunite them to their origin because it is in that fashion that the world will most be able to appreciate them (83-90).
-
-
-
 
 Whether or not you believe that pieces of one’s heritage belong in their places of origin, it seems that in the case of the Elgin Marbles it would be most proper to have them not as a piece, but as a whole of the original design of the Parthenon.  That leaves us with two options: disassemble the Parthenon and bring it to Britain, or return the marbles to their proper home atop the Acropolis.

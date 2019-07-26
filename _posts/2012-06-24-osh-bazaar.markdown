@@ -2,18 +2,18 @@
 title: Osh Bazaar
 date: 2012-06-24 07:02:42 Z
 categories:
-- Bishkek
+  - Bishkek
 tags:
-- Bishkek
-- Central Asia
-- Kyrgyzstan
-- Osh Bazaar
-- Peace Corps
-- Shopping
+  - Bishkek
+  - Central Asia
+  - Kyrgyzstan
+  - Osh Bazaar
+  - Peace Corps
+  - Shopping
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/osh-bazaar/
+link: https://git.judsonlmoore.com/osh-bazaar/
 wordpress_id: 805
 ---
 

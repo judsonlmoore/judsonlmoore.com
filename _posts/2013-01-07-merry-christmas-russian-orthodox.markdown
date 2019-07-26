@@ -2,18 +2,18 @@
 title: Merry Christmas (Russian Orthodox)
 date: 2013-01-07 18:56:11 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Christmas
-- Holiday
-- Kyrgyzstan
-- Orthodox
-- Religion
+  - Bishkek
+  - Christmas
+  - Holiday
+  - Kyrgyzstan
+  - Orthodox
+  - Religion
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/merry-christmas-russian-orthodox/
+link: https://git.judsonlmoore.com/merry-christmas-russian-orthodox/
 wordpress_id: 1487
 ---
 
@@ -34,5 +34,3 @@ Here are some fantastic photos of the Cathedral. I took the first two inside dur
 [gallery order="DESC" link="post" ids="1492,1493,1494,1495,1491,1488,1490,1489,1497"]
 
 Here is a great video I found on YouTube of nice panoramic shots of the inside and outside of the cathedral. The inside is much different than what we expect in the west.
-
-

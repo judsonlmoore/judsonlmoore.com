@@ -2,18 +2,18 @@
 title: 'Weekend Trips: Quick Tips for the Jetsetter and Novice Traveler Alike'
 date: 2017-04-27 05:17:34 Z
 categories:
-- Female Travel
+  - Female Travel
 tags:
-- female travel
-- guest author
-- packing list
-- travel tips
+  - female travel
+  - guest author
+  - packing list
+  - travel tips
 author: jenniferchang
 comments: true
 excerpt: Weekend trips are often times the best trips. Guest author Jennifer Chang
   shares tips for how to make your weekend trips spontaneous and full of adventure.
 layout: post
-link: https://www.judsonlmoore.com/weekend-trips-quick-tips/
+link: https://git.judsonlmoore.com/weekend-trips-quick-tips/
 wordpress_id: 12378
 ---
 
@@ -21,11 +21,9 @@ So this is kind of a comprehensive mini-guide to traveling, inspired by my trave
 
 You can also check out my photo journals for[ Indonesia](http://www.jayemsey.com/blog/sundayschool), [Malaysia](http://www.jayemsey.com/blog/festivaloflights),[ Taiwan](http://www.jayemsey.com/blog/islandinterlude),[ Thailand](http://www.jayemsey.com/blog/aminuteinthaime), and[ Cambodia](http://jayemsey.com/blog/ruins)!
 
-
 ## Preparing for a weekend trip
 
-
-**1. Get a good credit card** - This is a good contingency plan to have for emergencies. Of course, if it's just a one-time trip, it may not justify committing to a credit card, but if you're a frequent traveler, I highly recommend it. The[ Chase Sapphire Preferred card](https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FNLC&CELL=63HB&MSC=1533816746) is extolled as one of the best cards for travelers, because you get 50,000 free points if you spend $4,000 in three months (use it to book your flight and that's easily a couple hundred dollars in a day), and you get one point for every dollar you spend and 2x points for food and travel, even grocery shopping. But the best part is that you can use it almost anywhere in the world, without foreign transaction fees, which can add up over time. I swear I'm not sponsored by Chase (although @Chase if you wanna get on that, I'm all for it).
+**1. Get a good credit card** - This is a good contingency plan to have for emergencies. Of course, if it's just a one-time trip, it may not justify committing to a credit card, but if you're a frequent traveler, I highly recommend it. The[ Chase Sapphire Preferred card](https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FNLC&CELL=63HB&MSC=1533816746) is extolled as one of the best cards for travelers, because you get 50,000 free points if you spend \$4,000 in three months (use it to book your flight and that's easily a couple hundred dollars in a day), and you get one point for every dollar you spend and 2x points for food and travel, even grocery shopping. But the best part is that you can use it almost anywhere in the world, without foreign transaction fees, which can add up over time. I swear I'm not sponsored by Chase (although @Chase if you wanna get on that, I'm all for it).
 
 _Disclaimer: The link above is an affiliate link, so I get a lil something if you sign up for a card, too! Win-win._
 
@@ -35,9 +33,7 @@ _Disclaimer: The link above is an affiliate link, so I get a lil something if yo
 
 **4. Do your research** - Check travel blogs, Wikipedia pages, government websites. Get a general sense of the rules, customs, and attitudes of the country you're visiting. You don't want to go to the Vatican wearing shorts (ask me about the time I wore my cousin's baby blanket around my waist so I could see the inside of St. Peter's Basilica). You also don't want to be fined, arrested, or offend the locals.
 
-
 ## Getting There
-
 
 **1. Book early** - This one goes without saying, but you really can save a lot of money by booking in advance. Tickets are usually cheapest six to eight weeks before your trip.
 
@@ -55,74 +51,47 @@ If you're super-into planning, most of these websites let you set up price alert
 
 **7. Check out alternative transportation** - In some places like Europe, it can be cheaper and less hassle to take a train. The U.K. has an underwater train that is much faster, cheaper, and often more convenient than flying.
 
-
 ## Packing for a weekend trip
-
 
 **1. Pack light** - It's best to carry as little as possible when you're going on short trips. Take a backpack for clothes and things, and then a small bag for walking around. Checking bags on a plane is expensive, and sometimes the only place you can put your belongings is a locker, so it's smartest to keep all of your things together.
 
-**2. The basics** - File these under "Crucial to Survival," because these things should be in every solo traveler's arsenal. These are your absolute essentials. These things will save your _life_ because you will find that if you have them and don't need them then it's a minor inconvenience, but if you need them and don't have them...it can be a major crisis. And you never know where the next convenience store will be.
+**2. The basics** - File these under "Crucial to Survival," because these things should be in every solo traveler's arsenal. These are your absolute essentials. These things will save your *life* because you will find that if you have them and don't need them then it's a minor inconvenience, but if you need them and don't have them...it can be a major crisis. And you never know where the next convenience store will be.
 
+- A small lock (a lot of hostels have lockers, but you have to bring your own lock)
 
+- Portable phone charger
 
- 	
-  * A small lock (a lot of hostels have lockers, but you have to bring your own lock)
+- Camera/GoPro
 
- 	
-  * Portable phone charger
+- Sunscreen
 
- 	
-  * Camera/GoPro
+- Lip balm
 
- 	
-  * Sunscreen
+- Hand sanitizer
 
- 	
-  * Lip balm
+- Tissues (in case you need napkins or toilet paper because some places in Europe and Asia you need to pay for it)
 
- 	
-  * Hand sanitizer
+- Sanitizing wipes (hotels/hostels = so many germs)
 
- 	
-  * Tissues (in case you need napkins or toilet paper because some places in Europe and Asia you need to pay for it)
-
- 	
-  * Sanitizing wipes (hotels/hostels = so many germs)
-
- 	
-  * Baby wipes
-
+- Baby wipes
 
 **3. The extras** - Boy Scout's motto: Always be prepared ([ALSO the Girl Scout's motto!](http://www.girlscouts.org/en/about-girl-scouts/traditions.html)). These things aren't 100% necessary, but they're nice to have, and they'll definitely make your trip more comfortable.
 
+- Oil-blotting sheets
 
+- Money belt/fanny pack
 
- 	
-  * Oil-blotting sheets
+- Pepper spray
 
- 	
-  * Money belt/fanny pack
+- Bug spray
 
- 	
-  * Pepper spray
+- Portable fan
 
- 	
-  * Bug spray
+- Microfiber towel (this is very useful if you've got limited space in your bag)
 
- 	
-  * Portable fan
-
- 	
-  * Microfiber towel (this is very useful if you've got limited space in your bag)
-
- 	
-  * A plastic folder (to keep your passport, your ticket, and paper documents in one place)
-
-
-
+- A plastic folder (to keep your passport, your ticket, and paper documents in one place)
 
 ## Weekend trip accommodation
-
 
 **1. Hotels** - A standard choice. Except now there are so many smarter ways to book, like through apps like[ Hotel Tonight](https://www.hoteltonight.com/), which offers last-minute hotel deals for cheap.
 
@@ -132,9 +101,7 @@ If you're super-into planning, most of these websites let you set up price alert
 
 **4. Map it out** - Before you book anywhere, consider how accessible it is. Is it close to the airport or the train station? Is it near restaurants or convenience stores or any of the things you want to see while you're there? Make a plan on Google Maps so you have a relative sense of how far everything is.
 
-
 ## Getting around
-
 
 **1. Uber/lyft** - Honestly, on-call cars are a great option. I took five Ubers in one day while I was in Malaysia. But you can download local taxi apps as well (in the Singapore there's[ Grab](https://www.grab.com/sg/), in Budapest, there's[ Fotaxi](https://itunes.apple.com/ca/app/fotaxi-budapest/id794447291?mt=8), etc.)
 
@@ -144,34 +111,23 @@ If you're super-into planning, most of these websites let you set up price alert
 
 **4. Safety** - Be careful! The public transportation in some countries (like Malaysia) is very unreliable and/or dangerous. It's worth it to spend extra money for the sake of safety.
 
-
 ## Things to do on a weekend trip
-
 
 **1. Make an itinerary** - Do a quick Google search for "things to do in [country]" and start there. If you have limited time, it's best to have a plan, even if you don't end up following it. But it'll give you an outline of what your day will look like, and help you determine the most efficient way to get around.
 
 **2. Read travel blogs** - I read _a lot_ of these. They show you where other people have been, and where good places for travelers are.
 
+- [Leave Your Daily Hell](http://leaveyourdailyhell.com/): I really like this one. I feel like a larger percentage of bloggers are female than male, so sometimes a guy's perspective can be refreshing. He's also a professional travel planner, so his sample travel itineraries are super-informative and inspirational.
 
+- [LonelyPlanet](http://www.lonelyplanet.com/): One of the most comprehensive travel sites.
 
- 	
-  * [Leave Your Daily Hell](http://leaveyourdailyhell.com/): I really like this one. I feel like a larger percentage of bloggers are female than male, so sometimes a guy's perspective can be refreshing. He's also a professional travel planner, so his sample travel itineraries are super-informative and inspirational.
+- [Nomadic Matt](http://www.nomadicmatt.com/): He writes a lot of good articles on real travel advice, like[ "Why It's Never The Right Time to Travel"](http://www.nomadicmatt.com/travel-blogs/never-right-time-travel/) and[ "The Ultimate Guide to Traveling When You Have No Money." ](http://www.nomadicmatt.com/travel-blogs/the-ultimate-guide-to-traveling-when-you-have-no-money/)
 
- 	
-  * [LonelyPlanet](http://www.lonelyplanet.com/): One of the most comprehensive travel sites.
+- [Be My Travel Muse](https://www.bemytravelmuse.com/): A great travel blog written with a focus on solo female travel and little-known destinations.
 
- 	
-  * [Nomadic Matt](http://www.nomadicmatt.com/): He writes a lot of good articles on real travel advice, like[ "Why It's Never The Right Time to Travel"](http://www.nomadicmatt.com/travel-blogs/never-right-time-travel/) and[ "The Ultimate Guide to Traveling When You Have No Money." ](http://www.nomadicmatt.com/travel-blogs/the-ultimate-guide-to-traveling-when-you-have-no-money/)
+- [Travelettes](http://www.travelettes.net/): This one is written by all-female contributors, who share stories about their personal experiences in different countries.
 
- 	
-  * [Be My Travel Muse](https://www.bemytravelmuse.com/): A great travel blog written with a focus on solo female travel and little-known destinations.
-
- 	
-  * [Travelettes](http://www.travelettes.net/): This one is written by all-female contributors, who share stories about their personal experiences in different countries.
-
- 	
-  * [PROJECT INSPO](http://projectinspo.com/): Jinna started writing this blog after her father died, quitting her Manhattan job as a fashion photographer, and spending 11 months traveling the world with one suitcase and a cardboard cutout of her father. She has a lot of good tips on minimalist/solo traveling, and also some inspiration pieces to get you moving! (Check out the article I wrote for PROJECT INSPO about working holiday visas[ here](http://jayemsey.com/blog/workingholidayvisa)!)
-
+- [PROJECT INSPO](http://projectinspo.com/): Jinna started writing this blog after her father died, quitting her Manhattan job as a fashion photographer, and spending 11 months traveling the world with one suitcase and a cardboard cutout of her father. She has a lot of good tips on minimalist/solo traveling, and also some inspiration pieces to get you moving! (Check out the article I wrote for PROJECT INSPO about working holiday visas[ here](http://jayemsey.com/blog/workingholidayvisa)!)
 
 **3. Ask locals/natives** - Most people will do this anyway, but if you have any friends, family, or family friends who are from the country or state you plan on visiting, ask them! They know their country/state better than anyone and can likely give you the best recommendations that won't be on TripAdvisor. It's also how I decide where to stay.
 

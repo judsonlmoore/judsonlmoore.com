@@ -2,270 +2,165 @@
 title: Kyrgyzstan Travel Guide and 2-Week Itinerary Recommendation
 date: 2015-11-30 02:30:23 Z
 categories:
-- Kyrgyzstan
+  - Kyrgyzstan
 tags:
-- Adventure
-- advice
-- Kyrgyzstan
-- Travel
+  - Adventure
+  - advice
+  - Kyrgyzstan
+  - Travel
 author: judsonlmoore
 comments: true
 excerpt: After living for two years in Kyrgyzstan, I have some pro tips for how your
   next Central Asian adventure can be the top experience of a lifetime.
 layout: post
-link: https://www.judsonlmoore.com/travel-advice-kyrgyzstan/
+link: https://git.judsonlmoore.com/travel-advice-kyrgyzstan/
 wordpress_id: 4415
 ---
 
 I've done a lot of sharing my experience in Kyrgyzstan and I often find myself repeating my travel advice for the country. Where to go? What to see? Who to meet? So I have decided to put together a sample itinerary. This is designed for someone who has limited time in the country, just 1-2 weeks. Of course, I was here for two years and I think there is no such thing as a "maximum" amount of time you should spend in one location, but the reality is that most of you will have to budget your time.
 
-
 ## Getting Around Kyrgyzstan
-
 
 Firstly, how do you get around this beautiful country? Artiom, is how!
 
 [Artiom](https://www.facebook.com/artiom.ulianchenko) - Is a Bishkek-based guide and has a 7-seater van and a 4X4 for more adventurous and winter travel. Competitive rates. He is super fun and respectful. Speaks excellent English. He deals more with adventure tourism so he might not be the best fit for a family vacation, but he really knows the country and how to show people a wonderful time. Even if you don't use him, get in touch and maybe he can put you in touch with someone else - cell: [+996 772 295514](tel:%2B996%20772%20295514) (for calling and for Whatsapp)
 
-
-
-
-
 ## **Bishkek - The Capital of Kyrgyzstan **
-
 
 _(Min 3 nights. Max 4-5 nights)_
 
+- Sierra Coffee - owned by Brad Brenneman and his wife Amaliya Brenneman
 
+- Panfilov Park - Attractions and rides. Good people watching.
 
- 	
-  * Sierra Coffee - owned by Brad Brenneman and his wife Amaliya Brenneman
+- National History Museum (see the Lenin statue behind the museum)
 
- 	
-  * Panfilov Park - Attractions and rides. Good people watching.
+- Parliament - Next to AUCA, behind the National History Museum
 
- 	
-  * National History Museum (see the Lenin statue behind the museum)
+- White House - Next to the National History Museum
 
- 	
-  * Parliament - Next to AUCA, behind the National History Museum
+- Ala Too Square
 
- 	
-  * White House - Next to the National History Museum
+- Jalalabad Cafe - I used to live across the street. The food is amazing.
 
- 	
-  * Ala Too Square
+- Osh Bazaar - worth checking out.
 
- 	
-  * Jalalabad Cafe - I used to live across the street. The food is amazing.
+- Rock Bar Zeppelin - live music, pretty cheap (and awesome! My favorite place!)
 
- 	
-  * Osh Bazaar - worth checking out.
+- Promzona - live music, not cheap
 
- 	
-  * Rock Bar Zeppelin - live music, pretty cheap (and awesome! My favorite place!)
+- Ala Archa - beautiful state park southeast of the city
 
- 	
-  * Promzona - live music, not cheap
+- Walk up and down Erkindik Blvd
 
- 	
-  * Ala Archa - beautiful state park southeast of the city
+- Victory Square (WWII, I believe. Eternal Flame)
 
- 	
-  * Walk up and down Erkindik Blvd
+- Taksim Cafe (if you need a 24-hour place to eat or get wifi)
 
- 	
-  * Victory Square (WWII, I believe. Eternal Flame)
+- Southgate Park - nice park on the south edge of town
 
- 	
-  * Taksim Cafe (if you need a 24-hour place to eat or get wifi)
+- Panorama (nearby mountain lookout looking over the city)
 
- 	
-  * Southgate Park - nice park on the south edge of town
+- Central Mosque - no Blue Mosque and you can’t go inside. But if you’re in the neighborhood.
 
- 	
-  * Panorama (nearby mountain lookout looking over the city)
+- The central Russian Orthodox Church (go inside, see the art)
 
- 	
-  * Central Mosque - no Blue Mosque and you can’t go inside. But if you’re in the neighborhood.
+- Hippodrom (if there are horse games, [Kok-Boru](http://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
 
- 	
-  * The central Russian Orthodox Church (go inside, see the art)
+- American University of Central Asia (AUCA)
 
- 	
-  * Hippodrom (if there are horse games, [Kok-Boru](http://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
-
- 	
-  * American University of Central Asia (AUCA)
-
- 	
-  * DO NOT go to Metro Pub. It is a center for westerners and prostitutes.
-
-
-
+- DO NOT go to Metro Pub. It is a center for westerners and prostitutes.
 
 ## **Talas - The Wild Wild West**
 
-
 _(Min 1 night. Max 3 nights) (DO NOT TRAVEL AT NIGHT TO / FROM TALAS)_
 
+- [RadioMost](http://radiomost.org/)
 
+- [Manas Ordo](http://en.wikipedia.org/wiki/Manas_Ordo)
 
- 	
-  * [RadioMost](http://radiomost.org/)
+- The River (notice the under-water cafe and the waterslide at the little lake on your right as you approach the river
 
- 	
-  * [Manas Ordo](http://en.wikipedia.org/wiki/Manas_Ordo)
+- Duck Schaschlik
 
- 	
-  * The River (notice the under-water cafe and the waterslide at the little lake on your right as you approach the river
-
- 	
-  * Duck Schaschlik
-
- 	
-  * Maybe go to Pakrovka to the dam.. home of the largest bust of Lenin in the world (or so we were always told)
-
-
-
+- Maybe go to Pakrovka to the dam.. home of the largest bust of Lenin in the world (or so we were always told)
 
 ## **Cholpon-Ata - Summer Beach Retreat **
 
-
 _(Min 1 night. Max 3 nights)_
 
+- Beach Town.
 
+- Eat at [У рыбака](https://foursquare.com/v/%D1%83-%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%B0/4e219196628469a57416a165) “The Fisherman”
 
- 	
-  * Beach Town.
+- [Chyngyz Aitmatov Museum ](http://en.wikipedia.org/wiki/Chinghiz_Aitmatov)
 
- 	
-  * Eat at [У рыбака](https://foursquare.com/v/%D1%83-%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%B0/4e219196628469a57416a165) “The Fisherman”
-
- 	
-  * [Chyngyz Aitmatov Museum ](http://en.wikipedia.org/wiki/Chinghiz_Aitmatov)
-
- 	
-  * Hippodrom (if there are horse games, [Kok-Boru](http://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
-
-
-
+- Hippodrom (if there are horse games, [Kok-Boru](http://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
 
 ## **Karakol - Winter Ski Destination**
 
-
 _(Min 1 night. Max 3 nights)_
 
+- If you can, get a tour of the [Kumtor Gold Mine](http://www.kumtor.kg/en/), that would be awesome. But that is tough to make happen.
 
+- Karakol Zoo
 
- 	
-  * If you can, get a tour of the [Kumtor Gold Mine](http://www.kumtor.kg/en/), that would be awesome. But that is tough to make happen.
-
- 	
-  * Karakol Zoo
-
- 	
-  * They have the best Bozo Lagman in Kyrgyzstan, in the bazaar here.
-
-
-
+- They have the best Bozo Lagman in Kyrgyzstan, in the bazaar here.
 
 ## **The South Shore of Lake Issyk Kul **
 
-
 _(Min 1 night. Max 2 nights)_
 
-
-
- 	
-  * Camping and Biking
-
-
-
+- Camping and Biking
 
 ## **Food To Eat in Kyrgyzstan**
 
-
 _(In order of my favorites)_
 
+- Plov - PLOV!!!! Get the Uzbek plov.
 
+- Bozo Lagman - Fried noodles with meat and vegetables. I love it so much.
 
- 	
-  * Plov - PLOV!!!! Get the Uzbek plov.
+- Shashlick - shish kabob, get the Duck, if available. You should go heavy on the onions.
 
- 	
-  * Bozo Lagman - Fried noodles with meat and vegetables. I love it so much.
+- Akroshka - cold kefir soup. Easilly a favorite of mine. Good at lunch when it is hot out.
 
- 	
-  * Shashlick - shish kabob, get the Duck, if available. You should go heavy on the onions.
+- Borscht - hot beet soup. You can compare it to mine. :)
 
- 	
-  * Akroshka - cold kefir soup. Easilly a favorite of mine. Good at lunch when it is hot out.
+- Lagman - pasta soup with meat and veggies
 
- 	
-  * Borscht - hot beet soup. You can compare it to mine. :)
+- Manti - ravioli-like, but a little larger. Usually has meat but Pumpkin and other fillings are possible.
 
- 	
-  * Lagman - pasta soup with meat and veggies
+- Pelmeni - very much like ravioli.
 
- 	
-  * Manti - ravioli-like, but a little larger. Usually has meat but Pumpkin and other fillings are possible.
+- Samsa - perfect 20-25som snack. Chicken is best.
 
- 	
-  * Pelmeni - very much like ravioli.
+- Ormo - layered noodle and meat thing…
 
- 	
-  * Samsa - perfect 20-25som snack. Chicken is best.
+- Besh Barmak - “Five Fingers” you eat this with your hands. If you can get it while staying with a family, that is the best, but if not, get it at a cafe. I don’t expect you to love this, but some people do. You must try it though, for me!
 
- 	
-  * Ormo - layered noodle and meat thing…
-
- 	
-  * Besh Barmak - “Five Fingers” you eat this with your hands. If you can get it while staying with a family, that is the best, but if not, get it at a cafe. I don’t expect you to love this, but some people do. You must try it though, for me!
-
- 	
-  * Karut - the dry salty yogurt balls. Try a fresh one.
-
-
-
+- Karut - the dry salty yogurt balls. Try a fresh one.
 
 ## **What to Drink in Kyrgyzstan **
 
+- Arpa (beer)
 
+- Nashe (beer)
 
+- Jevoie (beer)
 
+- Vodka (cheaper the better)
 
- 	
-  * Arpa (beer)
+- Juice Gram (100g of Vodka. Drink like a shot. Costs about \$.20)
 
- 	
-  * Nashe (beer)
+- Kumiz (fermented horse’s milk)
 
- 	
-  * Jevoie (beer)
+- Fresh Horses Milk
 
- 	
-  * Vodka (cheaper the better)
+- Kefir (yogurt-like drink)
 
- 	
-  * Juice Gram (100g of Vodka. Drink like a shot. Costs about $.20)
+- Chai… lots and lots of chai of BOTH kinds: red (black) and green tea.
 
- 	
-  * Kumiz (fermented horse’s milk)
-
- 	
-  * Fresh Horses Milk
-
- 	
-  * Kefir (yogurt-like drink)
-
- 	
-  * Chai… lots and lots of chai of BOTH kinds: red (black) and green tea.
-
- 	
-  * Coffee from Sierra Coffee
-
+- Coffee from Sierra Coffee
 
 Have you been to Kyrgyzstan before? Please leave your thoughts in the comments below or get in touch with me at [@judsonlmoore](http://twitter.com/judsonlmoore)! I am also happy to put pretty much anyone in direct contact with my friends and family in Kyrgyzstan. **Safe travels!**
-
-

@@ -2,19 +2,19 @@
 title: Bishkek / Talas Winter Road Conditions
 date: 2012-03-18 07:03:12 Z
 categories:
-- Kyrgyzstan
+  - Kyrgyzstan
 tags:
-- Bishkek
-- Danger
-- Peace Corps
-- Road to Bishkek
-- Talas
-- Travel
-- Winter
+  - Bishkek
+  - Danger
+  - Peace Corps
+  - Road to Bishkek
+  - Talas
+  - Travel
+  - Winter
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/bishkek-talas-winter-road-conditions/
+link: https://git.judsonlmoore.com/bishkek-talas-winter-road-conditions/
 wordpress_id: 807
 ---
 

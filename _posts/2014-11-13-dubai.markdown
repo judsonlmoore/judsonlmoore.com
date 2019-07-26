@@ -2,24 +2,23 @@
 title: Dubai Is The Billionaire's Oasis In the Middle East
 date: 2014-11-13 10:33:13 Z
 categories:
-- UAE
+  - UAE
 tags:
-- Adventure
-- Bucket List
-- Desert
-- reunion
-- Travel
+  - Adventure
+  - Bucket List
+  - Desert
+  - reunion
+  - Travel
 author: judsonlmoore
 comments: true
 excerpt: Dubai is the playground of billionaires, royalty and me (for a day)! I've
   studied the architecture and dreamed of skiing in the desert. Dreams come true!
 layout: post
-link: https://www.judsonlmoore.com/dubai/
+link: https://git.judsonlmoore.com/dubai/
 wordpress_id: 3063
 ---
 
 ## Dubai - The Grandest Oasis
-
 
 Dubai: the playground of billionaires, royalty and me (for a day)! Thank you to my dear friend Laura and her family for hosting me while I was in Dubai. Laura and I worked together on [my cornerstone project](http://www.unesco.kz/new/en/unesco/news/2898/) while in the Peace Corps. She was a key player at UNESCO, who funded the project, so, she is one of my favorite people on Earth.
 
@@ -30,7 +29,5 @@ We went to the Burj Khalifa, the tallest man-made structure in the world, standi
 We also took a drive to the outer rim of the Palm Islands, which is home to the Atlantis Hotel. Near to there is the Burj Al Arab, the sail-shaped hotel on the beach. Finally, I got to ski in the desert at Ski Dubai! This day fulfilled many bucket-list items!
 
 I didn't get so many photos, despite all the amazing structures. The sun seemed to always be in the wrong place so many of the photos were washed out. Also, everything in Dubai is about being the grandest, biggest, best thing ever, and every structure's competition is the structure right next to it. The result is that being in Dubai is a bit overwhelming and you start to get a sense that what you see simply can not be captured on a camera. Therefor, I just enjoyed the moment and my time with Laura. Here are a few shots that came out though.
-
-
 
 [gallery link="none" ids="3085,3086,3087,3210,3211,3084,3083"]

@@ -2,18 +2,18 @@
 title: LSU Alumni Magazine Article - Fall 2012
 date: 2012-10-07 00:18:45 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Kyrgyzstan
-- LSU
-- LSU Alumni
-- Peace Corps
-- Published
-- Talas
+  - Kyrgyzstan
+  - LSU
+  - LSU Alumni
+  - Peace Corps
+  - Published
+  - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/lsu-alumni-magazine-article-fall-2012/
+link: https://git.judsonlmoore.com/lsu-alumni-magazine-article-fall-2012/
 wordpress_id: 1179
 ---
 
@@ -39,8 +39,8 @@ My last ten months of service promise to be full of challenges and rewards!
 
 I continue to love my life and have great pride in my service to the Kyrgyz people. I hope that you find a way to serve your own community and find your own inspiration to better your world. As always, you may follow my adventure at https://www.judsonlmoore.com and @JudsonLMoore.
 
-Yours In Service & GEAUX TIGERS!
---
+## Yours In Service & GEAUX TIGERS!
+
 Judson L Moore
 US Peace Corps 2011-13
 Volunteer, Talas Kyrgyzstan

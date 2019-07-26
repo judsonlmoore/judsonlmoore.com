@@ -2,30 +2,27 @@
 title: Enjoy the taste of crow - an interview with Scott Holiday of the Rival Sons
 date: 2017-02-21 17:01:28 Z
 categories:
-- Music
+  - Music
 tags:
-- celebrity encounter
-- interview
-- Music
+  - celebrity encounter
+  - interview
+  - Music
 author: judsonlmoore
 comments: true
 excerpt: I caught up with Scott Holiday in Germany while on tour with Rival Sons.
   He talks of life on the road, their new album, and how the band thrives.
 layout: post
-link: https://www.judsonlmoore.com/interview-scott-holiday-rival-sons/
+link: https://git.judsonlmoore.com/interview-scott-holiday-rival-sons/
 wordpress_id: 14285
 ---
 
 ## Scott Holiday and the Taste of Crow
 
-
 I caught up with rock band Rival Sons while on tour in Europe to get a sense of life on the road, the creative spirit of the band, and where they are headed next with their music. Guitarist Scott Holiday sat down with me for an interview backstage on February 21, 2017 in Cologne Germany.
 
 Scott tells me some hilarious stories from touring with Black Sabbath, and opens up his heart about the pain of being away from family while on the road. But above all, we get some insights for how Rival Sons is teaching that rock how to roll eight years on.
 
-
 ## How is the tour going? Where are you all at right now?
-
 
 **Scott Holiday:** The tour is going great. As far as where we are on the map, we’re in Cologne. We just came from Berlin last night and I think we’re about 2 weeks into this one. We have about 2 more weeks to go before we go home. It’s called the Teatro Fiasco.
 
@@ -39,25 +36,19 @@ It makes people feel things and that’s the idea. If we don’t spur ourselves 
 
 ![Jay Buchanan of the Rival Sons sings on stage](../assets/images/2017/02/interview-scott-holiday-rival-sons-002.jpg)
 
-
 ## Tell us a little bit about your flavor of rock ‘n roll. Where is this coming from?
-
 
 **Scott Holiday:** Well, the band is going to be a hybrid of the personalities involved in making it. [We are] very eclectic personalities that like all sorts of music. Mostly, you will probably hear us not listening to rock ‘n roll. We’ve been listening to the newest Anderson Paak record, which is fantastic. We listen to a lot of hip-hop. We listen to a lot of old soul, a lot of funk. I’ve listened the shit out of rock ‘n roll and I still love rock ‘n roll. But our music is an amalgamation of our joys and consciously knowing that we are a rock ‘n roll band. So, yeah, you have a lot of elements that aren’t rock ‘n roll in a rock ‘n roll situation. How do you explain anything like that?
 
 And it’s also very traditional and very torch-bearing in a way that we know. Rock ‘n roll has seemed to—I think now it’s just re-sprouting. But when we started the band even before I met the guys when I was looking for everybody, I felt rock ‘n roll had become very complacent with itself and it felt horrible and, of course, it was never going to die or go away, but I just felt like The Blues Brothers being on a mission from God.
 
-
 **Further Reading: [Posters from Concerts I Promoted](/concert-posters/)**
-
 
 We have a responsibility to do it the way that we believe and want to see it done, a dirty rock ‘n roll band. We’ve always said a quote, “It seemed like rock forgot to roll. It’s like rock forgot to dance.” It forgot its boogie. It forgot what it was all about and I just wanted to make something that I will be proud of and feel like it’s encompassing these elements. It’s dirty. It’s very bluesy. It’s country and western, a lot of R&B, funk and a lot of soul. That’s what rock ‘n roll is. I think the great amalgamation of all these styles.
 
 We know what country and western is and we know what the blues is, but rock ‘n roll was a little bit all of those things and our band is a little bit all those things as well.
 
-
 ## You famously record all of your studio albums on-the-fly, with no preparation or writing prior to entering the studio. Considering the short timespan, how do you get so much creativity into such a short span and still keep up such a high standard of quality of music?
-
 
 **Scott Holiday:** I don’t know how to really prepare it. I think it’s just what we are, the animal that we are. The guys in the group were hungry and it takes a long time between records even though we’re doing one every year. We’re playing a lot of live shows all year long. We stay on the road quite a bit and that inspires creation. It also makes you get sick of the old material, not in a way that you’re not going to play well or you don’t want to play it, but in the way that you want new material and you want to expand your catalogue and you want to do new things and you realize—you see your own patterns. You see how you’ve been doing things and where you want to take them.
 
@@ -69,9 +60,7 @@ It could go horribly wrong. We could have nothing in 3 weeks, but for some reaso
 
 ![Mike Miley of the Rival Sons plays drums on stage](../assets/images/2017/02/interview-scott-holiday-rival-sons-003.jpg)
 
-
 ## So how did the formation of Rival Sons happen, with such an eclectic group, that everybody said, “Oh, yeah, this makes sense. Let’s do this.” How do you explain that?
-
 
 **Scott Holiday:** I basically gave my mission statement in my pitch one by one to these guys—and each of these guys have their own mission statement on what they want to do with their art and their music—and it just seemed to be we had a common ground that we all wanted to do this rock ‘n roll and we are all connected with each other’s personality to a certain degree. Me and Jay really connected about old blues and how it seems to have been removed from modern rock ‘n roll and that that was a mistake and that’s a travesty. We like to have rock ‘n roll where it was.
 
@@ -79,9 +68,7 @@ When we work together, the proof in the pudding is in the taste so that’s real
 
 So, being in a band is very much like a marriage. Artists are very much like that. It’s a really deep connection. You just feel it with some people and you don’t with others.
 
-
 ## During your time on the road, do you get homesick? How do you cope with all the time on the road or being away from friends and family?
-
 
 **Scott Holiday:** Yeah, I have 2 kids. It’s miserable. It’s horrible. It’s fucking excruciating and it’s no place for a family man on the road. It’s horrible. I already ended a marriage last year because of it. It’s very difficult. My advice about that would be be careful what you wish for. I’ve worked on this since I was a kid and ended up having a family in the interim and it all kind of came to me the way it is now after I had my family and it’s shitty to be away from home. And we all are dads and that is the difficult thing on the road. We love our job and we can’t stop doing the job because the job keeps the family alive and we could not be happy without the job. But it’s the worst part of the job for sure. There’s no bright side. I know this is a dark answer, but it’s the truth. There’s no bright side to it. It sucks. It fucking sucks. We all hate it.
 
@@ -91,9 +78,7 @@ So, that’s how we cope with it. We talk. I talk to my children every day. I wr
 
 We’re good—we’re all really family-oriented, more than probably any band maybe that you’ve ever met. We’re really, really close like family and we all take care of each other and that’s how you cope too.
 
-
 ## What advice can you give to anybody starting out on the the rockstar journey?
-
 
 **Scott Holiday:** My main advice for people starting out is learn to enjoy the taste of crow. If you wanted to survive and do music for a living, learn to enjoy the taste of crow. It means, learn to enjoy being poor, get comfortable with it because that’s mostly what we are.
 
@@ -103,17 +88,13 @@ It’s almost weird for the band when you think about it. It’s almost kind of 
 
 ![Todd Ögren-Brooks of the Rival Sons sings on stage](../assets/images/2017/02/interview-scott-holiday-rival-sons-004.jpg)
 
-
 ## Do you have any anecdote you want to share or moment of inspiration, words of wisdom that were passed on to you and you can pass on to others?
-
 
 **Scott Holiday:** We toured with Black Sabbath for 13 months and we often shared the same hotels as them. I remember I could hear like 2 doors down from me, it sounded like somebody was listening to the Osbourne TV show too loud on the TV. Sharon and Ozzy were in there and the kids had dropped by too. He was going, “Sharon, turn down the T.V.” And she’s going, “Ozzy, no!” You can just hear them doing it, like holy shit. They’re right there! I just looked outside the door and thought, “Oh, my God! This is unbelievable. I can’t believe we’re doing this. This tour is going to be great.”
 
 It was just a surreal thing. It all just underscored the importance of authenticity.
 
-
 ## How has your music evolved over time? Do you get a sense for that evolution day by day? Or do you not really know what it’s going to evolve into until you get in the studio the next time?
-
 
 **Scott Holiday:** If I was going into the studio tomorrow, I wouldn’t know until I was in there tomorrow. Even today I couldn’t tell you. There’s several ideas that we all want to pull in and that we talk about that we’re going to pull in, but you’re never really sure how that’s going to manifest when you get in there.
 
@@ -121,16 +102,12 @@ We went in there and said, “Yeah, we want this like steady, up-tempoed, groovy
 
 So it’s very organic in that way. It has to be—it’s very honest in that way. You can’t force a record. You can’t bullshit each other and you can’t bullshit the listener. It has to be a real thing for us because, otherwise, it’ll never—it’ll never really come out. That’s for sure. It will never get off, like I said we’re killing our darlings. So, if we’re in there forcing shit, we can hear it real, real quick. We’re looking for the nugget, the magic where we impress ourselves or somebody’s performance is blowing us away. If there’s something forced, we’re likely to delete it. “I don’t fucking want to hear that ever again in my life, delete that right now.”
 
-
 ## Is there anything else you want to add?
-
 
 **Scott Holiday:** If anybody reading this is a fan, thank you. Thank you, thank you. We’re so thankful that we could come back and do this all over the world and it’s because we have great fans that support us. So thank you.
 
 ![Scott Holiday of the Rival Sons and I hanging out backstage](../assets/images/2017/02/interview-scott-holiday-rival-sons-001.jpg)
 
-
 ## Thank you, Scott.
-
 
 A big “thank you” to Scott and the whole Rival Sons crew for taking the time to participate in this interview. So how about you? Do you love the taste of crow? What road do you travel? Please leave me a comment below, or connect with me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore/). Travel safely!

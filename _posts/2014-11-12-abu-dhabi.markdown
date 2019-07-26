@@ -2,32 +2,29 @@
 title: 'Abu Dhabi: Making the Best of a 36-Hour Layover in the UAE'
 date: 2014-11-12 10:35:29 Z
 categories:
-- UAE
+  - UAE
 tags:
-- Adventure
-- Bucket List
-- Heritage
-- Travel
-- UAE
+  - Adventure
+  - Bucket List
+  - Heritage
+  - Travel
+  - UAE
 author: judsonlmoore
 comments: true
 excerpt: A 36-hour layover in Abu Dhabi became one of the most interesting and spontaneous
   adventures of my life! Check out all the awesome things you can do too.
 layout: post
-link: https://www.judsonlmoore.com/abu-dhabi/
+link: https://git.judsonlmoore.com/abu-dhabi/
 wordpress_id: 3062
 ---
 
 ## A 36-Hour Layover in Abu Dhabi
 
-
 What an unexpected treat! I've dreamed of visiting the United Arab Emirates for such a long time but even with all of my travel experience, this has always felt like a place too distant, too exotic and so far out of reach that I might not ever get here. However, thanks to a 36-hour layover in Abu Dhabi on my way back to India from Colombia, I got to experience a few of the key landmarks which I've always hoped to see.
 
 [Uber](http://www.uber.com/invite/uber0368) is truly my favorite service in the world. I landed in Abu Dhabi, connected to free wifi while waiting in the customs line, requested an Uber, and when I walked out of the airport there was a beautiful new Lexus waiting for me.
 
-
 ## The Sights of Abu Dhabi
-
 
 My first destination was the Sheikh Zayed Mosque, the largest mosque in the UAE. It's architecture and materials are inspired by the Taj Mahal. It is an impressive compound and in many ways it is much more impressive than the Taj Mahal, but having now experienced both structures, I have my doubts that the Sheikh Zayed Mosque will still be standing in 350 years. Regardless, it's a beautiful place; very photogenic!
 
@@ -39,8 +36,6 @@ After this, it was time for me to head to the Marina Mall and find internet so t
 
 Please forgive my appearance in these photos; I'd been on a plane for over 24-hours and had no rest before going directly to see everything I could.
 
-
 ## Photos From Abu Dhabi
-
 
 [gallery link="none" ids="3147,3148,3150,3149,3203,3204,3151,3152,3153,3154,3155,3205,3157,3206,3156"]

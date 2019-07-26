@@ -2,15 +2,15 @@
 title: Peace Corps Hardship
 date: 2012-03-20 15:03:03 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Lifestyle
-- Peace Corps
-- Talas
+  - Lifestyle
+  - Peace Corps
+  - Talas
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/peace-corps-hardship/
+link: https://git.judsonlmoore.com/peace-corps-hardship/
 wordpress_id: 5
 ---
 

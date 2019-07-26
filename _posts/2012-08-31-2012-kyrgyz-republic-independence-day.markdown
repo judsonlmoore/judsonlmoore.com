@@ -2,18 +2,18 @@
 title: 2012 Kyrgyz Republic Independence Day
 date: 2012-08-31 06:34:48 Z
 categories:
-- Peace Corps
+  - Peace Corps
 tags:
-- Bishkek
-- Freedom
-- Holiday
-- Kyrgyz Culture
-- Kyrgyzstan
-- Peace Corps
+  - Bishkek
+  - Freedom
+  - Holiday
+  - Kyrgyz Culture
+  - Kyrgyzstan
+  - Peace Corps
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/2012-kyrgyz-republic-independence-day/
+link: https://git.judsonlmoore.com/2012-kyrgyz-republic-independence-day/
 wordpress_id: 772
 ---
 

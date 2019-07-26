@@ -2,13 +2,13 @@
 title: 'Book Review: Tin Drum'
 date: 2005-11-15 08:00:00 Z
 categories:
-- College Papers
+  - College Papers
 tags:
-- Germany
+  - Germany
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/book-review-tin-drum/
+link: https://git.judsonlmoore.com/book-review-tin-drum/
 wordpress_id: 143
 ---
 

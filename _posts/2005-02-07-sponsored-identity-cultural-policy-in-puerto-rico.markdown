@@ -2,104 +2,50 @@
 title: 'Sponsored Identity: Cultural Policy in Puerto Rico'
 date: 2005-02-07 05:00:00 Z
 categories:
-- College Papers
+  - College Papers
 tags:
-- Politics
+  - Politics
 author: judsonlmoore
 comments: true
 layout: post
-link: https://www.judsonlmoore.com/sponsored-identity-cultural-policy-in-puerto-rico/
+link: https://git.judsonlmoore.com/sponsored-identity-cultural-policy-in-puerto-rico/
 wordpress_id: 155
 ---
 
 _Sponsored Identity: Cultural Policy in Puerto Rico,_ by Arlene Davilla, explores the current and historical context of Puerto Rico’s cultural identity, mostly as expressed through events and festivals.  The author explores the governments concern of the expanding presence of corporate sponsors and how they are affecting the traditional aspects of the nation and what problems this poses for some people.  The author lays out a significant and interesting combination of facts which revolve around how this influence is being regulated to stay within reasonable guidelines, and how it is affecting the festive scene of the nation.
 
-
-
-
 Much of the political culture of Puerto Rico has changed over the last half century.  In 1952 there was large support for independence from the United States.  In the 1993 plebiscite elections, the two dominate parties (who support a continued political relationship between the island and the US) received a sum of 95% of the vote, while only 4.4% went to the party in favor of independence.  The author argues however, that despite these voting statistics, Puerto Rico still has a very strong nationalist identity and that this is only an indication of a change in, “historical manifestation”.
-
-
-
 
 Part of this nationalist identity which was preserved in the 1993 elections is that the unique Puerto Rican culture was affirmed to be strong and uninfluenced despite its United States statehood.  A part of this was a dedication to maintaining Spanish as the official language of the island and continuing an independent team in the Olympic Games.
 
-
-
-
 The prevailing party in the 1993 election was the Popular Democratic Party (PPD).  Their platform argued that Puerto Rico was best off maintaining its commonwealth status under the United States because its offered the, “best of both worlds,” by guaranteeing security of the national culture while offering American citizenship at the same time.
-
-
-
 
 The PPD’s opposition which lost by only 2.2% argued that statehood status of joining the Union would allow for the preservation of culture (i.e.: the national hymn, flag, language, etc…) while providing the economic boost which would allow for a better quality of life.
 
-
-
-
 The Institute of Puerto Rican Culture (ICP) is the governmental agency in charge of developing and maintaining cultural programs and events, as well as promoting official Puerto Rican cultural policy.  Such an office as this is obviously set up to provide a healthy outlet and venue for the people to express themselves, but often has been an agency of cultural struggle where inequalities have been manifested.
-
-
-
 
 Much of this conflict is nested in the fact that despite its small size, Puerto Rico is a very diverse nation with vivid folklore culture as well as modern sentiment.  The objective of the ICP is to find the suitable middle ground on which to promote Puerto Rico while implementing cultural policy which can be universally accepted.
 
-
-
-
 The ICP is criticized for operating on a top-down mode of policy creation where the major attractions get all of the institute’s attention and resources, while smaller, local traditions and key places are left along the wayside struggling to be noticed.  An example of this is on the east coast where African-Caribbean culture is predominant in the whole region, but only officially recognized by the ICP in the city of Loiza where a carnival-like patron-saint festival draws many tourists every year.
-
-
-
 
 The ICP office in the city of Caone is located in the middle of the predominant and historical town square.  Although this place is of significant historical importance, its roll as the city center is no longer recognized by the towns citizens.  Only the administrative core is still located here in the historic town hall and other important buildings of administration.  The town’s people have been redirected by suburban shopping centers and a suburban way of life that that this historic core is no longer seen as an important symbol of the town’s heritage.
 
-
-
-
 One major concern of the ICP in their day-to-day operations is to not appear too commercial.  For instance, in the city of Caone, the use of loudspeakers and billboards is a popular and efficient way to advertise one’s services.  But these methods have never been used because of the institute’s fear that is would make them look too commercial.  Instead, the institute employs local sponsors as an alternative to mainstream forms of advertising and community support.
-
-
-
 
 Festivals are extremely predominant forms of cultural expression in Puerto Rico.  There is some concern that many festivals nowadays are commercial expressions of political motives that are obscured behind a festival format.  The conflict that the ICP has is that they only promote traditional and ethnic cultural events which portray a ‘higher class’ of cultural understanding.  Their events are attended by much fewer people than the mainstream festivals which promote aspects of modern pop-culture.  These mainstream festivals are seen as being much less culturally significant by politicians, intellectuals, and the public at large, however, they do pull many more people to the event because of their commercialization.
 
-
-
-
 Many of these festivals are seen as events portraying competing views on what Puerto Rico’s cultural definition is, and what the government wants it to be, or be interpreted as.  These same governmental figures lack control over the festival activities because of the, “ambiguity of the island’s political status.”  This political ambiguity translates into the culture as having an equal ambiguity over finding what the national identity (culturally speaking) is.
-
-
-
 
 Despite this behind the scenes struggle for the cultural hierarchy, the nation’s citizenship for the most part has a uncaring attitude about how cultural or not a festival is.  For many Puerto Ricans, festivals are the only forms of entertainment they have, so it doesn’t matter what type of music, food, or crafts are around, it’s all a form of entertainment, the genre doesn’t matter so much.
 
-
-
-
 Earlier, corporate sponsorship in cultural matters was discussed.  To expand on that discussion it should be noted that the number of corporate sponsors in increasing on the island at that this does conflict with the current Puerto Rican cultural policy (although it is not illegal).  The ICP would argue that these entities take away from the cultural aspects of the events they sponsor, but the author of this book disagrees and states that they are, “added players elaborating conceptions of Puerto Ricanness.”
 
-
-
-
-Puerto Rico consumes over $12.2 billion annually in American-made goods.  As a result, there are huge advertising campaigns on the Island by American companies.  In many regards it is close to the same as in the United States.  Puerto Ricans are surrounded by corporate logos, posters, advertisements, commercials, products, etc…  As a result, this corporate sponsorship is hardly a sight out of the ordinary for most people and its effectiveness has been watered down.
-
-
-
+Puerto Rico consumes over \$12.2 billion annually in American-made goods.  As a result, there are huge advertising campaigns on the Island by American companies.  In many regards it is close to the same as in the United States.  Puerto Ricans are surrounded by corporate logos, posters, advertisements, commercials, products, etc…  As a result, this corporate sponsorship is hardly a sight out of the ordinary for most people and its effectiveness has been watered down.
 
 The author also argues that if the people of the island are driving the markets in such a way that make corporate sponsorship so worthwhile, then obviously that _is_ a part of the Puerto Rican culture.  By making the publicity industry so predominant, the corporate involvement in festivals is far less of a contradiction so much as it is a component of the modern culture.  As it stands, corporate sponsors are selling products through the cultural medium, and are conveying the people’s own culture in the products which the people buy.
 
-
-
-
 The commercial involvement in the nation’s culture and image is seen in such a negative light by the political officials in part because of fear that the big-money corporations are in competition to represent the people’s culture _through_ their products and not just the events they promote.  One reason this is so threatening is that culture is seen through official eyes as a promotion of traditional activities, and corporations (many of which are American) are not a part of the nation’s history and tradition.  Their recent arrival and rapidly-growing predominance is shredding what is seen as traditional by packaging it in a non-traditional fashion.  However, corporate sponsorship is a means of convenience because they do bring big money to the area for the promotion of cultural events, festivals, and their own products (of course).  The fear of the politicians is that corporations are threatening the,” domain of sovereignty.”
 
-
-
-
 There are some exceptions to this such as the Bacardi Folk Arts Fair where Bacardi sponsors this ICP-sanctioned festival but stays within the guidelines set out by the ICP so that it is still considered a true cultural event.  This hybrid of culture and sponsorship is one example of how corporations can be helpful in promoting traditional values and events as well as the modern ones.
-
-
-
 
 Despite the political conflict surrounding the definition of culture in Puerto Rico, the power to define that is not in any one person’s hands.  Culture is a broad concept which encompasses everybody.  Corporate sponsors and mainstream festivals are just as much a part of the culture as the traditional folklore; even the mere presence of a conflict between the two in the form of this debate is a part of the culture.  Culture is all that exists and is supported by the people of a nation.  One can not say that a festival with a huge turn out of attendance is not a part of a national culture just because it hasn’t been that way in the past.  The logic in that argument is not valid.  Culture is the sum of all aspects of all types of events in Puerto Rico, and so long as this debate lives on, it will be a part of the culture, too.

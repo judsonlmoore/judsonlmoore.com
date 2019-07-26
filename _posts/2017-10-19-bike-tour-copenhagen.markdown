@@ -2,42 +2,35 @@
 title: 'How to spend a day in Denmark: A bike tour of Copenhagen'
 date: 2017-10-19 10:00:26 Z
 categories:
-- Denmark
+  - Denmark
 tags:
-- "#lifeattrivago"
-- Biking
-- copenhagen
-- cruise
-- denmark
-- nordic
-- travel guide
+  - '#lifeattrivago'
+  - Biking
+  - copenhagen
+  - cruise
+  - denmark
+  - nordic
+  - travel guide
 author: judsonlmoore
 comments: true
 excerpt: With just one day to see it all, I found that a bike tour of Copenhagen was
   the best way to spend just one day in Denmark.
 layout: post
-link: https://www.judsonlmoore.com/bike-tour-copenhagen/
+link: https://git.judsonlmoore.com/bike-tour-copenhagen/
 wordpress_id: 18193
 ---
 
 ## Biking my heritage in Copenhagen
 
-
 Many moons ago, my family made the treacherous journey across the Atlantic Ocean to immigrate to the United States. What they left behind was a life in Denmark. Now, much to my surprise, and thanks to [a company cruise I took with trivago](https://www.judsonlmoore.com/trivago-tour-2017/), I find myself arriving at the shores of my forefathers. I only have a day to get to know this land, and I can't think of a better way to do it than a bike tour of Copenhagen! #yeahbike!
 
 My bike tour group had 15 people in it and we were led by an awesome guide name Julia. It was clear from the start that Julia understands that she lives the dream. She just bikes all day and gets paid to meet people from all over the world. That is a pretty sweet gig if you ask me!
 
-
 **Want to join me next year for trivago on Tour? [See trivago’s open career opportunities](http://company.trivago.com/jobs/).**
-
 
 I will share some photos and history lessons learned while on the tour in the article below, and to help you follow along, here is a map of the route we rode.
 
-
-
-
 ## Statue of The Little Mermaid at Langelinie
-
 
 Perhaps the most iconic statue in all of Denmark is this statue of The Little Mermaid based on the fairy tale by Dutch author Hans Christian Andersen. It is the same story which inspired Disney's mermaid story, but here in the presence of the original mermaid, I learned that this mermaid never found her prince and instead was turned into seafoam. Rather tragic.
 
@@ -51,9 +44,7 @@ The facility also features an 85-meter high observation desk with cafe deemed as
 
 ![The Mermaid, in Copenhagen](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-the-mermaid-min.jpg)
 
-
 ## Statens Museum For Kunst (artist museum)
-
 
 Though we didn't get to go inside the National Gallery of Denmark, just passing by the back of the building was pretty impressive. These thick hedges next to the waterfront promenade made an impression. In fact, it wasn't until after I got home and did some additional research that I came to know that this was a museum at all. Still, it called for being photographed and it a typical example of Dutch architecture along the waterfront of Copenhagen.
 
@@ -61,9 +52,7 @@ Should I return to Copenhagen I will certainly take the time to pay a visit to t
 
 ![Town homes along the water in Copenhagen](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-townhomes-min.jpg)
 
-
 ## The Queen's Residence - Christian IX's Palace
-
 
 Unlike in England where you can't get anywhere near the Queen's residence, the Dutch queen has no closed gates, just a few ceremonial guards who will bark at you if you get too close. The building behind me is one of four nearly identical buildings which surround the courtyard in which I am standing. The only discernible thing about this building out of the other three is that it has five chimneys. The others have four.
 
@@ -75,25 +64,19 @@ And here is a fun linguist fact: in Dutch, the formal "you" is only used when ad
 
 ![The Dutch Queen's residence in Copenhagen](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-queens-residence-min.jpg)
 
-
 ## Frederik's Church
-
 
 The central cathedral of Copenhagen is also known as The Marble Church. The stones are, of course, marble, but more notably, the marble on the interior of the church is dark. The highlights against the marble come in the gold details and statue figures of white marble. The dome is the largest in Scandinavia and is fashioned after St. Peter's Basilica in Rome.
 
 ![Frederik's Church in Copenhagen.](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-frederiks-church-min.jpg)
 
-
 ## The New Haven Canal
-
 
 Copenhagen is webbed with canals. Similar to Amsterdam and other European coastal cities, Copenhagen's canals define the city's landscape. Here is one such canal, lined with shops, cafes, and houseboats. I imagine that the colorful buildings go a long way in sustaining the naturally cheerful mood of the Danes during the cold, wet, winters. You can see that even on this cloudy and grey day, this canal scene looks most welcoming!
 
 ![A Copenhagen Canal](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg)
 
-
 ## Freetown Christiania
-
 
 The borough of Christianshavn is an anarchical district in Copenhagen which hasn't had any influence from the Dutch laws for decades. The 1,000 or so inhabitants of the district maintain their own rules which are reflective of the American hippie movement of the 1960s and 1970s. However, because of the thriving cannabis trade in the area, the government has started to step in a bit in recent years and is working to negotiate the refederalization the neighborhood.
 
@@ -101,9 +84,7 @@ For now, Christiania remains free and independent, but those days are likely num
 
 ![Freetown Christiana in Copenhagen](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-freetown-christiana-min.jpg)
 
-
 ## The Royal Library
-
 
 The archives and royal library of Denmark have recently been moved into this beautiful and modern building. The library collection contains over 500 years of Danish literary works and other important relics. This is one of the largest libraries in the world and is the biggest in the entire Nordic region.
 
@@ -111,17 +92,13 @@ This is Julia, our awesome tour guide.
 
 ![Julia, our Copenhagen bike tour guide](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-library-min.jpg)
 
-
 ## Copenhagen from the Langebro Bridge
-
 
 If you look at the map I provided at the beginning of this post, then you will see that this bride crossing is located that the southern-most point of our Copenhagen bike tour. This also means we have reached our halfway point in the tour. We took a short break and snapped some photos of the town behind us. The Copenhagen skyline, such as it is, is not dominated by towering buildings but rather with more historic buildings which maintain Copenhagen's feeling of European authenticity.
 
 ![The Copenhagen skyline behind me](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-skyline-min.jpg)
 
-
 ## Tivoli Gardens
-
 
 Opening in 1843, Tivoli is the second-oldest operating amusement park in the world. The oldest is also in Denmark just a few miles away, and is a staggering 250 years older, having opened in 1583! I guess the Danes have always known how to have a good time!
 
@@ -131,9 +108,7 @@ Though we just rode our bikes along the exterior wall and past the main entrance
 
 ![Biking in front of Tivoli, the world's 2nd oldest amusement park](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-tivoli-min.jpg)
 
-
 ## The small homes of Nyboder (old barracks)
-
 
 On the way back to our cruise ship, we passed by the old historic buildings of the colonial Danish Navy. The neighborhood now known as "Nyboder" is named as such for the hue of yellow which all of the buildings are painted. The original colors were red and white, like the Danish flag, but the new color makes a striking impression, and thus the name for the neighborhood.
 
@@ -143,9 +118,7 @@ I couldn't help but think to myself that if I lived in Copenhagen, I would want 
 
 ![My Copenhagen bike tour group at the old barracks](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-barracks-min.jpg)
 
-
 ## Her Danish Majesty's Yacht Dannebrog
-
 
 This was a special treat! At the beginning of our bike tour, we passed within view of the royal yacht at port, but it was very far away and the photo didn't really come out. Upon returning to my cabin on the cruise, I opened up my balcony and the HDMY Dannebrog was sitting directly outside of my window!
 
@@ -155,9 +128,7 @@ God rejse! (bon voyage in Danish)
 
 ![The Dutch Royal Yacht](../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-yacht-min.jpg)
 
-
 ## What a great day this was!
-
 
 Well, I certainly wouldn't have expected to see so much and learn so many interesting things from just a few hours in Copenhagen, but I really did. If ever you find yourself needing to make good use of just one day in Copenhagen, then I highly recommend taking a bike tour.
 

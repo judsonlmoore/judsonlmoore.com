@@ -2,19 +2,19 @@
 title: The Raven in Native American Mythology
 date: 2004-04-28 07:00:00 Z
 categories:
-- College Papers
+  - College Papers
 tags:
-- Culture
-- Mythology
-- Native American
-- Raven
-- Symbols
+  - Culture
+  - Mythology
+  - Native American
+  - Raven
+  - Symbols
 author: judsonlmoore
 comments: true
 excerpt: The raven is a very important figure in most Native American cultures. It
   is seen as the creator of light and as a trickster figure.
 layout: post
-link: https://www.judsonlmoore.com/the-raven-in-native-american-mythology/
+link: https://git.judsonlmoore.com/the-raven-in-native-american-mythology/
 wordpress_id: 158
 ---
 
@@ -23,13 +23,12 @@ _Photo Credit: [Larry Vienneau](https://www.etsy.com/listing/82025011/raven-artw
 > If you have any questions about this paper or the Raven in Native American Mythology, feel free to leave a comment below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).
 
 ## The Raven in Native American Mythology
+
 Native American culture is embedded with extensive tales and legends.  Every aspect of life, death, and existence has its own story to explain why things are the way they are.  Often, different Native American tribes had very similar beliefs, but most tribes have their own unique variations in the details of these legends. The raven is a very important figure in most Native American cultures.  It is seen as the creator of light and as a trickster figure.  As the maker of light, the raven symbolizes the ultimate creator of all things of that which existed before the beginning.  As a trickster figure, the raven is seen as a catalyst of mischief and mayhem.
 
 Although credited as the “creator” of life, one story of Raven depicts a greedy and mischievous figure who mostly works for selfish reasons while at the same time teaching lessons about life.  The Native American tribes recognized that Raven was the key which opened many of life’s treasures to them and for this they were grateful. They also realized that Raven did not do this for the good of man or anything else but only for himself.  So although Native Americans are thankful for what Raven has given to them, they realize that Raven is not to be trusted and that he is more selfish than generous (Burke).
 
-
 **Check out my [#WhileYoung](/whileyoung) advice series for living a full and prosperous life!**
-
 
 Because of the numerous tribes that believed in the raven, there were numerous variations of beliefs surrounding the story of the raven.  The following is a summary of the creation myth of the Tlingit tribe from the North Pacific coast region:
 
@@ -86,12 +85,13 @@ As with many deities, the raven is regarded with respect and wariness.  Being i
 <blockquote>If you would like additional sources, or have any questions, feel free to leave a comment below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).</blockquote>
 
 ## Bibliography
-* Bierhorst, John. The Mythology of North America. New York: William Morrow and Company, 1985.
-* Burke, Nikki. Gods, Heroes, and Myths. 24 February 2004. April 15, 2004. [http://www.gods-heros-myth.com/namerican/northgods.html](http://www.gods-heros-myth.com/namerican/northgods.html)
-* Erdoes, Richard, and Ortiz, Alfonso.  American Indian Myths and Legends. New York: Pantheon Books, 1984.
-* Hannah, Leslie. Personal interview. 21 April 2004.
-* Hooker, Richard. Raven: The Tlingit Creation. 6 June 1999. April 15, 2004.
-* Keepers of the Totem. Time-Life Books. Virginia: Time-Life Books, 1993.
-* Leeming, David, and Page, Jake. The Mythology of Native North America. Norman: University of Oklahoma Press, 1998.
-* McNeil, Larry. Fly By Night Mythology. April 15, 2004. [http://boisestate.edu/art/lmcneil/](http://boisestate.edu/art/lmcneil/)
-* The Spirit World. Time-Life Books. Virginia: Time-Life Books, 1992.
+
+- Bierhorst, John. The Mythology of North America. New York: William Morrow and Company, 1985.
+- Burke, Nikki. Gods, Heroes, and Myths. 24 February 2004. April 15, 2004. [http://www.gods-heros-myth.com/namerican/northgods.html](http://www.gods-heros-myth.com/namerican/northgods.html)
+- Erdoes, Richard, and Ortiz, Alfonso.  American Indian Myths and Legends. New York: Pantheon Books, 1984.
+- Hannah, Leslie. Personal interview. 21 April 2004.
+- Hooker, Richard. Raven: The Tlingit Creation. 6 June 1999. April 15, 2004.
+- Keepers of the Totem. Time-Life Books. Virginia: Time-Life Books, 1993.
+- Leeming, David, and Page, Jake. The Mythology of Native North America. Norman: University of Oklahoma Press, 1998.
+- McNeil, Larry. Fly By Night Mythology. April 15, 2004. [http://boisestate.edu/art/lmcneil/](http://boisestate.edu/art/lmcneil/)
+- The Spirit World. Time-Life Books. Virginia: Time-Life Books, 1992.

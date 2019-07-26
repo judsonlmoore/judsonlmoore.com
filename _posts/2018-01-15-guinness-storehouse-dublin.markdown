@@ -2,14 +2,14 @@
 title: Visiting the Guinness Storehouse in Dublin. Tour and experience review.
 date: 2018-01-15 16:08:37 Z
 categories:
-- Ireland
+  - Ireland
 tags:
-- alcohol
-- craft beer
-- dublin
-- Europe
-- Museum
-- tours
+  - alcohol
+  - craft beer
+  - dublin
+  - Europe
+  - Museum
+  - tours
 author: judsonlmoore
 comments: true
 excerpt: 'Learn about visiting The Guinness Storehouse in Dublin: the traditional
@@ -17,7 +17,7 @@ excerpt: 'Learn about visiting The Guinness Storehouse in Dublin: the traditiona
   a city is a major contributor to modern Irish history and to the island’s economy
   and world fame.'
 layout: post
-link: https://www.judsonlmoore.com/guinness-storehouse-dublin/
+link: https://git.judsonlmoore.com/guinness-storehouse-dublin/
 wordpress_id: 18751
 ---
 
@@ -27,18 +27,9 @@ Guinness is known the world over as a premium stout. It's not the kind of beer y
 
 So how does a beer with so many complications and which is so limited in drinkability end up being a global powerhouse business? **That is exactly what I came to the Guinness Storehouse in Dublin to find out.**
 
-
 **Additional reading: [Jameson distillery tour and whiskey tasting experience](https://www.judsonlmoore.com/jameson-distillery-tour-dublin/)**
 
-
-
-
-
-
-
-
 ## In A Nutshell
-
 
 **Highlights - ** The facilities are recently renovated but still have that industrial-era charm. The experience is about much more than just beer but also helps visitors understand the history of beer in general. The experience is extraordinarily well curated.
 
@@ -46,13 +37,7 @@ So how does a beer with so many complications and which is so limited in drinkab
 
 **Bottom line -** The space which the Guinness Storehouse occupies is very impressive and will leave visitors more knowledgeable about Guinness, beer, Dublin, and Ireland. A perfect way to spend 3-4 hours in Dublin.
 
-
-
-
-
-
 ## The Guinness Storehouse is the world’s largest beer glass
-
 
 The first thing you will notice when you walk into the Guinness Storehouse is that it is very (I mean VERY) large. It is a tall building, 7-stories of museum, which is hollow on the inside, plus a rooftop panoramic bar. Modern renovations have lined the interior atrium with glass panels, effectively forming **the world's largest beer glass**. If filled, it would hold something like 17 million pints of Guinness! Unfortunately, this design was impossible to photograph, so you will have to check it out yourself to see what I am talking about.
 
@@ -66,19 +51,15 @@ All of this was to set up what came next: **the brewing process**. (Step 11 is a
 
 ![image-28](../assets/images/2018/01/guinness-storehouse-dublin-brewing-process.jpg)
 
-
 ## Guinness as an industrial revolution leader
 
-
-A phrase which came up many times at the Guinness Storehouse was that this space was a _city within a city_ which shaped Ireland's position in the world **during the Industrial Revolution**. The whole space has a strong vibe resonating with Industrial Revolution-era aesthetic and machinery. Though much of this has been updated to modern machines and materials, it is super interesting to see some of the original brewing machinery which made it possible for Guinness to be brewed at scale.
+A phrase which came up many times at the Guinness Storehouse was that this space was a *city within a city* which shaped Ireland's position in the world **during the Industrial Revolution**. The whole space has a strong vibe resonating with Industrial Revolution-era aesthetic and machinery. Though much of this has been updated to modern machines and materials, it is super interesting to see some of the original brewing machinery which made it possible for Guinness to be brewed at scale.
 
 I must say that **of all the breweries I have visited around the world**, none have showcased their industrial roots quite like this.
 
 ![image-27](../assets/images/2018/01/guinness-storehouse-dublin-brewing-machinery.jpg)
 
-
 ## Detail and impressive scale at every step of the way
-
 
 **The exhibit which I found most interesting** was the area pictured below with all of the wooden casks which Guinness is aged in. I don't often think about beer as being aged in oak, but that actually is fairly common. In Düsseldorf, where I live now, it is common to get alt beer directly from the cask (but that story is for another day).
 
@@ -88,9 +69,7 @@ This exhibit area features a large stack of Guinness barrels, a display of origi
 
 ![image-25](../assets/images/2018/01/guinness-storehouse-dublin-barrels.jpg)
 
-
 ## Cultural impacts of Guinness
-
 
 There is a whole floor dedicated to Guinness advertising. Apparently, **Guinness has some hilarious ads**. Many of the ads depict exotic animals like seals and toucans propping up a Guinness on their noses. There actually was a real circus seal that could run around the room while balancing a full glass of Guinness on its nose without spilling it. I imagine that practice has ended, but the videos were quite funny.
 
@@ -102,9 +81,7 @@ The culture piece which I gravitated to was the one which impacts my daily work 
 
 ![image-24](../assets/images/2018/01/guinness-storehouse-dublin-tasting-time-clock.jpg)
 
-
 ## A little taste of the black stuff
-
 
 Speaking of taste testing, **it is time for us to get a bit of the black stuff!** We get ushered into a room which is nearly identical to The Television Room in Willy Wonka where he makes his television chocolate. This space is a stark difference from what we have experienced so far: plain white walls, no branding, just a white room which bright lighting and a bar with some Guinness taps.
 
@@ -116,20 +93,16 @@ And then finally, we get to drink some Guinness! Unfortunately, as you can see f
 
 ![image-23](../assets/images/2018/01/guinness-storehouse-dublin-tiny-taste-testing.jpg)
 
-
 ## How to achieve a perfect pour of Guinness
-
 
 But the drinking isn't over yet! The last stop on the tour is the Guinness Pouring Academy. Here, we learned what makes a Guinness tap different from a normal beer tap. I already knew that **Guinness is served on nitro**, rather than CO2, but there is more to it than that.
 
-**The perfect pour of Guinness** demands that you first fill the glass about 2/3 by pulling the tap toward you. Then you let this settle for a minute and when you continue filling the glass you _push_ the tap _in_ which actually pours Guinness _without_ nitro! It is this combination that creates the trademark creamy head on top of the glass.
+**The perfect pour of Guinness** demands that you first fill the glass about 2/3 by pulling the tap toward you. Then you let this settle for a minute and when you continue filling the glass you *push* the tap *in* which actually pours Guinness *without* nitro! It is this combination that creates the trademark creamy head on top of the glass.
 
 ![image-22](../assets/images/2018/01/guinness-storehouse-dublin-perfect-pint-certification.jpg)
 
-
 ## Plan a visit to the Guinness Storehouse
 
-
-A visit to the Guinness Storehouse will set you back **about $20** and is a great way to fill a rainy afternoon in Dublin. Learn about the Storehouse and all of their ticketing options at [guinness-storehouse.com](https://www.guinness-storehouse.com/en).
+A visit to the Guinness Storehouse will set you back **about \$20** and is a great way to fill a rainy afternoon in Dublin. Learn about the Storehouse and all of their ticketing options at [guinness-storehouse.com](https://www.guinness-storehouse.com/en).
 
 Have you been to the Guinness Storehouse before? **I would love to know your thoughts about the experience!** Please leave a comment below, or feel free to reach me directly on Twitter [@judsonlmoore.com](https://www.twitter.com/judsonlmoore).

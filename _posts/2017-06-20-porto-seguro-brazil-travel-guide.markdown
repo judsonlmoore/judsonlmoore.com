@@ -2,23 +2,22 @@
 title: Porto Seguro is the best beach town in the whole world. Here is why.
 date: 2017-06-20 10:00:45 Z
 categories:
-- Brazil
+  - Brazil
 tags:
-- Beach
-- brazil
-- South America
-- travel guide
+  - Beach
+  - brazil
+  - South America
+  - travel guide
 author: judsonlmoore
 comments: true
 excerpt: Porto Seguro is where Portuguese colonialists discovered Brazil. Full of
   history, this coastal town has the perfect mix of beach, activity, and history.
 layout: post
-link: https://www.judsonlmoore.com/porto-seguro-brazil-travel-guide/
+link: https://git.judsonlmoore.com/porto-seguro-brazil-travel-guide/
 wordpress_id: 12815
 ---
 
 ## Porto Seguro: My favorite beach in the world
-
 
 As a ginger kid, beaches and I don't usually get along so well. I rarely find that the exposure to so much direct sunlight is worth the payoff of the activities which come along with being at the beach. Despite its proximity to the Equator, Porto Seguro in the state of Bahia in Brazil is somehow the **perfect beach setup for a ginger like me**.
 
@@ -28,12 +27,7 @@ There are ample shaded sitting areas directly on the beach and lots of historic 
 
 _This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](http://visitbrasil.com/). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
 
-
-
-
-
 ## In A Nutshell
-
 
 **Highlights** - Pristine beach, warm water, well-defined local food culture, lots of activities, non-touristic feel, very affordable.
 
@@ -41,13 +35,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 **Bottom line** - Porto Seguro is perhaps the very best beach I have ever visited and had a perfect combination of activity, relaxation, history, and modernity.
 
-
-
-
-
-
 ## Celebrity encounters in Porto Seguro
-
 
 [caption id="attachment_17895" align="alignright" width="181"]![Comparison of Judson Moore and Fred Durst](../assets/images/2017/06/judson-moore-fred-durst.jpg) Fred Durst or Judson Moore?[/caption]
 
@@ -65,11 +53,7 @@ This was quite an exciting revelation. So for the week in Porto Seguro, my frien
 
 To give you a little more of a personal look at all the activities I got in to in Porto Seguro, here is a video. It is a bit long, so feel free to jump around the video and find the areas that interest you the most.
 
-
-
-
 ## The Discovery Coast
-
 
 Porto Seguro is located along what is known as the Discovery Coast. Called this because it is **where the Portuguese first arrived** in Brazil in 1500. This is where Portuguese colonialism began in Brazil, making it the most historically significant place in the entire country.
 
@@ -81,17 +65,11 @@ The entire coastline is lined with beach huts which play music the whole day an
 
 [caption id="attachment_12820" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Ponta Grande Beach](../assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Ponta-Grande-Beach.jpg) Porto Seguro, Bahia, Brazil, Ponta Grande Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## Axé: The Music of Bahia. The Music of Brazil.
-
 
 Brazil is known for Samba, but in the northern beach territories from Porto Seguro to Salvador, **Axé is the music of the land**. The music is very rhythmic and inspires a dance, even from the shyest people. Press play below to give it a listen. Let it play out as you read the rest of this post, and feel yourself in the culture of Bahia!
 
-
-
-
 ## Religious symbols of Porto Seguro
-
 
 As Porto Seguro is the landing site of Portuguese settlers, it also has a large number of churches and many of the oldest buildings in Brazil. The town is scattered with crosses, statues of pilgrims, and other Christian symbols. **There are also quite a number of churches**.
 
@@ -101,9 +79,7 @@ Though not exactly a religious symbol, you must also visit the Discovery Landma
 
 [caption id="attachment_12821" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Religious Sculpture](../assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Religious-Sculpture.jpg) Porto Seguro, Bahia, Brazil, Religious Sculpture. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## What to do in Porto Seguro
-
 
 Aside from taking in the beach scene and visiting the historic landmarks, there are a lot of shops selling handicrafts and other local fare. There are also a number of open-air nightclubs. I visited during a busy spring break week and apparently, Porto Seguro is a very **popular destination for Argentinians** on spring break.
 
@@ -115,9 +91,7 @@ There are other watercraft activities like the banana ride and parasailing, whic
 
 [caption id="attachment_12818" align="alignnone" width="1024"]![Porto Seguro, Bahia, Brazil, Historic Center Clouds](../assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Historic-Center-Clouds.jpg) Porto Seguro, Bahia, Brazil, Historic Center Clouds. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/).[/caption]
 
-
 ## Where to get more information about Porto Seguro
-
 
 For more information about visiting Porto Seguro, [check out this page on VisitBrasil.com](http://www.visitbrasil.com/en/destinos/porto-seguro/)!
 
