@@ -14,7 +14,7 @@ upload_dir: i
 public_path: https://res.cloudinary.com/judsonlmoore-com/image/upload
 front_matter_path: ''
 use_front_matter_path: true
-file_template: ":filename:"
+file_template: "..assets/images/:year:/:month:/:filename:"
 instant_preview: true
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
