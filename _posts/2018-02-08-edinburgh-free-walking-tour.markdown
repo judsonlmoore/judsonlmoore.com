@@ -1,19 +1,14 @@
 ---
-title: Edinburgh Free Walking Tour
-date: 2018-02-08 11:00:44 Z
-categories: Scotland
-tags: Adventure
-  - travel guide
-  - travel tips
-  - walking tour
-author: judsonlmoore
-comments: true
-excerpt: On my recent trip to Edinburgh, I kicked off my day with a free walking tour
-  of the city. The experience proved to be a great way to orient myself to the city
-  and to Scottish history. I took lots of photos and now share what I learned along
-  the way.
-layout: post
-
+title: 			Edinburgh Free Walking Tour
+date: 			2018-02-08 11:00:44 Z
+categories: 	Scotland
+tags: 			adventure, travel guide, travel tips, walking tour
+author: 		judsonlmoore
+comments: 		true
+description:	The Edinburgh free walking tour by SANDEMANs is a great way to start your trip in Edinburgh and orient yourself to the city and to Scottish history.
+excerpt: 		On my recent trip to Edinburgh, I kicked off my day with a free walking tour of the city. The experience proved to be a great way to orient myself to the city and to Scottish history. I took lots of photos and now share what I learned along the way.
+layout: 		post
+image:			../assets/images/2018/01/18115248/free-walking-tour-edinburgh-skyline.jpg
 
 ---
 
@@ -23,7 +18,7 @@ There are many Edinburgh free walking tours to choose from but I was most impres
 
 ## In A Nutshell
 
-**Highlights - ** Very knowledgeable tour guides with a flair for theatrics and a passion for helping you understand Edinburgh and Scotland. Local knowledge quickly orientates you to the city and helps you plan the rest of your trip.
+**Highlights -** Very knowledgeable tour guides with a flair for theatrics and a passion for helping you understand Edinburgh and Scotland. Local knowledge quickly orientates you to the city and helps you plan the rest of your trip.
 
 **Lowlights -** Near the end of the tour there is a "coffee break" at their office where you are encouraged to buy tickets for paid tours. This would feel less scammy if after the coffee break there were another 1+ hours of walking, but there was only an additional 30 minutes or so.
 

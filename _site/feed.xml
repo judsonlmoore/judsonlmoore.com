@@ -5,8 +5,8 @@
     <description>American Author and travel addict</description>
     <link>https://www.judsonlmoore.com/</link>
     <atom:link href="https://www.judsonlmoore.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2019 22:06:31 +0200</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2019 22:06:31 +0200</lastBuildDate>
+    <pubDate>Fri, 26 Jul 2019 22:12:16 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2019 22:12:16 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -662,7 +662,7 @@
 
 &lt;h2 id=&quot;in-a-nutshell&quot;&gt;In A Nutshell&lt;/h2&gt;
 
-&lt;p&gt;**Highlights - ** Very knowledgeable tour guides with a flair for theatrics and a passion for helping you understand Edinburgh and Scotland. Local knowledge quickly orientates you to the city and helps you plan the rest of your trip.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights -&lt;/strong&gt; Very knowledgeable tour guides with a flair for theatrics and a passion for helping you understand Edinburgh and Scotland. Local knowledge quickly orientates you to the city and helps you plan the rest of your trip.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Lowlights -&lt;/strong&gt; Near the end of the tour there is a “coffee break” at their office where you are encouraged to buy tickets for paid tours. This would feel less scammy if after the coffee break there were another 1+ hours of walking, but there was only an additional 30 minutes or so.&lt;/p&gt;
 
@@ -759,21 +759,15 @@
         <link>https://www.judsonlmoore.com/edinburgh-free-walking-tour/</link>
         <guid isPermaLink="true">https://www.judsonlmoore.com/edinburgh-free-walking-tour/</guid>
         
-        <category>Adventure</category>
-        
-        <category>-</category>
+        <category>adventure,</category>
         
         <category>travel</category>
         
-        <category>guide</category>
-        
-        <category>-</category>
+        <category>guide,</category>
         
         <category>travel</category>
         
-        <category>tips</category>
-        
-        <category>-</category>
+        <category>tips,</category>
         
         <category>walking</category>
         
