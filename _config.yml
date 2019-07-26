@@ -29,6 +29,7 @@ social:
 baseurl: ""
 # google_analytics: 'UA-12358141-4'
 disqus: "judsonlmoore"
+cloudinary_url: "https://res.cloudinary.com/judsonlmoore-com/image/upload"
 mailchimp-list: "https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 include: ["_pages"]
 permalink: /:title/
