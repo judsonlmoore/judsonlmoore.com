@@ -10,11 +10,12 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: ''
+upload_dir: i
 public_path: https://res.cloudinary.com/judsonlmoore-com/image/upload
-front_matter_path: "/image/upload"
+front_matter_path: ''
 use_front_matter_path: true
-file_template: ":year:/:month:/:filename:"
+file_template: "..assets/images/:year:/:month:/:filename:"
+instant_preview: true
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
   publish_command: bundle exec jekyll build -d _site
