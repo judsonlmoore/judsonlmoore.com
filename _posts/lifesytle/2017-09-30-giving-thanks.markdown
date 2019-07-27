@@ -1,13 +1,14 @@
 ---
-title: 5 Reasons Why Giving Thanks is Good For You
-date: 2017-09-30 10:11:10 Z
-categories: Lifestyle
-tags: inspiration
-  - whileyoung
-author: judsonlmoore
-excerpt: Giving thanks has a range of benefits from making you feel better to making
+title: 			5 Reasons Why Giving Thanks is Good For You
+date: 			2017-09-30 10:11:10 Z
+categories: 	lifestyle
+tags: 			inspiration, whileyoung
+author: 		judsonlmoore
+description:	Giving thanks has a range of benefits from making you feel better to making the world a better place. Learn more and take the thanksgiving challenge.
+excerpt: 		Giving thanks has a range of benefits from making you feel better to making
   the world a better place. Learn more and take the thanksgiving challenge.
-layout: post
+layout: 		post
+image: 			../assets/images/2017/09/judson-thanks-giza.jpg
 
 
 ---

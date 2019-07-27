@@ -18,5 +18,6 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
     gem 'jekyll-cloudinary'
+	gem 'bootstrap', '~> 4.3.1'
 
 end

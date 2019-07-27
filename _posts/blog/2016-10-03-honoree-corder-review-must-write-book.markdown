@@ -1,12 +1,12 @@
 ---
-title: You Must Write A Book! A Review Of Honorée Corder's Latest Inspiration
-date: 2016-10-03 05:00:26 Z
-categories: Career
-author: judsonlmoore
-excerpt: If you've ever considered writing a book on but don't know where to start
-  or how to finish, then You Must Write A Book, by Honorée Corder, is a must-read.
-layout: post
-
+title: 			You Must Write A Book! A Review Of Honorée Corder's Latest Inspiration
+date: 			2016-10-03 05:00:26 Z
+categories: 	Career
+author: 		judsonlmoore
+description:	If you've ever considered writing a book on but don't know where to start or how to finish, then You Must Write A Book, by Honorée Corder, is a must-read.
+excerpt: 		If you've ever considered writing a book on but don't know where to start or how to finish, then You Must Write A Book, by Honorée Corder, is a must-read.
+layout: 		post
+image: 			../assets/images/2016/10/you-must-write-a-book-by-honoree-corder.jpeg
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Three Ways Travel Changed My Life When I Was Young
-date: 2016-08-09 16:17:57 Z
-categories: Lifestyle
-author: bobmoore
-excerpt: My father tells of a romantic encounter from his youth while traveling in
-  the Caribbean Islands which forever changed his life.
-layout: post
-
+title: 			Three Ways Travel Changed My Life When I Was Young
+date: 			2016-08-09 16:17:57 Z
+categories: 	lifestyle
+author: 		bobmoore
+description: 	My father tells of a romantic encounter from his youth while traveling in the Caribbean Islands which forever changed his life.
+excerpt: 		My father tells of a romantic encounter from his youth while traveling in the Caribbean Islands which forever changed his life.
+layout: 		post
+image:			../assets/images/2016/08/bob-moore-college.jpeg.jpg
 
 ---
 
@@ -15,9 +15,7 @@ layout: post
 ## Three Ways Travel Changed My Life
 
 1. Travel changed my college major and career aspirations.
-
-2) Travel enabled me to overcome recalcitrant racist feelings.
-
+2. Travel enabled me to overcome recalcitrant racist feelings.
 3. Travel precipitated a break-up with the girl I thought I would marry.
 
 When I was 21 years old, I had an opportunity to spend ten weeks doing service work on a Caribbean island. It was a genuine island paradise, with wonderful beaches, rain forest mountains, and exotic people. Having been raised in the rural South of the United States, I had traveled little, and never internationally.

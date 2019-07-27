@@ -1,15 +1,13 @@
 ---
-title: Best podcast 2017 - What I listen to for my daily dose of inspiration
-date: 2017-03-15 10:00:18 Z
-categories: Lifestyle
-tags: podcasts
-  - top list
-  - trypod
-author: judsonlmoore
-excerpt: After a toxic presidential election cycle, I found podcasts to be a boost
-  for sanity and inspiration. Here is my list for best podcast 2017.
-layout: post
-
+title: 			Best podcast 2017 - What I listen to for my daily dose of inspiration
+date: 			2017-03-15 10:00:18 Z
+categories: 	lifestyle
+tags: 			podcasts, top list, #trypod
+author: 		judsonlmoore
+description:	After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
+excerpt: 		After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
+layout: 		post
+image: 			../assets/images/2017/03/best-podcast-2017.jpg
 
 ---
 

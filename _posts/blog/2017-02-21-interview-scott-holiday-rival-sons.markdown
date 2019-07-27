@@ -1,14 +1,13 @@
 ---
-title: Enjoy the taste of crow - an interview with Scott Holiday of the Rival Sons
-date: 2017-02-21 17:01:28 Z
-categories: Music
-tags: celebrity encounter
-  - interview
-  - Music
-author: judsonlmoore
-excerpt: I caught up with Scott Holiday in Germany while on tour with Rival Sons.
-  He talks of life on the road, their new album, and how the band thrives.
-layout: post
+title: 			Enjoy the taste of crow - an interview with Scott Holiday of the Rival Sons
+date: 			2017-02-21 17:01:28 Z
+categories: 	Music
+tags: celebrity encounter, interview, music
+author: 		judsonlmoore
+description:	I caught up with Scott Holiday in Germany while on tour with Rival Sons. He talks of life on the road, their new album, and how the band thrives.
+excerpt: 		I caught up with Scott Holiday in Germany while on tour with Rival Sons. He talks of life on the road, their new album, and how the band thrives.
+layout: 		post
+image: 			../assets/images/2017/02/interview-scott-holiday-rival-sons-005.jpg
 
 
 ---
