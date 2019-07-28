@@ -1,12 +1,8 @@
 ---
 title:			Besh Tash with Family
 date:			2012-07-14 06:38:27 Z
-categories:		Peace Corps
-tags:			Besh Tash
-  - Kyrgyz Culture
-  - Kyrgyzstan
-  - Peace Corps
-  - Talas
+categories:		peace corps
+tags:			besh tash, kyrgyz culture, kyrgyzstan, peace corps, talas
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/
@@ -18,4 +14,4 @@ My second host family in Talas, Kyrgyzstan, took me to the nearby Besh Tash (Fiv
 
 Check out how cute my little sister is!
 
-[gallery link="file"]
+<!--[gallery link="file"]-->

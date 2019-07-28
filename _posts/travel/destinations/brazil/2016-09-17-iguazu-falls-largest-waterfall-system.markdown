@@ -1,14 +1,10 @@
 ---
 title:			The Iguazu Falls Are More Than The World's Largest Waterfall System
 date:			2016-09-17 11:49:24 Z
-categories:		Brazil
-tags:			argentina
-  - brazil
-  - travel guide
-  - waterfalls
+categories:		brazil
+tags:			argentina, brazil, travel guide, waterfalls
 author:			judsonlmoore
-excerpt:		'In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one
-  of the grandest natural wonders in the world, the Iguazu Falls. '
+excerpt:		In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one of the grandest natural wonders in the world, the Iguazu Falls.
 layout:			post
 image:			../assets/images/
 
@@ -93,7 +89,7 @@ Remember at the top of this post when I said I got my passport stamps? I had rec
 
 I said I would go back and get the stamp but was told it was a one-way road and I was not allowed. **Where were in a standoff**. After quite some time of debating and arguing the point, the Brazilian official allowed me back into Brazil, but did not give me a stamp. So now, according to my documents, **I was illegally in the country**.
 
-_Great. _
+_Great._
 
 Years later, I realize that this was likely **a scam to get bribe money**. I didn't get that at the time, nor did I have any money to give anyway. Despite this hiccup, I made it to my bus just on time and soundly slept until arriving to my next destination.
 
@@ -101,7 +97,7 @@ Furthermore, though at the time this passport stamp issue instilled some degree 
 
 ## Further Iguazu Falls Resources
 
-**Official **
+**Official**
 
 - **[Iguazu Argentina](http://www.iguazuargentina.com/)** (official) - The official tourism site for the Argentinian side of the Iguazu Falls.
 

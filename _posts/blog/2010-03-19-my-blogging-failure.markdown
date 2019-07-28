@@ -1,7 +1,7 @@
 ---
 title:			My Blogging Failure
 date:			2010-03-19 01:09:00 Z
-categories:		Interests
+categories:		interests
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

@@ -1,13 +1,8 @@
 ---
 title:			Bishkek Attack
 date:			2013-03-06 14:12:41 Z
-categories:		Peace Corps
-tags:			Attack
-  - Bishkek
-  - Interests
-  - Kyrgyzstan
-  - Travel Safety
-  - Violence
+categories:		peace corps
+tags:			atack, bishkek, interests, kyrgyzstan, travel safety, violence
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

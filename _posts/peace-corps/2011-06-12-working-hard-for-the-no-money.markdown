@@ -1,9 +1,8 @@
 ---
 title:			Working Hard For The (no) Money
 date:			2011-06-12 21:42:00 Z
-categories:		Peace Corps
-tags:			Peace Corps
-  - Talas
+categories:		peace corps
+tags:			peace corps, talas
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

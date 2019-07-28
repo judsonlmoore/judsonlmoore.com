@@ -1,12 +1,8 @@
 ---
 title:			Bishkek Graffiti
 date:			2012-10-08 14:34:41 Z
-categories:		Bishkek
-tags:			Bishkek
-  - Graffiti
-  - Kyrgyz Culture
-  - Kyrgyzstan
-  - Photos
+categories:		bishkek
+tags:			bishkek, graffiti, kyrgyz culture, kyrgyzstan, photos
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

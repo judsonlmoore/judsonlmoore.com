@@ -1,11 +1,10 @@
 ---
 title:			High Tech Tips for Any Resume
 date:			2016-01-25 03:19:18 Z
-categories:		Career
+categories:		career
 tags:			whileyoung
 author:			judsonlmoore
-excerpt:		Resume writing is an art form. Use these innovative resume tips to show that
-  you understand technology and can think outside of the box.
+excerpt:		Resume writing is an art form. Use these innovative resume tips to show that you understand technology and can think outside of the box.
 layout:			post
 image:			../assets/images/
 
@@ -22,24 +21,20 @@ If you are not already a user of Google Docs, you should go [register for an ac
 
 1. Always have a backup
 
-2) Export into .pdf and .doc file formats
+2. Export into .pdf and .doc file formats
 
 3. Easy collaboration (mom, mentor, friend at xyz company recommending you)
 
-4) Share settings allow you to keep documents private or accessible to others. For the purposes of this article, you will want to set your resume document share settings to "anyone with the link...can view."
+4. Share settings allow you to keep documents private or accessible to others. For the purposes of this article, you will want to set your resume document share settings to "anyone with the link...can view."
 
 ## Embed Links
 
 Wherever possible, make your text link out to a reference. This is easily done by highlighting the text which you want to convert into a link, and then pressing the **command+k** keys. A small dialogue box will pop up and you can type or paste a URL into that. Click "apply" and the text is now a clickable link!
 
 Here are some things to consider linking:
-
 - Employer websites
-
 - Email addresses of references
-
 - Certificates
-
 - Published work
 
 Be sure to style your links in an attractive way. I prefer to style my links to blend in with the rest of the text so that the document is attractive when printed, even though it means you can't visually see the links, it makes for a nice subtle detail recruiters notice when they float their cursor over the document.

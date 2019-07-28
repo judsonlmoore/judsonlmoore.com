@@ -1,14 +1,10 @@
 ---
 title:			How To Identify and Accomplish Your Life Goals
 date:			2007-12-20 21:58:53 Z
-categories:		Lifestyle
-tags:			Accomplishments
-  - Goals
-  - Impact
-  - Interests
+categories:		lifestyle
+tags:			accomplishments, goals, impact, interests
 author:			judsonlmoore
-excerpt:		Do you have life goals? Do you need help identifying life goals? Or maybe
-  you need help structuring a plan to achieve your life goals? Read this now.
+excerpt:		Do you have life goals? Do you need help identifying life goals? Or maybe you need help structuring a plan to achieve your life goals? Read this now.
 layout:			post
 image:			../assets/images/
 
@@ -35,31 +31,31 @@ Things in priority order that I'd like to do before I die that would contribute 
 
 1. Always be the one to "walk through the door."
 
-2) Volunteer.
+2. Volunteer.
 
 3. Gain vast cultural knowledge and world understanding.
 
-4) Live for several years in another country.
+4. Live for several years in another country.
 
 5. Share my knowledge and experience with others.
 
-6) Start (and end) a music revolution.
+6. Start (and end) a music revolution.
 
 7. Give generously.
 
-8) Be an active Rotarian.
+8. Be an active Rotarian.
 
 9. Love.
 
-10) Learn to collaborate better.
+10. Learn to collaborate better.
 
 11. Complete Peace Corps service.
 
-12) Reconnect with my worldly friends.
+12. Reconnect with my worldly friends.
 
 13. Make my parents proud / be like dad.
 
-14) Have great expendable income.
+14. Have great expendable income.
 
 15. Be wealthy.
 

@@ -1,11 +1,10 @@
 ---
 title:			The Secret To All My Success
 date:			2016-01-30 22:44:25 Z
-categories:		Lifestyle
+categories:		lifestyle
 tags:			whileyoung
 author:			judsonlmoore
-excerpt:		Showing up is the first step in every success story, but it can be hard to
-  know where to put your efforts. Learn now from my first "showing up" story!
+excerpt:		Showing up is the first step in every success story, but it can be hard to know where to put your efforts. Learn now from my first "showing up" story!
 layout:			post
 image:			../assets/images/
 
@@ -35,5 +34,3 @@ When opportunity comes knocking or someone invites you to learn more about an o
 > Every Day. Every Time. Without Fail. No Exceptions - [Paul Cummings, CEO of Woople](http://paulcummings.com/)
 
 What are some examples of times you have shown up? What are your struggles? What are your successes? Please share by leaving a comment now or by messaging me at [@judsonlmoore](http://twitter.com/judsonlmoore)!
-
-##

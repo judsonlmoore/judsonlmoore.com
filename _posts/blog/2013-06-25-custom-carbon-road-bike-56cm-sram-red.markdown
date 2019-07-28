@@ -1,16 +1,11 @@
 ---
-title:			Custom Carbon Road Bike 56CM SRAM Red
-date:			2013-06-25 04:16:20 Z
-categories:		Interests
-tags:			Austin
-  - Bikes
-  - Biking
-  - Carbon Fiber
-  - Custom
-  - SRAM
-author:			judsonlmoore
-layout:			post
-image:			../assets/images/
+title:		  	Custom Carbon Road Bike 56CM SRAM Red
+date:		     	2013-06-25 04:16:20 Z
+categories:		interests
+tags:			    austin, bikes, biking, carbon fiber, custom, sram
+author:		   	judsonlmoore
+layout:		   	post
+image:		  	../assets/images/
 
 
 ---

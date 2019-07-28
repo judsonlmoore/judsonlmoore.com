@@ -1,19 +1,10 @@
 ---
 title:			The Gabr Fellowship Has Selected Me As A 2015 Fellow
 date:			2015-10-03 02:00:23 Z
-categories:		Egypt
-tags:			Adventure
-  - Art
-  - Culture
-  - Education
-  - Exchange
-  - Fellowship
-  - Gabr
-  - Orientalist
-  - Service
+categories:		egypt
+tags:			adventure, art, culture, education, exchange, fellowship, gabr, orientalist, service
 author:			judsonlmoore
-excerpt:		'I will be meeting with Egyptian and American diplomats, military leaders,
-  entrepreneurs and influencers during the 6-week Gabr Fellowship Program. '
+excerpt:		I will be meeting with Egyptian and American diplomats, military leaders, entrepreneurs and influencers during the 6-week Gabr Fellowship Program.
 layout:			post
 image:			../assets/images/
 
@@ -30,4 +21,5 @@ As the fellows get to know one another, we will begin to form small groups and 
 
 It is a great honor to be selected as a Gabr Fellow and I will keep my blog and [Twitter](http://twitter.com/judsonlmoore) flowing with photos and updates. [Subscribe to my newsletter](/subscribe/) for the most exciting updates. Thank you, my readers, for the support, there will be much more to read very soon!
 
-> **Update:			 **Read About My Time in Egypt [Here](https://www.judsonlmoore.com/egypt/).
+>**Update**
+>Read About My Time in Egypt [Here](https://www.judsonlmoore.com/egypt/).

@@ -30,7 +30,6 @@ baseurl: ""
 # google_analytics: 'UA-12358141-4'
 disqus: "judsonlmoore"
 image-path: ../assets/images/
-cloudinary-url: "https://res.cloudinary.com/judsonlmoore-com/image/upload/i"
 mailchimp-list: "https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 include: ["_pages"]
 permalink: /:title/
@@ -139,6 +138,7 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
 # Cloudinary
 # Learn More https://github.com/nhoizey/jekyll-cloudinary
 # cloudinary:
@@ -153,3 +153,14 @@ exclude:
 #       fallback_max_width: 800
 #       steps: 5
 #       sizes: "(min-width: 50rem) 50rem, 90vw"
+
+#jekyll-loudinary https://nhoizey.github.io/jekyll-cloudinary/
+cloudinary:
+  cloud_name: judsonlmoore-com
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width: 50rem) 50rem, 90vw"

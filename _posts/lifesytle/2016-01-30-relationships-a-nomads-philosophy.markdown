@@ -1,11 +1,10 @@
 ---
-title:			"Relationships: A Nomad's Philosophy"
+title:			A Nomad's Philosophy to Relationships
 date:			2016-01-30 17:44:26 Z
-categories:		Lifestyle
+categories:		lifestyle
 tags:			whileyoung
 author:			judsonlmoore
-excerpt:		Relationships struggle to survive the test of distance, and for good reason.
-  As a nomad, I have learned how to protect the most precious relationships.
+excerpt:		Relationships struggle to survive the test of distance, and for good reason. As a nomad, I have learned how to protect the most precious relationships.
 layout:			post
 image:			../assets/images/
 
@@ -16,7 +15,7 @@ For many years, I have had a philosophy regarding the quality of relationships. 
 
 First, I will note that when I use the term “relationship” I am not narrowing the focus to romantic relationships. This philosophy may be applied to friendships, business relationships, and romantic relationships. A creative mind can also see that this applies in it’s extreme form of the relationship between you and someone you have never even had contact with (like a celebrity or politician).
 
-The philosophy is very simple. It states that the quality of all relationships, regardless of their nature, is fundamentally determined by two factors: **shared experience **and\*\* **communication\*\***.
+The philosophy is very simple. It states that the quality of all relationships, regardless of their nature, is fundamentally determined by two factors: **shared experience and communication**.
 
 If you communicate with someone with which you have had no previous shared experience, isn’t it quite difficult to relate? Alternatively, you may have many shared experiences with a person, but if you have never met to talk with them, then this is also a poor relationship.
 

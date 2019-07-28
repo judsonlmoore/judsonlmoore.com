@@ -2,12 +2,7 @@
 title:			Global Travel Announcement
 date:			2014-09-03 12:57:50 Z
 categories:		blog
-tags:			Abu Dhabi
-  - Colombia
-  - India
-  - Interests
-  - Travel
-  - Travel Announcement
+tags:			abu dhabi, colombia, india, interests, travel, travel announcement
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

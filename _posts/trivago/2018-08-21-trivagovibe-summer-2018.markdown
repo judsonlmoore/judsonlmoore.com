@@ -15,6 +15,8 @@ image:			../assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
 
 ---
 
+{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="beautiful!" %}
+
 **I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed trivago on Tour annual trip](https://www.judsonlmoore.com/trivago-tour-2017/). Nothing beats live music in my book!) And at trivago, live music means **trivagoVibe!**
 
 trivago recently moved into [a new spaceship-like campus](https://youtu.be/LQikZZIia2k) in Düsseldorf, which is an incredible facility in every way, including lots of open-air spaces which are perfect for music. During the past trivagoVibes, I didn't have the opportunity to perform and so this time I was as proactive as possible to make sure that I would be included in the lineup. **I couldn't be more satisfied with the outcomes.**
@@ -65,7 +67,11 @@ As I walked onto the stage, I slipped into character. For the next 32 minutes, I
 
 > **Update:** Checkout the official website for Drumson at [https://drumson.de](https://drumson.de)!
 
-{% include image.html alt="" file="../assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg" description=" Drumson performs a solo show at the 2018 trivagoVibe" %}
+<!-- {% include image.html alt="" file="../assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg" description=" Drumson performs a solo show at the 2018 trivagoVibe" %} -->
+
+
+{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="beautiful!" %}
+
 
 ## Watch Video Footage from my First DRUMSON Performance
 

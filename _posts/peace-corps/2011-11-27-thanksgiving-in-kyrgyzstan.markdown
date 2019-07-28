@@ -1,10 +1,8 @@
 ---
 title:			Thanksgiving in Kyrgyzstan
 date:			2011-11-27 14:21:00 Z
-categories:		Peace Corps
-tags:			Bishkek
-  - Holidays
-  - Peace Corps
+categories:		peace corps
+tags:			bishkek, holidays, peace corps
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

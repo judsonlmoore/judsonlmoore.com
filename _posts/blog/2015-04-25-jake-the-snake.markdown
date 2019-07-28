@@ -1,14 +1,10 @@
 ---
 title:			My New 2015 Kona Jake The Snake Cyclocross Bicycle
 date:			2015-04-25 23:38:38 Z
-categories:		Austin
-tags:			Biking
-  - cx
-  - cyclocross
-  - phenom
+categories:		austin
+tags:			biking, cx, cyclocross, phenom
 author:			judsonlmoore
-excerpt:		Cyclocross is a hybrid road / trail bike sport which combines speed with
-  ruggedness. I am starting to race CX and starting off with Kona's Jake The Snake.
+excerpt:		Cyclocross is a hybrid road / trail bike sport which combines speed with ruggedness. I am starting to race CX and starting off with Kona's Jake The Snake.
 layout:			post
 image:			../assets/images/
 
@@ -19,263 +15,37 @@ I've had road bikes and mountain bikes, now I am settling into something right i
 
 ## 2015 Kona Jake The Snake Specs
 
-<table cellpadding="0" id="specstable" >
-<tbody >
-<tr class="altercolor" >
-
-<td class="label" >FRAME MATERIAL
-</td>
-
-<td class="data" >Kona Race Light 7005 Aluminum Butted
-</td>
-</tr>
-<tr >
-
-<td class="label" >SIZES
-</td>
-
-<td class="data" >47, 49, 53, 56, 59, 61, 63cm
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >REAR SHOCK
-</td>
-
-<td class="data" >n/a
-</td>
-</tr>
-<tr >
-
-<td class="label" >FORK
-</td>
-
-<td class="data" >Kona Full Carbon CX Race Disc
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >CRANKARMS
-</td>
-
-<td class="data" >FSA Gossamer Compact PF30
-</td>
-</tr>
-<tr >
-
-<td class="label" >CHAINRINGS
-</td>
-
-<td class="data" >36/46t
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >B/B
-</td>
-
-<td class="data" >FSA Press Fit 30
-</td>
-</tr>
-<tr >
-
-<td class="label" >PEDALS
-</td>
-
-<td class="data" >n/a
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >CHAIN
-</td>
-
-<td class="data" >KMC X11
-</td>
-</tr>
-<tr >
-
-<td class="label" >FREEWHEEL
-</td>
-
-<td class="data" >Shimano 105 11-28t 11spd
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >F/D
-</td>
-
-<td class="data" >Shimano 105
-</td>
-</tr>
-<tr >
-
-<td class="label" >R/D
-</td>
-
-<td class="data" >Shimano 105
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >SHIFTERS
-</td>
-
-<td class="data" >Shimano 105
-</td>
-</tr>
-<tr >
-
-<td class="label" >BRAKE CALIPERS
-</td>
-
-<td class="data" >Hayes CX Expert
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >FRONT BRAKE ROTOR
-</td>
-
-<td class="data" >Hayes L Series 160mm
-</td>
-</tr>
-<tr >
-
-<td class="label" >REAR BRAKE ROTOR
-</td>
-
-<td class="data" >Hayes L Series 160mm
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >BRAKE LEVERS
-</td>
-
-<td class="data" >Shimano 105
-</td>
-</tr>
-<tr >
-
-<td class="label" >HEADSET
-</td>
-
-<td class="data" >FSA No.57B
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >HANDLEBAR
-</td>
-
-<td class="data" >Kona Road
-</td>
-</tr>
-<tr >
-
-<td class="label" >STEM
-</td>
-
-<td class="data" >Kona XC/Road Deluxe
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >SEATPOST
-</td>
-
-<td class="data" >Kona Thumb w/Offset
-</td>
-</tr>
-<tr >
-
-<td class="label" >SEAT CLAMP
-</td>
-
-<td class="data" >Kona Clamp
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >GRIPS
-</td>
-
-<td class="data" >Kona Cork Tape
-</td>
-</tr>
-<tr >
-
-<td class="label" >SADDLE
-</td>
-
-<td class="data" >WTB Volt Comp
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >FRONT HUB
-</td>
-
-<td class="data" >Alex CXD6 Wheelset
-</td>
-</tr>
-<tr >
-
-<td class="label" >REAR HUB
-</td>
-
-<td class="data" >Alex CXD6 Wheelset
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >SPOKES
-</td>
-
-<td class="data" >Alex CXD6 Wheelset
-</td>
-</tr>
-<tr >
-
-<td class="label" >RIMS
-</td>
-
-<td class="data" >Alex CXD6 Wheelset
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >FRONT TIRE
-</td>
-
-<td class="data" >Challenge Grifo Comp 700x32c
-</td>
-</tr>
-<tr >
-
-<td class="label" >REAR TIRE
-</td>
-
-<td class="data" >Challenge Grifo Comp 700x32c
-</td>
-</tr>
-<tr class="altercolor" >
-
-<td class="label" >PAINT COLOR
-</td>
-
-<td class="data" >Matt Green w/Black & White
-</td>
-</tr>
-<tr >
-
-<td class="label" >EXTRAS
-</td>
-
-<td class="data" >n/a
-</td>
-</tr>
-</tbody>
-</table>
+|||
+|--- |--- |
+|FRAME MATERIAL|Kona Race Light 7005 Aluminum Butted|
+|SIZES|47, 49, 53, 56, 59, 61, 63cm|
+|REAR SHOCK|n/a|
+|FORK|Kona Full Carbon CX Race Disc|
+|CRANKARMS|FSA Gossamer Compact PF30|
+|CHAINRINGS|36/46t|
+|B/B|FSA Press Fit 30|
+|PEDALS|n/a|
+|CHAIN|KMC X11|
+|FREEWHEEL|Shimano 105 11-28t 11spd|
+|F/D|Shimano 105|
+|R/D|Shimano 105|
+|SHIFTERS|Shimano 105|
+|BRAKE CALIPERS|Hayes CX Expert|
+|FRONT BRAKE ROTOR|Hayes L Series 160mm|
+|REAR BRAKE ROTOR|Hayes L Series 160mm|
+|BRAKE LEVERS|Shimano 105|
+|HEADSET|FSA No.57B|
+|HANDLEBAR|Kona Road|
+|STEM|Kona XC/Road Deluxe|
+|SEATPOST|Kona Thumb w/Offset|
+|SEAT CLAMP|Kona Clamp|
+|GRIPS|Kona Cork Tape|
+|SADDLE|WTB Volt Comp|
+|FRONT HUB|Alex CXD6 Wheelset|
+|REAR HUB|Alex CXD6 Wheelset|
+|SPOKES|Alex CXD6 Wheelset|
+|RIMS|Alex CXD6 Wheelset|
+|FRONT TIRE|Challenge Grifo Comp 700x32c|
+|REAR TIRE|Challenge Grifo Comp 700x32c|
+|PAINT COLOR|Matt Green w/Black & White|
+|EXTRAS|n/a|

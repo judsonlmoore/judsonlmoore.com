@@ -1,8 +1,8 @@
 ---
 title:			In Route to the Kyrgyz Republic
 date:			2011-03-27 11:34:00 Z
-categories:		Peace Corps
-tags:			Peace Corps
+categories:		peace corps
+tags:			peace corps
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

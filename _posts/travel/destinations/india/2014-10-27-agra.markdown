@@ -1,7 +1,7 @@
 ---
 title:			Agra Is Home of The World's Oldest Fairy Tail Tragedy
 date:			2014-10-27 13:42:23 Z
-categories:		India
+categories:		india
 author:			judsonlmoore
 excerpt:		A short drive from New Deli, Agra is home of the Taj Mahal, the tomb which has stood as the world's greatest testament of love and loss.
 layout:			post

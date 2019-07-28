@@ -1,7 +1,7 @@
 ---
 title:			The Without a Path Podcast asked me to share travel advice in Kyrgyzstan
 date:			2018-02-19 16:41:33 Z
-categories:		Kyrgyzstan
+categories:		kyrgyzstan
 tags:			interview, podcast, travel
 author:			judsonlmoore
 description:	

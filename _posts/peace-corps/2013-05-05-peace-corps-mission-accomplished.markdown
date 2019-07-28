@@ -1,13 +1,8 @@
 ---
-title:			'Peace Corps: Mission Accomplished'
+title:			My Peace Corps Mission is Accomplished
 date:			2013-05-05 04:44:56 Z
-categories:		Peace Corps
-tags:			Bishkek
-  - Kyrgyzstan
-  - Life Goal
-  - Peace Corps
-  - RPCV
-  - Talas
+categories:		peace corps
+tags:			bishkek, kyrgyzstan, life goal, peace corps, rpcv, talas
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

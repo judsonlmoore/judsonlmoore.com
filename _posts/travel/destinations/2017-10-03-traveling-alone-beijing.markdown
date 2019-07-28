@@ -1,13 +1,10 @@
 ---
 title:			What happened when I traveled alone in Beijing
 date:			2017-10-03 10:00:01 Z
-categories:		Female Travel
-tags:			female travel
-  - guest author
-  - travel tips
-author:			kelly.branyik
-excerpt:		Returned Peace Corps Volunteer and author of the Propitious Panda blog and
-  the new book "It Depends" shares a tale of solo travel in Beijing.
+categories:		female travel
+tags:			female travel, guest author, travel tips
+author:			kellybranyik
+excerpt:		Returned Peace Corps Volunteer and author of the Propitious Panda blog and the new book "It Depends" shares a tale of solo travel in Beijing.
 layout:			post
 image:			../assets/images/
 

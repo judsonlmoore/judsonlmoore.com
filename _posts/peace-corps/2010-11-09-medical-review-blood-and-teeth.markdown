@@ -1,8 +1,8 @@
 ---
-title:			'Medical Review: Blood and Teeth'
+title:			Medical Review - Blood and Teeth
 date:			2010-11-09 05:00:00 Z
-categories:		Peace Corps
-tags:			Peace Corps
+categories:		peace corps
+tags:			peace corps
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

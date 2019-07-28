@@ -1,10 +1,8 @@
 ---
 title:			My New Contact Information
 date:			2012-10-10 06:52:09 Z
-categories:		Interests
-tags:			About Me
-  - Contact Info
-  - Judson L Moore
+categories:		interests
+tags:			about me, contact info, judson l moore
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

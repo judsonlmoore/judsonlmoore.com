@@ -1,11 +1,8 @@
 ---
 title:			Kurban Ait
 date:			2012-10-26 14:03:54 Z
-categories:		Bishkek
-tags:			Bishkek
-  - Holiday
-  - Kyrgyz Culture
-  - Kyrgyzstan
+categories:		bishkek
+tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

@@ -1,14 +1,10 @@
 ---
 title:			The Expat Sandwich Podcast features my story of serving humanity.
 date:			2017-09-05 10:00:58 Z
-categories:		Adventure
-tags:			interview
-  - podcast
-  - Travel
+categories:		adventure
+tags:			interview, podcast, travel
 author:			judsonlmoore
-excerpt:		The Expat Sandwich Podcast features Americans living abroad and the crazy
-  but interesting lives they lead. I share stories from my travels and work in humanitarian
-  service in the season 2 opener.
+excerpt:		The Expat Sandwich Podcast features Americans living abroad and the crazy but interesting lives they lead. I share stories from my travels and work in humanitarian service in the season 2 opener.
 layout:			post
 image:			../assets/images/
 

@@ -1,13 +1,8 @@
 ---
 title:			Thanksgiving, New Government and New Year
 date:			2011-12-04 17:06:57 Z
-categories:		Peace Corps
-tags:			Bishkek
-  - Culture
-  - Holiday
-  - Kyrgyzstan
-  - Peace Corps
-  - Thanksgiving
+categories:		peace corps
+tags:			bishkek, culture, holiday, kyrgyzstan, peace corps, thanksgiving
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

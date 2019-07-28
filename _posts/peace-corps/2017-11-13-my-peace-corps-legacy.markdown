@@ -1,15 +1,10 @@
 ---
 title:			What I have learned about my Peace Corps legacy in Kyrgyzstan
 date:			2017-11-13 21:13:21 Z
-categories:		Peace Corps
-tags:			Bishkek
-  - Kyrgyzstan
-  - Peace Corps
-  - Service Above Self
-  - Talas
+categories:		peace corps
+tags:			bishkek, kyrgyzstan, peace corps, service above self, talas
 author:			judsonlmoore
-excerpt:		I recently learned a few things which I did not know about my own legacy
-  in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
+excerpt:		I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 layout:			post
 image:			../assets/images/
 

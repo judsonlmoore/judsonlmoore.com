@@ -1,14 +1,8 @@
 ---
 title:			Bishkek ICT Training
 date:			2012-07-13 06:38:00 Z
-categories:		Peace Corps
-tags:			Bishkek
-  - ICT
-  - IREX
-  - Kyrgyzstan
-  - Peace Corps
-  - Technology
-  - Training
+categories:		peace corps
+tags:			bishkek, ict, irex, kyrgyzstan, peace corps, technology, training
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/
@@ -24,7 +18,7 @@ Camp organizer,  Meerim Mamyrbekova, wrote a fantastic final report so rather t
 
 [gallery link="file" order="DESC"]
 
-**Project description **
+**Project description**
 
 Between July 1 and 12, 2012 the Multidisciplinary Summer Camp with the slogan of “Stay hungry. Stay foolish” (Steeve Jobs) was held for village kids, who lack motivation, information, leadership skills, English and Computer knowledge. Realization of English and Leadership trainings for the students had happened in the territory of Kyzyl Tuu school in Aksy region, Jalalabad oblast. Project was accomplished with the participation of 15 Kyzyl Tuu high school students, 1 UGRAD alumna, a 5th year student-volunteer and a Peace Corps volunteer. 2-day IT training was held in Bishkek due to unexpected changes, where American Corner in Karakol, Issyk Kul refused to provide camp participants with IT class since U.S. Embassy came up to conduct their own trainings there, although we had their support letter promising to give us a computer-equipped classroom. In addition, a project collaborator Marziya Davlyatova was not able to participate due to her unexpected family issues.
 
@@ -86,7 +80,7 @@ Even a school principal, Duishon Tursunbaev enjoyed typing and surfing on the in
 
 During lunch we ordered different types of pizzas; students were exposed to try famous American food which seemed so delicious to them.
 
-**Activities **
+**Activities**
 
 As we mentioned previously very different activities, role playing games and contests colored our summer camp. The most memorable games were “Who is the smartest?”, “Talant show”  and Jengo. In the first contest students had to answer various educational questions, that touched almost every field. After each round, students voted to make one player to be out of the game.  Rakhat, a winner was given a purse as a prize. During Talant show every participant showed their talents, some of them danced, read riddles, played the komuz, made paper flowers, drew and made a salad. The winner Asel Akmatalieva, who showed her ability of being a host of TV show, received a monolingual English dictionary that Meerim brought from the US. Jengo is an American game with wood sticks cheered kids very much.
 

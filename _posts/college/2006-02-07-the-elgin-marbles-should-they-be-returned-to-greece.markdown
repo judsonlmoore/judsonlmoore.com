@@ -1,8 +1,8 @@
 ---
-title:			'The Elgin Marbles: Should they be returned to Greece?'
+title:			The Elgin Marbles - Should they be returned to Greece?
 date:			2006-02-07 05:00:00 Z
-categories:		College Papers
-tags:			Politics
+categories:		college papers
+tags:			politics
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

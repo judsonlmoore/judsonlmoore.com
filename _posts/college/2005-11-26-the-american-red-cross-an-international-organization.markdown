@@ -1,7 +1,7 @@
 ---
-title:			'The American Red Cross : An International Organization'
+title:			The American Red Cross - An International Organization
 date:			2005-11-26 08:00:00 Z
-categories:		College Papers
+categories:		college papers
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

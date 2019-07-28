@@ -1,9 +1,8 @@
 ---
 title:			May Freedom Ring
 date:			2011-09-01 23:12:27 Z
-categories:		Peace Corps
-tags:			Peace Corps
-  - Talas
+categories:		peace corps
+tags:			peace corps, talas
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

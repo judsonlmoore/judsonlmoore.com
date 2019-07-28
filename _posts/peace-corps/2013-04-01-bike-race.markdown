@@ -1,12 +1,8 @@
 ---
 title:			Bike Race
 date:			2013-04-01 00:50:52 Z
-categories:		Peace Corps
-tags:			Biking
-  - Bishkek
-  - Disaster
-  - Kyrgyzstan
-  - Sport
+categories:		peace corps
+tags:			biking, bishkek, disaster, kyrgyzstan, sport
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

@@ -1,9 +1,8 @@
 ---
 title:			Arrived Safely to Bishkek!
 date:			2011-03-30 18:58:33 Z
-categories:		Peace Corps
-tags:			Bishkek
-  - Peace Corps
+categories:		peace corps
+tags:			bishkek, peace corps
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

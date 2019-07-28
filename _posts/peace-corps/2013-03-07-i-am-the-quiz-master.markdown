@@ -1,15 +1,11 @@
 ---
-title:			I Am The Quiz Master
-date:			2013-03-07 15:00:59 Z
-categories:		Peace Corps
-tags:			Bishkek
-  - Fun
-  - Interests
-  - Kyrgyzstan
-  - Trivia
-author:			judsonlmoore
-layout:			post
-image:			../assets/images/
+title:        I Am The Quiz Master
+date:			    2013-03-07 15:00:59 Z
+categories:		peace corps
+tags:			    bishkek, fun, interests, kyrgyzstan, trivia
+author:	  		judsonlmoore
+layout:		   	post
+image:		  	../assets/images/
 
 
 ---
@@ -18,9 +14,8 @@ Last night I was the quiz master at my favorite local quiz night in Bishkek. We 
 
 Come next time and join us. Every Wednesday evening at 8pm at The Dragon's Den, 557 Frunze (across from the Grand Hotel, next to Beirut cafe)
 
-=============================================
-Current world events
-=============================================
+
+## Current world events
 
 1. In a recent speech where he said "Americans have a right to be stupid," American Secretary of State John Kerry also misidentified Kyrgyzstan by creating what has been described by some as "a new country." The name he made up was what?
 
@@ -62,12 +57,10 @@ Current world events
 
 - He was convicted of trying to undermine state security by setting up a network of Christian churches
 
-=============================================
-Kyrgyz history and prominent people (at least 1 Kyrgyz language question)
+## Kyrgyz history and prominent people (at least 1 Kyrgyz language question)
 1/2 point for any names where only the first or last name is correct
-Put any money away!!
-Money questions refer to the new, 2009 Series, of KG Com.
-=============================================
+
+_Money questions refer to the new, 2009 Series, of KG Com._
 
 11. What word in the Kyrgyz language simultaneously means, in the colloquial, "right now, later, maybe never."
 
@@ -109,8 +102,7 @@ _ - Dungans_
 
 - Ala-Too mountains in Talas Province, but no one knows exactly. Kenizek-Khatun, AKA Kanikey, ordered the secret burial of Manas's body so that grave robbers could not find it.
 
-=============================================
-World Firsts
+## World Firsts
 =============================================
 
 21. The IBM Supercomputer, Watson, which dominated at Jeopardy in 2012, was recently proposed to assist what professional field?
@@ -153,9 +145,8 @@ World Firsts
 
 - Ikea
 
-=============================================
 
-- # Guinness Book of World Records
+## Guinness Book of World Records
 
 31. Japan is home to Jiroemon Kimura, who holds three Guinness World Records titles "Oldest Living Male", "Oldest Male", "Oldest Living Person." How old is he today? Extra point if you are within +- 10 days
     ⁃ Age 115 years, 321 days
@@ -194,9 +185,7 @@ World Firsts
 
 - Jenn Suhr, USA
 
-=============================================
-General trivia
-=============================================
+## General trivia
 
 41. In the mid-1960's, playing the role of an undercover agent, he became the first black actor to star in a weekly TV series. Who is he, and what was the name of the TV series?
     ⁃ BILL COSBY / "I SPY" 1965-68
@@ -211,7 +200,7 @@ General trivia
 
 - CLIFF RICHARD
 
-  45.Which mythological twins, raised by wolves, were the founders of Rome? - ROMULUS AND REMUS
+45. Which mythological twins, raised by wolves, were the founders of Rome? - ROMULUS AND REMUS
 
 46. What word with more than 10-syllables refers to the opposition to the disestablishment of the Church of England.
     ⁃ antidisestablishmentarianism

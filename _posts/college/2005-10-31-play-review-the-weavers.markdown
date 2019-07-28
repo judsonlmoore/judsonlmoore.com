@@ -1,7 +1,7 @@
 ---
-title:			'Play Review: The Weavers'
+title:			Play Review - The Weavers
 date:			2005-10-31 08:00:00 Z
-categories:		College Papers
+categories:		college papers
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

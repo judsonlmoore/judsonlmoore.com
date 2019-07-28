@@ -1,8 +1,8 @@
 ---
 title:			I have Arrived at Staging
 date:			2011-03-24 20:10:00 Z
-categories:		Peace Corps
-tags:			Peace Corps
+categories:		peace corps
+tags:			peace corps
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

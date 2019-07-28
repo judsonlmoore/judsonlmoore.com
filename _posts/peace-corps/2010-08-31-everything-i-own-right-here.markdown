@@ -1,15 +1,16 @@
 ---
 title:			Everything I Own, Right Here.
 date:			2010-08-31 14:03:16 Z
-categories:		Interests
+categories:		interests
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			../assets/images/2010/08/everything-i-own-right-here.jpg
 
 
 ---
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_l80s5chiRn1qb60c5.jpg" description="" %}
+
+{% include image.html alt="" file="../assets/images/2010/08/everything-i-own-right-here.jpg" description="" %}
 
 Thats right.  I finally did it.  I am down to a backpack and a suitcase!  (well, a backpack, and 2 suitcases…) The boxes in the middle are to be shipped to my parent's house for long-term storage.  The suitcases and backpack are all I am living out of now.  My goal is to get down to the small suitcase and my backpack, and nothing else.
 

@@ -1,16 +1,10 @@
 ---
 title:			Diamantina Brazil is a sleepy town with a party spirit
 date:			2017-06-13 10:00:28 Z
-categories:		Brazil
-tags:			backpacking
-  - brazil
-  - History
-  - Nature
-  - South America
-  - travel guide
+categories:		brazil
+tags:			backpacking, brazil, history, nature, south america, travel guide
 author:			judsonlmoore
-excerpt:		Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial
-  history. Surrounded by spectacular nature, it dances with life once a year.
+excerpt:		Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial history. Surrounded by spectacular nature, it dances with life once a year.
 layout:			post
 image:			../assets/images/
 
@@ -47,7 +41,7 @@ You should also note that during Carnival, access to churches and museums is res
 
 Here is a video of the celebratory side of Diamantina during Carnival, featuring my friends Lilian and Glauco, and **18-year-old me**.
 
-## ``Visiting Diamantina outside of Carnival season
+## Visiting Diamantina outside of Carnival season
 
 The majority of the year is not Carnival season and so Diamantina turns into a great place for relaxing and connecting with nature and history. Diamantina is listed as a **World’s Cultural Heritage Site by UNESCO** for the role it played in establishing early Brazilian colonial wealth. As you might have guessed by the name, the area is rich in mineral resources, most notably, diamonds.
 

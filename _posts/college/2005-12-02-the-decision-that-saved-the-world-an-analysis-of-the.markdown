@@ -1,8 +1,7 @@
 ---
-title:			'The Decision that Saved the World:  An Analysis of the Decision-Making Process
-  during the Cuban Missile Crisis'
+title:			The Decision that Saved the World -  An Analysis of the Decision-Making Process during the Cuban Missile Crisis
 date:			2005-12-02 08:00:00 Z
-categories:		College Papers
+categories:		college papers
 tags:			Politics
 author:			judsonlmoore
 layout:			post
@@ -45,33 +44,33 @@ These people can be generally classified into two groups at the beginning of the
 
 Thirteen days passed from the onset of the Kennedy/ExComm involvement in the Cuban Missile Crisis, but the first reconnaissance photos of the missile launch sites were taken by a U-2 spy plane on October 15, 1962.
 
-**October 16 – Day 1 **[[4]](https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn4)\*\*  \*\*President Kennedy receives news of the missile sites in Cuba while having breakfast.  He immediately calls together his Ex-Comm to start discussing the American response to this news.
+**October 16 – Day 1** [[4]](https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn4)\*\*  \*\*President Kennedy receives news of the missile sites in Cuba while having breakfast.  He immediately calls together his Ex-Comm to start discussing the American response to this news.
 
-**October 17 – Day 2  **Kennedy meets with Soviet Foreign Minister Andrie Gromyko and informs him that the US will not except the presence of Soviet missiles in Cuba.  This meeting is held in secret and the public is not yet made aware that this situation exists.
+**October 17 – Day 2** Kennedy meets with Soviet Foreign Minister Andrie Gromyko and informs him that the US will not except the presence of Soviet missiles in Cuba.  This meeting is held in secret and the public is not yet made aware that this situation exists.
 
-**October 18 – Day 3  **Ex-Comm meets to discuss the situation and many members polarize to recommendations of military action (air strikes or invasion) or to enforce a naval blockade (quarantine).  Dean Acheson initially supports military action while Robert Lovette and McGeorge Bundy advise that a quarantine would be best.  As conversations developed, many members of ExComm came to believe that the quarantine option was in fact the best thing to do at least for now and that any military action may be too rash and have irreversible, long-term consequences.
+**October 18 – Day 3** Ex-Comm meets to discuss the situation and many members polarize to recommendations of military action (air strikes or invasion) or to enforce a naval blockade (quarantine).  Dean Acheson initially supports military action while Robert Lovette and McGeorge Bundy advise that a quarantine would be best.  As conversations developed, many members of ExComm came to believe that the quarantine option was in fact the best thing to do at least for now and that any military action may be too rash and have irreversible, long-term consequences.
 
-**October 19 – Day 4  **Balancing scheduled campaign appearances for the public with behind the scenes planning with ExComm, Kennedy leaves for Ohio and Illinois.  Before leaving on his trip, Kennedy meets with Secretary of Defense McNamara and members of the Joint Chiefs of Staff (JCS).  The JSC reports an initial agreement on an air strike in combination with a quarantine, but expresses concern that there was no guarantee that all missile sites could be destroyed and the political repercussions could be great.
+**October 19 – Day 4** Balancing scheduled campaign appearances for the public with behind the scenes planning with ExComm, Kennedy leaves for Ohio and Illinois.  Before leaving on his trip, Kennedy meets with Secretary of Defense McNamara and members of the Joint Chiefs of Staff (JCS).  The JSC reports an initial agreement on an air strike in combination with a quarantine, but expresses concern that there was no guarantee that all missile sites could be destroyed and the political repercussions could be great.
 
 Kennedy points out that to act in Cuba would justify a Soviet response in Berlin which is something that needed to be avoided at all cost, and US troops in Germany were not positioned to defend American interests there.  Air Force Chief of Staff LeMay states that a quarantine without military action would be a sure step toward war and that military action was the only possibility.  Kennedy refutes by saying that if we take action the Soviets will too and they are in too many superior positions in sensitive areas that we care about around the world, like Berlin.
 
-**October 20 – Day 5  **Kennedy returns home early from the campaign under the excuse of an upper-respiratory infection so that he can meet with the ExComm and try to find a suitable alternative to military action.
+**October 20 – Day 5** Kennedy returns home early from the campaign under the excuse of an upper-respiratory infection so that he can meet with the ExComm and try to find a suitable alternative to military action.
 
-**October 21 – Day 6  **This day is a turning point in the decision-making process.  New intelligence gathered from a U-2 flight shows that there are many more missile sites along the northern shores of Cuba as well as fleets of Cuban bombers poised for attack at a moments notice.  Estimates show that 10-20 thousand casualties could result from air-strikes and since not all of the missile sites could be taken out there would certainly be retaliation from the Soviets.  Kennedy firmly decides on a naval blockade only for the time being.
+**October 21 – Day 6** This day is a turning point in the decision-making process.  New intelligence gathered from a U-2 flight shows that there are many more missile sites along the northern shores of Cuba as well as fleets of Cuban bombers poised for attack at a moments notice.  Estimates show that 10-20 thousand casualties could result from air-strikes and since not all of the missile sites could be taken out there would certainly be retaliation from the Soviets.  Kennedy firmly decides on a naval blockade only for the time being.
 
-**October 22 – Day 7  **In a meeting between JFK and his brother, Robert Kennedy pledged his support of the quarantine.  “I was one of the strongest backers of this strategy because it signaled our resolve but gave Khrushchev room to back down and increased the probability of achieving our objective without catastrophic military action.” [[5]](https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn5)
+**October 22 – Day 7** In a meeting between JFK and his brother, Robert Kennedy pledged his support of the quarantine.  “I was one of the strongest backers of this strategy because it signaled our resolve but gave Khrushchev room to back down and increased the probability of achieving our objective without catastrophic military action.” [[5]](https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn5)
 
 President Kennedy addresses the public and informs the world of the situation and his decision to implement only a naval blockade with an impending military strike if further provoked by the Soviets.  Many congressional members urge Kennedy to order air strikes but he does not.  Kennedy sets the military alert level to DEFCON 3.  All Cuban forces are mobilized in response and prepare to defend Cuba in the event of invasion.
 
-**October 23 – Day 8  **The Organization of American States votes unanimously to support the naval blockade.  With this support, Kennedy orders ships into place and the blockade is established by nightfall.  McNamara reviews plans to retaliate against Cuba and Soviet positions in the event that an American plane is shot down while conducting reconnaissance flights.  Kennedy agrees that any Surface to Air Missile (SAM) site which fires on an American plane will be destroyed and a warning be issued that upon a second instance the US will destroy all Cuban SAM sites.  Bundy suggests that Kennedy relinquish authority to attack any SAM site if deemed necessary by those in the field.  Kennedy agrees under the condition that there is irrefutable evidence that a plane was shot down, not just crashed due to mechanical errors.
+**October 23 – Day 8** The Organization of American States votes unanimously to support the naval blockade.  With this support, Kennedy orders ships into place and the blockade is established by nightfall.  McNamara reviews plans to retaliate against Cuba and Soviet positions in the event that an American plane is shot down while conducting reconnaissance flights.  Kennedy agrees that any Surface to Air Missile (SAM) site which fires on an American plane will be destroyed and a warning be issued that upon a second instance the US will destroy all Cuban SAM sites.  Bundy suggests that Kennedy relinquish authority to attack any SAM site if deemed necessary by those in the field.  Kennedy agrees under the condition that there is irrefutable evidence that a plane was shot down, not just crashed due to mechanical errors.
 
 The president submits the official Quarantine Proclamation which states the rules and justifications for the naval blockade.  The ExComm anticipates that violence will break out when the US tries to board a Soviet ship, but it is a risk they will have to take.  Bundy disagrees with this stating that the Soviet ships are small in comparison to ours and resistance is not likely.
 
-**October 24 – Day 9  **Soviet ships reach the quarantine line for the first time, but hold their positions just outside the line as ordered by Moscow.  Robert F. Kennedy (RFK) and JFK discuss the political implications of this situation and agree that to have taken any less of an action would have resulted in impeachment and that to take a greater action could result in war.  It seems that Khrushchev is happy that this could be an embarrassing situation for Kennedy before the approaching congressional elections.  The Kennedys both believe that the Soviet ships will try to break the barricade, but they still are not sure what the best course of action in that instance would be.
+**October 24 – Day 9** Soviet ships reach the quarantine line for the first time, but hold their positions just outside the line as ordered by Moscow.  Robert F. Kennedy (RFK) and JFK discuss the political implications of this situation and agree that to have taken any less of an action would have resulted in impeachment and that to take a greater action could result in war.  It seems that Khrushchev is happy that this could be an embarrassing situation for Kennedy before the approaching congressional elections.  The Kennedys both believe that the Soviet ships will try to break the barricade, but they still are not sure what the best course of action in that instance would be.
 
 Dean Rusk, JFK, and Senator Everett Dirksen meet with congressional leaders to discuss the implications the Cuban situation has on Berlin.  Senate majority leader Mike Mansfield expresses concern that no military action is a small military action, and that any type of forceful retaliation towards the Soviets will justify any equal action they may take in Berlin.  He states that to attack in Cuba is to give up Berlin, and that is something that no one in the Western World will tolerate.
 
-**October 25 – Day 10  **The US ambassador to the UN, Adlai Stevenson, confronts the Soviet delegates about the situation but they refuse to discuss the matter.  Kennedy changes the military alert to DEFCON 2, the highest it has ever been in US history.  “Unprecedented actions were taken by the U.S. Strategic Air Command (SAC). SAC was generated to still higher alert, DEFCON 2, for the first time ever, on October 25.” [[6]](https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn6)  position
+**October 25 – Day 10** The US ambassador to the UN, Adlai Stevenson, confronts the Soviet delegates about the situation but they refuse to discuss the matter.  Kennedy changes the military alert to DEFCON 2, the highest it has ever been in US history.  “Unprecedented actions were taken by the U.S. Strategic Air Command (SAC). SAC was generated to still higher alert, DEFCON 2, for the first time ever, on October 25.” [[6]](https://www.judsonlmoore.com/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn6)
 
 UN Secretary General U Thant proposes that, “there should be a voluntary suspension on behalf of Russia to all arms shipments to Cuba and at the same time a suspension of the quarantine measures involving the search of ships.” [7]
 
@@ -85,7 +84,7 @@ JFK states that the quarantine could be lifted if the UN could guarantee that no
 
 The final order of business for the day is that POL (petroleum, oil and lubricants) be added to the restriction list in Cuba, because these material aid in the building and completion of the missile sites.
 
-**October 26 – Day 11  **Soviet Premier Khrushchev sends a letter to President Kennedy stating that he would dismantle his Cuban-based missiles if the US would publicly promise to not invade Cuba.  Khrushchev also proposes that the US should remove its missiles from Turkey.  RFK and Soviet Ambassador Dobrynin meet secretly and with permission from JFK decide that the removal of Turkey-based US missiles is an acceptable negotiating platform.
+**October 26 – Day 11** Soviet Premier Khrushchev sends a letter to President Kennedy stating that he would dismantle his Cuban-based missiles if the US would publicly promise to not invade Cuba.  Khrushchev also proposes that the US should remove its missiles from Turkey.  RFK and Soviet Ambassador Dobrynin meet secretly and with permission from JFK decide that the removal of Turkey-based US missiles is an acceptable negotiating platform.
 
 At the same time as this is going on, Fidel Castro of Cuba sends a message to the Soviet Premier requesting a nuclear strike against the US in retaliation for a US-led invasion of Cuba.  Secretary Dillon reaffirms his belief that an air strike against Cuba is still in order and that it is a far better alternative to a sea-based confrontation.
 
@@ -95,11 +94,11 @@ CIA Director John McCone argues that under no circumstances should the quarantin
 
 Kennedy finds the middle ground, “Well now, the quarantine itself won’t remove the weapons. So you only get two ways of removing the weapons: one is negotiate them out, in other words trade them out, and the other is to go in and take them out. I don’t see any other way you’re going to get the weapons out”[8]
 
-**October 27 – Day 12  **A U-2 spy plane is shot down over Cuba, but despite the earlier decision about the SAM site, JFK did not issue a strike order.  On this same day the CIA reports that at least five MRBM missiles are fully operational in Cuba.  “Later evidence indicated that some of the MRBMs were indeed ready to fire by October 21 and that all of them were ready to fire by October 27.” [9]
+**October 27 – Day 12** A U-2 spy plane is shot down over Cuba, but despite the earlier decision about the SAM site, JFK did not issue a strike order.  On this same day the CIA reports that at least five MRBM missiles are fully operational in Cuba.  “Later evidence indicated that some of the MRBMs were indeed ready to fire by October 21 and that all of them were ready to fire by October 27.” [9]
 
 Khrushchev announces publicly that he is willing to peacefully trade the Soviet missiles in Cuba for the US ones in Turkey.  This forces the Kennedy Administration into making a final decision.  Many members of the ExComm agree that taking any military action in the light of a peaceful solution would not be looked well upon by the public.  To be on the brink of nuclear war and do anything that might push the situation over the edge when being offered a peaceful way out would be an unreasonable decision.  In addition, since it is the Russians who have first publicly offered these reasonable terms for peace, breaking away from this offer would allow the Soviets to move on Berlin and justify it since they could claim they were not the aggressor.
 
-**October 28 – Day 13  **An agreement is made between the US and the USSR which states the US will not invade Cuba and the US will remove its missiles from Turkey within a reasonable amount of time.  In exchange the Soviets agree to remove all of their nuclear assets from Cuba and allow for UN supervision of the missile dismantling.  Cuba also agrees to not publicly announce that the missiles in Turkey were a part of the deal.
+**October 28 – Day 13** An agreement is made between the US and the USSR which states the US will not invade Cuba and the US will remove its missiles from Turkey within a reasonable amount of time.  In exchange the Soviets agree to remove all of their nuclear assets from Cuba and allow for UN supervision of the missile dismantling.  Cuba also agrees to not publicly announce that the missiles in Turkey were a part of the deal.
 
 Premier Khrushchev makes a radio address in Moscow stating that he will remove Soviet presence from Cuba.  He fails to mention any trade in regards to Turkey and the Cuban Missile Crisis comes to an end.
 
@@ -107,7 +106,7 @@ Nuclear war has been avoided and the US has triumphed over the Soviets.  The de
 
 In Conclusion, the Cuban Missile Crisis brought the US dangerously close to nuclear war with the Soviets, but with some diligent decisions and actions the world was spared this worst-case scenario.  The analysis on whether or not this was the best process is a whole other topic, but it can be argued that continuing to punish Cuba for their involvement in this crisis is excessive and unjust.  Whichever way you may feel about the treatment of Cuba, it should be agreed on by everyone that it is a small cost to pay for avoiding nuclear holocaust.
 
-WORKS CITED
+### WORKS CITED
 
 Barrett, David M., and Christopher Ryan. “5 National Security,” In _The Executive Office of the President:  A Historical, Biographical, and Bibliographical Guide_. Edited by Relyea, Harold C., null22-null23. Westport, CT: Greenwood Press, 1997.
 
@@ -130,7 +129,7 @@ Needler, Martin C. _The Concepts of Comparative Politics_. Westport, CT: Praeger
 “_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.image:			../assets/images/
 
 
----
+### Footnotes
 
 [1].   David M. Barrett, and Christopher Ryan, “5 National Security,” in _The Executive Office of the President:  A Historical, Biographical, and Bibliographical Guide_, ed. Harold C. Relyea  (Westport, CT: Greenwood Press, 1997), 190.
 
@@ -138,7 +137,7 @@ Needler, Martin C. _The Concepts of Comparative Politics_. Westport, CT: Praeger
 
 [3].   [Paul Harper and Joann P. Krieg, eds., _John F. Kennedy: The Promise Revisited_ (New York: Greenwood Press, 1988), 90.](http://www.questia.com/PM.qst?a=o&d=15070606)
 
-4.    Unless otherwise noted, all of the information on this time line was extracted from audio-recordings and transcripts from meetings in the White House and that were made available by the John F. Kennedy Presidential Library.  Recordings and Transcripts are available at [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/)
+[4].    Unless otherwise noted, all of the information on this time line was extracted from audio-recordings and transcripts from meetings in the White House and that were made available by the John F. Kennedy Presidential Library.  Recordings and Transcripts are available at [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/)
 
 [5].   [Robert S. Mcnamara, and James G. Blight, _Wilson’s Ghost: Reducing the Risk of Conflict, Killing, and Catastrophe in the 21st Century_ (New York: Public Affairs, 2001), 47.](http://www.questia.com/PM.qst?a=o&d=100986095)
 

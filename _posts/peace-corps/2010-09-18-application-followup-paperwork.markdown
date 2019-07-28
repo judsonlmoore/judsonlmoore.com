@@ -1,8 +1,8 @@
 ---
 title:			Application Followup Paperwork
 date:			2010-09-18 04:00:00 Z
-categories:		Peace Corps
-tags:			Peace Corps
+categories:		peace corps
+tags:			peace corps
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/

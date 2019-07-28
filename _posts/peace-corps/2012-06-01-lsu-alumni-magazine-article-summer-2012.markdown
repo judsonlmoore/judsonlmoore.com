@@ -1,13 +1,8 @@
 ---
 title:			LSU Alumni Magazine Article - Summer 2012
 date:			2012-06-01 14:42:06 Z
-categories:		Peace Corps
-tags:			Kyrgyzstan
-  - LSU
-  - LSU Alumni
-  - Peace Corps
-  - Published
-  - Talas
+categories:		peace corps
+tags:			kyrgyzstan, lsu, lsu alumni, peace corps, published, talas
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/
@@ -30,9 +25,9 @@ The format of this camp has proven to be a successful way for Peace Corps Volunt
 I have had a wonderful and meaningful first half of my Peace Corps service and I am excited to finish strong in the second half. While I continue to conduct trainings in the aforementioned areas, I find that just now I am beginning to grasp both the real needs and desires of the Kyrgyz Republic. I expect that the next year will be one to remember!
 
 Yours In Service,
-\_\_
 Judson L Moore
 US Peace Corps 2011-13
 Volunteer, Talas Kyrgyzstan
 +996.770.760045 // judsonlmoore.com
-Photo Caption: Judson L Moore in the foothills of Besh Tash National Park, Talas Kyrgyzstan. This will be the site of the July summer camp educating Kyrgyz youth in life skills related to relationships and making healthy decisions.
+
+> Photo Caption: Judson L Moore in the foothills of Besh Tash National Park, Talas Kyrgyzstan. This will be the site of the July summer camp educating Kyrgyz youth in life skills related to relationships and making healthy decisions.

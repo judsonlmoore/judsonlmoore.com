@@ -1,13 +1,8 @@
 ---
 title:			Otto von Bismarck and His Path to Unification
 date:			2004-05-05 08:00:00 Z
-categories:		College Papers
-tags:			Austro-Prussian War
-  - Germany
-  - Otto von Bismarck
-  - Politics
-  - Prussia
-  - Research Paper
+categories:		college papers
+tags:			austro-prussian war, germany, otto von bismarck, politics, prussia, research paper
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/
@@ -85,7 +80,7 @@ The doctrine under which the German Empire was ruled was the Imperial Constituti
 
 By giving the radical liberals a taste of democracy he preserved his union and through his military genius and political strategy Bismarck expanded the German Empire.  Eventually, however, this false democracy would fall, and what so many men died for, would be lost.  One thing however is for sure:  Bismarck and his actions have had long standing affects on the German nation-state which are still apparent today.  Bismarck formed an empire, unified a common-people, and laid the ground work for the creation of the Central European hegemon of the twentieth and twenty-first centuries.
 
-## Bibliography
+### Bibliography
 
 - Cole, [Taylor. European Political Systems, 2nd ed. (New York: Knopf, 1960).](http://www.questia.com/PM.qst?a=o&d=8102366)
 

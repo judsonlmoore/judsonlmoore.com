@@ -1,7 +1,7 @@
 ---
 title:			Did It While I Was Young
 date:			2010-03-19 07:39:00 Z
-categories:		Interests
+categories:		interests
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/
@@ -32,5 +32,3 @@ But if you want to explore the world. If you want this connectivity with differe
 Enough about that. I live without regrets. I love my life. I am just nearing a time when I want to share my super-awesome-crazy-experience-at-every-turn-know-more-people-than-Google-life with someone else.
 
 Now accepting applications. While I am still young.
-
-JM

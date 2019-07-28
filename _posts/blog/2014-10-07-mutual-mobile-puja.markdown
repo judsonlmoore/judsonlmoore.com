@@ -1,15 +1,10 @@
 ---
 title:			Mutual Mobile Receives High Blessings In Hyderabad
 date:			2014-10-07 22:38:22 Z
-categories:		Mutual Mobile
-tags:			Hinduism
-  - Hyderabad
-  - India
-  - Mutual Mobile
-  - Puja
+categories:		mutual mobile
+tags:			hinduism, hyderabad, india, mutual mobile, puja
 author:			judsonlmoore
-excerpt:		In celebration of construction beginning at the new Mutual Mobile office
-  in Hyderabad, the builders organized a puja to be performed.
+excerpt:		In celebration of construction beginning at the new Mutual Mobile office in Hyderabad, the builders organized a puja to be performed.
 layout:			post
 image:			../assets/images/
 

@@ -1,10 +1,10 @@
 ---
-title:			"Shafik Gabr's 2015 East-West: The Art of Dialogue Fellowship Notes"
-date:			2015-11-23 04:42:52 Z
-categories:		Egypt
-author:			judsonlmoore
-layout:			post
-image:			../assets/images/
+title:		  	Shafik Gabr's 2015 East-West - The Art of Dialogue Fellowship Notes
+date:		     	2015-11-23 04:42:52 Z
+categories:		egypt
+author:			  judsonlmoore
+layout:			  post
+image:			 ../assets/images/
 
 
 ---
@@ -390,8 +390,7 @@ Location: AUC New Campus
   - Controlled media? No. Not in USA (FOX) or in Egypt. Why? Because ….
 
   * No one “sitting in a dark room” directing media censorship, the media self-directs themselves to do as they believe they must. If they aren’t certain what to say, they just say nothing until the global news covers a topic, then the Egyptian media will slowly report information, cautious not to overstep
-
-  - Education is key, starts with ethics
+, education is key, starts with ethics
 
   * [Shorouk Newspaper](http://www.shorouknews.com/) is very harsh against government and they don’t have any problems. However, this may also be because their readership is small and it allows the government to point to them and say, “see? we don’t censor!”
 
@@ -515,7 +514,7 @@ Location: The Arab League
 
 **Speaker: Dr. Mostafa El Fiky, Political Expert**
 
-_Topic: Egypt from Revolution to Reform _
+_Topic: Egypt from Revolution to Reform_
 
 - 1952 - political revolutions had the rhetoric of “Best Egypt Ever” which is of course not true. Revolution comes as a result of the worst of times and only makes more divisions
 
@@ -589,7 +588,7 @@ Political Science Professor at American University of Cairo (AUC)
 
 - “If you dialogue with and accommodate these people, they will exploit you until they are strong and then they WILL kill you. This is a fight for your survival. Understand that first.”
 
-- “The Middle East doesn’t need democracy at this stage. They need governance to bring order. Democracy will come later. America took ~250 to get to today and for the first 200 years, African Americans and women couldn’t vote. Why does the Middle East have to evolve overnight? Give them 200 years too!
+- “The Middle East doesn’t need democracy at this stage. They need governance to bring order. Democracy will come later. America took \~250 to get to today and for the first 200 years, African Americans and women couldn’t vote. Why does the Middle East have to evolve overnight? Give them 200 years too!
 
 - [De Birs Yachts](http://www.debirsyachts.com/) ← 100% Egyptian
 
@@ -633,7 +632,7 @@ Location: Ministry of Defense
 
 **Meeting with Vice Admiral Mohab Mamish, Chairman of the Suez Canal Authority**
 
-_Topic: The New Suez Canal: The Opportunities to revive Egypt Economy _
+_Topic: The New Suez Canal: The Opportunities to revive Egypt Economy_
 
 - Original open date in 1869 - 1M Egyptians built the canal, 100k died building it
 
@@ -675,7 +674,7 @@ Location: Ministry of Foreign Affairs
 
   - A: Perception internally is that Egypt Government spends too much time speaking with each other and not enough time speaking with the rest of the world. They do work with the foreign media, but especially in USA it seems too impossible to impact the American Media’s views.
 
-  * _Welcome to discuss suggestions for improved EG-US Media relations _
+  * _Welcome to discuss suggestions for improved EG-US Media relations_
 
 * ISIS Situation
 
@@ -837,9 +836,9 @@ Location: Alexandria Governorate
 
 - Has 13k employees but has only meet 12 of them because the governor’s office was burned down and everyone is scattered. He only needs 10 people to get the job done.
 
-## **SUNDAY, October 25 / Alexandria **
+## SUNDAY, October 25 / Alexandria
 
-**Speaker: Dr. Ismail Serageldin, Director of Bibliotheca Alexandrina **
+**Speaker: Dr. Ismail Serageldin, Director of Bibliotheca Alexandrina**
 
 _Topic: Egypt: 2011 To Date_
 
@@ -851,7 +850,7 @@ Revolutionary thinking about the future of libraries generally and the BA specif
 
 _Topic: Alexandria: a Cosmopolitan City_
 
-## **MONDAY, October 26 / Luxor**
+## MONDAY, October 26 / Luxor
 
 **Speaker: Dr. Ahmed El Tayeb, Grand Sheikh / Grand Imam of Al Azhar**
 
@@ -865,9 +864,9 @@ Location: Al Azhar
 
   * 10k university students
 
-  - ~50 institutes in Africa and Asia
+  - \~50 institutes in Africa and Asia
 
-  * ~80 University faculty
+  * \~80 University faculty
 
   - 40k foreign students
 
@@ -907,7 +906,7 @@ Valley of the Kings, Valley of the Queens, Hatshepsut Temple
 
 **Speaker: Mr. Raymond Johnson, Director of the Oriental Institute**
 
-_Topic: Showcasing the Work of Chicago House _
+_Topic: Showcasing the Work of Chicago House_
 
 Location: Chicago House in Luxor
 
@@ -923,7 +922,7 @@ Guided Tour at Luxor Museum
 
 _November 7th – 21st, 2015 - New York/New Jersey/Atlanta/Washington, D.C._
 
-## **SATURDAY, November 7 / New York **
+## **SATURDAY, November 7 / New York**
 
 Arrive
 
@@ -981,11 +980,11 @@ Member and Chairman of [KKR Global Institute](https://en.wikipedia.org/wiki/Kohl
 
 _Discussion on Iran, 2016 U.S. Elections, U.S._
 
-_MENA Policy and U.S. Economy _
+_MENA Policy and U.S. Economy_
 
 Roundtable Discussion with [London Center for Policy Research](http://www.londoncenter.org/), [President Herb London](https://en.wikipedia.org/wiki/Herbert_London)
 
-_The non-linear business environment: How does Google posture itself in a chaotic world? _[Google Ideas](https://www.google.com/ideas/) ([wiki](https://en.wikipedia.org/wiki/Google_Ideas))
+_The non-linear business environment: How does Google posture itself in a chaotic world?_ [Google Ideas](https://www.google.com/ideas/)([wiki](https://en.wikipedia.org/wiki/Google_Ideas))
 
 Meeting with Scott Carpenter ([LinkedIn](https://www.linkedin.com/in/scott-carpenter-6b79b59), [video](https://www.youtube.com/watch?v=Lg3M8PI935o), [NYTimes Article](http://www.nytimes.com/2011/06/24/opinion/24iht-edcohen24.html?_r=0)), Deputy Director of Google Ideas, and Workshop with Google Engineers and Managers
 
@@ -1013,7 +1012,7 @@ CFR Campus - New Initiative to educate youth and college students (vs) about for
 
 **[Dr. Jonathan Golden](https://www.drew.edu/crcc/about-the-center), [Drew University](https://en.wikipedia.org/wiki/Drew_University)**
 
-## **WEDNESDAY, November 11 / New York, NY **
+## **WEDNESDAY, November 11 / New York, NY**
 
 _Impacts of global financial market interdependence and risk sensitivity on long-range business strategic planning?_
 
@@ -1065,7 +1064,7 @@ _The Responsibility of Truth in Reporting_ [CNN](https://en.wikipedia.org/wiki/C
 
 CNN meeting with Mr. Tim Langmaid and Tour
 
-_Perspectives for United States Multinational Corporate Investment in _
+_Perspectives for United States Multinational Corporate Investment in_
 
 _Egypt and the broader Middle East_
 
@@ -1091,7 +1090,7 @@ Visitor Center, The King Center, Historic Ebenezer Baptist Church, Birth Home, W
 
 Dinner at the Home of Mr. & Mrs. Dent, Parents of Fellow Elizabeth Dent
 
-## **SUNDAY, November 15 / Washington, D.C. **
+## **SUNDAY, November 15 / Washington, D.C.**
 
 Visit to [Smithsonian Museums](https://en.wikipedia.org/wiki/List_of_Smithsonian_museums) and [National Mall](https://en.wikipedia.org/wiki/National_Mall) ([Washington Monument](https://en.wikipedia.org/wiki/Washington_Monument))
 
@@ -1099,7 +1098,7 @@ Visit to [Smithsonian Museums](https://en.wikipedia.org/wiki/List_of_Smithsonian
 
 Start Point – [Union Station](<https://en.wikipedia.org/wiki/Union_Station_(Washington,_D.C.)>)
 
-## **MONDAY, November 16 / Washington, D.C. **
+## **MONDAY, November 16 / Washington, D.C.**
 
 _Implications for the Middle East in the Advent of the Iranian Nuclear Deal and the Russian Military Intervention in Syria_
 
@@ -1145,7 +1144,7 @@ Discussion Session with [Dr. Osama Abi-Mershed ](http://explore.georgetown.edu/p
 
 Dinner at [Thunder Grill](http://arkrestaurants.com/thundergrill/)
 
-## **TUESDAY, November 17 / Washington, D.C. **
+## **TUESDAY, November 17 / Washington, D.C.**
 
 _Conflicting Agendas in U.S. Military Cooperation Efforts in the Middle East between the Defense and Foreign Relations Committees_
 
@@ -1175,7 +1174,7 @@ _Can the U.S. Cover its Security “Bets” in the Middle East and Asia?_
 
 **Meeting with [Rep. Congressman Dana Rohrabacher (R)](https://en.wikipedia.org/wiki/Dana_Rohrabacher)**
 
-_Implications for U.S. and Global Security resulting from continued U.S. _
+_Implications for U.S. and Global Security resulting from continued U.S._
 
 _Political Gridlock in Washington – Is there hope?_
 
@@ -1183,7 +1182,7 @@ _Political Gridlock in Washington – Is there hope?_
 
 Dinner at Tony and Joe’s Seafood Place
 
-## **WEDNESDAY, November 18 / Washington, D.C. **
+## **WEDNESDAY, November 18 / Washington, D.C.**
 
 _How the West can help its Arab Partners Secure the Region_
 
@@ -1215,11 +1214,11 @@ Reception in Honor of 2015 Fellows
 
 The McDermott Building
 
-## **THURSDAY, November 19 / Washington, D.C. **
+## **THURSDAY, November 19 / Washington, D.C.**
 
 _Enabling U.S. Partners in the Middle East_
 
-**Breakfast Speaker: [Brigadier General (Retired) Tom Cosentino](https://www.linkedin.com/in/brig-gen-tom-cosentino-11104433), Vice President for Policy, **[**Business Executives for National Security** ](http://www.bens.org/)
+**Breakfast Speaker: [Brigadier General (Retired) Tom Cosentino](https://www.linkedin.com/in/brig-gen-tom-cosentino-11104433), Vice President for Policy,** [**Business Executives for National Security** ](http://www.bens.org/)
 
 _Moslem Brotherhood: Facts and Fiction – the view from DC_
 
@@ -1241,7 +1240,7 @@ _Why is the U.S./Egypt bilateral relationship now Tactical in nature rather than
 
 _Can the U.S./Egpyt reset the relationship on stronger footing? What it will take_
 
-_Evolving Political U.S./Egypt Relationship: Can Egypt be the key United _
+_Evolving Political U.S./Egypt Relationship: Can Egypt be the key United_
 
 _States partner for engagement in the Middle East and North Africa?_
 
@@ -1261,7 +1260,7 @@ _Challenges to Peace and Security in the Middle East_
 
 Ambassadorial Residence
 
-## **FRIDAY, November 20 / Washington, D.C. **
+## **FRIDAY, November 20 / Washington, D.C.**
 
 _How my Fellow Experience informed my Professional Work_
 

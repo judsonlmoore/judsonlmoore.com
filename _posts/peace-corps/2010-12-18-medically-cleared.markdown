@@ -1,8 +1,8 @@
 ---
 title:			Medically Cleared
 date:			2010-12-18 05:00:00 Z
-categories:		Peace Corps
-tags:			Peace Corps
+categories:		peace corps
+tags:			peace corps
 author:			judsonlmoore
 layout:			post
 image:			../assets/images/
