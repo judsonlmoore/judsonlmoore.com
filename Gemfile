@@ -7,8 +7,16 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 
+# Get latest version of jekyll
+# gem "jekyll", github: "jekyll/jekyll"
+
+# Shopify liquid-c gem written in C to speed up Liquid parsing
+gem "liquid-c"
+
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+#Plugins here
 group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
@@ -19,5 +27,6 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'jekyll-cloudinary'
 	gem 'bootstrap', '~> 4.3.1'
+	gem 'jekyll-include-cache'
 
 end

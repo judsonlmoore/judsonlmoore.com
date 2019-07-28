@@ -1,15 +1,16 @@
 ---
-title: LSU Alumni Magazine Article - Summer 2012
-date: 2012-06-01 14:42:06 Z
-categories: Peace Corps
-tags: Kyrgyzstan
+title:			LSU Alumni Magazine Article - Summer 2012
+date:			2012-06-01 14:42:06 Z
+categories:		Peace Corps
+tags:			Kyrgyzstan
   - LSU
   - LSU Alumni
   - Peace Corps
   - Published
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

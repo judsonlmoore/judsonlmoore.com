@@ -1,10 +1,11 @@
 ---
-title: Application Submitted!
-date: 2010-09-29 04:00:00 Z
-categories: Peace Corps
-tags: Peace Corps
-author: judsonlmoore
-layout: post
+title:			Application Submitted!
+date:			2010-09-29 04:00:00 Z
+categories:		Peace Corps
+tags:			Peace Corps
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

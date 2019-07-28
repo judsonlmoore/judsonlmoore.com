@@ -1,10 +1,11 @@
 ---
-title: Interview Scheduled (for TOMORROW!)
-date: 2010-10-26 04:00:00 Z
-categories: Peace Corps
-tags: Peace Corps
-author: judsonlmoore
-layout: post
+title:			Interview Scheduled (for TOMORROW!)
+date:			2010-10-26 04:00:00 Z
+categories:		Peace Corps
+tags:			Peace Corps
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

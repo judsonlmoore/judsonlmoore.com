@@ -1,12 +1,13 @@
 ---
-title: 			You Must Write A Book! A Review Of Honorée Corder's Latest Inspiration
-date: 			2016-10-03 05:00:26 Z
-categories: 	Career
-author: 		judsonlmoore
+title:			You Must Write A Book! A Review Of Honorée Corder's Latest Inspiration
+date:			2016-10-03 05:00:26 Z
+categories:		Career
+author:			judsonlmoore
 description:	If you've ever considered writing a book on but don't know where to start or how to finish, then You Must Write A Book, by Honorée Corder, is a must-read.
-excerpt: 		If you've ever considered writing a book on but don't know where to start or how to finish, then You Must Write A Book, by Honorée Corder, is a must-read.
-layout: 		post
-image: 			../assets/images/2016/10/you-must-write-a-book-by-honoree-corder.jpeg
+excerpt:		If you've ever considered writing a book on but don't know where to start or how to finish, then You Must Write A Book, by Honorée Corder, is a must-read.
+layout:			post
+image:			../assets/images/2016/10/you-must-write-a-book-by-honoree-corder.jpeg
+
 
 ---
 
@@ -44,7 +45,7 @@ I particularly enjoyed the depths she went into describing the very basic mathem
 
 **Two key elements** that Honorée covers thoroughly is how to set a daily writing goal, and realizing that consistent efforts add up quickly. After you read this book, you will realize that by following some very basic steps, then before long, you too can own the esteemed title of 'author.'
 
-<blockquote>_“Oh my goodness, that email had 764 words in it and I had writer’s block and it took me three weeks to write it!” said no one, ever_. - **Honorée_ Corder_**</blockquote>
+> _“Oh my goodness, that email had 764 words in it and I had writer’s block and it took me three weeks to write it!” said no one, ever_. - **Honorée_ Corder_**
 
 ## My Personal Takeaway
 

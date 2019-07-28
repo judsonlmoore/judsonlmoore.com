@@ -1,17 +1,18 @@
 ---
-title: 'Isla Palma: Private Island Paradise of Pablo Escobar'
-date: 2014-11-05 08:34:42 Z
-categories: Colombia
-tags: Colombia
+title:			'Isla Palma: Private Island Paradise of Pablo Escobar'
+date:			2014-11-05 08:34:42 Z
+categories:		Colombia
+tags:			Colombia
   - reunion
   - Rotary
   - RYE
   - South America
   - Travel
-author: judsonlmoore
-excerpt: 'Isla Palma is the private island retreat of cartel boss Pablo Escobar. Today,
+author:			judsonlmoore
+excerpt:		'Isla Palma is the private island retreat of cartel boss Pablo Escobar. Today,
   this all-inclusive resort is scattered with the ruins of that page in history. '
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

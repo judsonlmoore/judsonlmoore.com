@@ -1,15 +1,16 @@
 ---
-title: Nooryz 2013
-date: 2013-04-17 18:59:00 Z
-categories: Peace Corps
-tags: Bishkek
+title:			Nooryz 2013
+date:			2013-04-17 18:59:00 Z
+categories:		Peace Corps
+tags:			Bishkek
   - Culture
   - Holiday
   - Islam
   - Kyrgyzstan
   - New Year
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

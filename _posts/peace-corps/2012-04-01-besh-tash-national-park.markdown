@@ -1,14 +1,15 @@
 ---
-title: Besh Tash National Park
-date: 2012-04-01 06:42:50 Z
-categories: Talas
-tags: Besh Tash
+title:			Besh Tash National Park
+date:			2012-04-01 06:42:50 Z
+categories:		Talas
+tags:			Besh Tash
   - Hiking
   - Kyrgyzstan
   - Peace Corps
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

@@ -1,11 +1,12 @@
 ---
-title: A quick update on the last week of my life…
-date: 2011-06-06 22:25:25 Z
-categories: Peace Corps
-tags: Peace Corps
+title:			A quick update on the last week of my life…
+date:			2011-06-06 22:25:25 Z
+categories:		Peace Corps
+tags:			Peace Corps
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

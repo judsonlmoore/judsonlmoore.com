@@ -1,10 +1,11 @@
 ---
-title: 'Book Review: Tin Drum'
-date: 2005-11-15 08:00:00 Z
-categories: College Papers
-tags: Germany
-author: judsonlmoore
-layout: post
+title:			'Book Review: Tin Drum'
+date:			2005-11-15 08:00:00 Z
+categories:		College Papers
+tags:			Germany
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

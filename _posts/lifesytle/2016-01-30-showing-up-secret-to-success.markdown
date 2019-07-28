@@ -1,12 +1,13 @@
 ---
-title: The Secret To All My Success
-date: 2016-01-30 22:44:25 Z
-categories: Lifestyle
-tags: whileyoung
-author: judsonlmoore
-excerpt: Showing up is the first step in every success story, but it can be hard to
+title:			The Secret To All My Success
+date:			2016-01-30 22:44:25 Z
+categories:		Lifestyle
+tags:			whileyoung
+author:			judsonlmoore
+excerpt:		Showing up is the first step in every success story, but it can be hard to
   know where to put your efforts. Learn now from my first "showing up" story!
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -31,7 +32,7 @@ You and your own self-doubt are your own worst enemy. It's human nature, so don'
 
 When opportunity comes knocking or someone invites you to learn more about an opportunity, I challenge you to approach your response with this quote in mind:
 
-<blockquote>Every Day. Every Time. Without Fail. No Exceptions - [Paul Cummings, CEO of Woople](http://paulcummings.com/)</blockquote>
+> Every Day. Every Time. Without Fail. No Exceptions - [Paul Cummings, CEO of Woople](http://paulcummings.com/)
 
 What are some examples of times you have shown up? What are your struggles? What are your successes? Please share by leaving a comment now or by messaging me at [@judsonlmoore](http://twitter.com/judsonlmoore)!
 

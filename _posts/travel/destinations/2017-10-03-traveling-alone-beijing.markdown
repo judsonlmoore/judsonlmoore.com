@@ -1,14 +1,15 @@
 ---
-title: What happened when I traveled alone in Beijing
-date: 2017-10-03 10:00:01 Z
-categories: Female Travel
-tags: female travel
+title:			What happened when I traveled alone in Beijing
+date:			2017-10-03 10:00:01 Z
+categories:		Female Travel
+tags:			female travel
   - guest author
   - travel tips
-author: kelly.branyik
-excerpt: Returned Peace Corps Volunteer and author of the Propitious Panda blog and
+author:			kelly.branyik
+excerpt:		Returned Peace Corps Volunteer and author of the Propitious Panda blog and
   the new book "It Depends" shares a tale of solo travel in Beijing.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -21,8 +22,8 @@ Just a year before, I added this place, this moment, to a long list of things I 
 
 Sitting on that bench, looking at the [Marble Boat](https://www.travelchinaguide.com/attraction/beijing/summer/boat.htm) on the ice lake in February, I felt invincible, like I could travel anywhere. I wondered why I had been so scared of this feeling and convinced myself for so long that I couldn’t see the places I wanted to. On that bench, I wrote in my journal for several minutes to take it all in.
 
-<blockquote>“It’s so easy to keep exploring and going to the places you’ve only dreamt of seeing. After the first initial time making the decision to adventure, each time after is a no brainer. You just do it. No questions. No doubts. It’s so easy after you stop talking about it and instead go do it.”
--February, 2nd, 2015</blockquote>
+> “It’s so easy to keep exploring and going to the places you’ve only dreamt of seeing. After the first initial time making the decision to adventure, each time after is a no brainer. You just do it. No questions. No doubts. It’s so easy after you stop talking about it and instead go do it.”
+-February, 2nd, 2015
 
 ## Seeing the Marble Boat at the Summer Palace
 

@@ -1,12 +1,13 @@
 ---
-title: Why Travel While Young?
-date: 2016-02-21 02:47:46 Z
-categories: Adventure
-tags: whileyoung
-author: judsonlmoore
-excerpt: 'Learn why travel at a young age is a critical foundation for developing
+title:			Why Travel While Young?
+date:			2016-02-21 02:47:46 Z
+categories:		Adventure
+tags:			whileyoung
+author:			judsonlmoore
+excerpt:		'Learn why travel at a young age is a critical foundation for developing
   skill, independence, and for ensuring a prosperous life. '
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

@@ -1,13 +1,14 @@
 ---
-title: Lake Issyk Kul Summer 2012
-date: 2012-08-11 06:37:21 Z
-categories: Peace Corps
-tags: Issyk-Kul
+title:			Lake Issyk Kul Summer 2012
+date:			2012-08-11 06:37:21 Z
+categories:		Peace Corps
+tags:			Issyk-Kul
   - Kyrgyzstan
   - Lake Issyk-Kul
   - Peace Corps
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

@@ -1,12 +1,13 @@
 ---
-title: 'Site Placement: Radiomost 100.5FM'
-date: 2011-05-06 00:11:10 Z
-categories: Peace Corps
-tags: Kyrgyzstan
+title:			'Site Placement: Radiomost 100.5FM'
+date:			2011-05-06 00:11:10 Z
+categories:		Peace Corps
+tags:			Kyrgyzstan
   - Peace Corps
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

@@ -1,13 +1,14 @@
 ---
-title: Radiomost Office
-date: 2012-06-29 06:42:03 Z
-categories: Peace Corps
-tags: Kyrgyzstan
+title:			Radiomost Office
+date:			2012-06-29 06:42:03 Z
+categories:		Peace Corps
+tags:			Kyrgyzstan
   - Peace Corps
   - RadioMost
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

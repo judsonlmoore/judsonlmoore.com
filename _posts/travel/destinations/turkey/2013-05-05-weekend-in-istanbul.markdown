@@ -1,11 +1,11 @@
 ---
-title: What to do for A Weekend in Istanbul
-date: 2013-05-05 17:29:52 Z
-categories: Turkey
-author: judsonlmoore
-excerpt: If you find yourself having a weekend in Istanbul, Turkey, then this is the
-  guide for you! I was there just three days but saw a huge amount of sites.
-layout: post
+title:			What to do for A Weekend in Istanbul
+date:			2013-05-05 17:29:52 Z
+categories:		turkey
+author:			judsonlmoore
+excerpt:		If you find yourself having a weekend in Istanbul, Turkey, then this is the guide for you! I was there just three days but saw a huge amount of sites.
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -54,9 +54,9 @@ I arrived at the Blue Mosque first thing in the morning and still had an hour or
 
 Upon exiting the Blue Mosque, we ran into a film shoot for a Bollywood film. We stayed and watched for a few minutes before carrying on.
 
-<blockquote>**Update:** While living in [Hyderabad India](https://www.judsonlmoore.com/india/) (two years after being in Istanbul), I showed this clip to some colleagues and they recognized it instantly. What we saw being filmed can be seen in its final cut [at 1:35 in this video featuring Jeet & Subhasree](https://www.youtube.com/watch?v=xNEsq9zMX-Y).</blockquote>
+> **Update:** While living in [Hyderabad India](https://www.judsonlmoore.com/india/) (two years after being in Istanbul), I showed this clip to some colleagues and they recognized it instantly. What we saw being filmed can be seen in its final cut [at 1:35 in this video featuring Jeet & Subhasree](https://www.youtube.com/watch?v=xNEsq9zMX-Y).
 
-[embed]https://www.youtube.com/watch?v=7pL4DmS4Ork[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7pL4DmS4Ork" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Obelisk of Theodosius
 
@@ -72,7 +72,7 @@ Topkapı Palace was the seat of the once great Ottoman Empire for over 400 yea
 
 Also known as the Spice Bazaar, the Mısır Çarşısı (Egyptian Bazaar) is quite likely the most delicious smelling place I have ever been. This massive sprawl of mostly spice and tea vendors sell their quality products in an open-air fashion which fills the air, and your nostrils, with wonderful smells. If this is a glimpse into what Egypt is like, then I can not wait to get there someday soon!
 
-<blockquote>**Update:** I have now been to Egypt! Check out those stories [here](/egypt/).</blockquote>
+> **Update:** I have now been to Egypt! Check out those stories [here](/egypt/).
 
 [gallery type="rectangular" link="none" ids="4001,4002,4003"]
 

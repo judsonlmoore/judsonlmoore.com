@@ -1,17 +1,12 @@
 ---
-title: Dandiya Is The Festival Drummers and Dancers Were Born For
-date: 2014-10-08 11:54:21 Z
-categories: Hyderabad
-tags: Culture
-  - Dancing
-  - Dandiya
-  - Fun
-  - Hyderabad
-  - India
-author: judsonlmoore
-excerpt: The Dandiya Festival is an Indian celebration of an ancient battle. The music
-  is percussion-driven and the dance reflects the bravery and honor of battle.
-layout: post
+title:			Dandiya Is The Festival Drummers and Dancers Were Born For
+date:			2014-10-08 11:54:21 Z
+categories:		hyderabad
+tags:			culture, dancing, dandiya, fun, hyderabad, india
+author:			judsonlmoore
+excerpt:		The Dandiya Festival is an Indian celebration of an ancient battle. The music is percussion-driven and the dance reflects the bravery and honor of battle.
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -34,4 +29,4 @@ Here are some photos from the evening, followed by a video I found from the same
 
 [gallery ids="2920,2921,2922,2923,2924,2925,2926,2927,2928,2929"]
 
-[embed]https://www.youtube.com/watch?v=Vz3zuS53PpY[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Vz3zuS53PpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

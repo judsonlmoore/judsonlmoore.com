@@ -1,12 +1,12 @@
 ---
-title: Living Without A Car in America
-date: 2016-01-30 17:44:26 Z
-categories: Lifestyle
-tags: whileyoung
-author: judsonlmoore
-excerpt: Living without a car in America may seem unpatriotic or even impossible,
-  but with these basic tips, you too can live a blissful and car-free life!
-layout: post
+title:			Living Without A Car in America
+date:			2016-01-30 17:44:26 Z
+categories:		lifestyle
+tags:			whileyoung
+author:			judsonlmoore
+excerpt:		Living without a car in America may seem unpatriotic or even impossible, but with these basic tips, you too can live a blissful and car-free life!
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -18,8 +18,7 @@ After living abroad for a few years, I found myself coming home to America for a
 I am not one to back down from a good challenge, so I accepted. It is now three years later, and I am still car-free! How? There are two critical factors to successfully living without a car:
 
 1. **Proximity** - The places you need to get to on a regular basis should be near each other. Living not too far away from your work will be the major factor for most to consider.
-
-2) **Alternative Options** - Living in a community with transportation alternatives will make or break your ability to live without a car.
+2. **Alternative Options** - Living in a community with transportation alternatives will make or break your ability to live without a car.
 
 ## Proximity
 
@@ -34,19 +33,12 @@ Living in proximity to downtown is more expensive than living in the further-out
 I might not have a car, but I do have a very wide menu of transportation options at my disposal. Here is what I use on a day to day basis:
 
 - Public Transit
-
 - Car2Go
-
 - ZipCar
-
 - Uber
-
 - Lyft
-
 - B-Cycle
-
 - My own bike
-
 - My own two feet
 
 With all of these options, choosing the best method for right now is sometimes a burden. To help me figure it out, I turn to the Google Maps App ([iOS](https://www.judsonlmoore.com/get/google-maps-ios/) / [Android](https://www.judsonlmoore.com/get/google-maps-android/)) and Ridescout App ([iOS](https://www.judsonlmoore.com/get/moovel-ios/) / [Android](https://www.judsonlmoore.com/get/moovel-android/)). Go give those a look and let me know what you think about them by leaving a comment below.

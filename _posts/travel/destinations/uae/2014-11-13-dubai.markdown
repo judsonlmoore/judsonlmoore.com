@@ -1,16 +1,12 @@
 ---
-title: Dubai Is The Billionaire's Oasis In the Middle East
-date: 2014-11-13 10:33:13 Z
-categories: UAE
-tags: Adventure
-  - Bucket List
-  - Desert
-  - reunion
-  - Travel
-author: judsonlmoore
-excerpt: Dubai is the playground of billionaires, royalty and me (for a day)! I've
-  studied the architecture and dreamed of skiing in the desert. Dreams come true!
-layout: post
+title:			Dubai Is The Billionaire's Oasis In the Middle East
+date:			2014-11-13 10:33:13 Z
+categories:		uae
+tags:			adventure, bucket list, desert, reunion, travel
+author:			judsonlmoore
+excerpt:		Dubai is the playground of billionaires, royalty and me (for a day)! I've studied the architecture and dreamed of skiing in the desert. Dreams come true!
+layout:			post
+image:			../assets/images/
 
 
 ---

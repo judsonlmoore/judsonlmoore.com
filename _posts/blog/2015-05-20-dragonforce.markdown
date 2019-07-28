@@ -1,14 +1,15 @@
 ---
-title: DragonForce Performs at the Mohawk in Austin Texas
-date: 2015-05-20 23:41:07 Z
-categories: Austin
-tags: Concert
+title:			DragonForce Performs at the Mohawk in Austin Texas
+date:			2015-05-20 23:41:07 Z
+categories:		Austin
+tags:			Concert
   - Live
   - Music
-author: judsonlmoore
-excerpt: The English power metal band, DragonForce, of Guitar Hero fame, performed
+author:			judsonlmoore
+excerpt:		The English power metal band, DragonForce, of Guitar Hero fame, performed
   in Austin Texas and I got a first row experience of their amazing performance.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -19,13 +20,13 @@ I've waited to see the English power metal band, DragonForce, for more than ten 
 
 This is THE song! Best known for being the closing credits song at the end of the original Guitar Hero game, *Through The Fire and Flames* has inspired a generation of gamers to click harder and faster than anything else in console history.
 
-[embed]https://youtu.be/-uIzyMsu4Vk[/embed]
+<iframe width="560" height="315" src="https://youtu.be/-uIzyMsu4Vk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## DragonForce Dueling Guitar Solos!
 
 What decent rock show doesn't have a guitar battle? These guys are clearly having a great time! Despite messing with each other so much on stage, they do not miss a single one of the million notes they play. What great musicianship, and so nice to see people truly enjoying themselves!
 
-[embed]https://youtu.be/qmNCFcPWcq0[/embed]
+<iframe width="560" height="315" src="https://youtu.be/qmNCFcPWcq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Photos From the DragonForce Concert
 

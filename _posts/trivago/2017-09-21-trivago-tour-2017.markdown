@@ -1,12 +1,13 @@
 ---
-title: trivago On Tour - Cruise 2017 to Norway and Denmark
-date: 2017-09-21 16:43:54 Z
-categories: denmark, norway
-tags: #lifeattrivago, copenhagen, denmark, norway, road trip, travel tale
-author: judsonlmoore
-excerpt: The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about
-  the surprise concerts, unknown destinations, and jumping with moose!
-layout: post
+title:			trivago On Tour - Cruise 2017 to Norway and Denmark
+date:			2017-09-21 16:43:54 Z
+categories:		denmark, norway
+tags:			#lifeattrivago, copenhagen, denmark, norway, road trip, travel tale
+author:			judsonlmoore
+excerpt:		The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about the surprise concerts, unknown destinations, and jumping with moose!
+layout:			post
+image:			../assets/images/
+
 
 ---
 
@@ -58,7 +59,7 @@ On our first night, we headed to the rooftop pool deck and amphitheater for a sp
 
 As the clock struck 10:00 pm, a stagehand walked out and pulled the backdrop into position to reveal that the band to perform was **the Swedish rock band, Mando Diao**. The crowd went crazy. A minute later, the intro music started up and the band took to the stage. I was front and center for the show and got an amazing video of their first song. Here is Mando Diao performing _Down in the Past_ as their opening song for trivago on Tour 2017:
 
-[embed]https://youtu.be/b_6quek7QzY[/embed]
+<iframe width="560" height="315" src="https://youtu.be/b_6quek7QzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Hiking in Norway with perfect weather
 
@@ -70,15 +71,7 @@ Our hike wound us through about 5 miles of **pristine nature** in the Baneheia P
 
 **Further reading: [How to spend a day in Norway: Hiking in Baneheia Park in Kristiansand](https://www.judsonlmoore.com/baneheia-kristiansand-norway/)**
 
-<blockquote>
-
->
-
-> \*\* \*\*
-
-> **[A post shared by Judson L Moore (@judsonlmoore)](https://www.instagram.com/p/BZJtZTXHuCy/) on** Sep 17, 2017 at 11:10am PDT
-
-> </blockquote>
+**[A post shared by Judson L Moore (@judsonlmoore)](https://www.instagram.com/p/BZJtZTXHuCy/) on** Sep 17, 2017 at 11:10am PDT
 
 ## A bicycle tour of Copenhagen
 
@@ -100,7 +93,7 @@ Despite the all-day physical activities and the all-night parties during trivago
 
 Words can not describe how insane this was. So let me show you in this video:
 
-[embed]https://youtu.be/k6S3x4rHen4[/embed]
+<iframe width="560" height="315" src="https://youtu.be/k6S3x4rHen4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Exhausted. Happy.
 

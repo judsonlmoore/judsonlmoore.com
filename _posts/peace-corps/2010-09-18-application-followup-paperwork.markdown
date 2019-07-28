@@ -1,10 +1,11 @@
 ---
-title: Application Followup Paperwork
-date: 2010-09-18 04:00:00 Z
-categories: Peace Corps
-tags: Peace Corps
-author: judsonlmoore
-layout: post
+title:			Application Followup Paperwork
+date:			2010-09-18 04:00:00 Z
+categories:		Peace Corps
+tags:			Peace Corps
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

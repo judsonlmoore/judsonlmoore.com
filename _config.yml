@@ -100,6 +100,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-include-cache
 
 # Archives
 jekyll-archives:
@@ -131,7 +132,13 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude:
+  - .jekyll-cache
+  - changelog.md
+  - LICENSE.txt
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 # Cloudinary
 # Learn More https://github.com/nhoizey/jekyll-cloudinary
 # cloudinary:

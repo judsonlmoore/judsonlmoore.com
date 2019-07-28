@@ -1,8 +1,8 @@
 ---
-title: Almanbet's Birthday Cookout
-date: 2012-08-19 20:33:09 Z
-categories: Peace Corps
-tags: BBQ
+title:			Almanbet's Birthday Cookout
+date:			2012-08-19 20:33:09 Z
+categories:		Peace Corps
+tags:			BBQ
   - Birthday
   - Culture Exchange
   - Day Trips
@@ -10,8 +10,9 @@ tags: BBQ
   - Kyrgyzstan
   - Mountains
   - Nature
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

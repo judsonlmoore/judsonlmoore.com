@@ -1,17 +1,18 @@
 ---
-title: Diamantina Brazil is a sleepy town with a party spirit
-date: 2017-06-13 10:00:28 Z
-categories: Brazil
-tags: backpacking
+title:			Diamantina Brazil is a sleepy town with a party spirit
+date:			2017-06-13 10:00:28 Z
+categories:		Brazil
+tags:			backpacking
   - brazil
   - History
   - Nature
   - South America
   - travel guide
-author: judsonlmoore
-excerpt: Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial
+author:			judsonlmoore
+excerpt:		Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial
   history. Surrounded by spectacular nature, it dances with life once a year.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

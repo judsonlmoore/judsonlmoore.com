@@ -1,14 +1,15 @@
 ---
-title:        Things to Do in Dublin - A 3-day Weekend Itinerary
-date:         2018-02-03 12:00:51 Z
-categories:   ireland
-tags:         adventure, itenerary, travel guide, travel tips
-author:       judsonlmoore
-comments:     true
-description:  Discover things to do in Dublin for a weekend trip. Learn about sites of historical significance, the best nightlife, and get inspired for some sensational hikes.
-excerpt:      With just one visit, Dublin has become one of my favorite cities in the world. I pieced together the very best from my trip to Dublin in to this 3-day itinerary for things to do in Dublin. From historical sites, to nightlife, and hikes, Dublin has something for everyone.
-layout:       post
-image:        ../assets/images/2018/01/dublin-weekend-itenerary-river-liffey-min.jpg
+title:          Things to Do in Dublin - A 3-day Weekend Itinerary
+date:           2018-02-03 12:00:51 Z
+categories:		  ireland
+tags:           adventure, itenerary, travel guide, travel tips
+author:         judsonlmoore
+comments:       true
+description:    Discover things to do in Dublin for a weekend trip. Learn about sites of historical significance, the best nightlife, and get inspired for some sensational hikes.
+excerpt:        With just one visit, Dublin has become one of my favorite cities in the world. I pieced together the very best from my trip to Dublin in to this 3-day itinerary for things to do in Dublin. From historical sites, to nightlife, and hikes, Dublin has something for everyone.
+layout:         post
+image:          ../assets/images/2018/01/dublin-weekend-itenerary-river-liffey-min.jpg
+
 
 ---
 
@@ -19,7 +20,6 @@ In this article, I highlight the very best from my time in Dublin and schedule i
 ## Outline of Things to Do in Dublin
 
 - **Day 1 - Royalty and whiskey**
-
   - Dublin Castle _(1.5 hours)_
 
   * Shopping in the old town _(open-ended)_
@@ -67,8 +67,6 @@ That said, in the week I spent in Dublin, I never took the bus and I only took a
 And last but not least, be aware that **Ireland's currency is the Euro** and you will need an adaptor for a **type-G electrical plug at 230v** and 50Hz. I recommend [this adaptor on Amazon](https://www.amazon.com/gp/product/B075VQDWZ7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075VQDWZ7&linkCode=as2&tag=judsonlmoor0a-20&linkId=f642c14792d29932c81b0b0796cb2fc1). _(affiliate link)_
 
 Now, let's get on with discussing all the things to do in Dublin for your awesome weekend trip!
-
----
 
 ## Day 1 - Royalty and Whiskey
 
@@ -187,9 +185,7 @@ And yes, you can get married here, too!
 
 - **Official Website:** [thechurch.ie](http://thechurch.ie/)
 
-{% include image.html alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." file="../assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg" description=" The Church Bar in Dublin Ireland" %}
-
----
+{% include image.html alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." file="../assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg" description=" The Church Bar in Dublin Ireland" %}image:			../assets/images/
 
 back to top
 
@@ -344,8 +340,6 @@ The best part, though, at least on my visit, is that there was a TV in the back 
 - **Official Website:** [thetemplebarpub.com](https://www.thetemplebarpub.com/)
 
 {% include image.html alt="Four bottles of whiskey lined up and ready to be tasted" file="../assets/images/2018/01/dublin-weekend-itenerary-temple-bar-distillery-store-tasting.jpg" description=" Whiskey Tasting at the Temple Bar Distillery Store" %}
-
----
 
 back to top
 

@@ -1,12 +1,12 @@
 ---
-title: Travel Advice To Rajasthan India
-date: 2016-03-28 18:03:34 Z
-categories: India
-tags: whileyoung
-author: judsonlmoore
-excerpt: Rajasthan India is a magical wonderland of castles, camels and amazing food!
-  Check out these tips for places to stay, things to do and how to get around!
-layout: post
+title:			Travel Advice To Rajasthan India
+date:			2016-03-28 18:03:34 Z
+categories:		India
+tags:			whileyoung
+author:			judsonlmoore
+excerpt:		Rajasthan India is a magical wonderland of castles, camels and amazing food! Check out these tips for places to stay, things to do and how to get around!
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -62,7 +62,7 @@ We made our safari trip in December, which is very much in the off-season. My tr
 
 The sun was setting as we ventured away from Pushkar, and we had the most breathtaking desert landscapes changing colors with ever blink right in front of us. We even saw a Gazelle in the wild! I tried to take a lot of pictures of this, but very few of the photos came out thanks to the low light and the bumpy camel ride.
 
-It took us about two hours to reach our destination. Our camping spot was just a patch of sand with tent made of tarps. Inside the tent were two raised platforms we turned into beds with the pads that had been on top of the camel, acting as our saddle. The treatment we received at the camp was epic. We huddled around a fire; it was very cold, and the guides (7 of them!) prepared dinner. This food was easily the best thing I ate <del>anywhere in India</del> in my entire life. After dinner, we went right to sleep, and it is probably the hardest I have ever slept. I was exhausted. The desert air was so pure, but has it’s own smell which was new to me. It was a great atmosphere for rest.
+It took us about two hours to reach our destination. Our camping spot was just a patch of sand with tent made of tarps. Inside the tent were two raised platforms we turned into beds with the pads that had been on top of the camel, acting as our saddle. The treatment we received at the camp was epic. We huddled around a fire; it was very cold, and the guides (7 of them!) prepared dinner. This food was easily the best thing I ate anywhere in India in my entire life. After dinner, we went right to sleep, and it is probably the hardest I have ever slept. I was exhausted. The desert air was so pure, but has it’s own smell which was new to me. It was a great atmosphere for rest.
 
 I woke at morning’s first light, and the guides already had ginger tea hot and ready. We had a quick breakfast and then started to head back to Pushkar. My camel, Romeo, behaved pretty well the day before but on the way back to Pushkar we had a hard time controlling him. Apparently there were several turns we could have made (but didn’t) which would have taken him to his girlfriend. He was not happy about not getting to see her. Camels are much taller than horses, and I was pretty scared of getting thrown off. My guide was confident that we wouldn’t get bucked, but I am still impressed that we didn’t! In the end, we prevailed over Romeo and got safely back to Pushkar.
 

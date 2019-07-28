@@ -1,16 +1,17 @@
 ---
-title: What I have learned about my Peace Corps legacy in Kyrgyzstan
-date: 2017-11-13 21:13:21 Z
-categories: Peace Corps
-tags: Bishkek
+title:			What I have learned about my Peace Corps legacy in Kyrgyzstan
+date:			2017-11-13 21:13:21 Z
+categories:		Peace Corps
+tags:			Bishkek
   - Kyrgyzstan
   - Peace Corps
   - Service Above Self
   - Talas
-author: judsonlmoore
-excerpt: I recently learned a few things which I did not know about my own legacy
+author:			judsonlmoore
+excerpt:		I recently learned a few things which I did not know about my own legacy
   in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -87,6 +88,6 @@ Kyrgyzstan empowered me to work hard and to strive for a common good. More impor
 
 This is my story, and so I tell it. But if the legacy is to persevere, it is not because it is mine, but because **it is the collectives**. None of this could have been done alone and I shy away from taking any amount of credit. I am proud to have been a part of these accomplishments, and I will continue to use my life to serve the community around me. **I hope that you will do the same.**
 
-<blockquote>First time I departed from Bishkek vs the second time. Great friends all around!
+> First time I departed from Bishkek vs the second time. Great friends all around!
 
-Posted by [Judson Moore](https://www.facebook.com/judsonlmoore) on [Saturday, November 11, 2017](https://www.facebook.com/judsonlmoore/posts/10108298844121885)</blockquote>
+Posted by [Judson Moore](https://www.facebook.com/judsonlmoore) on [Saturday, November 11, 2017](https://www.facebook.com/judsonlmoore/posts/10108298844121885)

@@ -1,25 +1,19 @@
 ---
-title: 'India Travel Guide: What I Learned After 6 Months On The Road'
-date: 2015-01-15 14:37:39 Z
-categories: India
-tags: Agra
-  - Dehli
-  - Jaipur
-  - Rajasthan
-  - Recommendations
-  - Tips
-  - Travel
-author: judsonlmoore
-excerpt: 'During a 6-month business trip to India, I took advantage of every weekend
-  to travel to a different corner of this beautiful and vibrant country. '
-layout: post
+title:			India Travel Guide - What I Learned After 6 Months On The Road
+date:			2015-01-15 14:37:39 Z
+categories:		india
+tags:			agra, dehli, jaipur, rajasthan, recommendations, tips, travel
+author:			judsonlmoore
+excerpt:		During a 6-month business trip to India, I took advantage of every weekend to travel to a different corner of this beautiful and vibrant country.
+layout:			post
+image:			../assets/images/
 
 
 ---
 
 I have seen so much of India at this point that I feel like I can give you some good advice and connect you with folks in each area of the country. In the event that you visit India, I think the below India travel guide will be very helpful. Please, add your comments below!
 
-## India Travel Guide: Getting Around India
+## How to get around India
 
 For regional travel, trains are a great way to get around. The official online train ticket portal is [here](https://www.irctc.co.in/eticketing/loginHome.jsf), but that site is difficult to work with, and you have to create an account before you can even see what the schedules are. The better way to book train tickets is with [Cleartrip](http://www.cleartrip.com/) ([iOS](https://www.judsonlmoore.com/get/ios-cleartrip/) | [Android](https://www.judsonlmoore.com/get/android-cleartrip/)) or with [RailYatri](https://www.railyatri.in/) ([iOS](https://www.judsonlmoore.com/get/ios-railyatri/) | [Android](https://www.judsonlmoore.com/get/android-railyatri/)).  They typically don't accept foreign debit / credit cards though, so it might get tricky. You can easily buy at the station, but you might want to get at least your first ticket booked before arriving in India if you're getting on the train right away. Hotels and hostels are often helpful with booking train tickets, for a fee, of course. The train classes are very complicated and are a legacy of the caste system. You can learn all about the train classes [here](http://wikitravel.org/en/Rail_travel_in_India). I recommend traveling in 1AC (First Class Air Conditioning).
 
@@ -81,11 +75,11 @@ If you have time to do something other than the Golden Triangle, then you should
 
 - [WikiTravel](http://wikitravel.org/) - Non-commercialized information for traveling just about anywhere
 
-  - [Hyderabad](http://wikitravel.org/en/Hyderabad)
+	- [Hyderabad](http://wikitravel.org/en/Hyderabad)
 
-  * [Andhra Pradesh](http://wikitravel.org/en/Andhra_Pradesh)
+	* [Andhra Pradesh](http://wikitravel.org/en/Andhra_Pradesh)
 
-  - [Rail Travel in India](http://wikitravel.org/en/Rail_travel_in_India)
+	- [Rail Travel in India](http://wikitravel.org/en/Rail_travel_in_India)
 
 * Find [JCI Accredited](http://www.jointcommissioninternational.org/about-jci/jci-accredited-organizations/?c=India) hospitals in India.
 

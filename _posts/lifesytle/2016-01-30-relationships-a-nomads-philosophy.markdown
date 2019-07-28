@@ -1,12 +1,13 @@
 ---
-title: "Relationships: A Nomad's Philosophy"
-date: 2016-01-30 17:44:26 Z
-categories: Lifestyle
-tags: whileyoung
-author: judsonlmoore
-excerpt: Relationships struggle to survive the test of distance, and for good reason.
+title:			"Relationships: A Nomad's Philosophy"
+date:			2016-01-30 17:44:26 Z
+categories:		Lifestyle
+tags:			whileyoung
+author:			judsonlmoore
+excerpt:		Relationships struggle to survive the test of distance, and for good reason.
   As a nomad, I have learned how to protect the most precious relationships.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

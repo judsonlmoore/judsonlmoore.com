@@ -1,9 +1,10 @@
 ---
-title: Did It While I Was Young
-date: 2010-03-19 07:39:00 Z
-categories: Interests
-author: judsonlmoore
-layout: post
+title:			Did It While I Was Young
+date:			2010-03-19 07:39:00 Z
+categories:		Interests
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -22,7 +23,7 @@ More often than I care to think about, people express to me how they wish they �
 
 Then there are people who are young, smart, degree in hand, nothing tying them down, and they say to me, “I wish I could go off exploring the world!” And to them I say DO IT. Then come the excuses: ALWAYS. “I have this job…” “My family is here…” “I don’t know where I would go…” “I don’t have enough money to move…” etc etc etc…
 
-<blockquote>note: I am the child of 2 Southern Baptist preachers (yes, mom too!), and my dad is a brilliant academic. They have very noble professions and have led very happy lives. My parents are the best parents I know of and they have done everything for me, always… but I was reared as far from a silver spoon in my mouth as you can imagine. I have worked since I was 14 and as many as 5 jobs + college at a single time to get where I am today… and everything, EVERYTHING I posses is a result of my own work, not a trust fund.. so lack of money is not an excuse either. Just a reflection for lack of motivation and creativity.   :)</blockquote>
+> note: I am the child of 2 Southern Baptist preachers (yes, mom too!), and my dad is a brilliant academic. They have very noble professions and have led very happy lives. My parents are the best parents I know of and they have done everything for me, always… but I was reared as far from a silver spoon in my mouth as you can imagine. I have worked since I was 14 and as many as 5 jobs + college at a single time to get where I am today… and everything, EVERYTHING I posses is a result of my own work, not a trust fund.. so lack of money is not an excuse either. Just a reflection for lack of motivation and creativity.   :)
 
 Trust me. You don’t REALLY want to move around like I do. It takes real sacrifice. I have a belief that the long-term benefits will be great. That is what keeps me going. But it isn’t easy. If it WERE easy then everyone WOULD do it! (so they say)
 

@@ -1,13 +1,13 @@
 ---
-title: How to spend a day in Norway - Hiking in Baneheia Park in Kristiansand
-date: 2017-10-09 10:00:27 Z
-categories: norway
-tags: #lifeattrivago, hiking, nordic, scandinavia, travel guide
-author: judsonlmoore
-excerpt: I spent a day in Kristiansand, Norway thanks to a company cruise for the
-  2017 trivago on Tour. Though just one day, I experienced memories that will last
-  forever!
-layout: post
+title:			How to spend a day in Norway - Hiking in Baneheia Park in Kristiansand
+date:			2017-10-09 10:00:27 Z
+categories:		norway
+tags:			#lifeattrivago, hiking, nordic, scandinavia, travel guide
+author:			judsonlmoore
+excerpt:		I spent a day in Kristiansand, Norway thanks to a company cruise for the 2017 trivago on Tour. Though just one day, I experienced memories that will last forever!
+layout:			post
+image:			../assets/images/
+
 
 ---
 

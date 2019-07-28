@@ -1,18 +1,12 @@
 ---
-title: 10 Questions to Ask Before You Book a Riad in Morocco
-date: 2017-04-12 21:58:33 Z
-categories: Morocco
-tags: Adventure
-  - advice
-  - booking
-  - Holiday
-  - Mountains
-  - Travel
-  - travel tips
-author: judsonlmoore
-excerpt: 'Morocco is a land with charms dating back centuries. If you want to have
-  an authentic experience, book a riad in Morocco, but ask these questions first. '
-layout: post
+title:			10 Questions to Ask Before You Book a Riad in Morocco
+date:			2017-04-12 21:58:33 Z
+categories:		morocco
+tags:			adventure, advice, booking, holiday, mountains, travel, travel tips
+author:			judsonlmoore
+excerpt:		Morocco is a land with charms dating back centuries. If you want to have an authentic experience, book a riad in Morocco, but ask these questions first.
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -31,7 +25,7 @@ Riads are the traditional homes of Morocco and are found everywhere in the medin
 
 As much as I can rave about how wonderful riads are, they are not for everyone, or for every trip type. Depending on your own amenities needs, trip requirements, and certain sensitivities, a riad might not be for you. That is why, though I strongly encourage you to stay in a riad, I first encourage you to first ask yourself (or the riad under consideration) a few questions before you book a riad to make sure that you are going to fully appreciate and enjoy your time.
 
-**Here are some questions that I learned to ask about booking a riad in Morocco. **
+**Here are some questions that I learned to ask about booking a riad in Morocco.**
 
 ### 1. How do I find the Riad?
 
@@ -86,11 +80,8 @@ Riad owners and managers know everything about the city and everyone in it. Peer
 ## And now the real question: where can I book a riad in Morocco?
 
 Many riads are bookable online and through tour operators. Though not a search filter on most booking sites, you can quickly identify the riads on these great booking resources just by looking at the photos and location.
-
 - [http://www.riadsmorocco.com](http://www.riadsmorocco.com)
-
 - [http://www.airbnb.com](http://www.airbnb.com)
-
 - [http://www.booking.com](http://www.booking.com)
 
 If you have been to Morocco and stayed at a riad, I would love to hear your thoughts in the comments below! If you are looking to make a trip to Morocco then I am both jealous of your upcoming trip, and very excited for you. Write any questions you have in the comments below, or connect with me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore). Have a great time!

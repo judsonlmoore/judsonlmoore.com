@@ -1,15 +1,16 @@
 ---
-title: 'Bishkek Apartment #2'
-date: 2012-09-20 06:36:46 Z
-categories: Peace Corps
-tags: Apartment
+title:			'Bishkek Apartment #2'
+date:			2012-09-20 06:36:46 Z
+categories:		Peace Corps
+tags:			Apartment
   - Bishkek
   - Kyrgyzstan
   - Lifestyle
   - Living Conditions
   - Peace Corps
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

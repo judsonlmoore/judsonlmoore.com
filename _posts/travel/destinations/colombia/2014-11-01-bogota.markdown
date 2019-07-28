@@ -1,17 +1,18 @@
 ---
-title: 'Bogotá: A Capital of More Romantic Times and a Beautiful Nation'
-date: 2014-11-01 08:36:48 Z
-categories: Colombia
-tags: Colombia
+title:			'Bogotá: A Capital of More Romantic Times and a Beautiful Nation'
+date:			2014-11-01 08:36:48 Z
+categories:		Colombia
+tags:			Colombia
   - reunion
   - Rotary
   - RYE
   - South America
   - Travel
-author: judsonlmoore
-excerpt: In Colombia's capital city, Bogotá, one finds themselves taken to a time
+author:			judsonlmoore
+excerpt:		In Colombia's capital city, Bogotá, one finds themselves taken to a time
   when romance lived permanently in the air and anything was possible.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

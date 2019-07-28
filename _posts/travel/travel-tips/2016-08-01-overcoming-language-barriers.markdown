@@ -1,11 +1,11 @@
 ---
-title: Tips For Overcoming Language Barriers
-date: 2016-08-01 17:43:59 Z
-categories: Adventure
-author: judsonlmoore
-excerpt: Language barriers are hard to overcome but with these simple tips you will
-  find yourself speaking and comprehending in no time!
-layout: post
+title:			Tips For Overcoming Language Barriers
+date:			2016-08-01 17:43:59 Z
+categories:		adventure
+author:			judsonlmoore
+excerpt:		Language barriers are hard to overcome but with these simple tips you will find yourself speaking and comprehending in no time!
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -14,7 +14,7 @@ There is no such thing as an "easy Language" to learn. After all, a language is 
 
 ## Common Tricks for Overcoming Language Barriers
 
-There are some simple self-study activities most people try when studying a language. Flashcards are easy to make and are a great way to study vocabulary by yourself or with a friend. I use sticky notes to label everything at home with its definition in the language I am studying. Devices like your cell phone, computer, and TV have language settings which you can configure to give you that next level of exposure. Taking a group or individual lesson is also fantastic but can be very expensive, which is why I usually utilize eLearning apps. My favorite eLearning app for language is Duolingo ([iOS ](/get/duolingo-ios/)| [Android](/get/duolingo-android/)).
+There are some simple self-study activities most people try when studying a language. Flashcards are easy to make and are a great way to study vocabulary by yourself or with a friend. I use sticky notes to label everything at home with its definition in the language I am studying. Devices like your cell phone, computer, and TV have language settings which you can configure to give you that next level of exposure. Taking a group or individual lesson is also fantastic but can be very expensive, which is why I usually utilize eLearning apps. My favorite eLearning app for language is Duolingo ([iOS](/get/duolingo-ios/) | [Android](/get/duolingo-android/)).
 
 If you are already in the country where the new language is spoken, you will find yourself automatically acting out a real-world game of Charades. This can help you get what you need right now, and people might tell you the word to stuff you point at, but it is difficult to remember words you are told in the heat of the moment. That is why I came up with this list of tips and tricks I use to overcome language barriers around the world.
 
@@ -34,7 +34,7 @@ Many languages share common words which can give you a head start communicating 
 
 Beware of false cognates. These are words which sound like a word in your language, but which has a different meaning in the other language. Here are a couple of funny [false cognates in French](http://www.rosettastone.com/blog/10-funny-french-false-friends/).
 
-## Listen.. Uncomfortably
+## Listen... Uncomfortably
 
 Learning a language is a great time to practice your active listening skills. You can listen to the radio, TV, podcasts, other people, and any number of other sources.
 

@@ -1,14 +1,15 @@
 ---
-title: Giant ATX 770 Mountain Bike Technical Specifications
-date: 2012-09-11 05:18:20 Z
-categories: Interests
-tags: Adventure
+title:			Giant ATX 770 Mountain Bike Technical Specifications
+date:			2012-09-11 05:18:20 Z
+categories:		Interests
+tags:			Adventure
   - Biking
   - toys
-author: judsonlmoore
-excerpt: 'After a 3-year hiatus I am back on wheels with this great Giant ATX 770
+author:			judsonlmoore
+excerpt:		'After a 3-year hiatus I am back on wheels with this great Giant ATX 770
   that I found in Bishkek, Kyrgyzstan! Here are the tech specs and photos. '
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

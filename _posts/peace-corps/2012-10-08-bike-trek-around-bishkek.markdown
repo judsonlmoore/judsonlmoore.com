@@ -1,15 +1,16 @@
 ---
-title: Bike Trek Around Bishkek
-date: 2012-10-08 13:54:55 Z
+title:			Bike Trek Around Bishkek
+date:			2012-10-08 13:54:55 Z
 published: false
-categories: Bishkek
-tags: Architecture
+categories:		Bishkek
+tags:			Architecture
   - Biking
   - Bishkek
   - Kyrgyzstan
   - Photos
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

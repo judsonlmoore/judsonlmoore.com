@@ -7,10 +7,10 @@ author:			judsonlmoore
 layout:			post
 featured:		true
 hidden:			true
-comments:		true
 description:	Wadi Rum is a majestic out of this world landscape in the south of Jordan. Learn about the jeep tours, camel safaris, ancient human origins and more before you visit this incredible place.
 excerpt:		Wadi Rum is a majestic out of this world landscape in the south of Jordan. Learn about the jeep tours, camel safaris, ancient human origins and more before you visit this incredible place.
 image:			../assets/images/2018/05/wadi-rum-jordan-jumping-in-the-desert.jpg
+
 
 ---
 
@@ -23,9 +23,7 @@ Getting to Wadi Rum is actually a lot easier than you might suspect. If you are 
 ## Wadi Rum In a Nutshell
 
 - **Highlights -** Breathtaking views unlike anything else you can see. Even though it is a desert, there are some historical markers and interesting stories to walk in the footsteps of. Great hospitality from the locals.
-
 - **Lowlights** - Without a jeep, camel, or guide, I couldn't imagine spending more than a day here.
-
 - **Bottomline** - Though some consider Wadi Rum to be the best Middle Eastern destination for hikers, climbers, campers, and nature lovers, I wouldn't recommend spending more than 24-hours in Wadi Rum. But don't dare come within 100km and not come here for at least half a day. It is amazing!
 
 ## Human History in the Desert
@@ -42,7 +40,7 @@ But enough with the human history: **what can people do here today?** Well, peop
 
 I booked a multi-day group tour from [Abraham Tours](https://abrahamtours.com/) in Israel, so I didn't have to organize anything on my own. To be honest, you could come here on your own that that would be just fine, but I found the service of a tour company and guide to be well worth the relatively low cost just so that I wouldn't have to worry about the border crossings or transportation and lodging logistics. **Abraham Tours did a great job and I recommend them** to you, but you can also do a Google search to see if you find something better.
 
-<blockquote>**Pro Tip:** Abraham Tours is owned by Abraham Hostels, which has locations in Tel-Aviv and Jerusalem. If you book a room at the hostel, you get a 10% discount on any tour. In this case, a $20 room saved me $50 on the tour. So it was like getting $30 cash-back and a free room for a night!</blockquote>
+> **Pro Tip:** Abraham Tours is owned by Abraham Hostels, which has locations in Tel-Aviv and Jerusalem. If you book a room at the hostel, you get a 10% discount on any tour. In this case, a $20 room saved me $50 on the tour. So it was like getting $30 cash-back and a free room for a night!
 
 The tour included stops in Jerash, Amman, Petra, and lastly (but most certainly not lastly), Wadi Rum. The tour group included 30 people from all walks of life, but **everyone was pretty much awesome**. By the time we arrived at Wadi Rum, we were all buddies for sure.
 

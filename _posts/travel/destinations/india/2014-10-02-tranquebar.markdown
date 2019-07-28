@@ -1,17 +1,12 @@
 ---
-title: Three reasons Tranquebar is worth the long drive to get to
-date: 2014-10-02 23:00:29 Z
-categories: India
-tags: Awesome
-  - Beach
-  - Fort
-  - India
-  - Seafood
-  - Vacation
-author: judsonlmoore
-excerpt: Tranquebar is Christianity's origin point in India, home to the largest Danish
-  fort outside of Europe, and one amazing B&B I called home.
-layout: post
+title:			Three reasons Tranquebar is worth the long drive to get to
+date:			2014-10-02 23:00:29 Z
+categories:		india
+tags:			awesome, beach, fort, india, seafood, vacation
+author:			judsonlmoore
+excerpt:		Tranquebar is Christianity's origin point in India, home to the largest Danish fort outside of Europe, and one amazing B&B I called home.
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -28,7 +23,7 @@ _note: Tranquebar is not famous.. the fact that Stacey (who is Indian) could no
 
 ## The Largest Danish Fort Outside of Europe
 
-Fort Dansborg is a 17th century Danish fort. It is the 2nd largest Danish fort in the world and it is the largest outside of Europe. It costs USD \$0.079 to go inside.
+Fort Dansborg is a 17th century Danish fort. It is the 2nd largest Danish fort in the world and it is the largest outside of Europe. It costs USD $0.079 to go inside.
 
 The Zion Church was built in 1701 and it is the oldest Protestant church in India. Every building around this church is also a church. Thus, from what I can tell, Tranquebar is the point of origin for Protestantism in India.
 

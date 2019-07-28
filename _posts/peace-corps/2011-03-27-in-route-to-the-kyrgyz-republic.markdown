@@ -1,10 +1,11 @@
 ---
-title: In Route to the Kyrgyz Republic
-date: 2011-03-27 11:34:00 Z
-categories: Peace Corps
-tags: Peace Corps
-author: judsonlmoore
-layout: post
+title:			In Route to the Kyrgyz Republic
+date:			2011-03-27 11:34:00 Z
+categories:		Peace Corps
+tags:			Peace Corps
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

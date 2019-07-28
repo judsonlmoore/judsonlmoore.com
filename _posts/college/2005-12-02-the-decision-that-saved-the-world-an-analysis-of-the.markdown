@@ -1,11 +1,12 @@
 ---
-title: 'The Decision that Saved the World:  An Analysis of the Decision-Making Process
+title:			'The Decision that Saved the World:  An Analysis of the Decision-Making Process
   during the Cuban Missile Crisis'
-date: 2005-12-02 08:00:00 Z
-categories: College Papers
-tags: Politics
-author: judsonlmoore
-layout: post
+date:			2005-12-02 08:00:00 Z
+categories:		College Papers
+tags:			Politics
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -126,7 +127,8 @@ Mcnamara, Robert S., and James G. Blight. _Wilson’s Ghost: Reducing the Risk o
 
 Needler, Martin C. _The Concepts of Comparative Politics_. Westport, CT: Praeger, 1991.
 
-“_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.
+“_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.image:			../assets/images/
+
 
 ---
 

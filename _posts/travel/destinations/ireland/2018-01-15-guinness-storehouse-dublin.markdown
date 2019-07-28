@@ -1,13 +1,12 @@
 ---
-title: 			Visiting the Guinness Storehouse in Dublin
-date: 			2018-01-15 16:08:37 Z
-categories: 	ireland
-tags: 			alcohol, craft beer, dublin, europe, museum, tours
-author: 		judsonlmoore
-comments: 		true
+title:			Visiting the Guinness Storehouse in Dublin
+date:			2018-01-15 16:08:37 Z
+categories:		ireland
+tags:			alcohol, craft beer, dublin, europe, museum, tours
+author:			judsonlmoore
 description:	Learn about visiting The Guinness Storehouse in Dublin, the traditional home of the world’s most famous stout beer, Guinness. This 200+ year old city within a city is a major contributor to modern Irish history and to the island’s economy and world fame.
 excerpt:		Learn about visiting The Guinness Storehouse in Dublin, the traditional home of the world’s most famous stout beer, Guinness. This 200+ year old city within a city is a major contributor to modern Irish history and to the island’s economy and world fame.
-layout: 		post
+layout:			post
 image:			../assets/images/2018/01/guinness-storehouse-dublin-main-gate-jumping.jpg
 
 

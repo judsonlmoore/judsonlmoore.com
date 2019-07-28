@@ -1,10 +1,11 @@
 ---
-title: 'Sponsored Identity: Cultural Policy in Puerto Rico'
-date: 2005-02-07 05:00:00 Z
-categories: College Papers
-tags: Politics
-author: judsonlmoore
-layout: post
+title:			'Sponsored Identity: Cultural Policy in Puerto Rico'
+date:			2005-02-07 05:00:00 Z
+categories:		College Papers
+tags:			Politics
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

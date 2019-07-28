@@ -1,14 +1,15 @@
 ---
-title: Biking to Panorama
-date: 2012-11-03 15:50:36 Z
-categories: Bishkek
-tags: Biking
+title:			Biking to Panorama
+date:			2012-11-03 15:50:36 Z
+categories:		Bishkek
+tags:			Biking
   - Bishkek
   - Fun
   - Kyrgyzstan
   - Sports
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

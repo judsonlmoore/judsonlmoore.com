@@ -1,11 +1,11 @@
 ---
-title: 5 Simple Tips to Prepare Your Phone for Travel
-date: 2016-10-26 18:17:15 Z
-categories: Adventure
-author: judsonlmoore
-excerpt: International phone travel can be expensive or even scary. Follow these best
-  practices to ensure you get the most out of your phone and avoid extra charges.
-layout: post
+title:			5 Simple Tips to Prepare Your Phone for Travel
+date:			2016-10-26 18:17:15 Z
+categories:		adventure
+author:			judsonlmoore
+excerpt:		International phone travel can be expensive or even scary. Follow these best practices to ensure you get the most out of your phone and avoid extra charges.
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -22,26 +22,26 @@ First, make sure the iPhone is unlocked. Most are; Verizon automatically are; yo
 
 Here are the settings to change:
 
-<blockquote>Settings > Cellular > Enable LTE > Data Only
+> Settings > Cellular > Enable LTE > Data Only
 Settings > Cellular > Cellular Data Options > Roaming > Turn off all switches on this page
 Settings > Cellular > Personal Hotspot > Off
-Settings > Cellular > “Use cellular data for:”</blockquote>
+Settings > Cellular > “Use cellular data for:”
 
 I default by turning off all apps. Once you get set up, the next time you open an app and you need cell data for that app, it will prompt you to enable. This prevents crappy apps from using background data without you knowing it.
 
-<blockquote>Settings > Cellular > Wi-Fi Assist (very bottom of the settings tab under the other apps) > Off
+> Settings > Cellular > Wi-Fi Assist (very bottom of the settings tab under the other apps) > Off
 Settings > Cellular > Reset Statistics (so that you can track how much data you are using once you have a new carrier)
-Settings > Wi-Fi > Ask to Join Networks > On</blockquote>
+Settings > Wi-Fi > Ask to Join Networks > On
 
 You’ll want to use wifi as much as possible, so turn on the annoying reminder every time your iPhone sees an open wifi network to connect.
 
-<blockquote>Settings > General > Background App Refresh > Off</blockquote>
+> Settings > General > Background App Refresh > Off
 
 (Not related, but a good time to double check that Find My iPhone is enabled, under Settings > iCloud > Find My iPhone > On & Send Last Location. Make sure you have the Find My iPhone app installed from the App Store and get your friends to do it as well. You can also go to icloud.com to find it.)
 
-<blockquote>Settings > iMessage > Send & Receive
+> Settings > iMessage > Send & Receive
 "Start New Conversations From"
-Choose an email address.</blockquote>
+Choose an email address.
 
 That way when you text someone, they will respond to your iMessage only and not accidentally SMS an international number.
 

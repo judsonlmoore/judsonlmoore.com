@@ -1,11 +1,12 @@
 ---
-title: An Open Letter To The Rotary Club of Alexandria
-date: 2015-08-18 10:00:42 Z
-categories: Alexandria
-author: judsonlmoore
-excerpt: 16 years after the Rotary Club of Alexandria sponsored me as a Youth Exchange
+title:			An Open Letter To The Rotary Club of Alexandria
+date:			2015-08-18 10:00:42 Z
+categories:		Alexandria
+author:			judsonlmoore
+excerpt:		16 years after the Rotary Club of Alexandria sponsored me as a Youth Exchange
   Student, I have finally become a Rotarian myself. Here, I say thank you.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -35,4 +36,4 @@ In these short 16 years, I feel like I have had lifetimes of experiences. I reco
 Your Fellow Rotarian,
 Judson Moore
 
-<blockquote>Visit the website for the [Rotary Club of Alexandria](http://www.alexandriarotary.com/) and join them for lunch any Tuesday!</blockquote>
+> Visit the website for the [Rotary Club of Alexandria](http://www.alexandriarotary.com/) and join them for lunch any Tuesday!

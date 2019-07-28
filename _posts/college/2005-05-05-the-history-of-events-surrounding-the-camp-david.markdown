@@ -1,10 +1,11 @@
 ---
-title: The History of Events Surrounding the Camp David Accords
-date: 2005-05-05 04:00:00 Z
-categories: College Papers
-tags: Politics
-author: judsonlmoore
-layout: post
+title:			The History of Events Surrounding the Camp David Accords
+date:			2005-05-05 04:00:00 Z
+categories:		College Papers
+tags:			Politics
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

@@ -1,14 +1,11 @@
 ---
-title: Golconda Fort
-date: 2014-09-14 13:57:38 Z
-categories: Hyderabad
-tags: Architecture
-  - Fort
-  - History
-  - India
-  - Ruins
-author: judsonlmoore
-layout: post
+title:			Golconda Fort
+date:			2014-09-14 13:57:38 Z
+categories:		Hyderabad
+tags:			architecture, fort, history, india, ruins
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

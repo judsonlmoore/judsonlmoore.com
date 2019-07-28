@@ -1,15 +1,16 @@
 ---
-title: How To Identify and Accomplish Your Life Goals
-date: 2007-12-20 21:58:53 Z
-categories: Lifestyle
-tags: Accomplishments
+title:			How To Identify and Accomplish Your Life Goals
+date:			2007-12-20 21:58:53 Z
+categories:		Lifestyle
+tags:			Accomplishments
   - Goals
   - Impact
   - Interests
-author: judsonlmoore
-excerpt: Do you have life goals? Do you need help identifying life goals? Or maybe
+author:			judsonlmoore
+excerpt:		Do you have life goals? Do you need help identifying life goals? Or maybe
   you need help structuring a plan to achieve your life goals? Read this now.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

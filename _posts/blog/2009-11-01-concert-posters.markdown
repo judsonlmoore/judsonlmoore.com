@@ -1,9 +1,10 @@
 ---
-title: Concert Posters
-date: 2009-11-01 19:44:51 Z
-categories: TCB Concerts
-author: judsonlmoore
-layout: post
+title:			Concert Posters
+date:			2009-11-01 19:44:51 Z
+categories:		TCB Concerts
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

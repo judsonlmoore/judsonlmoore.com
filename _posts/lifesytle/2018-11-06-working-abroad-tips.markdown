@@ -1,16 +1,16 @@
 ---
-title: 			Tips for how to successfully find work abroad as an American
-date: 			2018-11-06 20:07:05
-categories: 	Career
-tags: 			germany, inspiration, interview, whileyoung, two words
+title:			Tips for how to successfully find work abroad as an American
+date:			2018-11-06 20:07:05
+categories:		Career
+tags:			germany, inspiration, interview, whileyoung, two words
 author:			judsonlmoore
 layout:			post
-featured: 		true
+featured:		true
 hidden: 		true
-image: 			../assets/images/2018/11/working-abroad-tips-featured-image.jpg
-comments: 		true
 description:	SEO description
-excerpt: 		People have been asking me a lot lately for tips for how to find a job in Germany. Now that I have been working in Germany for more than two years, I have identified a few universal truths that I believe will help anyone who is seeking employment abroad.
+excerpt:		People have been asking me a lot lately for tips for how to find a job in Germany. Now that I have been working in Germany for more than two years, I have identified a few universal truths that I believe will help anyone who is seeking employment abroad.
+image:			../assets/images/2018/11/working-abroad-tips-featured-image.jpg
+
 
 ---
 

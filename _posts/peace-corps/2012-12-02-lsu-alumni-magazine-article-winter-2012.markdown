@@ -1,15 +1,16 @@
 ---
-title: LSU Alumni Magazine Article – Winter 2012
-date: 2012-12-02 02:44:09 Z
-categories: Peace Corps
-tags: Bishkek
+title:			LSU Alumni Magazine Article – Winter 2012
+date:			2012-12-02 02:44:09 Z
+categories:		Peace Corps
+tags:			Bishkek
   - Kyrgyzstan
   - LSU
   - LSU Alumni
   - Peace Corps
   - Published
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

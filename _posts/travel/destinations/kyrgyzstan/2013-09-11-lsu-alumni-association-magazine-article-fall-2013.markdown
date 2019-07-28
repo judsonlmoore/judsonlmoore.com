@@ -1,15 +1,11 @@
 ---
-title: LSU Alumni Association Magazine Article – Fall 2013
-date: 2013-09-11 10:39:38 Z
-categories: Peace Corps
-tags: Bishkek
-  - Kyrgyzstan
-  - LSU
-  - LSU Alumni
-  - Peace Corps
-  - Published
-author: judsonlmoore
-layout: post
+title:			LSU Alumni Association Magazine Article – Fall 2013
+date:			2013-09-11 10:39:38 Z
+categories:		peace corps
+tags:			bishkek, kyrgyzstan, lsu, lsu alumni, peace corps, published
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -37,7 +33,7 @@ I have now returned to the USA and am living in Austin, TX where I am leading th
 
 Often when I receive feedback from people who have heard my story, they tell me things like, “I wish I could do that,” or, “I always thought about it...,” and to them I say: just do it. There is nothing special or magical about me or my story--I am just the guy who showed up, raised a hand, walked through a door and followed my heart. If Peace Corps sounds interesting to you, then call a recruiting office--you might just be surprised what all you will learn about, “The Toughest Job You'll Ever Love.”
 
-## Yours in Service & GEAUX TIGERS! Signing off--for now…
+**Yours in Service & GEAUX TIGERS! Signing off--for now…**
 
 Judson L Moore
 US Peace Corps 2011-13

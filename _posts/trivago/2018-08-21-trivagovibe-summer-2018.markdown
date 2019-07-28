@@ -1,16 +1,17 @@
 ---
-title:			DRUMSON performs live at the trivagoVibe in Düsseldorf
-date: 			2018-08-21 20:35:07 Z
-categories:	 	Music
-tags: 			#lifeattrivago
-author: 		judsonlmoore
-comments: 		true
+title:			DRUMSON performs live at the trivagoVibe
+date:			2018-08-21 20:35:07 Z
+categories:		Music
+tags:			#lifeattrivago
+author:			judsonlmoore
+comments:		true
 featured:		true
 hidden:			true
-description: 	I made my European debut as a solo drummer / performer during trivago's bi-annual trivagoVibe concert in Düsseldorf, Germany this summer.
+description:	I made my European debut as a solo drummer / performer during trivago's bi-annual trivagoVibe concert in Düsseldorf, Germany this summer.
 excerpt:		I was honored with the opportunity to headline the bi-annual trivagoVibe this summer.
-layout: 		post
-image: 			../assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
+layout:			post
+image:			../assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
+
 
 ---
 
@@ -37,13 +38,9 @@ On the week of the show, I show up to my spaceship-esque office with my spaces
 When the time for soundcheck came, another drummer got to the stage first with her acoustic drums, so we got those setup. But that is when things got interesting. The acoustics of the venue were really terrible. There was an echo that went on for minutes. We had a big fear of how to control the sound of live drums. After a brief attempt at a soundcheck, **it already seemed like a bad idea**.
 
 _Then came the question:_
-
 - **Them:** Judson, can we use your drums for all the bands tonight?
-
 - **Me:** hmmmmmm... well, yes, of course, but are you sure that is a good idea?
-
 - **Them:** Well let's just give it a try
-
 - **Me:** Ok!
 
 And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum >BOOM< we all knew we struck gold. **This. Drum set. Sounds. AMAZING. Live!** Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.
@@ -66,7 +63,7 @@ Drummers typically sit in the back of the stage, behind the rest of the band. Th
 
 As I walked onto the stage, I slipped into character. For the next 32 minutes, I would be: **DRUMSON**.
 
-<blockquote>**Update:** Checkout the official website for Drumson at [https://drumson.de](https://drumson.de)!</blockquote>
+> **Update:** Checkout the official website for Drumson at [https://drumson.de](https://drumson.de)!
 
 {% include image.html alt="" file="../assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg" description=" Drumson performs a solo show at the 2018 trivagoVibe" %}
 
@@ -78,7 +75,7 @@ Please excuse the unstable audio level, I think the phones had a difficult time 
 
 **Enjoy!** (and please leave me your feedback in the comments section of this post!) :)
 
-[embed]https://www.youtube.com/watch?v=U8XFiPi4TO4[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=U8XFiPi4TO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Thank you to everyone who came out to support the music!
 

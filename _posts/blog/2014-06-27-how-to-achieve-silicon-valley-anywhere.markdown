@@ -1,14 +1,15 @@
 ---
-title: How to Achieve Silicon Valley Anywhere [crosspost]
-date: 2014-06-27 04:45:00 Z
-categories: Philanthropy
-tags: Austin
+title:			How to Achieve Silicon Valley Anywhere [crosspost]
+date:			2014-06-27 04:45:00 Z
+categories:		Philanthropy
+tags:			Austin
   - Brazos Tech District
   - Community
   - Mutual Mobile
   - publications
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

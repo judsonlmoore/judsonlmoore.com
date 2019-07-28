@@ -1,15 +1,16 @@
 ---
-title: Hiking Konorchek Canyon in Kyrgyzstan
-date: 2013-03-30T22:00:07.000+00:00
-categories:
+title:			Hiking Konorchek Canyon in Kyrgyzstan
+date:			2013-03-30T22:00:07.000+00:00
+categories:		
 - Kyrgyzstan
-tags:
+tags:			
 - Central Asia
 - Hiking
 - Nature
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
 
+image:			../assets/images/
 
 
 ---

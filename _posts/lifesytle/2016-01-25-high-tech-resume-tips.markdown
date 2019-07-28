@@ -1,12 +1,13 @@
 ---
-title: High Tech Tips for Any Resume
-date: 2016-01-25 03:19:18 Z
-categories: Career
-tags: whileyoung
-author: judsonlmoore
-excerpt: Resume writing is an art form. Use these innovative resume tips to show that
+title:			High Tech Tips for Any Resume
+date:			2016-01-25 03:19:18 Z
+categories:		Career
+tags:			whileyoung
+author:			judsonlmoore
+excerpt:		Resume writing is an art form. Use these innovative resume tips to show that
   you understand technology and can think outside of the box.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -49,7 +50,7 @@ You should also utilize a URL shortening service, such as [bit.ly](https://www.
 
 This is a little bit of a web developer's trick, but it's easy to do and I think it shows you to be innovative. Here is the link that I have on my resume for my contact email.
 
-<blockquote>mailto:getintouch@judsonlmoore.com?subject=I%20Read%20Your%20Resume!&body=Hey%20Judson!%20I%20was%20reading%20your%20resume%20and%20wanted%20to%20get%20in%20touch...</blockquote>
+> mailto:getintouch@judsonlmoore.com?subject=I%20Read%20Your%20Resume!&body=Hey%20Judson!%20I%20was%20reading%20your%20resume%20and%20wanted%20to%20get%20in%20touch...
 
 - **mailto:getintouch@judsonlmoore.com** this is the link base, which signifies the link should send an email to an email address.
 
@@ -61,7 +62,7 @@ This is a little bit of a web developer's trick, but it's easy to do and I think
 
 Here is the URL to my Google Docs resume. The underlined part of this URL is the custom ID for this specific document. That jumbled mess of letters and numbers just says "Judson's Resume" to Google Docs. The **bold extension at the end** says that rather than open the document, download it in a certain file format. You can use these extensions:
 
-<blockquote>https://docs.google.com/document/d/1AtH76fNIOcY7qPpdwEZK9Cv8fu4axDvZGHIymPJUSJw**/export?format=pdf**</blockquote>
+> https://docs.google.com/document/d/1AtH76fNIOcY7qPpdwEZK9Cv8fu4axDvZGHIymPJUSJw**/export?format=pdf**
 
 - **export?format=pdf**
 

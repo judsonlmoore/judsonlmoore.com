@@ -1,8 +1,8 @@
 ---
-title: Peela Chai Each
-date: 2011-07-27 17:01:00 Z
-categories: Peace Corps
-tags: Culture
+title:			Peela Chai Each
+date:			2011-07-27 17:01:00 Z
+categories:		Peace Corps
+tags:			Culture
   - K19
   - Kyrgyzstan
   - PCVs
@@ -10,8 +10,8 @@ tags: Culture
   - Pixies
   - RadioMost
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
 
 
 post_format:

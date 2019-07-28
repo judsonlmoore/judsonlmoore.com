@@ -1,11 +1,12 @@
 ---
-title: Lost or Stolen Passport? Stay Calm and Follow These Instructions.
-date: 2016-08-25 20:51:44 Z
-categories: Adventure
-author: judsonlmoore
-excerpt: A lost or stolen passport can be one of the most panic-inducing realizations
+title:			Lost or Stolen Passport? Stay Calm and Follow These Instructions.
+date:			2016-08-25 20:51:44 Z
+categories:		adventure
+author:			judsonlmoore
+excerpt:		A lost or stolen passport can be one of the most panic-inducing realizations
   a traveler can encounter. This happens everyday, and there is a clear solution.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -34,7 +35,7 @@ After contacting your passport issuing authority, the next step in replacing you
 
 - Travel Itinerary (airline/train tickets) (_only if abroad or if needing to expedite_)
 
-- Police Report (_if stolen_)\_\_
+- Police Report (_if stolen_)
 
 - A new passport application
 
@@ -54,8 +55,8 @@ The cost of replacing a lost or stolen passport varies drastically by circumstan
 
 Sometimes a new passport might be issued as a temporary passport which is only valid for a short period of time while you wrap up your current or pending travel. This seems to be fairly rare, however, so you should expect that your brand new passport will be valid for the full length of any new passport unless told otherwise. In the United States, passports are valid for 10 years. Asking what type of travel document will be issued to you as a replacement for your lost or stolen passport is something you should clarify early in the replacement process.
 
-<blockquote>Here are the links to the appropriate authorities in a few countries: [United States](https://travel.state.gov/content/passports/en/passports/lost-stolen.html), [Canada](http://www.cic.gc.ca/english/passport/security/lost-stolen.asp), [United Kingdom](https://www.gov.uk/report-a-lost-or-stolen-passport), [European Union](http://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm#!). For other countries, just [click here for a Google search](https://www.google.de/?gfe_rd=cr&ei=T_u-V4_1KcqH8Qe-rb_IBg&gws_rd=cr#q=replace+my+lost+passport).</blockquote>
+> Here are the links to the appropriate authorities in a few countries: [United States](https://travel.state.gov/content/passports/en/passports/lost-stolen.html), [Canada](http://www.cic.gc.ca/english/passport/security/lost-stolen.asp), [United Kingdom](https://www.gov.uk/report-a-lost-or-stolen-passport), [European Union](http://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm#!). For other countries, just [click here for a Google search](https://www.google.de/?gfe_rd=cr&ei=T_u-V4_1KcqH8Qe-rb_IBg&gws_rd=cr#q=replace+my+lost+passport).
 
 Have you lost a passport or had it stolen? What did you learn from the experience? Please share your thoughts in the comments below, or reach me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
 
-_photo credit: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/93/My_collection_of_passport_stamps.jpg" description="_
+_photo credit: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/93/My_collection_of_passport_stamps.jpg")_

@@ -1,15 +1,16 @@
 ---
-title: My New 2015 Kona Jake The Snake Cyclocross Bicycle
-date: 2015-04-25 23:38:38 Z
-categories: Austin
-tags: Biking
+title:			My New 2015 Kona Jake The Snake Cyclocross Bicycle
+date:			2015-04-25 23:38:38 Z
+categories:		Austin
+tags:			Biking
   - cx
   - cyclocross
   - phenom
-author: judsonlmoore
-excerpt: Cyclocross is a hybrid road / trail bike sport which combines speed with
+author:			judsonlmoore
+excerpt:		Cyclocross is a hybrid road / trail bike sport which combines speed with
   ruggedness. I am starting to race CX and starting off with Kona's Jake The Snake.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

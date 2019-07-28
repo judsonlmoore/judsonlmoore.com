@@ -1,14 +1,15 @@
 ---
-title: Besh Tash with Family
-date: 2012-07-14 06:38:27 Z
-categories: Peace Corps
-tags: Besh Tash
+title:			Besh Tash with Family
+date:			2012-07-14 06:38:27 Z
+categories:		Peace Corps
+tags:			Besh Tash
   - Kyrgyz Culture
   - Kyrgyzstan
   - Peace Corps
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

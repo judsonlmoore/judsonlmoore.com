@@ -1,19 +1,19 @@
 ---
-title: 8 Things to Tell Your Family Before You Travel
-date: 2016-01-25 05:55:49 Z
-categories: Adventure
-tags: whileyoung
-author: judsonlmoore
-excerpt: Before you travel use these tips for keeping your family informed without
-  making them overly concerned and without driving yourself crazy in the process.
-layout: post
+title:			8 Things to Tell Your Family Before You Travel
+date:			2016-01-25 05:55:49 Z
+categories:		adventure
+tags:			whileyoung
+author:			judsonlmoore
+excerpt:		Before you travel use these tips for keeping your family informed without making them overly concerned and without driving yourself crazy in the process.
+layout:			post
+image:			../assets/images/
 
 
 ---
 
 All travel has a lot of moving parts (pun intended). For you, the traveler, you have thought a lot about where you are going, what you will be doing and when you will be doing it. You've no doubt committed a lot of time and thought into the decisions around your travel and you understand the rationale which informed these decisions. However, for every detail you've decided, there are likely to be a number of questions which others might ask. This begs the question, "what should you tell others before you travel?"
 
-<blockquote>**The most inquisitive and interested folks in all things regarding your whereabouts is likely to be your family.**</blockquote>
+> **The most inquisitive and interested folks in all things regarding your whereabouts is likely to be your family.**
 
 So, how do you keep your family informed without making them overly concerned for you and without driving yourself crazy in the process? Below are my principals, but I would love to read your comments with words of wisdom or stories of the experiences you've learned from. You can also message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).
 

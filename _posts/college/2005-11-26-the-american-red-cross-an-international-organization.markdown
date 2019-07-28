@@ -1,9 +1,10 @@
 ---
-title: 'The American Red Cross : An International Organization'
-date: 2005-11-26 08:00:00 Z
-categories: College Papers
-author: judsonlmoore
-layout: post
+title:			'The American Red Cross : An International Organization'
+date:			2005-11-26 08:00:00 Z
+categories:		College Papers
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

@@ -1,12 +1,12 @@
 ---
-title: Tips For Negotiating Travel At Your Job
-date: 2016-01-30 22:45:45 Z
-categories: Career
-tags: whileyoung
-author: judsonlmoore
-excerpt: Negotiating travel policy with your work is both possible and can be beneficial
-  for all concerned! Read this article for tips and best practices!
-layout: post
+title:			Tips For Negotiating Travel At Your Job
+date:			2016-01-30 22:45:45 Z
+categories:		Career
+tags:			whileyoung
+author:			judsonlmoore
+excerpt:		Negotiating travel policy with your work is both possible and can be beneficial for all concerned. Read this article for tips and best practices.
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -39,11 +39,11 @@ People take unpaid leave for a wide variety of reasons and if you have such a po
 
 ## Reallocating Expenses
 
-**Here is the scenario**: You are traveling for work for a few weeks. You are staying in a hotel for $140 / night and you have a per diem of $40 / day. You cost your company \$180 / day while you are traveling on their behalf. Your work week is Monday - Friday, weekends are free to do as you wish.
+**Here is the scenario**: You are traveling for work for a few weeks. You are staying in a hotel for $140 per night and you have a per diem of $40 per day. You cost your company $180 each day while you are traveling on their behalf. Your work week is Monday - Friday, weekends are free to do as you wish.
 
-Now imagine this, if you check out of your hotel on Friday morning before going to the office and check back in on Monday afternoon after returning home from this office, this means you have \$580 at your disposal to negotiate some fun weekend travel at your employer's expense.
+Now imagine this, if you check out of your hotel on Friday morning before going to the office and check back in on Monday afternoon after returning home from this office, this means you have $580 at your disposal to negotiate some fun weekend travel at your employer's expense.
 
-I was in India for 6-months with a similar scenario as this. Every weekend I checked out of my hotel and went off to discover a different part of India. It was incredible. I almost never spent the full \$580 on a weekend trip, even with flights, because I would stay at less expensive (but still very nice) hotels, or even go with a travel buddy who I split the costs with.
+I was in India for 6-months with a similar scenario as this. Every weekend I checked out of my hotel and went off to discover a different part of India. It was incredible. I almost never spent the full $580 on a weekend trip, even with flights, because I would stay at less expensive (but still very nice) hotels, or even go with a travel buddy who I split the costs with.
 
 I saw over a dozen epic destinations around India at no cost to me. While I was at it, I even saved my employer money. This was a perfect win-win scenario for everyone involved!
 

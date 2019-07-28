@@ -1,16 +1,16 @@
 ---
 title:			The Lost City of Petra is More Amazing Than I Ever Imagined
-date: 			2018-10-28 10:00:54 Z
-categories: 	Jordan
-tags: 			travel guide
+date:			2018-10-28 10:00:54 Z
+categories:		jordan
+tags:			travel guide
 author:			judsonlmoore
-layout: 		post
-comments: 		true
+layout:			post
 featured:		true
 hidden:			true
 excerpt:		Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye.
-description:		Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye. Read now why a visit to Petra is a must for anyone visiting Israel or Jordan.
+description:	Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye. Read now why a visit to Petra is a must for anyone visiting Israel or Jordan.
 image:			../assets/images/2018/05/petra-jordan-al-khazneh-treasury.jpg
+
 
 ---
 
@@ -19,10 +19,8 @@ The lost city of Petra, of Indiana Jones fame, sits in the southern territories 
 ## Petra In a Nutshell
 
 - **Highlights -** Unbelievable mysteries to explore, open-range hiking and exploration, more sites than you could find in a week of trying, high-speed and open WiFi almost everywhere, clean and modern bathrooms.
-
 - **Lowlights** - Not very accessible if you have limited mobility.
-
-- **Bottom line** - No trip to Israel or Jordan is complete without a day in Petra. Hands down, this is a top-5 site in the world.
+- **Bottom Line** - No trip to Israel or Jordan is complete without a day in Petra. Hands down, this is a top-5 site in the world.
 
 ## How to get to Petra
 
@@ -42,7 +40,7 @@ The sloping path into Petra is called the *Siq*. It is a gently-sloping dirt an
 
 The majority of structures which you will discover in Petra are tombs and are the only remaining symbols of the Nabataean Kingdom which ruled the area from 400BC until the Roman's conquered them in the 1st Century AD. Not much is known about the Nabataean people except for what has been found in trade Greek and Roman trade records from the era.
 
-{% include image.html alt="Obelisk Tomb and the Triclinium along the Siiq to Petra" file="../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg" description="" file="../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg" description="Obelisk Tomb and the Triclinium along the Siq to Petra" %}
+{% include image.html alt="Obelisk Tomb and the Triclinium along the Siiq to Petra" file="../assets/images/2018/05/petra-jordan-obelisk-tomb-and-the-triclinium.jpg" description="Obelisk Tomb and the Triclinium along the Siq to Petra" %}
 
 The tombs of Petra do not have names or years indicated on them, however, some of the architecture in Petra offers clues about the period in which they were built. One of the first structures you come to along the Siq is called the Obelisk Tomb. It is called this because it features obelisks, which is very uncommon in Petra. Probably this tomb was built for a wealthy Egyptian merchant or someone who had a strong connection with Egypt.
 

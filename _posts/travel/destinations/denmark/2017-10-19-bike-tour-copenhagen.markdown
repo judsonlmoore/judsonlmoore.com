@@ -1,12 +1,13 @@
 ---
-title: How to spend a day in Denmark - A bike tour of Copenhagen
-date: 2017-10-19 10:00:26 Z
-categories: denmark
-tags: #lifeattrivago, biking, copenhagen, cruise, denmark, nordic, travel guide
-author: judsonlmoore
-excerpt: With just one day to see it all, I found that a bike tour of Copenhagen was
-  the best way to spend just one day in Denmark.
-layout: post
+title:			How to spend a day in Denmark - A bike tour of Copenhagen
+date:			2017-10-19 10:00:26 Z
+categories:		denmark
+tags:			#lifeattrivago, biking, copenhagen, cruise, denmark, nordic, travel guide
+author:			judsonlmoore
+excerpt:		With just one day to see it all, I found that a bike tour of Copenhagen was the best way to spend just one day in Denmark.
+layout:			post
+image:			../assets/images/
+
 
 ---
 

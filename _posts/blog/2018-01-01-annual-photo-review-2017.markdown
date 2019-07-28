@@ -1,13 +1,13 @@
 ---
-title: 			My most traveled year. A photo review of 2017.
-date: 			2018-01-01 21:08:48 Z
-categories: 	blog
-tags: 			adventure, germany, hiking, holiday, kyrgyzstan
-author: 		judsonlmoore
-description: 	Happy New Year! 2017 was my most traveled year to-date, full of all sorts of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
-excerpt: 		Happy New Year! 2017 was my most traveled year to-date, full of all sorts of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
-layout: 		post
-image: 			../assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg
+title:			My most traveled year. A photo review of 2017.
+date:			2018-01-01 21:08:48 Z
+categories:		blog
+tags:			adventure, germany, hiking, holiday, kyrgyzstan
+author:			judsonlmoore
+description:	Happy New Year! 2017 was my most traveled year to-date, full of all sorts of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
+excerpt:		Happy New Year! 2017 was my most traveled year to-date, full of all sorts of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
+layout:			post
+image:			../assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg
 
 
 ---

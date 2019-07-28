@@ -1,9 +1,10 @@
 ---
-title: Everything I Own, Right Here.
-date: 2010-08-31 14:03:16 Z
-categories: Interests
-author: judsonlmoore
-layout: post
+title:			Everything I Own, Right Here.
+date:			2010-08-31 14:03:16 Z
+categories:		Interests
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

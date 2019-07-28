@@ -1,12 +1,13 @@
 ---
-title: First Day On Site in Talas City
-date: 2011-05-12 02:44:00 Z
-categories: Peace Corps
-tags: Kyrgyzstan
+title:			First Day On Site in Talas City
+date:			2011-05-12 02:44:00 Z
+categories:		Peace Corps
+tags:			Kyrgyzstan
   - Peace Corps
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

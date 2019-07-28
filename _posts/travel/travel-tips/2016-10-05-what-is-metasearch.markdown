@@ -1,16 +1,15 @@
 ---
-title: What is Metasearch And How It Saves Me Loads of Time and Money
-date: 2016-10-05 10:11:23 Z
-categories: Adventure
-author: judsonlmoore
-excerpt: I explain what is metasearch, the king of all internet search tools. With
-  metasearch, you can search more of the internet faster, saving you time and money.
-layout: post
+title:			What is Metasearch And How It Saves You Loads of Time and Money
+date:			2016-10-05 10:11:23 Z
+categories:		adventure
+author:			judsonlmoore
+excerpt:		I explain what is metasearch, the king of all internet search tools. With metasearch, you can search more of the internet faster, saving you time and money.
+layout:			post
+image:			../assets/images/
 
 
 ---
 
-[et_pb_section bb_built="1" admin_label="section"][et_pb_row admin_label="row" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="4_4"][et_pb_text background_layout="light" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" background_position="top_left" background_repeat="repeat" background_size="initial" _builder_version="3.0.92"]
 
 I recently started a new job working at trivago as their B2B spokesperson for the United States. trivago is the world's largest hotel metasearch, _helping travelers find their ideal hotel at the best available rate_. Since I started working there, I have found myself thinking many times that most people probably do not know what metadata is, and therefore do not know what is metasearch or why they should care. So let me take a moment to explain what this term means and how these tools can save you loads of time and money.
 
@@ -18,7 +17,7 @@ I recently started a new job working at trivago as their B2B spokesperson for th
 
 Since I am working at trivago, I should mention that this post is not a sponsored post, the content is my own, as are any opinions expressed here.
 
-So then, what is this mystical metasearch I speak of? In this modern internet-of-things world it is so cliche to refer to "the Uber of **_" or "the Google of _**." As metasearch sites are indeed internet search sites, it might be tempting to refer to them as some nature of "the Google of \_\_\_," but this would be a mistake, unless you said, "the Google of... well... Google!" You see, search engines like Google, Bing, and Yahoo search the internet's content. Metasearch engines search the data from search engines. Simply put, metasearch allows you to search across multiple search sites simultaneously.
+So then, what is this mystical metasearch I speak of? In this modern internet-of-things world it is so cliche to refer to "the Uber of \_\_\_" or "the Google of \_\_\_." As metasearch sites are indeed internet search sites, it might be tempting to refer to them as some nature of "the Google of \_\_\_," but this would be a mistake, unless you said, "the Google of... well... Google!" You see, search engines like Google, Bing, and Yahoo search the internet's content. Metasearch engines search the data from search engines. Simply put, metasearch allows you to search across multiple search sites simultaneously.
 
 In the following, I will explain a bit about how metasearch works. I will focus on travel metasearch sites, and I will show you how these sites save you loads of time and money.
 
@@ -46,8 +45,7 @@ Let's say for example that you want to book a flight, because let's face it, you
 
 Here are some examples of travel metasearch sites as well as a few which are not metasearch sites. I have categorized them by the travel sectors with which they work.
 
-[/et_pb_text][et_pb_tabs use_border_color="off" background_position="top_left" background_repeat="repeat" background_size="initial" _builder_version="3.0.92"][et_pb_tab title="Hotels" tab_font_select="default" tab_font="||||" tab_line_height="2em" tab_line_height_tablet="2em" tab_line_height_phone="2em" body_font_select="default" body_font="||||" body_line_height="2em" body_line_height_tablet="2em" body_line_height_phone="2em" _builder_version="3.0.92" use_background_color_gradient="off" background_color_gradient_start="#2b87da" background_color_gradient_end="#29c4a9" background_color_gradient_type="linear" background_color_gradient_direction="180deg" background_color_gradient_direction_radial="center" background_color_gradient_start_position="0%" background_color_gradient_end_position="100%" background_color_gradient_overlays_image="off" parallax="off" parallax_method="on" background_size="cover" background_position="center" background_repeat="no-repeat" background_blend="normal" allow_player_pause="off"]
-
+### Metasearch for hotels
 - [AllTheRooms](http://www.alltherooms.com/)
 
 - [Google Hotels](https://www.google.com/maps?q=hotels+in+austin+texas) (_now just a Google search_)
@@ -60,8 +58,7 @@ Here are some examples of travel metasearch sites as well as a few which are not
 
 - [trivago](http://trivago.com) ([iOS](https://www.judsonlmoore.com/get/trivago-ios/) | [Android](https://www.judsonlmoore.com/get/trivago-android/))
 
-[/et_pb_tab][et_pb_tab title="airfare" tab_font_select="default" tab_font="||||" tab_line_height="2em" tab_line_height_tablet="2em" tab_line_height_phone="2em" body_font_select="default" body_font="||||" body_line_height="2em" body_line_height_tablet="2em" body_line_height_phone="2em" _builder_version="3.0.92"]
-
+### Metasearch for flights
 - [Google Flights](https://www.google.com/flights/#search;f=DUS,QDU;t=AUS;d=2016-09-28;r=2016-10-02;q=dus+to+aus)
 
 - [Kayak](http://kayak.com)
@@ -72,8 +69,7 @@ Here are some examples of travel metasearch sites as well as a few which are not
 
 - [TripAdvisor](http://tripadvisor.com)
 
-[/et_pb_tab][et_pb_tab title="not metasearch sites" tab_font_select="default" tab_font="||||" tab_line_height="2em" tab_line_height_tablet="2em" tab_line_height_phone="2em" body_font_select="default" body_font="||||" body_line_height="2em" body_line_height_tablet="2em" body_line_height_phone="2em" _builder_version="3.0.92"]
-
+### Not metasearch
 - [Booking.com](http://booking.com)
 
 - [Expedia.com](http://expedia.com)
@@ -82,12 +78,8 @@ Here are some examples of travel metasearch sites as well as a few which are not
 
 - [Hotels.com](http://hotels.com)
 
-[/et_pb_tab][/et_pb_tabs][et_pb_text background_layout="light" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" background_position="top_left" background_repeat="repeat" background_size="initial"]
-
 ## In Closing
 
 Do you use any of the metasearch tools I mentioned here? Other metasearch site or apps? Do you find them useful, or do you find them to be an unnecessary extra layer of the internet? Please let me know your thoughts in the comments below, or you can reach me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore/).
 
 _featured photo credit [Tim Gouw](https://unsplash.com/@punttim)._
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]

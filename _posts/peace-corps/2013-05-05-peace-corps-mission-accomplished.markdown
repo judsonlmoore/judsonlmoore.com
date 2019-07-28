@@ -1,15 +1,16 @@
 ---
-title: 'Peace Corps: Mission Accomplished'
-date: 2013-05-05 04:44:56 Z
-categories: Peace Corps
-tags: Bishkek
+title:			'Peace Corps: Mission Accomplished'
+date:			2013-05-05 04:44:56 Z
+categories:		Peace Corps
+tags:			Bishkek
   - Kyrgyzstan
   - Life Goal
   - Peace Corps
   - RPCV
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

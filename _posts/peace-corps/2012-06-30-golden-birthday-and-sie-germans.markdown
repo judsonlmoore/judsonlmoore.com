@@ -1,15 +1,16 @@
 ---
-title: Golden Birthday and Sie Germans
-date: 2012-06-30 06:39:29 Z
-categories: Peace Corps
-tags: Birthday
+title:			Golden Birthday and Sie Germans
+date:			2012-06-30 06:39:29 Z
+categories:		Peace Corps
+tags:			Birthday
   - Culture
   - Germans
   - Kyrgyzstan
   - Party
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

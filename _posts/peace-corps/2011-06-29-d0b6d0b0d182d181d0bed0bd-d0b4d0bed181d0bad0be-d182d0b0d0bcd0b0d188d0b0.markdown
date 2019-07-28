@@ -1,11 +1,12 @@
 ---
-title: Жатсон доско тамаша!
-date: 2011-06-29 20:53:02 Z
-categories: Peace Corps
-tags: Peace Corps
+title:			Жатсон доско тамаша!
+date:			2011-06-29 20:53:02 Z
+categories:		Peace Corps
+tags:			Peace Corps
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

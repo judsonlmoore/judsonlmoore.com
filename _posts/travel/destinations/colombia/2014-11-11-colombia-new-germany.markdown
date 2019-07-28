@@ -1,17 +1,12 @@
 ---
-title: 'Colombia Is The New Germany: A Rotary Youth Exchange Reunion'
-date: 2014-11-11 19:36:05 Z
-categories: Colombia
-tags: Colombia
-  - reunion
-  - Rotary
-  - RYE
-  - South America
-  - Travel
-author: judsonlmoore
-excerpt: I spend two weeks in Colombia with old friends exploring the hottest destinations,
-  eating the most delicious food, and learning to dance in the streets!
-layout: post
+title:			Colombia Is The New Germany - A Rotary Youth Exchange Reunion
+date:			2014-11-11 19:36:05 Z
+categories:		colombia
+tags:			colombia, reunion, rotary, rye, south america, travel
+author:			judsonlmoore
+excerpt:		I spend two weeks in Colombia with old friends exploring the hottest destinations, eating the most delicious food, and learning to dance in the streets!
+layout:			post
+image:			../assets/images/
 
 
 ---

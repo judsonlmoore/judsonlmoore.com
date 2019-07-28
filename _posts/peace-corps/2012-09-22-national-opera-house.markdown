@@ -1,13 +1,14 @@
 ---
-title: National Opera House
-date: 2012-09-22 17:43:28 Z
-categories: Bishkek
-tags: Architecture
+title:			National Opera House
+date:			2012-09-22 17:43:28 Z
+categories:		Bishkek
+tags:			Architecture
   - Bishkek
   - Kyrgyzstan
   - Peace Corps
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

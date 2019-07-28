@@ -1,16 +1,17 @@
 ---
-title: Bishkek ICT Training
-date: 2012-07-13 06:38:00 Z
-categories: Peace Corps
-tags: Bishkek
+title:			Bishkek ICT Training
+date:			2012-07-13 06:38:00 Z
+categories:		Peace Corps
+tags:			Bishkek
   - ICT
   - IREX
   - Kyrgyzstan
   - Peace Corps
   - Technology
   - Training
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

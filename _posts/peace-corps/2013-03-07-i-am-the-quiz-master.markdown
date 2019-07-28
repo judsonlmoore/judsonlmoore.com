@@ -1,14 +1,15 @@
 ---
-title: I Am The Quiz Master
-date: 2013-03-07 15:00:59 Z
-categories: Peace Corps
-tags: Bishkek
+title:			I Am The Quiz Master
+date:			2013-03-07 15:00:59 Z
+categories:		Peace Corps
+tags:			Bishkek
   - Fun
   - Interests
   - Kyrgyzstan
   - Trivia
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

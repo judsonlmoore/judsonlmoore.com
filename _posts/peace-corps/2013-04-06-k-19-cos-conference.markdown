@@ -1,13 +1,14 @@
 ---
-title: K-19 COS Conference
-date: 2013-04-06 22:52:05 Z
-categories: Peace Corps
-tags: COS
+title:			K-19 COS Conference
+date:			2013-04-06 22:52:05 Z
+categories:		Peace Corps
+tags:			COS
   - Kyrgyzstan
   - Peace Corps
   - RPCV
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

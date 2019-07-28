@@ -1,15 +1,16 @@
 ---
-title: Otto von Bismarck and His Path to Unification
-date: 2004-05-05 08:00:00 Z
-categories: College Papers
-tags: Austro-Prussian War
+title:			Otto von Bismarck and His Path to Unification
+date:			2004-05-05 08:00:00 Z
+categories:		College Papers
+tags:			Austro-Prussian War
   - Germany
   - Otto von Bismarck
   - Politics
   - Prussia
   - Research Paper
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

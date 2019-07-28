@@ -1,13 +1,14 @@
 ---
-title: Reunion, Kölsch and Architecture of Köln (Cologne)
-date: 2015-01-16 22:10:15 Z
-categories: Germany
-tags: Europe
+title:			Reunion, Kölsch and Architecture of Köln (Cologne)
+date:			2015-01-16 22:10:15 Z
+categories:		Germany
+tags:			Europe
   - Germany
   - reunion
   - Train
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -16,7 +17,7 @@ After spending [5-months in India](https://www.judsonlmoore.com/location/india/)
 
 After flying Hyderabad > Abu Dhabi > Frankfurt I got a first class ticket on the ICE 102 to Köln and began my relaxing 3-week tour of central Europe. Here is a preview of the beauty to come.
 
-[embed]https://www.youtube.com/watch?v=ha9seYZ6DPE[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ha9seYZ6DPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## First Impressions of Köln (and beer!)
 

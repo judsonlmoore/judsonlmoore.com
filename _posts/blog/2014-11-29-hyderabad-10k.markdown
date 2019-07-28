@@ -1,16 +1,17 @@
 ---
-title: The Annual Hyderabad 10k Around The Hussain Sagar Lake
-date: 2014-11-29 13:20:20 Z
-categories: Hyderabad
-tags: Fitness
+title:			The Annual Hyderabad 10k Around The Hussain Sagar Lake
+date:			2014-11-29 13:20:20 Z
+categories:		Hyderabad
+tags:			Fitness
   - Health
   - Hyderabad
   - India
   - Running
-author: judsonlmoore
-excerpt: The annual Hyderabad 10k is a massive city-wide event with olympian leaders,
+author:			judsonlmoore
+excerpt:		The annual Hyderabad 10k is a massive city-wide event with olympian leaders,
   beautiful scenery and live music on at every kilometer.
-layout: post
+layout:			post
+image:			../assets/images/
 
 
 ---

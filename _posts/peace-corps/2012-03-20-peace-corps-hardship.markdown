@@ -1,12 +1,13 @@
 ---
-title: Peace Corps Hardship
-date: 2012-03-20 15:03:03 Z
-categories: Peace Corps
-tags: Lifestyle
+title:			Peace Corps Hardship
+date:			2012-03-20 15:03:03 Z
+categories:		Peace Corps
+tags:			Lifestyle
   - Peace Corps
   - Talas
-author: judsonlmoore
-layout: post
+author:			judsonlmoore
+layout:			post
+image:			../assets/images/
 
 
 ---

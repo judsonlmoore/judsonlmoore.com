@@ -1,11 +1,11 @@
 ---
-title: German Wine Country - A Taste of Landau and the Pfirmann Weingut
-date: 2016-09-08 20:38:08 Z
-categories: Germany
-author: judsonlmoore
-excerpt: The wide array of wineries, beautiful scenery, and friendly wine masters
-  make German Wine Country a must-taste destination.
-layout: post
+title:			German Wine Country - A Taste of Landau and the Pfirmann Weingut
+date:			2016-09-08 20:38:08 Z
+categories:		germany
+author:			judsonlmoore
+excerpt:		The wide array of wineries, beautiful scenery, and friendly wine masters make German Wine Country a must-taste destination.
+layout:			post
+image:			../assets/images/
 
 
 ---
@@ -40,23 +40,23 @@ Download the entire Weingut Pfirmann 2016 wine list [here (PDF)" file="../asse
 
 1. **SECCO, Secco Rosé, 11.5% VOL\*** - ...
 
-2) **2015 Landschneckenkalk Riesling, 13% VOL** - Nose of ripe peach, citrus fruits, and fresh herbs. On the tongue, limestone, minerals, and hints of green apple.
+2. **2015 Landschneckenkalk Riesling, 13% VOL** - Nose of ripe peach, citrus fruits, and fresh herbs. On the tongue, limestone, minerals, and hints of green apple.
 
 3. **2015 Buntsandstein Riesling, 12.5% VOL** - Nose of red apple, vineyard peach, apricot, mango, grapefruit and red currant. Palate: very precise, elegant, juicy with a crisp freshness and a slightly earthy flavor.
 
-4) **2015 Sauvignon Blanc, 13% VOL** - The bouquet smells very clear of fresh herbs, some gooseberry, and hints of nuts. On the palate is a delicious fruit with a crisp acidity and a nice minerality that give a great vitality.
+4. **2015 Sauvignon Blanc, 13% VOL** - The bouquet smells very clear of fresh herbs, some gooseberry, and hints of nuts. On the palate is a delicious fruit with a crisp acidity and a nice minerality that give a great vitality.
 
 5. **2015 Grauer Burgunder, 13% VOL\*** - In the nose and palate first falls a delicate fruity aroma of white stone, and then turns to a peach and apricot accent.
 
-6) **2015 Kalkmergel Grauer Burgunder, 13.5% VOL\*** - Flavors of stone fruit as a fresh peach, plum, apricot, a nice flavor and very fine nuances of nuts.
+6. **2015 Kalkmergel Grauer Burgunder, 13.5% VOL\*** - Flavors of stone fruit as a fresh peach, plum, apricot, a nice flavor and very fine nuances of nuts.
 
 7. **2015 Kalkgestein Chardonnay, 13.5% VOL** - Fruity, buttery, with a velvety feel that’s atypical of dry white wines.
 
-8) **2015 Gewürztraminer, 13% VOL** - Smells very aromatic and spicy with ripe grapes, roses, exotic fruits and a hint of cinnamon. On the palate, very full, vigorous, with a certain force. Intensely aromatic.
+8. **2015 Gewürztraminer, 13% VOL** - Smells very aromatic and spicy with ripe grapes, roses, exotic fruits and a hint of cinnamon. On the palate, very full, vigorous, with a certain force. Intensely aromatic.
 
 9. **2015 Rieslaner Auslese, 7.5% VOL\*** - ...
 
-10) **2015 Rosé, 12% VOL\*** - On the nose aromas of strawberries, but also notes of peach and passion fruit. Palate has a crisp freshness with a lively acidity component, but well balanced. In addition, little by little notes of sweet cherries, and peaches return at the end.
+10. **2015 Rosé, 12% VOL\*** - On the nose aromas of strawberries, but also notes of peach and passion fruit. Palate has a crisp freshness with a lively acidity component, but well balanced. In addition, little by little notes of sweet cherries, and peaches return at the end.
 
 11. **2012 Cabernet-Merlot dry, 14% VOL** - Full-bodied with herbal notes. Fruity, spicy. Very soft, less tannic than Cabernet Sauvignon.
 
