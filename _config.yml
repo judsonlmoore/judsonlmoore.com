@@ -139,24 +139,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-# Cloudinary
-# Learn More https://github.com/nhoizey/jekyll-cloudinary
-# cloudinary:
-#   cloud_name: judsonlmoore-com
-#   only_prod: true
-#   verbose: true
-#   # origin_url: https://cdn.judsonlmoore.com
-#   presets:
-#     default:
-#       min_width: 320
-#       max_width: 1600
-#       fallback_max_width: 800
-#       steps: 5
-#       sizes: "(min-width: 50rem) 50rem, 90vw"
-
 #jekyll-loudinary https://nhoizey.github.io/jekyll-cloudinary/
 cloudinary:
   cloud_name: judsonlmoore-com
+  only_prod: true
+  verbose: false
+  origin_url: /
   presets:
     default:
       min_width: 320
@@ -164,3 +152,7 @@ cloudinary:
       fallback_max_width: 800
       steps: 5
       sizes: "(min-width: 50rem) 50rem, 90vw"
+      figure: never
+      attributes:
+        class: "post-image"
+        loading: "lazy"

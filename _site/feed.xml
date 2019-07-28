@@ -3,10 +3,10 @@
   <channel>
     <title>Judson L Moore</title>
     <description>American Author and travel addict</description>
-    <link>https://dmnqtjz3pqxhv.cloudfront.net/</link>
-    <atom:link href="https://dmnqtjz3pqxhv.cloudfront.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Jul 2019 20:32:40 +0200</pubDate>
-    <lastBuildDate>Sun, 28 Jul 2019 20:32:40 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 28 Jul 2019 21:38:45 +0200</pubDate>
+    <lastBuildDate>Sun, 28 Jul 2019 21:38:45 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -128,8 +128,8 @@
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 06 Nov 2018 21:07:05 +0100</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/working-abroad-tips/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/working-abroad-tips/</guid>
+        <link>http://localhost:4000/working-abroad-tips/</link>
+        <guid isPermaLink="true">http://localhost:4000/working-abroad-tips/</guid>
         
         <category>germany,</category>
         
@@ -244,8 +244,8 @@
 &lt;p&gt;Tag! You’re it! I hope that I have encouraged you to make a trip to Petra in your near-future. I can’t recommend it enough! Have you been before? Do you have questions I can answer for you? Do you have additional information which should be shared with readers? &lt;strong&gt;Please leave a comment below&lt;/strong&gt; and let me know your thoughts. Safe travels!&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Oct 2018 11:00:54 +0100</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/petra-jordan-destination-guide/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/petra-jordan-destination-guide/</guid>
+        <link>http://localhost:4000/petra-jordan-destination-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/petra-jordan-destination-guide/</guid>
         
         <category>travel</category>
         
@@ -337,8 +337,8 @@
 &lt;p&gt;I hope you enjoyed this article! Have you been to Wadi Rum before? What did I miss? What questions do you have? &lt;strong&gt;Please contribute your thoughts below in the comments.&lt;/strong&gt; Safe travels!&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Aug 2018 12:00:17 +0200</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/wadi-rum-jordan-destination-guide/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/wadi-rum-jordan-destination-guide/</guid>
+        <link>http://localhost:4000/wadi-rum-jordan-destination-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/wadi-rum-jordan-destination-guide/</guid>
         
         <category>camel,</category>
         
@@ -359,7 +359,7 @@
     
       <item>
         <title>DRUMSON performs live at the trivagoVibe</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg&quot; srcset=&quot;https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_320/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 320w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_640/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 640w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_960/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 960w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1280/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 1280w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1600/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 1600w&quot; sizes=&quot;(min-width: 50rem) 50rem, 90vw&quot; alt=&quot;beautiful!&quot; width=&quot;2048&quot; height=&quot;1536&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg&quot; class=&quot;post-image&quot; loading=&quot;lazy&quot; alt=&quot;beautiful!&quot; width=&quot;2048&quot; height=&quot;1536&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I love working at trivago!&lt;/strong&gt; The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago’s musically-talented employees and is the activity where I have the most fun at work (and yes, that includes &lt;a href=&quot;https://www.judsonlmoore.com/trivago-tour-2017/&quot;&gt;the famed trivago on Tour annual trip&lt;/a&gt;. Nothing beats live music in my book!) And at trivago, live music means &lt;strong&gt;trivagoVibe!&lt;/strong&gt;&lt;/p&gt;
 
@@ -424,7 +424,7 @@
 &lt;span class=&quot;caption&quot;&gt; Drumson performs a solo show at the 2018 trivagoVibe&lt;/span&gt;
  --&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg&quot; srcset=&quot;https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_320/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 320w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_640/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 640w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_960/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 960w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1280/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 1280w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1600/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 1600w&quot; sizes=&quot;(min-width: 50rem) 50rem, 90vw&quot; alt=&quot;beautiful!&quot; width=&quot;2048&quot; height=&quot;1536&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg&quot; class=&quot;post-image&quot; loading=&quot;lazy&quot; alt=&quot;beautiful!&quot; width=&quot;2048&quot; height=&quot;1536&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;watchvideo-footage-from-my-first-drumson-performance&quot;&gt;Watch Video Footage from my First DRUMSON Performance&lt;/h2&gt;
 
@@ -447,8 +447,8 @@
 
 </description>
         <pubDate>Tue, 21 Aug 2018 22:35:07 +0200</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/trivagovibe-summer-2018/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/trivagovibe-summer-2018/</guid>
+        <link>http://localhost:4000/trivagovibe-summer-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/trivagovibe-summer-2018/</guid>
         
         
         <category>Music</category>
@@ -525,8 +525,8 @@
 &lt;p&gt;I hope that you enjoyed the episode! Please leave me a comment below to &lt;strong&gt;let me know your thoughts&lt;/strong&gt;, feedback, or to ask me followup questions. Alternatively, you can also reach out to me directly on Twitter at &lt;a href=&quot;https://twitter.com/judsonlmoore&quot;&gt;@JudsonLMoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Feb 2018 17:41:33 +0100</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/without-a-path-podcast/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/without-a-path-podcast/</guid>
+        <link>http://localhost:4000/without-a-path-podcast/</link>
+        <guid isPermaLink="true">http://localhost:4000/without-a-path-podcast/</guid>
         
         <category>interview,</category>
         
@@ -624,8 +624,8 @@
 &lt;p&gt;Have you been to Edinburgh? Have you visited the Edinburgh Castle? &lt;strong&gt;I would love to have your feedback and impressions of the castle.&lt;/strong&gt; Please feel free to leave a comment below or reach me directly on Twitter &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 Feb 2018 12:00:30 +0100</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/edinburgh-castle-walking-tour/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/edinburgh-castle-walking-tour/</guid>
+        <link>http://localhost:4000/edinburgh-castle-walking-tour/</link>
+        <guid isPermaLink="true">http://localhost:4000/edinburgh-castle-walking-tour/</guid>
         
         <category>adventure,</category>
         
@@ -748,8 +748,8 @@
 &lt;p&gt;So what do you think? Have you toured Edinburgh before? Have you been on a walking tour (paid or free) before? How do you think this one measures up? I would love to hear your thoughts. Feel free to leave a comment below or you can reach me directly on Twitter at &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Feb 2018 12:00:44 +0100</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/edinburgh-free-walking-tour/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/edinburgh-free-walking-tour/</guid>
+        <link>http://localhost:4000/edinburgh-free-walking-tour/</link>
+        <guid isPermaLink="true">http://localhost:4000/edinburgh-free-walking-tour/</guid>
         
         <category>adventure,</category>
         
@@ -1311,8 +1311,8 @@ image:			../assets/images/&lt;/p&gt;
 &lt;p&gt;Have I missed any major attractions which you think should be on this list? Have you been to any of these sites? &lt;strong&gt;Please share your experience&lt;/strong&gt; and provide any feedback, tips, or questions in the comments below. You may also reach me directly on Twitter at &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Feb 2018 13:00:51 +0100</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/dublin-weekend-itinerary/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/dublin-weekend-itinerary/</guid>
+        <link>http://localhost:4000/dublin-weekend-itinerary/</link>
+        <guid isPermaLink="true">http://localhost:4000/dublin-weekend-itinerary/</guid>
         
         <category>adventure,</category>
         
@@ -1426,8 +1426,8 @@ image:			../assets/images/&lt;/p&gt;
 &lt;p&gt;Have you been to the Guinness Storehouse before? &lt;strong&gt;I would love to know your thoughts about the experience!&lt;/strong&gt; Please leave a comment below, or feel free to reach me directly on Twitter &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore.com&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Jan 2018 17:08:37 +0100</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/guinness-storehouse-dublin/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/guinness-storehouse-dublin/</guid>
+        <link>http://localhost:4000/guinness-storehouse-dublin/</link>
+        <guid isPermaLink="true">http://localhost:4000/guinness-storehouse-dublin/</guid>
         
         <category>alcohol,</category>
         
@@ -1586,8 +1586,8 @@ image:			../assets/images/&lt;/p&gt;
 &lt;p&gt;I hope you enjoyed my review of the Jameson Bow St. Experience and the premium whiskey taste testing. Please feel free to leave a comment below with details of your own experience, thoughts on my experience, or any followup questions that you have for me. You can also connect with me directly on twitter &lt;a href=&quot;https://www.twitter.com/judsonlmoore&quot;&gt;@judsonlmoore&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Jan 2018 16:42:41 +0100</pubDate>
-        <link>https://dmnqtjz3pqxhv.cloudfront.net/jameson-distillery-tour-dublin/</link>
-        <guid isPermaLink="true">https://dmnqtjz3pqxhv.cloudfront.net/jameson-distillery-tour-dublin/</guid>
+        <link>http://localhost:4000/jameson-distillery-tour-dublin/</link>
+        <guid isPermaLink="true">http://localhost:4000/jameson-distillery-tour-dublin/</guid>
         
         <category>alcohol,</category>
         
