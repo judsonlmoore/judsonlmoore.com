@@ -36,13 +36,13 @@ The tour of The Jameson Distillery is called [The Bow St. Experience](https://ww
 
 Once you work your way down the timeline, you find yourself in a small theater in the round where the "Jameson Ambassador" will tell the story of Jameson Whiskey with the aid of some astoundingly well-engineered visual and audio aids. **Walt Disney would be proud!**
 
-{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-tour.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/jameson-distillery-bow-st-dublin-tour.jpg" alt="" description="" %}
 
 Now that we have gained a theoretical knowledge of all things related to Jameson Whiskey, we move into another room where we get to put our hands on what makes Jameson, Jameson: **the ingredients!**
 
 In the _process room_, our ambassador guides us through an interactive explanation of the distilling process. We get to touch the ingredients, smell the stages of distillation, and even come to appreciate the difference between different woods used to make the barrels which infuse whiskey with their smokey quality. Turns out that all **Jameson whiskey is aged in recycled bourbon barrels** from American bourbon makers.
 
-{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-ingredients.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/jameson-distillery-bow-st-dublin-ingredients.jpg" alt="" description="" %}
 
 After all of this, we make our way into yet another room where we get **a free taste testing of whiskey!** Guests are taught how to properly drink whiskey, what qualities to look (and taste) for, and we got to compare three kinds of whiskey.
 
@@ -56,7 +56,7 @@ We then moved on to the third tasting, which was, of course, Jameson.
 
 Learn more about this tour and book tickets for your visit on [the Jameson website](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/bow-st-experience).
 
-{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-tour-taste-testing.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/jameson-distillery-bow-st-dublin-tour-taste-testing.jpg" alt="" description="" %}
 
 ## A premium whiskey tasting at the Jameson Distillery Bow St.
 
@@ -96,7 +96,7 @@ The Jameson Crested is created in much the same way as the original but it is le
 
 [Learn more and buy Jameson Crested](https://shop.jamesonwhiskey.com/collections/whiskeys/products/crested-10)
 
-{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-premium-whiskey-taste-testing.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/jameson-distillery-bow-st-dublin-premium-whiskey-taste-testing.jpg" alt="" description="" %}
 
 ### Jameson Distillery Edition
 
@@ -118,7 +118,7 @@ This stuff is like lighter-fluid. Really, it is the moonshine of Jameson whiskey
 
 [Learn more and buy Jameson Black Barrel](https://shop.jamesonwhiskey.com/collections/whiskeys/products/jameson-select-reserve)
 
-{% include image.html alt="" file="../assets/images/2018/01/jameson-distillery-bow-st-dublin-behind-the-bar.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/jameson-distillery-bow-st-dublin-behind-the-bar.jpg" alt="" description="" %}
 
 ## Final thoughts on the taste testing
 

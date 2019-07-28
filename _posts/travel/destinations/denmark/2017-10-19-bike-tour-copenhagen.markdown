@@ -33,7 +33,7 @@ Also pictured here in the background is a building with a very pitched roof and 
 
 The facility also features an 85-meter high observation desk with cafe deemed as the best view of Copenhagen, one of the world's tallest climbing walls, and 10 hiking trails through landscaped forest.
 
-{% include image.html alt="The Mermaid, in Copenhagen" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-the-mermaid-min.jpg" description="" %}
+{% include image.html alt="The Mermaid, in Copenhagen" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-the-mermaid-min.jpg" alt="" description="" %}
 
 ## Statens Museum For Kunst (artist museum)
 
@@ -41,7 +41,7 @@ Though we didn't get to go inside the National Gallery of Denmark, just passing 
 
 Should I return to Copenhagen I will certainly take the time to pay a visit to the museum. The collection of nearly 9,000 paintings and sculptures, 240,000 works of art on paper, and 2,600+ plaster casts of figures from ancient times will be enough to keep me busy, especially if I find myself in Copenhagen on a rainy day.
 
-{% include image.html alt="Town homes along the water in Copenhagen" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-townhomes-min.jpg" description="" %}
+{% include image.html alt="Town homes along the water in Copenhagen" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-townhomes-min.jpg" alt="" description="" %}
 
 ## The Queen's Residence - Christian IX's Palace
 
@@ -53,19 +53,19 @@ The royal family is revered. This comes in part from their non-elitist lifestyle
 
 And here is a fun linguist fact: in Dutch, the formal "you" is only used when addressing or referring to the Queen. At any other time, you use the casual "you" form. A stark difference from German!
 
-{% include image.html alt="The Dutch Queen's residence in Copenhagen" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-queens-residence-min.jpg" description="" %}
+{% include image.html alt="The Dutch Queen's residence in Copenhagen" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-queens-residence-min.jpg" alt="" description="" %}
 
 ## Frederik's Church
 
 The central cathedral of Copenhagen is also known as The Marble Church. The stones are, of course, marble, but more notably, the marble on the interior of the church is dark. The highlights against the marble come in the gold details and statue figures of white marble. The dome is the largest in Scandinavia and is fashioned after St. Peter's Basilica in Rome.
 
-{% include image.html alt="Frederik's Church in Copenhagen." file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-frederiks-church-min.jpg" description="" %}
+{% include image.html alt="Frederik's Church in Copenhagen." file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-frederiks-church-min.jpg" alt="" description="" %}
 
 ## The New Haven Canal
 
 Copenhagen is webbed with canals. Similar to Amsterdam and other European coastal cities, Copenhagen's canals define the city's landscape. Here is one such canal, lined with shops, cafes, and houseboats. I imagine that the colorful buildings go a long way in sustaining the naturally cheerful mood of the Danes during the cold, wet, winters. You can see that even on this cloudy and grey day, this canal scene looks most welcoming!
 
-{% include image.html alt="A Copenhagen Canal" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg" description="" %}
+{% include image.html alt="A Copenhagen Canal" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg" alt="" description="" %}
 
 ## Freetown Christiania
 
@@ -73,7 +73,7 @@ The borough of Christianshavn is an anarchical district in Copenhagen which hasn
 
 For now, Christiania remains free and independent, but those days are likely numbered.
 
-{% include image.html alt="Freetown Christiana in Copenhagen" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-freetown-christiana-min.jpg" description="" %}
+{% include image.html alt="Freetown Christiana in Copenhagen" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-freetown-christiana-min.jpg" alt="" description="" %}
 
 ## The Royal Library
 
@@ -81,13 +81,13 @@ The archives and royal library of Denmark have recently been moved into this bea
 
 This is Julia, our awesome tour guide.
 
-{% include image.html alt="Julia, our Copenhagen bike tour guide" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-library-min.jpg" description="" %}
+{% include image.html alt="Julia, our Copenhagen bike tour guide" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-library-min.jpg" alt="" description="" %}
 
 ## Copenhagen from the Langebro Bridge
 
 If you look at the map I provided at the beginning of this post, then you will see that this bride crossing is located that the southern-most point of our Copenhagen bike tour. This also means we have reached our halfway point in the tour. We took a short break and snapped some photos of the town behind us. The Copenhagen skyline, such as it is, is not dominated by towering buildings but rather with more historic buildings which maintain Copenhagen's feeling of European authenticity.
 
-{% include image.html alt="The Copenhagen skyline behind me" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-skyline-min.jpg" description="" %}
+{% include image.html alt="The Copenhagen skyline behind me" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-skyline-min.jpg" alt="" description="" %}
 
 ## Tivoli Gardens
 
@@ -97,7 +97,7 @@ Tivoli is a "seasonal park" in that it is only open during the warmer months of 
 
 Though we just rode our bikes along the exterior wall and past the main entrance, pictured below, I easily got the impression that this is an impressive place. One other thing I learned is that millions of Danes have an annual membership to Tivoli Gardens and visit there with friends and family the same way New Yorkers might take a stole through Central Park. So the experience is presumably a bit more casual than Disneyland or King's Island.
 
-{% include image.html alt="Biking in front of Tivoli, the world's 2nd oldest amusement park" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-tivoli-min.jpg" description="" %}
+{% include image.html alt="Biking in front of Tivoli, the world's 2nd oldest amusement park" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-tivoli-min.jpg" alt="" description="" %}
 
 ## The small homes of Nyboder (old barracks)
 
@@ -107,7 +107,7 @@ Today, Nyboder is mostly residential. The cute row homes look cozy and full of c
 
 I couldn't help but think to myself that if I lived in Copenhagen, I would want to live here.
 
-{% include image.html alt="My Copenhagen bike tour group at the old barracks" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-barracks-min.jpg" description="" %}
+{% include image.html alt="My Copenhagen bike tour group at the old barracks" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-barracks-min.jpg" alt="" description="" %}
 
 ## Her Danish Majesty's Yacht Dannebrog
 
@@ -117,7 +117,7 @@ This ship is the oldest royal-yacht in the world still in service. It was built 
 
 God rejse! (bon voyage in Danish)
 
-{% include image.html alt="The Dutch Royal Yacht" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-yacht-min.jpg" description="" %}
+{% include image.html alt="The Dutch Royal Yacht" file="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-yacht-min.jpg" alt="" description="" %}
 
 ## What a great day this was!
 

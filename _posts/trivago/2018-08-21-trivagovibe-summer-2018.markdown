@@ -15,9 +15,6 @@ image:			../assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
 
 ---
 
-{% cloudinary assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="alt" caption="caption" %}
-
-{% cloudinary half assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="alt" caption="caption" %}
 
 **I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed trivago on Tour annual trip](https://www.judsonlmoore.com/trivago-tour-2017/). Nothing beats live music in my book!) And at trivago, live music means **trivagoVibe!**
 
@@ -49,7 +46,7 @@ _Then came the question:_
 
 And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum >BOOM< we all knew we struck gold. **This. Drum set. Sounds. AMAZING. Live!** Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.
 
-{% include image.html alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" file="../assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg" description=" Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
+{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" description=" Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
 
 ## Musical Talent of trivago: The Lineup
 
@@ -69,11 +66,7 @@ As I walked onto the stage, I slipped into character. For the next 32 minutes, I
 
 > **Update:** Checkout the official website for Drumson at [https://drumson.de](https://drumson.de)!
 
-<!-- {% include image.html alt="" file="../assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg" description=" Drumson performs a solo show at the 2018 trivagoVibe" %} -->
-
-
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="beautiful!" %}
-
+{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="Drumson performs a solo show at the 2018 trivagoVibe!" caption="Drumson performs a solo show at the 2018 trivagoVibe" %}
 
 ## Watch Video Footage from my First DRUMSON Performance
 
@@ -91,4 +84,4 @@ Please excuse the unstable audio level, I think the phones had a difficult time 
 
 Until then, please leave me your thoughts in the comments below, and you can always reach me directly on [Facebook](https://www.facebook.com/JudsonLMooreBlog/) and [Twitter](https://twitter.com/judsonlmoore)!
 
-{% include image.html alt="" file="../assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg" description="" %}
+{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg alt="" description="" %}

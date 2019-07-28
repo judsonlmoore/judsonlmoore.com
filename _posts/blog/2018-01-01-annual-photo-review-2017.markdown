@@ -24,7 +24,7 @@ All in all, 2017 was an incredible year and it will be hard to improve upon that
 
 The new year started off strong. In January I attended a hospitality trade fair in South Carolina where I was a spokesperson for trivago's business tools. The three colleagues I traveled with were **all amazing people** and I have kept them as close friends throughout the year. Here is a sunset selfie on the empty Myrtle Beach off-season shoreline.
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-january-myrtle-beach.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-january-myrtle-beach.jpg alt="" description="" %}
 
 ## February - Oldenburg for a Kohlfahrt
 
@@ -34,7 +34,7 @@ I often talk about how my life's story began when I was a **Rotary Youth Exchang
 
 The whole thing ends at a restaurant where there is live music, more drinks, lots of food, and of course: **kale!**
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-february-oldenburg.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-february-oldenburg.jpg alt="" description="" %}
 
 ## February (part 2) - Amsterdam
 
@@ -42,7 +42,7 @@ Alright, I am going to fudge my own rule here and list two highlights for Februa
 
 In literally our last 30 minutes in Amsterdam, **the clouds broke and we got a peak of sunlight**. Here is one of the few photos I was able to take in our final minutes in Amsterdam.
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-february-amsterdam.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-february-amsterdam.jpg alt="" description="" %}
 
 ## March - Morocco for a week
 
@@ -50,7 +50,7 @@ From the High Atlas mountains to the ancient bazaars of Fez, a week in **Morocco
 
 With only a week in Morocco, **we covered a lot of territory** and saw a lot of the country from a train window, but there is much more to see. I am already preparing plans for a return trip to Morocco in 2018. **Stay tuned!**
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-march-morocco.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-march-morocco.jpg alt="" description="" %}
 
 ## April - Neanderthal Valley Hiking
 
@@ -58,7 +58,7 @@ The Neanderthal Valley is located less than 10 miles from my home in Düsseldor
 
 The area also has a very well-organized and well-maintained trail network which provides you with a front row seat to the beauty of nature, the abandoned quarries, and endless fields of rapeseed, which, when in-season blanket the Earth in **the most spectacular golden carpets**. Here is me showing how stoked I am to be with the rapeseed.
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg alt="" description="" %}
 
 ## May - Mom visits and we meet my German host family
 
@@ -66,7 +66,7 @@ The area also has a very well-organized and well-maintained trail network which 
 
 Also: I got a haircut!
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-may-mom-host-family-reunion.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-may-mom-host-family-reunion.jpg alt="" description="" %}
 
 ## June - Whitewater rafting and canyoning in Austria
 
@@ -74,19 +74,19 @@ Also: I got a haircut!
 
 We had a free day so we went to Area 47, a massive outdoor water and adventure park **surrounded by huge vertical mountains**, where I was able to snap a few shots. Here you can see some of the more impressive waterslides from the park.
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-june-austria.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-june-austria.jpg alt="" description="" %}
 
 ## July - Spartan Race
 
 Spartan Races take place all over the world and are a true feat of strength. They involve a 5km (minimum) run with dozens of obstacles in the way. The obstacles include climbing, jumping, crawling, swimming, lifting, spear-throwing, and other feats. If you fail at an obstacle, **you have to do 50 burpees.** To say this was difficult for me would be quite the understatement. But I finished and it was awesome. I look forward to running again next year with the trivago team!
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-july-spartan-race.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-july-spartan-race.jpg alt="" description="" %}
 
 ## August - The Mosel Valley: Germany's wine country
 
 Every year, I go on a wine-tasting weekend with my German friends. This year we went to the Mosel Valley and tried **a dozen different kinds of rieslings**. I don't particularly like white wine or sweet wine, so I struggled a bit to get through the wine tastings, but the geography around the Mosel River is breathtaking and we could not have asked for better weather.
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-august-mosel.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-august-mosel.jpg alt="" description="" %}
 
 ## September - Nordic cruise to Norway and Denmark
 
@@ -94,7 +94,7 @@ trivago really empowered a lot of personal travel for me this year. In September
 
 Here I am in Norway with a moose.
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-september-norway.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-september-norway.jpg alt="" description="" %}
 
 ## October - Northern Italy and the most stunning sunset
 
@@ -102,7 +102,7 @@ To celebrate the 500th anniversary of the Reformation, which began in Germany wh
 
 We drank a lot of wine, ate lots of pizzas and pasta, we got lost in the world's largest hedge maze, and we took in lots of sights. The whole trip was incredible, but nothing compares with this sunset we saw over Lake Como. This photo has no filter or alterations and **does no justice to the majesty** of the experience. I have never seen cloud formations like this, or so many colors paint the sky in such a way. I seriously doubt I will ever experience such natural beauty ever again.
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-october-como-italy-sunset.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-october-como-italy-sunset.jpg alt="" description="" %}
 
 ## November - Going home to Kyrgyzstan
 
@@ -110,7 +110,7 @@ From 2011-13 I served in the United States Peace Corps in Kyrgyzstan where I wor
 
 Funny thing: **it still felt like home.**
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-november-bishkek-kyrgyzstan.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-november-bishkek-kyrgyzstan.jpg alt="" description="" %}
 
 ## December - A winter break in Palma de Mallorca
 
@@ -118,7 +118,7 @@ Ending up the year is yet another awesome trip which was **made possible by triv
 
 Britta came to visit for a few days. Among other explorations of the island, **we rented some really nice road bikes** and went for a long ride down the coast.
 
-{% include image.html alt="" file="../assets/images/2018/01/best-of-2017-december-palma.jpg" description="" %}
+{% cloudinary /assets/images/2018/01/best-of-2017-december-palma.jpg alt="" description="" %}
 
 ## Happy New Year and all the best in 2018!
 

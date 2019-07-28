@@ -3,6 +3,7 @@ title: Judson L Moore
 name: Judson L Moore
 description: American Author and travel addict
 url: https://dmnqtjz3pqxhv.cloudfront.net
+image-path: ../assets/images/
 author: judsonlmoore
 twitter:
   username: judsonlmoore
@@ -29,7 +30,6 @@ social:
 baseurl: ""
 # google_analytics: 'UA-12358141-4'
 disqus: "judsonlmoore"
-image-path: ../assets/images/
 mailchimp-list: "https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 include: ["_pages"]
 permalink: /:title/
@@ -142,6 +142,9 @@ exclude:
 #jekyll-loudinary https://nhoizey.github.io/jekyll-cloudinary/
 cloudinary:
   cloud_name: judsonlmoore-com
+  only_prod: true
+  verbose: true
+  #origin_url:
   presets:
     default:
       min_width: 320
@@ -153,9 +156,11 @@ cloudinary:
       attributes:
         class: "post-image full"
         loading: "auto"
+        style: "height: auto"
     half:
       min_width: 320
       max_width: 1600
+      max_height: 100%
       fallback_max_width: 800
       steps: 5
       sizes: "(min-width: 25rem) 25rem, 50vw"
@@ -163,3 +168,4 @@ cloudinary:
       attributes:
         class: "post-image half"
         loading: "auto"
+        style: "height: auto"

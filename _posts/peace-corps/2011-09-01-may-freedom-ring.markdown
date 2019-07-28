@@ -18,31 +18,31 @@ I caught about the last hour of the game which would be longer than my attention
 
 Here are some photos:
 
-{% include image.html alt="The start of the parade in front of the Talas Oblast White House" file="../assets/images/2011/09/tumblr_lqu1hvkIFi1qb60c5.jpg" description="" %}
+{% include image.html alt="The start of the parade in front of the Talas Oblast White House" file="../assets/images/2011/09/tumblr_lqu1hvkIFi1qb60c5.jpg" alt="" description="" %}
 
 The start of the parade in front of the Talas Oblast White House
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1lswGMT1qb60c5.jpg" description="" %}
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1lswGMT1qb60c5.jpg" alt="" description="" %}
 
 Youth carrying a giant flag of Kyrgyzstan
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1q5U1eh1qb60c5.jpg" description="" %}
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1q5U1eh1qb60c5.jpg" alt="" description="" %}
 
 Me at the horse games
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1rp73yg1qb60c5.jpg" description="" %}
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1rp73yg1qb60c5.jpg" alt="" description="" %}
 
 A rider got knocked off his horse trying to reach for the sheep (at his feet) which fell short of the goal (the mound encircled by tires)
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1u2m45S1qb60c5.jpg" description="" %}
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1u2m45S1qb60c5.jpg" alt="" description="" %}
 
 A successful grab of the sheep in full gallup
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1w5ghS91qb60c5.jpg" description="" %}
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1w5ghS91qb60c5.jpg" alt="" description="" %}
 
 The grand stands of the horse stadium
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1xdwZ1p1qb60c5.jpg" description="" %}
+{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1xdwZ1p1qb60c5.jpg" alt="" description="" %}
 
 More of me at the games (can you ever get enough?!)
 

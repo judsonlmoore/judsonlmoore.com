@@ -10,4 +10,4 @@ image:			../assets/images/
 
 ---
 
-{% include image.html alt="](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png" description="" %}(http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png" description="" %}
+{% include image.html alt="](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png" alt="" description="" %}(http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png" alt="" description="" %}

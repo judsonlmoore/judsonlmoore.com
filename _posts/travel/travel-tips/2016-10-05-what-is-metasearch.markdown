@@ -27,7 +27,7 @@ Metadata is all of the behind the scenes data which make the Internet the Intern
 
 Please forgive the nerd in me that despite my best judgement will now show you a really boring (but instructive) workflow chart.
 
-{% include image.html alt="metasearch explained in a chart" file="../assets/images/2016/08/metasearch-explained.png" description="" %}
+{% include image.html alt="metasearch explained in a chart" file="../assets/images/2016/08/metasearch-explained.png" alt="" description="" %}
 
 _source: [Jakob Voss](https://en.wikipedia.org/wiki/Metasearch_engine#/media/File:Meta-search-en.svg)_
 
