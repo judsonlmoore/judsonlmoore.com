@@ -144,7 +144,7 @@ cloudinary:
   cloud_name: judsonlmoore-com
   only_prod: true
   verbose: false
-  origin_url: /
+  #origin_url:
   presets:
     default:
       min_width: 320
