@@ -15,7 +15,9 @@ image:			../assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
 
 ---
 
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="beautiful!" %}
+{% cloudinary assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="alt" caption="caption" %}
+
+{% cloudinary half assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="alt" caption="caption" %}
 
 **I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed trivago on Tour annual trip](https://www.judsonlmoore.com/trivago-tour-2017/). Nothing beats live music in my book!) And at trivago, live music means **trivagoVibe!**
 

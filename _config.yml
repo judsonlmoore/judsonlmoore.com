@@ -12,7 +12,7 @@ facebook:
   publisher:
   admins:
 logo: assets/images/jlm-logo-full-bw-dark.png
-favicon: "assets/images/favicon.png"
+favicon: assets/images/favicon.png
 social:
   name: Judson L Moore
   links:
@@ -142,17 +142,24 @@ exclude:
 #jekyll-loudinary https://nhoizey.github.io/jekyll-cloudinary/
 cloudinary:
   cloud_name: judsonlmoore-com
-  only_prod: true
-  verbose: false
-  #origin_url:
   presets:
     default:
       min_width: 320
       max_width: 1600
       fallback_max_width: 800
       steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
-      figure: never
+      sizes: "(min-width: 50rem) 50rem, 100vw"
+      figure: auto
       attributes:
-        class: "post-image"
-        loading: "lazy"
+        class: "post-image full"
+        loading: "auto"
+    half:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width: 25rem) 25rem, 50vw"
+      figure: auto
+      attributes:
+        class: "post-image half"
+        loading: "auto"
