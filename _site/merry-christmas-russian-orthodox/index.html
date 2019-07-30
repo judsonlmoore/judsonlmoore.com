@@ -77,7 +77,7 @@
                 <a class="navbar-brand" href="/">
                     <h1 class="logo-title">Judson L Moore</h1>
                     <p class="logo-subtitle">
-                        American Author and travel addict
+                        Author and travel addict
                     </p>
                 </a>
                 <!-- End Logo -->
@@ -162,7 +162,7 @@
                 <div class="mainheading">
                     <h1 class="sitetitle">Judson L Moore</h1>
                     <p class="lead">
-                        American Author and travel addict
+                        Author and travel addict
                     </p>
                 </div> -->
 
@@ -219,6 +219,21 @@
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
 
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="https://www.gravatar.com/avatar/8b6eff6e1152352a262b6276e3685350?s=250&d=mm&r=x" alt="Judson L Moore">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://www.judsonlmoore.com">Judson L Moore</a><a target="_blank" href="https://twitter.com/judsonlmoore" class="btn follow">Follow</a>
+                        <span class="author-description">Travel addict. Ambitious about making the world a better place. Writing what I learn along the way.</span>
+                    </div>
+                </div>
+                
+
                 <!-- Post Title -->
                 <h1 class="posttitle">Merry Christmas (Russian Orthodox)</h1>
 
@@ -230,11 +245,7 @@
 
             <!-- Post Featured Image -->
             
-
-            
-            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/" alt="Merry Christmas (Russian Orthodox)">
-            
-
+            <img class="featured-image img-fluid" src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1200/https://dmnqtjz3pqxhv.cloudfront.net/assets/images/../assets/images/" alt="Merry Christmas (Russian Orthodox)">
             
             <!-- End Featured Image -->
 
@@ -324,32 +335,18 @@
             </div>
             <!-- End Tags -->
 
-            <!-- Author Box -->
-            
-            <div class="row post-top-meta">
-                <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-                    
-                    <img class="author-thumb" src="https://www.gravatar.com/avatar/8b6eff6e1152352a262b6276e3685350?s=250&d=mm&r=x" alt="Judson L Moore">
-                    
-                </div>
-                <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                    <a target="_blank" class="link-dark" href="https://www.judsonlmoore.com">Judson L Moore</a><a target="_blank" href="https://twitter.com/judsonlmoore" class="btn follow">Follow</a>
-                    <span class="author-description">Travel addict. Ambitious about making the world a better place. Writing what I learn along the way.</span>
-                </div>
-            </div>
-            
-
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
             
-            <a class="prev d-block col-md-6" href="https://dmnqtjz3pqxhv.cloudfront.net//new-years-2013/"> &laquo; Happy New Year / С новым годом / Жаны жылыныздар менен</a>
+            <a class="prev d-block col-md-6" href="//new-years-2013/"> &laquo; Happy New Year / С новым годом / Жаны жылыныздар менен</a>
             
             
-            <a class="next d-block col-md-6 text-lg-right" href="https://dmnqtjz3pqxhv.cloudfront.net//community-media-in-kyrgyzstan-key-to-achieving-social-justice/">Community Media in Kyrgyzstan Key to Achieving Social Justice [cross-post] &raquo; </a>
+            <a class="next d-block col-md-6 text-lg-right" href="//community-media-in-kyrgyzstan-key-to-achieving-social-justice/">Community Media in Kyrgyzstan Key to Achieving Social Justice [cross-post] &raquo; </a>
             
             <div class="clearfix"></div>
             </div>
             <!-- End Categories -->
+
         </div>
         <!-- End Post -->
 
@@ -364,20 +361,147 @@
     <div class="container">
         <div id="comments" class="row justify-content-center mb-5">
             <div class="col-md-8">
-                <section class="disqus">
+                <div class="disqus"></div>
+<script type="text/javascript">
+    $.disqusLoader(".disqus", { scriptUrl: "//username.disqus.com/embed.js" });
+
+    /*
+    disqusLoader.js v1.0
+    A JavaScript plugin for lazy-loading Disqus comments widget.
+    -
+    By Osvaldas Valutis, www.osvaldas.info
+    Available for use under the MIT License
+*/
+
+(function($, window, document, undefined) {
+    "use strict";
+
+    var $win = $(window),
+        throttle = function(a, b) {
+            var c, d;
+            return function() {
+                var e = this,
+                    f = arguments,
+                    g = +new Date();
+                c && g < c + a
+                    ? (clearTimeout(d),
+                      (d = setTimeout(function() {
+                            (c = g), b.apply(e, f);
+                      }, a)))
+                    : ((c = g), b.apply(e, f));
+            };
+        },
+        throttleTO = false,
+        laziness = false,
+        disqusConfig = false,
+        scriptUrl = false,
+        scriptStatus = "unloaded",
+        $instance = $(),
+        init = function() {
+            if (
+                !$instance.length ||
+                $instance.data("disqusLoaderStatus") == "loaded"
+            )
+                return true;
+
+            var winST = $win.scrollTop();
+
+            // if the element is too far below || too far above
+            if (
+                $instance.offset().top - winST > $win.height() * laziness ||
+                winST -
+                    $instance.offset().top -
+                    $instance.outerHeight() -
+                    $win.height() * laziness >
+                    0
+            )
+                return true;
+
+            $("#disqus_thread").removeAttr("id");
+            $instance
+                .attr("id", "disqus_thread")
+                .data("disqusLoaderStatus", "loaded");
+
+            if (scriptStatus == "loaded") {
+                DISQUS.reset({ reload: true, config: disqusConfig });
+            } // unloaded | loading
+            else {
+                window.disqus_config = disqusConfig;
+                if (scriptStatus == "unloaded") {
+                    scriptStatus = "loading";
+                    $.ajax({
+                        url: scriptUrl,
+                        async: true,
+                        cache: true,
+                        dataType: "script",
+                        success: function() {
+                            scriptStatus = "loaded";
+                        }
+                    });
+                }
+            }
+        };
+
+    $win.on("scroll resize", throttle(throttleTO, init));
+
+    $.disqusLoader = function(element, options) {
+        options = $.extend(
+            {},
+            {
+                laziness: 1,
+                throttle: 250,
+                scriptUrl: false,
+                disqusConfig: false
+            },
+            options
+        );
+
+        laziness = options.laziness + 1;
+        throttleTO = options.throttle;
+        disqusConfig = options.disqusConfig;
+        scriptUrl = scriptUrl === false ? options.scriptUrl : scriptUrl; // set it only once
+        $instance = (typeof element == "string" ? $(element) : element).eq(0);
+
+        $instance.data("disqusLoaderStatus", "unloaded");
+
+        init();
+    };
+})(jQuery, window, document);
+
+</script>
+
+<!--
+<section class="disqus">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
-        var disqus_shortname = 'judsonlmoore'; 
+        var disqus_shortname = "judsonlmoore";
         var disqus_developer = 0;
         (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            var dsq = document.createElement("script");
+            dsq.type = "text/javascript";
+            dsq.async = true;
+            dsq.src =
+                window.location.protocol +
+                "//" +
+                disqus_shortname +
+                ".disqus.com/embed.js";
+            (
+                document.getElementsByTagName("head")[0] ||
+                document.getElementsByTagName("body")[0]
+            ).appendChild(dsq);
         })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    <noscript
+        >Please enable JavaScript to view the
+        <a href="http://disqus.com/?ref_noscript"
+            >comments powered by Disqus.</a
+        ></noscript
+    >
+    <a href="http://disqus.com" class="dsq-brlink"
+        >comments powered by <span class="logo-disqus">Disqus</span></a
+    >
 </section>
+-->
 
             </div>
         </div>
@@ -792,8 +916,6 @@ https://search.google.com/structured-data/testing-tool/u/0/
 
         <script src="/assets/js/mediumish.js"></script>
 
-        
-        <script src="/assets/js/lazyload.js"></script>
         
 
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
