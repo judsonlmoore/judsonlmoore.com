@@ -139,6 +139,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+cloudinary_url: https://res.cloudinary.com/judsonlmoore-com/image/fetch/
+img_transform_post_feature: c_fill,g_auto,f_auto,q_auto,w_800
+
 #jekyll-loudinary https://nhoizey.github.io/jekyll-cloudinary/
 cloudinary:
   cloud_name: judsonlmoore-com

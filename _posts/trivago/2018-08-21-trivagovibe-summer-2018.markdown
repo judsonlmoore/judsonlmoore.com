@@ -10,7 +10,7 @@ hidden:			true
 description:	I made my European debut as a solo drummer / performer during trivago's bi-annual trivagoVibe concert in Düsseldorf, Germany this summer.
 excerpt:		I was honored with the opportunity to headline the bi-annual trivagoVibe this summer.
 layout:			post
-image:			../assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
+image:			assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
 
 
 ---
