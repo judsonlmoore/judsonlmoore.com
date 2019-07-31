@@ -49,16 +49,9 @@ post_class: post-template
             {% endif %}
             <!-- End Adsense -->
 
-
-            <!-- Post Featured Image 
-
-            <img class="featured-image img-fluid cloudinary" src="{% if page.image contains "://" %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-
-             End Featured Image -->
-
-
-            {% cloudinary "{{ page.image }}" alt="{{ page.title }}" %}
-
+            <!-- START srcset -->
+            {% include srcset.html %}
+            <!-- END srcset -->
 
             <!-- Post Featured Image -->
             {% if page.image %}

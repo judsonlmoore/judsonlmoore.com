@@ -145,7 +145,7 @@ img_transform_post_feature: c_fill,g_auto,f_auto,q_auto,w_800
 #jekyll-loudinary https://nhoizey.github.io/jekyll-cloudinary/
 cloudinary:
   cloud_name: judsonlmoore-com
-  only_prod: true
+  only_prod: false
   verbose: true
   #origin_url:
   presets:
@@ -161,6 +161,30 @@ cloudinary:
         loading: "auto"
         style: "height: auto"
     half:
+      min_width: 320
+      max_width: 1600
+      max_height: 100%
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width: 25rem) 25rem, 50vw"
+      figure: auto
+      attributes:
+        class: "post-image half"
+        loading: "auto"
+        style: "height: auto"
+    post-hero:
+      min_width: 320
+      max_width: 800
+      max_height: 100%
+      fallback_max_width: 800
+      steps: 3
+      sizes: "(min-width: 25rem) 25rem, 50vw"
+      figure: auto
+      attributes:
+        class: "featured-image img-fluid"
+        loading: "auto"
+        style: "height: auto"
+    jumbotron:
       min_width: 320
       max_width: 1600
       max_height: 100%
