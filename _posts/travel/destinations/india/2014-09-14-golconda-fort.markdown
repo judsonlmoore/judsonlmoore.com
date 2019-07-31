@@ -5,7 +5,7 @@ categories:		Hyderabad
 tags:			architecture, fort, history, india, ruins
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

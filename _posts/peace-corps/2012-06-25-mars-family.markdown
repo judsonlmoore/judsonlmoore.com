@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, friends, kyrgyz culture, kyrgyzstan
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

@@ -5,7 +5,7 @@ categories:		germany
 tags:			europe, germany, reunion, train
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

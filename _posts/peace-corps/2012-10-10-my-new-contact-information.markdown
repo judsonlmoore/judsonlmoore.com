@@ -5,7 +5,7 @@ categories:		interests
 tags:			about me, contact info, judson l moore
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

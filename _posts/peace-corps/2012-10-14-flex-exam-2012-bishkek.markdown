@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			accels, bishkek, flex, kyrgyzstan, testing
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

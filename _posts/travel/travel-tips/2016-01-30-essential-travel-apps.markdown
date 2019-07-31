@@ -6,7 +6,7 @@ tags:			whileyoung
 author:			judsonlmoore
 excerpt:		This suite of awesome travel apps will get you the information you need, when you need it while traveling around the world.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

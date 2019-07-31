@@ -5,7 +5,7 @@ categories:		kyrgyzstan
 tags:			bishkek, danger, peace corps, road to bishkek, talas, travel, winter
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

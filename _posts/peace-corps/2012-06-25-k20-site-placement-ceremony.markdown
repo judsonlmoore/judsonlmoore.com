@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			k20, kyrgyzstan, peace corps, pst, site placement
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

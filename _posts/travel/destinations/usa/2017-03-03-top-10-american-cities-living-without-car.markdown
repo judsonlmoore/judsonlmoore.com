@@ -6,7 +6,7 @@ tags:			living without a car, ranking, report, top 10, transportation, walking
 author:			judsonlmoore
 excerpt:		Living without a car is the new American dream established by Millennials seeking a more efficient life. Here are the top cities where dreams come true.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

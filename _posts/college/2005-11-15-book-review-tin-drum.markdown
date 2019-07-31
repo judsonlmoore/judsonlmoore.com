@@ -5,7 +5,7 @@ categories:		college papers
 tags:			Germany
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

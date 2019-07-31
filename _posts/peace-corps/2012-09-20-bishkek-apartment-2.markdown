@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			apartment, bishkek, kyrgyzstan, lifestyle, living conditions, peace corps
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

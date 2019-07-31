@@ -6,7 +6,7 @@ tags:			culture, dancing, dandiya, fun, hyderabad, india
 author:			judsonlmoore
 excerpt:		The Dandiya Festival is an Indian celebration of an ancient battle. The music is percussion-driven and the dance reflects the bravery and honor of battle.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

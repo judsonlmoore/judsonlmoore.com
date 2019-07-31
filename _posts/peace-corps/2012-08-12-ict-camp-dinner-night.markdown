@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, dinner party, friends, ict, jinga, kyrgyz culture, kyrgyzstan
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

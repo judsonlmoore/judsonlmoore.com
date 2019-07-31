@@ -6,7 +6,7 @@ tags:			bishkek, kyrgyzstan, peace corps, service above self, talas
 author:			judsonlmoore
 excerpt:		I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

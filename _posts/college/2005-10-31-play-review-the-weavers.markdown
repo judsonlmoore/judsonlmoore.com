@@ -4,7 +4,7 @@ date:			2005-10-31 08:00:00 Z
 categories:		college papers
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

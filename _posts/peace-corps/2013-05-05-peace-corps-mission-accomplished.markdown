@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, kyrgyzstan, life goal, peace corps, rpcv, talas
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

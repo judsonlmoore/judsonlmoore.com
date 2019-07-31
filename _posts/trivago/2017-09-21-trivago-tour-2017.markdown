@@ -6,7 +6,7 @@ tags:			#lifeattrivago, copenhagen, denmark, norway, road trip, travel tale
 author:			judsonlmoore
 excerpt:		The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about the surprise concerts, unknown destinations, and jumping with moose!
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, christmas, holiday, kyrgyzstan, orthodox, religion
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

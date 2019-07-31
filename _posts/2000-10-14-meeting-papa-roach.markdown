@@ -7,7 +7,7 @@ author:			judsonlmoore
 excerpt:		I met Papa Roach in Hamburg on the last night of their first European tour,
   and had one of the best nights of my entire life!
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

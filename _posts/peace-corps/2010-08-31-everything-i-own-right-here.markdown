@@ -4,7 +4,7 @@ date:			2010-08-31 14:03:16 Z
 categories:		interests
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/2010/08/everything-i-own-right-here.jpg
+image:			2010/08/everything-i-own-right-here.jpg
 
 
 ---

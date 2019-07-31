@@ -5,7 +5,7 @@ categories:		bishkek
 tags:			bishkek, graffiti, kyrgyz culture, kyrgyzstan, photos
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

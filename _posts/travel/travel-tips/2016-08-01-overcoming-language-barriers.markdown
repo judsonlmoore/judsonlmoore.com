@@ -5,7 +5,7 @@ categories:		adventure
 author:			judsonlmoore
 excerpt:		Language barriers are hard to overcome but with these simple tips you will find yourself speaking and comprehending in no time!
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

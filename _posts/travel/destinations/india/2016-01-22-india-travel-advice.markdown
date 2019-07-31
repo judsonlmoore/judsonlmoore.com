@@ -6,7 +6,7 @@ categories:		adventure
 author:			judsonlmoore
 excerpt:		India is a wonderfully diverse and beautifully colorful country. I have traveled throughout India and have compiled my best advice here.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

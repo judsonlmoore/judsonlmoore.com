@@ -5,7 +5,7 @@ categories:		turkey
 author:			judsonlmoore
 excerpt:		If you find yourself having a weekend in Istanbul, Turkey, then this is the guide for you! I was there just three days but saw a huge amount of sites.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

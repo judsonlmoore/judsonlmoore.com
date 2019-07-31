@@ -5,7 +5,7 @@ categories:		college papers
 tags:			Politics
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---
@@ -126,7 +126,7 @@ Mcnamara, Robert S., and James G. Blight. _Wilson’s Ghost: Reducing the Risk o
 
 Needler, Martin C. _The Concepts of Comparative Politics_. Westport, CT: Praeger, 1991.
 
-“_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.image:			../assets/images/
+“_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.image:			
 
 
 ### Footnotes

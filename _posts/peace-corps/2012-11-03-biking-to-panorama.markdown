@@ -5,7 +5,7 @@ categories:		bishkek
 tags:			biking, bishkek, fun, kyrgyzstan, sports
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

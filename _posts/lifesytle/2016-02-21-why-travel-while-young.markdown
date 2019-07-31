@@ -6,7 +6,7 @@ tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Learn why travel at a young age is a critical foundation for developing skill, independence, and for ensuring a prosperous life.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

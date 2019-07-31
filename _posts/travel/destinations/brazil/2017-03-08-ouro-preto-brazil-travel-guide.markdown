@@ -6,7 +6,7 @@ tags:			brazil, historic sites, travel tips
 author:			judsonlmoore
 excerpt:		Ouro Preto Brazil is the best preserved colonial city in South America. Today, it is a treasure of riches, architecture and revolutionary history.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

@@ -6,7 +6,7 @@ tags:			architecture, bishkek, kyrgyzstan, photos
 author:			judsonlmoore
 excerpt:		On a perfect morning in Bishkek, the capital city of Kyrgyzstan in the heart of Central Asia, I grabbed a camera and went on a tour to capture some beauty.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

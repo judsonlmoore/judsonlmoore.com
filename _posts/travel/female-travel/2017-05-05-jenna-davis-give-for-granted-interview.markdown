@@ -6,7 +6,7 @@ tags:			female travel, inspiration, interview
 author:			judsonlmoore
 excerpt:		Jenna Davis is founder of Give For Granted, a sustainable travel blog about giving back to Earth via travel. Read this interview of how she rose to success.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

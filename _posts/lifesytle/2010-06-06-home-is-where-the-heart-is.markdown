@@ -5,7 +5,7 @@ categories:		los angeles
 author:			judsonlmoore
 excerpt:		My heart has found a new place to call home in Los Angeles and I owe it all to this very special group of community leaders and humanitarians.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

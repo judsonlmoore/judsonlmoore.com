@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan, party, wedding
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

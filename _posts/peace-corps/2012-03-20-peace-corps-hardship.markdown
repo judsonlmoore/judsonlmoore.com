@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			lifestyle, peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

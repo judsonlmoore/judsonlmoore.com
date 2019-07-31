@@ -6,7 +6,7 @@ tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Living without a car in America may seem unpatriotic or even impossible, but with these basic tips, you too can live a blissful and car-free life!
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, holidays, peace corps
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

@@ -6,7 +6,7 @@ author:			judsonlmoore
 excerpt:		A lost or stolen passport can be one of the most panic-inducing realizations
   a traveler can encounter. This happens everyday, and there is a clear solution.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

@@ -5,7 +5,7 @@ categories:		alexandria
 author:			judsonlmoore
 excerpt:		16 years after the Rotary Club of Alexandria sponsored me as a Youth Exchange Student, I have finally become a Rotarian myself. Here, I say thank you.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

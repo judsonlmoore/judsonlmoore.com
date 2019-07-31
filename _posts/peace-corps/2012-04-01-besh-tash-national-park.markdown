@@ -5,7 +5,7 @@ categories:		talas
 tags:			besh tash, hiking, kyrgyzstan, peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

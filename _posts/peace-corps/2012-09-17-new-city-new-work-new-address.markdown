@@ -6,7 +6,7 @@ tags:			bishkek, kloop, kyrgyzstan, peace corps, site change
 author:			judsonlmoore
 excerpt:		I am moving To Bishkek, Kyrgyzstan to continue to the next step of my Peace Corps Service. Get all of my new details and learn about my new project here.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

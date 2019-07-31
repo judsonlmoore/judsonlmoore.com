@@ -5,7 +5,7 @@ categories:		india
 tags:			adventure, architectur, best places, india
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

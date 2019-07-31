@@ -5,7 +5,7 @@ categories:		germany
 author:			judsonlmoore
 excerpt:		The wide array of wineries, beautiful scenery, and friendly wine masters make German Wine Country a must-taste destination.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

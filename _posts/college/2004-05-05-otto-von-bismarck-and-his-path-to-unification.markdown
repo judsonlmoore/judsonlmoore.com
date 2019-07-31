@@ -5,7 +5,7 @@ categories:		college papers
 tags:			austro-prussian war, germany, otto von bismarck, politics, prussia, research paper
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

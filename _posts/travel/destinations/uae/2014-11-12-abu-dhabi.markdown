@@ -6,7 +6,7 @@ tags:			adventure, bucket list, heritage, travel, uae
 author:			judsonlmoore
 excerpt:		A 36-hour layover in Abu Dhabi became one of the most interesting and spontaneous adventures of my life! Check out all the awesome things you can do too.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

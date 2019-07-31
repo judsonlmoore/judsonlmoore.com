@@ -4,7 +4,7 @@ date:			2011-06-24 09:33:05 Z
 categories:		philanthropy
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

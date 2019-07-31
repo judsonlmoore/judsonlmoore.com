@@ -5,7 +5,7 @@ categories:		music
 tags:			celebrity encounter, music
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

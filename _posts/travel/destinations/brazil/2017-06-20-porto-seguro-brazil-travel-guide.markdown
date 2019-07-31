@@ -6,7 +6,7 @@ tags:			beach, brazil, south america, travel guide
 author:			judsonlmoore
 excerpt:		Porto Seguro is where Portuguese colonialists discovered Brazil. Full of history, this coastal town has the perfect mix of beach, activity, and history.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

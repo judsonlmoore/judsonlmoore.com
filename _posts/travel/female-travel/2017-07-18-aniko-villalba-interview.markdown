@@ -6,7 +6,7 @@ tags:			argentina, backpacking, female travel, inspiration, interview, south ame
 author:			judsonlmoore
 excerpt:		Aniko Villalba and I got to talking about being digital nomads, solo travel, female travel, and what it really means to live the dream of a global citizen.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

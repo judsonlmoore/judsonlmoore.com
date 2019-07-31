@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			kyrgyzstan, peace corps, radiomost, talas
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

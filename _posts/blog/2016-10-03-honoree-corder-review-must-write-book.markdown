@@ -6,7 +6,7 @@ author:			judsonlmoore
 description:	If you've ever considered writing a book on but don't know where to start or how to finish, then You Must Write A Book, by Honorée Corder, is a must-read.
 excerpt:		If you've ever considered writing a book on but don't know where to start or how to finish, then You Must Write A Book, by Honorée Corder, is a must-read.
 layout:			post
-image:			../assets/images/2016/10/you-must-write-a-book-by-honoree-corder.jpeg
+image:			2016/10/you-must-write-a-book-by-honoree-corder.jpeg
 
 
 ---

@@ -6,7 +6,7 @@ tags:			central asia, hiking, nature
 author:			judsonlmoore
 layout:			post
 
-image:			../assets/images/
+image:			
 
 
 ---

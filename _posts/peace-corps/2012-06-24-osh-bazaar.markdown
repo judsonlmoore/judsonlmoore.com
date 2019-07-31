@@ -5,7 +5,7 @@ categories:		bishkek
 tags:			bishkek, central asia, kyrgyzstan, osh bazaar, peace corps, shopping
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

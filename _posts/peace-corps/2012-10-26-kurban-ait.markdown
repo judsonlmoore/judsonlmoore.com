@@ -5,7 +5,7 @@ categories:		bishkek
 tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

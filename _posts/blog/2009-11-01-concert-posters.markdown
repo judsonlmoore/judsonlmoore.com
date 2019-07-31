@@ -4,7 +4,7 @@ date:			2009-11-01 19:44:51 Z
 categories:		tcb concerts
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

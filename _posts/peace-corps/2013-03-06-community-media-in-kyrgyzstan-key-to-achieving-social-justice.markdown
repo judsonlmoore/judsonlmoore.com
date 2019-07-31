@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, central asia, kyrgyzstan, peace corps, projects, service, talas, un, unesco
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

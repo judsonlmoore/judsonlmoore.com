@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			BarCamp, bishkek, kyrgyzstan, peace corps, technology
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/2012/10/barcampbishkek1.png
+image:			2012/10/barcampbishkek1.png
 
 
 ---

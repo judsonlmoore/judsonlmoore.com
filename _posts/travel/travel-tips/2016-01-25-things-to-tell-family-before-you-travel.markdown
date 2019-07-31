@@ -6,7 +6,7 @@ tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Before you travel use these tips for keeping your family informed without making them overly concerned and without driving yourself crazy in the process.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

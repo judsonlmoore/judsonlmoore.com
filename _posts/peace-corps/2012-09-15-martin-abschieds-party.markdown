@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, kyrgyzstan, ,artin, party, sie germans
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

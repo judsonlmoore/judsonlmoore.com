@@ -6,7 +6,7 @@ tags:			career, challenge, construction, facility, hyderabad, india, mutual mobi
 author:			judsonlmoore
 excerpt:		Mutual Mobile sent me to India for 6 moths to build a new office in Hyderabad India. This is the story of the collaborative process to create this space.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			birthday, culture, germans, kyrgyzstan, party, talas
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

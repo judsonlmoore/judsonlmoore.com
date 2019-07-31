@@ -185,7 +185,7 @@ And yes, you can get married here, too!
 
 - **Official Website:** [thechurch.ie](http://thechurch.ie/)
 
-{% include image.html alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." file="../assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg" description=" The Church Bar in Dublin Ireland" %}image:			../assets/images/
+{% include image.html alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." file="../assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg" description=" The Church Bar in Dublin Ireland" %}
 
 back to top
 

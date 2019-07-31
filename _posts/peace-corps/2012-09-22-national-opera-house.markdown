@@ -5,7 +5,7 @@ categories:		bishkek
 tags:			architecture, bishkek, kyrgyzstan, peace corps
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

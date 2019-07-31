@@ -6,7 +6,7 @@ tags:			adventure, bucket list, india, travel, trekking
 author:			judsonlmoore
 excerpt:		Half a day's drive north of New Delhi you find yourself scaling the foothills of the Himalayan Mountains. Once you reach Manali, you know you're there.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

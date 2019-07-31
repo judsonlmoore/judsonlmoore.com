@@ -4,7 +4,7 @@ date:			2010-03-19 07:39:00 Z
 categories:		interests
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

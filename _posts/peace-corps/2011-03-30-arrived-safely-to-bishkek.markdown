@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, peace corps
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

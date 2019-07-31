@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, ict, irex, kyrgyzstan, peace corps, technology, training
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

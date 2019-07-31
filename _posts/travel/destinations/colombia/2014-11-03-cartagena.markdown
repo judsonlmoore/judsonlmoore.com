@@ -6,7 +6,7 @@ tags:			colombia, reunion, rotary, rye, south america, travel
 author:			judsonlmoore
 excerpt:		Cartagena is a historic city on the Caribbean coast of Colombia full of culture, music, seafood and great times for great people!
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

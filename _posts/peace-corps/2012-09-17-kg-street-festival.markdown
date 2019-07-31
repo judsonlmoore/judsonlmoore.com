@@ -5,7 +5,7 @@ categories:		bishkek
 tags:			bishkek, festivals, kyrgyz culture, kyrgyzstan, peace corps, street festival
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

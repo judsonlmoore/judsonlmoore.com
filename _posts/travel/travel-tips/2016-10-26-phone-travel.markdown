@@ -5,7 +5,7 @@ categories:		adventure
 author:			judsonlmoore
 excerpt:		International phone travel can be expensive or even scary. Follow these best practices to ensure you get the most out of your phone and avoid extra charges.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

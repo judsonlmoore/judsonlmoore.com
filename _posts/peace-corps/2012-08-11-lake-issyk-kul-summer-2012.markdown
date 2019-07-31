@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			issyk-kul, kyrgyzstan, lake issyk-kul, peace corps
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

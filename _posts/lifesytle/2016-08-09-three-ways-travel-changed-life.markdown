@@ -6,7 +6,7 @@ author:			bobmoore
 description:	My father tells of a romantic encounter from his youth while traveling in the Caribbean Islands which forever changed his life.
 excerpt:		My father tells of a romantic encounter from his youth while traveling in the Caribbean Islands which forever changed his life.
 layout:			post
-image:			../assets/images/2016/08/bob-moore-college.jpeg.jpg
+image:			2016/08/bob-moore-college.jpeg.jpg
 
 
 ---

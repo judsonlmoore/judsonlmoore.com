@@ -5,7 +5,7 @@ categories:		philanthropy
 tags:			austin, brazos tech district, community, mutual mobile, publications
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

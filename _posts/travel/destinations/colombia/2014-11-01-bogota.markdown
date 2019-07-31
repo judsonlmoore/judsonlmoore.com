@@ -6,7 +6,7 @@ tags:			colombia, reunion, rotary, rye, south america, travel
 author:			judsonlmoore
 excerpt:		In Colombia's capital city, Bogotá, one finds themselves taken to a time when romance lived permanently in the air and anything was possible.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

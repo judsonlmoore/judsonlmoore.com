@@ -6,7 +6,7 @@ tags:			    backpacking, beach, brazil, south america, travel guide
 author:		   	judsonlmoore
 excerpt:	   	Florianopolis Brazil is a magnificent city with a blend of beach, surfing, adventure sport, and a modern city driving Brazilian innovation.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

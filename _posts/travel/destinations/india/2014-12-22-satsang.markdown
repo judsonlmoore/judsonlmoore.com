@@ -5,7 +5,7 @@ categories:		hyderabad
 author:			judsonlmoore
 excerpt:		Satsang Vihar in Hyderabad India is a holy place which welcomed me to their anniversary festival and honored me in the most surprising of ways.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

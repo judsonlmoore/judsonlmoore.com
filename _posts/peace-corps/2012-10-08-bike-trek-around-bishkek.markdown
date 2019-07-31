@@ -6,7 +6,7 @@ categories:		bishkek
 tags:			architecture, biking, bishkek, kyrgyzstan, photos
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

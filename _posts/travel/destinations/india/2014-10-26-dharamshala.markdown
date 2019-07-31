@@ -6,7 +6,7 @@ tags:			adventure, dalai lama, india, mountains, travel, trekking
 author:			judsonlmoore
 excerpt:		Dharamshala is the refuge of the Tibetan people in India. Hospitality shines through their acts, their stories, and their business ethics.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

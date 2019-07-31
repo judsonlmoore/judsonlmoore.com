@@ -6,7 +6,7 @@ tags:			biking, cx, cyclocross, phenom
 author:			judsonlmoore
 excerpt:		Cyclocross is a hybrid road / trail bike sport which combines speed with ruggedness. I am starting to race CX and starting off with Kona's Jake The Snake.
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

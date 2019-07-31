@@ -5,7 +5,7 @@ categories:		hyderabad
 tags:			architecture, india, islam, mosque
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

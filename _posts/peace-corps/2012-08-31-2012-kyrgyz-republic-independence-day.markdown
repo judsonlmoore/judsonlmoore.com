@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, freedom, holiday, kyrgyz culture, kyrgyzstan, peace corps
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---

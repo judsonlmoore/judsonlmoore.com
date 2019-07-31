@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			kyrgyzstan, peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			../assets/images/
+image:			
 
 
 ---
