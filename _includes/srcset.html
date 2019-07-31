@@ -1,12 +1,10 @@
-<img src="{% if page.image contains "://"
-%}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/{{
-page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{
-page.title }}" srcset=" {% if page.image contains "://"
-%}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/{{
-page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %} 320w, {%
-if page.image contains "://"
-%}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/{{
-page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %} 540w, {%
-if page.image contains "://"
-%}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/{{
-page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %} 758w," />
+<img
+	src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/{{ site.baseurl }}/{{ include.src }}"
+	alt="{{ include.alt }}"
+	srcset="
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_320/{{ site.baseurl }}/{{ include.src }} 320w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_540/{{ site.baseurl }}/{{ include.src }} 540w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_758/{{ site.baseurl }}/{{ include.src }} 758w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/{{ site.baseurl }}/{{ include.src }} 800w, 
+	"
+/>
