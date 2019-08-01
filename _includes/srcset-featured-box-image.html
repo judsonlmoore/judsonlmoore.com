@@ -1,0 +1,17 @@
+<img src=" {% if jekyll.environment == 'production' %}
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }}/{{
+site.url }}{{ site.image-path }}{{ post.image }} {% else %} {{ site.url }}/{{
+site.image-path }}{{ post.image }} {% endif %}" class=" {{ include.class }} {%
+if jekyll.environment == 'production' %}prod{% else %}non-prod{% endif %}"
+style="{{ include.style }}" alt="{{ post.title }}" description="{{
+include.description }}" {% if jekyll.environment == 'production' %}
+crossorigin="anonymous" loading="{{ include.loading }}" srcset="
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
+}},w_320/{{ site.url }}{{ site.image-path }}{{ post.image }} 320w,
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
+}},w_540/{{ site.url }}{{ site.image-path }}{{ post.image }} 540w,
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
+}},w_758/{{ site.url }}{{ site.image-path }}{{ post.image }} 758w,
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
+}},w_800/{{ site.url }}{{ site.image-path }}{{ post.image }} 800w, " {% endif %}
+/>
