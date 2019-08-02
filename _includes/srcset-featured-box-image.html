@@ -1,17 +1,17 @@
 <img src=" {% if jekyll.environment == 'production' %}
-https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }}/{{
-site.url }}{{ site.image-path }}{{ post.image }} {% else %} {{ site.url }}/{{
-site.image-path }}{{ post.image }} {% endif %}" class=" {{ include.class }} {%
-if jekyll.environment == 'production' %}prod{% else %}non-prod{% endif %}"
-style="{{ include.style }}" alt="{{ post.title }}" description="{{
-include.description }}" {% if jekyll.environment == 'production' %}
-crossorigin="anonymous" loading="{{ include.loading }}" srcset="
 https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
-}},w_320/{{ site.url }}{{ site.image-path }}{{ post.image }} 320w,
+}}/e_blur:1000,q_1,f_auto/{{ site.url }}{{ site.image-path }}{{ post.image }} {%
+else %} {{ site.url }}/{{ site.image-path }}{{ post.image }} {% endif %}"
+class=" {{ include.class }} {% if jekyll.environment == 'production' %}prod{%
+else %}non-prod{% endif %}" style="{{ include.style }}" alt="{{ post.title }}"
+description="{{ include.description }}" {% if jekyll.environment == 'production'
+%} crossorigin="anonymous" loading="{{ include.loading }}" srcset="
 https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
-}},w_540/{{ site.url }}{{ site.image-path }}{{ post.image }} 540w,
+}},w_275/{{ site.url }}{{ site.image-path }}{{ post.image }} 275w,
 https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
-}},w_758/{{ site.url }}{{ site.image-path }}{{ post.image }} 758w,
+}},w_350/{{ site.url }}{{ site.image-path }}{{ post.image }} 350w,
 https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
-}},w_800/{{ site.url }}{{ site.image-path }}{{ post.image }} 800w, " {% endif %}
+}},w_400/{{ site.url }}{{ site.image-path }}{{ post.image }} 400w,
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params
+}},w_500/{{ site.url }}{{ site.image-path }}{{ post.image }} 500w, " {% endif %}
 />

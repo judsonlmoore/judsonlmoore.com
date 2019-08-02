@@ -5,16 +5,9 @@
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
-                {% if post.image %} {% if site.lazyimages == "enabled" %} <img
-                class="img-fluid lazyimg"
-                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
-                data-src="{% if post.image contains "://" %}{{ site.image-path
-                }}{{ post.image }}{% else %}{{ site.baseurl }}{{ site.image-path
-                }}{{ post.image }}{% endif %}" alt="{{ post.title }}"> {% else
-                %} <img class="img-fluid" src="{% if post.image contains "://"
-                %}{{ site.image-path }}{{ post.image }}{% else %}{{ site.baseurl
-                }}{{ site.image-path }}{{ post.image }}{% endif %}" alt="{{
-                post.title }}"> {% endif %} {% endif %}
+                {% include srcset-featured-box-image.html
+                params="c_scale,f_auto,q_auto,w_416,h_277,g_auto:classic"
+                class="img-fluid" loading="auto" style="" %}
             </a>
         </div>
         <div class="card-body">
