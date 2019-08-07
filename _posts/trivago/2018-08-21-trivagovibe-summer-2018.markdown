@@ -22,6 +22,14 @@ trivago recently moved into [a new spaceship-like campus](https://youtu.be/LQikZ
 
 The lineup of musicians was incredibly impressive. With a range of genres from singer-songwriter, blues, country, rock, and dance music, **there was something for everyone.**
 
+
+{% assign carousels = site.data.carousels %}
+{% assign images = carousels["2018-08-21-trivagovibe-summer-2018"] %}
+{% include carousel.html images=images %}
+
+
+
+
 ## How e-Drums Changed Everything
 
 A few years back while I was [traveling across India](https://www.judsonlmoore.com/india/), **I had an identity crisis**. I came to understand that if I wanted to continue saying, "I am a drummer," instead of, "I _was_ a drummer," then I better start drumming more regularly. My nomadic and apartment-dwelling lifestyle was not conducive to such loud and bulky habits. One night, while laying in bed, I was watching drumming YouTube videos when I came across a [Drumeo video featuring Michael Schack](https://www.youtube.com/watch?v=JqReO5NPN_g), Roland's endorsed artist for their flagship e-drums. I was hooked, and 10-minutes later, I was typing my credit card into eBay where I found a great deal on a Roland TD-30KV drum set.

@@ -1,0 +1,17 @@
+<!-- begin post -->
+{% assign author = site.authors[post.author] %}
+
+<div>
+    <a href="{{ site.baseurl }}{{ post.url }}">
+        <img
+            data-u="image"
+            src="{{ site.baseurl }}assets/images/{{ post.image }}"
+        />
+    </a>
+    <div u="thumb">
+        <a href="{{ site.baseurl }}{{ post.url }}"
+            >{{ post.title }} | {{ post.excerpt | strip_html | truncatewords:25
+            }}</a
+        >
+    </div>
+</div>
