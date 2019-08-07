@@ -4,6 +4,20 @@ permalink: "/categories.html"
 layout: default
 ---
 
+
+<section>
+    <div class="row">
+
+        <div class="col-9 col-md-9">
+            {% include carousel-category.html %}
+        </div>
+        <div class="col-3 col-md-3">
+        	<h2>{{ page.title }}</h2>
+        	<p>Some text</p>
+        </div>
+    </div>
+</section>
+
 <div class="row listrecent">
 {% for category in site.categories %}
 <div class="section-title col-md-12 mt-4">

@@ -25,7 +25,7 @@ The lineup of musicians was incredibly impressive. With a range of genres from s
 
 {% assign carousels = site.data.carousels %}
 {% assign images = carousels["2018-08-21-trivagovibe-summer-2018"] %}
-{% include carousel.html images=images %}
+{% include carousel-post.html images=images %}
 
 
 
