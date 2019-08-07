@@ -40,16 +40,16 @@
                 {% if jekyll.environment == 'production' %}
 
                 <img
-                    src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_800/{{ site.url }}{{ site.image-path }}{{ post.image }}"
+                    src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_800/{{ site.url }}{{ site.image-path }}{{ post.image }}"
                     class="d-block w-100 prod"
                     loading="{{ include.loading }}"
                     alt="{{ post.title }}"
                     crossorigin="anonymous"
                     srcset="
-                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_320/{{ site.url }}{{ site.image-path }}{{ post.image }} 320w, 
-                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_540/{{ site.url }}{{ site.image-path }}{{ post.image }} 540w, 
-                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_758/{{ site.url }}{{ site.image-path }}{{ post.image }} 758w, 
-                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_800/{{ site.url }}{{ site.image-path }}{{ post.image }} 800w, 
+                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_320/{{ site.url }}{{ site.image-path }}{{ post.image }} 320w, 
+                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_540/{{ site.url }}{{ site.image-path }}{{ post.image }} 540w, 
+                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_758/{{ site.url }}{{ site.image-path }}{{ post.image }} 758w, 
+                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_800/{{ site.url }}{{ site.image-path }}{{ post.image }} 800w, 
                     "
                 />
 
