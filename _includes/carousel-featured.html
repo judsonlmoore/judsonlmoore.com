@@ -37,7 +37,32 @@
                     <h5>{{ post.title }}</h5>
                     <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
                 </div>
-                <img class="d-block w-100" src="{% if post.image contains "://" %}{{ site.image-path }}{{ post.image }}{% else %}{{ site.image-path }}{{ post.image }}{% endif %}" alt="{{ post.title }}">
+                {% if jekyll.environment == 'production' %}
+
+                <img
+                    src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_800/{{ site.url }}{{ site.image-path }}{{ post.image }}"
+                    class="d-block w-100 prod"
+                    loading="{{ include.loading }}"
+                    alt="{{ post.title }}"
+                    crossorigin="anonymous"
+                    srcset="
+                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_320/{{ site.url }}{{ site.image-path }}{{ post.image }} 320w, 
+                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_540/{{ site.url }}{{ site.image-path }}{{ post.image }} 540w, 
+                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_758/{{ site.url }}{{ site.image-path }}{{ post.image }} 758w, 
+                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }},w_800/{{ site.url }}{{ site.image-path }}{{ post.image }} 800w, 
+                    "
+                />
+
+                {% else %}
+
+                <img 
+                    src="{{ site. url }}{{ site.image-path }}{{ post.image }}" 
+                    class="d-block w-100 non-prod" 
+                    alt="{{ post.title }}"
+                >
+
+                {% endif %}
+
             </a>
         </div>
         {% endif %}
