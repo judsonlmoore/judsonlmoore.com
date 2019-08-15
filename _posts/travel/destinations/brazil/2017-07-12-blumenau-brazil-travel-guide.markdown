@@ -3,10 +3,11 @@ title:			In the south of Brazil, find Germany in the town of Blumenau
 date:			2017-07-12 10:00:15 Z
 categories:		brazil
 tags:			brazil, craft beer, santa catarina, south america, travel guide, wine
+destination:	Blumenau
 author:			judsonlmoore
 excerpt:		Blumenau is the craft beer capital of Brazil, and is also in the heart of wine country, pulling cultural and architectural inspirations from Germany.
 layout:			post
-image:			
+image:			2017/04/Blumenau-Santa-Catarina-Brazil.jpg
 
 
 ---

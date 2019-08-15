@@ -3,6 +3,7 @@ title:			The Lost City of Petra is More Amazing Than I Ever Imagined
 date:			2018-10-28 10:00:54 Z
 categories:		jordan
 tags:			travel guide
+destination:	Petra
 author:			judsonlmoore
 layout:			post
 featured:		true

@@ -3,10 +3,11 @@ title:        Beach, innovation, and majestic views. Welcome to Florianopolis, B
 date:         2017-07-06 10:00:14 Z
 categories:   brazil
 tags:			    backpacking, beach, brazil, south america, travel guide
+destination:  Florianopolis
 author:		   	judsonlmoore
 excerpt:	   	Florianopolis Brazil is a magnificent city with a blend of beach, surfing, adventure sport, and a modern city driving Brazilian innovation.
 layout:			post
-image:			
+image:			2017/04/Florianópolis-Santa-Catarina-Brazil-Observation-Point.jpg
 
 
 ---

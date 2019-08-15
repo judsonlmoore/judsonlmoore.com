@@ -89,15 +89,6 @@
                 </a>
                 <!-- End Logo -->
 
-                <!-- Begin Logo
-                <a class="navbar-brand" href="{{ site.baseurl }}/">
-                    <img
-                        src="{{ site.baseurl }}/{{ site.logo }}"
-                        alt="{{ site.name }}"
-                    />
-                </a>
-               End Logo -->
-
                 <button
                     class="navbar-toggler"
                     type="button"
@@ -114,26 +105,89 @@
                     <!-- Begin Menu -->
 
                     <ul class="navbar-nav ml-auto">
-                        <!--
-    {% if page.url == "/" %}
-    <li class="nav-item active">
-        {% else %}
-    </li>
-
-    <li class="nav-item">
-        {% endif %}
-        <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
-    </li>
-
-    <li class="nav-item">
-        <a
-            target="_blank"
-            class="nav-link"
-            href="https://www.wowthemes.net/themes/mediumish-ghost/"
-            ><i class="fab fa-snapchat-ghost"></i> Ghost Version</a
-        >
-    </li>
--->
+                        <li class="nav-item dropdown">
+                            <a 
+                                class="nav-link dropdown-toggle" 
+                                href="#" 
+                                id="navbarDropdownMenuLink" 
+                                data-toggle="dropdown" 
+                                aria-haspopup="true" 
+                                aria-expanded="false"
+                                >
+                                Asia
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="/india/">India</a>
+                                <a class="dropdown-item" href="/kyrgyzstan/">Kyrgyzstan</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                class="nav-link dropdown-toggle" 
+                                href="#" 
+                                id="navbarDropdownMenuLink" 
+                                data-toggle="dropdown" 
+                                aria-haspopup="true" 
+                                aria-expanded="false"
+                                >
+                                Europe
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="/england/">England</a>
+                                <a class="dropdown-item" href="/germany/">Germany</a>
+                                <a class="dropdown-item" href="/switzerland/">Switzerland</a>
+                                <a class="dropdown-item" href="/turkey/">Turkey</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                class="nav-link dropdown-toggle" 
+                                href="#" 
+                                id="navbarDropdownMenuLink" 
+                                data-toggle="dropdown" 
+                                aria-haspopup="true" 
+                                aria-expanded="false"
+                                >
+                                MENA
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="/egypt/">Egypt</a>
+                                <a class="dropdown-item" href="/morocco/">Morocco</a>
+                                <a class="dropdown-item" href="/uae/">UAE</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                class="nav-link dropdown-toggle" 
+                                href="#" 
+                                id="navbarDropdownMenuLink" 
+                                data-toggle="dropdown" 
+                                aria-haspopup="true" 
+                                aria-expanded="false"
+                                >
+                                Americas
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="/brazil/">Brazil</a>
+                                <a class="dropdown-item" href="/colombia/">Colombia</a>
+                                <a class="dropdown-item" href="/usa/">USA</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a
+                                class="nav-link"
+                                href="/whileyoung/"
+                                >
+                                #WhileYoung
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                class="nav-link"
+                                href="/female-travel/"
+                                ><i class="fab fa-snapchat-ghost"></i> Female Travel</a
+                            >
+                        </li>
                         {% include search-lunr.html %}
                     </ul>
 
