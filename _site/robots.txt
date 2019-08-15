@@ -1,1 +1,1 @@
-Sitemap: https://dmnqtjz3pqxhv.cloudfront.net/sitemap.xml
+Sitemap: https://nonprod.judsonlmoore.com/sitemap.xml

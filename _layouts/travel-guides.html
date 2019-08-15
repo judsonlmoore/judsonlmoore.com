@@ -4,7 +4,6 @@ permalink: "/travel-guides.html"
 layout: default
 ---
 
-
 <style type="text/css">
 	.jumbotron {
 		color: white;
@@ -21,33 +20,7 @@ layout: default
 		<h1 class="display-4">{{ page.title }}</h1>
 		<p class="lead">{{ page.subtitle }}</p>
 		<p class="lead">
-			<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@getbootstrap">Subscribe now for more {{ page.category }} travel tips</button>
-
-			<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-			  <div class="modal-dialog" role="document">
-			    <div class="modal-content">
-			      <div class="modal-header">
-			        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-			          <span aria-hidden="true">&times;</span>
-			        </button>
-			      </div>
-			      <div class="modal-body">
-			    	{% include opt-in.html %}
-			      </div>
-			    </div>
-			  </div>
-			</div>
-			<script type="text/javascript">
-				$('#exampleModal').on('show.bs.modal', function (event) {
-			  var button = $(event.relatedTarget) // Button that triggered the modal
-			  var recipient = button.data('whatever') // Extract info from data-* attributes
-			  // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
-			  // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
-			  var modal = $(this)
-			  modal.find('.modal-title').text('New message to ' + recipient)
-			  modal.find('.modal-body input').val(recipient)
-			})
-			</script>
+			{% include opt-in-modal.html %}
 		</p>
 	</div>
 </div>
@@ -55,42 +28,35 @@ layout: default
 <section>
 	<div class="row">
 		<div class="col-12 col-md-9">
-		  	{{content}}
+			{{content}}
 		</div>
 		<div class="col-12 col-md-3">
 			<h3>Destinations</h3>
-			{% assign destination = site.posts | where_exp: "item" , "item.categories contains page.category "%}
-		    {% for post in destination %}
-		    {% if post.destination != nil %}
+			{% assign destination = site.posts | where_exp: "item" ,
+			"item.categories contains page.category "%} {% for post in
+			destination %} {% if post.destination != nil %}
 			<ul>
 				<li><a href="{{ post.url }}">{{ post.destination }}</a></li>
 			</ul>
-			{% endif %}
-		    {% endfor %}
+			{% endif %} {% endfor %}
 		</div>
 	</div>
 </section>
 
 <section>
-    <div class="section-title">
-        <h2><span>Posts about {{ page.category }}</span></h2>
-    </div>	
-    <div class="row">
+	<div class="section-title">
+		<h2><span>Posts about {{ page.category }}</span></h2>
+	</div>
+	<div class="row">
 		<div class="col-12 col-md-9">
-		    <div class="row listrecent">
-				{% assign destinationPosts = site.posts | where_exp: "item" , "item.categories contains page.category"%}
-			    {% for post in destinationPosts %}
-			    {% include postbox.html %}
-			    {% endfor %}
-		    </div>
+			<div class="row listrecent">
+				{% assign destinationPosts = site.posts | where_exp: "item" ,
+				"item.categories contains page.category"%} {% for post in
+				destinationPosts %} {% include postbox.html %} {% endfor %}
+			</div>
 		</div>
 		<div class="col-12 col-md-3">
 			{% include sidebar.html %}
 		</div>
 	</div>
 </section>
-
-
-
-
-
