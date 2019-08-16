@@ -1,26 +1,6 @@
-machine:
-  environment:
-    NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
-
-dependencies:
-  post:
-    - bundle exec jekyll build
-
-test:
-  post:
-    - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
-
-deployment:
-  prod:
-    branch: master
-    commands:
-      - rsync -va --delete ./_site username@my-website:/var/html
-
 defaults: &defaults
   working_directory: ~/repo
-
 version: 2
-
 jobs:
   build:
     <<: *defaults
@@ -61,7 +41,7 @@ jobs:
     docker:
       - image: circleci/python:3.6.3
     environment:
-      S3_BUCKET_NAME: <<YOUR BUCKET NAME HERE>>
+      S3_BUCKET_NAME: judsonlmoore-com
     steps:
       - attach_workspace:
           at: ./
@@ -71,7 +51,6 @@ jobs:
       - run:
           name: Upload to s3
           command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --delete --acl public-read
-
 workflows:
   version: 2
   test-deploy:
