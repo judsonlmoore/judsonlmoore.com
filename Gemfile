@@ -28,5 +28,6 @@ group :jekyll_plugins do
     gem 'jekyll-cloudinary'
 	gem 'bootstrap', '~> 4.3.1'
 	gem 'jekyll-include-cache'
+    gem 'html-proofer'
 
 end
