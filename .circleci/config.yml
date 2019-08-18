@@ -15,8 +15,8 @@ jobs:
             - rubygems-v1-{{ checksum "Gemfile.lock" }}
             - rubygems-v1-fallback
       - run:
-          name: Install dependencies
-          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+          name: Bundle Install
+          command: gem install bundler -v 2.0.0.pre1
       - save_cache:
           key: rubygems-v1-{{ checksum "Gemfile.lock" }}
           paths:
