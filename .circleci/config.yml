@@ -16,11 +16,14 @@ jobs:
             - rubygems-v1-fallback
       - run:
           name: Bundle Install
-          command: gem install bundler -v 2.0.0.pre1
+          command: gem install bundler
       - save_cache:
           key: rubygems-v1-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
+      - run:
+          name: bundle install
+          command: bundle install
       - run:
           name: Jekyll build
           command: bundle exec jekyll build
