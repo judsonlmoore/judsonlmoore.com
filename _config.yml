@@ -117,9 +117,6 @@ paginate_path: /page:num/
 markdown: kramdown
 kramdown:
   input: GFM
-
-kramdown:
-  input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
