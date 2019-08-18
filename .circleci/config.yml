@@ -36,12 +36,6 @@ jobs:
       - run:
           name: Remove .html suffixes
           command: find _site -name "*.html" -not -name "index.html" -exec rename -v 's/\.html$//' {} \;
-      - run:
-          name: Index with Algolia
-          command: bundle exec jekyll algolia
-      - store_artifacts:
-          path: run-results/
-          destination: run-results
       - persist_to_workspace:
           root: ~/jekyll
           paths:
