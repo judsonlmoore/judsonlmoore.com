@@ -169,7 +169,9 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap (~> 4.3.1)
+  bundler
   html-proofer
+  jekyll
   jekyll-archives
   jekyll-cloudinary
   jekyll-feed
