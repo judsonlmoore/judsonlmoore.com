@@ -4,7 +4,6 @@ name: Judson L Moore
 description: Author and travel addict
 url: https://nonprod.judsonlmoore.com
 image-path: /assets/images/
-exclude: [vendor]
 author: judsonlmoore
 twitter:
   username: judsonlmoore
@@ -141,6 +140,10 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 cloudinary_url: https://res.cloudinary.com/judsonlmoore-com/image/fetch/
 img_transform_post_feature: c_fill,g_auto,f_auto,q_auto,w_800
