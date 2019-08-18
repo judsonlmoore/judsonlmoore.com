@@ -59,26 +59,6 @@ jobs:
       - run:
           name: Deploy to S3
           command: aws s3 sync _site s3://judsonlmoore-com/ --delete --content-type=text/html
-      - run:
-          name: Correct MIME for robots.txt automatically
-          command: aws s3 cp s3://judsonlmoore-com/robots.txt s3://judsonlmoore-com/robots.txt --metadata-directive="REPLACE"
-      - run:
-          name: Correct MIME for sitemap.xml automatically
-          command: aws s3 cp s3://judsonlmoore-com/sitemap.xml s3://judsonlmoore-com/sitemap.xml --metadata-directive="REPLACE"
-      - run:
-          name: Correct MIME for Atom feed manually
-          command: aws s3 cp s3://judsonlmoore-com/feed.xml s3://judsonlmoore-com/feed.xml --no-guess-mime-type --content-type="application/atom+xml" --metadata-directive="REPLACE"
-      - run:
-          name: Redirect /damieng for existing RSS subscribers
-          command: aws s3api put-object --bucket judsonlmoore-com --key "damieng" --website-redirect-location "https://damieng.com/feed.xml"
-      - run:
-          name: Latest Envy Code R redirect
-          command: aws s3api put-object --bucket judsonlmoore-com --key "envy-code-r" --website-redirect-location "https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released"
-      - run:
-          name: Correct MIME for CSS files
-          command: |
-            aws s3 cp s3://judsonlmoore-com/css/damieng.css s3://judsonlmoore-com/css/damieng.css --metadata-directive="REPLACE"
-            aws s3 cp s3://judsonlmoore-com/css/dracula.css s3://judsonlmoore-com/css/dracula.css --metadata-directive="REPLACE"
 workflows:
   version: 2
   build-deploy:
