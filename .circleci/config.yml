@@ -13,6 +13,14 @@ jobs:
       - restore_cache:
           key: jekyll-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
       - run:
+        name: Install Bundler
+        command: |
+          gem install bundler
+          bundle update --bundler
+      - run:
+        name: Bundle Install
+        command: bundle check || bundle install
+      - run:
           name: Install dependencies
           command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
       - save_cache:
