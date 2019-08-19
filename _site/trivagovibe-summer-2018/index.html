@@ -55,6 +55,31 @@
         <script src="/assets/js/jquery.min.js"></script>
     </head>
 
+    
+    <!-- change your GA id in _config.yml -->
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i["GoogleAnalyticsObject"] = r;
+            (i[r] =
+                i[r] ||
+                function() {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }),
+                (i[r].l = 1 * new Date());
+            (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m);
+        })(
+            window,
+            document,
+            "script",
+            "//www.google-analytics.com/analytics.js",
+            "ga"
+        );
+        ga("create", "", "auto");
+        ga("send", "pageview");
+    </script>
      
     <body class="layout-post">
         <!-- defer loading of font and font awesome -->
@@ -303,7 +328,7 @@
             
             <!-- End Adsense -->
 
-            <!-- development -->
+            <!-- production -->
 
             <!-- Post Featured Image -->
             
@@ -311,11 +336,19 @@
             
 
 <img
-	src="https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg"
-	class="featured-image img-fluid non-prod"
-	alt="DRUMSON performs live at the trivagoVibe"
+	src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_800/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg"
+	class="featured-image img-fluid prod"
+	loading="auto"
 	style="height: auto"
+	alt="DRUMSON performs live at the trivagoVibe"
 	description=""
+	crossorigin="anonymous"
+	srcset="
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_320/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg 320w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_540/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg 540w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_758/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg 758w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_800/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg 800w, 
+	"
 />
 
 
@@ -418,7 +451,7 @@
 
 <p>And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum &gt;BOOM&lt; we all knew we struck gold. <strong>This. Drum set. Sounds. AMAZING. Live!</strong> Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.</p>
 
-<p><img src="https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg" class="post-image full" loading="auto" style="height: auto" description=" Janine (Avocadogate) sound checks on the Roland TD-30KV" alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" width="2048" height="1536" crossorigin="anonymous" /></p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_320/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg 320w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_640/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg 640w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_960/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg 960w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1280/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg 1280w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1600/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg 1600w" sizes="(min-width: 50rem) 50rem, 100vw" class="post-image full" loading="auto" style="height: auto" description=" Janine (Avocadogate) sound checks on the Roland TD-30KV" alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" width="2048" height="1536" crossorigin="anonymous" /></p>
 
 <h2 id="musical-talent-of-trivago-the-lineup">Musical Talent of trivago: The Lineup</h2>
 
@@ -440,7 +473,15 @@
   <p><strong>Update:</strong> Checkout the official website for Drumson at <a href="https://drumson.de">https://drumson.de</a>!</p>
 </blockquote>
 
-<p><img src="https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg" class="post-image full" loading="auto" style="height: auto" alt="Drumson performs a solo show at the 2018 trivagoVibe!" width="2048" height="1536" crossorigin="anonymous" /></p>
+<figure class="post-image full" loading="auto" style="height: auto">
+<img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_320/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 320w,
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_640/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 640w,
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_960/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 960w,
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1280/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 1280w,
+https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1600/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg 1600w" sizes="(min-width: 50rem) 50rem, 100vw" alt="Drumson performs a solo show at the 2018 trivagoVibe!" width="2048" height="1536" />
+<figcaption><p>Drumson performs a solo show at the 2018 trivagoVibe</p>
+</figcaption>
+</figure>
 
 <h2 id="watchvideo-footage-from-my-first-drumson-performance">Watch Video Footage from my First DRUMSON Performance</h2>
 
@@ -458,7 +499,7 @@
 
 <p>Until then, please leave me your thoughts in the comments below, and you can always reach me directly on <a href="https://www.facebook.com/JudsonLMooreBlog/">Facebook</a> and <a href="https://twitter.com/judsonlmoore">Twitter</a>!</p>
 
-<p><img src="https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg" class="post-image full" loading="auto" style="height: auto" alt="" description="" width="1440" height="1080" crossorigin="anonymous" /></p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_320/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg 320w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_640/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg 640w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_960/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg 960w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1280/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg 1280w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_1440/https://nonprod.judsonlmoore.com/assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg 1440w" sizes="(min-width: 50rem) 50rem, 100vw" class="post-image full" loading="auto" style="height: auto" alt="" description="" width="1440" height="1080" crossorigin="anonymous" /></p>
 
             </div>
 

@@ -55,6 +55,31 @@
         <script src="/assets/js/jquery.min.js"></script>
     </head>
 
+    
+    <!-- change your GA id in _config.yml -->
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i["GoogleAnalyticsObject"] = r;
+            (i[r] =
+                i[r] ||
+                function() {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }),
+                (i[r].l = 1 * new Date());
+            (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m);
+        })(
+            window,
+            document,
+            "script",
+            "//www.google-analytics.com/analytics.js",
+            "ga"
+        );
+        ga("create", "", "auto");
+        ga("send", "pageview");
+    </script>
      
     <body class="layout-post">
         <!-- defer loading of font and font awesome -->
@@ -303,7 +328,7 @@
             
             <!-- End Adsense -->
 
-            <!-- development -->
+            <!-- production -->
 
             <!-- Post Featured Image -->
             
@@ -311,11 +336,19 @@
             
 
 <img
-	src="https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg"
-	class="featured-image img-fluid non-prod"
-	alt="Everything I Own, Right Here."
+	src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_800/https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg"
+	class="featured-image img-fluid prod"
+	loading="auto"
 	style="height: auto"
+	alt="Everything I Own, Right Here."
 	description=""
+	crossorigin="anonymous"
+	srcset="
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_320/https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg 320w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_540/https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg 540w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_758/https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg 758w, 
+		https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,w_800/https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg 800w, 
+	"
 />
 
 
@@ -329,7 +362,7 @@
                 <!-- Toc if any -->
                 
                 <!-- End Toc -->
-                <p><img src="https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg" class="post-image full" loading="auto" style="height: auto" alt="" description="" width="480" height="640" crossorigin="anonymous" /></p>
+                <p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_800/https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_320/https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg 320w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_limit,f_auto,q_auto,w_480/https://nonprod.judsonlmoore.com/assets/images/2010/08/everything-i-own-right-here.jpg 480w" sizes="(min-width: 50rem) 50rem, 100vw" class="post-image full" loading="auto" style="height: auto" alt="" description="" width="480" height="640" crossorigin="anonymous" /></p>
 
 <p>Thats right.  I finally did it.  I am down to a backpack and a suitcase!  (well, a backpack, and 2 suitcases…) The boxes in the middle are to be shipped to my parent’s house for long-term storage.  The suitcases and backpack are all I am living out of now.  My goal is to get down to the small suitcase and my backpack, and nothing else.</p>
 

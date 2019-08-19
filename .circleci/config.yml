@@ -26,7 +26,7 @@ jobs:
           command: bundle install
       - run:
           name: Jekyll build
-          command: bundle exec jekyll build
+          command: JEKYLL_ENV=production bundle exec jekyll build
       #- run:
       #    name: HTMLProofer tests
       #    command: |
