@@ -54,7 +54,18 @@ post_class: post-template
             <!-- Post Featured Image -->
             {% if page.image %}
 
-            {% include srcset-post-featured-image.html params="c_fill" class="featured-image img-fluid" loading="auto" style="height: auto" %} 
+                {% include srcset-page.html 
+                    params="c_fill" 
+                    class="featured-image img-fluid" 
+                    loading="auto" 
+                    style="height: auto" 
+                    width0="800"
+                    width1="320" 
+                    width2="540" 
+                    width3="758" 
+                    width4="800" 
+                    width5="1000" 
+                %}
 
             {% endif %}
             <!-- End Featured Image -->

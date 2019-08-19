@@ -7,16 +7,11 @@
                 <div class="h-100">
                     <div class="wrapthumbnail">
                         <a href="{{ site.baseurl }}{{ post.url }}">
-                            {% if site.lazyimages == "enabled" %} <img
-                            class="featured-box-img-cover lazyimg"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
-                            data-src="{% if post.image contains "://" %}{{
-                            post.image }}{% else %}{{ site.baseurl }}{{
-                            post.image }}{% endif %}"> {% else %} <img
-                            class="featured-box-img-cover" src="{% if post.image
-                            contains "://" %}{{ site.image-path }}{{ post.image
-                            }}{% else %}{{ site.image-path }}{{ post.image }}{%
-                            endif %}"> {% endif %}
+                            {% include srcset-post.html params="c_fill"
+                            class="featured-box-img-cover" loading="auto"
+                            style="height: auto" width0="800" width1="320"
+                            width2="540" width3="758" width4="800" width5="1000"
+                            %}
                         </a>
                     </div>
                 </div>

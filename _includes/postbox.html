@@ -5,9 +5,11 @@
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
-                {% include srcset-featured-box-image.html
-                params="c_fill,f_auto,q_auto,w_416,h_277,g_auto:classic"
-                class="img-fluid" loading="auto" style="" %}
+                {% include srcset-post.html
+                params="c_fill,f_auto,q_auto,g_auto:classic,h_277"
+                class="img-fluid" loading="auto" style="height: auto"
+                width0="416" width1="320" width2="540" width3="758" width4="800"
+                width5="1000" %}
             </a>
         </div>
         <div class="card-body">
