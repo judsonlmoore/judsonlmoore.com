@@ -1,11 +1,11 @@
 ---
 title:			Charminar
 date:			2014-09-13 13:41:39 Z
-categories:		hyderabad
+categories:		india
 tags:			architecture, india, islam, mosque
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2014/12/IMG_0289.jpg
 
 
 ---

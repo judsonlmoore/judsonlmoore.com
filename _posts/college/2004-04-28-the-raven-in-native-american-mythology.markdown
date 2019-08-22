@@ -1,12 +1,12 @@
 ---
 title:			The Raven in Native American Mythology
 date:			2004-04-28 07:00:00 Z
-categories:		college papers
+categories:		college
 tags:			culture, mythology, native american, raven, symbols
 author:			judsonlmoore
 excerpt:		The raven is a very important figure in most Native American cultures. It is seen as the creator of light and as a trickster figure.
 layout:			post
-image:			
+image:			2004/04/NativeAmericanRaven.jpg
 
 
 ---

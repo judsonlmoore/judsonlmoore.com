@@ -1,7 +1,7 @@
 ---
 title:			Celebrity Encounters List
 date:			2010-04-27 02:29:00 Z
-categories:		music
+categories:		blog
 tags:			celebrity encounter, music
 author:			judsonlmoore
 layout:			post

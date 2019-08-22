@@ -1,7 +1,7 @@
 ---
 title:			Tips for how to successfully find work abroad as an American
 date:			2018-11-06 20:07:05
-categories:		Career
+categories:		lifestyle
 tags:			germany, inspiration, interview, whileyoung, two words
 author:			judsonlmoore
 layout:			post

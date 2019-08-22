@@ -1,10 +1,10 @@
 ---
 title:			Did It While I Was Young
 date:			2010-03-19 07:39:00 Z
-categories:		interests
+categories:		lifestyle
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2016/01/adventure.jpeg
 
 
 ---

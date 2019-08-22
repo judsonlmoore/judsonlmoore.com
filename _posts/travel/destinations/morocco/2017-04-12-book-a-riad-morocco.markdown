@@ -6,7 +6,7 @@ tags:			adventure, advice, booking, holiday, mountains, travel, travel tips
 author:			judsonlmoore
 excerpt:		Morocco is a land with charms dating back centuries. If you want to have an authentic experience, book a riad in Morocco, but ask these questions first.
 layout:			post
-image:			
+image:			2017/04/riad-in-morocco-3.jpg
 
 
 ---

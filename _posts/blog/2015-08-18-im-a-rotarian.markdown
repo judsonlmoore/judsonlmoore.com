@@ -1,12 +1,12 @@
 ---
 title:			I Have Joined The Rotary Club of Austin
 date:			2015-08-18 17:00:03 Z
-categories:		austin
+categories:		blog
 tags:			membership, rotary, rotary international, service above self
 author:			judsonlmoore
 excerpt:		I've been part of the Rotary Family since I was in high school, and anyone who knows me, knows that today is a very significant moment for me.
 layout:			post
-image:			
+image:			2015/08/Judson-Joining-Rotary-of-Austin-003.jpg
 
 
 ---

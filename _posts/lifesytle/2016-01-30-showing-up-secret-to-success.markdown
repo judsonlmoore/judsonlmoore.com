@@ -6,7 +6,7 @@ tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Showing up is the first step in every success story, but it can be hard to know where to put your efforts. Learn now from my first "showing up" story!
 layout:			post
-image:			
+image:			2016/01/The-Secret-Key-To-All-My-Success-Featured-Image.jpeg
 
 
 ---

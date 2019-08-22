@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			besh tash, kyrgyz culture, kyrgyzstan, peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2012/07/P1040318.jpg
 
 
 ---

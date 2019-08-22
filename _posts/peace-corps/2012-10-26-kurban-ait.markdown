@@ -1,11 +1,11 @@
 ---
 title:			Kurban Ait
 date:			2012-10-26 14:03:54 Z
-categories:		bishkek
+categories:		peace corps
 tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2013/01/AitBishkek_featured.jpg
 
 
 ---

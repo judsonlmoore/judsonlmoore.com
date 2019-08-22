@@ -1,12 +1,12 @@
 ---
 title:			The Trident Hotel and Poverty
 date:			2014-09-10 03:28:44 Z
-categories:		hyderabad
+categories:		india
 tags:			adventure, hotel life, india, mmutual mobile, poverty, travel
 author:			judsonlmoore
 excerpt:		During a 6-month business trip to India, I was faced with poverty every day from the window of my high rise 7-star hotel. What could I do about it?
 layout:			post
-image:			
+image:			2014/10/IMG_0212.jpg
 
 
 ---

@@ -1,8 +1,7 @@
 ---
 title:			Bike Trek Around Bishkek
 date:			2012-10-08 13:54:55 Z
-published: false
-categories:		bishkek
+categories:		peace corps 
 tags:			architecture, biking, bishkek, kyrgyzstan, photos
 author:			judsonlmoore
 layout:			post

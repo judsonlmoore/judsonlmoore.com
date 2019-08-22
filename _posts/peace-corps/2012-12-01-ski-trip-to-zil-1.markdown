@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, fun, kyrgyzstan, ski kg, skiing, sports, zil
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2013/01/SkiTripToZil_1_featured.jpg
 
 
 ---

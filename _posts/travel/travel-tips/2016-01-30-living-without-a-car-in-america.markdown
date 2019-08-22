@@ -1,12 +1,12 @@
 ---
 title:			Living Without A Car in America
 date:			2016-01-30 17:44:26 Z
-categories:		lifestyle
+categories:		travel-tips
 tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Living without a car in America may seem unpatriotic or even impossible, but with these basic tips, you too can live a blissful and car-free life!
 layout:			post
-image:			
+image:			2016/01/Living-In-America-Without-A-Car-Featured-Image.jpg
 
 
 ---

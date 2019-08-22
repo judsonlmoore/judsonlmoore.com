@@ -1,7 +1,7 @@
 ---
 title:			Book Review - The Unification of Germany
 date:			2004-03-08 08:00:00 Z
-categories:		college papers
+categories:		college
 tags:			germany, politics
 author:			judsonlmoore
 layout:			post

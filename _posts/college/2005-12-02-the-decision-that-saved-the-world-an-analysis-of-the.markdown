@@ -1,11 +1,11 @@
 ---
 title:			The Decision that Saved the World -  An Analysis of the Decision-Making Process during the Cuban Missile Crisis
 date:			2005-12-02 08:00:00 Z
-categories:		college papers
+categories:		college
 tags:			Politics
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2012/09/tumblr_l6c40zdG7R1qb60c5.jpg
 
 
 ---

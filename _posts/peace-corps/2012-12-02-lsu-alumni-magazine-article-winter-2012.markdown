@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, kyrgyzstan, lsu, lsu alumni, peace corps, published
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2013/01/LSUmag_Winter2012.jpg
 
 
 ---

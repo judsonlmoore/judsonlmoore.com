@@ -6,7 +6,7 @@ tags:			#lifeattrivago, hiking, nordic, scandinavia, travel guide
 author:			judsonlmoore
 excerpt:		I spent a day in Kristiansand, Norway thanks to a company cruise for the 2017 trivago on Tour. Though just one day, I experienced memories that will last forever!
 layout:			post
-image:			
+image:			2017/09/jumping-with-moose-in-norway.jpg
 
 
 ---

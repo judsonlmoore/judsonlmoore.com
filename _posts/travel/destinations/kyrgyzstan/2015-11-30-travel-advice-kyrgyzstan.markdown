@@ -6,7 +6,7 @@ tags:			adventure, advice, kyrgyzstan, travel
 author:			judsonlmoore
 excerpt:		After living for two years in Kyrgyzstan, I have some pro tips for how your next Central Asian adventure can be the top experience of a lifetime.
 layout:			post
-image:			
+image:			2014/09/cat-kyrgyzstan.jpg
 
 
 ---

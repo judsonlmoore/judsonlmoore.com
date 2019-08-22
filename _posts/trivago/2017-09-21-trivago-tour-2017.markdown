@@ -1,12 +1,12 @@
 ---
 title:			trivago On Tour - Cruise 2017 to Norway and Denmark
 date:			2017-09-21 16:43:54 Z
-categories:		denmark, norway
+categories:		trivago
 tags:			#lifeattrivago, copenhagen, denmark, norway, road trip, travel tale
 author:			judsonlmoore
 excerpt:		The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about the surprise concerts, unknown destinations, and jumping with moose!
 layout:			post
-image:			
+image:			2017/09/trivago-on-tour-2017-sign-at-lake.jpg
 
 
 ---

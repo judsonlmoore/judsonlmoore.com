@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, kyrgyzstan, peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2012/09/cat_peacecorps.jpeg
 
 
 ---

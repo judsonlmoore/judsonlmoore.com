@@ -1,12 +1,12 @@
 ---
 title:			Why Travel While Young?
 date:			2016-02-21 02:47:46 Z
-categories:		adventure
+categories:		lifestyle
 tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Learn why travel at a young age is a critical foundation for developing skill, independence, and for ensuring a prosperous life.
 layout:			post
-image:			
+image:			2016/01/adventure-2-e1463677777821.jpeg
 
 
 ---

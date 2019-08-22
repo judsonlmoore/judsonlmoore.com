@@ -6,7 +6,7 @@ tags:			colombia, reunion, rotary, rye, south america, travel
 author:			judsonlmoore
 excerpt:		Villa de Leyva is a small historical mountain town in Colombia with beautiful architecture, adventure tourism galore, and waterfalls everywhere.
 layout:			post
-image:			
+image:			2014/11/IMG_3155.jpg
 
 
 ---

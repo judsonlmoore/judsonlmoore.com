@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, cooking, culture exchange, kyrgyzstan, peace corps, sushi, thanks
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2012/06/SushiNight1_featured.jpg
 
 
 ---

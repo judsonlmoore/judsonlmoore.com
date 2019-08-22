@@ -27,8 +27,6 @@ post_class: post-template
                     <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                         {% if author.avatar %}
                         <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                        {% else %}
-                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
                         {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -66,6 +64,16 @@ post_class: post-template
                     width4="800" 
                     width5="1000" 
                 %}
+
+            {% else %}
+
+                <img
+                    src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }}l_text:Arial_24_bold:Dynamic%20style,w_800/{{ site.url }}{{ site.image-path }}default-bg.jpg"
+                    class="{{ include.class }} prod"
+                    alt="{{ page.title }}"
+                    crossorigin="anonymous"
+                    srcset=""
+                />
 
             {% endif %}
             <!-- End Featured Image -->

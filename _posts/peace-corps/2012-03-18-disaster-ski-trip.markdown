@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, disaster, kyrgyzstan, ski kg, aki trip, skiing, tik
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2012/03/P1020466.jpg
 
 
 ---

@@ -6,7 +6,7 @@ tags:			colombia, reunion, rotary, rye, south america, travel
 author:			judsonlmoore
 excerpt:		If you find yourself hungry in Colombia, you better find your way to Andrés Carne de Res. This is the tackiest, tastiest and biggest steakhouse ever!
 layout:			post
-image:			
+image:			2014/11/IMG_0650.jpg
 
 
 ---

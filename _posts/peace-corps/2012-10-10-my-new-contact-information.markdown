@@ -1,11 +1,11 @@
 ---
 title:			My New Contact Information
 date:			2012-10-10 06:52:09 Z
-categories:		interests
+categories:		peace corps
 tags:			about me, contact info, judson l moore
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2012/10/NewContactInfo.jpg
 
 
 ---

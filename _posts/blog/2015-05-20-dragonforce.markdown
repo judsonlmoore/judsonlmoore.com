@@ -1,12 +1,12 @@
 ---
 title:			DragonForce Performs at the Mohawk in Austin Texas
 date:			2015-05-20 23:41:07 Z
-categories:		austin
+categories:		blog
 tags:			concert, live, music
 author:			judsonlmoore
 excerpt:		The English power metal band, DragonForce, of Guitar Hero fame, performed in Austin Texas and I got a first row experience of their amazing performance.
 layout:			post
-image:			
+image:			2015/05/IMG_2217.jpg
 
 
 ---

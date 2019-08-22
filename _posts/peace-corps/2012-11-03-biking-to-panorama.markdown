@@ -1,11 +1,11 @@
 ---
 title:			Biking to Panorama
 date:			2012-11-03 15:50:36 Z
-categories:		bishkek
+categories:		peace corps
 tags:			biking, bishkek, fun, kyrgyzstan, sports
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2013/01/BikingPanoramaBishkek_007.jpg
 
 
 ---

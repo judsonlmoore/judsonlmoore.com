@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, culture, holiday, kyrgyzstan, peace corps, thanksgiving
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2011/12/ThanksgivingNewGovernmentAndNewYear_featured.jpg
 
 
 ---

@@ -1,7 +1,7 @@
 ---
 title:			Osh Bazaar
 date:			2012-06-24 07:02:42 Z
-categories:		bishkek
+categories:		peace corps
 tags:			bishkek, central asia, kyrgyzstan, osh bazaar, peace corps, shopping
 author:			judsonlmoore
 layout:			post

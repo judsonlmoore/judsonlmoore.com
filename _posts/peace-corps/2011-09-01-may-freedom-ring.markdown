@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2012/09/tumblr_lqu1hvkIFi1qb60c5.jpg
 
 
 ---

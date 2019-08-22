@@ -1,7 +1,7 @@
 ---
 title:			Sponsored Identity - Cultural Policy in Puerto Rico
 date:			2005-02-07 05:00:00 Z
-categories:		college papers
+categories:		college
 tags:			politics
 author:			judsonlmoore
 layout:			post

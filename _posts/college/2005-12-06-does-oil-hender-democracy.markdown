@@ -1,7 +1,7 @@
 ---
 title:			Does Oil Hender Democracy?
 date:			2005-12-06 08:00:00 Z
-categories:		college papers
+categories:		college
 tags:			politics
 author:			judsonlmoore
 layout:			post

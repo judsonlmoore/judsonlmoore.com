@@ -1,7 +1,7 @@
 ---
 title:			DRUMSON performs live at the trivagoVibe
 date:			2018-08-21 20:35:07 Z
-categories:		Music
+categories:		trivago
 tags:			#lifeattrivago
 author:			judsonlmoore
 comments:		true

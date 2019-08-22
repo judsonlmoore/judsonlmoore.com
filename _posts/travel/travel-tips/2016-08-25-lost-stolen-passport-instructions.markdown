@@ -1,12 +1,11 @@
 ---
 title:			Lost or Stolen Passport? Stay Calm and Follow These Instructions.
 date:			2016-08-25 20:51:44 Z
-categories:		adventure
+categories:		travel-tips
 author:			judsonlmoore
-excerpt:		A lost or stolen passport can be one of the most panic-inducing realizations
-  a traveler can encounter. This happens everyday, and there is a clear solution.
+excerpt:		A lost or stolen passport can be one of the most panic-inducing realizations a traveler can encounter. This happens everyday, and there is a clear solution.
 layout:			post
-image:			
+image:			2016/08/lost-passport.jpeg
 
 
 ---

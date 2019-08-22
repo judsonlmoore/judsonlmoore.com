@@ -1,12 +1,12 @@
 ---
 title:			Hiking Konorchek Canyon in Kyrgyzstan
 date:			2013-03-30T22:00:07.000+00:00
-categories:		kyrgyzstan
+categories:		peace corps
 tags:			central asia, hiking, nature
 author:			judsonlmoore
 layout:			post
 
-image:			
+image:			2015/10/konorchek-canyon-kyrgyzstan.jpg
 
 
 ---

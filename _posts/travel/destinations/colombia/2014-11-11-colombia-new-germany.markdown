@@ -6,7 +6,7 @@ tags:			colombia, reunion, rotary, rye, south america, travel
 author:			judsonlmoore
 excerpt:		I spend two weeks in Colombia with old friends exploring the hottest destinations, eating the most delicious food, and learning to dance in the streets!
 layout:			post
-image:			
+image:			2014/11/IMG_3606-Version-2.jpg
 
 
 ---

@@ -1,12 +1,12 @@
 ---
 title:			Meeting Papa Roach On Tour In Hamburg Germany
 date:			2000-10-14 19:00:00 Z
-categories:		germany
+categories:		blog
 tags:			germany, music, papa roach, rotary, rye
 author:			judsonlmoore
 excerpt:		I met Papa Roach in Hamburg on the last night of their first European tour, and had one of the best nights of my entire life!
 layout:			post
-image:			
+image:			2000/10/papa-roach.jpg
 
 
 ---

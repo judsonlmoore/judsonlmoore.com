@@ -1,10 +1,11 @@
 ---
 title:			Concert Posters
 date:			2009-11-01 19:44:51 Z
-categories:		tcb concerts
+categories:		blog
+tags:			tcb concerts
 author:			judsonlmoore
 layout:			post
-image:			
+image:			2009/11/2007.09.06_ZZ_Top-160.jpg
 
 
 ---
