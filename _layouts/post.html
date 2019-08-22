@@ -68,7 +68,7 @@ post_class: post-template
             {% else %}
 
                 <img
-                    src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/{{ include.params }}l_text:Arial_24_bold:Dynamic%20style,w_800/{{ site.url }}{{ site.image-path }}default-bg.jpg"
+                    src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/l_text:helvetica_100_bold:{{ page.title }},w_800/{{ site.url }}{{ site.image-path }}default-bg.jpg"
                     class="{{ include.class }} prod"
                     alt="{{ page.title }}"
                     crossorigin="anonymous"
@@ -96,7 +96,7 @@ post_class: post-template
 
             <!-- Rating -->
             {% if page.rating %}
-            <div class="rating mb-4 d-flex align-items-center">
+         Ï   <div class="rating mb-4 d-flex align-items-center">
                 <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
             </div>
             {% endif %}

@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			culture, k10, kyrgyzstan, pcvs, peace corps, pixies, radiomost, talas
 author:			judsonlmoore
 layout:			post
-image:			2011/07/18134832/Three-tea-cups.jpeg
+image:			2011/07/Three-tea-cups.jpeg
 
 ---
 
