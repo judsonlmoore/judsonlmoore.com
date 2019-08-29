@@ -16,19 +16,11 @@ image:			2018/08/trivagoVibe-Summer-2018-007.jpg
 ---
 
 
-**I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed trivago on Tour annual trip](https://www.judsonlmoore.com/trivago-tour-2017/). Nothing beats live music in my book!) And at trivago, live music means **trivagoVibe!**
+**I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed trivago on Tour annual trip](https://www.judsonlmoore.com/trivago-tour-2017/). Nothing beats live music in my book!) And at trivago, live music means **trivagoVibe!** 
 
 trivago recently moved into [a new spaceship-like campus](https://youtu.be/LQikZZIia2k) in Düsseldorf, which is an incredible facility in every way, including lots of open-air spaces which are perfect for music. During the past trivagoVibes, I didn't have the opportunity to perform and so this time I was as proactive as possible to make sure that I would be included in the lineup. **I couldn't be more satisfied with the outcomes.**
 
-The lineup of musicians was incredibly impressive. With a range of genres from singer-songwriter, blues, country, rock, and dance music, **there was something for everyone.**
-
-
-{% assign carousels = site.data.carousels %}
-{% assign images = carousels["2018-08-21-trivagovibe-summer-2018"] %}
-{% include carousel-post.html images=images %}
-
-
-
+The lineup of musicians was incredibly impressive. With a range of genres from singer-songwriter, blues, country, rock, and dance music, **there was something for everyone.** 
 
 ## How e-Drums Changed Everything
 
@@ -52,7 +44,7 @@ _Then came the question:_
 - **Them:** Well let's just give it a try
 - **Me:** Ok!
 
-And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum >BOOM< we all knew we struck gold. **This. Drum set. Sounds. AMAZING. Live!** Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.
+And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum >BOOM< we all knew we struck gold. **This. Drumset. Sounds. AMAZING. Live!** Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.
 
 {% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" description=" Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
 
@@ -60,7 +52,9 @@ And so we set up the Roland drums for soundcheck. When all was set, I got behind
 
 **I am just blown away at the level of musical talent that exists in this company.** Not to mention the courage it takes to play music in front of all your colleagues. The concert featured 8 acts: 6 bands, a DJ, and me. Here are some highlight photos from the evening.
 
-[gallery columns="4" link="file" size="medium" ids="19214,19189,19190,19191,19206,19192,19195,19196"]
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2018-08-21-trivagovibe-summer-2018"] %}
+{% include gallery-post.html images=images %}
 
 I didn't get much video of the other bands, but be sure to check out this awesome video of [Josito & the Kids performing Daft Punk's *Get Lucky*](https://www.instagram.com/p/Bmu6MBIFzS_/). **These guys are amazing!**
 

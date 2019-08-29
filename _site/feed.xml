@@ -5,8 +5,8 @@
     <description>Author and travel addict</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Aug 2019 23:52:47 +0200</pubDate>
-    <lastBuildDate>Thu, 22 Aug 2019 23:52:47 +0200</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2019 20:12:53 +0200</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2019 20:12:53 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -234,7 +234,30 @@
 
 &lt;p&gt;Aside from the trail being very beautiful and mostly void of other visitors, there are a number of other tombs along the way which you can enter and fully explore. When you do arrive at the High Place of Sacrifice, you will be confronted with the best panoramic view of Petra, which you can enjoy over a cup of Bedouin tea, prepared fresh for you in a small tent with comfortable seating right on the edge of the cliff.&lt;/p&gt;
 
-&lt;p&gt;[gallery link=”file” size=”medium” ids=”19053,19061,19064”]&lt;/p&gt;
+&lt;div class=&quot;gallery-post&quot;&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg&quot; alt=&quot;Bushes with pink flowers in a desert landscape along the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Along the route of the High Place of Sacrifice Trail, A.K.A. &quot;the yellow trail.&quot;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg&quot; alt=&quot;Stacked stones on the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Stacked stones on the route of the High Place of Sacrifice Trail&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg&quot; alt=&quot;Facade of The Roman Soldier's Tomb on the High Place of Sacrifice Trail in Petra&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;The Roman Soldier's Tomb on the High Place of Sacrifice Trail&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/2018/05/petra-jordan-royal-tombs.jpg&quot; alt=&quot;A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice&quot; title=&quot;The Royal Tombs of Petra, taken from atop the High Place of Sacrifice&quot; /&gt;
 &lt;span class=&quot;caption&quot;&gt;The Royal Tombs of Petra, taken from atop the High Place of Sacrifice&lt;/span&gt;&lt;/p&gt;
@@ -365,63 +388,6 @@
 
 &lt;p&gt;The lineup of musicians was incredibly impressive. With a range of genres from singer-songwriter, blues, country, rock, and dance music, &lt;strong&gt;there was something for everyone.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div id=&quot;carouselExampleIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-	
-	
-    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    
-	
-	
-    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    
-	
-	
-    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    
-	
-	
-    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    
-	
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-	
-	
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-    
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg&quot; alt=&quot;this is the caption 1&quot; /&gt;
-    &lt;/div&gt;
-	
-	
-    &lt;div class=&quot;carousel-item&quot;&gt;
-    
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-002.jpg&quot; alt=&quot;this is the caption 2&quot; /&gt;
-    &lt;/div&gt;
-	
-	
-    &lt;div class=&quot;carousel-item&quot;&gt;
-    
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-003.jpg&quot; alt=&quot;this is the caption 3&quot; /&gt;
-    &lt;/div&gt;
-	
-	
-    &lt;div class=&quot;carousel-item&quot;&gt;
-    
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-004.jpg&quot; alt=&quot;this is the caption 4&quot; /&gt;
-    &lt;/div&gt;
-	
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
 &lt;h2 id=&quot;how-e-drums-changed-everything&quot;&gt;How e-Drums Changed Everything&lt;/h2&gt;
 
 &lt;p&gt;A few years back while I was &lt;a href=&quot;https://www.judsonlmoore.com/india/&quot;&gt;traveling across India&lt;/a&gt;, &lt;strong&gt;I had an identity crisis&lt;/strong&gt;. I came to understand that if I wanted to continue saying, “I am a drummer,” instead of, “I &lt;em&gt;was&lt;/em&gt; a drummer,” then I better start drumming more regularly. My nomadic and apartment-dwelling lifestyle was not conducive to such loud and bulky habits. One night, while laying in bed, I was watching drumming YouTube videos when I came across a &lt;a href=&quot;https://www.youtube.com/watch?v=JqReO5NPN_g&quot;&gt;Drumeo video featuring Michael Schack&lt;/a&gt;, Roland’s endorsed artist for their flagship e-drums. I was hooked, and 10-minutes later, I was typing my credit card into eBay where I found a great deal on a Roland TD-30KV drum set.&lt;/p&gt;
@@ -446,7 +412,7 @@
   &lt;li&gt;&lt;strong&gt;Me:&lt;/strong&gt; Ok!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum &amp;gt;BOOM&amp;lt; we all knew we struck gold. &lt;strong&gt;This. Drum set. Sounds. AMAZING. Live!&lt;/strong&gt; Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.&lt;/p&gt;
+&lt;p&gt;And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum &amp;gt;BOOM&amp;lt; we all knew we struck gold. &lt;strong&gt;This. Drumset. Sounds. AMAZING. Live!&lt;/strong&gt; Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg&quot; class=&quot;post-image full&quot; loading=&quot;auto&quot; style=&quot;height: auto&quot; description=&quot; Janine (Avocadogate) sound checks on the Roland TD-30KV&quot; alt=&quot;Janine (Avocadogate) sound checks on the Roland TD-30KV&quot; width=&quot;2048&quot; height=&quot;1536&quot; crossorigin=&quot;anonymous&quot; /&gt;&lt;/p&gt;
 
@@ -454,7 +420,69 @@
 
 &lt;p&gt;&lt;strong&gt;I am just blown away at the level of musical talent that exists in this company.&lt;/strong&gt; Not to mention the courage it takes to play music in front of all your colleagues. The concert featured 8 acts: 6 bands, a DJ, and me. Here are some highlight photos from the evening.&lt;/p&gt;
 
-&lt;p&gt;[gallery columns=”4” link=”file” size=”medium” ids=”19214,19189,19190,19191,19206,19192,19195,19196”]&lt;/p&gt;
+&lt;div class=&quot;gallery-post&quot;&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-013.jpg&quot; alt=&quot;Tintin performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Tintin&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-002.jpg&quot; alt=&quot;Champion du Monde performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Champion du Monde&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-003.jpg&quot; alt=&quot;Diana Bailey Band performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Diana Bailey Band&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-004.jpg&quot; alt=&quot;Avocadogate performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Avocadogate&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-012.jpg&quot; alt=&quot;Josito &amp;amp; the Kids performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Josito &amp;amp; the Kids&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-005.jpg&quot; alt=&quot;Carmencitas performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Carmencitas&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-008.jpg&quot; alt=&quot;Drumson performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Drumson&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;gallery-inner&quot;&gt;
+    &amp;lt;img
+      class=&quot;d-block w-100&quot;
+      src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-009.jpg&quot;
+      alt=&quot;Hakan, AKA &quot;Minimus&quot; produced the trivagoVibe and closed out the night with an incredible DJ set.&quot;
+    /&amp;gt;
+    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
+      &lt;p&gt;Minimus&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
 
 &lt;p&gt;I didn’t get much video of the other bands, but be sure to check out this awesome video of &lt;a href=&quot;https://www.instagram.com/p/Bmu6MBIFzS_/&quot;&gt;Josito &amp;amp; the Kids performing Daft Punk’s &lt;em&gt;Get Lucky&lt;/em&gt;&lt;/a&gt;. &lt;strong&gt;These guys are amazing!&lt;/strong&gt;&lt;/p&gt;
 

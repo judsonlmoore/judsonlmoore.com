@@ -91,7 +91,9 @@ The name "Petra" comes from the Greek word "petros" which means "stone, rock." G
 
 Aside from the trail being very beautiful and mostly void of other visitors, there are a number of other tombs along the way which you can enter and fully explore. When you do arrive at the High Place of Sacrifice, you will be confronted with the best panoramic view of Petra, which you can enjoy over a cup of Bedouin tea, prepared fresh for you in a small tent with comfortable seating right on the edge of the cliff.
 
-[gallery link="file" size="medium" ids="19053,19061,19064"]
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2018-10-28-petra-jordan-destination-guide"] %}
+{% include gallery-post.html images=images %}
 
 {% include image.html alt="A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice" file="../assets/images/2018/05/petra-jordan-royal-tombs.jpg" description="The Royal Tombs of Petra, taken from atop the High Place of Sacrifice" %}
 

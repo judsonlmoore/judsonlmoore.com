@@ -1,0 +1,14 @@
+<div class="gallery-post">
+  {% for image in include.images %}
+  <div class="gallery-inner">
+    <img
+      class="d-block w-100"
+      src="{{ site.image-path }}{{ image.url }}"
+      alt="{{ image.alt }}"
+    />
+    <div class="gallery-caption d-none d-md-block">
+      <p>{{ image.caption }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
