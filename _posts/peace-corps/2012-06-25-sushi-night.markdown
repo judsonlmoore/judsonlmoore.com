@@ -14,12 +14,12 @@ In the year that I have lived in Talas I have made many visits to the Kyrgyz cap
 
 **Sushi Night #1**
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2012-06-25-sushi-night"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2012-06-25-sushi-night"] %}
 {% include gallery-post.html images=images %}
 
 **Sushi Night #2**
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}

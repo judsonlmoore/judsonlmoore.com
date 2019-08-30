@@ -34,6 +34,6 @@ Köln is an amazingly beautiful city, even in the freezing cold. I look forward 
 
 Have you been to Köln? Planning a trip to the region? Please leave a comment below or get in touch with me at[@JudsonLMoore](http://twitter.com/judsonlmoore)!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2015-01-16-reunion-koln"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2015-01-16-reunion-koln"] %}
 {% include gallery-post.html images=images %}

@@ -45,7 +45,15 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
+        <link
+            href="/assets/css/gallery-clean.css"
+            rel="stylesheet"
+        />
         <script src="/assets/js/jquery.min.js"></script>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -413,8 +421,58 @@
   </li>
 </ol>
 
-<div class="gallery-post">
-  
+<div class="tz-gallery">
+  <div class="row">
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2016/08/german-wine-country-3.jpg">
+              <img src="/assets/images/2016/08/german-wine-country-3.jpg" alt="Modern and vintage wine fermentation casks" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Modern and vintage wine fermentation casks</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2016/08/german-wine-country-2.jpg">
+              <img src="/assets/images/2016/08/german-wine-country-2.jpg" alt="WInemaster of Pfirmann Weingut preparing the tasting" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>WInemaster of Pfirmann Weingut preparing the tasting</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2016/08/german-wine-country-1.jpg">
+              <img src="/assets/images/2016/08/german-wine-country-1.jpg" alt="Sign showing that German Wine Country has many wineries to offer" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Sign showing that German Wine Country has many wineries to offer</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2016/09/box-and-glass-of-secco-from-pfirmann-weingut.jpg">
+              <img src="/assets/images/2016/09/box-and-glass-of-secco-from-pfirmann-weingut.jpg" alt="Box and glass of Secco from Pfirmann Weingut" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Box and glass of Secco from Pfirmann Weingut | Photo credit Thomas Wrobel</p>
+          </div>
+      </div>
+    </div>
+    
+  </div>
 </div>
 
 <h2 id="the-walkback-to-town">The Walk Back To Town</h2>
@@ -918,6 +976,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
+        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

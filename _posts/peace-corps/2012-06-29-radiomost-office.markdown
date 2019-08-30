@@ -12,6 +12,6 @@ image:			2012/06/RadioMostOffie_001.jpg
 
 Here is the office and colleagues from my first site in Talas City, [RadioMost](https://www.judsonlmoore.com/radiomost-office/).
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2012-06-29-radiomost-office"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2012-06-29-radiomost-office"] %}
 {% include gallery-post.html images=images %}

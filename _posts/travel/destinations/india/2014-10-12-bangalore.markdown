@@ -21,14 +21,14 @@ I didn't stress about seeing too much in Bangalore, as my time here was short, a
 
 ## The Bull Temple at Bangalore
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-10-12-bangalore"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-10-12-bangalore"] %}
 {% include gallery-post.html images=images %}
 
 ## The City. The Palace.
 
 The next stop was to the Starbucks on Church Street. We took an [Uber](https://www.uber.com/invite/uberjudsonlmoore) there, which was awesome, because I left my iPhone in the car and thanks to the magic of Uber, I was able to report the forgotten phone and the driver came back with it just a few minutes later. I was VERY happy about this! We rehired that driver and kept him on the clock for the next several hours while we toured the Bangalore Palace and then headed to the airport to go back to Hyderabad.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}

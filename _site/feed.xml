@@ -5,8 +5,8 @@
     <description>Author and travel addict</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Aug 2019 20:43:07 +0200</pubDate>
-    <lastBuildDate>Thu, 29 Aug 2019 20:43:07 +0200</lastBuildDate>
+    <pubDate>Fri, 30 Aug 2019 23:12:35 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Aug 2019 23:12:35 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -234,29 +234,46 @@
 
 &lt;p&gt;Aside from the trail being very beautiful and mostly void of other visitors, there are a number of other tombs along the way which you can enter and fully explore. When you do arrive at the High Place of Sacrifice, you will be confronted with the best panoramic view of Petra, which you can enjoy over a cup of Bedouin tea, prepared fresh for you in a small tent with comfortable seating right on the edge of the cliff.&lt;/p&gt;
 
-&lt;div class=&quot;gallery-post&quot;&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg&quot; alt=&quot;Bushes with pink flowers in a desert landscape along the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Along the route of the High Place of Sacrifice Trail, A.K.A. &quot;the yellow trail.&quot;&lt;/p&gt;
+&lt;div class=&quot;tz-gallery&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg&quot; alt=&quot;Bushes with pink flowers in a desert landscape along the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Along the route of the High Place of Sacrifice Trail, A.K.A. &quot;the yellow trail.&quot;&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg&quot; alt=&quot;Stacked stones on the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Stacked stones on the route of the High Place of Sacrifice Trail&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg&quot; alt=&quot;Stacked stones on the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Stacked stones on the route of the High Place of Sacrifice Trail&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg&quot; alt=&quot;Facade of The Roman Soldier's Tomb on the High Place of Sacrifice Trail in Petra&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;The Roman Soldier's Tomb on the High Place of Sacrifice Trail&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg&quot; alt=&quot;Facade of The Roman Soldier's Tomb on the High Place of Sacrifice Trail in Petra&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;The Roman Soldier's Tomb on the High Place of Sacrifice Trail&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
+    
   &lt;/div&gt;
-  
 &lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/2018/05/petra-jordan-royal-tombs.jpg&quot; alt=&quot;A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice&quot; title=&quot;The Royal Tombs of Petra, taken from atop the High Place of Sacrifice&quot; /&gt;
@@ -420,68 +437,106 @@
 
 &lt;p&gt;&lt;strong&gt;I am just blown away at the level of musical talent that exists in this company.&lt;/strong&gt; Not to mention the courage it takes to play music in front of all your colleagues. The concert featured 8 acts: 6 bands, a DJ, and me. Here are some highlight photos from the evening.&lt;/p&gt;
 
-&lt;div class=&quot;gallery-post&quot;&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-013.jpg&quot; alt=&quot;Tintin performs at the trivagoVibe in Düsseldorf&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Tintin&lt;/p&gt;
+&lt;div class=&quot;tz-gallery&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-013.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-013.jpg&quot; alt=&quot;Tintin performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Tintin&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-002.jpg&quot; alt=&quot;Champion du Monde performs at the trivagoVibe in Düsseldorf&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Champion du Monde&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-002.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-002.jpg&quot; alt=&quot;Champion du Monde performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Champion du Monde&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-003.jpg&quot; alt=&quot;Diana Bailey Band performs at the trivagoVibe in Düsseldorf&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Diana Bailey Band&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-003.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-003.jpg&quot; alt=&quot;Diana Bailey Band performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Diana Bailey Band&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-004.jpg&quot; alt=&quot;Avocadogate performs at the trivagoVibe in Düsseldorf&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Avocadogate&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-004.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-004.jpg&quot; alt=&quot;Avocadogate performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Avocadogate&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-012.jpg&quot; alt=&quot;Josito &amp;amp; the Kids performs at the trivagoVibe in Düsseldorf&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Josito &amp;amp; the Kids&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-012.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-012.jpg&quot; alt=&quot;Josito &amp;amp; the Kids performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Josito &amp;amp; the Kids&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-005.jpg&quot; alt=&quot;Carmencitas performs at the trivagoVibe in Düsseldorf&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Carmencitas&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-005.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-005.jpg&quot; alt=&quot;Carmencitas performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Carmencitas&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-008.jpg&quot; alt=&quot;Drumson performs at the trivagoVibe in Düsseldorf&quot; /&gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Drumson&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-008.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-008.jpg&quot; alt=&quot;Drumson performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Drumson&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;gallery-inner&quot;&gt;
-    &amp;lt;img
-      class=&quot;d-block w-100&quot;
-      src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-009.jpg&quot;
-      alt=&quot;Hakan, AKA &quot;Minimus&quot; produced the trivagoVibe and closed out the night with an incredible DJ set.&quot;
-    /&amp;gt;
-    &lt;div class=&quot;gallery-caption d-none d-md-block&quot;&gt;
-      &lt;p&gt;Minimus&lt;/p&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-009.jpg&quot;&gt;
+              &amp;lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-009.jpg&quot; alt=&quot;Hakan, AKA &quot;Minimus&quot; produced the trivagoVibe and closed out the night with an incredible DJ set.&quot;&amp;gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Minimus&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
+    
   &lt;/div&gt;
-  
 &lt;/div&gt;
 
 &lt;p&gt;I didn’t get much video of the other bands, but be sure to check out this awesome video of &lt;a href=&quot;https://www.instagram.com/p/Bmu6MBIFzS_/&quot;&gt;Josito &amp;amp; the Kids performing Daft Punk’s &lt;em&gt;Get Lucky&lt;/em&gt;&lt;/a&gt;. &lt;strong&gt;These guys are amazing!&lt;/strong&gt;&lt;/p&gt;
@@ -959,8 +1014,34 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;gallery-post&quot;&gt;
-  
+&lt;div class=&quot;tz-gallery&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-portrait-king-george-iv.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-portrait-king-george-iv.jpg&quot; alt=&quot;A royal man in red uniform is painted against a brown background&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;Portrait of King George IV at the Dublin Castle&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
+      &lt;div class=&quot;thumbnail&quot;&gt;
+          &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-state-corridor.jpg&quot;&gt;
+              &lt;img src=&quot;/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-state-corridor.jpg&quot; alt=&quot;Judson stands in the State Corridor at the Dublin Castle&quot; /&gt;
+          &lt;/a&gt;
+          &lt;div class=&quot;caption&quot;&gt;
+              &lt;h3&gt;&lt;/h3&gt;
+              &lt;p&gt;The State Corridor at the Dublin Castle&lt;/p&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-irish-sword-of-state.jpg&quot; alt=&quot;A detailed view of the gilded hilt of the Irish Sword of State&quot; title=&quot; The Irish Sword of State on Display at the Dublin Castle&quot; /&gt;

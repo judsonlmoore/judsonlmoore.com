@@ -53,8 +53,8 @@ For anyone who might like to follow in my footsteps, here is a map of where all 
 
 Again, the weather could not have been more perfect for us on this day. Here are just a few photos of my journey through the Baneheia Park and around Kristiansand.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2017-10-09-baneheia-kristiansand-norway"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2017-10-09-baneheia-kristiansand-norway"] %}
 {% include gallery-post.html images=images %}
 
 {% include image.html alt="Judson at a lake in the Baneheia Park" file="../assets/images/2000/09/trivago-on-tour-2017-kristiansand-norway-trivago-sign-lake.jpg" alt="" description="" %}

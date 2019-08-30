@@ -45,7 +45,15 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
+        <link
+            href="/assets/css/gallery-clean.css"
+            rel="stylesheet"
+        />
         <script src="/assets/js/jquery.min.js"></script>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -362,8 +370,106 @@
 
 <p>Have you been to Brühl? Planning a trip to the region? Please leave a comment below or get in touch with me at <a href="http://twitter.com/judsonlmoore">@JudsonLMoore</a>!</p>
 
-<div class="gallery-post">
-  
+<div class="tz-gallery">
+  <div class="row">
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2015/10/IMG_4683.jpg">
+              <img src="/assets/images/2015/10/IMG_4683.jpg" alt="The Augustusburg Palace in Brühl Germany with reflection pool" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Augustusburg Palace</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2015/10/IMG_4676.jpg">
+              <img src="/assets/images/2015/10/IMG_4676.jpg" alt="Augustusburg Palace in Brühl Germany" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Augustusburg Palace</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2015/10/IMG_4671.jpg">
+              <img src="/assets/images/2015/10/IMG_4671.jpg" alt="Augustusburg Palace" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Augustusburg Palace</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2015/10/IMG_4678.jpg">
+              <img src="/assets/images/2015/10/IMG_4678.jpg" alt="Augustusburg Palace in Brühl Germany" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Augustusburg Palace</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2015/10/IMG_4685.jpg">
+              <img src="/assets/images/2015/10/IMG_4685.jpg" alt="My friend Mark and I in front of Augustusburg Palace in Brühl Germany" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Mark and I at Augustusburg Palace</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2015/10/IMG_4696.jpg">
+              <img src="/assets/images/2015/10/IMG_4696.jpg" alt="A manicured path through the fields near Augustusburg Palace in Brühl Germany | Germany Travel Guide" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>A manicured path through the fields near Augustusburg Palace</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2015/10/IMG_4694.jpg">
+              <img src="/assets/images/2015/10/IMG_4694.jpg" alt="An estate in Brühl Germany" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>A countryside estate</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2015/10/IMG_4672.jpg">
+              <img src="/assets/images/2015/10/IMG_4672.jpg" alt="A manicured path through the fields near Augustusburg Palace in Brühl Germany" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>A manicured path through the fields near Augustusburg Palace</p>
+          </div>
+      </div>
+    </div>
+    
+  </div>
 </div>
 
             </div>
@@ -857,6 +963,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
+        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

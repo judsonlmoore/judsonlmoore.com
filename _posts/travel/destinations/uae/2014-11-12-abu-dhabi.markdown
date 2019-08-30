@@ -31,6 +31,6 @@ Please forgive my appearance in these photos; I'd been on a plane for over 24-ho
 
 ## Photos From Abu Dhabi
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-11-12-abu-dhabi"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-11-12-abu-dhabi"] %}
 {% include gallery-post.html images=images %}

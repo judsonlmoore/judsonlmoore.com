@@ -18,6 +18,6 @@ While on the slope I got a call saying our evening accommodations were backing
 
 Goodnight!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2012-03-18-disaster-ski-trip"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2012-03-18-disaster-ski-trip"] %}
 {% include gallery-post.html images=images %}

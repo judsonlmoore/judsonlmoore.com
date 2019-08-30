@@ -45,7 +45,15 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
+        <link
+            href="/assets/css/gallery-clean.css"
+            rel="stylesheet"
+        />
         <script src="/assets/js/jquery.min.js"></script>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -358,8 +366,106 @@
 
 <p>Today was a great day!</p>
 
-<div class="gallery-post">
-  
+<div class="tz-gallery">
+  <div class="row">
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/12/IMG_3875.jpg">
+              <img src="/assets/images/2014/12/IMG_3875.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>This is Charminar</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/12/IMG_0289.jpg">
+              <img src="/assets/images/2014/12/IMG_0289.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>I made some new friends at Charminar! This is my favorite photo I took in all of India!</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/12/IMG_0250.jpg">
+              <img src="/assets/images/2014/12/IMG_0250.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>One of the main views from atop Charminar.</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/12/IMG_0265.jpg">
+              <img src="/assets/images/2014/12/IMG_0265.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>The signage in Charminar is... different.</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/12/IMG_0268.jpg">
+              <img src="/assets/images/2014/12/IMG_0268.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>From atop Charminar.</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/12/IMG_0274.jpg">
+              <img src="/assets/images/2014/12/IMG_0274.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Detail work of the inner arch of Charminar.</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/12/IMG_0276.jpg">
+              <img src="/assets/images/2014/12/IMG_0276.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Traffic around Charminar is pretty hectic.</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/12/IMG_0278.jpg">
+              <img src="/assets/images/2014/12/IMG_0278.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>View of the Mecca Masjid from atop Charminar.</p>
+          </div>
+      </div>
+    </div>
+    
+  </div>
 </div>
 
             </div>
@@ -869,6 +975,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
+        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

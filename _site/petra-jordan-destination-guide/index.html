@@ -45,7 +45,15 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
+        <link
+            href="/assets/css/gallery-clean.css"
+            rel="stylesheet"
+        />
         <script src="/assets/js/jquery.min.js"></script>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -432,29 +440,46 @@
 
 <p>Aside from the trail being very beautiful and mostly void of other visitors, there are a number of other tombs along the way which you can enter and fully explore. When you do arrive at the High Place of Sacrifice, you will be confronted with the best panoramic view of Petra, which you can enjoy over a cup of Bedouin tea, prepared fresh for you in a small tent with comfortable seating right on the edge of the cliff.</p>
 
-<div class="gallery-post">
-  
-  <div class="gallery-inner">
-    <img class="d-block w-100" src="/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg" alt="Bushes with pink flowers in a desert landscape along the route of the High Place of Sacrifice Trail in Petra" />
-    <div class="gallery-caption d-none d-md-block">
-      <p>Along the route of the High Place of Sacrifice Trail, A.K.A. "the yellow trail."</p>
+<div class="tz-gallery">
+  <div class="row">
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg">
+              <img src="/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg" alt="Bushes with pink flowers in a desert landscape along the route of the High Place of Sacrifice Trail in Petra" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Along the route of the High Place of Sacrifice Trail, A.K.A. "the yellow trail."</p>
+          </div>
+      </div>
     </div>
-  </div>
-  
-  <div class="gallery-inner">
-    <img class="d-block w-100" src="/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg" alt="Stacked stones on the route of the High Place of Sacrifice Trail in Petra" />
-    <div class="gallery-caption d-none d-md-block">
-      <p>Stacked stones on the route of the High Place of Sacrifice Trail</p>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg">
+              <img src="/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg" alt="Stacked stones on the route of the High Place of Sacrifice Trail in Petra" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Stacked stones on the route of the High Place of Sacrifice Trail</p>
+          </div>
+      </div>
     </div>
-  </div>
-  
-  <div class="gallery-inner">
-    <img class="d-block w-100" src="/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg" alt="Facade of The Roman Soldier's Tomb on the High Place of Sacrifice Trail in Petra" />
-    <div class="gallery-caption d-none d-md-block">
-      <p>The Roman Soldier's Tomb on the High Place of Sacrifice Trail</p>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg">
+              <img src="/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg" alt="Facade of The Roman Soldier's Tomb on the High Place of Sacrifice Trail in Petra" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>The Roman Soldier's Tomb on the High Place of Sacrifice Trail</p>
+          </div>
+      </div>
     </div>
+    
   </div>
-  
 </div>
 
 <p><img src="../assets/images/2018/05/petra-jordan-royal-tombs.jpg" alt="A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice" title="The Royal Tombs of Petra, taken from atop the High Place of Sacrifice" />
@@ -963,6 +988,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
+        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

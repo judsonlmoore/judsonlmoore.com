@@ -19,8 +19,8 @@ Generally speaking, I have seen three things in this city: The Trident Hotel, [C
 
 For the sake of brevity, I will just write about the hotel in this post. You can find my other posts from Hyderabad [here](https://www.judsonlmoore.com/location/hyderabad/).
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-09-10-the-trident-hotel-and-poverty"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-09-10-the-trident-hotel-and-poverty"] %}
 {% include gallery-post.html images=images %}
 
 I typically wouldn't write about a hotel, but The Trident Hotel is my new home, so it is worth a mention. Trident is a brand new 7-star hotel in the High Tech City area of Hyderabad. The staff here are incredibly good at what they do and they don't skip a beat to make me feel like royalty. They have even provided me with a complimentary personal trainer, Raj, who meets me 6-mornings a week in the fitness center.

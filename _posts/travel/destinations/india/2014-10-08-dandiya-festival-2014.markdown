@@ -27,8 +27,8 @@ I went to the festival in Hyderabad with some colleagues of mine. We were invite
 
 Here are some photos from the evening, followed by a video I found from the same event that will give you an idea of the dancing and the music.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-10-08-dandiya-festival-2014"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-10-08-dandiya-festival-2014"] %}
 {% include gallery-post.html images=images %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Vz3zuS53PpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

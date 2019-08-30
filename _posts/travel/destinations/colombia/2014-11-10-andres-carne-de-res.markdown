@@ -17,8 +17,8 @@ We celebrated our final evening in Colombia in grand fashion with incredible foo
 
 The original location is just outside of town. If you get a chance, go to the out-of-town location. It's like Hard Rock Cafe, Cracker Barrel, Tex Mex, BBQ and a hoarder-artist estate sale had a freak baby who turned out to be a culinary prodigy. Andrés Carne de Res is the best place to eat, drink, and party on the weekends. Closes at 3am. Prepare for steep prices on the drinks, but it's well worth it. The food is very reasonably priced and the best meat that I had in all of Colombia (which is REALLY saying something!)
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-11-10-andres-carne-de-res"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-11-10-andres-carne-de-res"] %}
 {% include gallery-post.html images=images %}
 
 \*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).

@@ -38,8 +38,8 @@ Unfortunately, an appendix teetering on the edge of bursting does not wait for t
 
 Here is a photo gallery of my surgical prep experience. I was not able to take pictures inside the surgical ward but the conditions were much cleaner. Still, the facilities were very lacking. See how the room used for surgery prep more closely resembles a rundown janitor's closet? The shelves of buckets are full of cleaning chemicals and also store the highly rusted razors that the doctors wanted to shave my stomach with. Horrifying. Upon seeing the razors, however, the PCMO left to buy new razors and shaving cream. This is only one example of why having the PCMO service is so critical. He knew he could get a better resource and went to get it. But being left alone in this janitor's closet was one of the most terrifying moments of the ordeal as I contemplated what was about to happen to me...
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2013-04-18-appendectomy-in-bishkek"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2013-04-18-appendectomy-in-bishkek"] %}
 {% include gallery-post.html images=images %}
 
 I was led to the surgical area but the PCMO was not allowed to enter the surgery room. After coming inside, the surgeons starting to ask me all these really important questions like if I had any allergies to medicine. if I had allergies to any of these _specific_ medicines, what is my weight and height (I don't even know in metric!) and on and on. These were things that I believe they needed to know but to which I had no answers. This begins the terrifying period of my being truly alone in this hospital. Here I am about to undergo what is already a scary event in one's life, and I am all alone, counting on my foreign language skills and in a room that Western horror movies would love to gain access to for any climatic scene.
@@ -136,8 +136,8 @@ I collapsed on my bed but was almost immediately called for again by a doctor. "
 
 I went back to my room but after a bit I got up the courage to try the stairs again. Mostly because I was out of units on my phone and I heard rumors I could add units on the first floor. Which was true. There was also the hospital cafeteria where I ate my first "real food." It was chicken samsa and oromo, typical Kyrgyz food and the only thing available in the hospital cafeteria other than fried bread.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 **Day 5**
@@ -150,8 +150,8 @@ My colleagues from Kloop also visited me today and brought me oranges. My closes
 
 They also came because they needed to get my apartment keys. We were to receive a distinguished international guest the next morning, a radio journalism trainer from Deutsche Welle, and he was staying at my apartment. It needed to be cleaned and of course I was in no condition to do it my self! See? Even from a hospital bed I am taking care of business and receiving foreign guests! I am a very productive and efficient person!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 **Day 6**
@@ -162,8 +162,8 @@ Peace Corps brought me lunch again. Again typical Kyrgyz food, but it's from the
 
 The rest of the day was spent just meandering the halls of the hospital. I took photos of everything that seemed interesting. Here check out these digs. And for those of you in the West, the next time you complain about the price of healthcare, know that this is what happens with the money, investment and regulation isn't around.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 **Day 7**

@@ -27,8 +27,8 @@ I am very thankful to too many to count, but I can't go any further without ackn
 
 Upon seeing the new space for the first time, I knew I was up against a new kind of challenge. The sum of my construction experience comes from a tree house I built when I was 12 and sets that I've designed for community theater productions. This was neither of those things. Our to-be future home in India was a 10th floor unfinished space with rough floors and not a single piece of conduit or ductwork to get us started. We even had a private lake to wade through.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2015-01-09-mutual-mobile-hyderabad"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2015-01-09-mutual-mobile-hyderabad"] %}
 {% include gallery-post.html images=images %}
 
 ## Establishing The Vision
@@ -45,8 +45,8 @@ After locking in the floor plan, our next order of business was material and col
 
 Here is a quick look at the final materials and colors that we chose for each element of the office.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 ## The Foundations Get Set
@@ -55,22 +55,22 @@ While we were busy working on the color and material choices, construction was u
 
 As with most projects, the vast majority of the time was spent laying foundation work, which as time progressed, made us more and more nervous that we weren't moving quickly enough to meet our deadline. Here are some photos in chronological order from the first day through the third month of construction.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 ## And Then Came The Floods
 
 With just a few weeks until the grand opening, disaster struck! The floor above ours was also under construction, and the water from the screed was seeping through the concrete slab and dripping down into our nearly finished space. We had to replace sheetrock in the ceilings and some walls. Luckily, we caught the problem quickly, and the building management assisted us in a solution and in paying for damages. The disaster turned out to be a minor setback, but the timing was less than ideal.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 In the last two weeks, the finishing touches came together almost overnight, transforming the construction zone into a believable office; all it needed was furniture.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 ## The Greatest Challenge
@@ -81,24 +81,24 @@ The P.O. system of invoices and crosschecks, last minute renegotiations and the 
 
 The most difficult and project-threatening of these procurements was for our internet service. We had signed a contract with an Internet Service Provider (ISP) months before, and when the fated day of installation came, they had forgotten all about us. On top of that, the building was not honoring to provide the ISP with a proper hosting room in the building where their equipment could be stored before sending fiber cable up to our server room. Many dozens of emails, heated phone calls, meetings and legal interventions finally resulted in our getting internet just days before the grand opening. I had the honor of sending the [first Tweet](https://twitter.com/judsonlmoore/status/550292675359170560) through our active internet line at 10pm on New Years Eve. Celebrations ensued like it was 2015!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 ## The Finished Mutual Mobile Office
 
 The finished product is an inspiring, modern creative facility which will have a dramatic impact on the lives of the people who get to spend their time in it. It will be very exciting to see what products will come out of this space! I've done more than enough writing up until now. So I will let the photos tell this part of the tale.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 ## The Grand Opening Celebrations
 
 Of course this is good and all, but what's the point of a new facility if you don't have a proper grand opening celebration! Our Co-CEOs came for the occasion and led the ribbon cutting honors. We had cake and ate it too (with our hands) and hired a live band followed by super fun karaoke. Oh, did I mention we have a helipad? We did a company-wide sunset champagne toast on top of the building. It was awesome!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 In celebration of the new facility launch, I commissioned a video to be made which shows off the space and captures some colleague's first impressions of the office. My hats off to [Ankit Bakshi of Laputa Media](http://laputamedia.com) for producing these awesome videos. Ankit came in just one week before the shoot and after a brief walk through looking at the space and hearing what my goals for the video were, he walked away and wrote a script and video flow overnight. What was most impressive, is that when I offered up an opinion or suggestion, he spoke up and shot me down if he felt that it would take us off-message. Rarely (if ever) in India did I come across someone who had the backbone to say "no" when it needed to be said. And for that, I would work with Ankit again in a heartbeat.

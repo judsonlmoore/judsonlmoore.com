@@ -1,14 +1,17 @@
-<div class="gallery-post">
-  {% for image in include.images %}
-  <div class="gallery-inner">
-    <img
-      class="d-block w-100"
-      src="{{ site.image-path }}{{ image.url }}"
-      alt="{{ image.alt }}"
-    />
-    <div class="gallery-caption d-none d-md-block">
-      <p>{{ image.caption }}</p>
+<div class="tz-gallery">
+  <div class="row">
+    {% for image in include.images %}
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="{{ site.image-path }}{{ image.url }}">
+              <img src="{{ site.image-path }}{{ image.url }}" alt="{{ image.alt }}">
+          </a>
+          <div class="caption">
+              <h3>{{ image.title }}</h3>
+              <p>{{ image.caption }}</p>
+          </div>
+      </div>
     </div>
+    {% endfor %}
   </div>
-  {% endfor %}
-</div>
+</div> 

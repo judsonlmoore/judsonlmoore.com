@@ -45,7 +45,15 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
+        <link
+            href="/assets/css/gallery-clean.css"
+            rel="stylesheet"
+        />
         <script src="/assets/js/jquery.min.js"></script>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -392,8 +400,82 @@
 
 <p>Again, the weather could not have been more perfect for us on this day. Here are just a few photos of my journey through the Baneheia Park and around Kristiansand.</p>
 
-<div class="gallery-post">
-  
+<div class="tz-gallery">
+  <div class="row">
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2000/09/kristiansand-norway-baneheia-forest.jpg">
+              <img src="/assets/images/2000/09/kristiansand-norway-baneheia-forest.jpg" alt="Judson in the Baneheia Park" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Judson in the Baneheia Park</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-lillipad-lake.jpg">
+              <img src="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-lillipad-lake.jpg" alt="A lake in the Baneheia Park" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>A lake in the Baneheia Park</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-skyline.jpg">
+              <img src="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-skyline.jpg" alt="A view of Kristiansand, Norway from atop a hill in the Baneheia Park" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>A view of Kristiansand, Norway from atop a hill in the Baneheia Park</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-fish-market.jpg">
+              <img src="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-fish-market.jpg" alt="The Fish Market in the Kristiansand, Norway town center" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>The Fish Market in the Kristiansand, Norway town center</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-harbor.jpg">
+              <img src="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-harbor.jpg" alt="The harbor at the Kristiansand, Norway town center" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>The harbor at the Kristiansand, Norway town center</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-pier.jpg">
+              <img src="/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-pier.jpg" alt="The pier at Kristiansand, Norway" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>The pier at Kristiansand, Norway</p>
+          </div>
+      </div>
+    </div>
+    
+  </div>
 </div>
 
 <p><img src="../assets/images/2000/09/trivago-on-tour-2017-kristiansand-norway-trivago-sign-lake.jpg" alt="" title="" />
@@ -896,6 +978,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
+        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

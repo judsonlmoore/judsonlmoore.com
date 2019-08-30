@@ -29,6 +29,6 @@ What decent rock show doesn't have a guitar battle? These guys are clearly havin
 
 Here are a few photos from around the DragonForce show in Austin Texas.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2015-05-20-dragonforce"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2015-05-20-dragonforce"] %}
 {% include gallery-post.html images=images %}

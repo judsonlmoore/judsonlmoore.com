@@ -45,7 +45,15 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
+        <link
+            href="/assets/css/gallery-clean.css"
+            rel="stylesheet"
+        />
         <script src="/assets/js/jquery.min.js"></script>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -354,8 +362,70 @@
 
 <p>The original location is just outside of town. If you get a chance, go to the out-of-town location. It’s like Hard Rock Cafe, Cracker Barrel, Tex Mex, BBQ and a hoarder-artist estate sale had a freak baby who turned out to be a culinary prodigy. Andrés Carne de Res is the best place to eat, drink, and party on the weekends. Closes at 3am. Prepare for steep prices on the drinks, but it’s well worth it. The food is very reasonably priced and the best meat that I had in all of Colombia (which is REALLY saying something!)</p>
 
-<div class="gallery-post">
-  
+<div class="tz-gallery">
+  <div class="row">
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0651.jpg">
+              <img src="/assets/images/2014/11/IMG_0651.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>It's chow time at Andrés Carne de Res</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0650.jpg">
+              <img src="/assets/images/2014/11/IMG_0650.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>My dinner at Andrés Carne de Res</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0641.jpg">
+              <img src="/assets/images/2014/11/IMG_0641.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>The atmosphere at Andrés Carne de Res is very interesting!</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0665.jpg">
+              <img src="/assets/images/2014/11/IMG_0665.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>One of the many dance floors at Andrés Carne de Res.</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0663.jpg">
+              <img src="/assets/images/2014/11/IMG_0663.jpg" alt="" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>It had to happen. At Andrés Carne de Res.</p>
+          </div>
+      </div>
+    </div>
+    
+  </div>
 </div>
 
 <p>*this is an excerpt from <a href="https://www.judsonlmoore.com/colombia-new-germany/">a longer article</a> which tells the full story of my time in Colombia reuniting with friends from my <a href="https://www.judsonlmoore.com/location/germany/">Rotary Youth Exchange year in Germany</a>.</p>
@@ -881,6 +951,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
+        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

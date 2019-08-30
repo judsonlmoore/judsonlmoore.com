@@ -45,8 +45,8 @@ At first, I thought that they were just being nice because they had to leave to 
 
 At this point I ran out of film! :( and Katharina had already run out at the club (Thomas didn't have a camera), so I don't actually have any photos from here on out. Darn it! We stayed with them till about 4:00, and then they had to go to the hotel to pack, and get on a plane to New York so that they could do an interview on the Tonight Show with Jay Leno the next day.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2000-10-14-meeting-papa-roach"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2000-10-14-meeting-papa-roach"] %}
 {% include gallery-post.html images=images %}
 
 ## A Night at the Train Station

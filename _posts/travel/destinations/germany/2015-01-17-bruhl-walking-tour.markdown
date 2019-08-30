@@ -24,6 +24,6 @@ The Augustusburg Palace is a UNESCO World Heritage Site, noteworthy for being 
 
 Have you been to Brühl? Planning a trip to the region? Please leave a comment below or get in touch with me at [@JudsonLMoore](http://twitter.com/judsonlmoore)!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2015-01-17-bruhl-walking-tour"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2015-01-17-bruhl-walking-tour"] %}
 {% include gallery-post.html images=images %}

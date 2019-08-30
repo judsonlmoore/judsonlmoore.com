@@ -16,8 +16,8 @@ We also organized a tour for them of the local [Sierra Coffee](http://sierra.kg)
 
 Camp organizer,  Meerim Mamyrbekova, wrote a fantastic final report so rather than try to redo what she has so well done herself, I have just given you some photos and included the text of the final report below.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2012-07-13-bishkek-ict-training"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2012-07-13-bishkek-ict-training"] %}
 {% include gallery-post.html images=images %}
 
 **Project description**

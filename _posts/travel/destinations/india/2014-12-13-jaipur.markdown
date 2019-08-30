@@ -20,8 +20,8 @@ Many of India's most infamous landmarks reside in Jaipur. The most glorious of t
 
 Once inside the Amber Fort, we were overwhelmed by the architecture and detail work. Between the geometric gardens, facades with incredibly preserved details and surviving paintings of the Kama Sutra, the space was a lot to take in. All of that was small potatoes compared to the Sheesh Mahal (Mirror Palace). The Mirror Palace is a space within the Amber Fort, which is covered in tiny convex-shaped mirrors. The light reflecting off of all the surfaces shifts as you walk through the space and the feeling is very dazzling.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-12-13-jaipur"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-12-13-jaipur"] %}
 {% include gallery-post.html images=images %}
 
 ## The Jal Mahal
@@ -38,6 +38,6 @@ The City Palace is home to some pretty interesting architecture, paintings, and 
 
 One art piece that I thought was striking was a number of rifles and spears that were laid out in a large circle. The guns are pointing in toward the center while the spears are pointed out toward the edge. The guide said that it was to symbolize Indian strength and wealth, but I think it symbolizes the imperial occupation of Britain who had a superior military versus the Indians who had less advanced weaponry. There is a photo below, so you can make your own opinion about it.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}

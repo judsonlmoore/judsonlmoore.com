@@ -21,16 +21,16 @@ _My friend Martin and I with Father Stephan_
 
 Known for its frescos and Baroque design, the church is a treasure of Bavaria. The exterior architecture of the church is not as opulent as one might expect from a German church, but this modest exterior brilliantly contains wondrous treasures for the eye. Here are a few photos detailing the beauty of this sacred place.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2015-01-23-niederaltaich-abbey"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2015-01-23-niederaltaich-abbey"] %}
 {% include gallery-post.html images=images %}
 
 ## Photos From Above the Abbey
 
 This was a real treat! I was allowed to ascend one of the church steeples to the bell room, and then walk out over the ceiling of the church! This was one of the coolest experiences of my life. I have often visited beautiful buildings, many of them churches, but this was a truly behind-the-scenes tour of epic proportions.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 Have you been to the Niederaltaich Abbey? Planning a trip to the region? Do you have other amazing stories to share about European churches or architecture? Please leave a comment below or get in touch with me at [@JudsonLMoore](http://twitter.com/judsonlmoore)!

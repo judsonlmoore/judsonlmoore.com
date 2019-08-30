@@ -43,6 +43,6 @@ Once back in Pushkar, we had to move quickly to make our bus back to Jaipur. Our
 
 All in all, this trip was one for the ages. Here are a few photos.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-12-15-pushkar"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-12-15-pushkar"] %}
 {% include gallery-post.html images=images %}

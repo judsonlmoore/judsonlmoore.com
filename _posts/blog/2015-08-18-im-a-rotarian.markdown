@@ -15,8 +15,8 @@ I've hit a great milestone in my life today: I am a Rotarian! I've been part of 
 
 Here are some photos of the pin ceremony, followed by a letter I wrote to [the folks](http://www.alexandriarotary.com/) that got me started down this path 16 years ago.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2015-08-18-im-a-rotarian"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2015-08-18-im-a-rotarian"] %}
 {% include gallery-post.html images=images %}
 
 ## An Open Letter To The Rotary Club of Alexandria

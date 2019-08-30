@@ -38,8 +38,8 @@ Above eye level, the inside of the Taj Mahal is mostly plain. Eye level and belo
 
 At the end of the day, we drove across the river to get a backside view of the Taj Mahal. This is the rumored site for a second Taj Mahal that would have been made of black stone, but which was never built. Now this space is a beautiful rose garden, and you can find some ruined foundations. I think this view of the Taj Mahal is the best, and what makes it even better: no one else is around!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-10-27-agra"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-10-27-agra"] %}
 {% include gallery-post.html images=images %}
 
 ## The Agra Fort
@@ -48,8 +48,8 @@ After the Taj Mahal (but before the gardens behind the Taj Mahal) we paid a visi
 
 The Agra Fort is very nice and has some similar design features and colors as we saw at the Taj Mahal. However, it is in many ways like most other palaces: gates, walls, harams, royal quarters, gardens, etc.. If you visit Agra, don't miss the Agra Fort for sure. But after seeing the Taj Mahal it's hard to make an impression! Just the same, here are some photos from the Fort.
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels[""] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery[""] %}
 {% include gallery-post.html images=images %}
 
 Have You been to Agra? Are you planning a trip? Please let us know by leaving a comment bellow or by writing me directly at @judsonlmoore!

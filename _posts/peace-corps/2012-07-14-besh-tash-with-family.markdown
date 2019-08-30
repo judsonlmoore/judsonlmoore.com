@@ -14,6 +14,6 @@ My second host family in Talas, Kyrgyzstan, took me to the nearby Besh Tash (Fiv
 
 Check out how cute my little sister is!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2012-07-14-besh-tash-with-family"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2012-07-14-besh-tash-with-family"] %}
 {% include gallery-post.html images=images %}

@@ -24,6 +24,6 @@ After the performances, we had a tasty dinner and then waited for sunset to obs
 
 Throughout the day, I was humbled by the overwhelming hospitality and eagerness of everyone who wanted to know me. The prayers, the dances, the music and the food were all equally fantastic. I greatly appreciate Abin, his wife Antara and daughter Abheepsa for including me in this festive day!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-12-22-satsang"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-12-22-satsang"] %}
 {% include gallery-post.html images=images %}

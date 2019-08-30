@@ -45,7 +45,15 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
+        <link
+            href="/assets/css/gallery-clean.css"
+            rel="stylesheet"
+        />
         <script src="/assets/js/jquery.min.js"></script>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -463,8 +471,34 @@
   </li>
 </ul>
 
-<div class="gallery-post">
-  
+<div class="tz-gallery">
+  <div class="row">
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-portrait-king-george-iv.jpg">
+              <img src="/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-portrait-king-george-iv.jpg" alt="A royal man in red uniform is painted against a brown background" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>Portrait of King George IV at the Dublin Castle</p>
+          </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+          <a class="lightbox" href="/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-state-corridor.jpg">
+              <img src="/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-state-corridor.jpg" alt="Judson stands in the State Corridor at the Dublin Castle" />
+          </a>
+          <div class="caption">
+              <h3></h3>
+              <p>The State Corridor at the Dublin Castle</p>
+          </div>
+      </div>
+    </div>
+    
+  </div>
 </div>
 
 <p><img src="../assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-irish-sword-of-state.jpg" alt="A detailed view of the gilded hilt of the Irish Sword of State" title=" The Irish Sword of State on Display at the Dublin Castle" />
@@ -1402,6 +1436,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
+        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

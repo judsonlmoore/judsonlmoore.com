@@ -18,6 +18,6 @@ You can see more fun Artiom and I are having in my post, [Biking to Panorama](ht
 
 On today's ski trip I was unfortunately too excited to actually take any photos of skiing, even though I did have my camera with me all day. Instead, here are some photos of putting on the snow chains half way up the mountain. From this American guy (me), two Fins, a Russian guy, A Kyrgyz Girl and a German guy, it was the German woman who schooled us in how to get this done. Thank you Ljuba for being awesome in pretty much everything!
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2012-12-01-ski-trip-to-zil-1"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2012-12-01-ski-trip-to-zil-1"] %}
 {% include gallery-post.html images=images %}

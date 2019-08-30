@@ -10,6 +10,6 @@ image:			2013/01/MartinAbschiedsparty_featured.jpg
 
 ---
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2012-09-15-martin-abschieds-party"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2012-09-15-martin-abschieds-party"] %}
 {% include gallery-post.html images=images %}

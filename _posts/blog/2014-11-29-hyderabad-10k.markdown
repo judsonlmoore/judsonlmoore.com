@@ -17,6 +17,6 @@ The VIP at the starting line was renowned Indian track Olympian, [Milkha Singh]
 
 ## Photos From The 2014 Hyderabad 10k
 
-{% assign gallery = site.data.gallery %}
-{% assign images = carousels["2014-11-29-hyderabad-10k"] %}
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2014-11-29-hyderabad-10k"] %}
 {% include gallery-post.html images=images %}
