@@ -10,4 +10,6 @@ image:			2012/06/K20SitePlacement_featured.jpg
 
 ---
 
-[gallery link="file" order="DESC"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-06-25-k20-site-placement-ceremony"] %}
+{% include gallery-post.html images=images %}

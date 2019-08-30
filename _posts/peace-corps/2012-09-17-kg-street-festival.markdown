@@ -10,4 +10,6 @@ image:
 
 ---
 
-[gallery link="file" include="1636, 1634, 1633, 1632, 1631, 1630, 1629, 1628, 1627"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-09-17-kg-street-festival"] %}
+{% include gallery-post.html images=images %}

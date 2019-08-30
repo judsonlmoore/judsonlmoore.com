@@ -16,4 +16,6 @@ We share stories with each other and with staff about our experiences as Peace C
 
 As for me, I will see all of the people I am closest with before we depart from our service. So, back to work!
 
-[gallery type="rectangular" link="none" ids="3936,3937,3940,3943,3942,3941,3938,3939"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2013-04-06-k-19-cos-conference"] %}
+{% include gallery-post.html images=images %}

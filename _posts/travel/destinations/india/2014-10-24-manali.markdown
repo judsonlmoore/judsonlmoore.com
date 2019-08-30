@@ -23,4 +23,6 @@ Our time here was short, but the memories of the majestic views will stay with m
 
 ## Photos From Manali
 
-[gallery link="none" ids="3089,3091,3090,3093,3096,3099,3200,3199,3105,3102"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-10-24-manali"] %}
+{% include gallery-post.html images=images %}

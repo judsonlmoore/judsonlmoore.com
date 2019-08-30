@@ -23,7 +23,9 @@ The second day here was my favorite time of the whole trip. We rented 4-wheelers
 
 This day was full of adventure and beauty, all complete before lunch!
 
-[gallery link="none" ids="2975,2976,2974,2977,2979,2985,2980,2981,2982,2983,2984,2978"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-11-07-villa-de-leyva"] %}
+{% include gallery-post.html images=images %}
 
 \*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).
 

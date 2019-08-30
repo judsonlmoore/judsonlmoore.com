@@ -13,6 +13,8 @@ image:			2014/11/IMG_2198.jpg
 
 Our first days were spent in the capital city, Bogotá. On the first day we explored the Monastery, [Cerro de Monserrate](http://en.wikipedia.org/wiki/Monserrate), which has breathtaking panoramic views of Bogotá. After some photo ops with local school children, we went down into the city center and spent several hours at [The Gold Museum](http://en.wikipedia.org/wiki/Gold_Museum,_Bogot%C3%A1). This museum is the most extensive collection of gold artifacts in the world. Located in a region of town called [La Candelaria](http://en.wikipedia.org/wiki/La_Candelaria) (the old town), the museum is next to the national capital and some very interesting architecture.
 
-[gallery link="none" ids="2937,2938,2939,2940,2941,2942,2943,2944,2945,2946,2947"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-11-01-bogota"] %}
+{% include gallery-post.html images=images %}
 
 \*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).

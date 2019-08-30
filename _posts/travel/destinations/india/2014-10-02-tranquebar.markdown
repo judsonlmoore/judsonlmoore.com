@@ -31,4 +31,6 @@ The town, especially the coastline, is very photogenic. The weather was perfect 
 
 ## Photos From Tranquebar
 
-[gallery link="none" type="rectangular" ids="3092,3094,3095,3097,3100,3233,3234,3235,3236,3104,3237,3238,3227,3224,3107"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-10-02-tranquebar"] %}
+{% include gallery-post.html images=images %}

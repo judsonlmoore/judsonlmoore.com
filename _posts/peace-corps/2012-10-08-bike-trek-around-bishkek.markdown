@@ -14,4 +14,6 @@ I took a little trek around Bishkek and was smart enough to carry my camera with
 
 You can see more photos of Bishkek architecture in my other blog post, [More Bishkek Photos](https://www.judsonlmoore.com/bishkek/more-bishkek-photos/). And even more biking photos in my post, [Biking to Panorama](https://www.judsonlmoore.com/life/biking-to-panorama/).
 
-[gallery ids="1867,1863,1864,1865,1866,1861,1860,1859,1858,1857,1856,1855,1854,1853,1852,1847,1851,1850,1849,1848,1846"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-10-08-bike-trek-around-bishkek"] %}
+{% include gallery-post.html images=images %}

@@ -15,7 +15,9 @@ image:			2014/11/IMG_3601.jpg
 
 Near Bogotá is the [Salt Cathedral of Zipaquirá](http://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1). If you go to Colombia and don't go here, you should truly feel like you've missed out on something grand. Dubbed, "a wonder of the world, the first wonder of Colombia," photos can't do this place justice. Just get there.
 
-[gallery link="none" ids="2998,2997,2996,2995,2994,2993,2992,2991,2990,2989,2988,2987"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-11-08-salt-cathedral-zipaquira"] %}
+{% include gallery-post.html images=images %}
 
 \*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).
 

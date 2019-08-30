@@ -15,4 +15,6 @@ Waking up to a perfect October morning, I decided to make a Bishkek photo tour b
 
 ## A Collection From the Bishkek Photo Tour
 
-[gallery ids="1894,1895,1896,1897,1898,1899,1900,1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1913,1914,1915,1916,1917,1918,1919,1920,1921,1922,1923,1924,1925,1926,1927,1928,1929,1930,1931,1932,1933,1934"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-10-14-bishkek-photo-tour"] %}
+{% include gallery-post.html images=images %}

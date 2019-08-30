@@ -25,4 +25,6 @@ After spending sunrise on the coast, we wandered around the historic district of
 
 ## Photos From Pondicherry
 
-[gallery link="none" ids="3189,3188,3190,3191,3217,3192,3193,3194,3195,3196,3197,3198"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-10-02-pondicherry"] %}
+{% include gallery-post.html images=images %}

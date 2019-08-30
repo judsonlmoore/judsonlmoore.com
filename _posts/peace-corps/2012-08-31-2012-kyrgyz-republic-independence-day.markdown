@@ -10,4 +10,6 @@ image:			2012/08/2012KGIndeDay_featured.jpg
 
 ---
 
-[gallery link="file" ids="1750,1752,1753,1754,1755,1756,1757,1758,1759,1760,1761,1762,1763,1764,1765"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-08-31-2012-kyrgyz-republic-independence-day"] %}
+{% include gallery-post.html images=images %}

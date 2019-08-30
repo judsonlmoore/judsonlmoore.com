@@ -16,4 +16,6 @@ We went to a resort not far from Bishkek called Зил (Zil) which is my favorit
 
 To learn more about skiing in Kyrgyzstan and for the latest weather conditions, visit [Ski.kg](http://ski.kg/).
 
-[gallery type="circle" ids="1970,1971,1972,1973,1974,1975,1976,1977"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2013-01-02-ski-trip-to-zil-2"] %}
+{% include gallery-post.html images=images %}

@@ -24,6 +24,8 @@ The whole experience was fantastic and though I wish I had the strength to stay 
 
 Here are some fantastic photos of the Cathedral. I took the first two inside during the midnight mass but it was a little difficult to appropriately take photos. So I found some other ones on the internet.
 
-[gallery order="DESC" link="post" ids="1492,1493,1494,1495,1491,1488,1490,1489,1497"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2013-01-07-merry-christmas-russian-orthodox"] %}
+{% include gallery-post.html images=images %}
 
 Here is a great video I found on YouTube of nice panoramic shots of the inside and outside of the cathedral. The inside is much different than what we expect in the west.

@@ -18,4 +18,6 @@ The massive inner compound is similar to Disney Land, in that you could be here 
 
 As I explored the grounds of the fort, I felt like I was on a treasure hunt, imaging where the diamond once rested. It was a surreal experience to be in this place so far from home, but which had such a strong connection with one of my most vivid childhood memories. I frequented the fort while living in Hyderabad, and if ever I return to the area, I will no doubt visit here again.
 
-[gallery type="rectangular" link="none" ids="4069,4070,4071,4072,4073,4074,4075,4076,4077,4078,4079,4080,4081,4082,4083,4084,4085,4086,4087,4088,4089,4090,4092,4093,4095,4096,4097,4098,4099,4100"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-09-14-golconda-fort"] %}
+{% include gallery-post.html images=images %}

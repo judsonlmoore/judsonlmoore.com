@@ -5,8 +5,8 @@
     <description>Author and travel addict</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Aug 2019 20:12:53 +0200</pubDate>
-    <lastBuildDate>Thu, 29 Aug 2019 20:12:53 +0200</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2019 20:43:07 +0200</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2019 20:43:07 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -959,7 +959,9 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;[gallery link=”file” size=”large” columns=”2” ids=”18875,18876”]&lt;/p&gt;
+&lt;div class=&quot;gallery-post&quot;&gt;
+  
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-irish-sword-of-state.jpg&quot; alt=&quot;A detailed view of the gilded hilt of the Irish Sword of State&quot; title=&quot; The Irish Sword of State on Display at the Dublin Castle&quot; /&gt;
 &lt;span class=&quot;caption&quot;&gt; The Irish Sword of State on Display at the Dublin Castle&lt;/span&gt;&lt;/p&gt;

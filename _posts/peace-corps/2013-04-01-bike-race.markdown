@@ -14,6 +14,8 @@ I recently participated in my first bike race! It was a really great experience 
 
 Yeah Bike!
 
-[gallery ids="2223,2226,2224,2227,2228,2229,2225"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2013-04-01-bike-race"] %}
+{% include gallery-post.html images=images %}
 
 _Most photos are from this source: [http://diesel.elcat.kg/index.php?showtopic=29096863&st=180](http://diesel.elcat.kg/index.php?showtopic=29096863&st=180)_

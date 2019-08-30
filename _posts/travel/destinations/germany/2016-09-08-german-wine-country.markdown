@@ -60,7 +60,9 @@ Download the entire Weingut Pfirmann 2016 wine list [here (PDF)" file="../asse
 
 11. **2012 Cabernet-Merlot dry, 14% VOL** - Full-bodied with herbal notes. Fruity, spicy. Very soft, less tannic than Cabernet Sauvignon.
 
-[gallery type="rectangular" link="none" ids="5249,5250,5251,5300"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2016-09-08-german-wine-country"] %}
+{% include gallery-post.html images=images %}
 
 ## The Walk Back To Town
 

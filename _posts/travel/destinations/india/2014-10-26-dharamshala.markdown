@@ -31,4 +31,6 @@ Also, if you go there, I have a fantastic contact for buying the best jewels, ru
 
 ## Photos From Dharamshala
 
-[gallery link="none" type="rectangular" ids="3168,3169,3170,3171,3172,3173,3174,3175,3176,3177,3178,3179,3180,3181,3182"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-10-26-dharamshala"] %}
+{% include gallery-post.html images=images %}

@@ -12,6 +12,8 @@ image:			2013/01/AitBishkek_featured.jpg
 
 This morning Bishkek Muslims began the Kurban Ait celebration by gathering in the center square of the city. 70,000 people were projected to be in attendance and I made my way to observe the events. If you have ever seen Muslims pray, then there is nothing new to report here. The entire affair lasted only about half an hour and was a calming way to being this beautiful autumn day.
 
-[gallery ids="1952,1953"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-10-26-kurban-ait"] %}
+{% include gallery-post.html images=images %}
 
 More about Kurban Ait on [Wikipedia](http://en.wikipedia.org/wiki/Kurban_Ait).

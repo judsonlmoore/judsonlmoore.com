@@ -12,4 +12,6 @@ image:			2012/06/MarsFamily_featured.jpg
 
 Mars is a dear friend of mine from Bishkek and was my main host when I visited Bishkek before I moved here. Here I am with his family having a great time enjoying a beautiful day.
 
-[gallery link="file" include="1651, 1650, 1649, 1648, 1647, 1646, 1645, 1643, 1642, 1641, 1640"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-06-25-mars-family"] %}
+{% include gallery-post.html images=images %}

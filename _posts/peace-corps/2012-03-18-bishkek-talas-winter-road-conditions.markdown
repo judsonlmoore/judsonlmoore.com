@@ -12,4 +12,6 @@ image:
 
 Think you have a tough commute? This is just another day in the life of a Talas Peace Corps Volunteer. I came to a point where every time I got in a car to make this drive I full accepted the idea that this may be the very last time I use my legs. It is no way to live accepting something like that, but it is a real risk we take out there. Good luck to everyone who still has to make the journey!
 
-<!--<!--[gallery link="file"]-->-->
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-03-18-bishkek-talas-winter-road-conditions"] %}
+{% include gallery-post.html images=images %}

@@ -12,4 +12,6 @@ image:			2013/01/ICTCampDinnerNight_featured.jpg
 
 Last night I had a group of new friends in Bishkek over for dinner at my new apartment. We played Jinga, ate red beans and rice, and had a really fun time. Everyone here was involved in the 2-day camp I did in July for students from Jalalabad Oblast. They are the magic makers!
 
-[gallery ids="1801,1802,1803,1804,1805,1806,1807,1800"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-08-12-ict-camp-dinner-night"] %}
+{% include gallery-post.html images=images %}

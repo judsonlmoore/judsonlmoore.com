@@ -20,4 +20,6 @@ The views from atop Charminar are great. The way that traffic flows around the s
 
 Today was a great day!
 
-[gallery link="none" type="rectangular" ids="3044,3051,3045,3046,3047,3048,3049,3050"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-09-13-charminar"] %}
+{% include gallery-post.html images=images %}

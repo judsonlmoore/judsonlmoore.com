@@ -10,4 +10,6 @@ image:			2013/01/MartinAbschiedsparty_featured.jpg
 
 ---
 
-[gallery link="file" ids="1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-09-15-martin-abschieds-party"] %}
+{% include gallery-post.html images=images %}

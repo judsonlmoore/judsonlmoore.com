@@ -31,4 +31,6 @@ Please forgive my appearance in these photos; I'd been on a plane for over 24-ho
 
 ## Photos From Abu Dhabi
 
-[gallery link="none" ids="3147,3148,3150,3149,3203,3204,3151,3152,3153,3154,3155,3205,3157,3206,3156"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-11-12-abu-dhabi"] %}
+{% include gallery-post.html images=images %}

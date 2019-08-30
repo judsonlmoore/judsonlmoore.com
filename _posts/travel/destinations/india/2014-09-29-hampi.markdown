@@ -32,7 +32,9 @@ I was riding to Hampi with some colleagues of mine and wea decided to drive thro
 
 As the sun rose, the area around us came alive. There was a family of boar rummaging around our car and not 100 meters from us was a little food stand with fresh breakfast. 'Upma' is basically grits with a kick, and was some of the best food I've eaten in India. It's true, street food, especially village street food, is the best.
 
-[gallery type="rectangular" ids="3228,3245,3231,3230,3243,3229,3244"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-09-29-hampi"] %}
+{% include gallery-post.html images=images %}
 
 ## The Tungabhadra Dam and a Hindu Fest
 
@@ -42,7 +44,9 @@ The grounds below the dam are covered by a national park, botanical gardens and 
 
 Just in case you've missed the subtile hints: the food is awesome.
 
-[gallery type="rectangular" link="none" ids="3249,3250,3251,3252,3253,3254,3255"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 ## The Historical Ruins of Hampi
 
@@ -52,12 +56,18 @@ The guide wanted INR1000 to take us to five destinations around Hampi and to be 
 
 If we had not negotiated his price, then we would have either paid INR1000 for 6-hours and seen more, or we would have paid INR500 for just three hours of his time. In the end, paying INR750 for 3 hours was the most costly way to go. What this taught me about negotiating in India is that you can feel like a winner at the time of negotiation, but people always find a way to make their margins in the end. This proved to be true at every scale and every purchase that I made for the next 4 months.
 
-[gallery type="rectangular" link="none" ids="3267,3266,3265,3264,3263,3262,3261,3260,3259,3258,3257,3256"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 Most of the original buildings of Hampi were destroyed by the invasion of three Muslim kings in 1565, but there are a few buildings with Islamic architectural details which they left standing. Additionally, there are a few buildings they left for their own use, like the elephant stables. Very few buildings that were destroyed have been reconstructed, but as you will see from these photos, those which remain are truly beautiful.
 
-[gallery type="rectangular" link="none" ids="3268,3269,3270,3271,3272,3273,3274,3275"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 The central point of Hampi is marked by the very large Virupaksha Temple. The panoramic view of this temple from atop a nearby hill is breathtaking. This single structure and the view from this vantage point is the most interesting thing I saw in all of India.
 
-[gallery type="rectangular" link="none" ids="3276,3277,3278,3279,3280,3281,3282,3283,3284,3285,3286,3287,3288"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}

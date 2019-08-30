@@ -19,4 +19,6 @@ The parents of our CEO live in Hyderabad and so they attended the event as the g
 
 ## Photos From The Puja
 
-[gallery type="rectangular" link="none" ids="2907,2915,2914,2913,2912,2911,2908,2910,2909"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-10-07-mutual-mobile-puja"] %}
+{% include gallery-post.html images=images %}

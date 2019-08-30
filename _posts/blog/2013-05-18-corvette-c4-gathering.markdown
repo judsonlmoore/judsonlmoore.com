@@ -19,13 +19,17 @@ After spending over two years outside of the United States, what's the most Amer
 
 Daniel has been collecting and restoring C4 Corvettes since high school, and basically everything I know about the mechanical workings of cars comes from my spending time with him working on his cars. For this trip, we brought along his coveted and very rare 1996 Grand Sport, a limited edition car that they only ever made 1000 of. His has only 7,000 miles on it and the seats are still wrapped in the original plastic. It's a true museum piece, it even spent a few years under the central atrium of the Corvette Museum. For this trip, we trailered the car to Kentucky, stayed at a hotel across the street from the museum and only drove the car from one side of the street to the other. The photos do the car no justice, it truly is gorgeous in person.
 
-[gallery type="rectangular" link="none" ids="4032,4034,4035,4036"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2013-05-18-corvette-c4-gathering"] %}
+{% include gallery-post.html images=images %}
 
 ## The National Corvette Museum Tour
 
 The C4 Gathering lasted for four days and was full of information sessions about the history of Corvette, opportunities to look at the new ZO6 and Stringrays which were not yet available for purchase, concept cars, race cars and lots of opportunities to race the cars that people brought with them. And now here is what you're really here for: car photos!
 
-[gallery type="rectangular" link="none" ids="4040,4050,4046,4037,4038,4039,4047,4048,4041,4042,4043,4044,4045,4049,4051,4052,4053,4054,4055,4056,4057,4058,4059,4062,4063,4066"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 Here is your Judson trivia factoid for the day: I grew up in Kentucky, not Louisiana. Did you already know that? If so, then you are either *really* paying attention, or you have known me for a very long time. I've not been back to Kentucky since 1999, and so while I was this close to my childhood home, my childhood best friend, Kevin, surprised me with a visit to Bowling Green! What a great trip!
 

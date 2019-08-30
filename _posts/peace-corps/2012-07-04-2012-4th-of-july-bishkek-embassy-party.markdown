@@ -12,4 +12,6 @@ image:			2012/07/20124thOfJuly.jpg
 
 Happy Birthday America! Here are a few photos of the festivities at the American Embassy in Bishkek. They really know how to throw a party and make us ExPats feel at home for a day! Thank you!
 
-[gallery link="file" order="DESC"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2012-07-04-2012-4th-of-july-bishkek-embassy-party"] %}
+{% include gallery-post.html images=images %}

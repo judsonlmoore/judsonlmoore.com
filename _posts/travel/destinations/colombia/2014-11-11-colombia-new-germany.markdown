@@ -19,7 +19,9 @@ I recently made a 12-day trip to Colombia to reunite with a few friends from my 
 
 Our first days were spent in the capital city, Bogotá. On the first day we explored the Monastery, [Cerro de Monserrate](http://en.wikipedia.org/wiki/Monserrate), which has breathtaking panoramic views of Bogotá. After some photo ops with local school children, we went down into the city center and spent several hours at [The Gold Museum](http://en.wikipedia.org/wiki/Gold_Museum,_Bogot%C3%A1). This museum is the most extensive collection of gold artifacts in the world. Located in a region of town called [La Candelaria](http://en.wikipedia.org/wiki/La_Candelaria) (the old town), the museum is next to the national capital and some very interesting architecture.
 
-[gallery link="none" ids="2937,2938,2939,2940,2941,2942,2943,2944,2945,2946,2947"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-11-11-colombia-new-germany"] %}
+{% include gallery-post.html images=images %}
 
 ## Cartagena: Costal Paradise of Colombia
 
@@ -31,7 +33,9 @@ The best desserts on the planet are at [Mila Pasteleria](http://www.tripadvisor.
 
 I found that the souvenir shopping was pretty "meh." If you see one street vendor or one shop, then you've pretty much seen all of your local selection. You can shop till you drop at one of the many designer stores, but the prices in the Old City are greatly inflated from what you would find anywhere else. I didn't see much value in that, but hey, you only live once, and if you see something you just have to have, go for it. I didn't make any purchases here other than flip flops for the beach.
 
-[gallery link="none" ids="2948,2949,2950,2951,2952,2953,2954,2955"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 ## Isla Palma: A Drug-Induced Island of Colombia
 
@@ -41,7 +45,9 @@ The island is located a 3-hour bus ride south of Cartagena, followed by a 30-min
 
 Between the jungle flora and fauna and the sense of adventure that this forgotten section of the island provided us, it was exploring back here that I most loved.
 
-[gallery link="none" ids="2959,2960,2964,2963,2961,2958,2957,2965,2956"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 ## Villa de Leyva: Mountain Adventures
 
@@ -53,19 +59,25 @@ The second day here was my favorite time of the whole trip. We rented 4-wheelers
 
 This day was full of adventure and beauty, all complete before lunch!
 
-[gallery link="none" ids="2975,2976,2974,2977,2979,2985,2980,2981,2982,2983,2984,2978"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 ## Salt Cathedral of Zipaquirá
 
 Near Bogotá is the [Salt Cathedral of Zipaquirá](http://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1). If you go to Colombia and don't go here, you should truly feel like you've missed out on something grand. Dubbed, "a wonder of the world, the first wonder of Colombia," photos can't do this place justice. Just get there.
 
-[gallery link="none" ids="2998,2997,2996,2995,2994,2993,2992,2991,2990,2989,2988,2987"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 ## The World's Tackiest, Funnest, and Tastiest Steakhouse
 
 We celebrated our final evening in Colombia in grand fashion with incredible food, drinks and dancing. The most famous place to eat in all of Colombia is [Andrés Carne de Res](http://www.andrescarnederes.com/). There are 2 locations in Bogotá. One is in the city center (fashion district) and is new and corporate feeling. The original location is just outside of town. If you get a chance, go to the out-of-town location. It's like Hard Rock Cafe, Cracker Barrel, Tex Mex, BBQ and a hoarder-artist estate sale had a freak baby who turned out to be a culinary prodigy. Andrés Carne de Res is the best place to eat, drink, and party on the weekends. Closes at 3am. Prepare for steep prices on the drinks, but it's well worth it. The food is very reasonably priced and the best meat that I had in all of Colombia (which is REALLY saying something!)
 
-[gallery link="none" ids="2970,2969,2968,2972,2971"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels[""] %}
+{% include gallery-post.html images=images %}
 
 ## A Surprising Place For The Best Breakfast
 

@@ -24,4 +24,6 @@ We only had a few hours to spend in Ajmer, so after finding a quick coffee we ha
 
 Have you been to Ajmer? Planing a trip there? Please leave me a comment below, or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
 
-[gallery link="none" type="rectangular" ids="3103,3106,3108,3109,3111,3114,3116"]
+{% assign gallery = site.data.gallery %}
+{% assign images = carousels["2014-12-13-ajmer"] %}
+{% include gallery-post.html images=images %}
