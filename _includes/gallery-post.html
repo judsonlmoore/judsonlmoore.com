@@ -4,7 +4,31 @@
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
           <a class="lightbox" href="{{ site.image-path }}{{ image.url }}">
-              <img src="{{ site.image-path }}{{ image.url }}" alt="{{ image.alt }}">
+
+            {% if jekyll.environment == 'production' %}
+
+            <img
+              src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_800/{{ site.url }}{{ site.image-path }}{{ post.image }}"
+              loading="lazy"
+              alt="{{ image.alt }}"
+              crossorigin="anonymous"
+              srcset="
+                https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_150/{{ site.url }}{{ site.image-path }}{{ image.url }} 150w, 
+                https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_300/{{ site.url }}{{ site.image-path }}{{ image.url }} 300w,
+                https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_600/{{ site.url }}{{ site.image-path }}{{ image.url }} 600w,
+                https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_1200/{{ site.url }}{{ site.image-path }}{{ image.url }} 1200w,
+              "
+            />
+
+            {% else %}
+
+            <img
+              src="{{ site.url }}{{ site.image-path }}{{ image.url }}"
+              alt="{{ image.alt }}"
+            />
+
+            {% endif %}
+
           </a>
           <div class="caption">
               <h3>{{ image.title }}</h3>
