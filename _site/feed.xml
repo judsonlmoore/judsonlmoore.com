@@ -5,8 +5,8 @@
     <description>Author and travel addict</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Aug 2019 23:12:35 +0200</pubDate>
-    <lastBuildDate>Fri, 30 Aug 2019 23:12:35 +0200</lastBuildDate>
+    <pubDate>Sun, 01 Sep 2019 09:55:45 +0200</pubDate>
+    <lastBuildDate>Sun, 01 Sep 2019 09:55:45 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -240,7 +240,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg&quot; alt=&quot;Bushes with pink flowers in a desert landscape along the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/05/petra-jordan-high-place-of-sacrifice-trail.jpg&quot; alt=&quot;Bushes with pink flowers in a desert landscape along the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -252,7 +258,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg&quot; alt=&quot;Stacked stones on the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/05/petra-jordan-petra-jordan-high-place-of-sacrifice-trail-rock-formations.jpg&quot; alt=&quot;Stacked stones on the route of the High Place of Sacrifice Trail in Petra&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -264,7 +276,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg&quot; alt=&quot;Facade of The Roman Soldier's Tomb on the High Place of Sacrifice Trail in Petra&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/05/petra-jordan-tomb-of-a-roman-soldier.jpg&quot; alt=&quot;Facade of The Roman Soldier's Tomb on the High Place of Sacrifice Trail in Petra&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -443,7 +461,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-013.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-013.jpg&quot; alt=&quot;Tintin performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-013.jpg&quot; alt=&quot;Tintin performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -455,7 +479,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-002.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-002.jpg&quot; alt=&quot;Champion du Monde performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-002.jpg&quot; alt=&quot;Champion du Monde performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -467,7 +497,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-003.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-003.jpg&quot; alt=&quot;Diana Bailey Band performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-003.jpg&quot; alt=&quot;Diana Bailey Band performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -479,7 +515,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-004.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-004.jpg&quot; alt=&quot;Avocadogate performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-004.jpg&quot; alt=&quot;Avocadogate performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -491,7 +533,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-012.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-012.jpg&quot; alt=&quot;Josito &amp;amp; the Kids performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-012.jpg&quot; alt=&quot;Josito &amp;amp; the Kids performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -503,7 +551,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-005.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-005.jpg&quot; alt=&quot;Carmencitas performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-005.jpg&quot; alt=&quot;Carmencitas performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -515,7 +569,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-008.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-008.jpg&quot; alt=&quot;Drumson performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-008.jpg&quot; alt=&quot;Drumson performs at the trivagoVibe in Düsseldorf&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -527,7 +587,16 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-009.jpg&quot;&gt;
-              &amp;lt;img src=&quot;/assets/images/2018/08/trivagoVibe-Summer-2018-009.jpg&quot; alt=&quot;Hakan, AKA &quot;Minimus&quot; produced the trivagoVibe and closed out the night with an incredible DJ set.&quot;&amp;gt;
+
+            
+
+            &amp;lt;img
+              src=&quot;http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-009.jpg&quot;
+              alt=&quot;Hakan, AKA &quot;Minimus&quot; produced the trivagoVibe and closed out the night with an incredible DJ set.&quot;
+            /&amp;gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -1020,7 +1089,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-portrait-king-george-iv.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-portrait-king-george-iv.jpg&quot; alt=&quot;A royal man in red uniform is painted against a brown background&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-portrait-king-george-iv.jpg&quot; alt=&quot;A royal man in red uniform is painted against a brown background&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
@@ -1032,7 +1107,13 @@
     &lt;div class=&quot;col-sm-6 col-md-4&quot;&gt;
       &lt;div class=&quot;thumbnail&quot;&gt;
           &lt;a class=&quot;lightbox&quot; href=&quot;/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-state-corridor.jpg&quot;&gt;
-              &lt;img src=&quot;/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-state-corridor.jpg&quot; alt=&quot;Judson stands in the State Corridor at the Dublin Castle&quot; /&gt;
+
+            
+
+            &lt;img src=&quot;http://localhost:4000/assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-state-corridor.jpg&quot; alt=&quot;Judson stands in the State Corridor at the Dublin Castle&quot; /&gt;
+
+            
+
           &lt;/a&gt;
           &lt;div class=&quot;caption&quot;&gt;
               &lt;h3&gt;&lt;/h3&gt;
