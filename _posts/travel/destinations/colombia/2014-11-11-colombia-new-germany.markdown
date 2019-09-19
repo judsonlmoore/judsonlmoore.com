@@ -21,7 +21,7 @@ Our first days were spent in the capital city, Bogotá. On the first day we exp
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-11-11-colombia-new-germany"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## Cartagena: Costal Paradise of Colombia
 
@@ -35,7 +35,7 @@ I found that the souvenir shopping was pretty "meh." If you see one street ven
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## Isla Palma: A Drug-Induced Island of Colombia
 
@@ -47,7 +47,7 @@ Between the jungle flora and fauna and the sense of adventure that this forgotte
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## Villa de Leyva: Mountain Adventures
 
@@ -61,7 +61,7 @@ This day was full of adventure and beauty, all complete before lunch!
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## Salt Cathedral of Zipaquirá
 
@@ -69,7 +69,7 @@ Near Bogotá is the [Salt Cathedral of Zipaquirá](http://en.wikipedia.org/wik
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## The World's Tackiest, Funnest, and Tastiest Steakhouse
 
@@ -77,7 +77,7 @@ We celebrated our final evening in Colombia in grand fashion with incredible foo
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## A Surprising Place For The Best Breakfast
 

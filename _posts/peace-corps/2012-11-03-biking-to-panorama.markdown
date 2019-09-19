@@ -14,4 +14,4 @@ I bought a mountainbike so that I could go to the mountains. And so I did! [My l
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-11-03-biking-to-panorama"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

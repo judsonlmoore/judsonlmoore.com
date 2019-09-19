@@ -16,4 +16,4 @@ You can see more photos of Bishkek architecture in my other blog post, [More B
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-10-08-bike-trek-around-bishkek"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

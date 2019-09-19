@@ -36,4 +36,4 @@ Have you been to Köln? Planning a trip to the region? Please leave a comment be
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2015-01-16-reunion-koln"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

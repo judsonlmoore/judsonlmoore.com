@@ -16,10 +16,10 @@ In the year that I have lived in Talas I have made many visits to the Kyrgyz cap
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-06-25-sushi-night"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 **Sushi Night #2**
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

@@ -20,4 +20,4 @@ As I explored the grounds of the fort, I felt like I was on a treasure hunt, ima
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-09-14-golconda-fort"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

@@ -16,4 +16,4 @@ The Future Leaders Exchange (FLEX) Program is a US government-sponsored program 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-10-14-flex-exam-2012-bishkek"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

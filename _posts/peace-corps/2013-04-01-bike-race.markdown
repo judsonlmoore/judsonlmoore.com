@@ -16,6 +16,6 @@ Yeah Bike!
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-04-01-bike-race"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 _Most photos are from this source: [http://diesel.elcat.kg/index.php?showtopic=29096863&st=180](http://diesel.elcat.kg/index.php?showtopic=29096863&st=180)_

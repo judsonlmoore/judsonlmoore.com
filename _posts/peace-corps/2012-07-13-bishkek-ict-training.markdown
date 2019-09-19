@@ -18,7 +18,7 @@ Camp organizer,  Meerim Mamyrbekova, wrote a fantastic final report so rather t
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-07-13-bishkek-ict-training"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 **Project description**
 

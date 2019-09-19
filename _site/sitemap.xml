@@ -808,6 +808,9 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/book/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/brazil/</loc>
 </url>
 <url>

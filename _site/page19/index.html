@@ -43,15 +43,12 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
-        <link
-            href="/assets/css/gallery-clean.css"
-            rel="stylesheet"
-        />
         <script src="/assets/js/jquery.min.js"></script>
-
         <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/all.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/v4-shims.js"></script>
+        
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -64,154 +61,153 @@
             />
             <link
                 rel="stylesheet"
-                stc="/assets/css/all.min.css"
+                src="/assets/css/all.min.css"
                 crossorigin="anonymous"
-            />
+            />         
         </noscript>
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <nav
-            class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down"
+        <nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="/">
+            <h1 class="logo-title">Judson L Moore</h1>
+            <p class="logo-subtitle">
+                Author and travel addict
+            </p>
+        </a>
+        <!-- End Logo -->
+
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
         >
-            <div class="container pr-0">
-                <!-- Begin Logo -->
-                <a class="navbar-brand" href="/">
-                    <h1 class="logo-title">Judson L Moore</h1>
-                    <p class="logo-subtitle">
-                        Author and travel addict
-                    </p>
-                </a>
-                <!-- End Logo -->
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-toggle="collapse"
-                    data-target="#navbarMediumish"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <!-- Begin Menu -->
 
-                <div class="collapse navbar-collapse" id="navbarMediumish">
-                    <!-- Begin Menu -->
-
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Asia
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/india/"
-                                    >India</a
-                                >
-                                <a class="dropdown-item" href="/kyrgyzstan/"
-                                    >Kyrgyzstan</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Europe
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/england/"
-                                    >England</a
-                                >
-                                <a class="dropdown-item" href="/germany/"
-                                    >Germany</a
-                                >
-                                <a class="dropdown-item" href="/switzerland/"
-                                    >Switzerland</a
-                                >
-                                <a class="dropdown-item" href="/turkey/"
-                                    >Turkey</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                MENA
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/egypt/"
-                                    >Egypt</a
-                                >
-                                <a class="dropdown-item" href="/morocco/"
-                                    >Morocco</a
-                                >
-                                <a class="dropdown-item" href="/uae/">UAE</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Americas
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/brazil/"
-                                    >Brazil</a
-                                >
-                                <a class="dropdown-item" href="/colombia/"
-                                    >Colombia</a
-                                >
-                                <a class="dropdown-item" href="/usa/">USA</a>
-                            </div>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/whileyoung/">
-                                #WhileYoung
-                            </a>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/female-travel/"
-                                ><i class="fab fa-snapchat-ghost"></i> Female
-                                Travel</a
-                            >
-                        </li>
-                        <script src="/assets/js/lunr.js"></script>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Asia
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/india/"
+                            >India</a
+                        >
+                        <a class="dropdown-item" href="/kyrgyzstan/"
+                            >Kyrgyzstan</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Europe
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/england/"
+                            >England</a
+                        >
+                        <a class="dropdown-item" href="/germany/"
+                            >Germany</a
+                        >
+                        <a class="dropdown-item" href="/switzerland/"
+                            >Switzerland</a
+                        >
+                        <a class="dropdown-item" href="/turkey/"
+                            >Turkey</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        MENA
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/egypt/"
+                            >Egypt</a
+                        >
+                        <a class="dropdown-item" href="/morocco/"
+                            >Morocco</a
+                        >
+                        <a class="dropdown-item" href="/uae/">UAE</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Americas
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/brazil/"
+                            >Brazil</a
+                        >
+                        <a class="dropdown-item" href="/colombia/"
+                            >Colombia</a
+                        >
+                        <a class="dropdown-item" href="/usa/">USA</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="nav-link" href="/whileyoung/">
+                        #WhileYoung
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link" href="/female-travel/"
+                        ><i class="fab fa-snapchat-ghost"></i> Female
+                        Travel</a
+                    >
+                </li>
+            </ul>
+            <script src="/assets/js/lunr.js"></script>
 
 
 <style>
@@ -232,25 +228,22 @@
 </div>
 
 <script src="/assets/js/lunrsearchengine.js"></script>
-                    </ul>
+            <!-- End Menu -->
+        </div>
+    </div>
+</nav>
 
-                    <!-- End Menu -->
-                </div>
-            </div>
-        </nav>
         <!-- End Navigation
 ================================================== -->
 
+        
+
         <div class="site-content">
             <div class="container">
+
                 <!-- Site Title
-================================================== 
-                <div class="mainheading">
-                    <h1 class="sitetitle">Judson L Moore</h1>
-                    <p class="lead">
-                        Author and travel addict
-                    </p>
-                </div> -->
+================================================== -->
+                
 
                 <!-- Content
 ================================================== -->
@@ -260,12 +253,18 @@
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
+
     <div class="section-title">
+
         <h2><span>All Stories</span></h2>
+
     </div>
 
     <div class="row listrecent">
-         <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -274,73 +273,44 @@
             <a href="/ski-trip-to-zil-1/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2013/01/SkiTripToZil_1_featured.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2013/01/SkiTripToZil_1_featured.jpg" alt="Ski Trip To Zil"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/ski-trip-to-zil-1/"
-                    >Ski Trip To Zil</a
-                >
+                <a class="text-dark" href="/ski-trip-to-zil-1/">Ski Trip To Zil</a>
                 
             </h2>
-            <h4 class="card-text">
-                Ski Season is here! My desire for years has been to live within a 3-hours drive of skiing. And now I am less than an hour away from skiing. And...
-            </h4>
+            <h4 class="card-text">Ski Season is here! My desire for years has been to live within a 3-hours drive of skiing. And now I am less than an hour away from skiing. And...</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >01 Dec 2012</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">01 Dec 2012</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/ski-trip-to-zil-1/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/ski-trip-to-zil-1/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -349,73 +319,44 @@
             <a href="/biking-to-panorama/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2013/01/BikingPanoramaBishkek_007.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2013/01/BikingPanoramaBishkek_007.jpg" alt="Biking to Panorama"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/biking-to-panorama/"
-                    >Biking to Panorama</a
-                >
+                <a class="text-dark" href="/biking-to-panorama/">Biking to Panorama</a>
                 
             </h2>
-            <h4 class="card-text">
-                I bought a mountainbike so that I could go to the mountains. And so I did! My lovely new Giant ATX770 held up to the test. We road about 10 miles...
-            </h4>
+            <h4 class="card-text">I bought a mountainbike so that I could go to the mountains. And so I did! My lovely new Giant ATX770 held up to the test. We road about 10 miles...</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >03 Nov 2012</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">03 Nov 2012</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/biking-to-panorama/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/biking-to-panorama/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -424,73 +365,44 @@
             <a href="/kurban-ait/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2013/01/AitBishkek_featured.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2013/01/AitBishkek_featured.jpg" alt="Kurban Ait"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/kurban-ait/"
-                    >Kurban Ait</a
-                >
+                <a class="text-dark" href="/kurban-ait/">Kurban Ait</a>
                 
             </h2>
-            <h4 class="card-text">
-                This morning Bishkek Muslims began the Kurban Ait celebration by gathering in the center square of the city. 70,000 people were projected to be in attendance and I made my...
-            </h4>
+            <h4 class="card-text">This morning Bishkek Muslims began the Kurban Ait celebration by gathering in the center square of the city. 70,000 people were projected to be in attendance and I made my...</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >26 Oct 2012</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">26 Oct 2012</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/kurban-ait/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/kurban-ait/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -499,73 +411,44 @@
             <a href="/bishkek-photo-tour/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2012/10/Bishkek_featured.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2012/10/Bishkek_featured.jpg" alt="Bishkek Photo Tour - A Morning in Kyrgyzstan's Capital City"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/bishkek-photo-tour/"
-                    >Bishkek Photo Tour - A Morning in Kyrgyzstan's Capital City</a
-                >
+                <a class="text-dark" href="/bishkek-photo-tour/">Bishkek Photo Tour - A Morning in Kyrgyzstan's Capital City</a>
                 
             </h2>
-            <h4 class="card-text">
-                On a perfect morning in Bishkek, the capital city of Kyrgyzstan in the heart of Central Asia, I grabbed a camera and went on a tour to capture some beauty....
-            </h4>
+            <h4 class="card-text">On a perfect morning in Bishkek, the capital city of Kyrgyzstan in the heart of Central Asia, I grabbed a camera and went on a tour to capture some beauty....</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >14 Oct 2012</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">14 Oct 2012</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/bishkek-photo-tour/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/bishkek-photo-tour/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -574,75 +457,46 @@
             <a href="/flex-exam-2012-bishkek/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2013/01/FLEXExamBishkek2012_featured..jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2013/01/FLEXExamBishkek2012_featured..jpg" alt="FLEX Exam 2012 Bishkek"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/flex-exam-2012-bishkek/"
-                    >FLEX Exam 2012 Bishkek</a
-                >
+                <a class="text-dark" href="/flex-exam-2012-bishkek/">FLEX Exam 2012 Bishkek</a>
                 
             </h2>
-            <h4 class="card-text">
-                I was asked to help proctor the FLEX exam this year in Bishkek. Here is a snippet about the program from the FLEX Website:
+            <h4 class="card-text">I was asked to help proctor the FLEX exam this year in Bishkek. Here is a snippet about the program from the FLEX Website:
 
-
-            </h4>
+</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >14 Oct 2012</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">14 Oct 2012</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/flex-exam-2012-bishkek/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/flex-exam-2012-bishkek/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -651,84 +505,55 @@
             <a href="/my-new-contact-information/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2012/10/NewContactInfo.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2012/10/NewContactInfo.jpg" alt="My New Contact Information"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/my-new-contact-information/"
-                    >My New Contact Information</a
-                >
+                <a class="text-dark" href="/my-new-contact-information/">My New Contact Information</a>
                 
             </h2>
             <h4 class="card-text">
-                
 
-
-            </h4>
+</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >10 Oct 2012</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">10 Oct 2012</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/my-new-contact-information/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/my-new-contact-information/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
- 
+
+        
+
     </div>
+
 </section>
 
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-    <span class="navigation" role="navigation">
-        
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    
 <div class="pagination">
   
     <a class="ml-1 mr-1" href="/page18/">&laquo; Prev</a>
@@ -873,9 +698,8 @@
   
 </div>
 
-    </span>
+</span>
 </div>
-
                 </div>
 
                 
@@ -923,7 +747,7 @@
 
             <!-- Categories Jumbotron
 ================================================== -->
-            <!--
+            
             <div class="jumbotron fortags">
                 <div class="d-md-flex h-100">
                     <div
@@ -1107,19 +931,19 @@
                     </div>
                 </div>
             </div>
--->
 
             <!-- Begin Footer
 ================================================== -->
             <footer class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                            Copyright © 2019 Judson L Moore
-                        </div>
-                    </div>
-                </div>
-            </footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2019 Judson L Moore
+            </div>
+        </div>
+    </div>
+</footer>
+
             <!-- End Footer
 ================================================== -->
         </div>
@@ -1148,7 +972,6 @@
 
         
         <script src="/assets/js/jquery.min.js"></script>
-        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

@@ -14,4 +14,4 @@ My good Kyrgyz friend, Almambet, invited me to attend his brother's wedding. His
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-09-19-almanbets-brothers-wedding"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

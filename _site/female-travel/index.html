@@ -43,15 +43,12 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
-        <link
-            href="/assets/css/gallery-clean.css"
-            rel="stylesheet"
-        />
         <script src="/assets/js/jquery.min.js"></script>
-
         <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/all.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/v4-shims.js"></script>
+        
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -64,154 +61,153 @@
             />
             <link
                 rel="stylesheet"
-                stc="/assets/css/all.min.css"
+                src="/assets/css/all.min.css"
                 crossorigin="anonymous"
-            />
+            />         
         </noscript>
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <nav
-            class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down"
+        <nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="/">
+            <h1 class="logo-title">Judson L Moore</h1>
+            <p class="logo-subtitle">
+                Author and travel addict
+            </p>
+        </a>
+        <!-- End Logo -->
+
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
         >
-            <div class="container pr-0">
-                <!-- Begin Logo -->
-                <a class="navbar-brand" href="/">
-                    <h1 class="logo-title">Judson L Moore</h1>
-                    <p class="logo-subtitle">
-                        Author and travel addict
-                    </p>
-                </a>
-                <!-- End Logo -->
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-toggle="collapse"
-                    data-target="#navbarMediumish"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <!-- Begin Menu -->
 
-                <div class="collapse navbar-collapse" id="navbarMediumish">
-                    <!-- Begin Menu -->
-
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Asia
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/india/"
-                                    >India</a
-                                >
-                                <a class="dropdown-item" href="/kyrgyzstan/"
-                                    >Kyrgyzstan</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Europe
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/england/"
-                                    >England</a
-                                >
-                                <a class="dropdown-item" href="/germany/"
-                                    >Germany</a
-                                >
-                                <a class="dropdown-item" href="/switzerland/"
-                                    >Switzerland</a
-                                >
-                                <a class="dropdown-item" href="/turkey/"
-                                    >Turkey</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                MENA
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/egypt/"
-                                    >Egypt</a
-                                >
-                                <a class="dropdown-item" href="/morocco/"
-                                    >Morocco</a
-                                >
-                                <a class="dropdown-item" href="/uae/">UAE</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Americas
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/brazil/"
-                                    >Brazil</a
-                                >
-                                <a class="dropdown-item" href="/colombia/"
-                                    >Colombia</a
-                                >
-                                <a class="dropdown-item" href="/usa/">USA</a>
-                            </div>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/whileyoung/">
-                                #WhileYoung
-                            </a>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/female-travel/"
-                                ><i class="fab fa-snapchat-ghost"></i> Female
-                                Travel</a
-                            >
-                        </li>
-                        <script src="/assets/js/lunr.js"></script>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Asia
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/india/"
+                            >India</a
+                        >
+                        <a class="dropdown-item" href="/kyrgyzstan/"
+                            >Kyrgyzstan</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Europe
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/england/"
+                            >England</a
+                        >
+                        <a class="dropdown-item" href="/germany/"
+                            >Germany</a
+                        >
+                        <a class="dropdown-item" href="/switzerland/"
+                            >Switzerland</a
+                        >
+                        <a class="dropdown-item" href="/turkey/"
+                            >Turkey</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        MENA
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/egypt/"
+                            >Egypt</a
+                        >
+                        <a class="dropdown-item" href="/morocco/"
+                            >Morocco</a
+                        >
+                        <a class="dropdown-item" href="/uae/">UAE</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Americas
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/brazil/"
+                            >Brazil</a
+                        >
+                        <a class="dropdown-item" href="/colombia/"
+                            >Colombia</a
+                        >
+                        <a class="dropdown-item" href="/usa/">USA</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="nav-link" href="/whileyoung/">
+                        #WhileYoung
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link" href="/female-travel/"
+                        ><i class="fab fa-snapchat-ghost"></i> Female
+                        Travel</a
+                    >
+                </li>
+            </ul>
+            <script src="/assets/js/lunr.js"></script>
 
 
 <style>
@@ -232,45 +228,27 @@
 </div>
 
 <script src="/assets/js/lunrsearchengine.js"></script>
-                    </ul>
+            <!-- End Menu -->
+        </div>
+    </div>
+</nav>
 
-                    <!-- End Menu -->
-                </div>
-            </div>
-        </nav>
         <!-- End Navigation
 ================================================== -->
 
-        <div class="site-content">
-            <div class="container">
-                <!-- Site Title
-================================================== 
-                <div class="mainheading">
-                    <h1 class="sitetitle">Judson L Moore</h1>
-                    <p class="lead">
-                        Author and travel addict
-                    </p>
-                </div> -->
-
-                <!-- Content
-================================================== -->
-                <div class="main-content">
-                    <style type="text/css">
-	.jumbotron {
-		color: white;
-		background-image: url("/assets/images/2017/07/female-travel-advice.jpg");
-		background-position: center;
-		background-repeat: no-repeat;
-		background-size: cover;
-		height: 40vh;
-	}
+        
+        <style type="text/css">
+	.fullwidth-header-image {
+	background-image: url("/assets/images/2017/07/female-travel-advice.jpg");
+}
 </style>
 
-<div class="jumbotron jumbotron-fluid">
-	<div class="container">
-		<h1 class="display-4">Solo Female Travel Advice</h1>
-		<p class="lead">Female travel advice written by women, for women.</p>
-		<p class="lead">
+<section class="fullwidth-header-image">
+
+	<div class="row">
+		<div class="container">
+			<h1>Solo Female Travel Advice</h1>
+			<p>Female travel advice written by women, for women.</p>
 			<button
 	type="button"
 	class="btn btn-primary"
@@ -278,8 +256,81 @@
 	data-target="#exampleModal"
 	data-whatever="E-Mail"
 >
-	Subscribe now for more female-travel travel tips
+	Subscribe now for more female-travel travel tips <i class="fas fa-envelope"></i>
 </button>
+
+<style type="text/css">
+	
+	#registration-form{
+		max-width: 800px;
+		margin: 120px auto;
+	}
+
+	#registration-form .image{
+		float:left;
+		background-image: url("/assets/images/jumbotron.jpg");
+		height: 500px;
+		width: 50%;
+		background-size: cover;
+		background-position: 25%;
+	}
+
+	#registration-form .frm{
+		float:right;
+		height: 500px;
+	    width: 50%;
+	    min-width: 250px;
+	    padding: 0 35px;
+	    background-size: 100% 100%;
+	    background-color: white;
+	}
+
+	#registration-form h1{
+		margin-top: 30px;
+		margin-bottom: 20px;
+	}
+
+	#registration-form .form-control{
+		width: 90%;
+		padding: 12px 20px;
+		height: auto;
+	}
+
+	@media screen and (max-width: 700px){
+		#registration-form .image{
+			width: 30%;
+		    background-position: 60%;
+		}
+
+		#registration-form .frm{
+			width: 70%;
+		}
+
+		#registration-form .form-control{
+			width: 100%;
+		}
+	}
+
+	@media screen and (max-width: 500px){
+		#registration-form .image{
+			display: none;
+		}
+
+		#registration-form .frm{
+			width: 100%;
+		}
+
+		#registration-form h1{
+			text-align: center;
+		}
+
+		#registration-form .btn{
+			width: 100%;
+			margin-top: 20px;
+		}
+	}
+
+</style>
 
 <div
 	class="modal fade"
@@ -289,33 +340,33 @@
 	aria-labelledby="exampleModalLabel"
 	aria-hidden="true"
 >
-	<div class="modal-dialog" role="document">
-		<div class="modal-content">
-			<div class="modal-header">
-				<button
-					type="button"
-					class="close"
-					data-dismiss="modal"
-					aria-label="Close"
-				>
+    <div class="container" id="registration-form">
+        <div class="image"></div>
+        <div class="frm">
+        	<div class="modal-header">
+	            <h1>Sign up</h1>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 					<span aria-hidden="true">&times;</span>
 				</button>
 			</div>
-			<div class="modal-body">
-				<div style="float: left;max-width: 60%;color:#000">
-					<h2>3 FREE chapters are just a click away...</h2>
-					<p>
-						My new book book is nearly finished and you can access
-						the first 3 chapters for free right now! Just tell me
-						where to send them...
-					</p>
-				</div>
-				<div style="float:right; max-width: 30%">
-					<img
-						src="../assets/images/2019/05/exponential-happiness-book-cover-paperback-3d.png"
-					/>
-				</div>
-				<form
+            <!-- <form>
+                <div class="form-group">
+                    <label for="username">Username:</label>
+                    <input type="text" class="form-control" id="username" placeholder="Enter username">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" class="form-control" id="email" placeholder="Enter email">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">Password:</label>
+                    <input type="password" class="form-control" id="pwd" placeholder="Enter password">
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success btn-lg">Submit</button>
+                </div>
+            </form> -->
+            <form
 	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 	method="post"
 	name="mc-embedded-subscribe-form"
@@ -361,18 +412,31 @@
 	});
 </script>
 
-			</div>
+        </div>
+    </div>
+</div>
+
+
 		</div>
 	</div>
-</div>
 
-		</p>
-	</div>
-</div>
+</section> 
 
-<section>
+        
+
+        <div class="site-content">
+            <div class="container">
+
+                <!-- Site Title
+================================================== -->
+                
+
+                <!-- Content
+================================================== -->
+                <div class="main-content">
+                    <section>
 	<div class="row">
-		<div class="col-12 col-md-9">
+		<div class="two-col col-12 col-md-9">
 			<h2 id="female-travel-advice-written-for-and-by-women">Female travel advice written for and by women</h2>
 
 <p>I am a flawed man in many ways. I can only hope to share advice which is valuable to my readers. Half of my readers are women. Despite my many flaws, I like to think that I am smart enough to identify my shortcomings. I feel that it is very important to discuss issues which are specific to female travel and I hope that this blog can contribute to many successful and happy womens’ adventures. But I also know that my perspective and experience in travel is all gained through the male perspective. Therefor, I have sought out some experienced women travelers to share their experiences here as guest authors.</p>
@@ -382,7 +446,16 @@
 		</div>
 		<div class="col-12 col-md-3">
 			<h3>Destinations</h3>
-			         
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			
 		</div>
 	</div>
 </section>
@@ -394,7 +467,9 @@
 	<div class="row">
 		<div class="col-12 col-md-9">
 			<div class="row listrecent">
-				  <!-- begin post -->
+				 
+				 
+				<!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -403,73 +478,42 @@
             <a href="/aniko-villalba-interview/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/04/aniko-villalba-interview.jpg"
-	class="img-fluid non-prod"
-	alt="Solo Female Travel Advice"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/04/aniko-villalba-interview.jpg" alt="An Interview with Aniko Villalba of the Viajando Por Ahí Travel Blog and Books"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/aniko-villalba-interview/"
-                    >An Interview with Aniko Villalba of the Viajando Por Ahí Travel Blog and Books</a
-                >
+                <a class="text-dark" href="/aniko-villalba-interview/">An Interview with Aniko Villalba of the Viajando Por Ahí Travel Blog and Books</a>
                 
             </h2>
-            <h4 class="card-text">
-                Aniko Villalba and I got to talking about being digital nomads, solo travel, female travel, and what it really means to live the dream of a global citizen.
-            </h4>
+            <h4 class="card-text">Aniko Villalba and I got to talking about being digital nomads, solo travel, female travel, and what it really means to live the dream of a global citizen.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >18 Jul 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">18 Jul 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/aniko-villalba-interview/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/aniko-villalba-interview/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
-<!-- end post -->
-  <!-- begin post -->
+<!-- end post --> 
+				 
+				<!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -478,73 +522,42 @@
             <a href="/jenna-davis-give-for-granted-interview/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/04/jenna-davis-give-for-granted-e1493307152121.jpg"
-	class="img-fluid non-prod"
-	alt="Solo Female Travel Advice"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/04/jenna-davis-give-for-granted-e1493307152121.jpg" alt="An Interview with Jenna Davis of Give For Granted"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/jenna-davis-give-for-granted-interview/"
-                    >An Interview with Jenna Davis of Give For Granted</a
-                >
+                <a class="text-dark" href="/jenna-davis-give-for-granted-interview/">An Interview with Jenna Davis of Give For Granted</a>
                 
             </h2>
-            <h4 class="card-text">
-                Jenna Davis is founder of Give For Granted, a sustainable travel blog about giving back to Earth via travel. Read this interview of how she rose to success.
-            </h4>
+            <h4 class="card-text">Jenna Davis is founder of Give For Granted, a sustainable travel blog about giving back to Earth via travel. Read this interview of how she rose to success.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >05 May 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">05 May 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/jenna-davis-give-for-granted-interview/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/jenna-davis-give-for-granted-interview/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
-<!-- end post -->
-  <!-- begin post -->
+<!-- end post --> 
+				 
+				<!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -553,73 +566,42 @@
             <a href="/interview-foreverwinter-project-laura-davies/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/03/foreverwinter-project-ski-kazakhstan.jpg"
-	class="img-fluid non-prod"
-	alt="Solo Female Travel Advice"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/03/foreverwinter-project-ski-kazakhstan.jpg" alt="An Interview with Global Skier Laura Davies of the ForeverWinter Project"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/interview-foreverwinter-project-laura-davies/"
-                    >An Interview with Global Skier Laura Davies of the ForeverWinter Project</a
-                >
+                <a class="text-dark" href="/interview-foreverwinter-project-laura-davies/">An Interview with Global Skier Laura Davies of the ForeverWinter Project</a>
                 
             </h2>
-            <h4 class="card-text">
-                I recently had the opportunity to sit down with Laura Davies as she pursues an epic journey chasing winter around the world with The ForeverWinter Project.
-            </h4>
+            <h4 class="card-text">I recently had the opportunity to sit down with Laura Davies as she pursues an epic journey chasing winter around the world with The ForeverWinter Project.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >18 Apr 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">18 Apr 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/interview-foreverwinter-project-laura-davies/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/interview-foreverwinter-project-laura-davies/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
-<!-- end post -->
-  <!-- begin post -->
+<!-- end post --> 
+				 
+				<!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -628,73 +610,41 @@
             <a href="/young-free-female-happy/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/03/avatar-tarah-mason.jpg"
-	class="img-fluid non-prod"
-	alt="Solo Female Travel Advice"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/03/avatar-tarah-mason.jpg" alt="Young, free, and female. How to be happy in a world full of choice and pressure."> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/young-free-female-happy/"
-                    >Young, free, and female. How to be happy in a world full of choice and pressure.</a
-                >
+                <a class="text-dark" href="/young-free-female-happy/">Young, free, and female. How to be happy in a world full of choice and pressure.</a>
                 
             </h2>
-            <h4 class="card-text">
-                Travel blogger Tarah Mason writes a guest post about how to be happy in a world full of opportunities, pressures, and unlimited possibilities.
-            </h4>
+            <h4 class="card-text">Travel blogger Tarah Mason writes a guest post about how to be happy in a world full of opportunities, pressures, and unlimited possibilities.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="https://www.gravatar.com/avatar/5f34aa736d5e05203f81bd1463ff3514?s=250&d=mm&r=x"
-                        alt="Tarah Mason"
-                    />
-                    
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/5f34aa736d5e05203f81bd1463ff3514?s=250&d=mm&r=x" alt="Tarah Mason">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.travelwithtarah.com/"
-                            >Tarah Mason</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >21 Mar 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.travelwithtarah.com/">Tarah Mason</a></span><br/>
+                
+                <span class="post-date">21 Mar 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/young-free-female-happy/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/young-free-female-happy/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
-<!-- end post -->
- 
+<!-- end post --> 
+				
 			</div>
 		</div>
 		<div class="col-12 col-md-3">
@@ -744,35 +694,6 @@
 	});
 </script>
 
-<script>
-// instafeed.js
-// Generated by CoffeeScript 1.9.3
-
-(function(){var e;e=function(){function e(e,t){var n,r;this.options={target:"instafeed",get:"popular",resolution:"thumbnail",sortBy:"none",links:!0,mock:!1,useHttp:!1};if(typeof e=="object")for(n in e)r=e[n],this.options[n]=r;this.context=t!=null?t:this,this.unique=this._genKey()}return e.prototype.hasNext=function(){return typeof this.context.nextUrl=="string"&&this.context.nextUrl.length>0},e.prototype.next=function(){return this.hasNext()?this.run(this.context.nextUrl):!1},e.prototype.run=function(t){var n,r,i;if(typeof this.options.clientId!="string"&&typeof this.options.accessToken!="string")throw new Error("Missing clientId or accessToken.");if(typeof this.options.accessToken!="string"&&typeof this.options.clientId!="string")throw new Error("Missing clientId or accessToken.");return this.options.before!=null&&typeof this.options.before=="function"&&this.options.before.call(this),typeof document!="undefined"&&document!==null&&(i=document.createElement("script"),i.id="instafeed-fetcher",i.src=t||this._buildUrl(),n=document.getElementsByTagName("head"),n[0].appendChild(i),r="instafeedCache"+this.unique,window[r]=new e(this.options,this),window[r].unique=this.unique),!0},e.prototype.parse=function(e){var t,n,r,i,s,o,u,a,f,l,c,h,p,d,v,m,g,y,b,w,E,S,x,T,N,C,k,L,A,O,M,_,D;if(typeof e!="object"){if(this.options.error!=null&&typeof this.options.error=="function")return this.options.error.call(this,"Invalid JSON data"),!1;throw new Error("Invalid JSON response")}if(e.meta.code!==200){if(this.options.error!=null&&typeof this.options.error=="function")return this.options.error.call(this,e.meta.error_message),!1;throw new Error("Error from Instagram: "+e.meta.error_message)}if(e.data.length===0){if(this.options.error!=null&&typeof this.options.error=="function")return this.options.error.call(this,"No images were returned from Instagram"),!1;throw new Error("No images were returned from Instagram")}this.options.success!=null&&typeof this.options.success=="function"&&this.options.success.call(this,e),this.context.nextUrl="",e.pagination!=null&&(this.context.nextUrl=e.pagination.next_url);if(this.options.sortBy!=="none"){this.options.sortBy==="random"?M=["","random"]:M=this.options.sortBy.split("-"),O=M[0]==="least"?!0:!1;switch(M[1]){case"random":e.data.sort(function(){return.5-Math.random()});break;case"recent":e.data=this._sortBy(e.data,"created_time",O);break;case"liked":e.data=this._sortBy(e.data,"likes.count",O);break;case"commented":e.data=this._sortBy(e.data,"comments.count",O);break;default:throw new Error("Invalid option for sortBy: '"+this.options.sortBy+"'.")}}if(typeof document!="undefined"&&document!==null&&this.options.mock===!1){m=e.data,A=parseInt(this.options.limit,10),this.options.limit!=null&&m.length>A&&(m=m.slice(0,A)),u=document.createDocumentFragment(),this.options.filter!=null&&typeof this.options.filter=="function"&&(m=this._filter(m,this.options.filter));if(this.options.template!=null&&typeof this.options.template=="string"){f="",d="",w="",D=document.createElement("div");for(c=0,N=m.length;c<N;c++){h=m[c],p=h.images[this.options.resolution];if(typeof p!="object")throw o="No image found for resolution: "+this.options.resolution+".",new Error(o);E=p.width,y=p.height,b="square",E>y&&(b="landscape"),E<y&&(b="portrait"),v=p.url,l=window.location.protocol.indexOf("http")>=0,l&&!this.options.useHttp&&(v=v.replace(/https?:\/\//,"//")),d=this._makeTemplate(this.options.template,{model:h,id:h.id,link:h.link,type:h.type,image:v,width:E,height:y,orientation:b,caption:this._getObjectProperty(h,"caption.text"),likes:h.likes.count,comments:h.comments.count,location:this._getObjectProperty(h,"location.name")}),f+=d}D.innerHTML=f,i=[],r=0,n=D.childNodes.length;while(r<n)i.push(D.childNodes[r]),r+=1;for(x=0,C=i.length;x<C;x++)L=i[x],u.appendChild(L)}else for(T=0,k=m.length;T<k;T++){h=m[T],g=document.createElement("img"),p=h.images[this.options.resolution];if(typeof p!="object")throw o="No image found for resolution: "+this.options.resolution+".",new Error(o);v=p.url,l=window.location.protocol.indexOf("http")>=0,l&&!this.options.useHttp&&(v=v.replace(/https?:\/\//,"//")),g.src=v,this.options.links===!0?(t=document.createElement("a"),t.href=h.link,t.appendChild(g),u.appendChild(t)):u.appendChild(g)}_=this.options.target,typeof _=="string"&&(_=document.getElementById(_));if(_==null)throw o='No element with id="'+this.options.target+'" on page.',new Error(o);_.appendChild(u),a=document.getElementsByTagName("head")[0],a.removeChild(document.getElementById("instafeed-fetcher")),S="instafeedCache"+this.unique,window[S]=void 0;try{delete window[S]}catch(P){s=P}}return this.options.after!=null&&typeof this.options.after=="function"&&this.options.after.call(this),!0},e.prototype._buildUrl=function(){var e,t,n;e="https://api.instagram.com/v1";switch(this.options.get){case"popular":t="media/popular";break;case"tagged":if(!this.options.tagName)throw new Error("No tag name specified. Use the 'tagName' option.");t="tags/"+this.options.tagName+"/media/recent";break;case"location":if(!this.options.locationId)throw new Error("No location specified. Use the 'locationId' option.");t="locations/"+this.options.locationId+"/media/recent";break;case"user":if(!this.options.userId)throw new Error("No user specified. Use the 'userId' option.");t="users/"+this.options.userId+"/media/recent";break;default:throw new Error("Invalid option for get: '"+this.options.get+"'.")}return n=e+"/"+t,this.options.accessToken!=null?n+="?access_token="+this.options.accessToken:n+="?client_id="+this.options.clientId,this.options.limit!=null&&(n+="&count="+this.options.limit),n+="&callback=instafeedCache"+this.unique+".parse",n},e.prototype._genKey=function(){var e;return e=function(){return((1+Math.random())*65536|0).toString(16).substring(1)},""+e()+e()+e()+e()},e.prototype._makeTemplate=function(e,t){var n,r,i,s,o;r=/(?:\{{2})([\w\[\]\.]+)(?:\}{2})/,n=e;while(r.test(n))s=n.match(r)[1],o=(i=this._getObjectProperty(t,s))!=null?i:"",n=n.replace(r,function(){return""+o});return n},e.prototype._getObjectProperty=function(e,t){var n,r;t=t.replace(/\[(\w+)\]/g,".$1"),r=t.split(".");while(r.length){n=r.shift();if(!(e!=null&&n in e))return null;e=e[n]}return e},e.prototype._sortBy=function(e,t,n){var r;return r=function(e,r){var i,s;return i=this._getObjectProperty(e,t),s=this._getObjectProperty(r,t),n?i>s?1:-1:i<s?1:-1},e.sort(r.bind(this)),e},e.prototype._filter=function(e,t){var n,r,i,s,o;n=[],r=function(e){if(t(e))return n.push(e)};for(i=0,o=e.length;i<o;i++)s=e[i],r(s);return n},e}(),function(e,t){return typeof define=="function"&&define.amd?define([],t):typeof module=="object"&&module.exports?module.exports=t():e.Instafeed=t()}(this,function(){return e})}).call(this);
-
-</script>
-
-
-<script type="text/javascript">
-//jhvanderschee
-    var feed = new Instafeed({
-        get: 'user',
-        userId: '211587932',
-        limit: '5',
-        sortBy: 'most-recent',
-        resolution: 'standard_resolution',
-        accessToken: '8fe301b5815741b8b0001c0540f1e10c',
-        clientId: '5420d8578cce46ad9bb70d39e7a1237b',
-        template: '<a href="{{link}}" target="_blank"><img src="{{image}}" /></a>'
-    });
-    feed.run();
-</script>
-<style>
-    #instafeed {overflow: auto; margin-left: -1%;}
-    #instafeed a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
-    #instafeed a img {width: 100%;}
-</style>
-<p id="instafeed"></p>
 		</div>
 	</div>
 </section>
@@ -824,7 +745,7 @@
 
             <!-- Categories Jumbotron
 ================================================== -->
-            <!--
+            
             <div class="jumbotron fortags">
                 <div class="d-md-flex h-100">
                     <div
@@ -1008,19 +929,19 @@
                     </div>
                 </div>
             </div>
--->
 
             <!-- Begin Footer
 ================================================== -->
             <footer class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                            Copyright © 2019 Judson L Moore
-                        </div>
-                    </div>
-                </div>
-            </footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2019 Judson L Moore
+            </div>
+        </div>
+    </div>
+</footer>
+
             <!-- End Footer
 ================================================== -->
         </div>
@@ -1049,7 +970,6 @@
 
         
         <script src="/assets/js/jquery.min.js"></script>
-        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

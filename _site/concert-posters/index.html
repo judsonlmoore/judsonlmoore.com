@@ -45,15 +45,12 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
-        <link
-            href="/assets/css/gallery-clean.css"
-            rel="stylesheet"
-        />
         <script src="/assets/js/jquery.min.js"></script>
-
         <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/all.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/v4-shims.js"></script>
+        
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -66,154 +63,153 @@
             />
             <link
                 rel="stylesheet"
-                stc="/assets/css/all.min.css"
+                src="/assets/css/all.min.css"
                 crossorigin="anonymous"
-            />
+            />         
         </noscript>
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <nav
-            class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down"
+        <nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="/">
+            <h1 class="logo-title">Judson L Moore</h1>
+            <p class="logo-subtitle">
+                Author and travel addict
+            </p>
+        </a>
+        <!-- End Logo -->
+
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
         >
-            <div class="container pr-0">
-                <!-- Begin Logo -->
-                <a class="navbar-brand" href="/">
-                    <h1 class="logo-title">Judson L Moore</h1>
-                    <p class="logo-subtitle">
-                        Author and travel addict
-                    </p>
-                </a>
-                <!-- End Logo -->
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-toggle="collapse"
-                    data-target="#navbarMediumish"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <!-- Begin Menu -->
 
-                <div class="collapse navbar-collapse" id="navbarMediumish">
-                    <!-- Begin Menu -->
-
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Asia
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/india/"
-                                    >India</a
-                                >
-                                <a class="dropdown-item" href="/kyrgyzstan/"
-                                    >Kyrgyzstan</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Europe
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/england/"
-                                    >England</a
-                                >
-                                <a class="dropdown-item" href="/germany/"
-                                    >Germany</a
-                                >
-                                <a class="dropdown-item" href="/switzerland/"
-                                    >Switzerland</a
-                                >
-                                <a class="dropdown-item" href="/turkey/"
-                                    >Turkey</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                MENA
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/egypt/"
-                                    >Egypt</a
-                                >
-                                <a class="dropdown-item" href="/morocco/"
-                                    >Morocco</a
-                                >
-                                <a class="dropdown-item" href="/uae/">UAE</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Americas
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/brazil/"
-                                    >Brazil</a
-                                >
-                                <a class="dropdown-item" href="/colombia/"
-                                    >Colombia</a
-                                >
-                                <a class="dropdown-item" href="/usa/">USA</a>
-                            </div>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/whileyoung/">
-                                #WhileYoung
-                            </a>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/female-travel/"
-                                ><i class="fab fa-snapchat-ghost"></i> Female
-                                Travel</a
-                            >
-                        </li>
-                        <script src="/assets/js/lunr.js"></script>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Asia
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/india/"
+                            >India</a
+                        >
+                        <a class="dropdown-item" href="/kyrgyzstan/"
+                            >Kyrgyzstan</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Europe
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/england/"
+                            >England</a
+                        >
+                        <a class="dropdown-item" href="/germany/"
+                            >Germany</a
+                        >
+                        <a class="dropdown-item" href="/switzerland/"
+                            >Switzerland</a
+                        >
+                        <a class="dropdown-item" href="/turkey/"
+                            >Turkey</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        MENA
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/egypt/"
+                            >Egypt</a
+                        >
+                        <a class="dropdown-item" href="/morocco/"
+                            >Morocco</a
+                        >
+                        <a class="dropdown-item" href="/uae/">UAE</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Americas
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/brazil/"
+                            >Brazil</a
+                        >
+                        <a class="dropdown-item" href="/colombia/"
+                            >Colombia</a
+                        >
+                        <a class="dropdown-item" href="/usa/">USA</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="nav-link" href="/whileyoung/">
+                        #WhileYoung
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link" href="/female-travel/"
+                        ><i class="fab fa-snapchat-ghost"></i> Female
+                        Travel</a
+                    >
+                </li>
+            </ul>
+            <script src="/assets/js/lunr.js"></script>
 
 
 <style>
@@ -234,25 +230,22 @@
 </div>
 
 <script src="/assets/js/lunrsearchengine.js"></script>
-                    </ul>
+            <!-- End Menu -->
+        </div>
+    </div>
+</nav>
 
-                    <!-- End Menu -->
-                </div>
-            </div>
-        </nav>
         <!-- End Navigation
 ================================================== -->
 
+        
+
         <div class="site-content">
             <div class="container">
+
                 <!-- Site Title
-================================================== 
-                <div class="mainheading">
-                    <h1 class="sitetitle">Judson L Moore</h1>
-                    <p class="lead">
-                        Author and travel addict
-                    </p>
-                </div> -->
+================================================== -->
+                
 
                 <!-- Content
 ================================================== -->
@@ -358,1469 +351,1053 @@
                 <!-- End Toc -->
                 <p>Here are a number of posters from concerts that I was the promoter / production rep for back in my music career days. I worked with TCB Concerts (now <a href="http://greenmachineconcerts.com/">Green Machine Concerts</a>) for nearly 2 years.</p>
 
+<link href="/assets/css/gallery-clean.css" rel="stylesheet" />
+
 <div class="tz-gallery">
-  <div class="row">
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.11.10_OAR_in_F230083.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.11.10_OAR_in_F230083.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
+    <div class="row">
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.11.10_OAR_in_F230083.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.11.10_OAR_in_F230083.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.10.19_RebelFest.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.10.19_RebelFest.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.10.18_Staind_i230081.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.10.18_Staind_i230081.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.29_The_Raco230080.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.29_The_Raco230080.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.28_Buckcher230079.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.28_Buckcher230079.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.16_Seether_230078.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.16_Seether_230078.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.12_jason_al230077.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.12_jason_al230077.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.11_yallapal230076.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.11_yallapal230076.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.08.15_Snowden_230075.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.08.15_Snowden_230075.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.07.03_Q1075_Re230074.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.07.03_Q1075_Re230074.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.06.20_Taylor_S230073.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.20_Taylor_S230073.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.06.13-14_JJam.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.13-14_JJam.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.06.10_Indigo_G230071.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.10_Indigo_G230071.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.06.06_Rowdy_Fr230070.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.06_Rowdy_Fr230070.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.05.30_ZZ_Top_i230069.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.05.30_ZZ_Top_i230069.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.25_Southave230068.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.25_Southave230068.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230067.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230067.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230066.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230066.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.17_Panic_at230065.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.17_Panic_at230065.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.12_Speakeas230064.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.12_Speakeas230064.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.03_Dierks_B230063.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.03_Dierks_B230063.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.03_Big_Spri230062.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.03_Big_Spri230062.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230061.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230061.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230060.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230060.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.20_12_Stones.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.20_12_Stones.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.19_Three_Da230057.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.19_Three_Da230057.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.19_Cross_Ca230056.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.19_Cross_Ca230056.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.08_Three_Da230055.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.08_Three_Da230055.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.02.29_Jason_Al230054.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.02.29_Jason_Al230054.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.02.28_Jason_Al230053.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.02.28_Jason_Al230053.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.31_Indigo_G230052.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.31_Indigo_G230052.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.29_Indigo_G230051.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.29_Indigo_G230051.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.28_Foo_Figh230050.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.28_Foo_Figh230050.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.26_Speakeas230049.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.26_Speakeas230049.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.20_Grace_Po230048.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.20_Grace_Po230048.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.18_Yo_La_Te230047.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.18_Yo_La_Te230047.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.12_The_Whig230046.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.12_The_Whig230046.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.31_Lucero_i230045.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.31_Lucero_i230045.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.13_Eric_Chu230044.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.13_Eric_Chu230044.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.10_Blind_Me230043.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.10_Blind_Me230043.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.05_Dinosaur230042.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.05_Dinosaur230042.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.02_Three_Da230041.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.02_Three_Da230041.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.27_Emerson_230040.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.27_Emerson_230040.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.17_Speakeas230038.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.17_Speakeas230038.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.06_Three_Da230037.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.06_Three_Da230037.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.06_Bright_E230036.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.06_Bright_E230036.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.04_Three_Da230035.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_Three_Da230035.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.04_They_Mig230034.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_They_Mig230034.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.04_Evans_Bl230033.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_Evans_Bl230033.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.24_Govt_Mul230032.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.24_Govt_Mul230032.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.15_Ben_Kweller.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.15_Ben_Kweller.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.09_Velvet_R230030.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.09_Velvet_R230030.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.06_Robert_R230029.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.06_Robert_R230029.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.06_Mickey_A230028.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.06_Mickey_A230028.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.05_ZZ_Top_i230027.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.05_ZZ_Top_i230027.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.05_Alter_Br230026.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.05_Alter_Br230026.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.04_Jason_Al230025.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.04_Jason_Al230025.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.30_Live_and230024.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.30_Live_and230024.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.25_Puddle_o230023.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.25_Puddle_o230023.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.20_Afroman_230022.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.20_Afroman_230022.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.18_Wilco_in230021.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.18_Wilco_in230021.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.18_The_Sea_230020.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.18_The_Sea_230020.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.14_Pnuma_Tr230019.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.14_Pnuma_Tr230019.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.13_Wilco_in230018.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.13_Wilco_in230018.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.12_LouisXIV230017.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.12_LouisXIV230017.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.06_ZZ_Top_i230016.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.06_ZZ_Top_i230016.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.08.23_Ben_Kwel230015.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.23_Ben_Kwel230015.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.08.06_Daughtry230014.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.06_Daughtry230014.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.08.02_Daughtry230013.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.02_Daughtry230013.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.31_The_Whit230012.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.31_The_Whit230012.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.22_Taylor_H230011.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.22_Taylor_H230011.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.12_Ryan_Ada230010.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.12_Ryan_Ada230010.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.11_Poison_i230009.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.11_Poison_i230009.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.11_12_Stones.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.11_12_Stones.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.06_Trace_Ad230007.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.06_Trace_Ad230007.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.27_Black_St230006.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.27_Black_St230006.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.22_STAX_-50230005.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.22_STAX_-50230005.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.15_Jubilee_230004.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.15_Jubilee_230004.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.13_Tea_Leaf230003.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.13_Tea_Leaf230003.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.08_Outforma230002.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.08_Outforma230002.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.05_Three_Da230001.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.05_Three_Da230001.jpg" alt="" />
+                </a>
+                <div class="caption">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        
     </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.10.19_RebelFest.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.10.19_RebelFest.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.10.18_Staind_i230081.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.10.18_Staind_i230081.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.09.29_The_Raco230080.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.09.29_The_Raco230080.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.09.28_Buckcher230079.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.09.28_Buckcher230079.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.09.16_Seether_230078.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.09.16_Seether_230078.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.09.12_jason_al230077.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.09.12_jason_al230077.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.09.11_yallapal230076.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.09.11_yallapal230076.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.08.15_Snowden_230075.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.08.15_Snowden_230075.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.07.03_Q1075_Re230074.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.07.03_Q1075_Re230074.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.06.20_Taylor_S230073.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.06.20_Taylor_S230073.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.06.13-14_JJam.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.06.13-14_JJam.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.06.10_Indigo_G230071.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.06.10_Indigo_G230071.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.06.06_Rowdy_Fr230070.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.06.06_Rowdy_Fr230070.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.05.30_ZZ_Top_i230069.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.05.30_ZZ_Top_i230069.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.04.25_Southave230068.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.04.25_Southave230068.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.04.23_Sevendus230067.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230067.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.04.23_Sevendus230066.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230066.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.04.17_Panic_at230065.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.04.17_Panic_at230065.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.04.12_Speakeas230064.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.04.12_Speakeas230064.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.04.03_Dierks_B230063.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.04.03_Dierks_B230063.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.04.03_Big_Spri230062.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.04.03_Big_Spri230062.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.03.24_The_Brav230061.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230061.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.03.24_The_Brav230060.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230060.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.03.20_12_Stones.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.03.20_12_Stones.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.03.19_Three_Da230057.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.03.19_Three_Da230057.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.03.19_Cross_Ca230056.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.03.19_Cross_Ca230056.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.03.08_Three_Da230055.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.03.08_Three_Da230055.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.02.29_Jason_Al230054.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.02.29_Jason_Al230054.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.02.28_Jason_Al230053.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.02.28_Jason_Al230053.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.01.31_Indigo_G230052.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.01.31_Indigo_G230052.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.01.29_Indigo_G230051.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.01.29_Indigo_G230051.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.01.28_Foo_Figh230050.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.01.28_Foo_Figh230050.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.01.26_Speakeas230049.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.01.26_Speakeas230049.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.01.20_Grace_Po230048.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.01.20_Grace_Po230048.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.01.18_Yo_La_Te230047.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.01.18_Yo_La_Te230047.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2008.01.12_The_Whig230046.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2008.01.12_The_Whig230046.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.12.31_Lucero_i230045.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.12.31_Lucero_i230045.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.12.13_Eric_Chu230044.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.12.13_Eric_Chu230044.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.12.10_Blind_Me230043.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.12.10_Blind_Me230043.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.12.05_Dinosaur230042.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.12.05_Dinosaur230042.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.12.02_Three_Da230041.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.12.02_Three_Da230041.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.11.27_Emerson_230040.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.11.27_Emerson_230040.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.11.17_Speakeas230038.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.11.17_Speakeas230038.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.11.06_Three_Da230037.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.11.06_Three_Da230037.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.11.06_Bright_E230036.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.11.06_Bright_E230036.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.11.04_Three_Da230035.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_Three_Da230035.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.11.04_They_Mig230034.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_They_Mig230034.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.11.04_Evans_Bl230033.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_Evans_Bl230033.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.10.24_Govt_Mul230032.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.10.24_Govt_Mul230032.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.10.15_Ben_Kweller.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.10.15_Ben_Kweller.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.10.09_Velvet_R230030.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.10.09_Velvet_R230030.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.10.06_Robert_R230029.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.10.06_Robert_R230029.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.10.06_Mickey_A230028.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.10.06_Mickey_A230028.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.10.05_ZZ_Top_i230027.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.10.05_ZZ_Top_i230027.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.10.05_Alter_Br230026.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.10.05_Alter_Br230026.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.10.04_Jason_Al230025.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.10.04_Jason_Al230025.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.30_Live_and230024.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.30_Live_and230024.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.25_Puddle_o230023.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.25_Puddle_o230023.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.20_Afroman_230022.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.20_Afroman_230022.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.18_Wilco_in230021.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.18_Wilco_in230021.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.18_The_Sea_230020.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.18_The_Sea_230020.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.14_Pnuma_Tr230019.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.14_Pnuma_Tr230019.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.13_Wilco_in230018.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.13_Wilco_in230018.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.12_LouisXIV230017.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.12_LouisXIV230017.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.09.06_ZZ_Top_i230016.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.09.06_ZZ_Top_i230016.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.08.23_Ben_Kwel230015.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.08.23_Ben_Kwel230015.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.08.06_Daughtry230014.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.08.06_Daughtry230014.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.08.02_Daughtry230013.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.08.02_Daughtry230013.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.07.31_The_Whit230012.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.07.31_The_Whit230012.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.07.22_Taylor_H230011.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.07.22_Taylor_H230011.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.07.12_Ryan_Ada230010.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.07.12_Ryan_Ada230010.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.07.11_Poison_i230009.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.07.11_Poison_i230009.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.07.11_12_Stones.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.07.11_12_Stones.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.07.06_Trace_Ad230007.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.07.06_Trace_Ad230007.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.06.27_Black_St230006.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.06.27_Black_St230006.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.06.22_STAX_-50230005.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.06.22_STAX_-50230005.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.06.15_Jubilee_230004.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.06.15_Jubilee_230004.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.06.13_Tea_Leaf230003.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.06.13_Tea_Leaf230003.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.06.08_Outforma230002.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.06.08_Outforma230002.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-    <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2014/06/2007.06.05_Three_Da230001.jpg">
-
-            
-
-            <img src="http://localhost:4000/assets/images/2014/06/2007.06.05_Three_Da230001.jpg" alt="" />
-
-            
-
-          </a>
-          <div class="caption">
-              <h3></h3>
-              <p></p>
-          </div>
-      </div>
-    </div>
-    
-  </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+</pre></td><td class="rouge-code"><pre>        &lt;div class="col-sm-12 col-md-4"&gt;
+            &lt;a class="lightbox" href="../images/bridge.jpg"&gt;
+                &lt;img src="../images/bridge.jpg" alt="Bridge"&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-6 col-md-4"&gt;
+            &lt;a class="lightbox" href="../images/park.jpg"&gt;
+                &lt;img src="../images/park.jpg" alt="Park"&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-6 col-md-4"&gt;
+            &lt;a class="lightbox" href="../images/tunnel.jpg"&gt;
+                &lt;img src="../images/tunnel.jpg" alt="Tunnel"&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-12 col-md-8"&gt;
+            &lt;a class="lightbox" href="../images/traffic.jpg"&gt;
+                &lt;img src="../images/traffic.jpg" alt="Traffic"&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-6 col-md-4"&gt;
+            &lt;a class="lightbox" href="../images/coast.jpg"&gt;
+                &lt;img src="../images/coast.jpg" alt="Coast"&gt;
+            &lt;/a&gt;
+        &lt;/div&gt; 
+        &lt;div class="col-sm-6 col-md-4"&gt;
+            &lt;a class="lightbox" href="../images/rails.jpg"&gt;
+                &lt;img src="../images/rails.jpg" alt="Rails"&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+</pre></td></tr></tbody></table></code></pre></div></div>
 
             </div>
 
@@ -2091,7 +1668,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
 
             <!-- Categories Jumbotron
 ================================================== -->
-            <!--
+            
             <div class="jumbotron fortags">
                 <div class="d-md-flex h-100">
                     <div
@@ -2275,19 +1852,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
                     </div>
                 </div>
             </div>
--->
 
             <!-- Begin Footer
 ================================================== -->
             <footer class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                            Copyright © 2019 Judson L Moore
-                        </div>
-                    </div>
-                </div>
-            </footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2019 Judson L Moore
+            </div>
+        </div>
+    </div>
+</footer>
+
             <!-- End Footer
 ================================================== -->
         </div>
@@ -2321,7 +1898,6 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
-        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

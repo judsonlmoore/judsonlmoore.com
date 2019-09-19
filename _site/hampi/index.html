@@ -45,15 +45,12 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
-        <link
-            href="/assets/css/gallery-clean.css"
-            rel="stylesheet"
-        />
         <script src="/assets/js/jquery.min.js"></script>
-
         <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/all.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/v4-shims.js"></script>
+        
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -66,154 +63,153 @@
             />
             <link
                 rel="stylesheet"
-                stc="/assets/css/all.min.css"
+                src="/assets/css/all.min.css"
                 crossorigin="anonymous"
-            />
+            />         
         </noscript>
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <nav
-            class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down"
+        <nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="/">
+            <h1 class="logo-title">Judson L Moore</h1>
+            <p class="logo-subtitle">
+                Author and travel addict
+            </p>
+        </a>
+        <!-- End Logo -->
+
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
         >
-            <div class="container pr-0">
-                <!-- Begin Logo -->
-                <a class="navbar-brand" href="/">
-                    <h1 class="logo-title">Judson L Moore</h1>
-                    <p class="logo-subtitle">
-                        Author and travel addict
-                    </p>
-                </a>
-                <!-- End Logo -->
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-toggle="collapse"
-                    data-target="#navbarMediumish"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <!-- Begin Menu -->
 
-                <div class="collapse navbar-collapse" id="navbarMediumish">
-                    <!-- Begin Menu -->
-
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Asia
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/india/"
-                                    >India</a
-                                >
-                                <a class="dropdown-item" href="/kyrgyzstan/"
-                                    >Kyrgyzstan</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Europe
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/england/"
-                                    >England</a
-                                >
-                                <a class="dropdown-item" href="/germany/"
-                                    >Germany</a
-                                >
-                                <a class="dropdown-item" href="/switzerland/"
-                                    >Switzerland</a
-                                >
-                                <a class="dropdown-item" href="/turkey/"
-                                    >Turkey</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                MENA
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/egypt/"
-                                    >Egypt</a
-                                >
-                                <a class="dropdown-item" href="/morocco/"
-                                    >Morocco</a
-                                >
-                                <a class="dropdown-item" href="/uae/">UAE</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Americas
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/brazil/"
-                                    >Brazil</a
-                                >
-                                <a class="dropdown-item" href="/colombia/"
-                                    >Colombia</a
-                                >
-                                <a class="dropdown-item" href="/usa/">USA</a>
-                            </div>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/whileyoung/">
-                                #WhileYoung
-                            </a>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/female-travel/"
-                                ><i class="fab fa-snapchat-ghost"></i> Female
-                                Travel</a
-                            >
-                        </li>
-                        <script src="/assets/js/lunr.js"></script>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Asia
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/india/"
+                            >India</a
+                        >
+                        <a class="dropdown-item" href="/kyrgyzstan/"
+                            >Kyrgyzstan</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Europe
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/england/"
+                            >England</a
+                        >
+                        <a class="dropdown-item" href="/germany/"
+                            >Germany</a
+                        >
+                        <a class="dropdown-item" href="/switzerland/"
+                            >Switzerland</a
+                        >
+                        <a class="dropdown-item" href="/turkey/"
+                            >Turkey</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        MENA
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/egypt/"
+                            >Egypt</a
+                        >
+                        <a class="dropdown-item" href="/morocco/"
+                            >Morocco</a
+                        >
+                        <a class="dropdown-item" href="/uae/">UAE</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Americas
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/brazil/"
+                            >Brazil</a
+                        >
+                        <a class="dropdown-item" href="/colombia/"
+                            >Colombia</a
+                        >
+                        <a class="dropdown-item" href="/usa/">USA</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="nav-link" href="/whileyoung/">
+                        #WhileYoung
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link" href="/female-travel/"
+                        ><i class="fab fa-snapchat-ghost"></i> Female
+                        Travel</a
+                    >
+                </li>
+            </ul>
+            <script src="/assets/js/lunr.js"></script>
 
 
 <style>
@@ -234,25 +230,22 @@
 </div>
 
 <script src="/assets/js/lunrsearchengine.js"></script>
-                    </ul>
+            <!-- End Menu -->
+        </div>
+    </div>
+</nav>
 
-                    <!-- End Menu -->
-                </div>
-            </div>
-        </nav>
         <!-- End Navigation
 ================================================== -->
 
+        
+
         <div class="site-content">
             <div class="container">
+
                 <!-- Site Title
-================================================== 
-                <div class="mainheading">
-                    <h1 class="sitetitle">Judson L Moore</h1>
-                    <p class="lead">
-                        Author and travel addict
-                    </p>
-                </div> -->
+================================================== -->
+                
 
                 <!-- Content
 ================================================== -->
@@ -378,12 +371,14 @@
 
 <p>As the sun rose, the area around us came alive. There was a family of boar rummaging around our car and not 100 meters from us was a little food stand with fresh breakfast. ‘Upma’ is basically grits with a kick, and was some of the best food I’ve eaten in India. It’s true, street food, especially village street food, is the best.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0430.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0430.jpg">
 
             
 
@@ -401,7 +396,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0447.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0447.jpg">
 
             
 
@@ -419,7 +414,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0440.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0440.jpg">
 
             
 
@@ -437,7 +432,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0436.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0436.jpg">
 
             
 
@@ -455,7 +450,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0442.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0442.jpg">
 
             
 
@@ -473,7 +468,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0434.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0434.jpg">
 
             
 
@@ -491,7 +486,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0450.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0450.jpg">
 
             
 
@@ -509,7 +504,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0468.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0468.jpg">
 
             
 
@@ -527,7 +522,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0472.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0472.jpg">
 
             
 
@@ -545,7 +540,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0489.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0489.jpg">
 
             
 
@@ -563,7 +558,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0499.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0499.jpg">
 
             
 
@@ -581,7 +576,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0505.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0505.jpg">
 
             
 
@@ -599,7 +594,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0511.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0511.jpg">
 
             
 
@@ -617,7 +612,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0520.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0520.jpg">
 
             
 
@@ -635,7 +630,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0608.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0608.jpg">
 
             
 
@@ -653,7 +648,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0596.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0596.jpg">
 
             
 
@@ -671,7 +666,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0585.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0585.jpg">
 
             
 
@@ -689,7 +684,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0576.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0576.jpg">
 
             
 
@@ -707,7 +702,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0572.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0572.jpg">
 
             
 
@@ -725,7 +720,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0563.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0563.jpg">
 
             
 
@@ -743,7 +738,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0548.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0548.jpg">
 
             
 
@@ -761,7 +756,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0547.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0547.jpg">
 
             
 
@@ -779,7 +774,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0543.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0543.jpg">
 
             
 
@@ -797,7 +792,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0538.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0538.jpg">
 
             
 
@@ -815,7 +810,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0532.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0532.jpg">
 
             
 
@@ -833,7 +828,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0531.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0531.jpg">
 
             
 
@@ -851,7 +846,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0611.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0611.jpg">
 
             
 
@@ -869,7 +864,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0618.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0618.jpg">
 
             
 
@@ -887,7 +882,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0619.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0619.jpg">
 
             
 
@@ -905,7 +900,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0620.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0620.jpg">
 
             
 
@@ -923,7 +918,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0622.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0622.jpg">
 
             
 
@@ -941,7 +936,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0637.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0637.jpg">
 
             
 
@@ -959,7 +954,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0660.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0660.jpg">
 
             
 
@@ -977,7 +972,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0669.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0669.jpg">
 
             
 
@@ -995,7 +990,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0684.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0684.jpg">
 
             
 
@@ -1013,7 +1008,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0687.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0687.jpg">
 
             
 
@@ -1031,7 +1026,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0692.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0692.jpg">
 
             
 
@@ -1049,7 +1044,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0695.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0695.jpg">
 
             
 
@@ -1067,7 +1062,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0733.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0733.jpg">
 
             
 
@@ -1085,7 +1080,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_07361.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_07361.jpg">
 
             
 
@@ -1103,7 +1098,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0739.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0739.jpg">
 
             
 
@@ -1121,7 +1116,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0752.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0752.jpg">
 
             
 
@@ -1139,7 +1134,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0762.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0762.jpg">
 
             
 
@@ -1157,7 +1152,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0770.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0770.jpg">
 
             
 
@@ -1175,7 +1170,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0802.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0802.jpg">
 
             
 
@@ -1193,7 +1188,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0809.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0809.jpg">
 
             
 
@@ -1211,7 +1206,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_0813.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0813.jpg">
 
             
 
@@ -1230,6 +1225,12 @@
   </div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
 <h2 id="the-tungabhadra-dam-and-a-hindu-fest">The Tungabhadra Dam and a Hindu Fest</h2>
 
 <p>After getting our tire fixed, we continued on toward Hampi to our hotel in the nearby town of Hospet. We quickly checked in and took off again to see Tungabhadra Dam before the sunset. This dam is a 50-meter high power station which holds back a reservoir of 378 square kilometers. It’s huge.</p>
@@ -1238,11 +1239,19 @@
 
 <p>Just in case you’ve missed the subtile hints: the food is awesome.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
 
 <h2 id="the-historical-ruins-of-hampi">The Historical Ruins of Hampi</h2>
 
@@ -1252,27 +1261,52 @@
 
 <p>If we had not negotiated his price, then we would have either paid INR1000 for 6-hours and seen more, or we would have paid INR500 for just three hours of his time. In the end, paying INR750 for 3 hours was the most costly way to go. What this taught me about negotiating in India is that you can feel like a winner at the time of negotiation, but people always find a way to make their margins in the end. This proved to be true at every scale and every purchase that I made for the next 4 months.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
 
 <p>Most of the original buildings of Hampi were destroyed by the invasion of three Muslim kings in 1565, but there are a few buildings with Islamic architectural details which they left standing. Additionally, there are a few buildings they left for their own use, like the elephant stables. Very few buildings that were destroyed have been reconstructed, but as you will see from these photos, those which remain are truly beautiful.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
 
 <p>The central point of Hampi is marked by the very large Virupaksha Temple. The panoramic view of this temple from atop a nearby hill is breathtaking. This single structure and the view from this vantage point is the most interesting thing I saw in all of India.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
 
             </div>
 
@@ -1555,7 +1589,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
 
             <!-- Categories Jumbotron
 ================================================== -->
-            <!--
+            
             <div class="jumbotron fortags">
                 <div class="d-md-flex h-100">
                     <div
@@ -1739,19 +1773,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
                     </div>
                 </div>
             </div>
--->
 
             <!-- Begin Footer
 ================================================== -->
             <footer class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                            Copyright © 2019 Judson L Moore
-                        </div>
-                    </div>
-                </div>
-            </footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2019 Judson L Moore
+            </div>
+        </div>
+    </div>
+</footer>
+
             <!-- End Footer
 ================================================== -->
         </div>
@@ -1785,7 +1819,6 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
-        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

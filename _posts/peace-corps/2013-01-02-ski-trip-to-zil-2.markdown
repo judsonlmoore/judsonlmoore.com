@@ -18,4 +18,4 @@ To learn more about skiing in Kyrgyzstan and for the latest weather conditions, 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-01-02-ski-trip-to-zil-2"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

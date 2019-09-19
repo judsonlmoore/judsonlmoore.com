@@ -26,4 +26,4 @@ Have you been to Brühl? Planning a trip to the region? Please leave a comment b
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2015-01-17-bruhl-walking-tour"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

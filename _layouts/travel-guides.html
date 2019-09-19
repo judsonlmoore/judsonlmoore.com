@@ -2,43 +2,24 @@
 title: travel-guides
 permalink: "/travel-guides.html"
 layout: default
----
 
-<style type="text/css">
-	.jumbotron {
-		color: white;
-		background-image: url("{{ site.image-path }}{{ page.image }}");
-		background-position: center;
-		background-repeat: no-repeat;
-		background-size: cover;
-		height: 40vh;
-	}
-</style>
-
-<div class="jumbotron jumbotron-fluid">
-	<div class="container">
-		<h1 class="display-4">{{ page.title }}</h1>
-		<p class="lead">{{ page.subtitle }}</p>
-		<p class="lead">
-			{% include opt-in-modal.html %}
-		</p>
-	</div>
-</div>
+--- 
 
 <section>
 	<div class="row">
-		<div class="col-12 col-md-9">
+		<div class="two-col col-12 col-md-9">
 			{{content}}
 		</div>
 		<div class="col-12 col-md-3">
 			<h3>Destinations</h3>
-			{% assign destination = site.posts | where_exp: "item" ,
-			"item.categories contains page.category "%} {% for post in
-			destination %} {% if post.destination != nil %}
+			{% assign destination = site.posts | where_exp: "item" , "item.categories contains page.category "%} 
+			{% for post in destination %} 
+			{% if post.destination != nil %}
 			<ul>
 				<li><a href="{{ post.url }}">{{ post.destination }}</a></li>
 			</ul>
-			{% endif %} {% endfor %}
+			{% endif %} 
+			{% endfor %}
 		</div>
 	</div>
 </section>
@@ -50,9 +31,10 @@ layout: default
 	<div class="row">
 		<div class="col-12 col-md-9">
 			<div class="row listrecent">
-				{% assign destinationPosts = site.posts | where_exp: "item" ,
-				"item.categories contains page.category"%} {% for post in
-				destinationPosts %} {% include postbox.html %} {% endfor %}
+				{% assign destinationPosts = site.posts | where_exp: "item" , "item.categories contains page.category"%} 
+				{% for post in destinationPosts %} 
+				{% include postbox.html %} 
+				{% endfor %}
 			</div>
 		</div>
 		<div class="col-12 col-md-3">
@@ -60,3 +42,4 @@ layout: default
 		</div>
 	</div>
 </section>
+

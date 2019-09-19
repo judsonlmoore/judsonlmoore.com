@@ -45,15 +45,12 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
-        <link
-            href="/assets/css/gallery-clean.css"
-            rel="stylesheet"
-        />
         <script src="/assets/js/jquery.min.js"></script>
-
         <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/all.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/v4-shims.js"></script>
+        
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -66,154 +63,153 @@
             />
             <link
                 rel="stylesheet"
-                stc="/assets/css/all.min.css"
+                src="/assets/css/all.min.css"
                 crossorigin="anonymous"
-            />
+            />         
         </noscript>
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <nav
-            class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down"
+        <nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="/">
+            <h1 class="logo-title">Judson L Moore</h1>
+            <p class="logo-subtitle">
+                Author and travel addict
+            </p>
+        </a>
+        <!-- End Logo -->
+
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
         >
-            <div class="container pr-0">
-                <!-- Begin Logo -->
-                <a class="navbar-brand" href="/">
-                    <h1 class="logo-title">Judson L Moore</h1>
-                    <p class="logo-subtitle">
-                        Author and travel addict
-                    </p>
-                </a>
-                <!-- End Logo -->
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-toggle="collapse"
-                    data-target="#navbarMediumish"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <!-- Begin Menu -->
 
-                <div class="collapse navbar-collapse" id="navbarMediumish">
-                    <!-- Begin Menu -->
-
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Asia
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/india/"
-                                    >India</a
-                                >
-                                <a class="dropdown-item" href="/kyrgyzstan/"
-                                    >Kyrgyzstan</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Europe
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/england/"
-                                    >England</a
-                                >
-                                <a class="dropdown-item" href="/germany/"
-                                    >Germany</a
-                                >
-                                <a class="dropdown-item" href="/switzerland/"
-                                    >Switzerland</a
-                                >
-                                <a class="dropdown-item" href="/turkey/"
-                                    >Turkey</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                MENA
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/egypt/"
-                                    >Egypt</a
-                                >
-                                <a class="dropdown-item" href="/morocco/"
-                                    >Morocco</a
-                                >
-                                <a class="dropdown-item" href="/uae/">UAE</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Americas
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/brazil/"
-                                    >Brazil</a
-                                >
-                                <a class="dropdown-item" href="/colombia/"
-                                    >Colombia</a
-                                >
-                                <a class="dropdown-item" href="/usa/">USA</a>
-                            </div>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/whileyoung/">
-                                #WhileYoung
-                            </a>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/female-travel/"
-                                ><i class="fab fa-snapchat-ghost"></i> Female
-                                Travel</a
-                            >
-                        </li>
-                        <script src="/assets/js/lunr.js"></script>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Asia
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/india/"
+                            >India</a
+                        >
+                        <a class="dropdown-item" href="/kyrgyzstan/"
+                            >Kyrgyzstan</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Europe
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/england/"
+                            >England</a
+                        >
+                        <a class="dropdown-item" href="/germany/"
+                            >Germany</a
+                        >
+                        <a class="dropdown-item" href="/switzerland/"
+                            >Switzerland</a
+                        >
+                        <a class="dropdown-item" href="/turkey/"
+                            >Turkey</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        MENA
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/egypt/"
+                            >Egypt</a
+                        >
+                        <a class="dropdown-item" href="/morocco/"
+                            >Morocco</a
+                        >
+                        <a class="dropdown-item" href="/uae/">UAE</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Americas
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/brazil/"
+                            >Brazil</a
+                        >
+                        <a class="dropdown-item" href="/colombia/"
+                            >Colombia</a
+                        >
+                        <a class="dropdown-item" href="/usa/">USA</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="nav-link" href="/whileyoung/">
+                        #WhileYoung
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link" href="/female-travel/"
+                        ><i class="fab fa-snapchat-ghost"></i> Female
+                        Travel</a
+                    >
+                </li>
+            </ul>
+            <script src="/assets/js/lunr.js"></script>
 
 
 <style>
@@ -234,25 +230,22 @@
 </div>
 
 <script src="/assets/js/lunrsearchengine.js"></script>
-                    </ul>
+            <!-- End Menu -->
+        </div>
+    </div>
+</nav>
 
-                    <!-- End Menu -->
-                </div>
-            </div>
-        </nav>
         <!-- End Navigation
 ================================================== -->
 
+        
+
         <div class="site-content">
             <div class="container">
+
                 <!-- Site Title
-================================================== 
-                <div class="mainheading">
-                    <h1 class="sitetitle">Judson L Moore</h1>
-                    <p class="lead">
-                        Author and travel addict
-                    </p>
-                </div> -->
+================================================== -->
+                
 
                 <!-- Content
 ================================================== -->
@@ -366,12 +359,14 @@
 
 <p>Once inside the Amber Fort, we were overwhelmed by the architecture and detail work. Between the geometric gardens, facades with incredibly preserved details and surviving paintings of the Kama Sutra, the space was a lot to take in. All of that was small potatoes compared to the Sheesh Mahal (Mirror Palace). The Mirror Palace is a space within the Amber Fort, which is covered in tiny convex-shaped mirrors. The light reflecting off of all the surfaces shifts as you walk through the space and the feeling is very dazzling.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_0136.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_0136.jpg">
 
             
 
@@ -389,7 +384,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_3996.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_3996.jpg">
 
             
 
@@ -407,7 +402,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4098.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4098.jpg">
 
             
 
@@ -425,7 +420,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_0139.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_0139.jpg">
 
             
 
@@ -443,7 +438,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_4070.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_4070.jpg">
 
             
 
@@ -461,7 +456,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_3982.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_3982.jpg">
 
             
 
@@ -479,7 +474,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4076.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4076.jpg">
 
             
 
@@ -497,7 +492,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_4026.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_4026.jpg">
 
             
 
@@ -515,7 +510,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_4017.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_4017.jpg">
 
             
 
@@ -533,7 +528,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4042.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4042.jpg">
 
             
 
@@ -551,7 +546,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_0164.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_0164.jpg">
 
             
 
@@ -569,7 +564,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_0165.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_0165.jpg">
 
             
 
@@ -587,7 +582,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_4047.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_4047.jpg">
 
             
 
@@ -605,7 +600,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_0168.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_0168.jpg">
 
             
 
@@ -623,7 +618,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_3991.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_3991.jpg">
 
             
 
@@ -641,7 +636,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_1118.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_1118.jpg">
 
             
 
@@ -659,7 +654,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4123.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4123.jpg">
 
             
 
@@ -677,7 +672,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_1116.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_1116.jpg">
 
             
 
@@ -695,7 +690,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_4171.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_4171.jpg">
 
             
 
@@ -713,7 +708,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_4164.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_4164.jpg">
 
             
 
@@ -731,7 +726,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4159.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4159.jpg">
 
             
 
@@ -749,7 +744,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/02/IMG_4176.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/02/IMG_4176.jpg">
 
             
 
@@ -767,7 +762,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4197.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4197.jpg">
 
             
 
@@ -785,7 +780,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4212.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4212.jpg">
 
             
 
@@ -803,7 +798,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4166.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4166.jpg">
 
             
 
@@ -821,7 +816,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4227.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4227.jpg">
 
             
 
@@ -839,7 +834,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2015/01/IMG_4140.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_4140.jpg">
 
             
 
@@ -858,6 +853,12 @@
   </div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
 <h2 id="the-jal-mahal">The Jal Mahal</h2>
 
 <p>We spent a few hours at the fort and then moved along to explore the rest of Jaipur. Directly across from our hotel is Jal Mahal (Water Palace). This palace is a manmade island and structure for which the original purpose wasn’t explained to me, but which is now closed to the public and slated for renovation as a fine dining establishment. This 5-story structure of Rajput and Mughal styles will be a grand place to dine, but the high level of pollution in the lake will make it challenging to maintain an appetite; the foam and water’s edge was literally seafoam green.</p>
@@ -872,11 +873,20 @@
 
 <p>One art piece that I thought was striking was a number of rifles and spears that were laid out in a large circle. The guns are pointing in toward the center while the spears are pointed out toward the edge. The guide said that it was to symbolize Indian strength and wealth, but I think it symbolizes the imperial occupation of Britain who had a superior military versus the Indians who had less advanced weaponry. There is a photo below, so you can make your own opinion about it.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
 
             </div>
 
@@ -1139,7 +1149,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
 
             <!-- Categories Jumbotron
 ================================================== -->
-            <!--
+            
             <div class="jumbotron fortags">
                 <div class="d-md-flex h-100">
                     <div
@@ -1323,19 +1333,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
                     </div>
                 </div>
             </div>
--->
 
             <!-- Begin Footer
 ================================================== -->
             <footer class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                            Copyright © 2019 Judson L Moore
-                        </div>
-                    </div>
-                </div>
-            </footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2019 Judson L Moore
+            </div>
+        </div>
+    </div>
+</footer>
+
             <!-- End Footer
 ================================================== -->
         </div>
@@ -1369,7 +1379,6 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
-        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

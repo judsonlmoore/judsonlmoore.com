@@ -93,7 +93,7 @@ Aside from the trail being very beautiful and mostly void of other visitors, the
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2018-10-28-petra-jordan-destination-guide"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 {% include image.html alt="A selfie with The Royal Tombs of Petra, taken from atop the High Place of Sacrifice" file="../assets/images/2018/05/petra-jordan-royal-tombs.jpg" description="The Royal Tombs of Petra, taken from atop the High Place of Sacrifice" %}
 

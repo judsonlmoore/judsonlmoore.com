@@ -47,7 +47,7 @@ At this point I ran out of film! :( and Katharina had already run out at the clu
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2000-10-14-meeting-papa-roach"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## A Night at the Train Station
 

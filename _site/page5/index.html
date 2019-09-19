@@ -43,15 +43,12 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
-        <link
-            href="/assets/css/gallery-clean.css"
-            rel="stylesheet"
-        />
         <script src="/assets/js/jquery.min.js"></script>
-
         <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/all.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/v4-shims.js"></script>
+        
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -64,154 +61,153 @@
             />
             <link
                 rel="stylesheet"
-                stc="/assets/css/all.min.css"
+                src="/assets/css/all.min.css"
                 crossorigin="anonymous"
-            />
+            />         
         </noscript>
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <nav
-            class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down"
+        <nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="/">
+            <h1 class="logo-title">Judson L Moore</h1>
+            <p class="logo-subtitle">
+                Author and travel addict
+            </p>
+        </a>
+        <!-- End Logo -->
+
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
         >
-            <div class="container pr-0">
-                <!-- Begin Logo -->
-                <a class="navbar-brand" href="/">
-                    <h1 class="logo-title">Judson L Moore</h1>
-                    <p class="logo-subtitle">
-                        Author and travel addict
-                    </p>
-                </a>
-                <!-- End Logo -->
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-toggle="collapse"
-                    data-target="#navbarMediumish"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <!-- Begin Menu -->
 
-                <div class="collapse navbar-collapse" id="navbarMediumish">
-                    <!-- Begin Menu -->
-
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Asia
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/india/"
-                                    >India</a
-                                >
-                                <a class="dropdown-item" href="/kyrgyzstan/"
-                                    >Kyrgyzstan</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Europe
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/england/"
-                                    >England</a
-                                >
-                                <a class="dropdown-item" href="/germany/"
-                                    >Germany</a
-                                >
-                                <a class="dropdown-item" href="/switzerland/"
-                                    >Switzerland</a
-                                >
-                                <a class="dropdown-item" href="/turkey/"
-                                    >Turkey</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                MENA
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/egypt/"
-                                    >Egypt</a
-                                >
-                                <a class="dropdown-item" href="/morocco/"
-                                    >Morocco</a
-                                >
-                                <a class="dropdown-item" href="/uae/">UAE</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Americas
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/brazil/"
-                                    >Brazil</a
-                                >
-                                <a class="dropdown-item" href="/colombia/"
-                                    >Colombia</a
-                                >
-                                <a class="dropdown-item" href="/usa/">USA</a>
-                            </div>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/whileyoung/">
-                                #WhileYoung
-                            </a>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/female-travel/"
-                                ><i class="fab fa-snapchat-ghost"></i> Female
-                                Travel</a
-                            >
-                        </li>
-                        <script src="/assets/js/lunr.js"></script>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Asia
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/india/"
+                            >India</a
+                        >
+                        <a class="dropdown-item" href="/kyrgyzstan/"
+                            >Kyrgyzstan</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Europe
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/england/"
+                            >England</a
+                        >
+                        <a class="dropdown-item" href="/germany/"
+                            >Germany</a
+                        >
+                        <a class="dropdown-item" href="/switzerland/"
+                            >Switzerland</a
+                        >
+                        <a class="dropdown-item" href="/turkey/"
+                            >Turkey</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        MENA
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/egypt/"
+                            >Egypt</a
+                        >
+                        <a class="dropdown-item" href="/morocco/"
+                            >Morocco</a
+                        >
+                        <a class="dropdown-item" href="/uae/">UAE</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Americas
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/brazil/"
+                            >Brazil</a
+                        >
+                        <a class="dropdown-item" href="/colombia/"
+                            >Colombia</a
+                        >
+                        <a class="dropdown-item" href="/usa/">USA</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="nav-link" href="/whileyoung/">
+                        #WhileYoung
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link" href="/female-travel/"
+                        ><i class="fab fa-snapchat-ghost"></i> Female
+                        Travel</a
+                    >
+                </li>
+            </ul>
+            <script src="/assets/js/lunr.js"></script>
 
 
 <style>
@@ -232,25 +228,22 @@
 </div>
 
 <script src="/assets/js/lunrsearchengine.js"></script>
-                    </ul>
+            <!-- End Menu -->
+        </div>
+    </div>
+</nav>
 
-                    <!-- End Menu -->
-                </div>
-            </div>
-        </nav>
         <!-- End Navigation
 ================================================== -->
 
+        
+
         <div class="site-content">
             <div class="container">
+
                 <!-- Site Title
-================================================== 
-                <div class="mainheading">
-                    <h1 class="sitetitle">Judson L Moore</h1>
-                    <p class="lead">
-                        Author and travel addict
-                    </p>
-                </div> -->
+================================================== -->
+                
 
                 <!-- Content
 ================================================== -->
@@ -260,12 +253,18 @@
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
+
     <div class="section-title">
+
         <h2><span>All Stories</span></h2>
+
     </div>
 
     <div class="row listrecent">
-         <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -274,73 +273,44 @@
             <a href="/book-a-riad-morocco/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/04/riad-in-morocco-3.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/04/riad-in-morocco-3.jpg" alt="10 Questions to Ask Before You Book a Riad in Morocco"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/book-a-riad-morocco/"
-                    >10 Questions to Ask Before You Book a Riad in Morocco</a
-                >
+                <a class="text-dark" href="/book-a-riad-morocco/">10 Questions to Ask Before You Book a Riad in Morocco</a>
                 
             </h2>
-            <h4 class="card-text">
-                Morocco is a land with charms dating back centuries. If you want to have an authentic experience, book a riad in Morocco, but ask these questions first.
-            </h4>
+            <h4 class="card-text">Morocco is a land with charms dating back centuries. If you want to have an authentic experience, book a riad in Morocco, but ask these questions first.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >12 Apr 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">12 Apr 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/book-a-riad-morocco/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/book-a-riad-morocco/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -349,73 +319,44 @@
             <a href="/young-free-female-happy/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/03/avatar-tarah-mason.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/03/avatar-tarah-mason.jpg" alt="Young, free, and female. How to be happy in a world full of choice and pressure."> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/young-free-female-happy/"
-                    >Young, free, and female. How to be happy in a world full of choice and pressure.</a
-                >
+                <a class="text-dark" href="/young-free-female-happy/">Young, free, and female. How to be happy in a world full of choice and pressure.</a>
                 
             </h2>
-            <h4 class="card-text">
-                Travel blogger Tarah Mason writes a guest post about how to be happy in a world full of opportunities, pressures, and unlimited possibilities.
-            </h4>
+            <h4 class="card-text">Travel blogger Tarah Mason writes a guest post about how to be happy in a world full of opportunities, pressures, and unlimited possibilities.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="https://www.gravatar.com/avatar/5f34aa736d5e05203f81bd1463ff3514?s=250&d=mm&r=x"
-                        alt="Tarah Mason"
-                    />
-                    
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/5f34aa736d5e05203f81bd1463ff3514?s=250&d=mm&r=x" alt="Tarah Mason">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.travelwithtarah.com/"
-                            >Tarah Mason</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >21 Mar 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.travelwithtarah.com/">Tarah Mason</a></span><br/>
+                
+                <span class="post-date">21 Mar 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/young-free-female-happy/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/young-free-female-happy/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -424,73 +365,44 @@
             <a href="/best-podcast-2017/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/03/best-podcast-2017.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/03/best-podcast-2017.jpg" alt="Best podcast 2017 - What I listen to for my daily dose of inspiration"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/best-podcast-2017/"
-                    >Best podcast 2017 - What I listen to for my daily dose of inspiration</a
-                >
+                <a class="text-dark" href="/best-podcast-2017/">Best podcast 2017 - What I listen to for my daily dose of inspiration</a>
                 
             </h2>
-            <h4 class="card-text">
-                After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
-            </h4>
+            <h4 class="card-text">After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >15 Mar 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">15 Mar 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/best-podcast-2017/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/best-podcast-2017/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -499,73 +411,44 @@
             <a href="/ouro-preto-brazil-travel-guide/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2015/10/ouro-preto.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2015/10/ouro-preto.jpg" alt="Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/ouro-preto-brazil-travel-guide/"
-                    >Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion</a
-                >
+                <a class="text-dark" href="/ouro-preto-brazil-travel-guide/">Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion</a>
                 
             </h2>
-            <h4 class="card-text">
-                Ouro Preto Brazil is the best preserved colonial city in South America. Today, it is a treasure of riches, architecture and revolutionary history.
-            </h4>
+            <h4 class="card-text">Ouro Preto Brazil is the best preserved colonial city in South America. Today, it is a treasure of riches, architecture and revolutionary history.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >08 Mar 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">08 Mar 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/ouro-preto-brazil-travel-guide/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/ouro-preto-brazil-travel-guide/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -574,73 +457,44 @@
             <a href="/top-10-american-cities-living-without-car/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/03/top-10-living-without-car-america-redfin-2017.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/03/top-10-living-without-car-america-redfin-2017.jpg" alt="Top 10 American Cities for Living Without a Car in 2017"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/top-10-american-cities-living-without-car/"
-                    >Top 10 American Cities for Living Without a Car in 2017</a
-                >
+                <a class="text-dark" href="/top-10-american-cities-living-without-car/">Top 10 American Cities for Living Without a Car in 2017</a>
                 
             </h2>
-            <h4 class="card-text">
-                Living without a car is the new American dream established by Millennials seeking a more efficient life. Here are the top cities where dreams come true.
-            </h4>
+            <h4 class="card-text">Living without a car is the new American dream established by Millennials seeking a more efficient life. Here are the top cities where dreams come true.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >03 Mar 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">03 Mar 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/top-10-american-cities-living-without-car/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/top-10-american-cities-living-without-car/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-  <!-- begin post -->
+
+        
+
+        <!-- begin post -->
 
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -649,82 +503,53 @@
             <a href="/interview-scott-holiday-rival-sons/">
                 
 
-<img
-	src="http://localhost:4000/assets/images/2017/02/interview-scott-holiday-rival-sons-005.jpg"
-	class="img-fluid non-prod"
-	alt="Home"
-	style="height: auto"
-/>
+                    
+                        <img class="img-fluid" src="/assets/images/2017/02/interview-scott-holiday-rival-sons-005.jpg" alt="Enjoy the taste of crow - an interview with Scott Holiday of the Rival Sons"> 
+                    
 
-
-
+                
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/interview-scott-holiday-rival-sons/"
-                    >Enjoy the taste of crow - an interview with Scott Holiday of the Rival Sons</a
-                >
+                <a class="text-dark" href="/interview-scott-holiday-rival-sons/">Enjoy the taste of crow - an interview with Scott Holiday of the Rival Sons</a>
                 
             </h2>
-            <h4 class="card-text">
-                I caught up with Scott Holiday in Germany while on tour with Rival Sons. He talks of life on the road, their new album, and how the band thrives.
-            </h4>
+            <h4 class="card-text">I caught up with Scott Holiday in Germany while on tour with Rival Sons. He talks of life on the road, their new album, and how the band thrives.</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                    
-                    <img
-                        class="author-thumb"
-                        src="/assets/images/avatars/avatar-judsonlmoore.jpg"
-                        alt="Judson L Moore"
-                    />
-                    
+                
+                <img class="author-thumb" src="/assets/images/avatars/avatar-judsonlmoore.jpg" alt="Judson L Moore">
+                
                 </span>
                 <span class="author-meta">
-                    <span class="post-name"
-                        ><a target="_blank" href="https://www.judsonlmoore.com"
-                            >Judson L Moore</a
-                        ></span
-                    ><br />
-                    
-                    <span class="post-date"
-                        >21 Feb 2017</span
-                    >
+                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
+                
+                <span class="post-date">21 Feb 2017</span>
                 </span>
-                <span class="post-read-more"
-                    ><a
-                        href="/interview-scott-holiday-rival-sons/"
-                        title="Read Story"
-                        ><svg
-                            class="svgIcon-use"
-                            width="25"
-                            height="25"
-                            viewbox="0 0 25 25"
-                        >
-                            <path
-                                d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-                                fill-rule="evenodd"
-                            ></path></svg></a
-                ></span>
+                <span class="post-read-more"><a href="/interview-scott-holiday-rival-sons/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
- 
+
+        
+
     </div>
+
 </section>
 
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-    <span class="navigation" role="navigation">
-        
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    
 <div class="pagination">
   
     <a class="ml-1 mr-1" href="/page4/">&laquo; Prev</a>
@@ -869,9 +694,8 @@
   
 </div>
 
-    </span>
+</span>
 </div>
-
                 </div>
 
                 
@@ -919,7 +743,7 @@
 
             <!-- Categories Jumbotron
 ================================================== -->
-            <!--
+            
             <div class="jumbotron fortags">
                 <div class="d-md-flex h-100">
                     <div
@@ -1103,19 +927,19 @@
                     </div>
                 </div>
             </div>
--->
 
             <!-- Begin Footer
 ================================================== -->
             <footer class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                            Copyright © 2019 Judson L Moore
-                        </div>
-                    </div>
-                </div>
-            </footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2019 Judson L Moore
+            </div>
+        </div>
+    </div>
+</footer>
+
             <!-- End Footer
 ================================================== -->
         </div>
@@ -1144,7 +968,6 @@
 
         
         <script src="/assets/js/jquery.min.js"></script>
-        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

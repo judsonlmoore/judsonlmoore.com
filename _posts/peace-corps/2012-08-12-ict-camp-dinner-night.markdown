@@ -14,4 +14,4 @@ Last night I had a group of new friends in Bishkek over for dinner at my new apa
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-08-12-ict-camp-dinner-night"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

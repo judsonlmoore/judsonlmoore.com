@@ -14,4 +14,4 @@ Think you have a tough commute? This is just another day in the life of a Talas 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-03-18-bishkek-talas-winter-road-conditions"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

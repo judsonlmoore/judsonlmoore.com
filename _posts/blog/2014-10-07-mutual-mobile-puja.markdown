@@ -21,4 +21,4 @@ The parents of our CEO live in Hyderabad and so they attended the event as the g
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-10-07-mutual-mobile-puja"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

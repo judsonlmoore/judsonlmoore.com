@@ -17,7 +17,7 @@ Here are some photos of the pin ceremony, followed by a letter I wrote to [the f
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2015-08-18-im-a-rotarian"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## An Open Letter To The Rotary Club of Alexandria
 

@@ -2,6 +2,7 @@
 title:			Did It While I Was Young
 date:			2010-03-19 07:39:00 Z
 categories:		lifestyle
+tags:			sticky
 author:			judsonlmoore
 layout:			post
 image:			2016/01/adventure.jpeg

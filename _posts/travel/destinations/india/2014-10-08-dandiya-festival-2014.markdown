@@ -29,6 +29,6 @@ Here are some photos from the evening, followed by a video I found from the same
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-10-08-dandiya-festival-2014"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Vz3zuS53PpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,27 +1,32 @@
+/* @override 
+    http://localhost:4000/assets/css/screen.css */
+
 /* 
 Template Name: Mediumish 
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
-@media screen and (min-width: 1500px) {
-    html {
-        font-size: 18px;
-    } /* Increase the font size on higher resolutions */
-    .container {
-        max-width: 80%;
-    }
-}
+
+
 .mainheading {
-    padding: 1rem 0rem;
+    padding: 60px;
+}
+
+.container .main-content {
+
+}
+
+footer.footer .container {
+    
 }
 
 a {
-    color: #00ab6b;
+    color: #04adea;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #059ed6;
     text-decoration: none;
 }
 
@@ -54,13 +59,41 @@ pre {
 
 .site-content {
     min-height: 60vh;
-    padding-top: 1.5rem;
-    margin-top: 57px;
     transition: all 0.4s;
 }
 
 section {
     margin-bottom: 20px;
+}
+
+section.fullwidth-header-image {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 30vh;
+}
+
+.fullwidth-header-image {
+    color: #fff!important;
+    text-shadow: 1px 1px #3e5062;
+    padding: 50px 0;
+}
+
+section.fullwidth-header-image h1 {
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: .5px;
+    line-height: 1em;
+    margin: 0 0 10px 0;
+    color: #fff!important
+}
+
+section.fullwidth-header-image p {
+    font-size: 22px;
+    text-shadow: 1px 1px #3e5062;
+    color: #fff!important;
+    margin: 0 0 20px 0;
+    line-height: 1em;
 }
 
 section.recent-posts {
@@ -112,6 +145,7 @@ section.recent-posts {
     border: 1px solid rgba(0, 0, 0, 0.125);
     border-radius: 0.25rem;
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    background: #fff;
 }
 
 .listfeaturedtag .wrapthumbnail {
@@ -287,7 +321,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .dropdown-menu {
-    border: 1px solid rgba(0, 0, 0, 0.08);
+    border: none;
     margin: 0.5rem 0 0;
 }
 
@@ -318,15 +352,15 @@ span.post-read-more a:hover {
 }
 
 .footer {
-    border-top: 1px solid rgba(0, 0, 0, 0.05) !important;
+    border-top: none;
     padding-top: 15px;
     padding-bottom: 12px;
     font-size: 0.8rem;
-    color: rgba(0, 0, 0, 0.44);
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
     margin-top: 50px;
-    margin-bottom: 62px;
-    position: relative;
-    background: #fff;
+    margin-bottom: 0px;
+    background-color: #232323;  
 }
 
 .link-dark {
@@ -334,10 +368,16 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Merriweather;
-    font-size: 1.1rem;
-    line-height: 1.84;
+    font-size: 14px;
     color: rgba(0, 0, 0, 0.8);
+    background: #fff;   
+    padding: 60px;
+    margin-bottom: 1.6em;
+    line-height: 1.7em;
+    word-break: break-word;
+    word-wrap: break-word;
+    
+    
 }
 
 blockquote {
@@ -354,7 +394,7 @@ blockquote {
 
 .featured-image {
     display: block;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0;
 }
 
 .share {
@@ -693,6 +733,7 @@ h6 {
         Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+
 .article-post .h1,
 .article-post .h2,
 .article-post .h3,
@@ -908,13 +949,31 @@ iframe {
 }
 
 h1.logo-title {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 600;
     margin: 0;
+    color: #f9ecb1;
 }
 
 p.logo-subtitle {
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 200;
     margin: 0;
+    color: #f9ecb1;
+}
+
+@media (max-width:768px) {
+    .two-columns {
+        -webkit-column-count:1;
+        -moz-column-count: 1;
+        column-count: 1
+    }
+}
+
+@media (min-width: 769px) {
+    .two-columns {
+        -webkit-column-count:2;
+        -moz-column-count: 2;
+        column-count: 2
+    }
 }

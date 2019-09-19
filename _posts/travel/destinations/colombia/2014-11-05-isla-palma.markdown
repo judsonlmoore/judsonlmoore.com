@@ -21,6 +21,6 @@ Between the jungle flora and fauna and the sense of adventure that this forgotte
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-11-05-isla-palma"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 \*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).

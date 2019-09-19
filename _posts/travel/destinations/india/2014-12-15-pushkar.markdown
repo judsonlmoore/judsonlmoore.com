@@ -45,4 +45,4 @@ All in all, this trip was one for the ages. Here are a few photos.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-12-15-pushkar"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

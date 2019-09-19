@@ -1,0 +1,17 @@
+<link href="{{ site.baseurl }}/assets/css/gallery-grid.css" rel="stylesheet" />
+<div class="tz-gallery">
+    <div class="row">
+        {% for image in include.images %}
+        <div class="col-sm-6 col-md-4">
+            <a class="lightbox" href="{{ site.url }}{{ site.image-path }}{{ image.url }}">
+                <img src="{{ site.url }}{{ site.image-path }}{{ image.url }}" alt="{{ image.alt }}">
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>

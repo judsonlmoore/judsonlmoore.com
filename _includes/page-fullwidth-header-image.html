@@ -1,0 +1,17 @@
+<style type="text/css">
+	.fullwidth-header-image {
+	background-image: url("{{ site.image-path }}{{ page.image }}");
+}
+</style>
+
+<section class="fullwidth-header-image">
+
+	<div class="row">
+		<div class="container">
+			<h1>{{ page.title }}</h1>
+			<p>{{ page.subtitle }}</p>
+			{% include modal-opt-in.html %}
+		</div>
+	</div>
+
+</section> 

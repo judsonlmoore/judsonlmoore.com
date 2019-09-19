@@ -14,4 +14,4 @@ Here is the office and colleagues from my first site in Talas City, [RadioMost](
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-06-29-radiomost-office"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

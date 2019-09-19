@@ -92,7 +92,7 @@ Dublin Castle is among the best things to do in Dublin, so what better place to 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2018-02-03-dublin-weekend-itinerary"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 {% include image.html alt="A detailed view of the gilded hilt of the Irish Sword of State" file="../assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-irish-sword-of-state.jpg" description=" The Irish Sword of State on Display at the Dublin Castle" %}
 

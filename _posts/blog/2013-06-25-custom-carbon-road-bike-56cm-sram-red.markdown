@@ -12,7 +12,7 @@ image:		  	2013/08/2013-06-15-18.42.40.jpg
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-06-25-custom-carbon-road-bike-56cm-sram-red"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 This beautiful road bike was hand crafted, painted and assembled in Austin TX by Giano Fabricata. I bought it in June 2013 as my first road bike, and it has defied (my understanding of) the laws of bike-physics ever since! This machine is inspirational on the road!
 

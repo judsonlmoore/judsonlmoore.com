@@ -45,15 +45,12 @@
             rel="stylesheet"
         />
         <link href="/assets/css/main.css" rel="stylesheet" />
-        <link
-            href="/assets/css/gallery-clean.css"
-            rel="stylesheet"
-        />
         <script src="/assets/js/jquery.min.js"></script>
-
         <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/all.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/v4-shims.js"></script>
+        
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js"></script>
     </head>
 
      
@@ -66,154 +63,153 @@
             />
             <link
                 rel="stylesheet"
-                stc="/assets/css/all.min.css"
+                src="/assets/css/all.min.css"
                 crossorigin="anonymous"
-            />
+            />         
         </noscript>
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <nav
-            class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down"
+        <nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="/">
+            <h1 class="logo-title">Judson L Moore</h1>
+            <p class="logo-subtitle">
+                Author and travel addict
+            </p>
+        </a>
+        <!-- End Logo -->
+
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
         >
-            <div class="container pr-0">
-                <!-- Begin Logo -->
-                <a class="navbar-brand" href="/">
-                    <h1 class="logo-title">Judson L Moore</h1>
-                    <p class="logo-subtitle">
-                        Author and travel addict
-                    </p>
-                </a>
-                <!-- End Logo -->
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-toggle="collapse"
-                    data-target="#navbarMediumish"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <!-- Begin Menu -->
 
-                <div class="collapse navbar-collapse" id="navbarMediumish">
-                    <!-- Begin Menu -->
-
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Asia
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/india/"
-                                    >India</a
-                                >
-                                <a class="dropdown-item" href="/kyrgyzstan/"
-                                    >Kyrgyzstan</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Europe
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/england/"
-                                    >England</a
-                                >
-                                <a class="dropdown-item" href="/germany/"
-                                    >Germany</a
-                                >
-                                <a class="dropdown-item" href="/switzerland/"
-                                    >Switzerland</a
-                                >
-                                <a class="dropdown-item" href="/turkey/"
-                                    >Turkey</a
-                                >
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                MENA
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/egypt/"
-                                    >Egypt</a
-                                >
-                                <a class="dropdown-item" href="/morocco/"
-                                    >Morocco</a
-                                >
-                                <a class="dropdown-item" href="/uae/">UAE</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a
-                                class="nav-link dropdown-toggle"
-                                href="#"
-                                id="navbarDropdownMenuLink"
-                                data-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                            >
-                                Americas
-                            </a>
-                            <div
-                                class="dropdown-menu"
-                                aria-labelledby="navbarDropdownMenuLink"
-                            >
-                                <a class="dropdown-item" href="/brazil/"
-                                    >Brazil</a
-                                >
-                                <a class="dropdown-item" href="/colombia/"
-                                    >Colombia</a
-                                >
-                                <a class="dropdown-item" href="/usa/">USA</a>
-                            </div>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/whileyoung/">
-                                #WhileYoung
-                            </a>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="/female-travel/"
-                                ><i class="fab fa-snapchat-ghost"></i> Female
-                                Travel</a
-                            >
-                        </li>
-                        <script src="/assets/js/lunr.js"></script>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Asia
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/india/"
+                            >India</a
+                        >
+                        <a class="dropdown-item" href="/kyrgyzstan/"
+                            >Kyrgyzstan</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Europe
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/england/"
+                            >England</a
+                        >
+                        <a class="dropdown-item" href="/germany/"
+                            >Germany</a
+                        >
+                        <a class="dropdown-item" href="/switzerland/"
+                            >Switzerland</a
+                        >
+                        <a class="dropdown-item" href="/turkey/"
+                            >Turkey</a
+                        >
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        MENA
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/egypt/"
+                            >Egypt</a
+                        >
+                        <a class="dropdown-item" href="/morocco/"
+                            >Morocco</a
+                        >
+                        <a class="dropdown-item" href="/uae/">UAE</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdownMenuLink"
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                    >
+                        Americas
+                    </a>
+                    <div
+                        class="dropdown-menu"
+                        aria-labelledby="navbarDropdownMenuLink"
+                    >
+                        <a class="dropdown-item" href="/brazil/"
+                            >Brazil</a
+                        >
+                        <a class="dropdown-item" href="/colombia/"
+                            >Colombia</a
+                        >
+                        <a class="dropdown-item" href="/usa/">USA</a>
+                    </div>
+                </li>
+                <li>
+                    <a class="nav-link" href="/whileyoung/">
+                        #WhileYoung
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link" href="/female-travel/"
+                        ><i class="fab fa-snapchat-ghost"></i> Female
+                        Travel</a
+                    >
+                </li>
+            </ul>
+            <script src="/assets/js/lunr.js"></script>
 
 
 <style>
@@ -234,25 +230,22 @@
 </div>
 
 <script src="/assets/js/lunrsearchengine.js"></script>
-                    </ul>
+            <!-- End Menu -->
+        </div>
+    </div>
+</nav>
 
-                    <!-- End Menu -->
-                </div>
-            </div>
-        </nav>
         <!-- End Navigation
 ================================================== -->
 
+        
+
         <div class="site-content">
             <div class="container">
+
                 <!-- Site Title
-================================================== 
-                <div class="mainheading">
-                    <h1 class="sitetitle">Judson L Moore</h1>
-                    <p class="lead">
-                        Author and travel addict
-                    </p>
-                </div> -->
+================================================== -->
+                
 
                 <!-- Content
 ================================================== -->
@@ -360,12 +353,14 @@
 
 <p>My friend Alina (the Kyrgyz girl in these photos) invited me a long to go on a scuba diving trip to <a href="http://en.wikipedia.org/wiki/Issyk_Kul">Lake Issyk-Kul</a>. This is a very large lake which dominates the map of Kyrgyzstan in the east. It is 118x37 miles in size and it’s deepest point is nearly 2,000 feet (668m)! It is the second largest mountain lake in the world behind <a href="http://en.wikipedia.org/wiki/Lake_Titicaca">Lake Titicaca</a> in South America. There is hardly anything alive in the lake due to over fishing during Soviet times. We were diving to a depth of 10m around a dead coral reef and the largest sign of life I saw was a shrimp-like crustacean about the length of my thumbnail. Regardless, the water was very clear and the experience was super awesome. Thank you Alina for making this possible!</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/2012/08/LakeIssikKolSummer2012WithScuba_016.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/2012/08/LakeIssikKolSummer2012WithScuba_016.jpg">
 
             
 
@@ -383,7 +378,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_015.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_015.jpg">
 
             
 
@@ -401,7 +396,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_014.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_014.jpg">
 
             
 
@@ -419,7 +414,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_013.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_013.jpg">
 
             
 
@@ -437,7 +432,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_012.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_012.jpg">
 
             
 
@@ -455,7 +450,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_011.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_011.jpg">
 
             
 
@@ -473,7 +468,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_010.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_010.jpg">
 
             
 
@@ -491,7 +486,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_009.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_009.jpg">
 
             
 
@@ -509,7 +504,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_008.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_008.jpg">
 
             
 
@@ -527,7 +522,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_007.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_007.jpg">
 
             
 
@@ -545,7 +540,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_006.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_006.jpg">
 
             
 
@@ -563,7 +558,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_005.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_005.jpg">
 
             
 
@@ -581,7 +576,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_004.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_004.jpg">
 
             
 
@@ -599,7 +594,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_003.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_003.jpg">
 
             
 
@@ -617,7 +612,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_002.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_002.jpg">
 
             
 
@@ -635,7 +630,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithScuba_001.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithScuba_001.jpg">
 
             
 
@@ -653,7 +648,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_012.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_012.jpg">
 
             
 
@@ -671,7 +666,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_011.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_011.jpg">
 
             
 
@@ -689,7 +684,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_010.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_010.jpg">
 
             
 
@@ -707,7 +702,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_009.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_009.jpg">
 
             
 
@@ -725,7 +720,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_008.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_008.jpg">
 
             
 
@@ -743,7 +738,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_007.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_007.jpg">
 
             
 
@@ -761,7 +756,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_006.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_006.jpg">
 
             
 
@@ -779,7 +774,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_005.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_005.jpg">
 
             
 
@@ -797,7 +792,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_004.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_004.jpg">
 
             
 
@@ -815,7 +810,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_003.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_003.jpg">
 
             
 
@@ -833,7 +828,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_002.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_002.jpg">
 
             
 
@@ -851,7 +846,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithFriends_001.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithFriends_001.jpg">
 
             
 
@@ -869,7 +864,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_008.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_008.jpg">
 
             
 
@@ -887,7 +882,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_007.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_007.jpg">
 
             
 
@@ -905,7 +900,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_006.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_006.jpg">
 
             
 
@@ -923,7 +918,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_005.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_005.jpg">
 
             
 
@@ -941,7 +936,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_004.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_004.jpg">
 
             
 
@@ -959,7 +954,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_003.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_003.jpg">
 
             
 
@@ -977,7 +972,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_002.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_002.jpg">
 
             
 
@@ -995,7 +990,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_001.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithNationalHorseGames_001.jpg">
 
             
 
@@ -1013,7 +1008,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_012.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_012.jpg">
 
             
 
@@ -1031,7 +1026,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_011.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_011.jpg">
 
             
 
@@ -1049,7 +1044,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_0010.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_0010.jpg">
 
             
 
@@ -1067,7 +1062,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_009.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_009.jpg">
 
             
 
@@ -1085,7 +1080,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_008.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_008.jpg">
 
             
 
@@ -1103,7 +1098,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_007.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_007.jpg">
 
             
 
@@ -1121,7 +1116,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_006.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_006.jpg">
 
             
 
@@ -1139,7 +1134,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_005.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_005.jpg">
 
             
 
@@ -1157,7 +1152,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_004.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_004.jpg">
 
             
 
@@ -1175,7 +1170,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_003.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_003.jpg">
 
             
 
@@ -1193,7 +1188,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_002.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_002.jpg">
 
             
 
@@ -1211,7 +1206,7 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_001.jpg">
+          <a class="lightbox" href="http://localhost:4000/assets/images/12/08/LakeIssikKolSummer2012WithPCVs_001.jpg">
 
             
 
@@ -1230,35 +1225,66 @@
   </div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
 <p><strong>Friends</strong></p>
 
 <p>Here are some photos of some of my friends hanging out in Cholpon-Ata, the largest settlement along the north shore of Lake Issyk Kul.</p>
+
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
 
 <div class="tz-gallery">
   <div class="row">
     
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
 
 <p><strong>Horse Games</strong></p>
 
 <p>Here are photos of the national horse games of Kyrgyzstan, called Kökbörü (<a href="http://en.wikipedia.org/wiki/Buzkashi">wiki</a>). Think of it like soccer, on horses, using a sheep caracas for the ball. It is tons of fun to watch and seems to occupy every known ambulance in the region when it is being played.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
 
 <p><strong>PCVs</strong></p>
 
 <p>I got to spend some time with other volunteers.</p>
 
+<link href="/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     
   </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
 
             </div>
 
@@ -1549,7 +1575,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
 
             <!-- Categories Jumbotron
 ================================================== -->
-            <!--
+            
             <div class="jumbotron fortags">
                 <div class="d-md-flex h-100">
                     <div
@@ -1733,19 +1759,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
                     </div>
                 </div>
             </div>
--->
 
             <!-- Begin Footer
 ================================================== -->
             <footer class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                            Copyright © 2019 Judson L Moore
-                        </div>
-                    </div>
-                </div>
-            </footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2019 Judson L Moore
+            </div>
+        </div>
+    </div>
+</footer>
+
             <!-- End Footer
 ================================================== -->
         </div>
@@ -1779,7 +1805,6 @@ https://search.google.com/structured-data/testing-tool/u/0/
         ></script>
         
         <script src="/assets/js/jquery.min.js"></script>
-        <script>baguetteBox.run('.tz-gallery');</script>
         <!--<style>
     #cookie-notice {padding: 7px 15px; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {cursor: pointer; margin-left: 10px;}

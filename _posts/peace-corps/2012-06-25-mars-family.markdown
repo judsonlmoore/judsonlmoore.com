@@ -14,4 +14,4 @@ Mars is a dear friend of mine from Bishkek and was my main host when I visited B
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-06-25-mars-family"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

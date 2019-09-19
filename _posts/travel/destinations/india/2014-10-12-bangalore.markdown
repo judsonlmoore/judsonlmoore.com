@@ -23,7 +23,7 @@ I didn't stress about seeing too much in Bangalore, as my time here was short, a
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-10-12-bangalore"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 ## The City. The Palace.
 
@@ -31,4 +31,4 @@ The next stop was to the Starbucks on Church Street. We took an [Uber](https://w
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

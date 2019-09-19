@@ -26,6 +26,6 @@ Here are some fantastic photos of the Cathedral. I took the first two inside dur
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-01-07-merry-christmas-russian-orthodox"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}
 
 Here is a great video I found on YouTube of nice panoramic shots of the inside and outside of the cathedral. The inside is much different than what we expect in the west.

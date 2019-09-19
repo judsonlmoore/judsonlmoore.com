@@ -33,4 +33,4 @@ Also, if you go there, I have a fantastic contact for buying the best jewels, ru
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-10-26-dharamshala"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

@@ -18,4 +18,4 @@ As for me, I will see all of the people I am closest with before we depart from 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-04-06-k-19-cos-conference"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

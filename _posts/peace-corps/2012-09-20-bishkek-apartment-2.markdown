@@ -14,4 +14,4 @@ Keeping with tradition and always being on the move, I have now moved into a new
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-09-20-bishkek-apartment-2"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

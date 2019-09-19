@@ -17,4 +17,4 @@ Waking up to a perfect October morning, I decided to make a Bishkek photo tour b
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-10-14-bishkek-photo-tour"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

@@ -12,4 +12,4 @@ image:			2012/06/K20SitePlacement_featured.jpg
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-06-25-k20-site-placement-ceremony"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-fluid.html images=images %}

@@ -14,4 +14,4 @@ Here are a number of posters from concerts that I was the promoter / production 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2009-11-01-concert-posters"] %}
-{% include gallery-post.html images=images %}
+{% include gallery-clean.html images=images %}
