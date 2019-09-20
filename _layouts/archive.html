@@ -3,19 +3,31 @@ title: Archive
 layout: default
 ---
 
-<!-- Begin List Posts
-================================================== -->
-<section class="recent-posts">
-<div class="section-title">
-    <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
-</div>
-<div class="row listrecent">
 
-{% for post in page.posts %}
+<div class="site-content">
+	<div class="container">
 
-    {% include postbox.html %}
+    <!-- Content
+	================================================== -->
+    <div class="main-content">
 
-{% endfor %}
+		<!-- Begin List Posts
+		================================================== -->
+		<section class="recent-posts">
+			<div class="section-title">
+			    <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
+			</div>
+			<div class="row listrecent">
 
-</div>
-</section>
+			{% for post in page.posts %}
+
+			    {% include postbox.html %}
+
+			{% endfor %}
+
+			</div>
+		</section>
+
+    </div> <!-- main-content -->
+  </div> <!-- container -->
+</div> <!-- site-content -->
