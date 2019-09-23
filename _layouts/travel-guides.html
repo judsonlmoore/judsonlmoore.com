@@ -1,7 +1,6 @@
 ---
 title: travel-guides
-permalink: "/travel-guides.html"
-layout: default
+layout: default 
 
 --- 
 
@@ -32,10 +31,10 @@ layout: default
         <div class="main-content">
 
 			<div class="row">
-			  <div class="col-md-8 mb-5">
+			  <div class="col-lg-9">
 			    {{content}}
 			  </div>
-			  <div class="col-md-4 mb-5">
+			  <div class="col-lg-3">
 			    <h2>Destinations</h2>
 			    <hr>
 			    {% assign destination = site.posts | where_exp: "item" , "item.categories contains page.category "%} 
@@ -55,7 +54,7 @@ layout: default
 					<h2><span>Posts about {{ page.category }}</span></h2>
 				</div>
 				<div class="row">
-					<div class="col-12 col-md-9">
+					<div class="col-lg-9">
 						<div class="row listrecent">
 							{% assign destinationPosts = site.posts | where_exp: "item" , "item.categories contains page.category"%} 
 							{% for post in destinationPosts %} 
@@ -63,9 +62,7 @@ layout: default
 							{% endfor %}
 						</div>
 					</div>
-					<div class="col-12 col-md-3">
-						{% include sidebar.html %}
-					</div>
+					{% include sidebar.html %}
 				</div>
 			</section>
 

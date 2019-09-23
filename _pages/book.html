@@ -2,7 +2,7 @@
 title: Exponential Happiness
 permalink: "/book/"
 layout: page
-comments: true
+comments: false
 
 ---
 
@@ -19,19 +19,19 @@ comments: true
 	</div>
 </section>
 
-<!-- Call to Action Well -->
 <section>
 	<div class="card text-white bg-secondary my-5 py-4 text-center">
 		<div class="card-body">
-			<h2 class="">Judson has shown broad abilities in the strengthening of media pluralism, building institutional capacities of media NGOs and outlets.</h2>
-			<p>Sergey Karpov, UNESCO</p>
+			{% assign quote = site.data.text %}
+			{% assign quote = quote["quote"] %}
+			{% include carousel-text.html quote=quote %}
 		</div>
 	</div>
 </section>
 
 <section>
 	<div class="row">
-	    <div class=" col-lg-9">
+	    <div class="col-lg-9">
 			<h3>ABOUT THE AUTHOR</h3>
 			<p>I didn't have many extraordinary advantages growing up, but what I did have was the encouragement of those older than me saying, "do it while you're young." One day, when I was 17, that advice stuck and I started traveling the world. I haven't stopped and now half a lifetime later, I want to tell the world what I've learned and how YOU can live an adventurous and prosperous life!</p>
 		</div>

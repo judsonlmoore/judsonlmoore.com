@@ -808,6 +808,9 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/authors/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/book/</loc>
 </url>
 <url>
@@ -818,6 +821,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/colombia/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Denmark/</loc>
@@ -1082,10 +1088,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/page33/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/_pages/mediakit.html</loc>
-<lastmod>2019-08-15T21:51:13+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/images/2012/09/judsonlmoore_cv.pdf</loc>

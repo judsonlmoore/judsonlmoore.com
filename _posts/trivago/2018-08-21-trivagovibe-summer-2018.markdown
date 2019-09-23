@@ -78,7 +78,9 @@ Please excuse the unstable audio level, I think the phones had a difficult time 
 
 **Enjoy!** (and please leave me your feedback in the comments section of this post!) :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=U8XFiPi4TO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/U8XFiPi4TO4" allowfullscreen></iframe>
+</div>
 
 ## Thank you to everyone who came out to support the music!
 

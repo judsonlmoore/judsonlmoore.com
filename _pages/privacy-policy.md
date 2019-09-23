@@ -1,19 +1,12 @@
 ---
 title: Privacy Policy
 permalink: "/privacy-policy/"
-layout: page
-comments: true
+layout: legal
+comments: false
 ---
 
-## PRIVACY POLICY
 
-[Terms and Conditions](/terms-and-conditions/) | [Refund Policy](/refund-policy/) | [Privacy Policy](/privacy-policy/) | [Disclosures](/disclosures/)
-
-### PRIVACY STATEMENT
-
-—-
-
-### SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
+## SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
@@ -21,7 +14,7 @@ When you browse our store, we also automatically receive your computer’s inter
 
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-### SECTION 2 – CONSENT
+## SECTION 2 – CONSENT
 
 How do you get my consent?
 
@@ -32,11 +25,11 @@ How do I withdraw my consent?
 
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at getintouch@judsonlmoore.com or mailing us at: Judson L Moore 2102 Quail Hollow Dr, Bryan, TX, 77802, United States
 
-### SECTION 3 – DISCLOSURE
+## SECTION 3 – DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-### SECTION 4 – THIRD-PARTY SERVICES
+## SECTION 4 – THIRD-PARTY SERVICES
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
@@ -50,21 +43,21 @@ As an example, if you are located in Canada and your transaction is processed by
 
 Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-#### LINKS
+### LINKS
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-### SECTION 5 – SECURITY
+## SECTION 5 – SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-### SECTION 6 – AGE OF CONSENT
+## SECTION 6 – AGE OF CONSENT
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-### SECTION 7 – CHANGES TO THIS PRIVACY POLICY
+## SECTION 7 – CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 

@@ -1,21 +1,18 @@
 ---
 title: Disclosures
 permalink: "/disclosures/"
-layout: page
-comments: true
+layout: legal
+comments: false
 ---
 
-## DISCLOSURES
 
-[Terms and Conditions](/terms-and-conditions/) | [Refund Policy](/refund-policy/) | [Privacy Policy](/privacy-policy/) | [Disclosures](/disclosures/)
+## THE BASICS
 
-#### THE BASICS
-
-_This policy is valid from January 20, 2016._
+*This policy is valid from January 20, 2016.*
 
 This blog is the sole property of and reflects the opinions, experiences and advise of Judson L Moore, except for where otherwise stated, such as in the instance of third-party content provided by guest writers or sponsored content, which will be clearly identified as such. For questions about this blog, please [contact us](/contact/).
 
-#### BLOG MONETIZATION
+## BLOG MONETIZATION
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
@@ -25,14 +22,14 @@ I believe in honesty of relationship, opinion and identity. The compensation rec
 
 The views and opinions expressed on this blog are purely my own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
-#### GIVEAWAY POLICIES
+## GIVEAWAY POLICIES
 
 Periodically, this blog hosts giveaways for the readers. These events may be self-sponsored by the blog owner or may be sponsored by another individual, business or corporation. This may or may not be plainly stated in the actual giveaway. If you need further clarification, please [contact us](/contact/).
 
-#### NEWSLETTER
+## NEWSLETTER
 
-The blog maintains a subscription-based e-newsletter list which readers can opt-in to [here](/subscribe). The subscription list is managed with MailChimp and all requests to subscribe or unsubscribe must be performed by the subscribing party directly via the MailChimp service.
+The blog maintains a subscription-based e-newsletter list which readers can opt-in to [here](/subscribe/). The subscription list is managed with MailChimp and all requests to subscribe or unsubscribe must be performed by the subscribing party directly via the MailChimp service.
 
-#### THIRD-PARTY CONTENT
+## THIRD-PARTY CONTENT
 
 From time to time there may be guest authors or cross-posts included in the content of The Judson L Moore Blog. The authors of this material will be clearly identified. Authors may choose, at their sole discretion, the inclusion of affiliate links within their content which may in some way, at no charge to the readers, offer a financial benefit to those guest authors. Content provided by third-parties will not be edited by The Judson L Moore Blog, but it will be vetted and approved for publishing on this site.

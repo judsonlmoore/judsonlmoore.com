@@ -1,0 +1,28 @@
+---
+title: page-right-sidebar
+layout: default
+---
+
+<div class="site-content">
+    <div class="container">
+
+        <!-- Content
+================================================== -->
+        <div class="main-content">
+
+            <section>
+                <div class="article-post">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            {{content}}
+                        </div>
+                        <div class="col-lg-4">
+                            {% include sidebar.html %}
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div> <!-- main-content -->
+    </div> <!-- container -->
+</div> <!-- site-content -->

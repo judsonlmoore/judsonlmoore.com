@@ -113,6 +113,10 @@ ol ol, ol ul, ul ol, ul ul {
 	margin-bottom: 0
 }
 
+div.article-post li p {
+	margin: 0 0 0 10px;
+}
+
 dt {
 	font-weight: 700
 }

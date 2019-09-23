@@ -1,0 +1,55 @@
+main:
+  - title: Asia
+    subfolderitems:
+      - page: India
+        url: /india/
+      - page: Kyrgyzstan
+        url: /kyrgyzstan/
+  - title: Europe
+    subfolderitems:
+      - page: England
+        url: /england/
+      - page: Germany
+        url: /germany/
+      - page: Switzerland
+        url: /switzerland/
+      - page: Turkey
+        url: /turkey/
+  - title: MENA
+    subfolderitems:
+      - page: Egypt
+        url: /egypt/
+      - page: Morocco
+        url: /morocco/
+      - page: United Arab Emirates
+        url: /uae/
+  - title: Americas
+    subfolderitems:
+      - page: Brazil
+        url: /brazil/
+      - page: Colombia
+        url: /colombia/
+      - page: United States of America
+        url: /usa/
+  - title: Lifestyle
+    subfolderitems:
+      - page: Lifestyle
+        url: /lifestyle/
+  - title: Female Travel
+    subfolderitems:
+      - page: Female Travel
+        url: /female-travel/
+secondary:
+  - title: About
+    subfolderitems:
+      - page: About
+        url: /about/
+      - page: Resume
+        url: /resume/
+footer:
+  - title: Disclaimers
+    subfolderitems:
+      - page: Terms of Service
+        url: /tos/
+      - page: Privacy Policy
+        url: /privacy-policy/

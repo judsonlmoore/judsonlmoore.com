@@ -1,0 +1,56 @@
+---
+title: Contact
+permalink: "/contact/"
+layout: page
+comments: false
+---
+
+<main class="container">
+  <header class="page-header">
+    <h1 class="entry-title">Contact</h1>
+  </header>
+
+  <div class="contact">
+    <div class="alert alert-success"><strong><span class="glyphicon glyphicon-send"></span> Success! Message sent. (If form ok!)</strong></div>
+    <div class="alert alert-danger"><span class="glyphicon glyphicon-alert"></span><strong> Error! Please check the inputs. (If form error!)</strong></div>
+    <div class="alert alert-info"><span class="glyphicon glyphicon-exclamation-sign"></span><strong> The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use. (No need PHP!)</strong></div>
+    <div class="row">
+      <div class="col-lg-6">
+        <form role="form" action="http://formspree.io/judsonlmoore@gmail.com">
+          <input type="hidden" name="_next" value="/contact/" />
+          <input type="hidden" name="_subject" value="New submission!" />
+          <input type="text" name="_gotcha" style="display:none" />
+
+          <div class="form-group">
+            <label for="InputName">Your Name</label>
+            <input type="text" class="form-control" name="name" id="InputName" placeholder="Enter Name" required>
+          </div>
+          <div class="form-group">
+            <label for="InputEmail">Your Email</label>
+
+            <input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="Enter Email" required>
+          </div>
+          <div class="form-group">
+            <label for="InputMessage">Message</label>
+
+            <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+          </div>
+          <div class="form-group">
+            <label for="InputReal">What is 4+3? (Simple Spam Checker)</label>
+            <input type="text" class="form-control" name="InputReal" id="InputReal" required>
+          </div>
+          <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary btn-large pull-right"> 
+      </form>
+    </div>
+    <hr class="hidden-lg">
+    <div class="col-lg-5 col-md-offset-1">
+      <address>
+        <h3>Office Location</h3>
+        <p class="lead"><a href="https://www.google.com/maps/preview?ie=UTF-8&q=The+Pentagon&fb=1&gl=us&hq=1400+Defense+Pentagon+Washington,+DC+20301-1400&cid=12647181945379443503&ei=qmYfU4H8LoL2oATa0IHIBg&ved=0CKwBEPwSMAo&safe=on">The Pentagon<br>
+        Washington, DC 20301</a><br>
+        Phone: XXX-XXX-XXXX<br>
+      Fax: XXX-XXX-YYYY</p>
+    </address>
+    </div>
+  </div>
+</main>
