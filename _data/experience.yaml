@@ -1,119 +1,101 @@
-- work:
-  - company: trivago
-    title: Product Manager
-    city: D&uuml;sseldorf,&nbsp;
-    country: Germany
-    start: 2017
-    end: present
-    point1: Find, define and validate opportunities and user problems worth solving on trivago
-    point2: Test features in a methodological, hypothesis-driven way using pre-defined KPIs
-    point3: Work backward by authoring initiative docs which include press releases and shipment plans
-    point4: Present my knowledge and A/B test results learnings with peers and executive leadership
-    point5: Work collaboratively and cross-functionally across domains with diverse stakeholders
-    point6: Guide agile product management with scrum rituals and artifacts
-  - company: trivago
-    title: Product Marketing Manager for North America
-    city: D&uuml;sseldorf
-    country: Germany
-    start: 2016
-    end: 2017
-    point1: Spokesperson for trivago business communications in the USA market
-    point2: Represent trivago at trade fairs, workshops, and other public functions such as webinars
-    point3: Develop relationships with top media, associations, and other influencers
-    point4: Established trivago B2B Twitter account in the US market; +200% month-over-month follower growth
-    point5: Author of trade articles on trivago&rsquo;s B2B blog:&nbsp;<a href="http://hotelmanager-blog.trivago.com/en-us/author/jmoore/" target="_blank" rel="noopener noreferrer">hotelmanager-blog.com</a>
-  - company: Mutual Mobile
-    country: Austin, TX USA
-    start: 2013
-    end: 2015
-    point1: Reduced operational expenses 20% while simultaneously expanding employee benefits
-    point2: Constructed a facility in Hyderabad, India, for a workforce of 100 people on-time and on-budget
-    point3: Orchestrated 40,000&rsquo;sq renovation of the corporate headquarters
-    point4: Trained and managed 8 employees who were responsible for essential central services promoting corporate culture, event management, space management, and client relations
-  - company: United States Peace Corps
-    title: Community and Economic Developer
-    country: Kyrgyzstan
-    start: 2011
-    end: 2013
-    point1: Established strategic vision to leverage the power of mobile for connecting rural journalists with each other and the world via KyrgyzMedia.com; secured $500k of funding over 3-years from the United Nations; operates in 20+ communities; receives 15,000 unique web visitors annually.
-    point2: Authored and delivered bi-monthly capacity-building trainings to 20+ media organizations
-    point3: Designed measuring and evaluation plans per United Nations and USAID requirements
-  - company: Kloop Media Foundation</strong>,&nbsp;Austin, TX
-    title: Executive Director
-    country: USA
-    start: 2013
-    end: 2015
-  - company: Loyola University
-    title: Assistant Director of Student Affairs
-    city: New Orleans, LA
-    country: USA
-    start: 2009
-    end: 2010
-    point: Crafted and taught event management curriculum to student organizations and student leaders
-  - company: Paul Cummings World Wide Enterprises
-    city: Chattanooga, TN
-    country: USA
-    start: 2008
-    end: 2009
-    point: Produced corporate functions, concerts, retreats and workshops, including a nationally–touring lecture and training series in partnership with international recording artist Beth Hart
-  - company: Green Machine Concerts
-    title: Concert Promoter
-    city: Memphis, TN
-    country: USA
-    start: 2007
-    end: 2008
-    point: Negotiated and coordinated efforts between international talent agencies, artists, universities, venues, and other corporate clients to produce world-class concerts, festivals and tours
-  - company: Louisiana State University Athletics 
-    city: Baton Rouge, LA
-    start: 2006
-    point: Prepared sports venues for events by constructing and striking specific setups for basketball, volleyball, gymnastics, concerts and graduation events.    
-  - company: American Red Cross
-    city: Baton Rouge, LA
-    country: USA
-    start: 2005
-    end: 2007
-    point: Authored and coordinated response plans between the Red Cross and other local, state and federal emergency preparedness agencies.
-- languages:
-  - skill: English
-    strength: 100%
-  - skill: German
-    strength: 80%
-  - skill: Russian
-    strength: 60%
-  - skill: Kyrgyz
-    strength: 40%
-- software:
-  - skill: Salesforce
-    strength: 100%
-  - skill: Google Apps
-    strength: 100%
-  - skill: Adobe Creative Suite
-    strength: 100%
-  - skill: Logic Pro X
-    strength: 100%
-  - skill: MS & Mac Office Suites
-    strength: 100%
-- webdev:
-  - skill: WordPress Codex
-    strength: 100%
-  - skill: Google Developer Tools
-    strength: 100%
-  - skill: CSS3
-    strength: 100%
-  - skill: Command Line
-    strength: 100%
-  - skill: Liquid
-    strength: 100%
-- other:
-  - skill: Grant Writing
-    strength: 100%
-  - skill: Project Management
-    strength: 100%
-  - skill: Auditing
-    strength: 100%
-  - skill: Budgeting
-    strength: 100%
-  - skill: Mentoring
-    strength: 100%
-  - skill: Delegation
-    strength: 100%
+- company: trivago
+  title: Product Manager
+  city: D&uuml;sseldorf
+  country: Germany
+  start: 2017
+  end: present
+  points: 
+    - Find, define and validate opportunities and user problems worth solving on trivago
+    - Test features in a methodological, hypothesis-driven way using pre-defined KPIs
+    - Work backward by authoring initiative docs which include press releases and shipment plans
+    - Present my knowledge and A/B test results learnings with peers and executive leadership
+    - Work collaboratively and cross-functionally across domains with diverse stakeholders
+    - Guide agile product management with scrum rituals and artifacts
+
+- company: trivago
+  title: Product Marketing Manager for North America
+  city: D&uuml;sseldorf
+  country: Germany
+  start: 2016
+  end: 2017
+  points: 
+    - Spokesperson for trivago business communications in the USA market
+    - Represent trivago at trade fairs, workshops, and other public functions such as webinars
+    - Develop relationships with top media, associations, and other influencers
+    - Established trivago B2B Twitter account in the US market; +200% month-over-month follower growth
+    - Author of trade articles on trivago's B2B blog:&nbsp;<a href="http://hotelmanager-blog.trivago.com/en-us/author/jmoore/" target="_blank" rel="noopener noreferrer">hotelmanager-blog.com</a>
+
+- company: Mutual Mobile
+  title: Operations Manager
+  city: Austin, TX
+  country: USA
+  start: 2013
+  end: 2015
+  points: 
+    - Reduced operational expenses 20% while simultaneously expanding employee benefits
+    - Constructed a facility in Hyderabad, India, for a workforce of 100 people on-time and on-budget
+    - Orchestrated 40,000&rsquo;sq renovation of the corporate headquarters
+    - Trained and managed 8 employees who were responsible for essential central services promoting corporate culture, event management, space management, and client relations
+
+- company: United States Peace Corps
+  title: Community and Economic Developer
+  city: Bishkek
+  country: Kyrgyzstan
+  start: 2011
+  end: 2013
+  points: 
+    - Established strategic vision to leverage the power of mobile for connecting rural journalists with each other and the world via KyrgyzMedia.com; secured $500k of funding over 3-years from the United Nations; operates in 20+ communities; receives 15,000 unique web visitors annually.
+    - Authored and delivered bi-monthly capacity-building trainings to 20+ media organizations
+    - Designed measuring and evaluation plans per United Nations and USAID requirements
+
+- company: Kloop Media Foundation
+  title: Executive Director
+  city: Austin, TX
+  country: USA
+  start: 2013
+  end: 2015
+  points: 
+    - Raised awareness and funding for journalisim education initiatives in Central Asia
+
+- company: Loyola University
+  title: Assistant Director of Student Affairs
+  city: New Orleans, LA
+  country: USA
+  start: 2009
+  end: 2010
+  points: 
+    - Crafted and taught event management curriculum to student organizations and student leaders
+
+- company: Paul Cummings World Wide Enterprises
+  title: Manager of Special Events
+  city: Chattanooga, TN
+  country: USA
+  start: 2008
+  end: 2009
+  points: 
+    - Produced corporate functions, concerts, retreats and workshops, including a nationally–touring lecture and training series in partnership with international recording artist Beth Hart
+
+- company: Green Machine Concerts
+  title: Concert Promoter
+  city: Memphis, TN
+  country: USA
+  start: 2007
+  end: 2008
+  points: 
+    - Negotiated and coordinated efforts between international talent agencies, artists, universities, venues, and other corporate clients to produce world-class concerts, festivals and tours
+
+- company: Louisiana State University Athletics 
+  title: Event Manager
+  city: Baton Rouge, LA
+  start: 2006
+  points: 
+    - Prepared sports venues for events by constructing and striking specific setups for basketball, volleyball, gymnastics, concerts and graduation events.    
+
+- company: American Red Cross
+  title: Emergency Response Planner
+  city: Baton Rouge, LA
+  country: USA
+  start: 2005
+  end: 2007
+  points: 
+    - Authored and coordinated response plans between the Red Cross and other local, state and federal emergency preparedness agencies.

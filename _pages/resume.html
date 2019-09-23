@@ -37,87 +37,27 @@ comments: true
 <section>
 	<div class="row">
 	    <div class="col-lg-8">
-
 			<h3>Work Experience</h3>
 
-			<h4>Product Manager</h4>
-			<p><strong>trivago</strong>, D&uuml;sseldorf,&nbsp;<em>Germany</em>&nbsp;| 2017 &ndash;&nbsp;present</p>
+			{% for item in site.data.experience %}
+			<h4>{{ item.title }}</h4>
+			<p><strong>{{ item.company }}</strong>, {{ item.city }}<em> {{ item.country }}</em> | {{ item.start }} &ndash; {{ item.end }}</p>
 			<ul>
-				<li>Find, define and validate opportunities and user problems worth solving on trivago</li>
-				<li>Test features in a methodological, hypothesis-driven way using pre-defined KPIs</li>
-				<li>Work backward by authoring initiative docs which include press releases and shipment plans</li>
-				<li>Present my knowledge and A/B test results learnings with peers and executive leadership</li>
-				<li>Work collaboratively and cross-functionally across domains with diverse stakeholders</li>
-				<li>Guide agile product management with scrum rituals and artifacts</li>
+				{% for point in item.points %}
+				<li>{{ point }}</li>
+				{% endfor %}
 			</ul>
-
-			<h4>Product Marketing Manager for North America</h4>
-			<p><strong>trivago</strong>,&nbsp;D&uuml;sseldorf<em>, Germany</em>&nbsp;| 2016 &ndash;&nbsp;2017</p>
-			<ul>
-				<li>Spokesperson for trivago business communications in the USA market</li>
-				<li>Represent trivago at trade fairs, workshops, and other public functions such as webinars</li>
-				<li>Develop relationships with top media, associations, and other influencers</li>
-				<li>Established trivago B2B Twitter account in the US market; +200% month-over-month follower growth</li>
-				<li>Author of trade articles on trivago&rsquo;s B2B blog:&nbsp;<a href="http://hotelmanager-blog.trivago.com/en-us/author/jmoore/" target="_blank" rel="noopener noreferrer">hotelmanager-blog.com</a></li>
-			</ul>
-
-			<h4>Operations Manager</h4>
-			<p><strong>Mutual Mobile</strong>,&nbsp;<em>Austin, TX USA</em>&nbsp;| 2013 &ndash;&nbsp;2015</p>
-			<ul>
-				<li>Reduced operational expenses 20% while simultaneously expanding employee benefits</li>
-				<li>Constructed a facility in Hyderabad, India, for a workforce of 100 people on-time and on-budget</li>
-				<li>Orchestrated 40,000&rsquo;sq renovation of the corporate headquarters</li>
-				<li>Trained and managed 8 employees who were responsible for essential central services promoting corporate culture, event management, space management, and client relations</li>
-			</ul>
-
-			<h4>Community and Economic Developer</h4>
-			<p><strong>United States Peace Corps</strong>,&nbsp;Talas and Bishkek, Kyrgyzstan&nbsp;| 2011 &ndash;&nbsp;2013</p>
-			<ul>
-				<li>Established strategic vision to leverage the power of mobile for connecting rural journalists with each other and the world via KyrgyzMedia.com; secured $500k of funding over 3-years from the United Nations; operates in 20+ communities; receives 15,000 unique web visitors annually.</li>
-				<li>Authored and delivered bi-monthly capacity-building trainings to 20+ media organizations</li>
-				<li>Designed measuring and evaluation plans per United Nations and USAID requirements</li>
-			</ul>
-
+			{% endfor %}
+			
 			<p>
 				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#moreExperience" aria-expanded="false" aria-controls="moreExperience">Read More</button>
 			</p>
 			<div class="collapse" id="moreExperience">
 
-				<h4>Executive Director</h4>
-				<p><strong>Kloop Media Foundation</strong>,&nbsp;Austin, TX<em>&nbsp;</em>USA&nbsp;| 2013 &ndash;&nbsp;2015</p>
-				<ul>
-					<li></li>
-				</ul>
-
 				<h4>Assistant Director of Student Affairs</h4>
-				<p><strong>Loyola University</strong>, New Orleans, LA<em>&nbsp;</em>USA&nbsp;| 2009 &ndash;&nbsp;2010</p>
+				<p><strong>Loyola University</strong>, New Orleans, LA<em> </em>USA | 2009 &ndash; 2010</p>
 				<ul>
 					<li>Crafted and taught event management curriculum to student organizations and student leaders</li>
-				</ul>
-
-				<h4>Manager of Special Events</h4>
-				<p><strong>Paul Cummings World Wide Enterprises</strong>, Chattanooga, TN<em>&nbsp;</em>USA&nbsp;| 2008 &ndash;&nbsp;2009</p>
-				<ul>
-					<li>Produced corporate functions, concerts, retreats and workshops, including a nationally–touring lecture and training series in partnership with international recording artist Beth Hart</li>
-				</ul>
-
-				<h4>Concert Promoter</h4>
-				<p><strong>Green Machine Concerts</strong>, Memphis, TN<em>&nbsp;</em>USA&nbsp;| 2007 &ndash;&nbsp;2008</p>
-				<ul>
-					<li>Negotiated and coordinated efforts between international talent agencies, artists, universities, venues, and other corporate clients to produce world-class concerts, festivals and tours</li>
-				</ul>
-
-				<h4>Event Manager</h4>
-				<p><strong>Louisiana State University Athletics </strong>, Baton Rouge, LA<em>&nbsp;</em>USA&nbsp;| 2006 &ndash;&nbsp;2007</p>
-				<ul>
-					<li>Prepared sports venues for events by constructing and striking specific setups for basketball, volleyball, gymnastics, concerts and graduation events.</li>
-				</ul>
-
-				<h4>Emergency Response Planner</h4>
-				<p><strong>American Red Cross</strong>, Baton Rouge, LA<em>&nbsp;</em>USA&nbsp;| 2005 &ndash;&nbsp;2007</p>
-				<ul>
-					<li>Authored and coordinated response plans between the Red Cross and other local, state and
-federal emergency preparedness agencies.</li>
 				</ul>
 
 			</div>
@@ -129,144 +69,24 @@ federal emergency preparedness agencies.</li>
 			<h4>Clearence</h4>
 			<p>Cleared for TOP SECRET information and granted access to Sensitive Compartmented Information based on Single Scope Background Investigation completed on 10/31/2014.</p>
 
-			<h4>Languages</h4>
+			{% for skill in site.data.skills %}
+			<h4>{{ skill.name }}</h4>
+			{% for item in skill.items %}
 			<dl class="row no-gutters">
-				<dt class="col-sm-12">English</dt>
+				<dt class="col-sm-12">{{ item.skill }}</dt>
 				<dd class="col-sm-12">
 					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">German</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Russian</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Kyrgyz</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 40%;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
+						<div class="progress-bar" role="progressbar" style="width: {{ item.strength }}%;" aria-valuenow="{{ item.strength }}%" aria-valuemin="0" aria-valuemax="100">{{ item.strength }}%</div>
 					</div>
 				</dd>
 			</dl>
+		 	{% endfor %}
+			{% endfor %}
 
-			<h4>Software</h4>
-				<p><strong>Salesforce</strong></p>
-				<div class="progress">
-					<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-				</div>
-			<dl class="row no-gutters">
-				<dt class="col-sm-12">Google Apps</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Adobe Creative Suite</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Logic Pro X</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">MS & Mac Office Suites</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-			</dl>
-
-			<h4>Webdev</h4>
-			<dl class="row no-gutters">
-				<dt class="col-sm-12">WordPress Codex</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Google Developer Tools</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">CSS3</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Command Line</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Liquid</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-			</dl>
-
-			<h4>Other</h4>
-			<dl class="row no-gutters">
-				<dt class="col-sm-12">Grant Writing</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Project Management</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Auditing</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Budgeting</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Mentoring</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-				<dt class="col-sm-12">Delegation</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
-					</div>
-				</dd>
-			</dl>
 		</div>
 
 	</div>
 </section>
-
 
 <section>
 	<div class="row">
@@ -277,67 +97,19 @@ federal emergency preparedness agencies.</li>
 
 			<div class="card-columns">
 
+				{% for item in site.data.recomendations %}
 				<div class="card">
 					<div class="card-body">
-					  <p class="card-text">Mr. Moore shows his motivation and professionalism as a trainer and innovator of community information services. Kyrgyzmedia.com became a well-recognized cooperation platform for traditional media outlets including the Public Service Corporation in Kyrgyzstan. [He] has shown broad abilities in the strengthening of media pluralism, building institutional capacities of media NGOs and outlets.</p>
-					  <h5 class="card-title">Sergey Karpov</h5>
-					  <p class="card-text"><small class="text-muted">Communication and Information Programme Specialist</small></p>
-					  <p class="card-text"><small class="text-muted"><a href="http://www.unesco.org/almaty" target="_blank">UNESCO</a></small></p>
+					  <p class="card-text">{{ item.quote }}</p>
+					  <h5 class="card-title">{{ item.source }}</h5>
+					  <p class="card-text"><small class="text-muted"> {{ item.title }} </small></p>
+					  <p class="card-text"><small class="text-muted"><a href="{{ item.url }}" target="_blank">{{ item.employer }}</a></small></p>
 					</div>
 				</div>
-				<div class="card">
-					<div class="card-body">
-					  <p class="card-text">Under conditions which many would consider unbearable, Judson not only found a way to try something new, but he was the driving force behind making it flourish and securing funding from the United Nations, which promises the project&rsquo;s success for years to come.</p>
-					  <h5 class="card-title">Bettina Ruigies</h5>
-					  <p class="card-text"><small class="text-muted">Department Head, Asia &amp; Europe Division</small></p>
-					  <p class="card-text"><small class="text-muted"><a href="http://www.dw.de/dw-akademie/media-development/s-12120" target="_blank">DW Akademie</a></small></p>
-					</div>
-				</div>
-				<div class="card">
-					<div class="card-body">
-					  <p class="card-text">Judson took active part in pioneering new direction in our journalism activities. Judson started a project of community multimedia centers, which by now received more than $300,000 in funding from UNESCO, EC and UNDEF. Judson understands the country better than many local people. He is also able to lead and report on most complex project according to stringent requirements of international donors.</p>
-					  <h5 class="card-title">Rinat Tuhvatshin</h5>
-					  <p class="card-text"><small class="text-muted">Development Manager</small></p>
-					  <p class="card-text"><small class="text-muted"><a href="http://kloop.kg/" target="_blank">Kloop Media</a></small></p>
-					</div>
-				</div>
-				<div class="card">
-					<div class="card-body">
-					  <p class="card-text">Judson left a large legacy in Kyrgyzstan. I had a deep respect for Judson's passion and commitment to free speech and social justice in the Kyrgyz Republic. He adapted well to the culture of Kyrgyzstan, learned the languages, and developed many local friends. His accomplishments with local media were substantial and lasting.</p>
-					  <h5 class="card-title">Seth Fearey</h5>
-					  <p class="card-text"><small class="text-muted">Country Director, Kyrgyz Republic</small></p>
-					  <p class="card-text"><small class="text-muted"><a href="http://www.peacecorps.gov/" target="_blank">United States Peace Corps</a></small></p>
-					</div>
-				</div>
-				<div class="card">
-					<div class="card-body">
-					  <p class="card-text">At Mutual Mobile, Judson managed several crucial projects for the executive team, using creative strategies to ensure success. When given high-level concepts, he was quickly able to distill them into tactical and actionable items, which provided tremendous value to our company.</p>
-					  <h5 class="card-title">Ed Ireson</h5>
-					  <p class="card-text"><small class="text-muted">Director, People Operations</small></p>
-					  <p class="card-text"><small class="text-muted"><a href="http://mutualmobile.com/" target="_blank">Mutual Mobile</a></small></p>
-					</div>
-				</div>
-				<div class="card">
-					<div class="card-body">
-					  <p class="card-text">Judson was able to lead complex projects with many moving parts, variables and targets. His pursuit of excellence allowed him to execute projects flawlessly and lead others to accomplish their&nbsp;goals and tasks. He has a way to rally people, get them on side and aligned with goals.</p>
-					  <h5 class="card-title">Christine Rybas</h5>
-					  <p class="card-text"><small class="text-muted">Marketing Manger</small></p>
-					  <p class="card-text"><small class="text-muted"><a href="http://paulcummings.com/" target="_blank">Paul Cummings Enterprises</a></small></p>
-					</div>
-				</div>
+				{% endfor %}
 
 			</div>
 
-		</div>
-	</div>
-</section>
-
-<section>
-	<div class="card text-white bg-secondary my-5 py-4 text-center">
-		<div class="card-body">
-			{% assign quote = site.data.text %}
-			{% assign quote = quote["quote"] %}
-			{% include carousel-text.html quote=quote %}
 		</div>
 	</div>
 </section>

@@ -31,14 +31,10 @@ main:
         url: /colombia/
       - page: United States of America
         url: /usa/
-  - title: Lifestyle
-    subfolderitems:
-      - page: Lifestyle
-        url: /lifestyle/
-  - title: Female Travel
-    subfolderitems:
-      - page: Female Travel
-        url: /female-travel/
+  - page: Lifestyle
+    url: /lifestyle/
+  - page: Female Travel
+    url: /female-travel/
 secondary:
   - title: About
     subfolderitems:

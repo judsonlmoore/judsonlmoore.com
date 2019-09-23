@@ -1,0 +1,48 @@
+- name: Languages
+  items:
+  - skill: English
+    strength: 100
+  - skill: German
+    strength: 80
+  - skill: Russian
+    strength: 60
+  - skill: Kyrgyz
+    strength: 40
+- name: Software
+  items:
+  - skill: Salesforce
+    strength: 75
+  - skill: Google Apps
+    strength: 75
+  - skill: Adobe Creative Suite
+    strength: 75
+  - skill: Logic Pro X
+    strength: 75
+  - skill: MS & Mac Office Suites
+    strength: 75
+- name: Webdev
+  items:
+  - skill: WordPress Codex
+    strength: 75
+  - skill: Google Developer Tools
+    strength: 75
+  - skill: CSS3
+    strength: 75
+  - skill: Command Line
+    strength: 75
+  - skill: Liquid
+    strength: 75
+- name: Other
+  items:
+  - skill: Grant Writing
+    strength: 75
+  - skill: Project Management
+    strength: 75
+  - skill: Auditing
+    strength: 75
+  - skill: Budgeting
+    strength: 75
+  - skill: Mentoring
+    strength: 75
+  - skill: Delegation
+    strength: 75
