@@ -12,12 +12,12 @@
     var feed = new Instafeed({
         get: 'user',
         userId: '{{ include.userId }}',
-        limit: '5',
+        limit: '25',
         sortBy: 'most-recent',
         resolution: 'standard_resolution',
         accessToken: '{{ include.accessToken }}',
         clientId: '{{ include.clientId }}',
-        template: '<a href="{% raw %}{{link}}{% endraw %}" target="_blank"><img src="{% raw %}{{image}}{% endraw %}" /></a>'
+        template: '<a href="{% raw %}{{link}}{% endraw %}" class="instagram" target="_blank"><img src="{% raw %}{{image}}{% endraw %}" class="rounded" /></a>'
     });
     feed.run();
 </script>

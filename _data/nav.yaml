@@ -36,16 +36,12 @@ main:
   - page: Female Travel
     url: /female-travel/
 secondary:
-  - title: About
-    subfolderitems:
-      - page: About
-        url: /about/
-      - page: Resume
-        url: /resume/
+  - page: About Me
+    url: /about/
+  - page: Guest Authors
+    url: /guest-authors/
 footer:
-  - title: Disclaimers
-    subfolderitems:
-      - page: Terms of Service
-        url: /tos/
-      - page: Privacy Policy
-        url: /privacy-policy/
+  - page: Terms of Service
+    url: /tos/
+  - page: Privacy Policy
+    url: /privacy-policy/
