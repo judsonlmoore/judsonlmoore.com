@@ -127,9 +127,6 @@ adsense: "disabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
-
 exclude:
   - .jekyll-cache
   - changelog.md
@@ -157,13 +154,20 @@ cloudinary:
       min_width: 320
       max_width: 1600
       fallback_max_width: 800
-      figure: auto
+      steps: 5
+      sizes: "(min-width: 50rem) 50rem, 90vw"
       attributes:
         class: d-block w-100
         loading: "auto"
+    fluid:
+      attributes:
+        class: "fluid d-block"
     featured-box-img-cover:
       attributes:
         class: "featured-box-img-cover"
+    featured:
+      attibutes:
+        class: featured-image img-fluid
     img-fluid: 
       attributes: 
         class: img-fluid

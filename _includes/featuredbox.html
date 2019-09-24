@@ -3,15 +3,11 @@
 <div class="col-md-6 mb-30px">
     <div class="listfeaturedtag h-100">
         <div class="row h-100">
-            <div class="col-12 col-md-12 col-lg-5 pr-0">
+            <div class="col-12 col-md-12 col-lg-5 p-0">
                 <div class="h-100">
                     <div class="wrapthumbnail">
                         <a href="{{ site.baseurl }}{{ post.url }}">
-                            {% if site.lazyimages == "enabled" %}
-                            <img class="featured-box-img-cover lazyimg"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ site.image-path }}{{ post.image }}{% else %}{{ site.baseurl }}{{ site.image-path }}{{ post.image }}{% endif %}">
-                            {% else %}
                             {% cloudinary featured-box-img-cover {{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
-                            {% endif %}
                         </a>
                     </div>
                 </div>
@@ -37,8 +33,6 @@
                                 <span class="meta-footer-thumb">
                                 {% if author.avatar %}
                                 {% cloudinary author-thumb {{ site.baseurl }}{{ author.avatar }} alt="{{ author.display_name }}" %}
-                                {% else %}
-                                <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
                                 {% endif %}
                                 </span>
                                 <span class="author-meta">

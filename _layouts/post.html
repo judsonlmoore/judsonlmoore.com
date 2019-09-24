@@ -1,6 +1,6 @@
 ---
 layout: default
-disqus: false
+disqus: true
 archive: false
 post_class: post-template
 ---
@@ -56,34 +56,11 @@ post_class: post-template
 
                         <!-- {{ jekyll.environment }} -->
 
-                        <!-- Post Featured Image -->
                         {% if page.image %}
-
-                            {% include srcset-page.html 
-                                params="c_fill" 
-                                class="featured-image img-fluid" 
-                                loading="auto" 
-                                style="height: auto" 
-                                width0="800"
-                                width1="320" 
-                                width2="540" 
-                                width3="758" 
-                                width4="800" 
-                                width5="1000" 
-                            %}
-
-                        {% else %}
-
-                        <img
-                            src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/l_text:helvetica_100_bold:{{ page.title }},w_800/{{ site.url }}{{ site.image-path }}default-bg.jpg"
-                            class="{{ include.class }} prod"
-                            alt="{{ page.title }}"
-                            crossorigin="anonymous"
-                            srcset=""
-                        />
-
-                        {% endif %}
+                        <!-- Post Featured Image -->
+                            {% cloudinary featured {{ site.url }}{{ site.image-path }}{{ page.image }} alt="{{ page.title }}" %}
                         <!-- End Featured Image -->
+                        {% endif %}
 
                         <!-- Post Content -->
                         <div class="article-post">
