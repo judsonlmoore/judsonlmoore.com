@@ -37,32 +37,7 @@
                     <h5>{{ post.title }}</h5>
                     <!-- <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p> -->
                 </div>
-                {% if jekyll.environment == 'production' %}
-
-                <img
-                    src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_1000/{{ site.url }}{{ site.image-path }}{{ post.image }}"
-                    class="d-block w-100 prod"
-                    loading="{{ include.loading }}"
-                    alt="{{ post.title }}"
-                    crossorigin="anonymous"
-                    srcset="
-                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_320/{{ site.url }}{{ site.image-path }}{{ post.image }} 320w, 
-                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_540/{{ site.url }}{{ site.image-path }}{{ post.image }} 540w, 
-                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_758/{{ site.url }}{{ site.image-path }}{{ post.image }} 758w, 
-                        https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,f_auto,q_auto,g_auto:classic,w_800/{{ site.url }}{{ site.image-path }}{{ post.image }} 800w, 
-                    "
-                />
-
-                {% else %}
-
-                <img 
-                    src="{{ site. url }}{{ site.image-path }}{{ post.image }}" 
-                    class="d-block w-100 non-prod" 
-                    alt="{{ post.title }}"
-                >
-
-                {% endif %}
-
+                {% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
             </a>
         </div>
         {% endif %}
