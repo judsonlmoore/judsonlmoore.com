@@ -31,11 +31,10 @@
 {"description":"I spend two weeks in Colombia with old friends exploring the hottest destinations, eating the most delicious food, and learning to dance in the streets!","author":{"@type":"Person","name":"judsonlmoore"},"@type":"BlogPosting","url":"http://localhost:4000/colombia-new-germany/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2014/11/IMG_3606-Version-2.jpg","headline":"Colombia Is The New Germany - A Rotary Youth Exchange Reunion","dateModified":"2014-11-11T20:36:05+01:00","datePublished":"2014-11-11T20:36:05+01:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/colombia-new-germany/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -57,84 +56,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -233,8 +156,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -307,7 +277,7 @@
                             <div class="row post-top-meta">
                                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                     
-                                    <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore"  crossorigin="anonymous" />
+                                    <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                     
                                 </div>
                                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -330,7 +300,7 @@
 
                         
                         <!-- Post Featured Image -->
-                            <img src="http://localhost:4000/assets/images/2014/11/IMG_3606-Version-2.jpg" class="d-block w-100" loading="auto"  alt="Colombia Is The New Germany - A Rotary Youth Exchange Reunion" width="1280" height="615" crossorigin="anonymous" />
+                            <img src="http://localhost:4000/assets/images/2014/11/IMG_3606-Version-2.jpg" class="img-fluid" loading="auto"  alt="Colombia Is The New Germany - A Rotary Youth Exchange Reunion" width="1280" height="615" crossorigin="anonymous" />
                         <!-- End Featured Image -->
                         
 
@@ -354,8 +324,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2109.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2109.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2109.jpg">
+            <img src="/assets/images/2014/11/IMG_2109.jpg" />
           </a>
           <div class="caption">
               <p>Reunited at last! | Cerro De Monserrate, Bogotá, Colombia</p>
@@ -365,8 +335,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2118.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2118.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2118.jpg">
+            <img src="/assets/images/2014/11/IMG_2118.jpg" />
           </a>
           <div class="caption">
               <p>School kids who wanted to have a photo with us. | Cerro De Monserrate, Bogotá, Colombia</p>
@@ -376,8 +346,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2124.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2124.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2124.jpg">
+            <img src="/assets/images/2014/11/IMG_2124.jpg" />
           </a>
           <div class="caption">
               <p>Johana and I in front of the church at the top of the mountain. | Cerro De Monserrate, Bogotá, Colombia</p>
@@ -387,8 +357,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2136.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2136.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2136.jpg">
+            <img src="/assets/images/2014/11/IMG_2136.jpg" />
           </a>
           <div class="caption">
               <p>These are ear gauges. And though this doesn't show scale of size, these are about the size of my fist.</p>
@@ -398,8 +368,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2140.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2140.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2140.jpg">
+            <img src="/assets/images/2014/11/IMG_2140.jpg" />
           </a>
           <div class="caption">
               <p>The Jaguar.The Gold Museum - The world's largest collection of pre-Hispanic gold work.</p>
@@ -409,8 +379,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2154.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2154.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2154.jpg">
+            <img src="/assets/images/2014/11/IMG_2154.jpg" />
           </a>
           <div class="caption">
               <p>The Gold Museum (Spanish El Museo del Oro) - The world's largest collection of pre-Hispanic gold work.</p>
@@ -420,8 +390,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2169.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2169.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2169.jpg">
+            <img src="/assets/images/2014/11/IMG_2169.jpg" />
           </a>
           <div class="caption">
               <p>The famous Muisca's golden raft found in Pasca in 1969, that represents the El Dorado ceremony.The Gold Museum - The world's largest collection of pre-Hispanic gold work.</p>
@@ -431,8 +401,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2198.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2198.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2198.jpg">
+            <img src="/assets/images/2014/11/IMG_2198.jpg" />
           </a>
           <div class="caption">
               <p>Primary Cathedral of Bogotá. The Bolívar Square, Bogotá, Colombia.</p>
@@ -442,8 +412,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2220.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2220.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2220.jpg">
+            <img src="/assets/images/2014/11/IMG_2220.jpg" />
           </a>
           <div class="caption">
               <p>National Capitol. The Bolívar Square, Bogotá, Colombia.</p>
@@ -453,8 +423,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2247.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2247.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2247.jpg">
+            <img src="/assets/images/2014/11/IMG_2247.jpg" />
           </a>
           <div class="caption">
               <p>La Candelaria (The Old Town)Bogotá, Colombia</p>
@@ -464,8 +434,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2262.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2262.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2262.jpg">
+            <img src="/assets/images/2014/11/IMG_2262.jpg" />
           </a>
           <div class="caption">
               <p>Del Carmen Church. Bogotá, Colombia</p>
@@ -475,8 +445,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0442.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0442.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0442.jpg">
+            <img src="/assets/images/2014/11/IMG_0442.jpg" />
           </a>
           <div class="caption">
               <p>Ceviches outside of the airport in Cartagena, Colomba</p>
@@ -486,8 +456,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0452.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0452.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0452.jpg">
+            <img src="/assets/images/2014/11/IMG_0452.jpg" />
           </a>
           <div class="caption">
               <p>Greeted with drinks at our hotel in Cartagena, Colomba</p>
@@ -497,8 +467,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0463.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0463.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0463.jpg">
+            <img src="/assets/images/2014/11/IMG_0463.jpg" />
           </a>
           <div class="caption">
               <p>Seafood Paella at La Cevicheria, Cartagena, Colomba</p>
@@ -508,8 +478,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2282.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2282.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2282.jpg">
+            <img src="/assets/images/2014/11/IMG_2282.jpg" />
           </a>
           <div class="caption">
               <p>The Old Town in Cartagena, Colomba</p>
@@ -519,8 +489,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2345.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2345.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2345.jpg">
+            <img src="/assets/images/2014/11/IMG_2345.jpg" />
           </a>
           <div class="caption">
               <p>The Old Town in Cartagena, Colomba</p>
@@ -530,8 +500,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2413.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2413.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2413.jpg">
+            <img src="/assets/images/2014/11/IMG_2413.jpg" />
           </a>
           <div class="caption">
               <p>Castillo San Felipe de Barajas, Cartagena, Colomba</p>
@@ -541,8 +511,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2568.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2568.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2568.jpg">
+            <img src="/assets/images/2014/11/IMG_2568.jpg" />
           </a>
           <div class="caption">
               <p>Castillo San Felipe de Barajas, Cartagena, Colomba</p>
@@ -552,8 +522,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2583.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2583.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2583.jpg">
+            <img src="/assets/images/2014/11/IMG_2583.jpg" />
           </a>
           <div class="caption">
               <p>Public Art in Cartagena, Colomba</p>
@@ -563,8 +533,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2816.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2816.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2816.jpg">
+            <img src="/assets/images/2014/11/IMG_2816.jpg" />
           </a>
           <div class="caption">
               <p>Part of the island is overgrown and not the 'path most taken.' We took the path. It was amazing.</p>
@@ -574,8 +544,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2650.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2650.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2650.jpg">
+            <img src="/assets/images/2014/11/IMG_2650.jpg" />
           </a>
           <div class="caption">
               <p>Part of the island is overgrown and not the 'path most taken.' We took the path. It was amazing.</p>
@@ -585,8 +555,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2747.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2747.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2747.jpg">
+            <img src="/assets/images/2014/11/IMG_2747.jpg" />
           </a>
           <div class="caption">
               <p>We found a sort of zoo, so someone must be coming back here, but we didn't see any evidence of humans. Part of the island is overgrown and not the 'path most taken.' We took the path. It was amazing.</p>
@@ -596,8 +566,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2683.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2683.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2683.jpg">
+            <img src="/assets/images/2014/11/IMG_2683.jpg" />
           </a>
           <div class="caption">
               <p>See the painted windows? My guess is this was a treehouse paradise for Pablo's kids.Part of the island is overgrown and not the 'path most taken.' We took the path. It was amazing.</p>
@@ -607,8 +577,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2707.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2707.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2707.jpg">
+            <img src="/assets/images/2014/11/IMG_2707.jpg" />
           </a>
           <div class="caption">
               <p>Part of the island is overgrown and not the 'path most taken.' We took the path. It was amazing.</p>
@@ -618,8 +588,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2666.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2666.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2666.jpg">
+            <img src="/assets/images/2014/11/IMG_2666.jpg" />
           </a>
           <div class="caption">
               <p>Part of the island is overgrown and not the 'path most taken.' We took the path. It was amazing.</p>
@@ -629,8 +599,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2639.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2639.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2639.jpg">
+            <img src="/assets/images/2014/11/IMG_2639.jpg" />
           </a>
           <div class="caption">
               <p>Part of the island is overgrown and not the 'path most taken.' We took the path. It was amazing.</p>
@@ -640,8 +610,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3021.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3021.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3021.jpg">
+            <img src="/assets/images/2014/11/IMG_3021.jpg" />
           </a>
           <div class="caption">
               <p>The main resort building.</p>
@@ -651,8 +621,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_2902.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_2902.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_2902.jpg">
+            <img src="/assets/images/2014/11/IMG_2902.jpg" />
           </a>
           <div class="caption">
               <p>Isla Palma, Colombia (former summer home of Pablo Escobar)</p>
@@ -662,8 +632,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3155.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3155.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3155.jpg">
+            <img src="/assets/images/2014/11/IMG_3155.jpg" />
           </a>
           <div class="caption">
               <p>The main square in Villa de Leyva, Colombia</p>
@@ -673,8 +643,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3158.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3158.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3158.jpg">
+            <img src="/assets/images/2014/11/IMG_3158.jpg" />
           </a>
           <div class="caption">
               <p>I believe this is a win for Team USA.</p>
@@ -684,8 +654,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3138.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3138.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3138.jpg">
+            <img src="/assets/images/2014/11/IMG_3138.jpg" />
           </a>
           <div class="caption">
               <p>View from my hotel room.</p>
@@ -695,8 +665,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0604.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0604.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0604.jpg">
+            <img src="/assets/images/2014/11/IMG_0604.jpg" />
           </a>
           <div class="caption">
               <p>4-Wheelers to La Piriquera waterfalls.</p>
@@ -706,8 +676,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3196.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3196.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3196.jpg">
+            <img src="/assets/images/2014/11/IMG_3196.jpg" />
           </a>
           <div class="caption">
               <p>4-Wheelers to La Piriquera waterfalls.</p>
@@ -717,8 +687,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3479.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3479.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3479.jpg">
+            <img src="/assets/images/2014/11/IMG_3479.jpg" />
           </a>
           <div class="caption">
               <p>4-Wheelers to La Piriquera waterfalls.</p>
@@ -728,8 +698,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3288.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3288.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3288.jpg">
+            <img src="/assets/images/2014/11/IMG_3288.jpg" />
           </a>
           <div class="caption">
               <p>Zip-lining into the La Piriquera waterfalls!</p>
@@ -739,8 +709,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3310.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3310.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3310.jpg">
+            <img src="/assets/images/2014/11/IMG_3310.jpg" />
           </a>
           <div class="caption">
               <p>Zip-lining into the La Piriquera waterfalls!</p>
@@ -750,8 +720,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3347.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3347.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3347.jpg">
+            <img src="/assets/images/2014/11/IMG_3347.jpg" />
           </a>
           <div class="caption">
               <p>La Piriquera waterfalls</p>
@@ -761,8 +731,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3368.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3368.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3368.jpg">
+            <img src="/assets/images/2014/11/IMG_3368.jpg" />
           </a>
           <div class="caption">
               <p>La Piriquera waterfalls</p>
@@ -772,8 +742,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3381.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3381.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3381.jpg">
+            <img src="/assets/images/2014/11/IMG_3381.jpg" />
           </a>
           <div class="caption">
               <p>La Piriquera waterfalls</p>
@@ -783,8 +753,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0607.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0607.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0607.jpg">
+            <img src="/assets/images/2014/11/IMG_0607.jpg" />
           </a>
           <div class="caption">
               <p>Climbing out of the valley where the La Piriquera waterfalls are.</p>
@@ -794,8 +764,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3607.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3607.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3607.jpg">
+            <img src="/assets/images/2014/11/IMG_3607.jpg" />
           </a>
           <div class="caption">
               <p>Rotary public art on the plaza of the Salt Cathedral of Zipaquirá. Very suitable!</p>
@@ -805,8 +775,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3601.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3601.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3601.jpg">
+            <img src="/assets/images/2014/11/IMG_3601.jpg" />
           </a>
           <div class="caption">
               <p>This is the entry tunnel to the Salt Cathedral of Zipaquirá</p>
@@ -816,8 +786,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3592.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3592.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3592.jpg">
+            <img src="/assets/images/2014/11/IMG_3592.jpg" />
           </a>
           <div class="caption">
               <p>the place where coffee is never a problem, even at 180m below Earth!</p>
@@ -827,8 +797,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3586.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3586.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3586.jpg">
+            <img src="/assets/images/2014/11/IMG_3586.jpg" />
           </a>
           <div class="caption">
               <p>Reflection pool at the Salt Cathedral of Zipaquirá</p>
@@ -838,8 +808,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3567.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3567.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3567.jpg">
+            <img src="/assets/images/2014/11/IMG_3567.jpg" />
           </a>
           <div class="caption">
               <p>Salt Cathedral of Zipaquirá</p>
@@ -849,8 +819,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3565.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3565.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3565.jpg">
+            <img src="/assets/images/2014/11/IMG_3565.jpg" />
           </a>
           <div class="caption">
               <p>Salt Cathedral of Zipaquirá</p>
@@ -860,8 +830,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3560.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3560.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3560.jpg">
+            <img src="/assets/images/2014/11/IMG_3560.jpg" />
           </a>
           <div class="caption">
               <p>Salt Cathedral of Zipaquirá</p>
@@ -871,8 +841,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3551.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3551.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3551.jpg">
+            <img src="/assets/images/2014/11/IMG_3551.jpg" />
           </a>
           <div class="caption">
               <p>Salt Cathedral of Zipaquirá</p>
@@ -882,8 +852,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3550.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3550.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3550.jpg">
+            <img src="/assets/images/2014/11/IMG_3550.jpg" />
           </a>
           <div class="caption">
               <p>Salt Cathedral of Zipaquirá</p>
@@ -893,8 +863,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3548.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3548.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3548.jpg">
+            <img src="/assets/images/2014/11/IMG_3548.jpg" />
           </a>
           <div class="caption">
               <p>Salt Cathedral of Zipaquirá</p>
@@ -904,8 +874,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3523.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3523.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3523.jpg">
+            <img src="/assets/images/2014/11/IMG_3523.jpg" />
           </a>
           <div class="caption">
               <p>Salt Cathedral of Zipaquirá</p>
@@ -915,8 +885,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_3521.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_3521.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_3521.jpg">
+            <img src="/assets/images/2014/11/IMG_3521.jpg" />
           </a>
           <div class="caption">
               <p></p>
@@ -926,8 +896,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0651.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0651.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0651.jpg">
+            <img src="/assets/images/2014/11/IMG_0651.jpg" />
           </a>
           <div class="caption">
               <p>It's chow time at Andrés Carne de Res</p>
@@ -937,8 +907,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0650.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0650.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0650.jpg">
+            <img src="/assets/images/2014/11/IMG_0650.jpg" />
           </a>
           <div class="caption">
               <p>My dinner at Andrés Carne de Res</p>
@@ -948,8 +918,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0641.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0641.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0641.jpg">
+            <img src="/assets/images/2014/11/IMG_0641.jpg" />
           </a>
           <div class="caption">
               <p>The atmosphere at Andrés Carne de Res is very interesting!</p>
@@ -959,8 +929,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0665.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0665.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0665.jpg">
+            <img src="/assets/images/2014/11/IMG_0665.jpg" />
           </a>
           <div class="caption">
               <p>One of the many dance floors at Andrés Carne de Res.</p>
@@ -970,8 +940,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/11/IMG_0663.jpg">
-            <img src="http://localhost:4000/assets/images/2014/11/IMG_0663.jpg" />
+          <a class="lightbox" href="/assets/images/2014/11/IMG_0663.jpg">
+            <img src="/assets/images/2014/11/IMG_0663.jpg" />
           </a>
           <div class="caption">
               <p>It had to happen. At Andrés Carne de Res.</p>
@@ -1390,19 +1360,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -1468,14 +1438,15 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
         <script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" ></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>

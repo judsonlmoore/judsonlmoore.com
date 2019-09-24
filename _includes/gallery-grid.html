@@ -3,9 +3,8 @@
     <div class="row">
         {% for image in include.images %}
         <div class="col-sm-6 col-md-4">
-            <a class="lightbox" href="{{ site.url }}{{ site.image-path }}{{ image.url }}">
-                <img src="{{ site.url }}{{ site.image-path }}{{ image.url }}" alt="{{ image.alt }}">
-                {% cloudinary {{ site.url }}{{ site.image-path }}{{ image.url }} alt="{{ image.alt }}" %}
+            <a class="lightbox" href="{{ site.baseurl }}{{ site.image-path }}{{ image.url }}">
+                {% cloudinary {{ site.baseurl }}{{ site.image-path }}{{ image.url }} alt="{{ image.alt }}" %}
             </a>
         </div>
         {% endfor %}

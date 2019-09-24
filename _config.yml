@@ -39,7 +39,7 @@ authors:
   judsonlmoore:
     name: Judson L Moore
     display_name: Judson L Moore
-    avatar: assets/images/avatars/avatar-judsonlmoore.jpg
+    avatar: avatar-judsonlmoore.jpg
     email: judson@judsonlmoore.com
     web: https://www.judsonlmoore.com
     twitter: https://twitter.com/judsonlmoore
@@ -139,38 +139,28 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-cloudinary_url: https://res.cloudinary.com/judsonlmoore-com/image/fetch/
-img_transform_post_feature: c_fill,g_auto,f_auto,q_auto,w_800
-
-#jekyll-cloudinary https://nhoizey.github.io/jekyll-cloudinary/
 cloudinary:
   cloud_name: judsonlmoore-com
   only_prod: true
-  verbose: true
+  verbose: false
   steps: 5
-  #origin_url:
   presets:
     default:
       min_width: 320
-      max_width: 1600
+      max_width: 1200
       fallback_max_width: 800
       steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
+      figure: auto
+      #sizes: "(min-width: 50rem) 50rem, 90vw"
       attributes:
-        class: d-block w-100
-        loading: "auto"
-    fluid:
-      attributes:
-        class: "fluid d-block"
+        class: img-fluid
+        loading: auto
     featured-box-img-cover:
       attributes:
-        class: "featured-box-img-cover"
+        class: featured-box-img-cover
     featured:
       attibutes:
         class: featured-image img-fluid
-    img-fluid: 
-      attributes: 
-        class: img-fluid
     author-thumb: 
       attributes: 
         class: author-thumb

@@ -31,11 +31,10 @@
 {"description":"Hampi: Fallen Seat of an Empire","author":{"@type":"Person","name":"judsonlmoore"},"@type":"BlogPosting","url":"http://localhost:4000/hampi/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2015/01/IMG_0692.jpg","headline":"Hampi the Fallen Capital of the Vijayanagara Empire in India","dateModified":"2014-09-29T03:16:22+02:00","datePublished":"2014-09-29T03:16:22+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/hampi/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -57,84 +56,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -233,8 +156,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -307,7 +277,7 @@
                             <div class="row post-top-meta">
                                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                     
-                                    <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore"  crossorigin="anonymous" />
+                                    <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                     
                                 </div>
                                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -330,7 +300,7 @@
 
                         
                         <!-- Post Featured Image -->
-                            <img src="http://localhost:4000/assets/images/2015/01/IMG_0692.jpg" class="d-block w-100" loading="auto"  alt="Hampi the Fallen Capital of the Vijayanagara Empire in India" width="1280" height="853" crossorigin="anonymous" />
+                            <img src="http://localhost:4000/assets/images/2015/01/IMG_0692.jpg" class="img-fluid" loading="auto"  alt="Hampi the Fallen Capital of the Vijayanagara Empire in India" width="1280" height="853" crossorigin="anonymous" />
                         <!-- End Featured Image -->
                         
 
@@ -368,8 +338,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0430.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0430.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0430.jpg">
+            <img src="/assets/images/2015/01/IMG_0430.jpg" />
           </a>
           <div class="caption">
               <p>Flat tire</p>
@@ -379,8 +349,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0447.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0447.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0447.jpg">
+            <img src="/assets/images/2015/01/IMG_0447.jpg" />
           </a>
           <div class="caption">
               <p>Flat tire</p>
@@ -390,8 +360,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0440.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0440.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0440.jpg">
+            <img src="/assets/images/2015/01/IMG_0440.jpg" />
           </a>
           <div class="caption">
               <p>Flagging help for our tire</p>
@@ -401,8 +371,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0436.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0436.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0436.jpg">
+            <img src="/assets/images/2015/01/IMG_0436.jpg" />
           </a>
           <div class="caption">
               <p>The first thing I saw when I woke up</p>
@@ -412,8 +382,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0442.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0442.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0442.jpg">
+            <img src="/assets/images/2015/01/IMG_0442.jpg" />
           </a>
           <div class="caption">
               <p>I like gates</p>
@@ -423,8 +393,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0434.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0434.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0434.jpg">
+            <img src="/assets/images/2015/01/IMG_0434.jpg" />
           </a>
           <div class="caption">
               <p>Upma (Indian grits)</p>
@@ -434,8 +404,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0450.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0450.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0450.jpg">
+            <img src="/assets/images/2015/01/IMG_0450.jpg" />
           </a>
           <div class="caption">
               <p>Cows and rickshaws getting along nicely</p>
@@ -445,8 +415,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0468.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0468.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0468.jpg">
+            <img src="/assets/images/2015/01/IMG_0468.jpg" />
           </a>
           <div class="caption">
               <p>Tungabhadra Dam</p>
@@ -456,8 +426,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0472.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0472.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0472.jpg">
+            <img src="/assets/images/2015/01/IMG_0472.jpg" />
           </a>
           <div class="caption">
               <p>Tungabhadra Dam</p>
@@ -467,8 +437,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0489.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0489.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0489.jpg">
+            <img src="/assets/images/2015/01/IMG_0489.jpg" />
           </a>
           <div class="caption">
               <p>Lighthouse atop Tungabhadra Dam</p>
@@ -478,8 +448,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0499.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0499.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0499.jpg">
+            <img src="/assets/images/2015/01/IMG_0499.jpg" />
           </a>
           <div class="caption">
               <p>Fleur de lis</p>
@@ -489,8 +459,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0505.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0505.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0505.jpg">
+            <img src="/assets/images/2015/01/IMG_0505.jpg" />
           </a>
           <div class="caption">
               <p>Tungabhadra Dam</p>
@@ -500,8 +470,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0511.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0511.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0511.jpg">
+            <img src="/assets/images/2015/01/IMG_0511.jpg" />
           </a>
           <div class="caption">
               <p>Cow fountain</p>
@@ -511,8 +481,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0520.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0520.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0520.jpg">
+            <img src="/assets/images/2015/01/IMG_0520.jpg" />
           </a>
           <div class="caption">
               <p>Navratri poojah</p>
@@ -522,8 +492,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0608.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0608.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0608.jpg">
+            <img src="/assets/images/2015/01/IMG_0608.jpg" />
           </a>
           <div class="caption">
               <p>Hazara Rama Temple</p>
@@ -533,8 +503,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0596.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0596.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0596.jpg">
+            <img src="/assets/images/2015/01/IMG_0596.jpg" />
           </a>
           <div class="caption">
               <p>Lotus Mahal at the Zenana Enclosure</p>
@@ -544,8 +514,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0585.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0585.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0585.jpg">
+            <img src="/assets/images/2015/01/IMG_0585.jpg" />
           </a>
           <div class="caption">
               <p>Lord Ganesha</p>
@@ -555,8 +525,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0576.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0576.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0576.jpg">
+            <img src="/assets/images/2015/01/IMG_0576.jpg" />
           </a>
           <div class="caption">
               <p>Elephant Stable</p>
@@ -566,8 +536,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0572.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0572.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0572.jpg">
+            <img src="/assets/images/2015/01/IMG_0572.jpg" />
           </a>
           <div class="caption">
               <p>Elephant Stable</p>
@@ -577,8 +547,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0563.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0563.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0563.jpg">
+            <img src="/assets/images/2015/01/IMG_0563.jpg" />
           </a>
           <div class="caption">
               <p>Elephant Stable</p>
@@ -588,8 +558,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0548.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0548.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0548.jpg">
+            <img src="/assets/images/2015/01/IMG_0548.jpg" />
           </a>
           <div class="caption">
               <p>Lotus Mahal at the Zenana Enclosure</p>
@@ -599,8 +569,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0547.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0547.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0547.jpg">
+            <img src="/assets/images/2015/01/IMG_0547.jpg" />
           </a>
           <div class="caption">
               <p>Lotus Mahal at the Zenana Enclosure</p>
@@ -610,8 +580,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0543.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0543.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0543.jpg">
+            <img src="/assets/images/2015/01/IMG_0543.jpg" />
           </a>
           <div class="caption">
               <p>Lotus Mahal at the Zenana Enclosure</p>
@@ -621,8 +591,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0538.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0538.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0538.jpg">
+            <img src="/assets/images/2015/01/IMG_0538.jpg" />
           </a>
           <div class="caption">
               <p></p>
@@ -632,8 +602,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0532.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0532.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0532.jpg">
+            <img src="/assets/images/2015/01/IMG_0532.jpg" />
           </a>
           <div class="caption">
               <p></p>
@@ -643,8 +613,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0531.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0531.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0531.jpg">
+            <img src="/assets/images/2015/01/IMG_0531.jpg" />
           </a>
           <div class="caption">
               <p></p>
@@ -654,8 +624,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0611.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0611.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0611.jpg">
+            <img src="/assets/images/2015/01/IMG_0611.jpg" />
           </a>
           <div class="caption">
               <p>Vittala complex</p>
@@ -665,8 +635,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0618.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0618.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0618.jpg">
+            <img src="/assets/images/2015/01/IMG_0618.jpg" />
           </a>
           <div class="caption">
               <p>Vittala complex</p>
@@ -676,8 +646,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0619.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0619.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0619.jpg">
+            <img src="/assets/images/2015/01/IMG_0619.jpg" />
           </a>
           <div class="caption">
               <p>Vittala complex</p>
@@ -687,8 +657,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0620.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0620.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0620.jpg">
+            <img src="/assets/images/2015/01/IMG_0620.jpg" />
           </a>
           <div class="caption">
               <p>Local tourists at Vittala complex</p>
@@ -698,8 +668,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0622.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0622.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0622.jpg">
+            <img src="/assets/images/2015/01/IMG_0622.jpg" />
           </a>
           <div class="caption">
               <p>Detail of the stone chariot at Vittala complex</p>
@@ -709,8 +679,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0637.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0637.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0637.jpg">
+            <img src="/assets/images/2015/01/IMG_0637.jpg" />
           </a>
           <div class="caption">
               <p>Vittala complex</p>
@@ -720,8 +690,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0660.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0660.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0660.jpg">
+            <img src="/assets/images/2015/01/IMG_0660.jpg" />
           </a>
           <div class="caption">
               <p>The stone chariot at Vittala complex</p>
@@ -731,8 +701,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0669.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0669.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0669.jpg">
+            <img src="/assets/images/2015/01/IMG_0669.jpg" />
           </a>
           <div class="caption">
               <p>Lord Ganesha</p>
@@ -742,8 +712,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0684.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0684.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0684.jpg">
+            <img src="/assets/images/2015/01/IMG_0684.jpg" />
           </a>
           <div class="caption">
               <p>Virupaksha Temple</p>
@@ -753,8 +723,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0687.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0687.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0687.jpg">
+            <img src="/assets/images/2015/01/IMG_0687.jpg" />
           </a>
           <div class="caption">
               <p>Virupaksha Temple</p>
@@ -764,8 +734,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0692.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0692.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0692.jpg">
+            <img src="/assets/images/2015/01/IMG_0692.jpg" />
           </a>
           <div class="caption">
               <p>Virupaksha Temple</p>
@@ -775,8 +745,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0695.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0695.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0695.jpg">
+            <img src="/assets/images/2015/01/IMG_0695.jpg" />
           </a>
           <div class="caption">
               <p>Virupaksha Temple</p>
@@ -786,8 +756,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0733.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0733.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0733.jpg">
+            <img src="/assets/images/2015/01/IMG_0733.jpg" />
           </a>
           <div class="caption">
               <p>Kamasutra engravings of the Virupaksha Temple</p>
@@ -797,8 +767,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_07361.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_07361.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_07361.jpg">
+            <img src="/assets/images/2015/01/IMG_07361.jpg" />
           </a>
           <div class="caption">
               <p>Main entry to the Virupaksha Temple</p>
@@ -808,8 +778,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0739.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0739.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0739.jpg">
+            <img src="/assets/images/2015/01/IMG_0739.jpg" />
           </a>
           <div class="caption">
               <p>Brahmin priests of the Virupaksha Temple</p>
@@ -819,8 +789,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0752.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0752.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0752.jpg">
+            <img src="/assets/images/2015/01/IMG_0752.jpg" />
           </a>
           <div class="caption">
               <p>A monkey!</p>
@@ -830,8 +800,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0762.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0762.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0762.jpg">
+            <img src="/assets/images/2015/01/IMG_0762.jpg" />
           </a>
           <div class="caption">
               <p>Downtown Hampi</p>
@@ -841,8 +811,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0770.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0770.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0770.jpg">
+            <img src="/assets/images/2015/01/IMG_0770.jpg" />
           </a>
           <div class="caption">
               <p>Elephant lunchtime</p>
@@ -852,8 +822,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0802.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0802.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0802.jpg">
+            <img src="/assets/images/2015/01/IMG_0802.jpg" />
           </a>
           <div class="caption">
               <p>Virupaksha Temple</p>
@@ -863,8 +833,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0809.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0809.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0809.jpg">
+            <img src="/assets/images/2015/01/IMG_0809.jpg" />
           </a>
           <div class="caption">
               <p>Water plants growing in a stream</p>
@@ -874,8 +844,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0813.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0813.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0813.jpg">
+            <img src="/assets/images/2015/01/IMG_0813.jpg" />
           </a>
           <div class="caption">
               <p>Water plants growing in a stream</p>
@@ -1235,19 +1205,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -1313,14 +1283,15 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
         <script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" ></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>

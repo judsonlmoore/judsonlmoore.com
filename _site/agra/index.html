@@ -31,11 +31,10 @@
 {"description":"A short drive from New Deli, Agra is home of the Taj Mahal, the tomb which has stood as the world’s greatest testament of love and loss.","author":{"@type":"Person","name":"judsonlmoore"},"@type":"BlogPosting","url":"http://localhost:4000/agra/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2015/01/IMG_2049.jpg","headline":"Agra Is Home of The World’s Oldest Fairy Tail Tragedy","dateModified":"2014-10-27T14:42:23+01:00","datePublished":"2014-10-27T14:42:23+01:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/agra/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -57,84 +56,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -233,8 +156,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -307,7 +277,7 @@
                             <div class="row post-top-meta">
                                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                     
-                                    <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore"  crossorigin="anonymous" />
+                                    <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                     
                                 </div>
                                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -330,7 +300,7 @@
 
                         
                         <!-- Post Featured Image -->
-                            <img src="http://localhost:4000/assets/images/2015/01/IMG_2049.jpg" class="d-block w-100" loading="auto"  alt="Agra Is Home of The World's Oldest Fairy Tail Tragedy" width="1280" height="853" crossorigin="anonymous" />
+                            <img src="http://localhost:4000/assets/images/2015/01/IMG_2049.jpg" class="img-fluid" loading="auto"  alt="Agra Is Home of The World's Oldest Fairy Tail Tragedy" width="1280" height="853" crossorigin="anonymous" />
                         <!-- End Featured Image -->
                         
 
@@ -374,8 +344,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_1956.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_1956.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_1956.jpg">
+            <img src="/assets/images/2015/01/IMG_1956.jpg" />
           </a>
           <div class="caption">
               <p>Detail of inlaid semi-precious stones</p>
@@ -385,8 +355,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_1977.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_1977.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_1977.jpg">
+            <img src="/assets/images/2015/01/IMG_1977.jpg" />
           </a>
           <div class="caption">
               <p>Taj Mahal minaret</p>
@@ -396,8 +366,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_1926.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_1926.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_1926.jpg">
+            <img src="/assets/images/2015/01/IMG_1926.jpg" />
           </a>
           <div class="caption">
               <p>The standard photo everyone has to have</p>
@@ -407,8 +377,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_1985.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_1985.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_1985.jpg">
+            <img src="/assets/images/2015/01/IMG_1985.jpg" />
           </a>
           <div class="caption">
               <p>My guide and I</p>
@@ -418,8 +388,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_1929.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_1929.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_1929.jpg">
+            <img src="/assets/images/2015/01/IMG_1929.jpg" />
           </a>
           <div class="caption">
               <p>The "Princess Diana" pose that everyone does</p>
@@ -429,8 +399,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_2084.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_2084.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_2084.jpg">
+            <img src="/assets/images/2015/01/IMG_2084.jpg" />
           </a>
           <div class="caption">
               <p></p>
@@ -440,8 +410,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_1980.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_1980.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_1980.jpg">
+            <img src="/assets/images/2015/01/IMG_1980.jpg" />
           </a>
           <div class="caption">
               <p>From the front terrace of the Taj Mahal</p>
@@ -451,8 +421,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_1904.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_1904.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_1904.jpg">
+            <img src="/assets/images/2015/01/IMG_1904.jpg" />
           </a>
           <div class="caption">
               <p>The central gate leading to the Taj Mahal</p>
@@ -462,8 +432,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_2049.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_2049.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_2049.jpg">
+            <img src="/assets/images/2015/01/IMG_2049.jpg" />
           </a>
           <div class="caption">
               <p></p>
@@ -473,8 +443,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_0300.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_0300.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_0300.jpg">
+            <img src="/assets/images/2015/01/IMG_0300.jpg" />
           </a>
           <div class="caption">
               <p>The Taj Mahal! Check!</p>
@@ -484,8 +454,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/01/IMG_2013.jpg">
-            <img src="http://localhost:4000/assets/images/2015/01/IMG_2013.jpg" />
+          <a class="lightbox" href="/assets/images/2015/01/IMG_2013.jpg">
+            <img src="/assets/images/2015/01/IMG_2013.jpg" />
           </a>
           <div class="caption">
               <p>The Taj Mahal is off in the distance</p>
@@ -495,8 +465,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/03/IMG_1999.jpg">
-            <img src="http://localhost:4000/assets/images/2015/03/IMG_1999.jpg" />
+          <a class="lightbox" href="/assets/images/2015/03/IMG_1999.jpg">
+            <img src="/assets/images/2015/03/IMG_1999.jpg" />
           </a>
           <div class="caption">
               <p>A "portable" bathtub.</p>
@@ -506,8 +476,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/03/IMG_2039.jpg">
-            <img src="http://localhost:4000/assets/images/2015/03/IMG_2039.jpg" />
+          <a class="lightbox" href="/assets/images/2015/03/IMG_2039.jpg">
+            <img src="/assets/images/2015/03/IMG_2039.jpg" />
           </a>
           <div class="caption">
               <p>Main gate of the Agra Fort</p>
@@ -517,8 +487,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/03/IMG_2033.jpg">
-            <img src="http://localhost:4000/assets/images/2015/03/IMG_2033.jpg" />
+          <a class="lightbox" href="/assets/images/2015/03/IMG_2033.jpg">
+            <img src="/assets/images/2015/03/IMG_2033.jpg" />
           </a>
           <div class="caption">
               <p>View of Taj Mahal from the Agra Fort</p>
@@ -528,8 +498,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/03/IMG_1988.jpg">
-            <img src="http://localhost:4000/assets/images/2015/03/IMG_1988.jpg" />
+          <a class="lightbox" href="/assets/images/2015/03/IMG_1988.jpg">
+            <img src="/assets/images/2015/03/IMG_1988.jpg" />
           </a>
           <div class="caption">
               <p>Crossing above the moat of the Agra Fort</p>
@@ -539,8 +509,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/03/IMG_2007.jpg">
-            <img src="http://localhost:4000/assets/images/2015/03/IMG_2007.jpg" />
+          <a class="lightbox" href="/assets/images/2015/03/IMG_2007.jpg">
+            <img src="/assets/images/2015/03/IMG_2007.jpg" />
           </a>
           <div class="caption">
               <p>Inner courtyard</p>
@@ -550,8 +520,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/03/IMG_2017.jpg">
-            <img src="http://localhost:4000/assets/images/2015/03/IMG_2017.jpg" />
+          <a class="lightbox" href="/assets/images/2015/03/IMG_2017.jpg">
+            <img src="/assets/images/2015/03/IMG_2017.jpg" />
           </a>
           <div class="caption">
               <p>Detail work inside the Agra Fort</p>
@@ -561,8 +531,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/03/IMG_1991.jpg">
-            <img src="http://localhost:4000/assets/images/2015/03/IMG_1991.jpg" />
+          <a class="lightbox" href="/assets/images/2015/03/IMG_1991.jpg">
+            <img src="/assets/images/2015/03/IMG_1991.jpg" />
           </a>
           <div class="caption">
               <p>Detail work inside the main gate</p>
@@ -572,8 +542,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2015/03/IMG_2038.jpg">
-            <img src="http://localhost:4000/assets/images/2015/03/IMG_2038.jpg" />
+          <a class="lightbox" href="/assets/images/2015/03/IMG_2038.jpg">
+            <img src="/assets/images/2015/03/IMG_2038.jpg" />
           </a>
           <div class="caption">
               <p>The pupils' court where the King hears his people's needs</p>
@@ -858,19 +828,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -936,14 +906,15 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
         <script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" ></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>

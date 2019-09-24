@@ -31,11 +31,10 @@
 {"description":"I was a child when I first visited the National Natural History Museum in Washington D.C. I’ve never been one for jewels, especially diamonds, but ever since my childhood, I’ve been captivated by the Hope Diamond, which is notorious for supposedly being cursed. The history and mystery of that stone is very interesting, and it’s origins are rather unknown, except that it was mined and originally housed just west of Hyderabad, India, at the once formidable Golconda Fort.","author":{"@type":"Person","name":"judsonlmoore"},"@type":"BlogPosting","url":"http://localhost:4000/golconda-fort/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2014/09/IMG_0326.jpg","headline":"Golconda Fort","dateModified":"2014-09-14T15:57:38+02:00","datePublished":"2014-09-14T15:57:38+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/golconda-fort/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -57,84 +56,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -233,8 +156,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -307,7 +277,7 @@
                             <div class="row post-top-meta">
                                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                     
-                                    <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore"  crossorigin="anonymous" />
+                                    <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                     
                                 </div>
                                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -330,7 +300,7 @@
 
                         
                         <!-- Post Featured Image -->
-                            <img src="http://localhost:4000/assets/images/2014/09/IMG_0326.jpg" class="d-block w-100" loading="auto"  alt="Golconda Fort" width="1280" height="853" crossorigin="anonymous" />
+                            <img src="http://localhost:4000/assets/images/2014/09/IMG_0326.jpg" class="img-fluid" loading="auto"  alt="Golconda Fort" width="1280" height="853" crossorigin="anonymous" />
                         <!-- End Featured Image -->
                         
 
@@ -354,8 +324,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0327.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0327.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0327.jpg">
+            <img src="/assets/images/2014/09/IMG_0327.jpg" />
           </a>
           <div class="caption">
               <p>Gardens of the Golconda</p>
@@ -365,8 +335,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0332.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0332.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0332.jpg">
+            <img src="/assets/images/2014/09/IMG_0332.jpg" />
           </a>
           <div class="caption">
               <p>Gardens of the Golconda</p>
@@ -376,8 +346,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0333.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0333.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0333.jpg">
+            <img src="/assets/images/2014/09/IMG_0333.jpg" />
           </a>
           <div class="caption">
               <p>Apartments</p>
@@ -387,8 +357,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0335.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0335.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0335.jpg">
+            <img src="/assets/images/2014/09/IMG_0335.jpg" />
           </a>
           <div class="caption">
               <p>Part of the inner wall</p>
@@ -398,8 +368,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0338.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0338.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0338.jpg">
+            <img src="/assets/images/2014/09/IMG_0338.jpg" />
           </a>
           <div class="caption">
               <p>The climb up</p>
@@ -409,8 +379,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0342.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0342.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0342.jpg">
+            <img src="/assets/images/2014/09/IMG_0342.jpg" />
           </a>
           <div class="caption">
               <p>Mid-way view</p>
@@ -420,8 +390,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0346.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0346.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0346.jpg">
+            <img src="/assets/images/2014/09/IMG_0346.jpg" />
           </a>
           <div class="caption">
               <p>The city below</p>
@@ -431,8 +401,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0347.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0347.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0347.jpg">
+            <img src="/assets/images/2014/09/IMG_0347.jpg" />
           </a>
           <div class="caption">
               <p>Hyderabad behind me</p>
@@ -442,8 +412,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0349.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0349.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0349.jpg">
+            <img src="/assets/images/2014/09/IMG_0349.jpg" />
           </a>
           <div class="caption">
               <p>The inner wall</p>
@@ -453,8 +423,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_0352.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_0352.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_0352.jpg">
+            <img src="/assets/images/2014/09/IMG_0352.jpg" />
           </a>
           <div class="caption">
               <p></p>
@@ -464,8 +434,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4441.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4441.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4441.jpg">
+            <img src="/assets/images/2014/09/IMG_4441.jpg" />
           </a>
           <div class="caption">
               <p>My Russian friend and I!</p>
@@ -475,8 +445,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4443.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4443.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4443.jpg">
+            <img src="/assets/images/2014/09/IMG_4443.jpg" />
           </a>
           <div class="caption">
               <p>What soldiers used for training. I could barely budget it.</p>
@@ -486,8 +456,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4445.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4445.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4445.jpg">
+            <img src="/assets/images/2014/09/IMG_4445.jpg" />
           </a>
           <div class="caption">
               <p>One of many abandoned corridors</p>
@@ -497,8 +467,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4448.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4448.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4448.jpg">
+            <img src="/assets/images/2014/09/IMG_4448.jpg" />
           </a>
           <div class="caption">
               <p>Halls of the armory.</p>
@@ -508,8 +478,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4450.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4450.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4450.jpg">
+            <img src="/assets/images/2014/09/IMG_4450.jpg" />
           </a>
           <div class="caption">
               <p>Halls of the armory</p>
@@ -519,8 +489,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4453.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4453.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4453.jpg">
+            <img src="/assets/images/2014/09/IMG_4453.jpg" />
           </a>
           <div class="caption">
               <p>Gardens of the Golconda</p>
@@ -530,8 +500,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4455.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4455.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4455.jpg">
+            <img src="/assets/images/2014/09/IMG_4455.jpg" />
           </a>
           <div class="caption">
               <p>Water reservoir</p>
@@ -541,8 +511,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4465.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4465.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4465.jpg">
+            <img src="/assets/images/2014/09/IMG_4465.jpg" />
           </a>
           <div class="caption">
               <p>Ascending to the top</p>
@@ -552,8 +522,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4466.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4466.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4466.jpg">
+            <img src="/assets/images/2014/09/IMG_4466.jpg" />
           </a>
           <div class="caption">
               <p>One of Golconda's temples</p>
@@ -563,8 +533,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4471.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4471.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4471.jpg">
+            <img src="/assets/images/2014/09/IMG_4471.jpg" />
           </a>
           <div class="caption">
               <p>One of Golconda's temples</p>
@@ -574,8 +544,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4477.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4477.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4477.jpg">
+            <img src="/assets/images/2014/09/IMG_4477.jpg" />
           </a>
           <div class="caption">
               <p>The fort and city below</p>
@@ -585,8 +555,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4481.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4481.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4481.jpg">
+            <img src="/assets/images/2014/09/IMG_4481.jpg" />
           </a>
           <div class="caption">
               <p>The fort below</p>
@@ -596,8 +566,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4486.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4486.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4486.jpg">
+            <img src="/assets/images/2014/09/IMG_4486.jpg" />
           </a>
           <div class="caption">
               <p>A mosque near the top of the fort</p>
@@ -607,8 +577,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4488.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4488.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4488.jpg">
+            <img src="/assets/images/2014/09/IMG_4488.jpg" />
           </a>
           <div class="caption">
               <p>A solar panel keeps security cameras powered</p>
@@ -618,8 +588,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4496.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4496.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4496.jpg">
+            <img src="/assets/images/2014/09/IMG_4496.jpg" />
           </a>
           <div class="caption">
               <p>Nearly to the top!</p>
@@ -629,8 +599,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4505.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4505.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4505.jpg">
+            <img src="/assets/images/2014/09/IMG_4505.jpg" />
           </a>
           <div class="caption">
               <p>Part of the princess' apartments</p>
@@ -640,8 +610,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4513.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4513.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4513.jpg">
+            <img src="/assets/images/2014/09/IMG_4513.jpg" />
           </a>
           <div class="caption">
               <p>400+ year old Baobab tree</p>
@@ -651,8 +621,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4517.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4517.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4517.jpg">
+            <img src="/assets/images/2014/09/IMG_4517.jpg" />
           </a>
           <div class="caption">
               <p>400+ year old Baobab tree</p>
@@ -662,8 +632,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4521.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4521.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4521.jpg">
+            <img src="/assets/images/2014/09/IMG_4521.jpg" />
           </a>
           <div class="caption">
               <p>400+ year old Baobab tree</p>
@@ -673,8 +643,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2014/09/IMG_4523.jpg">
-            <img src="http://localhost:4000/assets/images/2014/09/IMG_4523.jpg" />
+          <a class="lightbox" href="/assets/images/2014/09/IMG_4523.jpg">
+            <img src="/assets/images/2014/09/IMG_4523.jpg" />
           </a>
           <div class="caption">
               <p>400+ year old Baobab tree</p>
@@ -958,19 +928,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -1036,14 +1006,15 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
         <script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" ></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>

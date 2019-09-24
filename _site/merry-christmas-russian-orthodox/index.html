@@ -31,11 +31,10 @@
 {"description":"January 7th is the date of Orthodox Christmas. For a long and detailed explanation of why this differs from the western-celebrated December 25th Christmas you can refer to this article on Wikipedia. My friend Dimity instructed me to the time and place where the Orthodox observance of Christmas could be witnessed in Bishkek and I wrangled up about 15 other foreign friends and we went to the Bishkek Orthodox Cathedral together at 8pm to take it all in.","author":{"@type":"Person","name":"judsonlmoore"},"@type":"BlogPosting","url":"http://localhost:4000/merry-christmas-russian-orthodox/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2013/01/BishkeksOrthodoxCathedral_010.jpg","headline":"Merry Christmas (Russian Orthodox)","dateModified":"2013-01-07T19:56:11+01:00","datePublished":"2013-01-07T19:56:11+01:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/merry-christmas-russian-orthodox/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -57,84 +56,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -233,8 +156,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -307,7 +277,7 @@
                             <div class="row post-top-meta">
                                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                     
-                                    <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore"  crossorigin="anonymous" />
+                                    <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                     
                                 </div>
                                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -330,7 +300,7 @@
 
                         
                         <!-- Post Featured Image -->
-                            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_010.jpg" class="d-block w-100" loading="auto"  alt="Merry Christmas (Russian Orthodox)" width="858" height="615" crossorigin="anonymous" />
+                            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_010.jpg" class="img-fluid" loading="auto"  alt="Merry Christmas (Russian Orthodox)" width="858" height="615" crossorigin="anonymous" />
                         <!-- End Featured Image -->
                         
 
@@ -360,8 +330,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_003.jpeg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_003.jpeg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_003.jpeg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_003.jpeg" />
           </a>
           <div class="caption">
               <p></p>
@@ -371,8 +341,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_004.jpeg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_004.jpeg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_004.jpeg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_004.jpeg" />
           </a>
           <div class="caption">
               <p></p>
@@ -382,8 +352,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_005.jpeg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_005.jpeg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_005.jpeg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_005.jpeg" />
           </a>
           <div class="caption">
               <p></p>
@@ -393,8 +363,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_006.jpeg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_006.jpeg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_006.jpeg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_006.jpeg" />
           </a>
           <div class="caption">
               <p></p>
@@ -404,8 +374,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_002.jpeg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_002.jpeg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_002.jpeg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_002.jpeg" />
           </a>
           <div class="caption">
               <p></p>
@@ -415,8 +385,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_001.jpeg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_001.jpeg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_001.jpeg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_001.jpeg" />
           </a>
           <div class="caption">
               <p></p>
@@ -426,8 +396,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_009-e1357541585466.jpg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_009-e1357541585466.jpg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_009-e1357541585466.jpg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_009-e1357541585466.jpg" />
           </a>
           <div class="caption">
               <p>Lighting of prayer candles</p>
@@ -437,8 +407,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_008.jpg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_008.jpg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_008.jpg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_008.jpg" />
           </a>
           <div class="caption">
               <p>During the Orthodox Christmas midnight mass ceremony</p>
@@ -448,8 +418,8 @@
     
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_010.jpeg">
-            <img src="http://localhost:4000/assets/images/2013/01/BishkeksOrthodoxCathedral_010.jpeg" />
+          <a class="lightbox" href="/assets/images/2013/01/BishkeksOrthodoxCathedral_010.jpeg">
+            <img src="/assets/images/2013/01/BishkeksOrthodoxCathedral_010.jpeg" />
           </a>
           <div class="caption">
               <p>People light fireworks near a church as they celebrate the Orthodox Christmas in Bishkek on January 6, 2012. Orthodox Christians celebrate Christmas on January 7 in the Middle East, Russia and other Orthodox churches that use the old Julian calendar instead of the 16th-century Gregorian calendar adopted by Catholics, Protestants, Greek Orthodox and commonly used in secular life around the world.</p>
@@ -742,19 +712,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -820,14 +790,15 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
         <script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" ></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>

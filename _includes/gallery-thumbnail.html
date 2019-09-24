@@ -4,8 +4,8 @@
         {% for image in include.images %}
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="{{ site.url }}{{ site.image-path }}{{ image.url }}">
-                    {% cloudinary {{ site.url }}{{ site.image-path }}{{ image.url }} alt="{{ image.alt }}" %}
+                <a class="lightbox" href="{{ site.baseurl }}{{ site.image-path }}{{ image.url }}">
+                    {% cloudinary {{ site.baseurl }}{{ site.image-path }}{{ image.url }} alt="{{ image.alt }}" %}
                 </a>
                 <div class="caption">
                     <h3>{{ image.title }}</h3>

@@ -33,7 +33,7 @@ post_class: post-template
                             <div class="row post-top-meta">
                                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                     {% if author.avatar %}
-                                    {% cloudinary author-thumb {{ site.baseurl }}{{ author.avatar }} alt="{{ author.display_name }}" %}
+                                    {% cloudinary author-thumb {{ site.baseurl }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.display_name }}" %}
                                     {% endif %}
                                 </div>
                                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -58,7 +58,7 @@ post_class: post-template
 
                         {% if page.image %}
                         <!-- Post Featured Image -->
-                            {% cloudinary featured {{ site.url }}{{ site.image-path }}{{ page.image }} alt="{{ page.title }}" %}
+                            {% cloudinary featured {{ site.baseurl }}{{ site.image-path }}{{ page.image }} alt="{{ page.title }}" %}
                         <!-- End Featured Image -->
                         {% endif %}
 

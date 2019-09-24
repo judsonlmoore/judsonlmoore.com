@@ -28,11 +28,10 @@
 {"name":"Judson L Moore","description":"Author and travel addict","author":{"@type":"Person","name":"judsonlmoore"},"@type":"WebSite","url":"http://localhost:4000/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"headline":"Home","sameAs":["https://twitter.com/judsonlmoore","https://www.facebook.com/judsonlmooreblog","https://www.linkedin.com/in/judsonlmoore","https://github.com/judsonlmoore","https://www.instagram.com/judsonlmoore"],"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -54,84 +53,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -230,8 +153,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -253,14 +223,912 @@
 
         <!-- Heading Row -->
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
-            
+          <div class="col-lg-8 p-3">
+            <style type="text/css">
+    img.d-block {
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+        object-position: center;
+    }
+</style>
+
+
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        
+        
+        
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        
+        
+        
+        
+        
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        
+        
+        
+        
+        
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        
+        
+        
+        
+        
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </ol>
+
+    <div class="carousel-inner">
+
+        
+        
+        
+
+        <div class="carousel-item active">
+        
+            <a href="/working-abroad-tips/">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Tips for how to successfully find work abroad as an American</h5>
+                    <!-- <p>People have been asking me a lot lately for tips for how to find a job in Germany. Now that I have been working in...</p> -->
+                </div>
+                <img src="http://localhost:4000/assets/images/2018/11/working-abroad-tips-featured-image.jpg" class="img-fluid" loading="auto"  alt="Tips for how to successfully find work abroad as an American" width="2048" height="1365" crossorigin="anonymous" />
+            </a>
+        </div>
+        
+        
+        
+        
+        <div class="carousel-item">
+        
+            <a href="/petra-jordan-destination-guide/">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>The Lost City of Petra is More Amazing Than I Ever Imagined</h5>
+                    <!-- <p>Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye....</p> -->
+                </div>
+                <img src="http://localhost:4000/assets/images/2018/05/petra-jordan-al-khazneh-treasury.jpg" class="img-fluid" loading="auto"  alt="The Lost City of Petra is More Amazing Than I Ever Imagined" width="1800" height="1200" crossorigin="anonymous" />
+            </a>
+        </div>
+        
+        
+        
+        
+        <div class="carousel-item">
+        
+            <a href="/wadi-rum-jordan-destination-guide/">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Mars on Earth - The Wadi Rum Desert in Jordan</h5>
+                    <!-- <p>Wadi Rum is a majestic out of this world landscape in the south of Jordan. Learn about the jeep tours, camel safaris, ancient human origins...</p> -->
+                </div>
+                <img src="http://localhost:4000/assets/images/2018/05/wadi-rum-jordan-jumping-in-the-desert.jpg" class="img-fluid" loading="auto"  alt="Mars on Earth - The Wadi Rum Desert in Jordan" width="1800" height="1200" crossorigin="anonymous" />
+            </a>
+        </div>
+        
+        
+        
+        
+        <div class="carousel-item">
+        
+            <a href="/trivagovibe-summer-2018/">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>DRUMSON performs live at the trivagoVibe</h5>
+                    <!-- <p>I was honored with the opportunity to headline the bi-annual trivagoVibe this summer.</p> -->
+                </div>
+                <img src="http://localhost:4000/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg" class="img-fluid" loading="auto"  alt="DRUMSON performs live at the trivagoVibe" width="2048" height="1536" crossorigin="anonymous" />
+            </a>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+    </div>
+<!-- 
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+ -->
+
+</div>
           </div>
           <!-- /.col-lg-8 -->
-          <div class="col-lg-5">
-            <h1 class="font-weight-light">Business Name or Tagline</h1>
-            <p></p>
-            <a class="btn btn-primary" href="#">Call to Action!</a>
+          <div class="col-lg-4 p-3">
             <script>
 // instafeed.js
 // Generated by CoffeeScript 1.9.3
@@ -275,7 +1143,7 @@
     var feed = new Instafeed({
         get: 'user',
         userId: '211587932',
-        limit: '25',
+        limit: '30',
         sortBy: 'most-recent',
         resolution: 'standard_resolution',
         accessToken: '211587932.d98d7d6.86f45ebe22df4150a00d7c7827b9b934',
@@ -290,6 +1158,11 @@
     #instafeed a img {width: 100%;}
 </style>
 <p id="instafeed"></p>
+            <!--Instagram-->
+            <a href="https://www.instagram.com/judsonlmoore" target="_blank" type="button" class="btn btn-ins">
+                <i class="fab fa-instagram pr-1"></i>
+                <span>Instagram</span>
+            </a>
           </div>
           <!-- /.col-md-4 -->
         </div>
@@ -337,7 +1210,7 @@
                                 
                                 <span class="meta-footer-thumb">
                                 
-                                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                 
                                 </span>
                                 <span class="author-meta">
@@ -393,7 +1266,7 @@
                                 
                                 <span class="meta-footer-thumb">
                                 
-                                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                 
                                 </span>
                                 <span class="author-meta">
@@ -449,7 +1322,7 @@
                                 
                                 <span class="meta-footer-thumb">
                                 
-                                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                 
                                 </span>
                                 <span class="author-meta">
@@ -505,7 +1378,7 @@
                                 
                                 <span class="meta-footer-thumb">
                                 
-                                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                 
                                 </span>
                                 <span class="author-meta">
@@ -1327,7 +2200,7 @@
           <div class="card-body">
             <div class="row">
                 <div class="col-lg-2">
-                    <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="fluid d-block"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                    <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="img-fluid" loading="auto"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                 </div>
                 <div class="col-lg-10">
                     <p class="lead text-white"><span class="align-middle"><strong>Do you want to <em>experience</em> the world?</strong> I encourage you to get an <u>early</u> start at living a full and adventurous life by providing tips for living your "what if" <strong>#WhileYoung</strong>.</span></p>
@@ -1358,7 +2231,7 @@
         <div class="maxthumb">
             <a href="/without-a-path-podcast/">
                 
-                    <img src="http://localhost:4000/assets/images/2018/02/without-a-path-judson-in-kyrgyzstan.jpg" class="img-fluid"  alt="The Without a Path Podcast asked me to share travel advice in Kyrgyzstan" width="1920" height="1080" crossorigin="anonymous" />
+                    <img src="http://localhost:4000/assets/images/2018/02/without-a-path-judson-in-kyrgyzstan.jpg" class="img-fluid" loading="auto"  alt="The Without a Path Podcast asked me to share travel advice in Kyrgyzstan" width="1920" height="1080" crossorigin="anonymous" />
                 
             </a>
         </div>
@@ -1374,7 +2247,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                 
                 </span>
                 <span class="author-meta">
@@ -1400,7 +2273,7 @@
         <div class="maxthumb">
             <a href="/edinburgh-castle-walking-tour/">
                 
-                    <img src="http://localhost:4000/assets/images/2018/01/castle-walking-tour-edinburgh-new-gatehouse-judson.jpg" class="img-fluid"  alt="Edinburgh Castle Walking Tour" width="1800" height="1200" crossorigin="anonymous" />
+                    <img src="http://localhost:4000/assets/images/2018/01/castle-walking-tour-edinburgh-new-gatehouse-judson.jpg" class="img-fluid" loading="auto"  alt="Edinburgh Castle Walking Tour" width="1800" height="1200" crossorigin="anonymous" />
                 
             </a>
         </div>
@@ -1416,7 +2289,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                 
                 </span>
                 <span class="author-meta">
@@ -1442,7 +2315,7 @@
         <div class="maxthumb">
             <a href="/edinburgh-free-walking-tour/">
                 
-                    <img src="http://localhost:4000/assets/images/2018/01/free-walking-tour-edinburgh-skyline.jpg" class="img-fluid"  alt="Edinburgh Free Walking Tour" width="2304" height="1536" crossorigin="anonymous" />
+                    <img src="http://localhost:4000/assets/images/2018/01/free-walking-tour-edinburgh-skyline.jpg" class="img-fluid" loading="auto"  alt="Edinburgh Free Walking Tour" width="2304" height="1536" crossorigin="anonymous" />
                 
             </a>
         </div>
@@ -1458,7 +2331,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                 
                 </span>
                 <span class="author-meta">
@@ -1484,7 +2357,7 @@
         <div class="maxthumb">
             <a href="/dublin-weekend-itinerary/">
                 
-                    <img src="http://localhost:4000/assets/images/2018/01/dublin-weekend-itenerary-river-liffey-min.jpg" class="img-fluid"  alt="Things to Do in Dublin - A 3-day Weekend Itinerary" width="1600" height="1067" crossorigin="anonymous" />
+                    <img src="http://localhost:4000/assets/images/2018/01/dublin-weekend-itenerary-river-liffey-min.jpg" class="img-fluid" loading="auto"  alt="Things to Do in Dublin - A 3-day Weekend Itinerary" width="1600" height="1067" crossorigin="anonymous" />
                 
             </a>
         </div>
@@ -1500,7 +2373,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                 
                 </span>
                 <span class="author-meta">
@@ -1526,7 +2399,7 @@
         <div class="maxthumb">
             <a href="/guinness-storehouse-dublin/">
                 
-                    <img src="http://localhost:4000/assets/images/2018/01/guinness-storehouse-dublin-main-gate-jumping.jpg" class="img-fluid"  alt="Visiting the Guinness Storehouse in Dublin" width="2304" height="1536" crossorigin="anonymous" />
+                    <img src="http://localhost:4000/assets/images/2018/01/guinness-storehouse-dublin-main-gate-jumping.jpg" class="img-fluid" loading="auto"  alt="Visiting the Guinness Storehouse in Dublin" width="2304" height="1536" crossorigin="anonymous" />
                 
             </a>
         </div>
@@ -1542,7 +2415,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                 
                 </span>
                 <span class="author-meta">
@@ -1568,7 +2441,7 @@
         <div class="maxthumb">
             <a href="/jameson-distillery-tour-dublin/">
                 
-                    <img src="http://localhost:4000/assets/images/2018/01/jameson-distillery-bow-st-dublin-sign.jpg" class="img-fluid"  alt="Jameson distillery tour and whiskey tasting experience in Dublin" width="2304" height="1536" crossorigin="anonymous" />
+                    <img src="http://localhost:4000/assets/images/2018/01/jameson-distillery-bow-st-dublin-sign.jpg" class="img-fluid" loading="auto"  alt="Jameson distillery tour and whiskey tasting experience in Dublin" width="2304" height="1536" crossorigin="anonymous" />
                 
             </a>
         </div>
@@ -1584,7 +2457,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
+                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                 
                 </span>
                 <span class="author-meta">
@@ -1791,19 +2664,19 @@
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -1869,12 +2742,13 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>

@@ -4,8 +4,8 @@
     {% for image in include.images %}
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-          <a class="lightbox" href="{{ site.url }}{{ site.image-path }}{{ image.url }}">
-            <img src="{{ site.url }}{{ site.image-path }}{{ image.url }}">
+          <a class="lightbox" href="{{ site.baseurl }}{{ site.image-path }}{{ image.url }}">
+            <img src="{{ site.baseurl }}{{ site.image-path }}{{ image.url }}">
           </a>
           <div class="caption">
               <p>{{ image.caption }}</p>

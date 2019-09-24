@@ -6,7 +6,7 @@
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.image %}
-                    {% cloudinary img-fluid {{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+                    {% cloudinary {{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
                 {% endif %}
             </a>
         </div>
@@ -26,7 +26,7 @@
                 {% if post.author %}
                 <span class="meta-footer-thumb">
                 {% if author.avatar %}
-                {% cloudinary author-thumb {{ site.baseurl }}{{ author.avatar }} alt="{{ author.display_name }}" %}
+                {% cloudinary author-thumb {{ site.baseurl }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.display_name }}" %}
                 {% endif %}
                 </span>
                 <span class="author-meta">

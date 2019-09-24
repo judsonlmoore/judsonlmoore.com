@@ -31,11 +31,10 @@
 {"description":"Here are a number of posters from concerts that I was the promoter / production rep for back in my music career days. I worked with TCB Concerts (now Green Machine Concerts) for nearly 2 years.","author":{"@type":"Person","name":"judsonlmoore"},"@type":"BlogPosting","url":"http://localhost:4000/concert-posters/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2009/11/2007.09.06_ZZ_Top-160.jpg","headline":"Concert Posters","dateModified":"2009-11-01T20:44:51+01:00","datePublished":"2009-11-01T20:44:51+01:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/concert-posters/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -57,84 +56,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -233,8 +156,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -307,7 +277,7 @@
                             <div class="row post-top-meta">
                                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                     
-                                    <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore"  crossorigin="anonymous" />
+                                    <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                     
                                 </div>
                                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -330,7 +300,7 @@
 
                         
                         <!-- Post Featured Image -->
-                            <img src="http://localhost:4000/assets/images/2009/11/2007.09.06_ZZ_Top-160.jpg" class="d-block w-100" loading="auto"  alt="Concert Posters" width="1280" height="720" crossorigin="anonymous" />
+                            <img src="http://localhost:4000/assets/images/2009/11/2007.09.06_ZZ_Top-160.jpg" class="img-fluid" loading="auto"  alt="Concert Posters" width="1280" height="720" crossorigin="anonymous" />
                         <!-- End Featured Image -->
                         
 
@@ -348,8 +318,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.11.10_OAR_in_F230083.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.11.10_OAR_in_F230083.jpg" class="d-block w-100" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.11.10_OAR_in_F230083.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.11.10_OAR_in_F230083.jpg" class="img-fluid" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -360,8 +330,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.10.19_RebelFest.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.10.19_RebelFest.jpg" class="d-block w-100" loading="auto" alt="" width="187" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.10.19_RebelFest.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.10.19_RebelFest.jpg" class="img-fluid" loading="auto" alt="" width="187" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -372,8 +342,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.10.18_Staind_i230081.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.10.18_Staind_i230081.jpg" class="d-block w-100" loading="auto" alt="" width="175" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.10.18_Staind_i230081.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.10.18_Staind_i230081.jpg" class="img-fluid" loading="auto" alt="" width="175" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -384,8 +354,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.29_The_Raco230080.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.29_The_Raco230080.jpg" class="d-block w-100" loading="auto" alt="" width="163" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.09.29_The_Raco230080.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.29_The_Raco230080.jpg" class="img-fluid" loading="auto" alt="" width="163" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -396,8 +366,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.28_Buckcher230079.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.28_Buckcher230079.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.09.28_Buckcher230079.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.28_Buckcher230079.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -408,8 +378,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.16_Seether_230078.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.16_Seether_230078.jpg" class="d-block w-100" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.09.16_Seether_230078.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.16_Seether_230078.jpg" class="img-fluid" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -420,8 +390,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.12_jason_al230077.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.12_jason_al230077.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.09.12_jason_al230077.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.12_jason_al230077.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -432,8 +402,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.09.11_yallapal230076.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.11_yallapal230076.jpg" class="d-block w-100" loading="auto" alt="" width="163" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.09.11_yallapal230076.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.09.11_yallapal230076.jpg" class="img-fluid" loading="auto" alt="" width="163" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -444,8 +414,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.08.15_Snowden_230075.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.08.15_Snowden_230075.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.08.15_Snowden_230075.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.08.15_Snowden_230075.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -456,8 +426,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.07.03_Q1075_Re230074.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.07.03_Q1075_Re230074.jpg" class="d-block w-100" loading="auto" alt="" width="168" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.07.03_Q1075_Re230074.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.07.03_Q1075_Re230074.jpg" class="img-fluid" loading="auto" alt="" width="168" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -468,8 +438,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.06.20_Taylor_S230073.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.20_Taylor_S230073.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.06.20_Taylor_S230073.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.20_Taylor_S230073.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -480,8 +450,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.06.13-14_JJam.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.13-14_JJam.jpg" class="d-block w-100" loading="auto" alt="" width="165" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.06.13-14_JJam.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.13-14_JJam.jpg" class="img-fluid" loading="auto" alt="" width="165" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -492,8 +462,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.06.10_Indigo_G230071.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.10_Indigo_G230071.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.06.10_Indigo_G230071.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.10_Indigo_G230071.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -504,8 +474,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.06.06_Rowdy_Fr230070.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.06_Rowdy_Fr230070.jpg" class="d-block w-100" loading="auto" alt="" width="180" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.06.06_Rowdy_Fr230070.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.06.06_Rowdy_Fr230070.jpg" class="img-fluid" loading="auto" alt="" width="180" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -516,8 +486,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.05.30_ZZ_Top_i230069.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.05.30_ZZ_Top_i230069.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.05.30_ZZ_Top_i230069.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.05.30_ZZ_Top_i230069.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -528,8 +498,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.25_Southave230068.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.25_Southave230068.jpg" class="d-block w-100" loading="auto" alt="" width="187" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.04.25_Southave230068.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.25_Southave230068.jpg" class="img-fluid" loading="auto" alt="" width="187" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -540,8 +510,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230067.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230067.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.04.23_Sevendus230067.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230067.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -552,8 +522,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230066.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230066.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.04.23_Sevendus230066.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.23_Sevendus230066.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -564,8 +534,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.17_Panic_at230065.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.17_Panic_at230065.jpg" class="d-block w-100" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.04.17_Panic_at230065.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.17_Panic_at230065.jpg" class="img-fluid" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -576,8 +546,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.12_Speakeas230064.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.12_Speakeas230064.jpg" class="d-block w-100" loading="auto" alt="" width="163" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.04.12_Speakeas230064.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.12_Speakeas230064.jpg" class="img-fluid" loading="auto" alt="" width="163" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -588,8 +558,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.03_Dierks_B230063.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.03_Dierks_B230063.jpg" class="d-block w-100" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.04.03_Dierks_B230063.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.03_Dierks_B230063.jpg" class="img-fluid" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -600,8 +570,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.04.03_Big_Spri230062.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.03_Big_Spri230062.jpg" class="d-block w-100" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.04.03_Big_Spri230062.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.04.03_Big_Spri230062.jpg" class="img-fluid" loading="auto" alt="" width="159" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -612,8 +582,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230061.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230061.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.03.24_The_Brav230061.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230061.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -624,8 +594,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230060.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230060.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.03.24_The_Brav230060.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.24_The_Brav230060.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -636,8 +606,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.20_12_Stones.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.20_12_Stones.jpg" class="d-block w-100" loading="auto" alt="" width="250" height="187" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.03.20_12_Stones.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.20_12_Stones.jpg" class="img-fluid" loading="auto" alt="" width="250" height="187" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -648,8 +618,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.19_Three_Da230057.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.19_Three_Da230057.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.03.19_Three_Da230057.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.19_Three_Da230057.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -660,8 +630,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.19_Cross_Ca230056.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.19_Cross_Ca230056.jpg" class="d-block w-100" loading="auto" alt="" width="204" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.03.19_Cross_Ca230056.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.19_Cross_Ca230056.jpg" class="img-fluid" loading="auto" alt="" width="204" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -672,8 +642,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.03.08_Three_Da230055.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.08_Three_Da230055.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.03.08_Three_Da230055.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.03.08_Three_Da230055.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -684,8 +654,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.02.29_Jason_Al230054.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.02.29_Jason_Al230054.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.02.29_Jason_Al230054.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.02.29_Jason_Al230054.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -696,8 +666,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.02.28_Jason_Al230053.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.02.28_Jason_Al230053.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.02.28_Jason_Al230053.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.02.28_Jason_Al230053.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -708,8 +678,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.31_Indigo_G230052.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.31_Indigo_G230052.jpg" class="d-block w-100" loading="auto" alt="" width="230" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.01.31_Indigo_G230052.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.31_Indigo_G230052.jpg" class="img-fluid" loading="auto" alt="" width="230" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -720,8 +690,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.29_Indigo_G230051.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.29_Indigo_G230051.jpg" class="d-block w-100" loading="auto" alt="" width="230" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.01.29_Indigo_G230051.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.29_Indigo_G230051.jpg" class="img-fluid" loading="auto" alt="" width="230" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -732,8 +702,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.28_Foo_Figh230050.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.28_Foo_Figh230050.jpg" class="d-block w-100" loading="auto" alt="" width="185" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.01.28_Foo_Figh230050.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.28_Foo_Figh230050.jpg" class="img-fluid" loading="auto" alt="" width="185" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -744,8 +714,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.26_Speakeas230049.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.26_Speakeas230049.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.01.26_Speakeas230049.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.26_Speakeas230049.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -756,8 +726,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.20_Grace_Po230048.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.20_Grace_Po230048.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.01.20_Grace_Po230048.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.20_Grace_Po230048.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -768,8 +738,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.18_Yo_La_Te230047.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.18_Yo_La_Te230047.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.01.18_Yo_La_Te230047.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.18_Yo_La_Te230047.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -780,8 +750,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2008.01.12_The_Whig230046.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.12_The_Whig230046.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2008.01.12_The_Whig230046.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2008.01.12_The_Whig230046.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -792,8 +762,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.31_Lucero_i230045.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.31_Lucero_i230045.jpg" class="d-block w-100" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.12.31_Lucero_i230045.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.31_Lucero_i230045.jpg" class="img-fluid" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -804,8 +774,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.13_Eric_Chu230044.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.13_Eric_Chu230044.jpg" class="d-block w-100" loading="auto" alt="" width="163" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.12.13_Eric_Chu230044.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.13_Eric_Chu230044.jpg" class="img-fluid" loading="auto" alt="" width="163" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -816,8 +786,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.10_Blind_Me230043.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.10_Blind_Me230043.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.12.10_Blind_Me230043.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.10_Blind_Me230043.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -828,8 +798,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.05_Dinosaur230042.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.05_Dinosaur230042.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.12.05_Dinosaur230042.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.05_Dinosaur230042.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -840,8 +810,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.12.02_Three_Da230041.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.02_Three_Da230041.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.12.02_Three_Da230041.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.12.02_Three_Da230041.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -852,8 +822,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.27_Emerson_230040.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.27_Emerson_230040.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.11.27_Emerson_230040.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.27_Emerson_230040.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -864,8 +834,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.17_Speakeas230038.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.17_Speakeas230038.jpg" class="d-block w-100" loading="auto" alt="" width="166" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.11.17_Speakeas230038.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.17_Speakeas230038.jpg" class="img-fluid" loading="auto" alt="" width="166" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -876,8 +846,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.06_Three_Da230037.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.06_Three_Da230037.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.11.06_Three_Da230037.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.06_Three_Da230037.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -888,8 +858,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.06_Bright_E230036.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.06_Bright_E230036.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.11.06_Bright_E230036.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.06_Bright_E230036.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -900,8 +870,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.04_Three_Da230035.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_Three_Da230035.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.11.04_Three_Da230035.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_Three_Da230035.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -912,8 +882,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.04_They_Mig230034.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_They_Mig230034.jpg" class="d-block w-100" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.11.04_They_Mig230034.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_They_Mig230034.jpg" class="img-fluid" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -924,8 +894,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.11.04_Evans_Bl230033.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_Evans_Bl230033.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.11.04_Evans_Bl230033.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.11.04_Evans_Bl230033.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -936,8 +906,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.24_Govt_Mul230032.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.24_Govt_Mul230032.jpg" class="d-block w-100" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.10.24_Govt_Mul230032.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.24_Govt_Mul230032.jpg" class="img-fluid" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -948,8 +918,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.15_Ben_Kweller.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.15_Ben_Kweller.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.10.15_Ben_Kweller.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.15_Ben_Kweller.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -960,8 +930,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.09_Velvet_R230030.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.09_Velvet_R230030.jpg" class="d-block w-100" loading="auto" alt="" width="192" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.10.09_Velvet_R230030.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.09_Velvet_R230030.jpg" class="img-fluid" loading="auto" alt="" width="192" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -972,8 +942,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.06_Robert_R230029.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.06_Robert_R230029.jpg" class="d-block w-100" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.10.06_Robert_R230029.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.06_Robert_R230029.jpg" class="img-fluid" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -984,8 +954,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.06_Mickey_A230028.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.06_Mickey_A230028.jpg" class="d-block w-100" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.10.06_Mickey_A230028.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.06_Mickey_A230028.jpg" class="img-fluid" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -996,8 +966,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.05_ZZ_Top_i230027.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.05_ZZ_Top_i230027.jpg" class="d-block w-100" loading="auto" alt="" width="160" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.10.05_ZZ_Top_i230027.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.05_ZZ_Top_i230027.jpg" class="img-fluid" loading="auto" alt="" width="160" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1008,8 +978,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.05_Alter_Br230026.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.05_Alter_Br230026.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.10.05_Alter_Br230026.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.05_Alter_Br230026.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1020,8 +990,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.10.04_Jason_Al230025.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.04_Jason_Al230025.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.10.04_Jason_Al230025.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.10.04_Jason_Al230025.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1032,8 +1002,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.30_Live_and230024.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.30_Live_and230024.jpg" class="d-block w-100" loading="auto" alt="" width="197" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.30_Live_and230024.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.30_Live_and230024.jpg" class="img-fluid" loading="auto" alt="" width="197" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1044,8 +1014,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.25_Puddle_o230023.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.25_Puddle_o230023.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.25_Puddle_o230023.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.25_Puddle_o230023.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1056,8 +1026,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.20_Afroman_230022.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.20_Afroman_230022.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.20_Afroman_230022.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.20_Afroman_230022.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1068,8 +1038,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.18_Wilco_in230021.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.18_Wilco_in230021.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.18_Wilco_in230021.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.18_Wilco_in230021.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1080,8 +1050,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.18_The_Sea_230020.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.18_The_Sea_230020.jpg" class="d-block w-100" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.18_The_Sea_230020.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.18_The_Sea_230020.jpg" class="img-fluid" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1092,8 +1062,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.14_Pnuma_Tr230019.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.14_Pnuma_Tr230019.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.14_Pnuma_Tr230019.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.14_Pnuma_Tr230019.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1104,8 +1074,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.13_Wilco_in230018.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.13_Wilco_in230018.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.13_Wilco_in230018.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.13_Wilco_in230018.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1116,8 +1086,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.12_LouisXIV230017.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.12_LouisXIV230017.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.12_LouisXIV230017.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.12_LouisXIV230017.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1128,8 +1098,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.09.06_ZZ_Top_i230016.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.06_ZZ_Top_i230016.jpg" class="d-block w-100" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.09.06_ZZ_Top_i230016.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.09.06_ZZ_Top_i230016.jpg" class="img-fluid" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1140,8 +1110,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.08.23_Ben_Kwel230015.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.23_Ben_Kwel230015.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.08.23_Ben_Kwel230015.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.23_Ben_Kwel230015.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1152,8 +1122,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.08.06_Daughtry230014.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.06_Daughtry230014.jpg" class="d-block w-100" loading="auto" alt="" width="143" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.08.06_Daughtry230014.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.06_Daughtry230014.jpg" class="img-fluid" loading="auto" alt="" width="143" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1164,8 +1134,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.08.02_Daughtry230013.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.02_Daughtry230013.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.08.02_Daughtry230013.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.08.02_Daughtry230013.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1176,8 +1146,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.31_The_Whit230012.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.31_The_Whit230012.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.07.31_The_Whit230012.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.31_The_Whit230012.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1188,8 +1158,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.22_Taylor_H230011.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.22_Taylor_H230011.jpg" class="d-block w-100" loading="auto" alt="" width="203" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.07.22_Taylor_H230011.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.22_Taylor_H230011.jpg" class="img-fluid" loading="auto" alt="" width="203" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1200,8 +1170,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.12_Ryan_Ada230010.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.12_Ryan_Ada230010.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.07.12_Ryan_Ada230010.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.12_Ryan_Ada230010.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1212,8 +1182,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.11_Poison_i230009.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.11_Poison_i230009.jpg" class="d-block w-100" loading="auto" alt="" width="193" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.07.11_Poison_i230009.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.11_Poison_i230009.jpg" class="img-fluid" loading="auto" alt="" width="193" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1224,8 +1194,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.11_12_Stones.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.11_12_Stones.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.07.11_12_Stones.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.11_12_Stones.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1236,8 +1206,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.07.06_Trace_Ad230007.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.06_Trace_Ad230007.jpg" class="d-block w-100" loading="auto" alt="" width="193" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.07.06_Trace_Ad230007.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.07.06_Trace_Ad230007.jpg" class="img-fluid" loading="auto" alt="" width="193" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1248,8 +1218,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.27_Black_St230006.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.27_Black_St230006.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.06.27_Black_St230006.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.27_Black_St230006.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1260,8 +1230,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.22_STAX_-50230005.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.22_STAX_-50230005.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.06.22_STAX_-50230005.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.22_STAX_-50230005.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1272,8 +1242,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.15_Jubilee_230004.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.15_Jubilee_230004.jpg" class="d-block w-100" loading="auto" alt="" width="189" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.06.15_Jubilee_230004.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.15_Jubilee_230004.jpg" class="img-fluid" loading="auto" alt="" width="189" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1284,8 +1254,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.13_Tea_Leaf230003.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.13_Tea_Leaf230003.jpg" class="d-block w-100" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.06.13_Tea_Leaf230003.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.13_Tea_Leaf230003.jpg" class="img-fluid" loading="auto" alt="" width="162" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1296,8 +1266,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.08_Outforma230002.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.08_Outforma230002.jpg" class="d-block w-100" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.06.08_Outforma230002.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.08_Outforma230002.jpg" class="img-fluid" loading="auto" alt="" width="161" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1308,8 +1278,8 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <a class="lightbox" href="http://localhost:4000/assets/images/2014/06/2007.06.05_Three_Da230001.jpg" alt="">
-                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.05_Three_Da230001.jpg" class="d-block w-100" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
+                <a class="lightbox" href="/assets/images/2014/06/2007.06.05_Three_Da230001.jpg" alt="">
+                    <img src="http://localhost:4000/assets/images/2014/06/2007.06.05_Three_Da230001.jpg" class="img-fluid" loading="auto" alt="" width="178" height="250" crossorigin="anonymous" />
                 </a>
                 <div class="caption">
                     <h3></h3>
@@ -1582,19 +1552,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -1660,14 +1630,15 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
         <script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" ></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>

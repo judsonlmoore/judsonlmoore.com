@@ -31,11 +31,10 @@
 {"description":"Happy New Year! 2017 was my most traveled year to-date, full of all sorts of experiences and life changes. Here is a look back on 2017 highlights month-by-month.","author":{"@type":"Person","name":"judsonlmoore"},"@type":"BlogPosting","url":"http://localhost:4000/annual-photo-review-2017/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2018/01/best-of-2017-april-neandertal-hiking.jpg","headline":"My most traveled year. A photo review of 2017.","dateModified":"2018-01-01T22:08:48+01:00","datePublished":"2018-01-01T22:08:48+01:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/annual-photo-review-2017/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -57,84 +56,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -233,8 +156,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -307,7 +277,7 @@
                             <div class="row post-top-meta">
                                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                     
-                                    <img src="http://localhost:4000/assets/images/avatars/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore"  crossorigin="anonymous" />
+                                    <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.jpg" class="author-thumb"  alt="Judson L Moore" width="410" height="381" crossorigin="anonymous" />
                                     
                                 </div>
                                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -330,7 +300,7 @@
 
                         
                         <!-- Post Featured Image -->
-                            <img src="http://localhost:4000/assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg" class="d-block w-100" loading="auto"  alt="My most traveled year. A photo review of 2017." width="1200" height="800" crossorigin="anonymous" />
+                            <img src="http://localhost:4000/assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg" class="img-fluid" loading="auto"  alt="My most traveled year. A photo review of 2017." width="1200" height="800" crossorigin="anonymous" />
                         <!-- End Featured Image -->
                         
 
@@ -351,7 +321,7 @@
 
 <p>The new year started off strong. In January I attended a hospitality trade fair in South Carolina where I was a spokesperson for trivago’s business tools. The three colleagues I traveled with were <strong>all amazing people</strong> and I have kept them as close friends throughout the year. Here is a sunset selfie on the empty Myrtle Beach off-season shoreline.</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-january-myrtle-beach.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-january-myrtle-beach.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="february---oldenburg-for-akohlfahrt">February - Oldenburg for a Kohlfahrt</h2>
 
@@ -361,7 +331,7 @@
 
 <p>The whole thing ends at a restaurant where there is live music, more drinks, lots of food, and of course: <strong>kale!</strong></p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-february-oldenburg.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-february-oldenburg.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="february-part-2---amsterdam">February (part 2) - Amsterdam</h2>
 
@@ -369,7 +339,7 @@
 
 <p>In literally our last 30 minutes in Amsterdam, <strong>the clouds broke and we got a peak of sunlight</strong>. Here is one of the few photos I was able to take in our final minutes in Amsterdam.</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-february-amsterdam.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-february-amsterdam.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="march---morocco-for-a-week">March - Morocco for a week</h2>
 
@@ -377,7 +347,7 @@
 
 <p>With only a week in Morocco, <strong>we covered a lot of territory</strong> and saw a lot of the country from a train window, but there is much more to see. I am already preparing plans for a return trip to Morocco in 2018. <strong>Stay tuned!</strong></p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-march-morocco.jpg" class="d-block w-100" loading="auto" alt="" description="" width="2304" height="1536" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-march-morocco.jpg" class="img-fluid" loading="auto" alt="" description="" width="2304" height="1536" crossorigin="anonymous" /></p>
 
 <h2 id="april---neanderthal-valley-hiking">April - Neanderthal Valley Hiking</h2>
 
@@ -385,7 +355,7 @@
 
 <p>The area also has a very well-organized and well-maintained trail network which provides you with a front row seat to the beauty of nature, the abandoned quarries, and endless fields of rapeseed, which, when in-season blanket the Earth in <strong>the most spectacular golden carpets</strong>. Here is me showing how stoked I am to be with the rapeseed.</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="may---mom-visits-and-we-meet-my-german-host-family">May - Mom visits and we meet my German host family</h2>
 
@@ -393,7 +363,7 @@
 
 <p>Also: I got a haircut!</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-may-mom-host-family-reunion.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-may-mom-host-family-reunion.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="june---whitewater-rafting-and-canyoning-in-austria">June - Whitewater rafting and canyoning in Austria</h2>
 
@@ -401,19 +371,19 @@
 
 <p>We had a free day so we went to Area 47, a massive outdoor water and adventure park <strong>surrounded by huge vertical mountains</strong>, where I was able to snap a few shots. Here you can see some of the more impressive waterslides from the park.</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-june-austria.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-june-austria.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="july---spartan-race">July - Spartan Race</h2>
 
 <p>Spartan Races take place all over the world and are a true feat of strength. They involve a 5km (minimum) run with dozens of obstacles in the way. The obstacles include climbing, jumping, crawling, swimming, lifting, spear-throwing, and other feats. If you fail at an obstacle, <strong>you have to do 50 burpees.</strong> To say this was difficult for me would be quite the understatement. But I finished and it was awesome. I look forward to running again next year with the trivago team!</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-july-spartan-race.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-july-spartan-race.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="august---the-mosel-valley-germanys-wine-country">August - The Mosel Valley: Germany’s wine country</h2>
 
 <p>Every year, I go on a wine-tasting weekend with my German friends. This year we went to the Mosel Valley and tried <strong>a dozen different kinds of rieslings</strong>. I don’t particularly like white wine or sweet wine, so I struggled a bit to get through the wine tastings, but the geography around the Mosel River is breathtaking and we could not have asked for better weather.</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-august-mosel.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-august-mosel.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="september---nordic-cruise-to-norway-and-denmark">September - Nordic cruise to Norway and Denmark</h2>
 
@@ -421,7 +391,7 @@
 
 <p>Here I am in Norway with a moose.</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-september-norway.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-september-norway.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="october---northern-italy-and-the-most-stunning-sunset">October - Northern Italy and the most stunning sunset</h2>
 
@@ -429,7 +399,7 @@
 
 <p>We drank a lot of wine, ate lots of pizzas and pasta, we got lost in the world’s largest hedge maze, and we took in lots of sights. The whole trip was incredible, but nothing compares with this sunset we saw over Lake Como. This photo has no filter or alterations and <strong>does no justice to the majesty</strong> of the experience. I have never seen cloud formations like this, or so many colors paint the sky in such a way. I seriously doubt I will ever experience such natural beauty ever again.</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-october-como-italy-sunset.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-october-como-italy-sunset.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="november---going-home-to-kyrgyzstan">November - Going home to Kyrgyzstan</h2>
 
@@ -437,7 +407,7 @@
 
 <p>Funny thing: <strong>it still felt like home.</strong></p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-november-bishkek-kyrgyzstan.jpg" class="d-block w-100" loading="auto" alt="" description="" width="2304" height="1536" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-november-bishkek-kyrgyzstan.jpg" class="img-fluid" loading="auto" alt="" description="" width="2304" height="1536" crossorigin="anonymous" /></p>
 
 <h2 id="december---a-winter-break-in-palma-de-mallorca">December - A winter break in Palma de Mallorca</h2>
 
@@ -445,7 +415,7 @@
 
 <p>Britta came to visit for a few days. Among other explorations of the island, <strong>we rented some really nice road bikes</strong> and went for a long ride down the coast.</p>
 
-<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-december-palma.jpg" class="d-block w-100" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
+<p><img src="http://localhost:4000/assets/images/2018/01/best-of-2017-december-palma.jpg" class="img-fluid" loading="auto" alt="" description="" width="1200" height="800" crossorigin="anonymous" /></p>
 
 <h2 id="happy-new-year-and-all-the-best-in-2018">Happy New Year and all the best in 2018!</h2>
 
@@ -719,19 +689,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -797,14 +767,15 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
         <script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" ></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>

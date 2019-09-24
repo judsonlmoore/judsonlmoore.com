@@ -29,11 +29,10 @@
 {"description":"Author and travel addict","author":{"@type":"Person","name":"judsonlmoore"},"@type":"WebPage","url":"http://localhost:4000/whileyoung/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2015/10/ouro-preto.jpg","headline":"While Young","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!--         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
         <link href="/assets/css/screen.css" rel="stylesheet" />
-        <link href="/assets/css/main.css" rel="stylesheet" />
-        <script src="/assets/js/jquery.min.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" rel="stylesheet"/>
+<!--         <link href="/assets/css/main.scss" rel="stylesheet" /> -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous"></script>
 
     </head>
@@ -55,84 +54,8 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <!-- Grid row-->
-<div class="row py-4 d-flex align-items-center bg-dark">
-    <div class="container pr-0">
-
-        <div class="row">
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-5 text-md-left mb-4 mb-md-0 p-0">
-                <ul class="list-inline">
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/about/">About Me</a>
-                    </li>
-                
-                    <li class="list-inline-item">
-                        <a class="" href="/guest-author/">Guest Authors</a>
-                    </li>
-                
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-6 col-lg-7 text-right text-md-right p-0">
-
-                <!-- Facebook -->
-                <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                    <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-
-                <!-- Twitter -->
-                <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-
-                <!--Instagram-->
-                <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                    <i class="fab fa-instagram white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                    <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-
-                <!--Github -->
-                <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                    <i class="fab fa-github white-text mr-4"> </i>
-                </a>
-
-                <!-- <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script> -->
-
-            </div>
-            <!-- Grid column -->
-
-        </div>
-
-    </div>
-</div>
-<!-- Grid row-->
-
-<nav class="navbar navbar-expand-lg navbar-light bg-blue fixed-top nav-down">
-    <div class="container pr-0">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+    <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
             <h1 class="logo-title">Judson L Moore</h1>
@@ -231,8 +154,55 @@
                 </li>
                 
                 
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-search white-text mr-4"></i>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <script src="/assets/js/lunr.js"></script>
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+<script src="/assets/js/lunrsearchengine.js"></script>
+                    </div>
+                </li>
             </ul>
+
+
+            <!-- Facebook -->
+            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
+                <i class="fab fa-facebook-f white-text mr-4"> </i>
+            </a>
+
+            <!-- Twitter -->
+            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-twitter white-text mr-4"> </i>
+            </a>
+
+            <!--Instagram-->
+            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
+                <i class="fab fa-instagram white-text mr-4"> </i>
+            </a>
+
+            <!--Linkedin -->
+            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
+                <i class="fab fa-linkedin-in white-text mr-4"> </i>
+            </a>
+
+            <!--Github -->
+            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
+                <i class="fab fa-github white-text mr-4"> </i>
+            </a>
 
         </div>
     </div>
@@ -244,13 +214,13 @@
         <!-- Begin Content
 ================================================== -->
         <style type="text/css">
-	.bg-primary {
+	#fullwidth-img {
 	background-image: url("/assets/images/2015/10/ouro-preto.jpg");
 }
 </style>
 
   <!-- Header -->
-  <header class="bg-primary py-5 mb-5">
+  <div id="fullwidth-img" class="container-fluid py-5 mb-5">
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-lg-12">
@@ -261,83 +231,9 @@
 	class="btn btn-primary btn-lg"
 	data-toggle="modal"
 	data-target="#exampleModal"
-	data-whatever="E-Mail"
->
+	>
 	Subscribe now for more whileyoung travel tips <i class="fas fa-envelope"></i>
 </button>
-
-<style type="text/css">
-	
-	#registration-form{
-		max-width: 800px;
-		margin: 120px auto;
-	}
-
-	#registration-form .image{
-		float:left;
-		background-image: url("/assets/images/jumbotron.jpg");
-		height: 500px;
-		width: 50%;
-		background-size: cover;
-		background-position: 25%;
-	}
-
-	#registration-form .frm{
-		float:right;
-		height: 500px;
-	    width: 50%;
-	    min-width: 250px;
-	    padding: 0 35px;
-	    background-size: 100% 100%;
-	    background-color: white;
-	}
-
-	#registration-form h1{
-		margin-top: 30px;
-		margin-bottom: 20px;
-	}
-
-	#registration-form .form-control{
-		width: 90%;
-		padding: 12px 20px;
-		height: auto;
-	}
-
-	@media screen and (max-width: 700px){
-		#registration-form .image{
-			width: 30%;
-		    background-position: 60%;
-		}
-
-		#registration-form .frm{
-			width: 70%;
-		}
-
-		#registration-form .form-control{
-			width: 100%;
-		}
-	}
-
-	@media screen and (max-width: 500px){
-		#registration-form .image{
-			display: none;
-		}
-
-		#registration-form .frm{
-			width: 100%;
-		}
-
-		#registration-form h1{
-			text-align: center;
-		}
-
-		#registration-form .btn{
-			width: 100%;
-			margin-top: 20px;
-		}
-	}
-
-</style>
 
 <div
 	class="modal fade"
@@ -347,33 +243,22 @@
 	aria-labelledby="exampleModalLabel"
 	aria-hidden="true"
 >
-    <div class="container" id="registration-form">
-        <div class="image"></div>
-        <div class="frm">
-        	<div class="modal-header">
-	            <h1>Sign up</h1>
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-					<span aria-hidden="true">&times;</span>
-				</button>
-			</div>
-            <!-- <form>
-                <div class="form-group">
-                    <label for="username">Username:</label>
-                    <input type="text" class="form-control" id="username" placeholder="Enter username">
-                </div>
-                <div class="form-group">
-                    <label for="email">Email:</label>
-                    <input type="email" class="form-control" id="email" placeholder="Enter email">
-                </div>
-                <div class="form-group">
-                    <label for="pwd">Password:</label>
-                    <input type="password" class="form-control" id="pwd" placeholder="Enter password">
-                </div>
-                <div class="form-group">
-                    <button type="submit" class="btn btn-success btn-lg">Submit</button>
-                </div>
-            </form> -->
-            <form
+	<div class="modal-dialog" role="document">
+	    <div class="container" id="registration-form">
+	        <div class="image"></div>
+	        <div class="frm">
+	        	<div class="modal-header">
+		            <h1>Sign up</h1>
+					<button 
+						type="button" 
+						class="close" 
+						data-dismiss="modal" 
+						aria-label="Close"
+						>
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+	            <form
 	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 	method="post"
 	name="mc-embedded-subscribe-form"
@@ -416,15 +301,16 @@
 	});
 </script>
 
-        </div>
-    </div>
+	        </div>
+	    </div>
+	</div>
 </div>
 
 
         </div>
       </div>
     </div>
-  </header>
+  </div>
 
   <div class="site-content">
     <div class="container">
@@ -464,10 +350,12 @@
 							
 						</div>
 					</div>
-					<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-	<div class="card-header">Subscribe</div>
+					<div class="col-lg-3">
+						<div class="row ">
+							<div class="card bg-dark mb-3" >
+	<div class="card-header text-white">Subscribe</div>
 	<div class="card-body bg-light">
-	<form
+		<form
 	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 	method="post"
 	name="mc-embedded-subscribe-form"
@@ -510,21 +398,22 @@
 	});
 </script>
 
+	</div>
 </div>
 
-<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-	<div class="card-header">Subscribe</div>
-	<div class="card-body bg-light">
+<div class="card bg-dark mb-3" >
+	<div class="card-header text-white">Subscribe</div>
+	<div class="card-body bg-light text-dark">
 		<h5 class="card-title">Primary card title</h5>
 		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 	</div>
 </div>
 
 
-<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-	<div class="card-header">Subscribe</div>
-	<div class="card-body bg-light">
-		<h5 class="card-title">Primary card title</h5>
+<div class="card text-white bg-dark mb-3" >
+	<div class="card-header text-white">Instagram</div>
+	<div class="card-body bg-light text-dark">
+		<h5 class="card-title">Follow my adventure!</h5>
 		<script>
 // instafeed.js
 // Generated by CoffeeScript 1.9.3
@@ -539,10 +428,10 @@
     var feed = new Instafeed({
         get: 'user',
         userId: '211587932',
-        limit: '25',
+        limit: '5',
         sortBy: 'most-recent',
         resolution: 'standard_resolution',
-        accessToken: '1dc906a17dd8435ebcb2cb67438be2f0',
+        accessToken: '211587932.d98d7d6.86f45ebe22df4150a00d7c7827b9b934',
         clientId: 'd98d7d64aecf4686b4d202112bb92d24',
         template: '<a href="{{link}}" class="instagram" target="_blank"><img src="{{image}}" class="rounded" /></a>'
     });
@@ -554,10 +443,16 @@
     #instafeed a img {width: 100%;}
 </style>
 <p id="instafeed"></p>
-		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+		<p class="card-text">Always be up to date by following me on Instagram</p>
+		<a href="https://www.instagram.com/judsonlmoore" target="_blank" type="button" class="btn btn-ins">
+            <i class="fab fa-instagram pr-1"></i>
+            <span>Instagram</span>
+        </a>
 	</div>
 </div>
 
+						</div>
+					</div>
 				</div>
 			</section>
 
@@ -594,19 +489,19 @@
 		<!-- Grid column -->
 		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 
-	        <h6 class="text-uppercase font-weight-bold">Products</h6>
+	        <h6 class="text-uppercase font-weight-bold">Top categories</h6>
 	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 	        <p>
-	          <a href="#!">MDBootstrap</a>
+	          <a href="/lifestyle/">Lifestyle</a>
 	        </p>
 	        <p>
-	          <a href="#!">MDWordPress</a>
+	          <a href="/blogroll/">Travel</a>
 	        </p>
 	        <p>
-	          <a href="#!">BrandFlow</a>
+	          <a href="/career/">Career</a>
 	        </p>
 	        <p>
-	          <a href="#!">Bootstrap Angular</a>
+	          <a href="/about/">About Me</a>
 	        </p>
 
 		</div>
@@ -672,12 +567,13 @@ Copyright © 2019 <a href="http://localhost:4000">Judson L Moore</a>
         <!-- Scripts
 ================================================== -->
 
-        <script src="/assets/js/popper.min.js" crossorigin="anonymous" ></script>
-        <script src="/assets/js/bootstrap.min.js" crossorigin="anonymous" ></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <script src="/assets/js/mediumish.js"></script>
         <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
         <script src="/assets/js/jssor.slider-27.5.0.min.js"></script>
         
-        <script src="/assets/js/jquery.min.js"></script>
     </body>
 </html>
