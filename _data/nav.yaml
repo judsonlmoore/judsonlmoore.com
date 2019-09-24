@@ -39,7 +39,7 @@ secondary:
   - page: About Me
     url: /about/
   - page: Guest Authors
-    url: /guest-authors/
+    url: /guest-author/
 footer:
   - page: Terms of Service
     url: /tos/
