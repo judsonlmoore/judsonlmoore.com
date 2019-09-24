@@ -150,52 +150,22 @@ cloudinary:
   cloud_name: judsonlmoore-com
   only_prod: true
   verbose: true
+  steps: 5
   #origin_url:
   presets:
     default:
       min_width: 320
       max_width: 1600
       fallback_max_width: 800
-      steps: 5
-      sizes: "(min-width: 50rem) 50rem, 100vw"
       figure: auto
       attributes:
-        class: "post-image full"
         loading: "auto"
-        style: "height: auto"
-    half:
+    featured-box-img-cover:
       min_width: 320
       max_width: 1600
-      max_height: 100%
-      fallback_max_width: 800
-      steps: 5
-      sizes: "(min-width: 25rem) 25rem, 50vw"
-      figure: auto
+      fallback_max_width: 500
       attributes:
-        class: "post-image half"
-        loading: "auto"
-        style: "height: auto"
-    post-hero:
-      min_width: 320
-      max_width: 800
-      max_height: 100%
-      fallback_max_width: 800
-      steps: 3
-      sizes: "(min-width: 25rem) 25rem, 50vw"
-      figure: auto
-      attributes:
-        class: "featured-image img-fluid"
-        loading: "auto"
-        style: "height: auto"
-    jumbotron:
-      min_width: 320
-      max_width: 1600
-      max_height: 100%
-      fallback_max_width: 800
-      steps: 5
-      sizes: "(min-width: 25rem) 25rem, 50vw"
-      figure: auto
-      attributes:
-        class: "post-image half"
-        loading: "auto"
-        style: "height: auto"
+        class: "featured-box-img-cover"
+    img-fluid: 
+      attributes: 
+        class: img-fluid
