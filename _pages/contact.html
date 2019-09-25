@@ -5,6 +5,81 @@ layout: page
 comments: false
 ---
 
+
+<div class="row">
+  <div class="col-lg-12">
+
+
+    <!-- Styles -->
+    <style>
+    #chartdiv {
+      width: 100%;
+      height: 500px;
+    }
+
+    </style>
+
+    <!-- Resources -->
+    <script src="https://www.amcharts.com/lib/4/core.js"></script>
+    <script src="https://www.amcharts.com/lib/4/maps.js"></script>
+    <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
+    <script src="https://www.amcharts.com/lib/4/geodata/usaLow.js"></script>
+    <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+
+    <!-- Chart code -->
+    <script>
+    am4core.ready(function() {
+
+    // Themes begin
+    am4core.useTheme(am4themes_animated);
+    // Themes end
+
+    // Create map instance
+    var chart = am4core.create("chartdiv", am4maps.MapChart);
+
+    // Set map definition
+    chart.geodata = am4geodata_worldLow;
+
+    // Set projection
+    chart.projection = new am4maps.projections.Miller();
+
+    // Series for World map
+    var worldSeries = chart.series.push(new am4maps.MapPolygonSeries());
+    worldSeries.exclude = ["AQ"];
+    worldSeries.useGeodata = true;
+
+    var polygonTemplate = worldSeries.mapPolygons.template;
+    polygonTemplate.tooltipText = "{name}";
+    polygonTemplate.fill = chart.colors.getIndex(0);
+    polygonTemplate.nonScalingStroke = true;
+
+    // Hover state
+    var hs = polygonTemplate.states.create("hover");
+    hs.properties.fill = am4core.color("#367B25");
+
+    // Series for United States map
+    var usaSeries = chart.series.push(new am4maps.MapPolygonSeries());
+    usaSeries.geodata = am4geodata_usaLow;
+
+    var usPolygonTemplate = usaSeries.mapPolygons.template;
+    usPolygonTemplate.tooltipText = "{name}";
+    usPolygonTemplate.fill = chart.colors.getIndex(1);
+    usPolygonTemplate.nonScalingStroke = true;
+
+    // Hover state
+    var hs = usPolygonTemplate .states.create("hover");
+    hs.properties.fill = am4core.color("#367B25");
+
+    }); // end am4core.ready()
+    </script>
+
+    <!-- HTML -->
+    <div id="chartdiv"></div>
+
+  </div>
+</div>
+
+
 <main class="container">
   <header class="page-header">
     <h1 class="entry-title">Contact</h1>
@@ -51,6 +126,7 @@ comments: false
         Phone: XXX-XXX-XXXX<br>
       Fax: XXX-XXX-YYYY</p>
     </address>
+    <p>Planning a trip? Need advice? Wand to grab a coffee? Please get in touch with me by sending a message in the form to the right, or connect with me at one of these social media platforms!</p>
     </div>
   </div>
 </main>

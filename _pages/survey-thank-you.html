@@ -1,0 +1,42 @@
+---
+title: Thank you for participating in this survey
+permalink: "/survey-thank-you/"
+layout: page
+comments: false
+
+---
+
+<div class="row">
+	<div class="col-lg-8">
+
+		<h2>THANK YOU For Participating in this survey!</h2>
+
+		<p>The survey results will be posted on September 15. You will receive an email notification when the results are out. In the meantime, please like my <a href="http://facebook.com/thewhileyoung" target="_blank">Facebook Page</a>, follow me on <a href="http://twitter.com/judsonlmoore" target="_blank">Twitter</a>, and leave a comment on one of the articles below.</p>
+
+	</div>
+
+	<div class="col-lg-4">
+		<img src="/assets/images/2016/11/youre-awesome.jpg">
+	</div>
+</div>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Read these popular posts</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>

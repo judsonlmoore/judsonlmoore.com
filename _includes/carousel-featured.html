@@ -1,7 +1,7 @@
 <style type="text/css">
     img.d-block {
         width: 100%;
-        height: 500px;
+        height: auto;
         object-fit: cover;
         object-position: center;
     }
@@ -29,30 +29,28 @@
         {% if forloop.first == true %}
 
         <div class="carousel-item active">
-        {% else %}
-        <div class="carousel-item">
-        {% endif %}
-            <a href="{{ site.baseurl }}{{ post.url }}">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>{{ post.title }}</h5>
-                    <!-- <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p> -->
-                </div>
-                {% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
-            </a>
-        </div>
-        {% endif %}
+            {% else %}
+            <div class="carousel-item">
+            {% endif %}
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>{{ post.title }}</h5>
+                        <!-- <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p> -->
+                    </div>
+                    {% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+                </a>
+            </div>
+            {% endif %}
         {% endfor %}
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
 
     </div>
-<!-- 
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
- -->
-
 </div>

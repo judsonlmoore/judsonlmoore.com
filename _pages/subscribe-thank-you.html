@@ -1,0 +1,59 @@
+---
+title: Thank you for subscribing
+permalink: "/subscribe-thank-you/"
+layout: page
+comments: false
+
+---
+
+<div class="row">
+	<div class="col-lg-8">
+
+		<h2>This is the beginning of a beautiful friendship</h2>
+
+		<p>As Humphrey Bogart famously said in the classic film Casablanca, I believe that you signing up for my mailing list is just the beginning of a beautiful friendship! I will start sending you periodic exclusive content and tidbits. In the meantime, follow the steps below!</p>
+
+		<p>Be sure to read some of these articles and please leave a comment bellow each one with your thoughts, feedback, and questions!</p>
+
+		<h2>Next steps</h2>
+
+		<p><strong>Join the exclusive Facebook group</strong></p>
+		<p>Step 1: Visit the <a href="https://www.facebook.com/groups/thewhileyoung/">Living My “What If” #WhileYoung Facebook Group</a></p>
+		<p>Step 2: Request to join the group and I will approve you!</p>
+
+		<p><strong>Get cool resources</strong></p>
+		<p>Step 1: Visit the hidden <a href="/resources/">Resources Page</a></p>
+		<p>Step 2: Use this password to reveal the goodies: <strong>livingmywhatif</strong></p>
+
+		<p><strong>Follow me on social media</strong></p>
+		<p>Public Facebook Page: <a href="https://www.facebook.com/judsonlmooreblog">The #WhileYoung Facebook Page</a></p>
+		<p>Follow Me on Twitter: <a href="http://twitter.com/judsonlmoore">@JudsonLMoore</a></p>
+		<p>See Me on Instagram: <a href="http://instagram.com/judsonlmoore">@JudsonLMoore</a></p>
+
+	</div>
+
+	<div class="col-lg-4">
+		<img src="/assets/images/2016/11/youre-awesome.jpg">
+	</div>
+</div>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Read these popular posts</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>

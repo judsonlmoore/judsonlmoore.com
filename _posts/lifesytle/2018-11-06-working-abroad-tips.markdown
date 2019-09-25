@@ -5,8 +5,6 @@ categories:		lifestyle
 tags:			germany, inspiration, interview, whileyoung, two words
 author:			judsonlmoore
 layout:			post
-featured:		true
-hidden: 		true
 description:	SEO description
 excerpt:		People have been asking me a lot lately for tips for how to find a job in Germany. Now that I have been working in Germany for more than two years, I have identified a few universal truths that I believe will help anyone who is seeking employment abroad.
 image:			2018/11/working-abroad-tips-featured-image.jpg
