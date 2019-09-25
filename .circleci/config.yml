@@ -53,7 +53,7 @@ jobs:
           command: pip install awscli --upgrade --user
       - run:
           name: Upload to s3
-          command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/prod --delete --acl public-read
+          command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --delete --acl public-read
 workflows:
   version: 2
   test-deploy:
