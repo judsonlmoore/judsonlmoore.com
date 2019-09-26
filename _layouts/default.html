@@ -88,5 +88,8 @@
         {% if page.layout == 'post' %}
         <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js" ></script>
         {% endif %}
+        {% if page.layout == 'shop' %}
+        {% include webshop.html email="jhvanderschee@gmail.com" paymentlink="https://useplink.com/payment/ssMgtkddEzgC4rKKJJ9T" %}
+        {% endif %}
     </body>
 </html>

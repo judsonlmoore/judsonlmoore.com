@@ -2,7 +2,7 @@
 title: Lifestyle
 subtitle: Some subtitle
 permalink: "/lifestyle/"
-layout: travel-guides
+layout: fullwidth-hero
 category: lifestyle
 image: 2015/10/ouro-preto.jpg
 ---

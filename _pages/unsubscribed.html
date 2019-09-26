@@ -1,0 +1,53 @@
+---
+title: You have been unsubscribed
+permalink: "/unsubscribed/"
+layout: page
+comments: false
+
+---
+
+<div class="row">
+
+	<div class="col-lg-8">
+
+		<h2>You Have Been Unsubscribed</h2>
+
+		<p>I wish you and yours the utmost success in your future adventures. Whenever you need some advice or inspiration, I will still be right here waiting.<br> Best,<br> Judson L Moore</p>
+
+	</div>
+
+	<div class="col-lg-4">
+		
+        <h2>Resubscribe</h2>
+
+        <p>Oh! Was that an accident? No problem! You can resubscribe by clicking this button:</p>
+
+        <a href="/subscribe/" class="btn btn-outline-dark btn-lg btn-block" role="button" target="_blank"><i class="fas fa-download"></i> Resubscribe Here</a>
+
+	</div>
+
+</div>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>Read these popular posts</span></h2>
+    </div>
+
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
