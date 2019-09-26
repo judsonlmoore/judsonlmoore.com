@@ -1,22 +1,21 @@
 <link href="{{ site.baseurl }}/assets/css/gallery-fluid.css" rel="stylesheet" />
+
 <div class="tz-gallery">
   <div class="row">
     {% for image in include.images %}
     <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-          <a class="lightbox" href="{{ site.baseurl }}{{ site.image-path }}{{ image.url }}">
-            <img src="{{ site.baseurl }}{{ site.image-path }}{{ image.url }}">
-          </a>
-          <div class="caption">
-              <p>{{ image.caption }}</p>
-          </div>
-      </div>
+        <a class="lightbox" href="{{ site.baseurl }}{{ site.image-path }}{{ image.url }}">
+          <img src="{{ site.baseurl }}{{ site.image-path }}{{ image.url }}">
+        </a>
+        <div class="caption">
+          <p>{{ image.caption }}</p>
+        </div>
     </div>
     {% endfor %}
   </div>
-</div> 
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 <script>
-    baguetteBox.run('.tz-gallery');
+baguetteBox.run('.tz-gallery');
 </script>
