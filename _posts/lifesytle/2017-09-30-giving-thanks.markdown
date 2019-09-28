@@ -40,7 +40,7 @@ We have all said, "I would be happy if..." That blank can be filled-in with "I h
 
 However, looking toward tomorrow should not distract from your good fortunes of today. When was the last time you said "I would be happy if..." and then you actually were happy when you obtained the thing? And was that a *thing* or an *experience*? I argue that **lifelong happiness is made by experiences**, and no matter what we strive to accomplish tomorrow, we should be grateful for what we have today.
 
-**Further reading: [The Secret To All My Success](https://www.judsonlmoore.com/showing-up-secret-to-success/)**
+**Further reading: [The Secret To All My Success]({{ site.baseurl }}/showing-up-secret-to-success/)**
 
 ## #4 - Giving thanks increases peoples' trust in you
 

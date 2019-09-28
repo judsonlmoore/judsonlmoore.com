@@ -13,7 +13,7 @@ image:			2016/08/what-is-metasearch.jpeg
 
 I recently started a new job working at trivago as their B2B spokesperson for the United States. trivago is the world's largest hotel metasearch, _helping travelers find their ideal hotel at the best available rate_. Since I started working there, I have found myself thinking many times that most people probably do not know what metadata is, and therefore do not know what is metasearch or why they should care. So let me take a moment to explain what this term means and how these tools can save you loads of time and money.
 
-**Related Post: [20 Essential Travel Apps](https://www.judsonlmoore.com/essential-travel-apps/)**
+**Related Post: [20 Essential Travel Apps]({{ site.baseurl }}/essential-travel-apps/)**
 
 Since I am working at trivago, I should mention that this post is not a sponsored post, the content is my own, as are any opinions expressed here.
 
@@ -35,9 +35,9 @@ In the chart above, you can see that all of the world's information exists on ma
 
 ## Metasearch Travel Sites
 
-Let's say for example that you want to book a flight, because let's face it, you DO want to book a flight, right? To book a flight, you can go to the booking sites of every airline and look for schedules and prices, but this would take you a very long time and undoubtedly leave you without a comprehensive overview of all the options available. The better tool to use in this case is a metasearch which specializes in flights, like [Skyscanner](http://skyscanner.com) ([iOS](https://www.judsonlmoore.com/get/skyscanner-ios/) | [Android](https://www.judsonlmoore.com/get/skyscanner-android/)). Skyscanner searches more than 1,200 airline and travel sites all with one click! They display to you the cheapest flights available which match your search, and then pair you with the best deals on the internet. Thus, saving you loads for time and money on your flight purchase.
+Let's say for example that you want to book a flight, because let's face it, you DO want to book a flight, right? To book a flight, you can go to the booking sites of every airline and look for schedules and prices, but this would take you a very long time and undoubtedly leave you without a comprehensive overview of all the options available. The better tool to use in this case is a metasearch which specializes in flights, like [Skyscanner](http://skyscanner.com) ([iOS](https://geo.itunes.apple.com/us/app/skyscanner/id415458524?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=net.skyscanner.android.main)). Skyscanner searches more than 1,200 airline and travel sites all with one click! They display to you the cheapest flights available which match your search, and then pair you with the best deals on the internet. Thus, saving you loads for time and money on your flight purchase.
 
-[trivago](http://trivago.com) ([iOS](https://www.judsonlmoore.com/get/trivago-ios/) | [Android](https://www.judsonlmoore.com/get/trivago-android/)) operates in a similar fashion but is focused solely on hotels. trivago searches more than 250 hotel booking sites around the world and instantly shows travelers the best available rates for properties which best meet their needs. A quick search on trivago will show you that the same room on the same night will have a variety of prices depending on which site you book that room with. trivago empowers travelers to quickly search the whole internet to find their ideal room and book it at the very best rate.
+[trivago](http://trivago.com) ([iOS](https://geo.itunes.apple.com/us/app/trivago-hotel-deal-comparison/id376888389?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=com.trivago)) operates in a similar fashion but is focused solely on hotels. trivago searches more than 250 hotel booking sites around the world and instantly shows travelers the best available rates for properties which best meet their needs. A quick search on trivago will show you that the same room on the same night will have a variety of prices depending on which site you book that room with. trivago empowers travelers to quickly search the whole internet to find their ideal room and book it at the very best rate.
 
 [Hospitality.net reported](http://www.hospitalitynet.org/news/4066748.html) that before metasearch sites became prevalent, the savvy traveler was searching as many as 22 bookings sites before making a purchase. As you can see, metasearch  **saves you loads of time and money. **
 
@@ -56,7 +56,7 @@ Here are some examples of travel metasearch sites as well as a few which are not
 
 - [TripAdvisor](http://tripadvisor.com)
 
-- [trivago](http://trivago.com) ([iOS](https://www.judsonlmoore.com/get/trivago-ios/) | [Android](https://www.judsonlmoore.com/get/trivago-android/))
+- [trivago](http://trivago.com) ([iOS](https://geo.itunes.apple.com/us/app/trivago-hotel-deal-comparison/id376888389?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=com.trivago))
 
 ### Metasearch for flights
 - [Google Flights](https://www.google.com/flights/#search;f=DUS,QDU;t=AUS;d=2016-09-28;r=2016-10-02;q=dus+to+aus)

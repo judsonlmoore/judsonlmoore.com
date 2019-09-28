@@ -18,7 +18,7 @@ Guinness is known the world over as a premium stout. It's not the kind of beer y
 
 So how does a beer with so many complications and which is so limited in drinkability end up being a global powerhouse business? **That is exactly what I came to the Guinness Storehouse in Dublin to find out.**
 
-**Additional reading: [Jameson distillery tour and whiskey tasting experience](https://www.judsonlmoore.com/jameson-distillery-tour-dublin/)**
+**Additional reading: [Jameson distillery tour and whiskey tasting experience]({{ site.baseurl }}/jameson-distillery-tour-dublin/)**
 
 ## In A Nutshell
 

@@ -11,7 +11,7 @@ image:			2015/08/LSU-Eye-of-the-Storm-Autumn-Judson.jpeg
 
 ---
 
-_Photo Credit: From _[LSU: In The Eye of The Storm](https://www.judsonlmoore.com/get/lsu-in-the-eye-of-the-storm/)
+_Photo Credit: From _[LSU: In The Eye of The Storm](https://www.amazon.com/gp/product/B000SP8PKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000SP8PKO&linkCode=as2&tag=judsonlmoore-20&linkId=b36126e9828e169fc6b3bb544b613c85)
 
 There are events in my life that I often reflect on for being the pivotal moments when the trajectory of my life changed. Great moments like my Rotary Youth Exchange year and not so great moments like appendicitis in Kyrgyzstan have led me to who I am today. I am glad for all of these things because the life I live now is truly a fortunate one and I wouldn't change how I got here. Hurricane Katrina is one of these events, and now after a decade has passed since that destructive day, I reflect on how my life has been impacted.
 

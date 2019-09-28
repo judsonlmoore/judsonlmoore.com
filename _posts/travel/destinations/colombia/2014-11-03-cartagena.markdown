@@ -29,4 +29,4 @@ I found that the souvenir shopping was pretty "meh." If you see one street ven
 {% assign images = gallery["2014-11-03-cartagena"] %}
 {% include gallery-fluid.html images=images %}
 
-\*this is an excerpt from [a longer article](https://www.judsonlmoore.com/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](https://www.judsonlmoore.com/location/germany/).
+\*this is an excerpt from [a longer article]({{ site.baseurl }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).

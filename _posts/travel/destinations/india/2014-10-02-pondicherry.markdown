@@ -21,7 +21,7 @@ We arrived in Pondicherry on the southeast coast of India after flying to Chenna
 
 We arrived on the morning of [Gandhi Jayanti](http://en.wikipedia.org/wiki/Gandhi_Jayanti), one of only 3 recognized national holidays of India (the others are Independence Day and Republic Day). Gandhi Jayanti marks the occasion of Gandhi’s birth. There were festivities abound with music, speeches, dances, speeches, food, speeches, and oh yeah, speeches.
 
-After spending sunrise on the coast, we wandered around the historic district of the city. Pondicherry was the largest French colony in India and the architecture and “rues” made me feel a bit like I was in New Orleans. Aside from just taking in the atmosphere, there weren’t much for attractions, plus the holiday meant everything was closed anyway. After lunch, we hired a car, and we headed to Tranquebar. Read about that adventure [here](https://www.judsonlmoore.com/tranquebar).
+After spending sunrise on the coast, we wandered around the historic district of the city. Pondicherry was the largest French colony in India and the architecture and “rues” made me feel a bit like I was in New Orleans. Aside from just taking in the atmosphere, there weren’t much for attractions, plus the holiday meant everything was closed anyway. After lunch, we hired a car, and we headed to Tranquebar. Read about that adventure [here]({{ site.baseurl }}/tranquebar).
 
 ## Photos From Pondicherry
 

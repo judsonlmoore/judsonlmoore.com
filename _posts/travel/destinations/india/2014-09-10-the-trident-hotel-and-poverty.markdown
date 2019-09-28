@@ -13,11 +13,11 @@ image:			2014/10/IMG_0212.jpg
 
 ## Living high above the poverty line
 
-I've now been living in [Hyderabad, India](http://en.wikipedia.org/wiki/Hyderabad), for about 3 weeks and am starting to get accustomed to my daily schedule and the opportunities presented to me here. The main purpose of my being here is for an extended stay business trip with [Mutual Mobile](https://www.judsonlmoore.com/career/mutual-mobile/) as the project manager for developing a new office in the city for around 100 team members. More on that in a separate post as things develop.
+I've now been living in [Hyderabad, India](http://en.wikipedia.org/wiki/Hyderabad), for about 3 weeks and am starting to get accustomed to my daily schedule and the opportunities presented to me here. The main purpose of my being here is for an extended stay business trip with [Mutual Mobile](/mutual-mobile/) as the project manager for developing a new office in the city for around 100 team members. More on that in a separate post as things develop.
 
 Generally speaking, I have seen three things in this city: The Trident Hotel, [Charminar](http://en.wikipedia.org/wiki/Charminar), and the [Golkonda Fort](http://en.wikipedia.org/wiki/Golkonda).
 
-For the sake of brevity, I will just write about the hotel in this post. You can find my other posts from Hyderabad [here](https://www.judsonlmoore.com/location/hyderabad/).
+For the sake of brevity, I will just write about the hotel in this post. You can find my other posts from Hyderabad [here](/hyderabad/).
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-09-10-the-trident-hotel-and-poverty"] %}
@@ -37,7 +37,7 @@ When the coffee arrives, I move to a chair that faces out the windows and overlo
 
 I don't know that this structure on the left is a home, but on the right is a courtyard with some running water piped in and a laundry line. You will notice the man bathing; he is usually joined by a few friends, but today he is alone, as am I. We are so close to each other but our lives are worlds apart. He bathes under a trickling stream of water, exposed to the open air in the shadows of my glass palace where I have all the comforts modern times can offer.
 
-I am no stranger to poverty. My time in [Brazil](https://www.judsonlmoore.com/brazil/) and [Kyrgyzstan](https://www.judsonlmoore.com/kyrgyzstan/) showed me intense poverty and at times I lived right in it. Though this is a peaceful scene, I am reminded of a quote by Gandhi, "Poverty is the worst form of violence;" perhaps only because this is India and I am just cliche like that. I am deeply moved by the dichotomy of this situation but I also feel powerless to do anything about it. I can't even measure my own feelings about the situation.
+I am no stranger to poverty. My time in [Brazil]({{ site.baseurl }}/brazil/) and [Kyrgyzstan]({{ site.baseurl }}/kyrgyzstan/) showed me intense poverty and at times I lived right in it. Though this is a peaceful scene, I am reminded of a quote by Gandhi, "Poverty is the worst form of violence;" perhaps only because this is India and I am just cliche like that. I am deeply moved by the dichotomy of this situation but I also feel powerless to do anything about it. I can't even measure my own feelings about the situation.
 
 My struggle in this scene is to decide, "how do I feel about this," and "what can I do about it?" I am very interested in being part of effecting widespread change in people's lives, but I am much more of an institutionalist than I am a one-on-one interaction type. My time working for the [Louisiana Capital Area Red Cross](http://www.redcross.org/local/louisiana/local-chapters/Louisiana-Capital-Area-West) ingrained a sense of institutional impacts being more my forte than being the one pouring the soup in the kitchen.
 

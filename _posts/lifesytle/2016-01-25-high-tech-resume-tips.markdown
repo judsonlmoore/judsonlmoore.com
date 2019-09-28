@@ -11,7 +11,7 @@ image:			2016/01/resume-writing-man-notebook-laptop-1.jpg
 
 ---
 
-The purpose of a resume is to get you an interview. It needs to be catchy (but not tacky), impressive (but not long), and most importantly: well-organized (yet still creative). Everyone has their own style preference in writing a resume, so I am not going to get into that here. The purpose of this article is to provide some high-tech resume tips which can be applied to any resume. However, you can gain access to **my awesome high-tech resume template** along with lots of useful notes when you [subscribe to my email list](https://www.judsonlmoore.com/subscribe/). So go do that now. It's ok. I will stay here and wait for you to come back. :)
+The purpose of a resume is to get you an interview. It needs to be catchy (but not tacky), impressive (but not long), and most importantly: well-organized (yet still creative). Everyone has their own style preference in writing a resume, so I am not going to get into that here. The purpose of this article is to provide some high-tech resume tips which can be applied to any resume. However, you can gain access to **my awesome high-tech resume template** along with lots of useful notes when you [subscribe to my email list]({{ site.baseurl }}/subscribe/). So go do that now. It's ok. I will stay here and wait for you to come back. :)
 
 ## Use Google Docs
 
@@ -39,7 +39,7 @@ Here are some things to consider linking:
 
 Be sure to style your links in an attractive way. I prefer to style my links to blend in with the rest of the text so that the document is attractive when printed, even though it means you can't visually see the links, it makes for a nice subtle detail recruiters notice when they float their cursor over the document.
 
-You should also utilize a URL shortening service, such as [bit.ly](https://www.judsonlmoore.com/get/bitly/) or [goo.gl](https://www.judsonlmoore.com/get/google-url-shortner/) so that you can track how often and when each link gets clicked. This data can be super useful to you during your job pursuits.
+You should also utilize a URL shortening service, such as [bit.ly](https://bitly.com/) or [goo.gl](https://goo.gl/) so that you can track how often and when each link gets clicked. This data can be super useful to you during your job pursuits.
 
 ## Make It Easy To Send Email
 
@@ -69,4 +69,4 @@ Try it out now! Download my resume! [PDF](https://docs.google.com/document/d/1A
 
 _\*though you can download different formats, the PDF format is the best bet for maintaining your formatting style. _
 
-Give this a try and let me know your thoughts! Be sure to [subscribe](https://www.judsonlmoore.com/subscribe/) in order to download my high-tech resume template. Do you have other best practices you can share with us? Please leave a comment below to provide feedback or reach out to me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Give this a try and let me know your thoughts! Be sure to [subscribe]({{ site.baseurl }}/subscribe/) in order to download my high-tech resume template. Do you have other best practices you can share with us? Please leave a comment below to provide feedback or reach out to me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!

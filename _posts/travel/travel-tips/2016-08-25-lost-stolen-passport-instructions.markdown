@@ -22,7 +22,7 @@ In general, these instructions will depend on one of two statuses: are you curre
 
 ## Gather Some Documents
 
-After contacting your passport issuing authority, the next step in replacing your lost or stolen passport is to prove your identity. You are going to need some documents for this, so I hope you have kept good records. Perhaps you have shared copies of all your vital documents with a close friend or family member, as I have advised in my post, [8 Things To Tell Your Family Before You Travel](https://www.judsonlmoore.com/things-to-tell-family-before-you-travel/).
+After contacting your passport issuing authority, the next step in replacing your lost or stolen passport is to prove your identity. You are going to need some documents for this, so I hope you have kept good records. Perhaps you have shared copies of all your vital documents with a close friend or family member, as I have advised in my post, [8 Things To Tell Your Family Before You Travel]({{ site.baseurl }}/things-to-tell-family-before-you-travel/).
 
 **Here are the documents you will most likely need:**
 

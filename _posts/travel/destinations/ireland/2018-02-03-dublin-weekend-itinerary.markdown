@@ -161,7 +161,7 @@ back to top
 
 Ireland is home to whiskey and no other whiskey in the world is as well-known as Jameson. The Bow St. Distillery in central Dublin is the historic home of Dublin, but it is no longer an active distillery. However, this does not make the experience any less exciting. The distillery "tour" is called *The Bow St. Experience* because it is a multimedia 4-D immersion into the world of Jameson, whiskey, and Ireland (the 4th dimension is tasting whiskey!)
 
-I wrote [a comprehensive review of the Jameson Distillery](https://www.judsonlmoore.com/jameson-distillery-tour-dublin/)  which you should read if you plan to visit the Bow St. Distillery. Regardless of how you feel about whiskey, I can't stress enough that this is more or less mandatory on the list of things to do in Dublin.
+I wrote [a comprehensive review of the Jameson Distillery]({{ site.baseurl }}/jameson-distillery-tour-dublin/)  which you should read if you plan to visit the Bow St. Distillery. Regardless of how you feel about whiskey, I can't stress enough that this is more or less mandatory on the list of things to do in Dublin.
 
 - **When to visit:** Mid- or late-afternoon
 
@@ -169,7 +169,7 @@ I wrote [a comprehensive review of the Jameson Distillery](https://www.judsonlmo
 
 - **Official Website:** [jamesonwhiskey.com](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st)
 
-- **Additional reading:** [Jameson distillery tour and whiskey tasting experience](https://www.judsonlmoore.com/jameson-distillery-tour-dublin/)
+- **Additional reading:** [Jameson distillery tour and whiskey tasting experience]({{ site.baseurl }}/jameson-distillery-tour-dublin/)
 
 {% include image.html alt="Judson stands in front of the entrance sign for the Jameson Distillery" file="../assets/images/2018/01/dublin-weekend-itenerary-jameson-distillery.jpg" description=" The Jameson Distillery on Bow St. in Dublin" %}
 
@@ -297,7 +297,7 @@ back to top
 
 Yesterday we started hard with whiskey so today lets take it a bit easier and go for a "bit of the black stuff!" Guinness is every bit as important to the history, prominence, and development of Ireland as Jameson is. Here, at the Guinness Storehouse, you will experience **a deeply immersive educational experience** which is as much about the beer brewing process as it is about the history of Guinness and the impact this brewery had on Ireland's industrial revolution.
 
-The storehouse is 1-part self-guided tour, 1-part museum, and 1-part hands-on experimentation. **You even get to try your hand at making a perfect pour of a pint of Guinness.** If you are interested in visiting the Guinness Storehouse, be sure to read [my comprehensive review of the Guinness Storehouse](https://www.judsonlmoore.com/guinness-storehouse-dublin/).
+The storehouse is 1-part self-guided tour, 1-part museum, and 1-part hands-on experimentation. **You even get to try your hand at making a perfect pour of a pint of Guinness.** If you are interested in visiting the Guinness Storehouse, be sure to read [my comprehensive review of the Guinness Storehouse]({{ site.baseurl }}/guinness-storehouse-dublin/).
 
 Similarly to the Jameson Distillery, I argue that **a visit to the Guinness Storehouse is a must-do** on this list of things to do in Dublin. If you can only do one or the other, then probably the Guinness Storehouse is the better experience, but both are very much worth visiting.
 
@@ -307,7 +307,7 @@ Similarly to the Jameson Distillery, I argue that **a visit to the Guinness Stor
 
 - **Official Website:** [guinness-storehouse.com](https://www.guinness-storehouse.com/en)
 
-- **Additional reading:** [Visiting the Guinness Storehouse](https://www.judsonlmoore.com/guinness-storehouse-dublin/)
+- **Additional reading:** [Visiting the Guinness Storehouse]({{ site.baseurl }}/guinness-storehouse-dublin/)
 
 {% include image.html alt="Judson jumps in the air in front of the Guinness Storehouse" file="../assets/images/2018/01/dublin-weekend-itenerary-guinness-storehouse.jpg" description=" The gates of the Guinness Storehouse in Dublin" %}
 

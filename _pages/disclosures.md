@@ -1,10 +1,14 @@
 ---
 title: Disclosures
 permalink: "/disclosures/"
-layout: legal
+layout: page
 comments: false
 ---
 
+
+<h1>{{ page.title }}</h1>
+
+<p><a href="/terms-and-conditions/">Terms and Conditions</a> | <a href="/refund-policy/">Refund Policy</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/disclosures/">Disclosures</a></p>
 
 ## THE BASICS
 

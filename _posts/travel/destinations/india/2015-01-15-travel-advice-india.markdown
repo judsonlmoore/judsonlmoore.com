@@ -15,7 +15,7 @@ I have seen so much of India at this point that I feel like I can give you some 
 
 ## How to get around India
 
-For regional travel, trains are a great way to get around. The official online train ticket portal is [here](https://www.irctc.co.in/eticketing/loginHome.jsf), but that site is difficult to work with, and you have to create an account before you can even see what the schedules are. The better way to book train tickets is with [Cleartrip](http://www.cleartrip.com/) ([iOS](https://www.judsonlmoore.com/get/ios-cleartrip/) | [Android](https://www.judsonlmoore.com/get/android-cleartrip/)) or with [RailYatri](https://www.railyatri.in/) ([iOS](https://www.judsonlmoore.com/get/ios-railyatri/) | [Android](https://www.judsonlmoore.com/get/android-railyatri/)).  They typically don't accept foreign debit / credit cards though, so it might get tricky. You can easily buy at the station, but you might want to get at least your first ticket booked before arriving in India if you're getting on the train right away. Hotels and hostels are often helpful with booking train tickets, for a fee, of course. The train classes are very complicated and are a legacy of the caste system. You can learn all about the train classes [here](http://wikitravel.org/en/Rail_travel_in_India). I recommend traveling in 1AC (First Class Air Conditioning).
+For regional travel, trains are a great way to get around. The official online train ticket portal is [here](https://www.irctc.co.in/eticketing/loginHome.jsf), but that site is difficult to work with, and you have to create an account before you can even see what the schedules are. The better way to book train tickets is with [Cleartrip](http://www.cleartrip.com/) ([iOS](https://itunes.apple.com/in/app/cleartrip-flights-hotels-indian/id531324961?mt=8) | [Android](https://play.google.com/store/apps/details?hl=en&id=com.cleartrip.android&referrer=apsalar_clid%3Du7obSSvO1l-pEwJ8ymnQVCVQeTXsnb600xy853v-sh-8243R89lvUtJdVIWOpdDR2QPsAkkdnUjS3255m0X_pbIrMP3K0r8MnvBynkgsUxbEE3YICVDoT_ulVhIpSW2lipQb9piDixQ41giv1f20djzyDPKmif4lBS9tKVPBGlA)) or with [RailYatri](https://www.railyatri.in/) ([iOS](https://itunes.apple.com/in/app/railyatri-pnr-status-live/id1052177547?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.railyatri.in.mobile&hl=en)).  They typically don't accept foreign debit / credit cards though, so it might get tricky. You can easily buy at the station, but you might want to get at least your first ticket booked before arriving in India if you're getting on the train right away. Hotels and hostels are often helpful with booking train tickets, for a fee, of course. The train classes are very complicated and are a legacy of the caste system. You can learn all about the train classes [here](http://wikitravel.org/en/Rail_travel_in_India). I recommend traveling in 1AC (First Class Air Conditioning).
 
 [Carz On Rent](http://www.carzonrent.com/) is a very affordable service for hiring cars. You can easily book online with them. Rates are inclusive of the car, driver, fuel and a bunch of miles. Carz On Rent is great for hiring a car for a full day, or for a days-long road trip.
 
@@ -25,9 +25,9 @@ If you want to book any bus, flights or hotels in India, then use the website or
 
 ## Sleeping In India
 
-The best hostels are [Zostel](http://zostel.com/). They cost a few dollars a night are all placed in prime locations and have very good conditions. There is a Zostel in most Rajasthan destinations and as of 2016 have expanded to15 locations across India! [AirBNB](https://www.judsonlmoore.com/get/airbnb/) is also reliable. (that AirBNB link will give you a \$25 credit!) If you are looking for slightly more posh accommodations, then check out the [Trident family of hotels](http://www.tridenthotels.com/). I lived at the Trident in Hyderabad for the duration of my stay and often stayed in their other properties when I was able.
+The best hostels are [Zostel](http://zostel.com/). They cost a few dollars a night are all placed in prime locations and have very good conditions. There is a Zostel in most Rajasthan destinations and as of 2016 have expanded to15 locations across India! [AirBNB](https://www.airbnb.com/c/jmoore381) is also reliable. (that AirBNB link will give you a \$25 credit!) If you are looking for slightly more posh accommodations, then check out the [Trident family of hotels](http://www.tridenthotels.com/). I lived at the Trident in Hyderabad for the duration of my stay and often stayed in their other properties when I was able.
 
-**Related Post: [The Trident Hotel and Poverty](https://www.judsonlmoore.com/the-trident-hotel-and-poverty/)**
+**Related Post: [The Trident Hotel and Poverty]({{ site.baseurl }}/the-trident-hotel-and-poverty/)**
 
 ## Where To Go In India
 
@@ -39,11 +39,11 @@ A great travel plan would be to land in Delhi, see Delhi for 1-2 days, and then 
 
 From Agra, take an overnight train all the way to whatever your furthest away destination is if you're thinking of returning at the end to Delhi. So that means take a train to Jodhpur, Udaipur or Jaisalmer; then work your way back toward Delhi for your return flight.
 
-Aside from that, I can give you specific advice from my experiences in [Jaipur](https://www.judsonlmoore.com/jaipur/), [Ajmer](https://www.judsonlmoore.com/ajmer) and [Pushkar](https://www.judsonlmoore.com/pushkar) (links are to my other blog posts for those destinations). [Wiki Travel](http://wikitravel.org/en/Rajasthan) and [Trip Advisor](http://www.tripadvisor.in/Search?q=Rajasthan&geo=297665&pid=3826&returnTo=http%253A__2F____2F__www__2E__tripadvisor__2E__in__2F__ShowForum__2D__g297665__2D__i4566__2D__Rajasthan__2E__html) will be your friend throughout any travel.
+Aside from that, I can give you specific advice from my experiences in [Jaipur]({{ site.baseurl }}/jaipur/), [Ajmer]({{ site.baseurl }}/ajmer) and [Pushkar]({{ site.baseurl }}/pushkar) (links are to my other blog posts for those destinations). [Wiki Travel](http://wikitravel.org/en/Rajasthan) and [Trip Advisor](http://www.tripadvisor.in/Search?q=Rajasthan&geo=297665&pid=3826&returnTo=http%253A__2F____2F__www__2E__tripadvisor__2E__in__2F__ShowForum__2D__g297665__2D__i4566__2D__Rajasthan__2E__html) will be your friend throughout any travel.
 
-You should try to see [Pushkar](https://www.judsonlmoore.com/pushkar). It is the holiest site in Hinduism and is the location of Moon Lake which is believed to be the origin of the Earth.
+You should try to see [Pushkar]({{ site.baseurl }}/pushkar). It is the holiest site in Hinduism and is the location of Moon Lake which is believed to be the origin of the Earth.
 
-If you have time to do something other than the Golden Triangle, then you should go to [Dharamshala](https://www.judsonlmoore.com/dharamshala), the home of the Dalai Lama. [Check his schedule](http://www.dalailama.com/teachings/schedule) to see if he will be home while you are around. If so, he often gives teachings which open to the public, you just have to show up way early. Also, if you go there, I have a fantastic contact for buying the best jewels, rugs, carpets, Indian handicrafts and Tibetan paintings, and at fantastic prices.
+If you have time to do something other than the Golden Triangle, then you should go to [Dharamshala]({{ site.baseurl }}/dharamshala), the home of the Dalai Lama. [Check his schedule](http://www.dalailama.com/teachings/schedule) to see if he will be home while you are around. If so, he often gives teachings which open to the public, you just have to show up way early. Also, if you go there, I have a fantastic contact for buying the best jewels, rugs, carpets, Indian handicrafts and Tibetan paintings, and at fantastic prices.
 
 ## **Useful Apps In India**
 
@@ -51,9 +51,9 @@ If you have time to do something other than the Golden Triangle, then you should
 
 - [Make My Trip](http://makemytrip.com) - Flights and hotels
 
-- [Cleartrip](http://www.cleartrip.com/) ([iOS](https://www.judsonlmoore.com/get/ios-cleartrip/) | [Android](https://www.judsonlmoore.com/get/android-cleartrip/))
+- [Cleartrip](http://www.cleartrip.com/) ([iOS](https://itunes.apple.com/in/app/cleartrip-flights-hotels-indian/id531324961?mt=8) | [Android](https://play.google.com/store/apps/details?hl=en&id=com.cleartrip.android&referrer=apsalar_clid%3Du7obSSvO1l-pEwJ8ymnQVCVQeTXsnb600xy853v-sh-8243R89lvUtJdVIWOpdDR2QPsAkkdnUjS3255m0X_pbIrMP3K0r8MnvBynkgsUxbEE3YICVDoT_ulVhIpSW2lipQb9piDixQ41giv1f20djzyDPKmif4lBS9tKVPBGlA))
 
-- [RailYatri](https://www.railyatri.in/) ([iOS](https://www.judsonlmoore.com/get/ios-railyatri/) | [Android](https://www.judsonlmoore.com/get/android-railyatri/))
+- [RailYatri](https://www.railyatri.in/) ([iOS](https://itunes.apple.com/in/app/railyatri-pnr-status-live/id1052177547?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.railyatri.in.mobile&hl=en))
 
 - [Zomato](https://www.zomato.com/) - Location-based recommendations (like Yelp)
 

@@ -11,7 +11,7 @@ image:			2017/06/SE_Riodejaneiro0206.jpg
 
 ---
 
-**Imagine yourself going on an adventure** in the Amazon Forest or in the Pantanal, being amazed by the beauty of the nature in [Foz do Iguaçu](https://www.judsonlmoore.com/iguazu-falls-largest-waterfall-system/) or Bonito, living the culture of São Luís or [Ouro Preto](https://www.judsonlmoore.com/ouro-preto-brazil-travel-guide/), trying the hustle and bustle of great centers such as [Rio de Janeiro](http://www.visitbrasil.com/en/destinos/rio-de-janeiro/) or [São Paulo](http://www.visitbrasil.com/en/destinos/sao-paulo/), or simply relaxing and enjoying the sun and the breeze of the ocean in [Fernando de Noronha](http://www.visitbrasil.com/en/estados/pernambuco/) or [Trancoso](http://www.visitbrasil.com/en/destinos/trancoso/). **This is what you can discover when you visit Brazil**.
+**Imagine yourself going on an adventure** in the Amazon Forest or in the Pantanal, being amazed by the beauty of the nature in [Foz do Iguaçu]({{ site.baseurl }}/iguazu-falls-largest-waterfall-system/) or Bonito, living the culture of São Luís or [Ouro Preto]({{ site.baseurl }}/ouro-preto-brazil-travel-guide/), trying the hustle and bustle of great centers such as [Rio de Janeiro](http://www.visitbrasil.com/en/destinos/rio-de-janeiro/) or [São Paulo](http://www.visitbrasil.com/en/destinos/sao-paulo/), or simply relaxing and enjoying the sun and the breeze of the ocean in [Fernando de Noronha](http://www.visitbrasil.com/en/estados/pernambuco/) or [Trancoso](http://www.visitbrasil.com/en/destinos/trancoso/). **This is what you can discover when you visit Brazil**.
 
 Brazil is a continental country: Its 3.3 million square miles make up almost half of South America. Containing six biomes, the country holds the **largest biodiversity on the planet**, not to mention the 4,500 mile-long coastline with **paradise beaches and attractions for all tastes**.
 
@@ -25,11 +25,11 @@ In fact, Brazil offers **infinite possibilities** to the traveler. Going there m
 
 Brazil is a tropical country, with high average temperatures and plenty of rain throughout the year. Due to its huge size, however, its regions show strong climatic differences.
 
-**During the summer**, from December to March, thermometers will normally stay above 75° F in most of the country, and might even reach 104 ° F in some places. December, January, and February are great months to **visit busier coastal destinations**, such as Maceió, [Porto Seguro](https://www.judsonlmoore.com/porto-seguro-brazil-travel-guide/), Búzios, and Balneário Camburiú.
+**During the summer**, from December to March, thermometers will normally stay above 75° F in most of the country, and might even reach 104 ° F in some places. December, January, and February are great months to **visit busier coastal destinations**, such as Maceió, [Porto Seguro]({{ site.baseurl }}/porto-seguro-brazil-travel-guide/), Búzios, and Balneário Camburiú.
 
-**During Brazilian winter**, nevertheless, between June and September, average temperatures will drop drastically and even go below 32° F in some cities in the south of the country. It’s a great moment to **get to know the mountain regions** of the south and southeast, such as Campos do Jordão, Petrópolis, Gramado, and Canela; or to head to the mountain ranges known as Chapadas ([Diamantina](https://www.judsonlmoore.com/diamantina-brazil-travel-guide/), dos Veadeiros, das Mesas, Jalapão, among others), which have lush vegetation and abundant waterfalls after the rainy season.
+**During Brazilian winter**, nevertheless, between June and September, average temperatures will drop drastically and even go below 32° F in some cities in the south of the country. It’s a great moment to **get to know the mountain regions** of the south and southeast, such as Campos do Jordão, Petrópolis, Gramado, and Canela; or to head to the mountain ranges known as Chapadas ([Diamantina]({{ site.baseurl }}/diamantina-brazil-travel-guide/), dos Veadeiros, das Mesas, Jalapão, among others), which have lush vegetation and abundant waterfalls after the rainy season.
 
-[**Visit my full Brazilian Travel Guide**](https://www.judsonlmoore.com/brazil/)
+[**Visit my full Brazilian Travel Guide**]({{ site.baseurl }}/brazil/)
 
 **The fall**, between March and June, and spring, between September and December, are low seasons in Brazil and, therefore, the perfect moment to **enjoy lower prices and escape tourist-filled hotels and attractions**. Besides, temperatures are milder, with sunny days and pleasant nights in most of the country.
 
@@ -81,4 +81,4 @@ Moreover, the website provides essential information, from necessary papers and 
 
 **To ask questions or for more information about visiting Brazil**, please leave a comment below and we will answer you as quickly as possible. Additionally, you can follow [@VisitBrasil on Twitter](https://twitter.com/VisitBrasil).
 
-[**Visit my full Brazilian Travel Guide**](https://www.judsonlmoore.com/brazil/)
+[**Visit my full Brazilian Travel Guide**]({{ site.baseurl }}/brazil/)

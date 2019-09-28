@@ -28,6 +28,6 @@ group :jekyll_plugins do
     gem 'jekyll-cloudinary'
 	gem 'jekyll-include-cache'
     gem 'jekyll-sitemap'
-    #gem 'html-proofer'
+    gem 'html-proofer'
 
 end

@@ -104,7 +104,7 @@ Furthermore, though at the time this passport stamp issue instilled some degree 
 
 - [**Visit Foz**](http://www.visitefoz.com.br/en/) (official) - The official tourism site for the Brazilian city of Foz do Iguazu.
 
-- **[Iguazu Falls on WikiTravel](http://wikitravel.org/en/Igua%C3%A7u_Falls)** - This site is one of the very best resources for travel anywhere! Pair this with the Pocket App ([iOS](https://www.judsonlmoore.com/get/pocket-ios/) | [Android](https://www.judsonlmoore.com/get/pocket-android/)) to compile your own awesome offline travel guides!
+- **[Iguazu Falls on WikiTravel](http://wikitravel.org/en/Igua%C3%A7u_Falls)** - This site is one of the very best resources for travel anywhere! Pair this with the Pocket App ([iOS](https://geo.itunes.apple.com/us/app/pocket-save-articles-videos/id309601447?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)) to compile your own awesome offline travel guides!
 
 **From around the blogosphere**
 
@@ -116,7 +116,7 @@ Furthermore, though at the time this passport stamp issue instilled some degree 
 
 - **[Meine besten Tipps zum Besuch der Iguazu Fälle](http://backpacker-blog.org/tipps-besuch-iguazu-faelle/)** - by Jörg of backpacker-blog.org
 
-- _Have a post to add to this list? Please [contact me](https://www.judsonlmoore.com/contact/)._
+- _Have a post to add to this list? Please [contact me]({{ site.baseurl }}/contact/)._
 
 ## That's a Wrap!
 

@@ -21,7 +21,7 @@ For regional travel, trains are a great way to get around. The official online 
 
 Having an Indian mobile number is the key to many things you might like to access in India. For example, free public wi-fi which often requires you to register an Indian mobile number in order to receive a serial number and pin code to login.
 
-The best hostels are [Zostel](http://zostel.com/). They cost a few dollars a night are all placed in prime locations and have very good conditions. There is a Zostel in most Rajasthan destinations. [AirBNB](https://www.judsonlmoore.com/get/airbnb/) is also reliable.
+The best hostels are [Zostel](http://zostel.com/). They cost a few dollars a night are all placed in prime locations and have very good conditions. There is a Zostel in most Rajasthan destinations. [AirBNB](https://www.airbnb.com/c/jmoore381) is also reliable.
 
 If you want to book any bus, flights or hotels in India, then use the website or app for [MakeMyTrip](http://makemytrip.com/). Air India is the national carrier and has the worst service. IndiGo is the best and has the cleanest aircraft.
 
@@ -33,15 +33,15 @@ A great travel plan would be to land in Delhi, see Delhi for 1-2 days, and then 
 
 From Agra, take an overnight train west all the way to whatever your furthest away destination is if you're thinking of returning at the end to Delhi. So that means take a train to Jodhpur, Udaipur or Jaisalmer; then work your way back toward Delhi for your return flight.
 
-Aside from that, I can give you specific advice from my experiences in [Jaipur](https://www.judsonlmoore.com/jaipur/), [Ajmer](https://www.judsonlmoore.com/ajmer) and [Pushkar](https://www.judsonlmoore.com/pushkar) (links are to my other blog posts for those destinations). [Wiki Travel](http://wikitravel.org/en/Rajasthan) and [Trip Advisor](http://www.tripadvisor.in/Search?q=Rajasthan&geo=297665&pid=3826&returnTo=http%253A__2F____2F__www__2E__tripadvisor__2E__in__2F__ShowForum__2D__g297665__2D__i4566__2D__Rajasthan__2E__html) will be your friend throughout any travel.
+Aside from that, I can give you specific advice from my experiences in [Jaipur]({{ site.baseurl }}/jaipur/), [Ajmer]({{ site.baseurl }}/ajmer) and [Pushkar]({{ site.baseurl }}/pushkar) (links are to my other blog posts for those destinations). [Wiki Travel](http://wikitravel.org/en/Rajasthan) and [Trip Advisor](http://www.tripadvisor.in/Search?q=Rajasthan&geo=297665&pid=3826&returnTo=http%253A__2F____2F__www__2E__tripadvisor__2E__in__2F__ShowForum__2D__g297665__2D__i4566__2D__Rajasthan__2E__html) will be your friend throughout any travel.
 
-You should try to see [Pushkar](https://www.judsonlmoore.com/pushkar). It is the holiest site in Hinduism and is the location of Moon Lake which is believed to be the origin of the Earth.
+You should try to see [Pushkar]({{ site.baseurl }}/pushkar). It is the holiest site in Hinduism and is the location of Moon Lake which is believed to be the origin of the Earth.
 
-If you have time to do something other than the Golden Triangle, then you should go to [Dharamshala](https://www.judsonlmoore.com/dharamshala), the home of the Dalai Lama. [Check his schedule](http://www.dalailama.com/teachings/schedule) to see if he will be home while you are around. If so, he often gives teachings which open to the public, you just have to show up way early. Also, if you go there, I have a fantastic contact for buying the best jewels, rugs, carpets, Indian handicrafts and Tibetan paintings, and at fantastic prices.
+If you have time to do something other than the Golden Triangle, then you should go to [Dharamshala]({{ site.baseurl }}/dharamshala), the home of the Dalai Lama. [Check his schedule](http://www.dalailama.com/teachings/schedule) to see if he will be home while you are around. If so, he often gives teachings which open to the public, you just have to show up way early. Also, if you go there, I have a fantastic contact for buying the best jewels, rugs, carpets, Indian handicrafts and Tibetan paintings, and at fantastic prices.
 
 **Useful Apps**
 
-- [Uber](https://www.judsonlmoore.com/get/uber/) - Taxi service
+- [Uber](https://www.uber.com/invite/uberjudsonlmoore) - Taxi service
 
 - [MakeMyTrip](http://makemytrip.com) - Flights and hotels
 
@@ -63,7 +63,7 @@ If you have time to do something other than the Golden Triangle, then you should
 
 - [Zostel](http://zostel.com/) - Trendy hostels in north India
 
-- [AirBNB](https://www.judsonlmoore.com/get/airbnb/) - All sorts of places to stay all over the world
+- [AirBNB](https://www.airbnb.com/c/jmoore381) - All sorts of places to stay all over the world
 
 - [WikiTravel](http://wikitravel.org/) - Non-commercialized information for traveling just about anywhere
 

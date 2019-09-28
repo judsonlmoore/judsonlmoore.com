@@ -24,7 +24,7 @@ I am not one to back down from a good challenge, so I accepted. It is now three 
 
 I work downtown, so I live near downtown; 4.1 miles to be exact. In my community, this is far enough away for the cost of living to be reasonable, but close enough to where I am in the core service area for many alternative transportation services. It's also a leisurely bike ride or walk if the weather is nice.
 
-**Further Reading: [Top 10 American Cities for Living Without A Car](https://www.judsonlmoore.com/top-10-american-cities-living-without-car/)**
+**Further Reading: [Top 10 American Cities for Living Without A Car]({{ site.baseurl }}/top-10-american-cities-living-without-car/)**
 
 Living in proximity to downtown is more expensive than living in the further-out suburbs, but my net savings are huge. When I had a vehicle, I was spending about $1000 a month on the car note, insurance, gas, parking and maintenance. Now, I rarely spend more than $150 in a month for transportation. My rent might be up \$200-300, but at the end of the month, I am coming out way ahead. I am also saving a lot of time and headache  by not driving in terrible traffic.
 
@@ -41,7 +41,7 @@ I might not have a car, but I do have a very wide menu of transportation options
 - My own bike
 - My own two feet
 
-With all of these options, choosing the best method for right now is sometimes a burden. To help me figure it out, I turn to the Google Maps App ([iOS](https://www.judsonlmoore.com/get/google-maps-ios/) / [Android](https://www.judsonlmoore.com/get/google-maps-android/)) and Ridescout App ([iOS](https://www.judsonlmoore.com/get/moovel-ios/) / [Android](https://www.judsonlmoore.com/get/moovel-android/)). Go give those a look and let me know what you think about them by leaving a comment below.
+With all of these options, choosing the best method for right now is sometimes a burden. To help me figure it out, I turn to the Google Maps App ([iOS](https://geo.itunes.apple.com/us/app/google-maps/id585027354?mt=8&at=1l3vaf4) / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)) and Ridescout App ([iOS](https://app.adjust.com/9kk8vt) / [Android](https://play.google.com/store/apps/details?id=com.daimler.moovel.android)). Go give those a look and let me know what you think about them by leaving a comment below.
 
 ### Public Transit
 
@@ -49,9 +49,9 @@ Living in a community with reliable and widespread public transit is awesome. In
 
 ### Car Sharing
 
-Car Sharing services are sweeping the nation. If you live in a community with [Car2Go](https://www.judsonlmoore.com/get/car2go/) or [ZipCar](https://www.judsonlmoore.com/get/zipcar/), go get a membership, right now. Both services only charge for the time you use the vehicles (no reoccurring monthly costs). Car2Go is for one-way travel, while ZipCar is for roundtrip travel.
+Car Sharing services are sweeping the nation. If you live in a community with [Car2Go](https://www.car2go.com) or [ZipCar](http://www.zipcar.com/referral?promo_code=olvtjsle), go get a membership, right now. Both services only charge for the time you use the vehicles (no reoccurring monthly costs). Car2Go is for one-way travel, while ZipCar is for roundtrip travel.
 
-Though it's a bit more expensive, I find that [Uber](https://www.judsonlmoore.com/get/uber/) and [Lyft](https://www.judsonlmoore.com/get/lyft/) are both very reasonable methods for hitching a ride across town when time is of the essence or when the weather is bad.
+Though it's a bit more expensive, I find that [Uber](https://www.uber.com/invite/uberjudsonlmoore) and [Lyft](https://www.lyft.com/drivers/JUDSON23) are both very reasonable methods for hitching a ride across town when time is of the essence or when the weather is bad.
 
 ### Bike Sharing
 

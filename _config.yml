@@ -2,7 +2,7 @@
 title: Judson L Moore
 name: Judson L Moore
 description: Author and travel addict
-url: https://nonprod.judsonlmoore.com
+url: "https://nonprod.judsonlmoore.com"
 image-path: /assets/images/
 author: judsonlmoore
 twitter:
@@ -95,11 +95,11 @@ authors:
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-include-cache
+  - jekyll-sitemap
 
 # Archives
 jekyll-archives:
@@ -146,7 +146,11 @@ cloudinary:
   steps: 5
   presets:
     default:
-      min_width: 320
+      gravity: auto
+      crop: c_fill
+      focus: auto
+      quality: auto
+      min_width: 150
       max_width: 1200
       fallback_max_width: 800
       steps: 5
@@ -158,9 +162,22 @@ cloudinary:
     featured-box-img-cover:
       attributes:
         class: featured-box-img-cover
+        min_width: 185
+        min_hight: 350
+        max_width: 510
+        max_height: 360
     featured:
       attibutes:
         class: featured-image img-fluid
+        min_width: 315
+        min_hight: 210
+        max_width: 800
+        max_height: 530
     author-thumb: 
+      steps: 2
       attributes: 
         class: author-thumb
+        min_width: 40
+        min_hight: 40
+        max_width: 72
+        max_height: 72

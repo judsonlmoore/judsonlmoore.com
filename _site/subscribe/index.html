@@ -8,9 +8,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <link rel="icon" href="/assets/images/favicon.png" />
         <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Subscribe now to get postcards, travel comics and more | Judson L Moore</title>
+<title>Subscribe | Judson L Moore</title>
 <meta name="generator" content="Jekyll v3.8.6" />
-<meta property="og:title" content="Subscribe now to get postcards, travel comics and more" />
+<meta property="og:title" content="Subscribe" />
 <meta name="author" content="judsonlmoore" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Author and travel addict" />
@@ -18,13 +18,15 @@
 <link rel="canonical" href="http://localhost:4000/subscribe/" />
 <meta property="og:url" content="http://localhost:4000/subscribe/" />
 <meta property="og:site_name" content="Judson L Moore" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Subscribe now to get postcards, travel comics and more" />
+<meta property="og:image" content="http://localhost:4000/2017/04/Florian%C3%B3polis-Santa-Catarina-Brazil-Sand-Dunes.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://localhost:4000/2017/04/Florian%C3%B3polis-Santa-Catarina-Brazil-Sand-Dunes.jpg" />
+<meta property="twitter:title" content="Subscribe" />
 <meta name="twitter:site" content="@judsonlmoore" />
 <meta name="twitter:creator" content="@judsonlmoore" />
 <meta property="fb:app_id" content="611458568990674" />
 <script type="application/ld+json">
-{"description":"Author and travel addict","author":{"@type":"Person","name":"judsonlmoore"},"@type":"WebPage","url":"http://localhost:4000/subscribe/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"headline":"Subscribe now to get postcards, travel comics and more","@context":"https://schema.org"}</script>
+{"description":"Author and travel addict","author":{"@type":"Person","name":"judsonlmoore"},"@type":"WebPage","url":"http://localhost:4000/subscribe/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/jlm-logo-full-bw-dark.png"},"name":"judsonlmoore"},"image":"http://localhost:4000/2017/04/Florian%C3%B3polis-Santa-Catarina-Brazil-Sand-Dunes.jpg","headline":"Subscribe","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -36,7 +38,7 @@
     </head>
 
      
-    <body class="layout-page">
+    <body class="layout-fullwidth-hero">
         <!-- defer loading of font and font awesome -->
         <noscript id="deferred-styles">
             <link
@@ -211,262 +213,299 @@
 
         <!-- Begin Content
 ================================================== -->
-        <div class="site-content">
+        <style type="text/css">
+	#fullwidth-img {
+		background-image: url("/assets/images/2017/04/Florianópolis-Santa-Catarina-Brazil-Sand-Dunes.jpg");
+		background-size: cover;
+	    background-position: center;
+	}
+	div#fullwidth-img {
+		text-shadow: 1px 1px #3e5062;
+	}
+</style>
+
+  <!-- Header -->
+  <div id="fullwidth-img" class="container-fluid py-5 mb-5">
+    <div class="container h-100">
+      <div class="row h-100 align-items-center">
+        <div class="col-lg-12">
+          <h1 class="display-3 font-weight-bolder text-white mt-5 mb-2">Subscribe</h1>
+          <p class="h4 font-weight-bolder text-white mb-5">Join me on an adventure</p>
+          <button
+	type="button"
+	class="btn btn-primary btn-lg"
+	data-toggle="modal"
+	data-target="#exampleModal"
+	>
+	Subscribe now for more  tips <i class="fas fa-envelope"></i>
+</button>
+
+<div
+	class="modal fade"
+	id="exampleModal"
+	tabindex="-1"
+	role="dialog"
+	aria-labelledby="exampleModalLabel"
+	aria-hidden="true"
+>
+	<div class="modal-dialog" role="document">
+	    <div class="container" id="registration-form">
+	        <div class="image"></div>
+	        <div class="frm">
+	        	<div class="modal-header">
+		            <h1>Sign up</h1>
+					<button 
+						type="button" 
+						class="close" 
+						data-dismiss="modal" 
+						aria-label="Close"
+						>
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+	            <form
+	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
+	method="post"
+	name="mc-embedded-subscribe-form"
+	class="wj-contact-form validate"
+	target="_blank"
+	novalidate
+>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Email address</label>
+		<input
+			type="email"
+			name="EMAIL"
+			class="form-control required email"
+			id="mce-EMAIL"
+			aria-describedby="emailHelp"
+			placeholder="Enter email"
+			autocomplete="on"
+			required
+		/>
+	</div>
+	<button
+		type="submit"
+		value="Subscribe"
+		name="subscribe"
+		class="btn btn-primary btn-lg"
+	>
+		Submit
+	</button>
+	<small id="emailHelp" class="form-text text-muted">You will be subscribed to email updates. Unsubscribe anytime.</small>
+</form>
+<script type="text/javascript">
+	$("#exampleModal").on("show.bs.modal", function(event) {
+		var button = $(event.relatedTarget); // Button that triggered the modal
+		var recipient = button.data("whatever"); // Extract info from data-* attributes
+		// If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+		// Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+		var modal = $(this);
+		modal.find(".modal-title").text("New message to " + recipient);
+		modal.find(".modal-body input").val(recipient);
+	});
+</script>
+
+	        </div>
+	    </div>
+	</div>
+</div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="site-content">
     <div class="container">
 
         <!-- Content
 ================================================== -->
         <div class="main-content">
 
-            <section>
+			<div class="row">
+			  <div class="col-lg-12">
+			    <div class="row py-5">
 
-                <div class="article-post">
-                    <h2 id="will-you-join-meon-an-adventure">WILL YOU JOIN ME ON AN ADVENTURE?</h2>
+	<div class="col-lg-3">
+		<span><p class="h4"><i class="fas fa-mail-bulk"></i> Postcards</p></span>
+		<p>I turn my best photos into postcards and offer them to you</p>
+	</div>
 
-<p>##</p>
+	<div class="col-lg-3">
+		<span><p class="h4"><i class="far fa-laugh"></i> Laugh</p></span>
+		<p>I have a great collection of travel comics that I will share with you</p>
+	</div>
 
-<p>Join me as I make my way around the world and share what I learn</p>
+	<div class="col-lg-3">
+		<span><p class="h4"><i class="far fa-edit"></i> Latest Posts</p></span>
+		<p>Be the first to know when I publish a new article or guide</p>
+	</div>
 
-<p></p>
+	<div class="col-lg-3">
+		<span><p class="h4"><i class="fas fa-gift"></i> Free Stuff</p></span>
+		<p>Exclusive guides, templates, and content to help you live your&nbsp;dream</p>
+	</div>
 
-<h5 id="postcards">Postcards</h5>
+</div>
 
-<p>##</p>
+<p class="text-center"><strong>You are joining a community of +60,000!</strong></p>
 
-<p>I turn my best photos into postcards and offer them to you</p>
+<div class="row py-5">
+	<div class="col-lg-6">
 
-<p></p>
+		<img src="http://localhost:4000/assets/images/2017/06/travel-cartoon-001.jpg" class="img-fluid" loading="auto"  alt="travel-cartoon-001" width="500" height="375" crossorigin="anonymous" />
 
-<h5 id="laugh">Laugh</h5>
+	</div>
 
-<p>##</p>
+	<div class="col-lg-6">
 
-<p>I have a great collection of travel comics that I will share with you</p>
+		<h2>LAUGH</h2>
+		<p>I have a massive collection of hilarious travel cartoons and jokes. When you subscribe for free to my newsletter, I will send laughs direct to your inbox.</p>
+		<p><strong>Start your week</strong>&nbsp;with a travel cartoon in your mailbox<br>
+		<strong>Cartoons are curated</strong>&nbsp;from a wide verity of cartoonists<br>
+		Print them out or share them on social media&nbsp;<strong>with friends and family</strong></p>
 
-<p>l</p>
+	</div>
+</div>
 
-<h5 id="latest-posts">Latest Posts</h5>
+<div class="row py-5">
+	<div class="col-lg-6">
 
-<p>##</p>
+		<h2>FREE STUFF & DISCOUNTS</h2>
+		<p>As a newsletter subscriber, you will get exclusive offers and deals on products in my online shop. You will also get early-access to all new products.</p>
+		<p><strong>Instant 25% discount</strong>&nbsp;on any downloadable product<br>
+		Access to the&nbsp;<strong>high tech resume template</strong><br>
+		Access to the&nbsp;<strong>life goals checklist building template</strong></p>
 
-<p>Be the first to know when I publish a new article or guide</p>
+	</div>
+	<div class="col-lg-6">
 
-<p></p>
+		<img src="http://localhost:4000/assets/images/2017/06/piggy-bank.jpg" class="img-fluid" loading="auto"  alt="Piggy Bank on a white background" width="550" height="367" crossorigin="anonymous" />
 
-<h5 id="free-stuff">Free Stuff</h5>
+	</div>
+</div>
 
-<p>##</p>
+<div class="row py-5">
+	<div class="col-lg-6">
 
-<p>Exclusive guides, templates, and content to help you live your dream</p>
+		<img src="http://localhost:4000/assets/images/2017/06/postcard-mockup.png" class="img-fluid" loading="auto"  alt="Piggy Bank on a white background" width="663" height="498" crossorigin="anonymous" />
 
-<p>You are joining a community of +60,000!</p>
+	</div>
+	<div class="col-lg-6">
 
-<h3 id="laugh-1">LAUGH</h3>
+		<h2>POSTCARDS</h2>
+		<p>If you like the photography in my posts then you are going to love my postcards! Send them to your friends, put them on your refrigerator, or use them as inspiration for your next trip.</p>
+		<p><strong>Original photography</strong>&nbsp;turned in to high quality postcards<br>
+		<strong>Downloadable and print</strong>&nbsp;versions available<br>
+		If you like,&nbsp;<strong>I will send you a postcard</strong>&nbsp;from my travels!</p>
+		<p><a href="/assets/images/2017/06/Postcard-India-Pushkar-Romeo-the-Camel.pdf">Click here to download your first postcard right now!</a></p>
 
-<p>##</p>
+	</div>
+</div>
 
-<p>I have a massive collection of hilarious travel cartoons and jokes. When you subscribe for free to my newsletter, I will send laughs direct to your inbox.</p>
+<div class="row py-5">
+	<div class="col-lg-6">
 
-<p>Start your week with a travel cartoon in your mailbox<br />
-Cartoons are curated from a wide verity of cartoonists<br />
-Print them out or share them on social media with friends and family</p>
+		<h2>GET UPDATED</h2>
+		<p>Be the first to know when I publish a new post, ebook, product, or special offer.</p>
+		<p>I will email you when I have something&nbsp;<strong>truly interesting</strong>&nbsp;to share<br>
+		Be part of a community of&nbsp;<strong>+60,000</strong><br>
+		<strong>Unsubscribe anytime</strong></p>
 
-<h3 id="free-stuff--discounts">FREE STUFF &amp; DISCOUNTS</h3>
+	</div>
+	<div class="col-lg-6">
 
-<p>##</p>
+		<img src="http://localhost:4000/assets/images/2017/06/mockup-landing-page-newsletter-iPhone.jpg" class="img-fluid" loading="auto"  alt="Mockup of newsletter on iPhone 7 Plus" width="550" height="366" crossorigin="anonymous" />
 
-<p>As a newsletter subscriber, you will get exclusive offers and deals on products in my online shop. You will also get early-access to all new products.</p>
+	</div>
+</div>
 
-<p>Instant 25% discount on any downloadable product<br />
-Access to the high tech resume template<br />
-Access to the life goals checklist building template</p>
+<div class="row py-5 bg-light">
+	<div class="col-lg-6">
 
-<h3 id="postcards-1">POSTCARDS</h3>
+		<p>Are you ready to join me on this adventure?</p>
 
-<p>##</p>
+	</div>
+	<div class="col-lg-6">
 
-<p>If you like the photography in my posts then you are going to love my postcards! Send them to your friends, put them on your refrigerator, or use them as inspiration for your next trip.</p>
-
-<p>Original photography turned in to high quality postcards<br />
-Downloadable and print versions available<br />
-If you like, I will send you a postcard from my travels!</p>
-
-<p><a href="https://cdn.judsonlmoore.com/uploads/2017/06/18120308/Postcard-India-Pushkar-Romeo-the-Camel.pdf">Click here to download your first postcard right now!</a></p>
-
-<h3 id="get-updated">GET UPDATED</h3>
-
-<p>##</p>
-
-<p>Be the first to know when I publish a new post, ebook, product, or special offer.</p>
-
-<p>I will email you when I have something truly interesting to share<br />
-Be part of a community of +60,000<br />
-Unsubscribe anytime</p>
-
-                </div>
-
-                
-
-                <div id="comments" class="row mb-5">
-                    <div class="col-md-8">
-                        <div class="disqus"></div>
+		<form
+	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
+	method="post"
+	name="mc-embedded-subscribe-form"
+	class="wj-contact-form validate"
+	target="_blank"
+	novalidate
+>
+	<div class="form-group">
+		<label for="exampleInputEmail1">Email address</label>
+		<input
+			type="email"
+			name="EMAIL"
+			class="form-control required email"
+			id="mce-EMAIL"
+			aria-describedby="emailHelp"
+			placeholder="Enter email"
+			autocomplete="on"
+			required
+		/>
+	</div>
+	<button
+		type="submit"
+		value="Subscribe"
+		name="subscribe"
+		class="btn btn-primary btn-lg"
+	>
+		Submit
+	</button>
+	<small id="emailHelp" class="form-text text-muted">You will be subscribed to email updates. Unsubscribe anytime.</small>
+</form>
 <script type="text/javascript">
-    $.disqusLoader(".disqus", { scriptUrl: "//username.disqus.com/embed.js" });
-
-    /*
-    disqusLoader.js v1.0
-    A JavaScript plugin for lazy-loading Disqus comments widget.
-    -
-    By Osvaldas Valutis, www.osvaldas.info
-    Available for use under the MIT License
-*/
-
-(function($, window, document, undefined) {
-    "use strict";
-
-    var $win = $(window),
-        throttle = function(a, b) {
-            var c, d;
-            return function() {
-                var e = this,
-                    f = arguments,
-                    g = +new Date();
-                c && g < c + a
-                    ? (clearTimeout(d),
-                      (d = setTimeout(function() {
-                            (c = g), b.apply(e, f);
-                      }, a)))
-                    : ((c = g), b.apply(e, f));
-            };
-        },
-        throttleTO = false,
-        laziness = false,
-        disqusConfig = false,
-        scriptUrl = false,
-        scriptStatus = "unloaded",
-        $instance = $(),
-        init = function() {
-            if (
-                !$instance.length ||
-                $instance.data("disqusLoaderStatus") == "loaded"
-            )
-                return true;
-
-            var winST = $win.scrollTop();
-
-            // if the element is too far below || too far above
-            if (
-                $instance.offset().top - winST > $win.height() * laziness ||
-                winST -
-                    $instance.offset().top -
-                    $instance.outerHeight() -
-                    $win.height() * laziness >
-                    0
-            )
-                return true;
-
-            $("#disqus_thread").removeAttr("id");
-            $instance
-                .attr("id", "disqus_thread")
-                .data("disqusLoaderStatus", "loaded");
-
-            if (scriptStatus == "loaded") {
-                DISQUS.reset({ reload: true, config: disqusConfig });
-            } // unloaded | loading
-            else {
-                window.disqus_config = disqusConfig;
-                if (scriptStatus == "unloaded") {
-                    scriptStatus = "loading";
-                    $.ajax({
-                        url: scriptUrl,
-                        async: true,
-                        cache: true,
-                        dataType: "script",
-                        success: function() {
-                            scriptStatus = "loaded";
-                        }
-                    });
-                }
-            }
-        };
-
-    $win.on("scroll resize", throttle(throttleTO, init));
-
-    $.disqusLoader = function(element, options) {
-        options = $.extend(
-            {},
-            {
-                laziness: 1,
-                throttle: 250,
-                scriptUrl: false,
-                disqusConfig: false
-            },
-            options
-        );
-
-        laziness = options.laziness + 1;
-        throttleTO = options.throttle;
-        disqusConfig = options.disqusConfig;
-        scriptUrl = scriptUrl === false ? options.scriptUrl : scriptUrl; // set it only once
-        $instance = (typeof element == "string" ? $(element) : element).eq(0);
-
-        $instance.data("disqusLoaderStatus", "unloaded");
-
-        init();
-    };
-})(jQuery, window, document);
-
+	$("#exampleModal").on("show.bs.modal", function(event) {
+		var button = $(event.relatedTarget); // Button that triggered the modal
+		var recipient = button.data("whatever"); // Extract info from data-* attributes
+		// If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+		// Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+		var modal = $(this);
+		modal.find(".modal-title").text("New message to " + recipient);
+		modal.find(".modal-body input").val(recipient);
+	});
 </script>
 
-<!--
-<section class="disqus">
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        var disqus_shortname = "judsonlmoore";
-        var disqus_developer = 0;
-        (function() {
-            var dsq = document.createElement("script");
-            dsq.type = "text/javascript";
-            dsq.async = true;
-            dsq.src =
-                window.location.protocol +
-                "//" +
-                disqus_shortname +
-                ".disqus.com/embed.js";
-            (
-                document.getElementsByTagName("head")[0] ||
-                document.getElementsByTagName("body")[0]
-            ).appendChild(dsq);
-        })();
-    </script>
-    <noscript
-        >Please enable JavaScript to view the
-        <a href="http://disqus.com/?ref_noscript"
-            >comments powered by Disqus.</a
-        ></noscript
-    >
-    <a href="http://disqus.com" class="dsq-brlink"
-        >comments powered by <span class="logo-disqus">Disqus</span></a
-    >
-</section>
--->
 
-                    </div>
-                </div>
+	</div>
+</div>
+			  </div>
+			</div>
+			<!-- /.row -->
 
-                
-            </section>
+			<section>
+				<div class="section-title">
+					<h2><span>Posts about </span></h2>
+				</div>
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="row listrecent">
+							 
+							
+						</div>
+					</div>
+				</div>
+			</section>
 
         </div> <!-- main-content -->
     </div> <!-- container -->
 </div> <!-- site-content -->
+
+
         <!-- End Content
 ================================================== -->
 
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer font-small unique-color-dark d-none d-lg-block">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

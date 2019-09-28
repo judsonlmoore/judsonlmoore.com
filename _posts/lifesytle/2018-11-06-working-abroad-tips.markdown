@@ -20,7 +20,7 @@ I don't regret any of my moves abroad, but not all of them have worked out as ho
 
 Moving abroad as a student is relatively easy. Perhaps even getting an internship or very entry-level job under the right conditions could be managed without too much difficulty. But what about those of us who have long-sense graduated and are not willing to take a massive pay cut as an intern? It is said that beggars can't be choosers, and I will confess that some sacrifice might be necessary, but with a good strategy and a lot of motivation, **I believe that anyone can find a way to make a successful move abroad** and land a satisfying and rewarding job in the process.
 
-**Recommended reading: [The Secret to all my Success](https://www.judsonlmoore.com/showing-up-secret-to-success/)**
+**Recommended reading: [The Secret to all my Success]({{ site.baseurl }}/showing-up-secret-to-success/)**
 
 I am thrilled to now say that I have lived and worked for more than two years in Germany and have been having a great time while I am at it. A lot of people have started to now ask "Judson, what tips do you have for now to find work in Germany as an immigrant?" So I thought it was about time that I write down my observations and thoughts about how you too can make a successful move to Europe. Moreover, I think that this advice is relevant regardless of where you are from and to what country you would like to move to.
 
@@ -80,7 +80,7 @@ You may or may not find that the career path you are currently on or would like 
 
 If none of that sounds like a longterm passion for you, ask yourself, "would an international experience in one of these fields serve me well later in my career for what I really want to do?" If so, then why not give it a try? Not only might you find your way into that coveted visa, but you also will gain valuable experience while getting your foot in the door. **This is just the beginning.**
 
-**Recommended Reading: [High-tech Tips for any Resume](https://www.judsonlmoore.com/high-tech-resume-tips/)**
+**Recommended Reading: [High-tech Tips for any Resume]({{ site.baseurl }}/high-tech-resume-tips/)**
 
 ## But I don't want to be in Sales or Marketing!
 
@@ -105,7 +105,3 @@ After one year, I shifted into the role I _really_ wanted, software product man
 ## How did it go?
 
 Go give this a try, look around LinkedIn, and let me know what you discover and how it went **by leaving a comment below**. Do you have other advice to offer? Please share that here as well, and good luck, you can do it!
-
-```
-
-```

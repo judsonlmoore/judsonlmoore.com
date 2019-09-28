@@ -21,7 +21,7 @@ Spoiler Alert! YOU can write a book, and with Honorée Corder's most recent book
 
 **Lowlights -** Crafting the reader journey via a comprehensive story-arch is not covered in-depth. Outlining techniques are well explained but the creative component is lacking.
 
-**Bottom Line -** You should read the rest of my post, but feel free to do it after you [buy the book](https://www.judsonlmoore.com/get/honoree-corder-you-must-write-a-book/). It is just that good! If you have ever considered writing a book on any topic but don't know where to start or even how to finish, then *You Must Write A Book*, by Honorée Corder is a must-read.
+**Bottom Line -** You should read the rest of my post, but feel free to do it after you [buy the book](http://amzn.to/2dmMtlo). It is just that good! If you have ever considered writing a book on any topic but don't know where to start or even how to finish, then *You Must Write A Book*, by Honorée Corder is a must-read.
 
 ## Summary of You Must Write A Book
 
@@ -55,9 +55,9 @@ Honorée says many times that being a genius, having 40 years experience, or bei
 
 ## Will You Accept the Challenge?
 
-Now it is your turn! What will you do? Will you read this book? Will you write your own book? [Buying it now on Amazon](https://www.judsonlmoore.com/get/honoree-corder-you-must-write-a-book/) is the first step. I would LOVE to discuss this book and your writing with you further. Please leave me a comment below, or contact me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
+Now it is your turn! What will you do? Will you read this book? Will you write your own book? [Buying it now on Amazon](http://amzn.to/2dmMtlo) is the first step. I would LOVE to discuss this book and your writing with you further. Please leave me a comment below, or contact me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
 
-**Spoiler Alert #2:** I am writing a book! Look for it later this year. To be alerted of all my updates and when my book is published, [subscribe to my newsletter now](https://www.judsonlmoore.com/subscribe/).
+**Spoiler Alert #2:** I am writing a book! Look for it later this year. To be alerted of all my updates and when my book is published, [subscribe to my newsletter now]({{ site.baseurl }}/subscribe/).
 
 {% include image.html alt="Honoree Corder, Author" file="../assets/images/2016/09/honoree-corder-headshot-e1474796598717.jpg" description="About Honorée Corder" %}
 

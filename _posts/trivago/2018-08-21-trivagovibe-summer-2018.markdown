@@ -16,7 +16,7 @@ image:			2018/08/trivagoVibe-Summer-2018-007.jpg
 ---
 
 
-**I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed trivago on Tour annual trip](https://www.judsonlmoore.com/trivago-tour-2017/). Nothing beats live music in my book!) And at trivago, live music means **trivagoVibe!** 
+**I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed trivago on Tour annual trip]({{ site.baseurl }}/trivago-tour-2017/). Nothing beats live music in my book!) And at trivago, live music means **trivagoVibe!** 
 
 trivago recently moved into [a new spaceship-like campus](https://youtu.be/LQikZZIia2k) in Düsseldorf, which is an incredible facility in every way, including lots of open-air spaces which are perfect for music. During the past trivagoVibes, I didn't have the opportunity to perform and so this time I was as proactive as possible to make sure that I would be included in the lineup. **I couldn't be more satisfied with the outcomes.**
 
@@ -24,7 +24,7 @@ The lineup of musicians was incredibly impressive. With a range of genres from s
 
 ## How e-Drums Changed Everything
 
-A few years back while I was [traveling across India](https://www.judsonlmoore.com/india/), **I had an identity crisis**. I came to understand that if I wanted to continue saying, "I am a drummer," instead of, "I _was_ a drummer," then I better start drumming more regularly. My nomadic and apartment-dwelling lifestyle was not conducive to such loud and bulky habits. One night, while laying in bed, I was watching drumming YouTube videos when I came across a [Drumeo video featuring Michael Schack](https://www.youtube.com/watch?v=JqReO5NPN_g), Roland's endorsed artist for their flagship e-drums. I was hooked, and 10-minutes later, I was typing my credit card into eBay where I found a great deal on a Roland TD-30KV drum set.
+A few years back while I was [traveling across India]({{ site.baseurl }}/india/), **I had an identity crisis**. I came to understand that if I wanted to continue saying, "I am a drummer," instead of, "I _was_ a drummer," then I better start drumming more regularly. My nomadic and apartment-dwelling lifestyle was not conducive to such loud and bulky habits. One night, while laying in bed, I was watching drumming YouTube videos when I came across a [Drumeo video featuring Michael Schack](https://www.youtube.com/watch?v=JqReO5NPN_g), Roland's endorsed artist for their flagship e-drums. I was hooked, and 10-minutes later, I was typing my credit card into eBay where I found a great deal on a Roland TD-30KV drum set.
 
 In the past years, I have enjoyed coming home to my 1-bedroom apartment and jamming under the headphones late into the night without disturbing my neighbors. I even did a few studio recordings with the drums (they sound even better than 'real' drums on recordings) **but never dared to dream of using them for a live performance**; I am too much of an acoustic-purist to play e-drums live!
 
@@ -68,7 +68,7 @@ As I walked onto the stage, I slipped into character. For the next 32 minutes, I
 
 > **Update:** Checkout the official website for Drumson at [https://drumson.de](https://drumson.de)!
 
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="Drumson performs a solo show at the 2018 trivagoVibe!" caption="Drumson performs a solo show at the 2018 trivagoVibe" %}
+{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="Drumson performs a solo show at the 2018 trivagoVibe" caption="Drumson performs a solo show at the 2018 trivagoVibe" %}
 
 ## Watch Video Footage from my First DRUMSON Performance
 

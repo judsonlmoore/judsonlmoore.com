@@ -10,7 +10,7 @@ image:			2012/10/NewContactInfo.jpg
 
 ---
 
-[](https://www.judsonlmoore.com/my-new-contact-information/)
+[]({{ site.baseurl }}/my-new-contact-information/)
 
 Please update your records to reflect my new contact information:
 

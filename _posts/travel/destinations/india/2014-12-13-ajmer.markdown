@@ -12,7 +12,7 @@ image:			2015/01/IMG_4234.jpg
 
 ## Arriving to Ajmer
 
-My first train ride in India led me to Ajmer, a small town in the heart of Rajasthan. A German friend of mine, Tobi, who is also staying at my hotel in Hyderabad, joined on this weekend adventure which also covered [Jaipur](https://www.judsonlmoore.com/jaipur/) and [Pushkar](https://www.judsonlmoore.com/pushkar/).
+My first train ride in India led me to Ajmer, a small town in the heart of Rajasthan. A German friend of mine, Tobi, who is also staying at my hotel in Hyderabad, joined on this weekend adventure which also covered [Jaipur]({{ site.baseurl }}/jaipur/) and [Pushkar]({{ site.baseurl }}/pushkar/).
 
 Ajmer is a small town of only 500,000 people (which is a small town in these parts). The town was easily walkable, which is what we opted to do for the mile journey to Daulat Bagh, a park on Ana Sagar Lake. In the park, we came across an interesting temple to Lord Shiva. I would later learn that king cobra snakes are present in all of Lord Shiva's temples, but in Rajasthan they seem to be much more prominent. Despite this, I only came across one real king cobra snake on my journey and I was more afraid of its charmer than I was the snake its self. More on that in my post about Jaipur.
 
@@ -20,7 +20,7 @@ Ajmer is a small town of only 500,000 people (which is a small town in these par
 
 After the temple, we continued on to Lake Ana Sagar, a 900-year old manmade lake. The prominent feature about this lake is a 5-pavilion marble structure known as Baradari. I am not sure what the significance of this site is, but it's expanse of white marble overlooking the lake is beautiful; no wonder the tourists flourish to this site. The weather was perfect and the fresh air coming off the lake was a welcome reprise from the dry air of the desert.
 
-We only had a few hours to spend in Ajmer, so after finding a quick coffee we hailed a cab and moved on to the nearby town of Pushkar where we embarked on an [overnight camel safari](https://www.judsonlmoore.com/pushkar/)!
+We only had a few hours to spend in Ajmer, so after finding a quick coffee we hailed a cab and moved on to the nearby town of Pushkar where we embarked on an [overnight camel safari]({{ site.baseurl }}/pushkar/)!
 
 Have you been to Ajmer? Planing a trip there? Please leave me a comment below, or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
 

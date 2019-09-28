@@ -25,7 +25,7 @@ Next up: Heritage Village. This dusty spot is a reconstruction of what life was 
 
 Near to the Heritage Village is a landmark simply known as the "flagpole," which makes sense, because at 123m (403.5 feet), it is among the world's tallest flagpoles, and you won't miss the massive UAE flag hanging off it.
 
-After this, it was time for me to head to the Marina Mall and find internet so that I could connect with my dear friend Laura who I would soon meet up with and drive to Dubai. More about Dubai and Laura in [my next post](https://www.judsonlmoore.com/dubai/).
+After this, it was time for me to head to the Marina Mall and find internet so that I could connect with my dear friend Laura who I would soon meet up with and drive to Dubai. More about Dubai and Laura in [my next post]({{ site.baseurl }}/dubai/).
 
 Please forgive my appearance in these photos; I'd been on a plane for over 24-hours and had no rest before going directly to see everything I could.
 

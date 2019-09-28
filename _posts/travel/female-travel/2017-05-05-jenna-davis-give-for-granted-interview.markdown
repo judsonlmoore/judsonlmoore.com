@@ -14,7 +14,7 @@ image:			2017/04/jenna-davis-give-for-granted-e1493307152121.jpg
 
 ### GIVE FOR GRANTED FOUNDER JENNA DAVIS
 
-I came to know Jenna Davis while living in Düsseldorf Germany where I work, and where she has perfected the art of making play, work. Jenna is a rare breed. She is one who stood up and said, “yes!” Her story is truly one of living ones’ “what if,” and I am thrilled to have had the opportunity to interview her and learn about her journey in life. Enjoy the interview, get inspired, and [leave Jenna a comment](https://www.judsonlmoore.com/jenna-davis-give-for-granted-interview/#dsq-app1) below.
+I came to know Jenna Davis while living in Düsseldorf Germany where I work, and where she has perfected the art of making play, work. Jenna is a rare breed. She is one who stood up and said, “yes!” Her story is truly one of living ones’ “what if,” and I am thrilled to have had the opportunity to interview her and learn about her journey in life. Enjoy the interview, get inspired, and [leave Jenna a comment]({{ site.baseurl }}/jenna-davis-give-for-granted-interview/#dsq-app1) below.
 
 Connect with Jenna Davis and with Give For Granted:
 
@@ -117,4 +117,4 @@ The secret? I stopped waiting for life to happen, I made it happen.
 
 ### CONNECT WITH JENNA DAVIS
 
-Thank you Jenna for taking the time to provide these insights about how you have successfully escaped the rat-race of others’ expectations and gone out into the world to live your own life. The happiness you have found radiates to those around you, and to those you read your work. To all the readers who have made it this far, please [leave a comment](https://www.judsonlmoore.com/jenna-davis-give-for-granted-interview/#dsq-app1) for Jenna, or connect with her online: [GiveForGranted.com](http://www.giveforgranted.com/) | [Facebook](https://www.facebook.com/giveforgranted/) | [Twitter](https://twitter.com/giveforgranted/) | [YouTube](https://www.youtube.com/user/giveforgranted/) | [Instagram](http://www.instagram.com/giveforgranted).
+Thank you Jenna for taking the time to provide these insights about how you have successfully escaped the rat-race of others’ expectations and gone out into the world to live your own life. The happiness you have found radiates to those around you, and to those you read your work. To all the readers who have made it this far, please [leave a comment]({{ site.baseurl }}/jenna-davis-give-for-granted-interview/#dsq-app1) for Jenna, or connect with her online: [GiveForGranted.com](http://www.giveforgranted.com/) | [Facebook](https://www.facebook.com/giveforgranted/) | [Twitter](https://twitter.com/giveforgranted/) | [YouTube](https://www.youtube.com/user/giveforgranted/) | [Instagram](http://www.instagram.com/giveforgranted).

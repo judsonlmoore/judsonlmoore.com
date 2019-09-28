@@ -10,7 +10,7 @@ image:			2012/06/LSUAlumniMagazine-ArticleSummer20121.jpg
 
 ---
 
-[](https://www.judsonlmoore.com/lsu-alumni-magazine-article-summer-2012/)
+[]({{ site.baseurl }}/lsu-alumni-magazine-article-summer-2012/)
 
 Greetings Tiger Nation,
 
