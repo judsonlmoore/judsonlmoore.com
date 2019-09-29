@@ -25,9 +25,10 @@ post_class: post-template
                     <!-- Post -->
 
                     <div class="col-md-9 flex-first flex-md-unordered">
-                        <div class="mainheading px-0 px-md-5">
+                        <div class="mainheading px-0 pt-md-5">
 
                             <!-- Post Title -->
+                            {% if page.image %}
                             <h1 class="posttitle">{{ page.title }}</h1>
 
                             <!-- Post Date -->
@@ -39,6 +40,23 @@ post_class: post-template
                                 {% endif %}
                                 </small>
                             </p>
+                            {% else %}
+                            <div class="jumbotron">
+                                <h1 class="posttitle">{{ page.title }}</h1>
+
+                                <!-- Post Date -->
+                                <p>
+                                    <small>
+                                        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                                        {% if page.last_modified_at %}
+                                        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                                    {% endif %}
+                                    </small>
+                                </p>
+
+                            </div>
+
+                            {% endif %}
 
                         </div>
 
@@ -52,12 +70,14 @@ post_class: post-template
 
                         {% if page.image %}
                         <!-- Post Featured Image -->
+                        <div class="px-0 py-md-5">
                             {% cloudinary featured {{ site.baseurl }}{{ site.image-path }}{{ page.image }} alt="{{ page.title }}" %}
+                        </div>
                         <!-- End Featured Image -->
                         {% endif %}
 
                         <!-- Post Content -->
-                        <div class="article-post px-0 px-md-5">
+                        <div class="article-post px-0 pb-md-5">
                             <!-- Toc if any -->
                             {% if page.toc %}
                                 {% if page.beforetoc %}
