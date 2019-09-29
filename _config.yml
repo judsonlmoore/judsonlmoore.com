@@ -147,7 +147,7 @@ cloudinary:
   presets:
     default:
       gravity: auto
-      crop: c_fill
+      crop: fill
       focus: auto
       quality: auto
       min_width: 150
@@ -166,6 +166,7 @@ cloudinary:
         min_hight: 350
         max_width: 510
         max_height: 360
+        fallback_max_width: 510
     featured:
       attibutes:
         class: featured-image img-fluid
@@ -181,3 +182,4 @@ cloudinary:
         min_hight: 40
         max_width: 72
         max_height: 72
+        fallback_max_width: 72
