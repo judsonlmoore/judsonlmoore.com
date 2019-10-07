@@ -1,4 +1,30 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
+<div class="row bg-dark d-none d-lg-block">
+    <div class="container">
+
+        <div class="row py-2">
+            <div class="col-lg-6 p-0 text-light">
+
+                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
+
+            </div>
+
+            <div class="col-lg-6 p-0 text-right">
+
+                <div class="row justify-content-end">
+
+                    {% include social-buttons.html %}
+
+                    {% include search-lunr.html %}
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="{{ site.baseurl }}/">
@@ -16,10 +42,9 @@
         <div class="collapse navbar-collapse" id="nav-main">
 
             <ul class="navbar-nav ml-auto">     
-
                 {% for item in site.data.nav.main %}
                 {% if item.subfolderitems %}
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown my-2 my-lg-0">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{ item.title }}
                     </a>
@@ -30,46 +55,24 @@
                     </div>
                 </li>
                 {% else %}
-                <li class="nav-item">
+                <li class="nav-item my-2 my-lg-0">
                     <a class="nav-link" href="{{ item.url }}">{{ item.page }}</a>
                 </li>
                 {% endif %}
                 {% endfor %}
-                <li class="nav-item dropdown">
-                    <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <i class="fas fa-search white-text mr-4"></i>
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        {% include search-lunr.html %}
-                    </div>
-                </li>
             </ul>
 
+            <div class="row d-lg-none py-2 my-4 border-top border-bottom border-light">
+                <div class="col">
+                    {% include social-buttons.html %}
+                </div>
+            </div>
 
-            <!-- Facebook -->
-            <a class="fb-ic" href="https://facebook.com/judsonlmooreblog/" target="_blank">
-                <i class="fab fa-facebook-f white-text mr-4"> </i>
-            </a>
-
-            <!-- Twitter -->
-            <a class="tw-ic" href="https://twitter.com/judsonlmoore/" target="_blank">
-                <i class="fab fa-twitter white-text mr-4"> </i>
-            </a>
-
-            <!--Instagram-->
-            <a class="ins-ic" href="https://instagram.com/judsonlmoore/" target="_blank">
-                <i class="fab fa-instagram white-text mr-4"> </i>
-            </a>
-
-            <!--Linkedin -->
-            <a class="li-ic" href="https://www.linkedin.com/in/judsonlmoore/" href="_blank">
-                <i class="fab fa-linkedin-in white-text mr-4"> </i>
-            </a>
-
-            <!--Github -->
-            <a class="git-ic" href="https://github.com/judsonlmoore" href="_blank">
-                <i class="fab fa-github white-text mr-4"> </i>
-            </a>
+            <div class="row d-lg-none my-2 my-lg-0">
+                <div class="col">
+                    {% include search-lunr.html %}
+                </div>
+            </div>
 
         </div>
     </div>

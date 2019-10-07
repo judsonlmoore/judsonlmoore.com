@@ -35,6 +35,8 @@ main:
     url: /lifestyle/
   - page: Female Travel
     url: /female-travel/
+  - page: Book <span class="badge badge-info">New</span>
+    url: /book/
 secondary:
   - page: About Me
     url: /about/

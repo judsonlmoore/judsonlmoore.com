@@ -1,0 +1,14 @@
+- name: facebook
+  url: https://facebook.com/judsonlmooreblog/
+
+- name: twitter
+  url: https://twitter.com/judsonlmoore/
+
+- name: instagram
+  url: https://instagram.com/judsonlmoore/
+
+- name: linkedin
+  url: https://www.linkedin.com/in/judsonlmoore/
+
+- name: github
+  url: https://github.com/judsonlmoore/

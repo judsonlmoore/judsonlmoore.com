@@ -18,7 +18,7 @@ post_class: post-template
                 <div class="row">
 
                     <!-- Post Share -->
-                    <div class="col-md-2">
+                    <div class="col-md-2 pt-md-5">
                         {% include share.html %}
                     </div>
 
@@ -70,7 +70,7 @@ post_class: post-template
 
                         {% if page.image %}
                         <!-- Post Featured Image -->
-                        <div class="px-0 py-md-5">
+                        <div class="p-0">
                             {% cloudinary featured {{ site.baseurl }}{{ site.image-path }}{{ page.image }} alt="{{ page.title }}" %}
                         </div>
                         <!-- End Featured Image -->

@@ -2,17 +2,24 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        {% if jekyll.environment == 'development' %}
-        <meta name="robots" content="noindex,nofollow" />
-        {% endif %}
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+        <!-- Site Icon -->
         <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png" />
+
+        <!-- SEO Metadata -->
         {% seo %}
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<!--         <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet" /> -->
-        <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet" />
-<!--         <link href="{{ site.baseurl }}/assets/css/main.scss" rel="stylesheet" /> -->
+
+        <!-- Font Awesome -->
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous" integrity="sha384-TDhFdBCp6zkFoOxFg2XaOsN4rWmrP4Tbzzaz0VKFgnk4mENBCgpW6mG7kamM0Yvy"></script>
+        
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+        <!-- Custom Stylesheet -->
+        <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet" />
+
+        <!-- Crisp Chat Application -->
         <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="3d3dd4a9-6976-4ab1-91b8-be385622c5e2";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     </head>
 
@@ -78,18 +85,32 @@
         <!-- Scripts
 ================================================== -->
 
+        <!-- JQuery -->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+        <!-- Popper JS -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+        <!-- Boostrap JS -->
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
+        <!-- Theme JS -->
         <script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+
+        <!-- IE 10 Fix -->
         <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+        <!-- Jssor Slider -->
         <script src="{{ site.baseurl }}/assets/js/jssor.slider-27.5.0.min.js"></script>
+
         {% if page.layout == 'post' %}
+        <!-- Disqus -->
         <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js" ></script>
         {% endif %}
+
         {% if page.layout == 'shop' %}
-        {% include webshop.html email="jhvanderschee@gmail.com" paymentlink="https://useplink.com/payment/ssMgtkddEzgC4rKKJJ9T" %}
+        <!-- Shop Payment Info -->
+        {% include webshop.html email="you@gmail.com" paymentlink="https://useplink.com/payment/ssMgtkddEzgC4rKKJJ9T" %}
         {% endif %}
     </body>
 </html>

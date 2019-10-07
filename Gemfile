@@ -28,6 +28,7 @@ group :jekyll_plugins do
     gem 'jekyll-cloudinary'
 	gem 'jekyll-include-cache'
     gem 'jekyll-sitemap'
+    # gem 'jekyll-minifier'
     # gem 'html-proofer'
 
 end

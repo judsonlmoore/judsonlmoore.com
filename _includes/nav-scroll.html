@@ -1,0 +1,117 @@
+<style type="text/css">
+    
+// Make each area overflow horizontally and
+// have the ability to have other items
+// scrolled into view
+.scroll {
+  white-space: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar; }
+
+// Example two required styles --------------- /
+.example-two-header {
+  .logo {
+    width: 25%; }
+  nav {
+    width: 75%; } }
+
+// Example three required styles --------------- /
+.example-three {
+  .logo,
+  nav {
+    width: 100%; }
+  
+  .nav-item {
+    color: #f6f7ee; } }
+
+// Shared styles --------------- /
+header {
+  background: #152637; }
+
+// Examples
+.example-one-header,
+.example-two-header {
+  border-radius: 3px; }
+
+.example-three-header {
+  border-radius: 3px 3px 0 0; }
+
+.example-three nav {
+  background: #727c87;
+  white-space: nowrap;
+  overflow-x: scroll; 
+  -webkit-overflow-scrolling: touch;
+  border-radius: 0 0 3px 3px; }
+
+// Logo
+.logo {
+  text-align: center; // only effective in example 2/3
+  font-weight: 700;
+  color: #727c87;
+  border-right: 1px solid rgba(#727c87, .4);
+  padding: 12px 24px 13px; }
+
+// Nav items
+.nav-item {
+  padding: 12px 16px 13px;
+
+  &:not(:last-child) {
+    border-right: 1px solid rgba(#727c87, .2); } }
+
+// Setup/misc styles --------------- /
+* { 
+  box-sizing: border-box; }
+
+// Remove the inline-block extra space
+header,
+nav { 
+  font-size: 0; }
+
+// Requires font size to be reset for these elements
+.logo,
+.nav-item {
+  font-size: 14px; }
+
+.logo,
+.nav-item,
+.vertical-align-middle {
+  display: inline-block;
+  vertical-align: middle; }
+
+.title {
+  margin: 24px 0 6px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  color: #999; }
+
+// Demo purposes only, proceed with caution on Windows!
+.scroll::-webkit-scrollbar {
+  display: none; }
+
+
+
+</style>
+
+<header class="example-two-header">
+    <span class="logo">Logo</span>
+    <nav class="vertical-align-middle scroll">
+        <span class="nav-item">Blog</span>
+        <span class="nav-item">Portfolio</span>
+        <span class="nav-item">Downloads</span>
+        <span class="nav-item">About</span>
+        <span class="nav-item">Contact</span>
+    </nav>
+</header>
+
+
+
+
+
+
+
+
+
+
+
