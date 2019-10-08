@@ -101,6 +101,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
 
+sass:
+  load_paths:
+    - _sass
+    - node_modules
+
 # Pagination
 paginate: 6
 paginate_path: /page:num/
@@ -138,6 +143,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - node_modules
 
 cloudinary:
   cloud_name: judsonlmoore-com

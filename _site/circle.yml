@@ -1,6 +1,6 @@
 machine:
   environment:
-    NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
+    NOKOGIRI_USE_SYSTEM_LIBRARIES: false # speeds up installation of html-proofer
 
 dependencies:
   post:
