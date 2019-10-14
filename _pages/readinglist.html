@@ -5,22 +5,26 @@ layout: page
 comments: false
 ---
 
-# Reading list
+<div class="section">
 
-Here is a collection of books, sorted my topic, that have my way of thinking. 
+	<h2>Reading list</h2>
 
-## Self-improvement
+	<p>Here is a collection of books, sorted my topic, that have my way of thinking.</p>
 
+	{% for item in site.data.readinglist %}
+	<div class="readinglist">
+		<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>
+		<p><small><strong>{{ item.author }}</strong> <em>{{ item.genre }}</em></small></p>
+		<p>{{ item.description }}</p>
+	</div>			
+	{% endfor %}
 
+</div>
 
-## Business
+<div class="section">
 
+	<h2>Articles I am reading</h2>
 
+	<p>https://getpocket.com/users/judsonlmoore/feed/all</p>
 
-## Other
-
-
-
-## Articles I am reading
-
-https://getpocket.com/users/judsonlmoore/feed/all
+</div>

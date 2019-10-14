@@ -56,79 +56,14 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <div class="row bg-dark d-none d-lg-block">
-    <div class="container">
+        
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
-
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    
-<!--facebook -->
-<a href="https://facebook.com/judsonlmooreblog/" class="btn bg-blue text-light mr-2" alt="Follow on facebook" target="_blank">
-	<span class="fab fa-facebook"></span>
-</a>
-
-<!--twitter -->
-<a href="https://twitter.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on twitter" target="_blank">
-	<span class="fab fa-twitter"></span>
-</a>
-
-<!--instagram -->
-<a href="https://instagram.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on instagram" target="_blank">
-	<span class="fab fa-instagram"></span>
-</a>
-
-<!--linkedin -->
-<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on linkedin" target="_blank">
-	<span class="fab fa-linkedin"></span>
-</a>
-
-<!--github -->
-<a href="https://github.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on github" target="_blank">
-	<span class="fab fa-github"></span>
-</a>
-
-
-                    <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script>
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-            <h1 class="logo-title text-light">Judson L Moore</h1>
-            <p class="logo-subtitle text-light">
-                Author and travel addict
-            </p>
+            <p class="h4 font-weight-light">Judson L Moore</p>
+            <p class="h5 font-weight-lighter">Author and travel addict</p>
         </a>
         <!-- End Logo -->
 
@@ -256,6 +191,11 @@
 	<span class="fab fa-github"></span>
 </a>
 
+<!--amazon -->
+<a href="https://www.amazon.com/author/judsonlmoore" class="btn bg-blue text-light mr-2" alt="Follow on amazon" target="_blank">
+	<span class="fab fa-amazon"></span>
+</a>
+
                 </div>
             </div>
 
@@ -300,45 +240,30 @@
 </style>
 
   <!-- Header -->
-  <div id="fullwidth-img" class="container-fluid py-5 mb-5">
+  <div id="fullwidth-img" class="container-fluid py-5">
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-lg-12">
           <h1 class="display-3 font-weight-bolder text-white mt-5 mb-2">India Travel Guide</h1>
           <p class="h4 font-weight-bolder text-white mb-5">A half-year business trip, transformed into one of my greatest adventures.</p>
-          <button
-	type="button"
-	class="btn btn-primary btn-lg"
-	data-toggle="modal"
-	data-target="#exampleModal"
-	>
-	Subscribe now for more india tips <i class="fas fa-envelope"></i>
+          
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModalCenter">
+  Subscribe now for more india tips <i class="fas fa-envelope"></i>
 </button>
 
-<div
-	class="modal fade"
-	id="exampleModal"
-	tabindex="-1"
-	role="dialog"
-	aria-labelledby="exampleModalLabel"
-	aria-hidden="true"
->
-	<div class="modal-dialog" role="document">
-	    <div class="container" id="registration-form">
-	        <div class="image"></div>
-	        <div class="frm">
-	        	<div class="modal-header">
-		            <h1>Sign up</h1>
-					<button 
-						type="button" 
-						class="close" 
-						data-dismiss="modal" 
-						aria-label="Close"
-						>
-						<span aria-hidden="true">&times;</span>
-					</button>
-				</div>
-	            <form
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">Sign up</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form
 	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 	method="post"
 	name="mc-embedded-subscribe-form"
@@ -381,12 +306,14 @@
 	});
 </script>
 
-	        </div>
-	    </div>
-	</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
 </div>
-
-
         </div>
       </div>
     </div>
@@ -399,747 +326,261 @@
 ================================================== -->
         <div class="main-content">
 
-			<div class="row">
-			  <div class="col-lg-9">
+			<div class="row bg-white shadow-sm p-5 my-5">
+			  <div class="col">
 			    <h2 id="i-negotiated-a-business-trip-into-a-grand-adventure">I negotiated a business trip into a grand adventure</h2>
 
 <p>I was the Operations Manager for a wonderful company which is a global leader in the mobile software and connected devices space. Mutual Mobile asked me to spearhead the construction of a new office for our team in Hyderabad, India, where I spent half a year building out a state of the art facility for our growing international team. During my time in India, I was able to visit many places, participate in many cultural festivities and create lifelong bonds with some of my new best friends. India is a beautiful and diverse country with many mysteries, even to it’s own people. For an outsider like me, I just did my best to say “yes” to every invitation and experience as much as I could. From the majesty of the Taj Mahal to the Palace of the Dalai Lama, and from the vast emptiness of the Rajasthani desert to the ruins of ancient civilization, India has something unexpected and incredible lurking around every corner.</p>
 
 			  </div>
-			  <div class="col-lg-3">
-			    <div class="section-title">
-					<h2><span>Destinations in india</span></h2>
-				</div>
-			     
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				
-			  </div>
 			</div>
 			<!-- /.row -->
 
 			<section>
-				<div class="section-title">
-					<h2><span>Posts about india</span></h2>
-				</div>
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="row listrecent">
-							 
-							 
+						<div class="card-columns"> 
+							
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/travel-advice-rajasthan-india/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/03/Travel-Advice-To-Rajasthan-India-Featured-Image.jpg" class="img-fluid" loading="auto"  alt="Travel Advice To Rajasthan India" width="2048" height="1536" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/travel-advice-rajasthan-india/">Travel Advice To Rajasthan India</a>
-                
-            </h2>
-            <h4 class="card-text">Rajasthan India is a magical wonderland of castles, camels and amazing food! Check out these tips for places to stay, things to do and how to get around!</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">28 Mar 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/travel-advice-rajasthan-india/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/03/Travel-Advice-To-Rajasthan-India-Featured-Image.jpg" class="img-fluid" loading="auto"  alt="Travel Advice To Rajasthan India" width="2048" height="1536" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Travel Advice To Rajasthan India</h5>
+        <p class="card-text">Rajasthan India is a magical wonderland of castles, camels and amazing food! Check out these tips for places to stay,...</p>
+        <p class="card-text"><small class="text-muted">28 Mar 2016</small></p>
+        <a href="/travel-advice-rajasthan-india/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/travel-advice-india/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/03/minaal-bag.jpg" class="img-fluid" loading="auto"  alt="India Travel Guide - What I Learned After 6 Months On The Road" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/travel-advice-india/">India Travel Guide - What I Learned After 6 Months On The Road</a>
-                
-            </h2>
-            <h4 class="card-text">During a 6-month business trip to India, I took advantage of every weekend to travel to a different corner of this beautiful and vibrant country.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">15 Jan 2015</span>
-                </span>
-                <span class="post-read-more"><a href="/travel-advice-india/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/03/minaal-bag.jpg" class="img-fluid" loading="auto"  alt="India Travel Guide - What I Learned After 6 Months On The Road" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">India Travel Guide - What I Learned After 6 Months On The Road</h5>
+        <p class="card-text">During a 6-month business trip to India, I took advantage of every weekend to travel to a different corner of...</p>
+        <p class="card-text"><small class="text-muted">15 Jan 2015</small></p>
+        <a href="/travel-advice-india/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/satsang/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/03/Satsang-Vihar-Hyderabad-001.jpg" class="img-fluid" loading="auto"  alt="Satsang Vihar - The Religious Center of Hyderabad India" width="1280" height="960" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/satsang/">Satsang Vihar - The Religious Center of Hyderabad India</a>
-                
-            </h2>
-            <h4 class="card-text">Satsang Vihar in Hyderabad India is a holy place which welcomed me to their anniversary festival and honored me in the most surprising of ways.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">22 Dec 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/satsang/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/03/Satsang-Vihar-Hyderabad-001.jpg" class="img-fluid" loading="auto"  alt="Satsang Vihar - The Religious Center of Hyderabad India" width="1280" height="960" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Satsang Vihar - The Religious Center of Hyderabad India</h5>
+        <p class="card-text">Satsang Vihar in Hyderabad India is a holy place which welcomed me to their anniversary festival and honored me in...</p>
+        <p class="card-text"><small class="text-muted">22 Dec 2014</small></p>
+        <a href="/satsang/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/pushkar/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_4417.jpg" class="img-fluid" loading="auto"  alt="Pushkar - A Camel Safari In The Heart of Rajasthan India" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/pushkar/">Pushkar - A Camel Safari In The Heart of Rajasthan India</a>
-                
-            </h2>
-            <h4 class="card-text">An overnight camel safari in Pushkar with desert nomads led to the best meal of my life and a new appreciation for the love life of a camel named Romeo....</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">15 Dec 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/pushkar/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_4417.jpg" class="img-fluid" loading="auto"  alt="Pushkar - A Camel Safari In The Heart of Rajasthan India" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Pushkar - A Camel Safari In The Heart of Rajasthan India</h5>
+        <p class="card-text">An overnight camel safari in Pushkar with desert nomads led to the best meal of my life and a new...</p>
+        <p class="card-text"><small class="text-muted">15 Dec 2014</small></p>
+        <a href="/pushkar/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/ajmer/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_4234.jpg" class="img-fluid" loading="auto"  alt="Ajmer and a 1000 Year Old Manmade Lake in Rajasthan" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/ajmer/">Ajmer and a 1000 Year Old Manmade Lake in Rajasthan</a>
-                
-            </h2>
-            <h4 class="card-text">After arriving to Rajasthan India we stopped first in Ajmer to charge our batteries and see one of the world's oldest manmade structures.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">13 Dec 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/ajmer/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_4234.jpg" class="img-fluid" loading="auto"  alt="Ajmer and a 1000 Year Old Manmade Lake in Rajasthan" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Ajmer and a 1000 Year Old Manmade Lake in Rajasthan</h5>
+        <p class="card-text">After arriving to Rajasthan India we stopped first in Ajmer to charge our batteries and see one of the world's...</p>
+        <p class="card-text"><small class="text-muted">13 Dec 2014</small></p>
+        <a href="/ajmer/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/jaipur/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_40421.jpg" class="img-fluid" loading="auto"  alt="Jaipur - Home of Royalty, Castles and the Kama Sutra" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/jaipur/">Jaipur - Home of Royalty, Castles and the Kama Sutra</a>
-                
-            </h2>
-            <h4 class="card-text">Jaipur sits in the heart of Rajasthan India and is home to detailed architecture and epic palaces suitable only for the most refined tastes in the world.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">13 Dec 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/jaipur/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_40421.jpg" class="img-fluid" loading="auto"  alt="Jaipur - Home of Royalty, Castles and the Kama Sutra" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Jaipur - Home of Royalty, Castles and the Kama Sutra</h5>
+        <p class="card-text">Jaipur sits in the heart of Rajasthan India and is home to detailed architecture and epic palaces suitable only for...</p>
+        <p class="card-text"><small class="text-muted">13 Dec 2014</small></p>
+        <a href="/jaipur/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/agra/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_2049.jpg" class="img-fluid" loading="auto"  alt="Agra Is Home of The World's Oldest Fairy Tail Tragedy" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/agra/">Agra Is Home of The World's Oldest Fairy Tail Tragedy</a>
-                
-            </h2>
-            <h4 class="card-text">A short drive from New Deli, Agra is home of the Taj Mahal, the tomb which has stood as the world's greatest testament of love and loss.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">27 Oct 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/agra/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_2049.jpg" class="img-fluid" loading="auto"  alt="Agra Is Home of The World's Oldest Fairy Tail Tragedy" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Agra Is Home of The World's Oldest Fairy Tail Tragedy</h5>
+        <p class="card-text">A short drive from New Deli, Agra is home of the Taj Mahal, the tomb which has stood as the...</p>
+        <p class="card-text"><small class="text-muted">27 Oct 2014</small></p>
+        <a href="/agra/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/dharamshala/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_0250.jpg" class="img-fluid" loading="auto"  alt="Dharamshala is Home To The Dalai Lama and This Wonderful Shopkeeper" width="1280" height="960" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/dharamshala/">Dharamshala is Home To The Dalai Lama and This Wonderful Shopkeeper</a>
-                
-            </h2>
-            <h4 class="card-text">Dharamshala is the refuge of the Tibetan people in India. Hospitality shines through their acts, their stories, and their business ethics.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">26 Oct 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/dharamshala/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_0250.jpg" class="img-fluid" loading="auto"  alt="Dharamshala is Home To The Dalai Lama and This Wonderful Shopkeeper" width="1280" height="960" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Dharamshala is Home To The Dalai Lama and This Wonderful Shopkeeper</h5>
+        <p class="card-text">Dharamshala is the refuge of the Tibetan people in India. Hospitality shines through their acts, their stories, and their business...</p>
+        <p class="card-text"><small class="text-muted">26 Oct 2014</small></p>
+        <a href="/dharamshala/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/manali/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/10/IMG_1728.jpg" class="img-fluid" loading="auto"  alt="Manali - India's Doorway to the Himalayan Mountains" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/manali/">Manali - India's Doorway to the Himalayan Mountains</a>
-                
-            </h2>
-            <h4 class="card-text">Half a day's drive north of New Delhi you find yourself scaling the foothills of the Himalayan Mountains. Once you reach Manali, you know you're there.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">24 Oct 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/manali/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/10/IMG_1728.jpg" class="img-fluid" loading="auto"  alt="Manali - India's Doorway to the Himalayan Mountains" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Manali - India's Doorway to the Himalayan Mountains</h5>
+        <p class="card-text">Half a day's drive north of New Delhi you find yourself scaling the foothills of the Himalayan Mountains. Once you...</p>
+        <p class="card-text"><small class="text-muted">24 Oct 2014</small></p>
+        <a href="/manali/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/bangalore/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_1506.jpg" class="img-fluid" loading="auto"  alt="Bangalore Is Known For More Than Being India's Silicon Valley" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/bangalore/">Bangalore Is Known For More Than Being India's Silicon Valley</a>
-                
-            </h2>
-            <h4 class="card-text">I made a lot out of a quick trip to India's Garden City, Bangalore. Temples of bulls, parks, and rooftop discos make Bangalore a must-visit destination.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">12 Oct 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/bangalore/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_1506.jpg" class="img-fluid" loading="auto"  alt="Bangalore Is Known For More Than Being India's Silicon Valley" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Bangalore Is Known For More Than Being India's Silicon Valley</h5>
+        <p class="card-text">I made a lot out of a quick trip to India's Garden City, Bangalore. Temples of bulls, parks, and rooftop...</p>
+        <p class="card-text"><small class="text-muted">12 Oct 2014</small></p>
+        <a href="/bangalore/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/dandiya-festival-2014/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/10/10710578_1484575781810747_2165003879202651235_n.jpg" class="img-fluid" loading="auto"  alt="Dandiya Is The Festival Drummers and Dancers Were Born For" width="960" height="638" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/dandiya-festival-2014/">Dandiya Is The Festival Drummers and Dancers Were Born For</a>
-                
-            </h2>
-            <h4 class="card-text">The Dandiya Festival is an Indian celebration of an ancient battle. The music is percussion-driven and the dance reflects the bravery and honor of battle.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">08 Oct 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/dandiya-festival-2014/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/10/10710578_1484575781810747_2165003879202651235_n.jpg" class="img-fluid" loading="auto"  alt="Dandiya Is The Festival Drummers and Dancers Were Born For" width="960" height="638" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Dandiya Is The Festival Drummers and Dancers Were Born For</h5>
+        <p class="card-text">The Dandiya Festival is an Indian celebration of an ancient battle. The music is percussion-driven and the dance reflects the...</p>
+        <p class="card-text"><small class="text-muted">08 Oct 2014</small></p>
+        <a href="/dandiya-festival-2014/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/tranquebar/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_1032.jpg" class="img-fluid" loading="auto"  alt="Three reasons Tranquebar is worth the long drive to get to" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/tranquebar/">Three reasons Tranquebar is worth the long drive to get to</a>
-                
-            </h2>
-            <h4 class="card-text">Tranquebar is Christianity's origin point in India, home to the largest Danish fort outside of Europe, and one amazing B&B I called home.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">03 Oct 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/tranquebar/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_1032.jpg" class="img-fluid" loading="auto"  alt="Three reasons Tranquebar is worth the long drive to get to" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Three reasons Tranquebar is worth the long drive to get to</h5>
+        <p class="card-text">Tranquebar is Christianity's origin point in India, home to the largest Danish fort outside of Europe, and one amazing B&B...</p>
+        <p class="card-text"><small class="text-muted">03 Oct 2014</small></p>
+        <a href="/tranquebar/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/pondicherry/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_0866.jpg" class="img-fluid" loading="auto"  alt="A Pondicherry Sunrise Is Better Than A Tequila Sunrise" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/pondicherry/">A Pondicherry Sunrise Is Better Than A Tequila Sunrise</a>
-                
-            </h2>
-            <h4 class="card-text">This coastal town of Pondicherry sits on the Bay of Bengal in southeast India. This historical French colony is lined with cobblestone streets and charm.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">02 Oct 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/pondicherry/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_0866.jpg" class="img-fluid" loading="auto"  alt="A Pondicherry Sunrise Is Better Than A Tequila Sunrise" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">A Pondicherry Sunrise Is Better Than A Tequila Sunrise</h5>
+        <p class="card-text">This coastal town of Pondicherry sits on the Bay of Bengal in southeast India. This historical French colony is lined...</p>
+        <p class="card-text"><small class="text-muted">02 Oct 2014</small></p>
+        <a href="/pondicherry/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/01/IMG_0692.jpg" class="img-fluid" loading="auto"  alt="Hampi the Fallen Capital of the Vijayanagara Empire in India" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Hampi the Fallen Capital of the Vijayanagara Empire in India</h5>
+        <p class="card-text">Hampi: Fallen Seat of an Empire
 
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/hampi/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/01/IMG_0692.jpg" class="img-fluid" loading="auto"  alt="Hampi the Fallen Capital of the Vijayanagara Empire in India" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/hampi/">Hampi the Fallen Capital of the Vijayanagara Empire in India</a>
-                
-            </h2>
-            <h4 class="card-text">Hampi: Fallen Seat of an Empire
-
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">29 Sep 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/hampi/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+</p>
+        <p class="card-text"><small class="text-muted">29 Sep 2014</small></p>
+        <a href="/hampi/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/golconda-fort/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/09/IMG_0326.jpg" class="img-fluid" loading="auto"  alt="Golconda Fort" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/golconda-fort/">Golconda Fort</a>
-                
-            </h2>
-            <h4 class="card-text">I was a child when I first visited the National Natural History Museum in Washington D.C. I’ve never been one for jewels, especially diamonds, but ever since my childhood, I’ve...</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">14 Sep 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/golconda-fort/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/09/IMG_0326.jpg" class="img-fluid" loading="auto"  alt="Golconda Fort" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Golconda Fort</h5>
+        <p class="card-text">I was a child when I first visited the National Natural History Museum in Washington D.C. I’ve never been one...</p>
+        <p class="card-text"><small class="text-muted">14 Sep 2014</small></p>
+        <a href="/golconda-fort/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/charminar/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/12/IMG_0289.jpg" class="img-fluid" loading="auto"  alt="Charminar" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/charminar/">Charminar</a>
-                
-            </h2>
-            <h4 class="card-text">I had the most wonderful experience exploring Hyderabad today! I went to visit one of India’s most recognizable monuments, a mosque called Charminar. The name comes from combining the Urdu words Chār...</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">13 Sep 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/charminar/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/12/IMG_0289.jpg" class="img-fluid" loading="auto"  alt="Charminar" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Charminar</h5>
+        <p class="card-text">I had the most wonderful experience exploring Hyderabad today! I went to visit one of India’s most recognizable monuments, a mosque...</p>
+        <p class="card-text"><small class="text-muted">13 Sep 2014</small></p>
+        <a href="/charminar/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/the-trident-hotel-and-poverty/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/10/IMG_0212.jpg" class="img-fluid" loading="auto"  alt="The Trident Hotel and Poverty" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/the-trident-hotel-and-poverty/">The Trident Hotel and Poverty</a>
-                
-            </h2>
-            <h4 class="card-text">During a 6-month business trip to India, I was faced with poverty every day from the window of my high rise 7-star hotel. What could I do about it?</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">10 Sep 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/the-trident-hotel-and-poverty/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/10/IMG_0212.jpg" class="img-fluid" loading="auto"  alt="The Trident Hotel and Poverty" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">The Trident Hotel and Poverty</h5>
+        <p class="card-text">During a 6-month business trip to India, I was faced with poverty every day from the window of my high...</p>
+        <p class="card-text"><small class="text-muted">10 Sep 2014</small></p>
+        <a href="/the-trident-hotel-and-poverty/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
 							
 						</div>
 					</div>
@@ -1157,7 +598,7 @@
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer d-none d-lg-block bg-black text-light py-3 mt-5">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3 mt-5">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

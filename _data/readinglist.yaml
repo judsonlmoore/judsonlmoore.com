@@ -1,0 +1,20 @@
+- book: 
+  title: title 
+  author: author
+  genre: 4
+  url: /
+  description: description
+
+- book: 
+  title: title 
+  author: author
+  genre: 2
+  url: /
+  description: description
+
+- book: 
+  title: title 
+  author: author
+  genre: 5
+  url: /
+  description: description

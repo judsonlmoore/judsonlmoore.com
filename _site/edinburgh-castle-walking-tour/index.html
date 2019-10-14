@@ -58,79 +58,14 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <div class="row bg-dark d-none d-lg-block">
-    <div class="container">
+        
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
-
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    
-<!--facebook -->
-<a href="https://facebook.com/judsonlmooreblog/" class="btn bg-blue text-light mr-2" alt="Follow on facebook" target="_blank">
-	<span class="fab fa-facebook"></span>
-</a>
-
-<!--twitter -->
-<a href="https://twitter.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on twitter" target="_blank">
-	<span class="fab fa-twitter"></span>
-</a>
-
-<!--instagram -->
-<a href="https://instagram.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on instagram" target="_blank">
-	<span class="fab fa-instagram"></span>
-</a>
-
-<!--linkedin -->
-<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on linkedin" target="_blank">
-	<span class="fab fa-linkedin"></span>
-</a>
-
-<!--github -->
-<a href="https://github.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on github" target="_blank">
-	<span class="fab fa-github"></span>
-</a>
-
-
-                    <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script>
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-            <h1 class="logo-title text-light">Judson L Moore</h1>
-            <p class="logo-subtitle text-light">
-                Author and travel addict
-            </p>
+            <p class="h4 font-weight-light">Judson L Moore</p>
+            <p class="h5 font-weight-lighter">Author and travel addict</p>
         </a>
         <!-- End Logo -->
 
@@ -258,6 +193,11 @@
 	<span class="fab fa-github"></span>
 </a>
 
+<!--amazon -->
+<a href="https://www.amazon.com/author/judsonlmoore" class="btn bg-blue text-light mr-2" alt="Follow on amazon" target="_blank">
+	<span class="fab fa-amazon"></span>
+</a>
+
                 </div>
             </div>
 
@@ -303,40 +243,35 @@
                 <div class="row">
 
                     <!-- Post Share -->
-                    <div class="col-md-2 pt-md-5">
-                        <div class="share sticky-top sticky-top-offset">
+                    <div class="col-md-2">
+                        <div class="share sticky-top sticky-top-offset pt-5">
     <p>
         Share
     </p>
-    <ul>
+    <ul class="list-unstyled">
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://twitter.com/intent/tweet?text=Edinburgh Castle Walking Tour&url=http://localhost:4000/edinburgh-castle-walking-tour/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Edinburgh Castle Walking Tour&url=http://localhost:4000/edinburgh-castle-walking-tour/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="text-dark" >
                 <i class="fab fa-twitter"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/edinburgh-castle-walking-tour/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/edinburgh-castle-walking-tour/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;" class="text-dark" >
                 <i class="fab fa-facebook-f"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/edinburgh-castle-walking-tour/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/edinburgh-castle-walking-tour/" onclick="window.open(this.href, 'width=550,height=435');return false;" class="text-dark" >
                 <i class="fab fa-linkedin-in"></i>
             </a>
         </li>
-
-    </ul>
-    
-    <div class="sep">
-    </div>
-    <ul>
+        
         <li>
-        <a class="small smoothscroll" href="#disqus_thread"></a>
+            <a class="small smoothscroll" href="#disqus_thread" class="text-dark" ></a>
         </li>
+        
     </ul>
-    
 </div>
 
                     </div>
@@ -348,16 +283,19 @@
 
                             <!-- Post Title -->
                             
-                            <h1 class="posttitle">Edinburgh Castle Walking Tour</h1>
 
-                            <!-- Post Date -->
-                            <p>
+                            <div class="bg-white p-5">
+
+                                <h1 class="posttitle">Edinburgh Castle Walking Tour</h1>
+
+                                <!-- Post Date -->
                                 <small>
                                     <span class="post-date"><time class="post-date" datetime="2018-02-13">13 Feb 2018</time></span>           
                                     
                                 </small>
-                            </p>
-                            
+                                
+
+                            </div>
 
                         </div>
 
@@ -376,7 +314,7 @@
                         
 
                         <!-- Post Content -->
-                        <div class="article-post px-0 pb-md-5">
+                        <div class="article-post bg-white p-5">
                             <!-- Toc if any -->
                             
                             <!-- End Toc -->
@@ -410,14 +348,14 @@
 
 <p>The new gatehouse is the first thing you see when you approach the Edinburgh Castle. You can see that the stone color and the architecture is rather different from the castle which lay behind. The reason for this was triggered by a visit of Queen Victoria who upon arrival was <strong>a bit disappointed at how unwelcoming the castle felt</strong>. She desired that there be a more royal castle aesthetic and so this new gatehouse was built in 1888, along with one tower on the main building which, though a small detail, does go a long way to making the Edinburgh Castle feel a bit more like the royal castles of England, such as Windsor Castle.</p>
 
-<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-new-gatehouse-coffee-truck.jpg" alt="A red coffee truck stands in front of The Gatehouse at Edinburgh Castle" title=" A coffee truck stands in front of the Gatehouse at Edinburgh Castle" />
+<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-new-gatehouse-coffee-truck.jpg" alt="A red coffee truck stands in front of The Gatehouse at Edinburgh Castle" title=" A coffee truck stands in front of the Gatehouse at Edinburgh Castle" class="img-fluid" />
 <span class="caption"> A coffee truck stands in front of the Gatehouse at Edinburgh Castle</span></p>
 
 <h2 id="prisoners-of-war">Prisoners of War</h2>
 
 <p>What <em>really</em> makes a castle? A dungeon! The Prisoners of War is a reenactment and multimedia experience in the Edinburgh Castle’s dungeon. Here, you get to explore the castle’s prison as it would have looked for centuries as the home to prisoners of war from all over the world. Alongside furnishings and personal items which were typical of prisoners who live here, there also audio clips playing throughout the room. As you listen, you get to learn about some of the lives and experiences of real prisoners, who were kept in the Edinburgh Castle dungeon. Prisoners came from all over the world, because of all sorts of conflicts, including <strong>the American Revolution</strong>.</p>
 
-<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-military-prison.jpg" alt="A photo of the sleeping conditions which prisoners of war held at Edinburgh Castle would have endured" title=" Prisoners of War Exhibit at Edinburgh Castle" />
+<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-military-prison.jpg" alt="A photo of the sleeping conditions which prisoners of war held at Edinburgh Castle would have endured" title=" Prisoners of War Exhibit at Edinburgh Castle" class="img-fluid" />
 <span class="caption"> Prisoners of War Exhibit at Edinburgh Castle</span></p>
 
 <h2 id="scotlands-crown-jewels">Scotland’s Crown Jewels</h2>
@@ -426,7 +364,7 @@
 
 <p>Leading up to seeing the crown jewels is an exhibit chronicling the history of the monarchy and other various royal families and dynasties of Scotland. <strong>The whole exhibit is done very well.</strong> Unfortunately, I didn’t have very much time left to spend in the castle so I had to rush through all of that fairly quickly. You should give yourself at least 20 to 30 minutes to enjoy The Honors of the Kingdom exhibit.</p>
 
-<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-crown-jewles-sign.jpg" alt="A photo of the sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle" title=" Sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle" />
+<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-crown-jewles-sign.jpg" alt="A photo of the sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle" title=" Sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle" class="img-fluid" />
 <span class="caption"> Sign leading to The Honours of The Kingdom Exhibit at Edinburgh Castle</span></p>
 
 <h2 id="mons-meg--510mm-caliber-cannon">Mons Meg - 510mm Caliber Cannon</h2>
@@ -435,7 +373,7 @@
 
 <p>The last time Mons Meg was fired with ammunition was in 1680 to celebrate the arrival of James, Duke of Albany and York, who would later become King James VII. On this occasion, <strong>the barrel burst open</strong> and it has not been capable of munitions firing ever since. However, it is fired still today once a year on Hogmanay (new year) to mark the beginning of the fireworks display. Of course, now it just fires blanks.</p>
 
-<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-mons-meg.jpg" alt="Mons Meg pointed out to the harbor below Edinburgh Castle" title=" Mons Meg at Edinburgh Castle" />
+<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-mons-meg.jpg" alt="Mons Meg pointed out to the harbor below Edinburgh Castle" title=" Mons Meg at Edinburgh Castle" class="img-fluid" />
 <span class="caption"> Mons Meg at Edinburgh Castle</span></p>
 
 <h2 id="scottish-national-war-memorial">Scottish National War Memorial</h2>
@@ -444,7 +382,7 @@
 
 <p>The exterior of the memorial has been designed with the Edinburgh Castle aesthetic kept in mind. As this rests atop one of the highest points of the castle’s grounds, it is very visible from afar and so the architecture is intended to blend in. The interior, on the other hand, is almost art deco in style and feel much more like a modern memorial of sorts. <strong>The flags of Scottish regiments hang throughout.</strong> Under each flag are thick books on display with the names of all those who have served in each regiment and who have died in service.</p>
 
-<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-scottish-national-war-memorial.jpg" alt="The outside of the Scottish National War Memorial" title=" Scottish National War Memorial at Edinburgh Castle" />
+<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-scottish-national-war-memorial.jpg" alt="The outside of the Scottish National War Memorial" title=" Scottish National War Memorial at Edinburgh Castle" class="img-fluid" />
 <span class="caption"> Scottish National War Memorial at Edinburgh Castle</span></p>
 
 <h2 id="st-margarets-chapel">St Margaret’s Chapel</h2>
@@ -453,7 +391,7 @@
 
 <p>In 1314 the castle was captured by Robert the Bruce and all the buildings inside, except for the Chapel, were destroyed. Though the chapel did fall in to disuse after that, it would eventually be renovated and put back in to use in the 19th century. <strong>It has held services on a fairly regular basis ever since.</strong></p>
 
-<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-st-margarets-chapel-judson.jpg" alt="Judson taking a selfie in front of St Margaret's Chapel" title=" St Margaret's Chapel at Edinburgh Castle" />
+<p><img src="../assets/images/2018/01/castle-walking-tour-edinburgh-st-margarets-chapel-judson.jpg" alt="Judson taking a selfie in front of St Margaret's Chapel" title=" St Margaret's Chapel at Edinburgh Castle" class="img-fluid" />
 <span class="caption"> St Margaret’s Chapel at Edinburgh Castle</span></p>
 
 <h2 id="a-day-well-spent-in-edinburgh">A Day Well Spent in Edinburgh</h2>
@@ -470,7 +408,7 @@
                         <div class="row post-top-meta">
                             <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                 
-                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
+                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb img-fluid" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
                                 
                             </div>
                             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -485,7 +423,67 @@
 
                         <!-- Post Categories -->
                         <div class="after-post-cats">
-                            <ul class="tags mb-4">
+
+                            <ul class="list-inline">
+
+                            
+                            
+
+                                <li class="list-inline-item">
+                                    <a class="smoothscroll" href="/categories#scotland">
+                                        <span class="badge badge-secondary">scotland</span>
+                                    </a>
+                                </li>
+
+                            
+
+                            </ul>
+                        </div>
+                        <!-- End Categories -->
+
+
+
+                        <!-- Post Tags -->
+                        <div class="after-post-tags">
+                            <ul class="tags">
+                                
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#adventure,">#adventure,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#guide,">#guide,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#tips,">#tips,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#tour">#tour</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#travel">#travel</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#travel">#travel</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#walking">#walking</a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                        <!-- End Tags -->
+
+
+
+
+<!--                             <ul class="tags mb-4">
                                 
                                 
                                 <li>
@@ -493,7 +491,8 @@
                                 </li>
                                 
                             </ul>
-                        </div>
+                       </div> 
+            --> 
                         <!-- End Categories -->
 
                         <!-- Post Tags -->
@@ -722,7 +721,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer d-none d-lg-block bg-black text-light py-3 mt-5">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3 mt-5">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

@@ -18,7 +18,7 @@ post_class: post-template
                 <div class="row">
 
                     <!-- Post Share -->
-                    <div class="col-md-2 pt-md-5">
+                    <div class="col-md-2">
                         {% include share.html %}
                     </div>
 
@@ -29,19 +29,19 @@ post_class: post-template
 
                             <!-- Post Title -->
                             {% if page.image %}
-                            <h1 class="posttitle">{{ page.title }}</h1>
 
-                            <!-- Post Date -->
-                            <p>
+                            <div class="bg-white p-5">
+
+                                <h1 class="posttitle">{{ page.title }}</h1>
+
+                                <!-- Post Date -->
                                 <small>
                                     <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                                     {% if page.last_modified_at %}
                                     (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                                 {% endif %}
                                 </small>
-                            </p>
-                            {% else %}
-                            <div class="jumbotron">
+                                {% else %}
                                 <h1 class="posttitle">{{ page.title }}</h1>
 
                                 <!-- Post Date -->
@@ -54,9 +54,9 @@ post_class: post-template
                                     </small>
                                 </p>
 
-                            </div>
+                                {% endif %}
 
-                            {% endif %}
+                            </div>
 
                         </div>
 
@@ -77,7 +77,7 @@ post_class: post-template
                         {% endif %}
 
                         <!-- Post Content -->
-                        <div class="article-post px-0 pb-md-5">
+                        <div class="article-post bg-white p-5">
                             <!-- Toc if any -->
                             {% if page.toc %}
                                 {% if page.beforetoc %}
@@ -117,7 +117,43 @@ post_class: post-template
 
                         <!-- Post Categories -->
                         <div class="after-post-cats">
-                            <ul class="tags mb-4">
+
+                            <ul class="list-inline">
+
+                            {% assign sortedCategories = page.categories | sort %}
+                            {% for category in sortedCategories %}
+
+                                <li class="list-inline-item">
+                                    <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">
+                                        <span class="badge badge-secondary">{{ category }}</span>
+                                    </a>
+                                </li>
+
+                            {% endfor %}
+
+                            </ul>
+                        </div>
+                        <!-- End Categories -->
+
+
+
+                        <!-- Post Tags -->
+                        <div class="after-post-tags">
+                            <ul class="tags">
+                                {% assign sortedTags = page.tags | sort %}
+                                {% for tag in sortedTags %}
+                                <li>
+                                    <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                        <!-- End Tags -->
+
+
+
+
+<!--                             <ul class="tags mb-4">
                                 {% assign sortedCategories = page.categories | sort %}
                                 {% for category in sortedCategories %}
                                 <li>
@@ -125,7 +161,8 @@ post_class: post-template
                                 </li>
                                 {% endfor %}
                             </ul>
-                        </div>
+                       </div> 
+            --> 
                         <!-- End Categories -->
 
                         <!-- Post Tags -->

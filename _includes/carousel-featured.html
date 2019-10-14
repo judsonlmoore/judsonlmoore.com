@@ -9,7 +9,7 @@
 
 {% assign images ="" %}
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide shadow-sm" data-ride="carousel">
     <ol class="carousel-indicators">
         {% for post in site.posts %}
         {% if post.featured == true %}
@@ -37,7 +37,7 @@
                     <h5>{{ post.title }}</h5>
                     <!-- <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p> -->
                 </div>
-                {% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+                {% cloudinary featured {{ site.baseurl }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
             </a>
         </div>
         {% endif %}

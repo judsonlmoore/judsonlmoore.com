@@ -56,79 +56,14 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <div class="row bg-dark d-none d-lg-block">
-    <div class="container">
+        
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
-
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    
-<!--facebook -->
-<a href="https://facebook.com/judsonlmooreblog/" class="btn bg-blue text-light mr-2" alt="Follow on facebook" target="_blank">
-	<span class="fab fa-facebook"></span>
-</a>
-
-<!--twitter -->
-<a href="https://twitter.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on twitter" target="_blank">
-	<span class="fab fa-twitter"></span>
-</a>
-
-<!--instagram -->
-<a href="https://instagram.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on instagram" target="_blank">
-	<span class="fab fa-instagram"></span>
-</a>
-
-<!--linkedin -->
-<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on linkedin" target="_blank">
-	<span class="fab fa-linkedin"></span>
-</a>
-
-<!--github -->
-<a href="https://github.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on github" target="_blank">
-	<span class="fab fa-github"></span>
-</a>
-
-
-                    <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script>
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-            <h1 class="logo-title text-light">Judson L Moore</h1>
-            <p class="logo-subtitle text-light">
-                Author and travel addict
-            </p>
+            <p class="h4 font-weight-light">Judson L Moore</p>
+            <p class="h5 font-weight-lighter">Author and travel addict</p>
         </a>
         <!-- End Logo -->
 
@@ -256,6 +191,11 @@
 	<span class="fab fa-github"></span>
 </a>
 
+<!--amazon -->
+<a href="https://www.amazon.com/author/judsonlmoore" class="btn bg-blue text-light mr-2" alt="Follow on amazon" target="_blank">
+	<span class="fab fa-amazon"></span>
+</a>
+
                 </div>
             </div>
 
@@ -306,39 +246,24 @@
         <div class="col-lg-12">
           <h1 class="display-3 font-weight-bolder text-white mt-5 mb-2">Lifestyle</h1>
           <p class="h4 font-weight-bolder text-white mb-5">A collection of advice and best-practices I've collected from years of experience.</p>
-          <button
-	type="button"
-	class="btn btn-primary btn-lg"
-	data-toggle="modal"
-	data-target="#exampleModal"
-	>
-	Subscribe now for more lifestyle tips <i class="fas fa-envelope"></i>
+          
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModalCenter">
+  Subscribe now for more lifestyle tips <i class="fas fa-envelope"></i>
 </button>
 
-<div
-	class="modal fade"
-	id="exampleModal"
-	tabindex="-1"
-	role="dialog"
-	aria-labelledby="exampleModalLabel"
-	aria-hidden="true"
->
-	<div class="modal-dialog" role="document">
-	    <div class="container" id="registration-form">
-	        <div class="image"></div>
-	        <div class="frm">
-	        	<div class="modal-header">
-		            <h1>Sign up</h1>
-					<button 
-						type="button" 
-						class="close" 
-						data-dismiss="modal" 
-						aria-label="Close"
-						>
-						<span aria-hidden="true">&times;</span>
-					</button>
-				</div>
-	            <form
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">Sign up</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form
 	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 	method="post"
 	name="mc-embedded-subscribe-form"
@@ -381,12 +306,14 @@
 	});
 </script>
 
-	        </div>
-	    </div>
-	</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
 </div>
-
-
         </div>
       </div>
     </div>
@@ -399,8 +326,8 @@
 ================================================== -->
         <div class="main-content">
 
-			<div class="row">
-			  <div class="col-lg-12">
+			<div class="row bg-white shadow-sm p-5 my-5">
+			  <div class="col">
 			    <h2 id="why-do-it-while-youre-young">Why do it while you’re young?</h2>
 
 <p>I’ve lived on five continents, traveled to 30+ countries and have collected many stories of my personal travel. But what should that mean to you? Here is a collection of posts where I share advice, best practices and encouragement for how you can live a similarly adventerous life as I have. Though it is never too late to get started, I have learned that starting <strong>while young</strong> is a great benefit, thus, I encourage you to <em>do it while you’re young.</em></p>
@@ -411,491 +338,178 @@
 			<!-- /.row -->
 
 			<section>
-				<div class="section-title">
-					<h2><span>Posts about lifestyle</span></h2>
-				</div>
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="row listrecent">
+						<div class="card-columns"> 
 							 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/working-abroad-tips/">
-                
-                    <img src="http://localhost:4000/assets/images/2018/11/working-abroad-tips-featured-image.jpg" class="img-fluid" loading="auto"  alt="Tips for how to successfully find work abroad as an American" width="2048" height="1365" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/working-abroad-tips/">Tips for how to successfully find work abroad as an American</a>
-                
-            </h2>
-            <h4 class="card-text">People have been asking me a lot lately for tips for how to find a job in Germany. Now that I have been working in Germany for more than two...</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">06 Nov 2018</span>
-                </span>
-                <span class="post-read-more"><a href="/working-abroad-tips/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2018/11/working-abroad-tips-featured-image.jpg" class="img-fluid" loading="auto"  alt="Tips for how to successfully find work abroad as an American" width="2048" height="1365" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Tips for how to successfully find work abroad as an American</h5>
+        <p class="card-text">People have been asking me a lot lately for tips for how to find a job in Germany. Now that...</p>
+        <p class="card-text"><small class="text-muted">06 Nov 2018</small></p>
+        <a href="/working-abroad-tips/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/giving-thanks/">
-                
-                    <img src="http://localhost:4000/assets/images/2017/09/judson-thanks-giza.jpg" class="img-fluid" loading="auto"  alt="5 Reasons Why Giving Thanks is Good For You" width="1200" height="800" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/giving-thanks/">5 Reasons Why Giving Thanks is Good For You</a>
-                
-            </h2>
-            <h4 class="card-text">Giving thanks has a range of benefits from making you feel better to making the world a better place. Learn more and take the thanksgiving challenge.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">30 Sep 2017</span>
-                </span>
-                <span class="post-read-more"><a href="/giving-thanks/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2017/09/judson-thanks-giza.jpg" class="img-fluid" loading="auto"  alt="5 Reasons Why Giving Thanks is Good For You" width="1200" height="800" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">5 Reasons Why Giving Thanks is Good For You</h5>
+        <p class="card-text">Giving thanks has a range of benefits from making you feel better to making the world a better place. Learn...</p>
+        <p class="card-text"><small class="text-muted">30 Sep 2017</small></p>
+        <a href="/giving-thanks/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/three-ways-travel-changed-life/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/08/bob-moore-college.jpeg.jpg" class="img-fluid" loading="auto"  alt="Three Ways Travel Changed My Life When I Was Young" width="1280" height="867" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/three-ways-travel-changed-life/">Three Ways Travel Changed My Life When I Was Young</a>
-                
-            </h2>
-            <h4 class="card-text">My father tells of a romantic encounter from his youth while traveling in the Caribbean Islands which forever changed his life.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="">Bob Moore</a></span><br/>
-                
-                <span class="post-date">09 Aug 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/three-ways-travel-changed-life/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/08/bob-moore-college.jpeg.jpg" class="img-fluid" loading="auto"  alt="Three Ways Travel Changed My Life When I Was Young" width="1280" height="867" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Three Ways Travel Changed My Life When I Was Young</h5>
+        <p class="card-text">My father tells of a romantic encounter from his youth while traveling in the Caribbean Islands which forever changed his...</p>
+        <p class="card-text"><small class="text-muted">09 Aug 2016</small></p>
+        <a href="/three-ways-travel-changed-life/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/why-travel-while-young/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/01/adventure-2-e1463677777821.jpeg" class="img-fluid" loading="auto"  alt="Why Travel While Young?" width="1200" height="800" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/why-travel-while-young/">Why Travel While Young?</a>
-                
-            </h2>
-            <h4 class="card-text">Learn why travel at a young age is a critical foundation for developing skill, independence, and for ensuring a prosperous life.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">21 Feb 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/why-travel-while-young/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/01/adventure-2-e1463677777821.jpeg" class="img-fluid" loading="auto"  alt="Why Travel While Young?" width="1200" height="800" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Why Travel While Young?</h5>
+        <p class="card-text">Learn why travel at a young age is a critical foundation for developing skill, independence, and for ensuring a prosperous...</p>
+        <p class="card-text"><small class="text-muted">21 Feb 2016</small></p>
+        <a href="/why-travel-while-young/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/international-fellowship-programs/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg" class="img-fluid" loading="auto"  alt="19 Amazing International Fellowship Programs" width="1280" height="738" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/international-fellowship-programs/">19 Amazing International Fellowship Programs</a>
-                
-            </h2>
-            <h4 class="card-text">Looking for ways to study or work abroad while getting someone else to pay for the experience? Check out this list of international fellowship programs!</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">18 Feb 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/international-fellowship-programs/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg" class="img-fluid" loading="auto"  alt="19 Amazing International Fellowship Programs" width="1280" height="738" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">19 Amazing International Fellowship Programs</h5>
+        <p class="card-text">Looking for ways to study or work abroad while getting someone else to pay for the experience? Check out this...</p>
+        <p class="card-text"><small class="text-muted">18 Feb 2016</small></p>
+        <a href="/international-fellowship-programs/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/negotiating-travel-at-your-job/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/01/Tips-For-Negotiating-Travel-At-Your-Job-Featured-Image.jpg" class="img-fluid" loading="auto"  alt="Tips For Negotiating Travel At Your Job" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/negotiating-travel-at-your-job/">Tips For Negotiating Travel At Your Job</a>
-                
-            </h2>
-            <h4 class="card-text">Negotiating travel policy with your work is both possible and can be beneficial for all concerned. Read this article for tips and best practices.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">30 Jan 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/negotiating-travel-at-your-job/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/01/Tips-For-Negotiating-Travel-At-Your-Job-Featured-Image.jpg" class="img-fluid" loading="auto"  alt="Tips For Negotiating Travel At Your Job" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Tips For Negotiating Travel At Your Job</h5>
+        <p class="card-text">Negotiating travel policy with your work is both possible and can be beneficial for all concerned. Read this article for...</p>
+        <p class="card-text"><small class="text-muted">30 Jan 2016</small></p>
+        <a href="/negotiating-travel-at-your-job/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/showing-up-secret-to-success/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/01/The-Secret-Key-To-All-My-Success-Featured-Image.jpeg" class="img-fluid" loading="auto"  alt="The Secret To All My Success" width="1280" height="960" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/showing-up-secret-to-success/">The Secret To All My Success</a>
-                
-            </h2>
-            <h4 class="card-text">Showing up is the first step in every success story, but it can be hard to know where to put your efforts. Learn now from my first "showing up" story!...</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">30 Jan 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/showing-up-secret-to-success/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/01/The-Secret-Key-To-All-My-Success-Featured-Image.jpeg" class="img-fluid" loading="auto"  alt="The Secret To All My Success" width="1280" height="960" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">The Secret To All My Success</h5>
+        <p class="card-text">Showing up is the first step in every success story, but it can be hard to know where to put...</p>
+        <p class="card-text"><small class="text-muted">30 Jan 2016</small></p>
+        <a href="/showing-up-secret-to-success/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/relationships-a-nomads-philosophy/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/01/Relationships-A-Nomads-Philosophy-Featured-Image.jpeg" class="img-fluid" loading="auto"  alt="A Nomad's Philosophy to Relationships" width="1280" height="914" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/relationships-a-nomads-philosophy/">A Nomad's Philosophy to Relationships</a>
-                
-            </h2>
-            <h4 class="card-text">Relationships struggle to survive the test of distance, and for good reason. As a nomad, I have learned how to protect the most precious relationships.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">30 Jan 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/relationships-a-nomads-philosophy/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/01/Relationships-A-Nomads-Philosophy-Featured-Image.jpeg" class="img-fluid" loading="auto"  alt="A Nomad's Philosophy to Relationships" width="1280" height="914" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">A Nomad's Philosophy to Relationships</h5>
+        <p class="card-text">Relationships struggle to survive the test of distance, and for good reason. As a nomad, I have learned how to...</p>
+        <p class="card-text"><small class="text-muted">30 Jan 2016</small></p>
+        <a href="/relationships-a-nomads-philosophy/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/high-tech-resume-tips/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/01/resume-writing-man-notebook-laptop-1.jpg" class="img-fluid" loading="auto"  alt="High Tech Tips for Any Resume" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/high-tech-resume-tips/">High Tech Tips for Any Resume</a>
-                
-            </h2>
-            <h4 class="card-text">Resume writing is an art form. Use these innovative resume tips to show that you understand technology and can think outside of the box.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">25 Jan 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/high-tech-resume-tips/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/01/resume-writing-man-notebook-laptop-1.jpg" class="img-fluid" loading="auto"  alt="High Tech Tips for Any Resume" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">High Tech Tips for Any Resume</h5>
+        <p class="card-text">Resume writing is an art form. Use these innovative resume tips to show that you understand technology and can think...</p>
+        <p class="card-text"><small class="text-muted">25 Jan 2016</small></p>
+        <a href="/high-tech-resume-tips/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/home-is-where-the-heart-is/">
-                
-                    <img src="http://localhost:4000/assets/images/2010/06/home-is-where-the-heart-is.jpg" class="img-fluid" loading="auto"  alt="What I Would Have Said - Home Is Where the Heart Is." width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/home-is-where-the-heart-is/">What I Would Have Said - Home Is Where the Heart Is.</a>
-                
-            </h2>
-            <h4 class="card-text">My heart has found a new place to call home in Los Angeles and I owe it all to this very special group of community leaders and humanitarians.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">06 Jun 2010</span>
-                </span>
-                <span class="post-read-more"><a href="/home-is-where-the-heart-is/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2010/06/home-is-where-the-heart-is.jpg" class="img-fluid" loading="auto"  alt="What I Would Have Said - Home Is Where the Heart Is." width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">What I Would Have Said - Home Is Where the Heart Is.</h5>
+        <p class="card-text">My heart has found a new place to call home in Los Angeles and I owe it all to this...</p>
+        <p class="card-text"><small class="text-muted">06 Jun 2010</small></p>
+        <a href="/home-is-where-the-heart-is/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/did-it-while-i-was-young/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/01/adventure.jpeg" class="img-fluid" loading="auto"  alt="Did It While I Was Young" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/did-it-while-i-was-young/">Did It While I Was Young</a>
-                
-            </h2>
-            <h4 class="card-text">“Do it while your young.” I can’t tell you how many times I heard those words growing up. I heard them from family, friends, T.V., people I aspired to be...</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">19 Mar 2010</span>
-                </span>
-                <span class="post-read-more"><a href="/did-it-while-i-was-young/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/01/adventure.jpeg" class="img-fluid" loading="auto"  alt="Did It While I Was Young" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Did It While I Was Young</h5>
+        <p class="card-text">“Do it while your young.” I can’t tell you how many times I heard those words growing up. I heard...</p>
+        <p class="card-text"><small class="text-muted">19 Mar 2010</small></p>
+        <a href="/did-it-while-i-was-young/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							 
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/life-goals-exercise/">
-                
-                    <img src="http://localhost:4000/assets/images/2007/12/life-goals-exercise.jpeg" class="img-fluid" loading="auto"  alt="How To Identify and Accomplish Your Life Goals" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/life-goals-exercise/">How To Identify and Accomplish Your Life Goals</a>
-                
-            </h2>
-            <h4 class="card-text">Do you have life goals? Do you need help identifying life goals? Or maybe you need help structuring a plan to achieve your life goals? Read this now.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">20 Dec 2007</span>
-                </span>
-                <span class="post-read-more"><a href="/life-goals-exercise/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2007/12/life-goals-exercise.jpeg" class="img-fluid" loading="auto"  alt="How To Identify and Accomplish Your Life Goals" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">How To Identify and Accomplish Your Life Goals</h5>
+        <p class="card-text">Do you have life goals? Do you need help identifying life goals? Or maybe you need help structuring a plan...</p>
+        <p class="card-text"><small class="text-muted">20 Dec 2007</small></p>
+        <a href="/life-goals-exercise/" class="stretched-link"></a>
     </div>
-</div>
-<!-- end post --> 
+</div> 
 							
 						</div>
 					</div>
@@ -913,7 +527,7 @@
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer d-none d-lg-block bg-black text-light py-3 mt-5">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3 mt-5">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

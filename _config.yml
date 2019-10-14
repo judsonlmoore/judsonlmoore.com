@@ -167,7 +167,7 @@ cloudinary:
         loading: auto
     featured-box-img-cover:
       attributes:
-        class: featured-box-img-cover
+        class: featured-box-img-cover img-fluid
         min_width: 185
         min_hight: 350
         max_width: 510
@@ -175,7 +175,7 @@ cloudinary:
         fallback_max_width: 510
     featured:
       attibutes:
-        class: featured-image img-fluid
+        class: featured-image img-fluid img-fluid
         min_width: 315
         min_hight: 210
         max_width: 800
@@ -183,7 +183,7 @@ cloudinary:
     author-thumb: 
       steps: 2
       attributes: 
-        class: author-thumb
+        class: author-thumb img-fluid
         min_width: 40
         min_hight: 40
         max_width: 72

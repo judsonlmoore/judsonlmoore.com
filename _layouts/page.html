@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="site-content">
-    <div class="container">
+    <div class="container bg-white p-5 my-5">
 
         <!-- Content
 ================================================== -->
@@ -12,19 +12,10 @@ layout: default
 
             <section>
 
-                <div class="article-post px-0 pt-md-5">
+                <div class="article-post">
                     {{content}}
                 </div>
 
-                {% if page.comments == true %}
-
-                <div id="comments" class="row mb-5">
-                    <div class="col-md-8">
-                        {% include disqus.html %}
-                    </div>
-                </div>
-
-                {% endif %}
             </section>
 
         </div> <!-- main-content -->

@@ -1,37 +1,11 @@
-<div class="row bg-dark d-none d-lg-block">
-    <div class="container">
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
 
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    {% include social-buttons.html %}
-
-                    {% include search-lunr.html %}
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="{{ site.baseurl }}/">
-            <h1 class="logo-title text-light">{{ site.name }}</h1>
-            <p class="logo-subtitle text-light">
-                {{ site.description }}
-            </p>
+            <p class="h4 font-weight-light">{{ site.name }}</p>
+            <p class="h5 font-weight-lighter">{{ site.description }}</p>
         </a>
         <!-- End Logo -->
 

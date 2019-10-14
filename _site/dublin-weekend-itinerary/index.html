@@ -58,79 +58,14 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <div class="row bg-dark d-none d-lg-block">
-    <div class="container">
+        
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
-
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    
-<!--facebook -->
-<a href="https://facebook.com/judsonlmooreblog/" class="btn bg-blue text-light mr-2" alt="Follow on facebook" target="_blank">
-	<span class="fab fa-facebook"></span>
-</a>
-
-<!--twitter -->
-<a href="https://twitter.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on twitter" target="_blank">
-	<span class="fab fa-twitter"></span>
-</a>
-
-<!--instagram -->
-<a href="https://instagram.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on instagram" target="_blank">
-	<span class="fab fa-instagram"></span>
-</a>
-
-<!--linkedin -->
-<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on linkedin" target="_blank">
-	<span class="fab fa-linkedin"></span>
-</a>
-
-<!--github -->
-<a href="https://github.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on github" target="_blank">
-	<span class="fab fa-github"></span>
-</a>
-
-
-                    <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script>
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-            <h1 class="logo-title text-light">Judson L Moore</h1>
-            <p class="logo-subtitle text-light">
-                Author and travel addict
-            </p>
+            <p class="h4 font-weight-light">Judson L Moore</p>
+            <p class="h5 font-weight-lighter">Author and travel addict</p>
         </a>
         <!-- End Logo -->
 
@@ -258,6 +193,11 @@
 	<span class="fab fa-github"></span>
 </a>
 
+<!--amazon -->
+<a href="https://www.amazon.com/author/judsonlmoore" class="btn bg-blue text-light mr-2" alt="Follow on amazon" target="_blank">
+	<span class="fab fa-amazon"></span>
+</a>
+
                 </div>
             </div>
 
@@ -303,40 +243,35 @@
                 <div class="row">
 
                     <!-- Post Share -->
-                    <div class="col-md-2 pt-md-5">
-                        <div class="share sticky-top sticky-top-offset">
+                    <div class="col-md-2">
+                        <div class="share sticky-top sticky-top-offset pt-5">
     <p>
         Share
     </p>
-    <ul>
+    <ul class="list-unstyled">
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://twitter.com/intent/tweet?text=Things to Do in Dublin - A 3-day Weekend Itinerary&url=http://localhost:4000/dublin-weekend-itinerary/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Things to Do in Dublin - A 3-day Weekend Itinerary&url=http://localhost:4000/dublin-weekend-itinerary/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="text-dark" >
                 <i class="fab fa-twitter"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/dublin-weekend-itinerary/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/dublin-weekend-itinerary/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;" class="text-dark" >
                 <i class="fab fa-facebook-f"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/dublin-weekend-itinerary/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/dublin-weekend-itinerary/" onclick="window.open(this.href, 'width=550,height=435');return false;" class="text-dark" >
                 <i class="fab fa-linkedin-in"></i>
             </a>
         </li>
-
-    </ul>
-    
-    <div class="sep">
-    </div>
-    <ul>
+        
         <li>
-        <a class="small smoothscroll" href="#disqus_thread"></a>
+            <a class="small smoothscroll" href="#disqus_thread" class="text-dark" ></a>
         </li>
+        
     </ul>
-    
 </div>
 
                     </div>
@@ -348,16 +283,19 @@
 
                             <!-- Post Title -->
                             
-                            <h1 class="posttitle">Things to Do in Dublin - A 3-day Weekend Itinerary</h1>
 
-                            <!-- Post Date -->
-                            <p>
+                            <div class="bg-white p-5">
+
+                                <h1 class="posttitle">Things to Do in Dublin - A 3-day Weekend Itinerary</h1>
+
+                                <!-- Post Date -->
                                 <small>
                                     <span class="post-date"><time class="post-date" datetime="2018-02-03">03 Feb 2018</time></span>           
                                     
                                 </small>
-                            </p>
-                            
+                                
+
+                            </div>
 
                         </div>
 
@@ -376,7 +314,7 @@
                         
 
                         <!-- Post Content -->
-                        <div class="article-post px-0 pb-md-5">
+                        <div class="article-post bg-white p-5">
                             <!-- Toc if any -->
                             
                             <!-- End Toc -->
@@ -473,7 +411,7 @@
 
 <p>After that, head to the Dublin Castle around opening time. From there, enjoy Dublin’s shopping district. Then we will go learn some about the modern history of Dublin at the Jameson Distillery and taste some Irish whiskeys. To close the day out, grab a beer at one of <strong>the most interesting bars in the world</strong>.</p>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-map-day-1.png" alt="" title="" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-map-day-1.png" alt="" title="" class="img-fluid" />
 <span class="caption"></span>(https://goo.gl/maps/k7hetkFAABJ2) Click on image to open interactive map on Google.” %}</p>
 
 <h2 id="dublin-castle">Dublin Castle</h2>
@@ -524,7 +462,7 @@
 baguetteBox.run('.tz-gallery');
 </script>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-irish-sword-of-state.jpg" alt="A detailed view of the gilded hilt of the Irish Sword of State" title=" The Irish Sword of State on Display at the Dublin Castle" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-irish-sword-of-state.jpg" alt="A detailed view of the gilded hilt of the Irish Sword of State" title=" The Irish Sword of State on Display at the Dublin Castle" class="img-fluid" />
 <span class="caption"> The Irish Sword of State on Display at the Dublin Castle</span></p>
 
 <p>back to top</p>
@@ -561,7 +499,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-secret-book-record-store.jpg" alt="A long corridor with walls covered in posters and a bookshop at the end" title=" The Secret Book and Record Shop in Dublin Ireland" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-secret-book-record-store.jpg" alt="A long corridor with walls covered in posters and a bookshop at the end" title=" The Secret Book and Record Shop in Dublin Ireland" class="img-fluid" />
 <span class="caption"> The Secret Book and Record Shop in Dublin Ireland</span></p>
 
 <p>back to top</p>
@@ -581,7 +519,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-molly-malone-statue.jpg" alt="Judson stands in front of a statue of Molly Malone" title=" Statue of Molly Malone in Dublin" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-molly-malone-statue.jpg" alt="Judson stands in front of a statue of Molly Malone" title=" Statue of Molly Malone in Dublin" class="img-fluid" />
 <span class="caption"> Statue of Molly Malone in Dublin</span></p>
 
 <p>back to top</p>
@@ -601,7 +539,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-hapenny-bridge.jpg" alt="Judson stands in front of the Ha'penny Bridge" title=" The historic Ha'penny Bridge in Dublin" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-hapenny-bridge.jpg" alt="Judson stands in front of the Ha'penny Bridge" title=" The historic Ha'penny Bridge in Dublin" class="img-fluid" />
 <span class="caption"> The historic Ha’penny Bridge in Dublin</span></p>
 
 <p>back to top</p>
@@ -627,7 +565,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-jameson-distillery.jpg" alt="Judson stands in front of the entrance sign for the Jameson Distillery" title=" The Jameson Distillery on Bow St. in Dublin" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-jameson-distillery.jpg" alt="Judson stands in front of the entrance sign for the Jameson Distillery" title=" The Jameson Distillery on Bow St. in Dublin" class="img-fluid" />
 <span class="caption"> The Jameson Distillery on Bow St. in Dublin</span></p>
 
 <p>back to top</p>
@@ -649,7 +587,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg" alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." title=" The Church Bar in Dublin Ireland" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg" alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." title=" The Church Bar in Dublin Ireland" class="img-fluid" />
 <span class="caption"> The Church Bar in Dublin Ireland</span></p>
 
 <p>back to top</p>
@@ -660,7 +598,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
 
 <p>We will move in a westwardly direction for most of the day. Starting at another of Dublin’s iconic bridges, catching the sunset from atop the Guinness Storehouse, and then ending at <strong>the most iconic bar in all of Ireland</strong> to sing our hearts out until sunrise.</p>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-map-day-2-1.png" alt="" title="" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-map-day-2-1.png" alt="" title="" class="img-fluid" />
 <span class="caption"></span>(https://goo.gl/maps/bKZP6fQF6ZU2) Click on image to open interactive map on Google.” %}</p>
 
 <h2 id="the-samuel-beckett-bridge">The Samuel Beckett Bridge</h2>
@@ -678,7 +616,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-samuel-beckett-bridge.jpg" alt="Judson stands in front of the harp-shaped Samuel Backett Bridge" title=" The Samuel Beckett Bridge in Dublin is the shape of the Harp, Ireland's national symbol" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-samuel-beckett-bridge.jpg" alt="Judson stands in front of the harp-shaped Samuel Backett Bridge" title=" The Samuel Beckett Bridge in Dublin is the shape of the Harp, Ireland's national symbol" class="img-fluid" />
 <span class="caption"> The Samuel Beckett Bridge in Dublin is the shape of the Harp, Ireland’s national symbol</span></p>
 
 <p>back to top</p>
@@ -696,7 +634,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-st-stephens-green.jpg" alt="A winter view of a pond in St. Stephen's Green with blue skies" title=" St. Stephen's Green in central Dublin" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-st-stephens-green.jpg" alt="A winter view of a pond in St. Stephen's Green with blue skies" title=" St. Stephen's Green in central Dublin" class="img-fluid" />
 <span class="caption"> St. Stephen’s Green in central Dublin</span></p>
 
 <p>back to top</p>
@@ -746,7 +684,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-book-of-kells.jpg" alt="Judson stands in the great hall of the Book of Kells" title=" The Book of Kells at Trinity College in Dublin" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-book-of-kells.jpg" alt="Judson stands in the great hall of the Book of Kells" title=" The Book of Kells at Trinity College in Dublin" class="img-fluid" />
 <span class="caption"> The Book of Kells at Trinity College in Dublin</span></p>
 
 <p>back to top</p>
@@ -785,7 +723,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-st-patricks-cathedral.jpg" alt="A view of the interior of St. Patrick's Cathedrial" title=" Inside St. Patrick's Cathedral in Dublin" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-st-patricks-cathedral.jpg" alt="A view of the interior of St. Patrick's Cathedrial" title=" Inside St. Patrick's Cathedral in Dublin" class="img-fluid" />
 <span class="caption"> Inside St. Patrick’s Cathedral in Dublin</span></p>
 
 <p>back to top</p>
@@ -794,7 +732,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
 
 <p>This is a quick bonus at the St. Patrick’s Cathedral. The gift shop is actually quite nice and they have a section of all the family crests for the church’s members. People often ask me if I am Irish and I always say no, that I am more German and Danish. But here I found a crest for the Moore Family. <strong>This prompted me to fact-check my heritage</strong> and learn that indeed, I am a bit Irish. Opps. Well, I guess we learn something new every day!</p>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-irish-family-crest-moore.jpg" alt="Judson holds the Irsh family crest for Moore. Two golden lions flank a green shield with three golden stars and a golden lion on it" title=" The Irish family crest for Moore" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-irish-family-crest-moore.jpg" alt="Judson holds the Irsh family crest for Moore. Two golden lions flank a green shield with three golden stars and a golden lion on it" title=" The Irish family crest for Moore" class="img-fluid" />
 <span class="caption"> The Irish family crest for Moore</span></p>
 
 <p>back to top</p>
@@ -822,7 +760,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-guinness-storehouse.jpg" alt="Judson jumps in the air in front of the Guinness Storehouse" title=" The gates of the Guinness Storehouse in Dublin" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-guinness-storehouse.jpg" alt="Judson jumps in the air in front of the Guinness Storehouse" title=" The gates of the Guinness Storehouse in Dublin" class="img-fluid" />
 <span class="caption"> The gates of the Guinness Storehouse in Dublin</span></p>
 
 <p>back to top</p>
@@ -845,7 +783,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-temple-bar.jpg" alt="Two musicians perform Irish Music in the corner stage of the Temple Bar" title=" Live music at the Temple Bar in Dublin Ireland" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-temple-bar.jpg" alt="Two musicians perform Irish Music in the corner stage of the Temple Bar" title=" Live music at the Temple Bar in Dublin Ireland" class="img-fluid" />
 <span class="caption"> Live music at the Temple Bar in Dublin Ireland</span></p>
 
 <p>back to top</p>
@@ -868,7 +806,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-temple-bar-distillery-store-tasting.jpg" alt="Four bottles of whiskey lined up and ready to be tasted" title=" Whiskey Tasting at the Temple Bar Distillery Store" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-temple-bar-distillery-store-tasting.jpg" alt="Four bottles of whiskey lined up and ready to be tasted" title=" Whiskey Tasting at the Temple Bar Distillery Store" class="img-fluid" />
 <span class="caption"> Whiskey Tasting at the Temple Bar Distillery Store</span></p>
 
 <p>back to top</p>
@@ -881,7 +819,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
 
 <p>One tip about today, if you will fly out of Dublin tonight, then <strong>you should take your luggage to the DART station</strong>. They have luggage storage there. Just be sure to pick up your luggage after hiking in Greystones while on your way to Howth. From Howth, it is much easier to go directly to the airport than it would be to go back to the city center and then to the airport.</p>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-map-day-3.png" alt="" title="" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-map-day-3.png" alt="" title="" class="img-fluid" />
 <span class="caption"></span>(https://goo.gl/maps/YDsvv4pj4922) Click on image to open interactive map on Google.” %}</p>
 
 <h2 id="dart-train-to-greystones--cliff-walk">DART train to Greystones + Cliff Walk</h2>
@@ -906,7 +844,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-cliff-walks-greystones.jpg" alt="Judson stands on the cliffs of Greystones with the ocean behind him " title=" View from the Cliff Walks of Greystones" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-cliff-walks-greystones.jpg" alt="Judson stands on the cliffs of Greystones with the ocean behind him " title=" View from the Cliff Walks of Greystones" class="img-fluid" />
 <span class="caption"> View from the Cliff Walks of Greystones</span></p>
 
 <p>back to top</p>
@@ -931,7 +869,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
   </li>
 </ul>
 
-<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-howth-fish-chips.jpg" alt="The traditional fish and chips at The Bloody Stream in the Howth Railway Station" title=" Fish and Chips at The Bloody Stream in the Howth Railway Station" />
+<p><img src="../assets/images/2018/01/dublin-weekend-itenerary-howth-fish-chips.jpg" alt="The traditional fish and chips at The Bloody Stream in the Howth Railway Station" title=" Fish and Chips at The Bloody Stream in the Howth Railway Station" class="img-fluid" />
 <span class="caption"> Fish and Chips at The Bloody Stream in the Howth Railway Station</span></p>
 
 <p>back to top</p>
@@ -950,7 +888,7 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
                         <div class="row post-top-meta">
                             <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                 
-                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
+                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb img-fluid" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
                                 
                             </div>
                             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -965,7 +903,63 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
 
                         <!-- Post Categories -->
                         <div class="after-post-cats">
-                            <ul class="tags mb-4">
+
+                            <ul class="list-inline">
+
+                            
+                            
+
+                                <li class="list-inline-item">
+                                    <a class="smoothscroll" href="/categories#ireland">
+                                        <span class="badge badge-secondary">ireland</span>
+                                    </a>
+                                </li>
+
+                            
+
+                            </ul>
+                        </div>
+                        <!-- End Categories -->
+
+
+
+                        <!-- Post Tags -->
+                        <div class="after-post-tags">
+                            <ul class="tags">
+                                
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#adventure,">#adventure,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#guide,">#guide,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#itenerary,">#itenerary,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#tips">#tips</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#travel">#travel</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#travel">#travel</a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                        <!-- End Tags -->
+
+
+
+
+<!--                             <ul class="tags mb-4">
                                 
                                 
                                 <li>
@@ -973,7 +967,8 @@ Ornate 1881 shopping plaza offering indie clothing boutiques &amp; food vendors,
                                 </li>
                                 
                             </ul>
-                        </div>
+                       </div> 
+            --> 
                         <!-- End Categories -->
 
                         <!-- Post Tags -->
@@ -1198,7 +1193,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer d-none d-lg-block bg-black text-light py-3 mt-5">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3 mt-5">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

@@ -56,79 +56,14 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <div class="row bg-dark d-none d-lg-block">
-    <div class="container">
+        
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
-
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    
-<!--facebook -->
-<a href="https://facebook.com/judsonlmooreblog/" class="btn bg-blue text-light mr-2" alt="Follow on facebook" target="_blank">
-	<span class="fab fa-facebook"></span>
-</a>
-
-<!--twitter -->
-<a href="https://twitter.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on twitter" target="_blank">
-	<span class="fab fa-twitter"></span>
-</a>
-
-<!--instagram -->
-<a href="https://instagram.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on instagram" target="_blank">
-	<span class="fab fa-instagram"></span>
-</a>
-
-<!--linkedin -->
-<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on linkedin" target="_blank">
-	<span class="fab fa-linkedin"></span>
-</a>
-
-<!--github -->
-<a href="https://github.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on github" target="_blank">
-	<span class="fab fa-github"></span>
-</a>
-
-
-                    <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script>
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-            <h1 class="logo-title text-light">Judson L Moore</h1>
-            <p class="logo-subtitle text-light">
-                Author and travel addict
-            </p>
+            <p class="h4 font-weight-light">Judson L Moore</p>
+            <p class="h5 font-weight-lighter">Author and travel addict</p>
         </a>
         <!-- End Logo -->
 
@@ -256,6 +191,11 @@
 	<span class="fab fa-github"></span>
 </a>
 
+<!--amazon -->
+<a href="https://www.amazon.com/author/judsonlmoore" class="btn bg-blue text-light mr-2" alt="Follow on amazon" target="_blank">
+	<span class="fab fa-amazon"></span>
+</a>
+
                 </div>
             </div>
 
@@ -300,45 +240,30 @@
 </style>
 
   <!-- Header -->
-  <div id="fullwidth-img" class="container-fluid py-5 mb-5">
+  <div id="fullwidth-img" class="container-fluid py-5">
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-lg-12">
           <h1 class="display-3 font-weight-bolder text-white mt-5 mb-2">Colombia Travel Guide</h1>
           <p class="h4 font-weight-bolder text-white mb-5">A 15th year reunion with my Rotary Youth Exchange friends.</p>
-          <button
-	type="button"
-	class="btn btn-primary btn-lg"
-	data-toggle="modal"
-	data-target="#exampleModal"
-	>
-	Subscribe now for more colombia tips <i class="fas fa-envelope"></i>
+          
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModalCenter">
+  Subscribe now for more colombia tips <i class="fas fa-envelope"></i>
 </button>
 
-<div
-	class="modal fade"
-	id="exampleModal"
-	tabindex="-1"
-	role="dialog"
-	aria-labelledby="exampleModalLabel"
-	aria-hidden="true"
->
-	<div class="modal-dialog" role="document">
-	    <div class="container" id="registration-form">
-	        <div class="image"></div>
-	        <div class="frm">
-	        	<div class="modal-header">
-		            <h1>Sign up</h1>
-					<button 
-						type="button" 
-						class="close" 
-						data-dismiss="modal" 
-						aria-label="Close"
-						>
-						<span aria-hidden="true">&times;</span>
-					</button>
-				</div>
-	            <form
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">Sign up</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form
 	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 	method="post"
 	name="mc-embedded-subscribe-form"
@@ -381,12 +306,14 @@
 	});
 </script>
 
-	        </div>
-	    </div>
-	</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
 </div>
-
-
         </div>
       </div>
     </div>
@@ -399,325 +326,119 @@
 ================================================== -->
         <div class="main-content">
 
-			<div class="row">
-			  <div class="col-lg-9">
+			<div class="row bg-white shadow-sm p-5 my-5">
+			  <div class="col">
 			    <h2 id="how-my-time-in-brazil-changed-my-life">How my time in Brazil changed my life</h2>
 
 <p>With an overwhelming need to scratch my newly-acquired wanderlust itch, I set out on a six month solo backpacking trip in Brazil as soon as I finished high school. During my Rotary Youth Exchange year, I had come to know many people from all over the world, including a large number of Brazilians. While in Brazil, I stayed in the homes of my friends, many of which were Rotarians, and so I had many opportunities to present at Rotary Clubs and participate in community projects. The people I met, the strife I witnessed, the beauty of the people and the culture, all set me down the path of my life’s work: to impact communities on the international stage.</p>
 
 			  </div>
-			  <div class="col-lg-3">
-			    <div class="section-title">
-					<h2><span>Destinations in colombia</span></h2>
-				</div>
-			     
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				 
-				
-			  </div>
 			</div>
 			<!-- /.row -->
 
 			<section>
-				<div class="section-title">
-					<h2><span>Posts about colombia</span></h2>
-				</div>
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="row listrecent">
-							 
-							 
+						<div class="card-columns"> 
+							
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/colombia-new-germany/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/11/IMG_3606-Version-2.jpg" class="img-fluid" loading="auto"  alt="Colombia Is The New Germany - A Rotary Youth Exchange Reunion" width="1280" height="615" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/colombia-new-germany/">Colombia Is The New Germany - A Rotary Youth Exchange Reunion</a>
-                
-            </h2>
-            <h4 class="card-text">I spend two weeks in Colombia with old friends exploring the hottest destinations, eating the most delicious food, and learning to dance in the streets!</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">11 Nov 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/colombia-new-germany/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/11/IMG_3606-Version-2.jpg" class="img-fluid" loading="auto"  alt="Colombia Is The New Germany - A Rotary Youth Exchange Reunion" width="1280" height="615" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Colombia Is The New Germany - A Rotary Youth Exchange Reunion</h5>
+        <p class="card-text">I spend two weeks in Colombia with old friends exploring the hottest destinations, eating the most delicious food, and learning...</p>
+        <p class="card-text"><small class="text-muted">11 Nov 2014</small></p>
+        <a href="/colombia-new-germany/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/andres-carne-de-res/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/11/IMG_0650.jpg" class="img-fluid" loading="auto"  alt="Andrés Carne de Res - The Tackiest Steakhouse In The World" width="1280" height="960" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/andres-carne-de-res/">Andrés Carne de Res - The Tackiest Steakhouse In The World</a>
-                
-            </h2>
-            <h4 class="card-text">If you find yourself hungry in Colombia, you better find your way to Andrés Carne de Res. This is the tackiest, tastiest and biggest steakhouse ever!</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">10 Nov 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/andres-carne-de-res/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/11/IMG_0650.jpg" class="img-fluid" loading="auto"  alt="Andrés Carne de Res - The Tackiest Steakhouse In The World" width="1280" height="960" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Andrés Carne de Res - The Tackiest Steakhouse In The World</h5>
+        <p class="card-text">If you find yourself hungry in Colombia, you better find your way to Andrés Carne de Res. This is the...</p>
+        <p class="card-text"><small class="text-muted">10 Nov 2014</small></p>
+        <a href="/andres-carne-de-res/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/salt-cathedral-zipaquira/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/11/IMG_3601.jpg" class="img-fluid" loading="auto"  alt="Salt Cathedral of Zipaquirá - A Subterranean Monument of Faith" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/salt-cathedral-zipaquira/">Salt Cathedral of Zipaquirá - A Subterranean Monument of Faith</a>
-                
-            </h2>
-            <h4 class="card-text">The Salt Cathedral of Zipaquirá on the outskirts of Bogota, Colombia, is perhaps the world's grandest testament of a people's faith to their creator.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">08 Nov 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/salt-cathedral-zipaquira/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/11/IMG_3601.jpg" class="img-fluid" loading="auto"  alt="Salt Cathedral of Zipaquirá - A Subterranean Monument of Faith" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Salt Cathedral of Zipaquirá - A Subterranean Monument of Faith</h5>
+        <p class="card-text">The Salt Cathedral of Zipaquirá on the outskirts of Bogota, Colombia, is perhaps the world's grandest testament of a people's...</p>
+        <p class="card-text"><small class="text-muted">08 Nov 2014</small></p>
+        <a href="/salt-cathedral-zipaquira/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/villa-de-leyva/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/11/IMG_3155.jpg" class="img-fluid" loading="auto"  alt="Villa de Leyva - A Historical Mountain Retreat In Colombia" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/villa-de-leyva/">Villa de Leyva - A Historical Mountain Retreat In Colombia</a>
-                
-            </h2>
-            <h4 class="card-text">Villa de Leyva is a small historical mountain town in Colombia with beautiful architecture, adventure tourism galore, and waterfalls everywhere.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">07 Nov 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/villa-de-leyva/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/11/IMG_3155.jpg" class="img-fluid" loading="auto"  alt="Villa de Leyva - A Historical Mountain Retreat In Colombia" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Villa de Leyva - A Historical Mountain Retreat In Colombia</h5>
+        <p class="card-text">Villa de Leyva is a small historical mountain town in Colombia with beautiful architecture, adventure tourism galore, and waterfalls everywhere....</p>
+        <p class="card-text"><small class="text-muted">07 Nov 2014</small></p>
+        <a href="/villa-de-leyva/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/isla-palma/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/11/IMG_2816.jpg" class="img-fluid" loading="auto"  alt="Isla Palma - Private Island Paradise of Pablo Escobar" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/isla-palma/">Isla Palma - Private Island Paradise of Pablo Escobar</a>
-                
-            </h2>
-            <h4 class="card-text">Isla Palma is the private island retreat of cartel boss Pablo Escobar. Today, this all-inclusive resort is scattered with the ruins of that page in history.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">05 Nov 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/isla-palma/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/11/IMG_2816.jpg" class="img-fluid" loading="auto"  alt="Isla Palma - Private Island Paradise of Pablo Escobar" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Isla Palma - Private Island Paradise of Pablo Escobar</h5>
+        <p class="card-text">Isla Palma is the private island retreat of cartel boss Pablo Escobar. Today, this all-inclusive resort is scattered with the...</p>
+        <p class="card-text"><small class="text-muted">05 Nov 2014</small></p>
+        <a href="/isla-palma/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/cartagena/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/11/IMG_2413.jpg" class="img-fluid" loading="auto"  alt="Cartagena - A Historical Tour Through Colombia's Magnificent Port" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/cartagena/">Cartagena - A Historical Tour Through Colombia's Magnificent Port</a>
-                
-            </h2>
-            <h4 class="card-text">Cartagena is a historic city on the Caribbean coast of Colombia full of culture, music, seafood and great times for great people!</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">03 Nov 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/cartagena/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/11/IMG_2413.jpg" class="img-fluid" loading="auto"  alt="Cartagena - A Historical Tour Through Colombia's Magnificent Port" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Cartagena - A Historical Tour Through Colombia's Magnificent Port</h5>
+        <p class="card-text">Cartagena is a historic city on the Caribbean coast of Colombia full of culture, music, seafood and great times for...</p>
+        <p class="card-text"><small class="text-muted">03 Nov 2014</small></p>
+        <a href="/cartagena/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/bogota/">
-                
-                    <img src="http://localhost:4000/assets/images/2014/11/IMG_2198.jpg" class="img-fluid" loading="auto"  alt="Bogotá - A Capital of More Romantic Times and a Beautiful Nation" width="1280" height="854" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/bogota/">Bogotá - A Capital of More Romantic Times and a Beautiful Nation</a>
-                
-            </h2>
-            <h4 class="card-text">In Colombia's capital city, Bogotá, one finds themselves taken to a time when romance lived permanently in the air and anything was possible.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">01 Nov 2014</span>
-                </span>
-                <span class="post-read-more"><a href="/bogota/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2014/11/IMG_2198.jpg" class="img-fluid" loading="auto"  alt="Bogotá - A Capital of More Romantic Times and a Beautiful Nation" width="1280" height="854" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Bogotá - A Capital of More Romantic Times and a Beautiful Nation</h5>
+        <p class="card-text">In Colombia's capital city, Bogotá, one finds themselves taken to a time when romance lived permanently in the air and...</p>
+        <p class="card-text"><small class="text-muted">01 Nov 2014</small></p>
+        <a href="/bogota/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
 							
 						</div>
 					</div>
@@ -735,7 +456,7 @@
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer d-none d-lg-block bg-black text-light py-3 mt-5">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3 mt-5">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

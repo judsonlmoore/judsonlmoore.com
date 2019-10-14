@@ -56,79 +56,14 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <div class="row bg-dark d-none d-lg-block">
-    <div class="container">
+        
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
-
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    
-<!--facebook -->
-<a href="https://facebook.com/judsonlmooreblog/" class="btn bg-blue text-light mr-2" alt="Follow on facebook" target="_blank">
-	<span class="fab fa-facebook"></span>
-</a>
-
-<!--twitter -->
-<a href="https://twitter.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on twitter" target="_blank">
-	<span class="fab fa-twitter"></span>
-</a>
-
-<!--instagram -->
-<a href="https://instagram.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on instagram" target="_blank">
-	<span class="fab fa-instagram"></span>
-</a>
-
-<!--linkedin -->
-<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on linkedin" target="_blank">
-	<span class="fab fa-linkedin"></span>
-</a>
-
-<!--github -->
-<a href="https://github.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on github" target="_blank">
-	<span class="fab fa-github"></span>
-</a>
-
-
-                    <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script>
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-            <h1 class="logo-title text-light">Judson L Moore</h1>
-            <p class="logo-subtitle text-light">
-                Author and travel addict
-            </p>
+            <p class="h4 font-weight-light">Judson L Moore</p>
+            <p class="h5 font-weight-lighter">Author and travel addict</p>
         </a>
         <!-- End Logo -->
 
@@ -256,6 +191,11 @@
 	<span class="fab fa-github"></span>
 </a>
 
+<!--amazon -->
+<a href="https://www.amazon.com/author/judsonlmoore" class="btn bg-blue text-light mr-2" alt="Follow on amazon" target="_blank">
+	<span class="fab fa-amazon"></span>
+</a>
+
                 </div>
             </div>
 
@@ -300,45 +240,30 @@
 </style>
 
   <!-- Header -->
-  <div id="fullwidth-img" class="container-fluid py-5 mb-5">
+  <div id="fullwidth-img" class="container-fluid py-5">
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-lg-12">
           <h1 class="display-3 font-weight-bolder text-white mt-5 mb-2">Germany Travel Guide</h1>
           <p class="h4 font-weight-bolder text-white mb-5">The origins of my nomadic and adventurous life.</p>
-          <button
-	type="button"
-	class="btn btn-primary btn-lg"
-	data-toggle="modal"
-	data-target="#exampleModal"
-	>
-	Subscribe now for more germany tips <i class="fas fa-envelope"></i>
+          
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModalCenter">
+  Subscribe now for more germany tips <i class="fas fa-envelope"></i>
 </button>
 
-<div
-	class="modal fade"
-	id="exampleModal"
-	tabindex="-1"
-	role="dialog"
-	aria-labelledby="exampleModalLabel"
-	aria-hidden="true"
->
-	<div class="modal-dialog" role="document">
-	    <div class="container" id="registration-form">
-	        <div class="image"></div>
-	        <div class="frm">
-	        	<div class="modal-header">
-		            <h1>Sign up</h1>
-					<button 
-						type="button" 
-						class="close" 
-						data-dismiss="modal" 
-						aria-label="Close"
-						>
-						<span aria-hidden="true">&times;</span>
-					</button>
-				</div>
-	            <form
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">Sign up</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form
 	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
 	method="post"
 	name="mc-embedded-subscribe-form"
@@ -381,12 +306,14 @@
 	});
 </script>
 
-	        </div>
-	    </div>
-	</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
 </div>
-
-
         </div>
       </div>
     </div>
@@ -399,159 +326,65 @@
 ================================================== -->
         <div class="main-content">
 
-			<div class="row">
-			  <div class="col-lg-9">
+			<div class="row bg-white shadow-sm p-5 my-5">
+			  <div class="col">
 			    <h2 id="more-than-wienerschnitzel-and-bratwurst">More than Wienerschnitzel and Bratwurst</h2>
 
 <p>As a Rotary Youth Exchange student, Germany was my first home outside of the United States. It was here that I began to develop a global view, make lifelong friends from other cultures, and started to drink coffee. My time in Germany is the most significant of any of my travels, because it was the first. Germany has always been dear to me, and after 16 years I have moved back to Germany! I am working now at trivago in Düsseldorf, which means there will be many more stories to fill this page!</p>
 
 			  </div>
-			  <div class="col-lg-3">
-			    <div class="section-title">
-					<h2><span>Destinations in germany</span></h2>
-				</div>
-			     
-				 
-				 
-				 
-				 
-				 
-				 
-				
-			  </div>
 			</div>
 			<!-- /.row -->
 
 			<section>
-				<div class="section-title">
-					<h2><span>Posts about germany</span></h2>
-				</div>
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="row listrecent">
-							 
-							 
+						<div class="card-columns"> 
+							
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/german-wine-country/">
-                
-                    <img src="http://localhost:4000/assets/images/2016/08/german-wine-country-landau.jpg" class="img-fluid" loading="auto"  alt="German Wine Country - A Taste of Landau and the Pfirmann Weingut" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/german-wine-country/">German Wine Country - A Taste of Landau and the Pfirmann Weingut</a>
-                
-            </h2>
-            <h4 class="card-text">The wide array of wineries, beautiful scenery, and friendly wine masters make German Wine Country a must-taste destination.</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">08 Sep 2016</span>
-                </span>
-                <span class="post-read-more"><a href="/german-wine-country/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2016/08/german-wine-country-landau.jpg" class="img-fluid" loading="auto"  alt="German Wine Country - A Taste of Landau and the Pfirmann Weingut" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">German Wine Country - A Taste of Landau and the Pfirmann Weingut</h5>
+        <p class="card-text">The wide array of wineries, beautiful scenery, and friendly wine masters make German Wine Country a must-taste destination.</p>
+        <p class="card-text"><small class="text-muted">08 Sep 2016</small></p>
+        <a href="/german-wine-country/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/10/IMG_5395.jpg" class="img-fluid" loading="auto"  alt="Photo Tour of the Niederaltaich Abbey" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">Photo Tour of the Niederaltaich Abbey</h5>
+        <p class="card-text">First Impressions of the Niederaltaich Abbey Church
 
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/niederaltaich-abbey/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/10/IMG_5395.jpg" class="img-fluid" loading="auto"  alt="Photo Tour of the Niederaltaich Abbey" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/niederaltaich-abbey/">Photo Tour of the Niederaltaich Abbey</a>
-                
-            </h2>
-            <h4 class="card-text">First Impressions of the Niederaltaich Abbey Church
-
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">23 Jan 2015</span>
-                </span>
-                <span class="post-read-more"><a href="/niederaltaich-abbey/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+</p>
+        <p class="card-text"><small class="text-muted">23 Jan 2015</small></p>
+        <a href="/niederaltaich-abbey/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
-							 
+							
 							<!-- begin post -->
 
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/bruhl-walking-tour/">
-                
-                    <img src="http://localhost:4000/assets/images/2015/10/IMG_4683.jpg" class="img-fluid" loading="auto"  alt="A Walk Through Brühl's Countryside and Palaces" width="1280" height="853" crossorigin="anonymous" />
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/bruhl-walking-tour/">A Walk Through Brühl's Countryside and Palaces</a>
-                
-            </h2>
-            <h4 class="card-text">Brühl Germany is a quaint and peaceful town surrounded by palaces, historic estates and wonderful walking paths. Join me on my walk through Brühl!</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                
-                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
-                
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.judsonlmoore.com">Judson L Moore</a></span><br/>
-                
-                <span class="post-date">17 Jan 2015</span>
-                </span>
-                <span class="post-read-more"><a href="/bruhl-walking-tour/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+<div class="card shadow-sm">
+    
+    <img src="http://localhost:4000/assets/images/2015/10/IMG_4683.jpg" class="img-fluid" loading="auto"  alt="A Walk Through Brühl's Countryside and Palaces" width="1280" height="853" crossorigin="anonymous" />
+    
+    <div class="card-body">
+        <h5 class="card-title">A Walk Through Brühl's Countryside and Palaces</h5>
+        <p class="card-text">Brühl Germany is a quaint and peaceful town surrounded by palaces, historic estates and wonderful walking paths. Join me on...</p>
+        <p class="card-text"><small class="text-muted">17 Jan 2015</small></p>
+        <a href="/bruhl-walking-tour/" class="stretched-link"></a>
     </div>
 </div>
-<!-- end post --> 
 							
 						</div>
 					</div>
@@ -569,7 +402,7 @@
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer d-none d-lg-block bg-black text-light py-3 mt-5">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3 mt-5">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

@@ -1,7 +1,9 @@
-$white:    #fff;
-$red:     #dc3545;
-$body-bg: $red;
-$body-color: $white;
+$text:			rgba(0,0,0,.5);
+$white:  		#fff;
+$red:     		#dc3545;
+$light-blue:	#ecf0f5;
+$body-bg: 		$light-blue;
+$body-color: 	$text;
 
 /* custom vars */
 $custom-font-size: 20px;

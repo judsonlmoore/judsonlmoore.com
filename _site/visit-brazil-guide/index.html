@@ -58,79 +58,14 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <div class="row bg-dark d-none d-lg-block">
-    <div class="container">
+        
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
-
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    
-<!--facebook -->
-<a href="https://facebook.com/judsonlmooreblog/" class="btn bg-blue text-light mr-2" alt="Follow on facebook" target="_blank">
-	<span class="fab fa-facebook"></span>
-</a>
-
-<!--twitter -->
-<a href="https://twitter.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on twitter" target="_blank">
-	<span class="fab fa-twitter"></span>
-</a>
-
-<!--instagram -->
-<a href="https://instagram.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on instagram" target="_blank">
-	<span class="fab fa-instagram"></span>
-</a>
-
-<!--linkedin -->
-<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on linkedin" target="_blank">
-	<span class="fab fa-linkedin"></span>
-</a>
-
-<!--github -->
-<a href="https://github.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on github" target="_blank">
-	<span class="fab fa-github"></span>
-</a>
-
-
-                    <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script>
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-            <h1 class="logo-title text-light">Judson L Moore</h1>
-            <p class="logo-subtitle text-light">
-                Author and travel addict
-            </p>
+            <p class="h4 font-weight-light">Judson L Moore</p>
+            <p class="h5 font-weight-lighter">Author and travel addict</p>
         </a>
         <!-- End Logo -->
 
@@ -258,6 +193,11 @@
 	<span class="fab fa-github"></span>
 </a>
 
+<!--amazon -->
+<a href="https://www.amazon.com/author/judsonlmoore" class="btn bg-blue text-light mr-2" alt="Follow on amazon" target="_blank">
+	<span class="fab fa-amazon"></span>
+</a>
+
                 </div>
             </div>
 
@@ -303,40 +243,35 @@
                 <div class="row">
 
                     <!-- Post Share -->
-                    <div class="col-md-2 pt-md-5">
-                        <div class="share sticky-top sticky-top-offset">
+                    <div class="col-md-2">
+                        <div class="share sticky-top sticky-top-offset pt-5">
     <p>
         Share
     </p>
-    <ul>
+    <ul class="list-unstyled">
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://twitter.com/intent/tweet?text=Visit Brazil - A guide to when, where, and how to visit Brazil&url=http://localhost:4000/visit-brazil-guide/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Visit Brazil - A guide to when, where, and how to visit Brazil&url=http://localhost:4000/visit-brazil-guide/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="text-dark" >
                 <i class="fab fa-twitter"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/visit-brazil-guide/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/visit-brazil-guide/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;" class="text-dark" >
                 <i class="fab fa-facebook-f"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/visit-brazil-guide/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/visit-brazil-guide/" onclick="window.open(this.href, 'width=550,height=435');return false;" class="text-dark" >
                 <i class="fab fa-linkedin-in"></i>
             </a>
         </li>
-
-    </ul>
-    
-    <div class="sep">
-    </div>
-    <ul>
+        
         <li>
-        <a class="small smoothscroll" href="#disqus_thread"></a>
+            <a class="small smoothscroll" href="#disqus_thread" class="text-dark" ></a>
         </li>
+        
     </ul>
-    
 </div>
 
                     </div>
@@ -348,16 +283,19 @@
 
                             <!-- Post Title -->
                             
-                            <h1 class="posttitle">Visit Brazil - A guide to when, where, and how to visit Brazil</h1>
 
-                            <!-- Post Date -->
-                            <p>
+                            <div class="bg-white p-5">
+
+                                <h1 class="posttitle">Visit Brazil - A guide to when, where, and how to visit Brazil</h1>
+
+                                <!-- Post Date -->
                                 <small>
                                     <span class="post-date"><time class="post-date" datetime="2017-06-30">30 Jun 2017</time></span>           
                                     
                                 </small>
-                            </p>
-                            
+                                
+
+                            </div>
 
                         </div>
 
@@ -376,7 +314,7 @@
                         
 
                         <!-- Post Content -->
-                        <div class="article-post px-0 pb-md-5">
+                        <div class="article-post bg-white p-5">
                             <!-- Toc if any -->
                             
                             <!-- End Toc -->
@@ -388,7 +326,7 @@
 
 <p>In fact, Brazil offers <strong>infinite possibilities</strong> to the traveler. Going there may be simpler than many Americans imagine. Even so, <strong>some tips</strong> may come in handy before one makes the decision to pack his or her bags and head south.</p>
 
-<p><img src="../assets/images/2017/06/SU_SerraGaúcha0106.jpg" alt="Sao Pedro Church in Gramado, Brazil" title=" Sao Pedro Church in Gramado, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." />
+<p><img src="../assets/images/2017/06/SU_SerraGaúcha0106.jpg" alt="Sao Pedro Church in Gramado, Brazil" title=" Sao Pedro Church in Gramado, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." class="img-fluid" />
 <span class="caption"> Sao Pedro Church in Gramado, Brazil | Courtesy <a href="https://www.flickr.com/photos/visitbrasil/">Embratur Image Bank</a>.</span></p>
 
 <h2 id="the-best-time-of-the-year-to-visit-brazil">The best time of the year to visit Brazil</h2>
@@ -405,7 +343,7 @@
 
 <p>However, because it is such a huge country, it is hard to indicate the best time to visit Brazil. Whichever period you choose, if you want to fully enjoy your experience in each destination, it is a good idea to <strong>do a little research and plan beforehand</strong>.</p>
 
-<p><img src="../assets/images/2017/06/SE_Buzios0115.jpg" alt="Beach of Buzios, Brazil" title=" Beach of Buzios, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." />
+<p><img src="../assets/images/2017/06/SE_Buzios0115.jpg" alt="Beach of Buzios, Brazil" title=" Beach of Buzios, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." class="img-fluid" />
 <span class="caption"> Beach of Buzios, Brazil | Courtesy <a href="https://www.flickr.com/photos/visitbrasil/">Embratur Image Bank</a>.</span></p>
 
 <h2 id="the-tourist-visa">The Tourist Visa</h2>
@@ -422,7 +360,7 @@
 
 <p>Learn more about obtaining a visa to Brazil by visiting <a href="http://washington.itamaraty.gov.br/en-us/">the official website of the Brazilian Embassy in Washington DC</a>.</p>
 
-<p><img src="../assets/images/2017/06/NO_Amazonas0990.jpg" alt="Caves of the Amazon Rain Forest in Brazil" title=" Caves of the Amazon Rain Forest in Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." />
+<p><img src="../assets/images/2017/06/NO_Amazonas0990.jpg" alt="Caves of the Amazon Rain Forest in Brazil" title=" Caves of the Amazon Rain Forest in Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." class="img-fluid" />
 <span class="caption"> Caves of the Amazon Rain Forest in Brazil | Courtesy <a href="https://www.flickr.com/photos/visitbrasil/">Embratur Image Bank</a>.</span></p>
 
 <h2 id="the-route-network-between-the-us-and-brazil">The route network between the US and Brazil</h2>
@@ -431,7 +369,7 @@
 
 <p>It is also one of the most comprehensive, since it contains more than 190 weekly <strong>flights that connect 12 American cities</strong> (Atlanta, Chicago, Dallas, Houston, Detroit, Fort Lauderdale, Los Angeles, Miami, New York, Newark, Orlando, and Washington) to 9 Brazilian destinations (São Paulo, Campinas, Rio de Janeiro, Brasília, Belo Horizonte, Fortaleza, Recife, Belém, and Manaus).</p>
 
-<p><img src="../assets/images/2017/06/SE_SãoPaulo0741.jpg" alt="The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil" title=" The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." />
+<p><img src="../assets/images/2017/06/SE_SãoPaulo0741.jpg" alt="The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil" title=" The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." class="img-fluid" />
 <span class="caption"> The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil | Courtesy <a href="https://www.flickr.com/photos/visitbrasil/">Embratur Image Bank</a>.</span></p>
 
 <h2 id="traveling-in-brazil">Traveling in Brazil</h2>
@@ -444,7 +382,7 @@
 
 <p>Besides traveling by plane, <strong>traveling by bus in Brazil</strong> may also be a good alternative, especially for short trips. The road transport system is efficient and generally offers excellent benefits for low costs. For longer trips, the tourist should choose buses with <strong>fully or semi-reclining seats</strong> (leito or semi-leito). This way, comfort will be guaranteed for the whole trip!</p>
 
-<p><img src="../assets/images/2017/06/SE_Riodejaneiro0705.jpg" alt="Rio de Janeiro, Brazil, Central Nightlife." title=" Rio de Janeiro, Brazil, Central Nightlife. | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." />
+<p><img src="../assets/images/2017/06/SE_Riodejaneiro0705.jpg" alt="Rio de Janeiro, Brazil, Central Nightlife." title=" Rio de Janeiro, Brazil, Central Nightlife. | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." class="img-fluid" />
 <span class="caption"> Rio de Janeiro, Brazil, Central Nightlife. | Courtesy <a href="https://www.flickr.com/photos/visitbrasil/">Embratur Image Bank</a>.</span></p>
 
 <h2 id="visitbrasilcom">VisitBrasil.com</h2>
@@ -478,7 +416,71 @@
 
                         <!-- Post Categories -->
                         <div class="after-post-cats">
-                            <ul class="tags mb-4">
+
+                            <ul class="list-inline">
+
+                            
+                            
+
+                                <li class="list-inline-item">
+                                    <a class="smoothscroll" href="/categories#brazil">
+                                        <span class="badge badge-secondary">brazil</span>
+                                    </a>
+                                </li>
+
+                            
+
+                            </ul>
+                        </div>
+                        <!-- End Categories -->
+
+
+
+                        <!-- Post Tags -->
+                        <div class="after-post-tags">
+                            <ul class="tags">
+                                
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#brazil">#brazil</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#brazil,">#brazil,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#guide,">#guide,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#tips,">#tips,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#travel">#travel</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#travel">#travel</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#visa,">#visa,</a>
+                                </li>
+                                
+                                <li>
+                                    <a class="smoothscroll" href="/tags#visit">#visit</a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                        <!-- End Tags -->
+
+
+
+
+<!--                             <ul class="tags mb-4">
                                 
                                 
                                 <li>
@@ -486,7 +488,8 @@
                                 </li>
                                 
                             </ul>
-                        </div>
+                       </div> 
+            --> 
                         <!-- End Categories -->
 
                         <!-- Post Tags -->
@@ -719,7 +722,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer d-none d-lg-block bg-black text-light py-3 mt-5">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3 mt-5">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

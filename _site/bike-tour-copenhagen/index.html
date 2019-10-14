@@ -58,79 +58,14 @@
 
         <!-- Begin Menu Navigation
 ================================================== -->
-        <div class="row bg-dark d-none d-lg-block">
-    <div class="container">
+        
 
-        <div class="row py-2">
-            <div class="col-lg-6 p-0 text-light">
-
-                <p class="text-left small p-0"><strong>Announcement:</strong> New book coming Oct 16, 2019</p>
-
-            </div>
-
-            <div class="col-lg-6 p-0 text-right">
-
-                <div class="row justify-content-end">
-
-                    
-<!--facebook -->
-<a href="https://facebook.com/judsonlmooreblog/" class="btn bg-blue text-light mr-2" alt="Follow on facebook" target="_blank">
-	<span class="fab fa-facebook"></span>
-</a>
-
-<!--twitter -->
-<a href="https://twitter.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on twitter" target="_blank">
-	<span class="fab fa-twitter"></span>
-</a>
-
-<!--instagram -->
-<a href="https://instagram.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on instagram" target="_blank">
-	<span class="fab fa-instagram"></span>
-</a>
-
-<!--linkedin -->
-<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on linkedin" target="_blank">
-	<span class="fab fa-linkedin"></span>
-</a>
-
-<!--github -->
-<a href="https://github.com/judsonlmoore/" class="btn bg-blue text-light mr-2" alt="Follow on github" target="_blank">
-	<span class="fab fa-github"></span>
-</a>
-
-
-                    <script src="/assets/js/lunr.js"></script>
-<style>
-    .lunrsearchresult .title {color: #d9230f;}
-    .lunrsearchresult .url {color: silver;}
-    .lunrsearchresult a {display: block; color: #777;}
-    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
-    .lunrsearchresult a:hover .title {text-decoration: underline;}
-</style>
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
-</form>
-<div id="lunrsearchresults">
-    <ul></ul>
-</div>
-<script src="/assets/js/lunrsearchengine.js"></script>
-
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-down md-3">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-down md-3">
     <div class="container p-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-            <h1 class="logo-title text-light">Judson L Moore</h1>
-            <p class="logo-subtitle text-light">
-                Author and travel addict
-            </p>
+            <p class="h4 font-weight-light">Judson L Moore</p>
+            <p class="h5 font-weight-lighter">Author and travel addict</p>
         </a>
         <!-- End Logo -->
 
@@ -258,6 +193,11 @@
 	<span class="fab fa-github"></span>
 </a>
 
+<!--amazon -->
+<a href="https://www.amazon.com/author/judsonlmoore" class="btn bg-blue text-light mr-2" alt="Follow on amazon" target="_blank">
+	<span class="fab fa-amazon"></span>
+</a>
+
                 </div>
             </div>
 
@@ -303,40 +243,35 @@
                 <div class="row">
 
                     <!-- Post Share -->
-                    <div class="col-md-2 pt-md-5">
-                        <div class="share sticky-top sticky-top-offset">
+                    <div class="col-md-2">
+                        <div class="share sticky-top sticky-top-offset pt-5">
     <p>
         Share
     </p>
-    <ul>
+    <ul class="list-unstyled">
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://twitter.com/intent/tweet?text=How to spend a day in Denmark - A bike tour of Copenhagen&url=http://localhost:4000/bike-tour-copenhagen/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=How to spend a day in Denmark - A bike tour of Copenhagen&url=http://localhost:4000/bike-tour-copenhagen/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="text-dark" >
                 <i class="fab fa-twitter"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/bike-tour-copenhagen/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/bike-tour-copenhagen/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;" class="text-dark" >
                 <i class="fab fa-facebook-f"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/bike-tour-copenhagen/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/bike-tour-copenhagen/" onclick="window.open(this.href, 'width=550,height=435');return false;" class="text-dark" >
                 <i class="fab fa-linkedin-in"></i>
             </a>
         </li>
-
-    </ul>
-    
-    <div class="sep">
-    </div>
-    <ul>
+        
         <li>
-        <a class="small smoothscroll" href="#disqus_thread"></a>
+            <a class="small smoothscroll" href="#disqus_thread" class="text-dark" ></a>
         </li>
+        
     </ul>
-    
 </div>
 
                     </div>
@@ -348,16 +283,19 @@
 
                             <!-- Post Title -->
                             
-                            <h1 class="posttitle">How to spend a day in Denmark - A bike tour of Copenhagen</h1>
 
-                            <!-- Post Date -->
-                            <p>
+                            <div class="bg-white p-5">
+
+                                <h1 class="posttitle">How to spend a day in Denmark - A bike tour of Copenhagen</h1>
+
+                                <!-- Post Date -->
                                 <small>
                                     <span class="post-date"><time class="post-date" datetime="2017-10-19">19 Oct 2017</time></span>           
                                     
                                 </small>
-                            </p>
-                            
+                                
+
+                            </div>
 
                         </div>
 
@@ -376,7 +314,7 @@
                         
 
                         <!-- Post Content -->
-                        <div class="article-post px-0 pb-md-5">
+                        <div class="article-post bg-white p-5">
                             <!-- Toc if any -->
                             
                             <!-- End Toc -->
@@ -402,7 +340,7 @@
 
 <p>The facility also features an 85-meter high observation desk with cafe deemed as the best view of Copenhagen, one of the world’s tallest climbing walls, and 10 hiking trails through landscaped forest.</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-the-mermaid-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-the-mermaid-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="statens-museum-for-kunst-artist-museum">Statens Museum For Kunst (artist museum)</h2>
@@ -411,7 +349,7 @@
 
 <p>Should I return to Copenhagen I will certainly take the time to pay a visit to the museum. The collection of nearly 9,000 paintings and sculptures, 240,000 works of art on paper, and 2,600+ plaster casts of figures from ancient times will be enough to keep me busy, especially if I find myself in Copenhagen on a rainy day.</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-townhomes-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-townhomes-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="the-queens-residence--christian-ixs-palace">The Queen’s Residence - Christian IX’s Palace</h2>
@@ -424,21 +362,21 @@
 
 <p>And here is a fun linguist fact: in Dutch, the formal “you” is only used when addressing or referring to the Queen. At any other time, you use the casual “you” form. A stark difference from German!</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-queens-residence-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-queens-residence-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="frederiks-church">Frederik’s Church</h2>
 
 <p>The central cathedral of Copenhagen is also known as The Marble Church. The stones are, of course, marble, but more notably, the marble on the interior of the church is dark. The highlights against the marble come in the gold details and statue figures of white marble. The dome is the largest in Scandinavia and is fashioned after St. Peter’s Basilica in Rome.</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-frederiks-church-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-frederiks-church-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="the-new-haven-canal">The New Haven Canal</h2>
 
 <p>Copenhagen is webbed with canals. Similar to Amsterdam and other European coastal cities, Copenhagen’s canals define the city’s landscape. Here is one such canal, lined with shops, cafes, and houseboats. I imagine that the colorful buildings go a long way in sustaining the naturally cheerful mood of the Danes during the cold, wet, winters. You can see that even on this cloudy and grey day, this canal scene looks most welcoming!</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="freetown-christiania">Freetown Christiania</h2>
@@ -447,7 +385,7 @@
 
 <p>For now, Christiania remains free and independent, but those days are likely numbered.</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-freetown-christiana-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-freetown-christiana-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="the-royal-library">The Royal Library</h2>
@@ -456,14 +394,14 @@
 
 <p>This is Julia, our awesome tour guide.</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-library-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-library-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="copenhagen-from-the-langebro-bridge">Copenhagen from the Langebro Bridge</h2>
 
 <p>If you look at the map I provided at the beginning of this post, then you will see that this bride crossing is located that the southern-most point of our Copenhagen bike tour. This also means we have reached our halfway point in the tour. We took a short break and snapped some photos of the town behind us. The Copenhagen skyline, such as it is, is not dominated by towering buildings but rather with more historic buildings which maintain Copenhagen’s feeling of European authenticity.</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-skyline-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-skyline-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="tivoli-gardens">Tivoli Gardens</h2>
@@ -474,7 +412,7 @@
 
 <p>Though we just rode our bikes along the exterior wall and past the main entrance, pictured below, I easily got the impression that this is an impressive place. One other thing I learned is that millions of Danes have an annual membership to Tivoli Gardens and visit there with friends and family the same way New Yorkers might take a stole through Central Park. So the experience is presumably a bit more casual than Disneyland or King’s Island.</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-tivoli-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-tivoli-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="the-small-homes-ofnyboder-old-barracks">The small homes of Nyboder (old barracks)</h2>
@@ -485,7 +423,7 @@
 
 <p>I couldn’t help but think to myself that if I lived in Copenhagen, I would want to live here.</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-barracks-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-barracks-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="her-danish-majestys-yacht-dannebrog">Her Danish Majesty’s Yacht Dannebrog</h2>
@@ -496,7 +434,7 @@
 
 <p>God rejse! (bon voyage in Danish)</p>
 
-<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-yacht-min.jpg" alt="" title="" />
+<p><img src="../assets/images/2000/09/trivago-on-tour-2017-copenhagen-bike-ride-royal-yacht-min.jpg" alt="" title="" class="img-fluid" />
 <span class="caption"></span></p>
 
 <h2 id="what-a-great-day-this-was">What a great day this was!</h2>
@@ -517,7 +455,7 @@
                         <div class="row post-top-meta">
                             <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                                 
-                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
+                                <img src="http://localhost:4000/assets/images/avatar-judsonlmoore.png" class="author-thumb img-fluid" min_width="40" min_hight="40" max_width="72" max_height="72" fallback_max_width="72"  alt="Judson L Moore" width="364" height="364" crossorigin="anonymous" />
                                 
                             </div>
                             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -532,7 +470,39 @@
 
                         <!-- Post Categories -->
                         <div class="after-post-cats">
-                            <ul class="tags mb-4">
+
+                            <ul class="list-inline">
+
+                            
+                            
+
+                                <li class="list-inline-item">
+                                    <a class="smoothscroll" href="/categories#denmark">
+                                        <span class="badge badge-secondary">denmark</span>
+                                    </a>
+                                </li>
+
+                            
+
+                            </ul>
+                        </div>
+                        <!-- End Categories -->
+
+
+
+                        <!-- Post Tags -->
+                        <div class="after-post-tags">
+                            <ul class="tags">
+                                
+                                
+                            </ul>
+                        </div>
+                        <!-- End Tags -->
+
+
+
+
+<!--                             <ul class="tags mb-4">
                                 
                                 
                                 <li>
@@ -540,7 +510,8 @@
                                 </li>
                                 
                             </ul>
-                        </div>
+                       </div> 
+            --> 
                         <!-- End Categories -->
 
                         <!-- Post Tags -->
@@ -741,7 +712,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
         <!-- Begin Footer
 ================================================== -->
         <!-- Footer -->
-<footer class="page-footer d-none d-lg-block bg-black text-light py-3 mt-5">
+<footer class="page-footer d-none d-lg-block bg-dark text-light py-3 mt-5">
 
   <!-- Footer Links -->
   <div class="container text-center text-md-left mt-5">

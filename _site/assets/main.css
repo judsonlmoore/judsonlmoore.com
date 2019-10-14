@@ -5,7 +5,6 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-@import url(../assets/css/screen.css);
 @import url(../assets/css/gallery-clean.css);
 @import url(../assets/css/gallery-fluid.css);
 @import url(../assets/css/gallery-grid.css);
@@ -60,9 +59,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #fff;
+  color: rgba(0, 0, 0, 0.5);
   text-align: left;
-  background-color: #dc3545; }
+  background-color: #ecf0f5; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -400,7 +399,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #dc3545;
+  background-color: #ecf0f5;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -1194,7 +1193,7 @@ pre {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #fff; }
+  color: rgba(0, 0, 0, 0.5); }
   .table th,
   .table td {
     padding: 0.75rem;
@@ -1229,7 +1228,7 @@ pre {
   background-color: rgba(0, 0, 0, 0.05); }
 
 .table-hover tbody tr:hover {
-  color: #fff;
+  color: rgba(0, 0, 0, 0.5);
   background-color: rgba(0, 0, 0, 0.075); }
 
 .table-primary,
@@ -1503,7 +1502,7 @@ select.form-control:focus::-ms-value {
   padding-bottom: 0.375rem;
   margin-bottom: 0;
   line-height: 1.5;
-  color: #fff;
+  color: rgba(0, 0, 0, 0.5);
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0; }
@@ -1802,7 +1801,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #fff;
+  color: rgba(0, 0, 0, 0.5);
   text-align: center;
   vertical-align: middle;
   user-select: none;
@@ -1817,7 +1816,7 @@ textarea.form-control {
     .btn {
       transition: none; } }
   .btn:hover {
-    color: #fff;
+    color: rgba(0, 0, 0, 0.5);
     text-decoration: none; }
   .btn:focus, .btn.focus {
     outline: 0;
@@ -2237,7 +2236,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #fff;
+  color: rgba(0, 0, 0, 0.5);
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -2838,11 +2837,11 @@ input[type="button"].btn-block {
   .custom-range:focus {
     outline: none; }
     .custom-range:focus::-webkit-slider-thumb {
-      box-shadow: 0 0 0 1px #dc3545, 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
+      box-shadow: 0 0 0 1px #ecf0f5, 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
     .custom-range:focus::-moz-range-thumb {
-      box-shadow: 0 0 0 1px #dc3545, 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
+      box-shadow: 0 0 0 1px #ecf0f5, 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
     .custom-range:focus::-ms-thumb {
-      box-shadow: 0 0 0 1px #dc3545, 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
+      box-shadow: 0 0 0 1px #ecf0f5, 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
   .custom-range::-moz-focus-outer {
     border: 0; }
   .custom-range::-webkit-slider-thumb {
@@ -2974,8 +2973,8 @@ input[type="button"].btn-block {
   .nav-tabs .nav-link.active,
   .nav-tabs .nav-item.show .nav-link {
     color: #495057;
-    background-color: #dc3545;
-    border-color: #dee2e6 #dee2e6 #dc3545; }
+    background-color: #ecf0f5;
+    border-color: #dee2e6 #dee2e6 #ecf0f5; }
   .nav-tabs .dropdown-menu {
     margin-top: -1px;
     border-top-left-radius: 0;
@@ -3775,7 +3774,7 @@ input[type="button"].btn-block {
     text-decoration: none;
     background-color: #f8f9fa; }
   .list-group-item-action:active {
-    color: #fff;
+    color: rgba(0, 0, 0, 0.5);
     background-color: #e9ecef; }
 
 .list-group-item {
@@ -4386,7 +4385,7 @@ a.close.disabled {
 
 .popover-body {
   padding: 0.5rem 0.75rem;
-  color: #fff; }
+  color: rgba(0, 0, 0, 0.5); }
 
 .carousel {
   position: relative; }
@@ -7489,7 +7488,7 @@ a.text-dark:hover, a.text-dark:focus {
   color: #121416 !important; }
 
 .text-body {
-  color: #fff !important; }
+  color: rgba(0, 0, 0, 0.5) !important; }
 
 .text-muted {
   color: #6c757d !important; }

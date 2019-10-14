@@ -4,69 +4,43 @@ title: Home
 ---
 
 <div class="site-content">
-  <div class="container">
+    <div class="container">
 
-    <!-- Content
-  ================================================== -->
-    <div class="main-content">
+        <!-- Content
+        ================================================== -->
+        <div class="main-content py-5">
 
-        <div class="row">
+            <div class="row">
 
-            <div class="col-lg-8 p-3">
+                <div class="col-lg-8">
 
-                {% include carousel-featured.html %}
+                    {% include carousel-featured.html %}
 
-                <!-- Call to Action Well -->
-                <div class="card text-light bg-primary d-none d-lg-block my-5 py-4 text-center align-middle">
-                  <div class="card-body">
-                    <div class="row">
-                        <div class="col-lg-2">
-                            {% cloudinary fluid /assets/images/avatar-judsonlmoore.png alt="Judson L Moore" %}
-                        </div>
-                        <div class="col-lg-10">
-                            <p class="h2"><span class=""><strong>Do you want to <em>experience</em> the world?</strong> I encourage you to get an <u>early</u> start at living a full and adventurous life by providing tips for living your "what if" <strong>#WhileYoung</strong>.</span></p>
-                        </div>
+                    <!-- Call to Action Well -->
+                    <div class="jumbotron text-light bg-dark d-none d-lg-block my-5 py-4 text-center align-middle shadow-sm">
+                        <p class="h4"><span class=""><strong>Do you want to <em>experience</em> the world?</strong> I encourage you to get an <u>early</u> start at living a full and adventurous life by providing tips for living your "what if" <strong>#WhileYoung</strong>.</span></p>
                     </div>
-                  </div>
+
+                    <!-- Posts Index
+                    ================================================== -->
+                    <section class="recent-posts">
+
+                        <div class="card-columns">
+                            {% for post in paginator.posts %}
+                            {% include postbox.html %}
+                            {% endfor %}
+                        </div>
+
+                    </section>
+
                 </div>
 
-                <!-- Posts Index
-                ================================================== -->
-                <section class="recent-posts">
+                <div class="col-lg-4">
+                    {% include sidebar.html %}
+                </div>
 
-                    <div class="section-title">
-
-                        <h2><span>The latest posts</span></h2>
-
-                    </div>
-
-                    <div class="row listrecent">
-
-                        {% for post in paginator.posts %}
-
-                        {% include postbox.html %}
-
-                        {% endfor %}
-
-                    </div>
-
-                </section>
-
-                <!-- Pagination
-                ================================================== -->
-                <div class="bottompagination">
-                <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-                <span class="navigation" role="navigation">
-                    {% include pagination.html %}
-                </span>
             </div>
 
-        </div>
-
-        <div class="col-lg-4 p-3">
-            {% include sidebar.html %}
-        </div>
-
-    </div> <!-- main-content -->
-  </div> <!-- container -->
+        </div> <!-- main-content -->
+    </div> <!-- container -->
 </div> <!-- site-content -->
