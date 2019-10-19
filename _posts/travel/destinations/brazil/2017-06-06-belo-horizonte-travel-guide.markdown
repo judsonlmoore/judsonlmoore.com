@@ -2,12 +2,12 @@
 title:			Belo Horizonte is a historic and cultural capital of Brazil
 date:			2017-06-06 10:09:12 Z
 categories:		brazil
-tags:			brazil, south america, ttravel guide
+tags:			brazil, south america, travel guide
 destination:	Belo Horizonte
 author:			judsonlmoore
 excerpt:		Discover the best things to do with this Belo Horizonte travel guide, including panoramic views, the metal museum, majestic parks, and the best steakhouse.
 layout:			post
-image:			2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Praça-da-liberdade-flor.jpg
+image:			2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Praca-da-liberdade-flor.jpg
 
 
 ---
@@ -38,7 +38,7 @@ The square is surrounded by a number of historic buildings, including the old go
 
 The area around the square is designated as a cultural center called Circuito Cultural Praça da Liberdade (The Cultural Circuit of Freedom Square). This zone recognizes the historical significance of the space and the buildings which shaped Brazil's history for more than a century. In this area, there are more than a dozen institutions, museums, and cultural centers.
 
-{% include image.html alt="Belo Horizonte, Brasil, Minas Gerais, Praça da liberdade | Courtesy of Embratur Image Bank" file="../assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Praça-da-liberdade.jpg" description=" Belo Horizonte, Brasil, Minas Gerais, Praça da liberdade. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% include image.html alt="Belo Horizonte, Brasil, Minas Gerais, Praça da liberdade | Courtesy of Embratur Image Bank" file="../assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Praca-da-liberdade.jpg" description=" Belo Horizonte, Brasil, Minas Gerais, Praça da liberdade. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## The Seat of Government
 
