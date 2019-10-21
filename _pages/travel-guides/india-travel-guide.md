@@ -2,7 +2,7 @@
 title: India Travel Guide
 subtitle: A half-year business trip, transformed into one of my greatest adventures.
 permalink: "/india/"
-layout: travel-guides
+layout: fullwidth-hero
 category: india
 image: 2015/01/IMG_0548.jpg
 ---

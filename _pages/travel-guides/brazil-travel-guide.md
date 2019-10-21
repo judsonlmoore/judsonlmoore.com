@@ -2,7 +2,7 @@
 title: Brazil Travel Guide
 subtitle: Where my worldview came into perspective.
 permalink: "/brazil/"
-layout: travel-guides
+layout: fullwidth-hero
 category: brazil
 image: 2015/10/ouro-preto.jpg
 ---

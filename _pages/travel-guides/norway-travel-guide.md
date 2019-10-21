@@ -2,7 +2,7 @@
 title: Norway Travel Guide
 subtitle:
 permalink: "/norway/"
-layout: travel-guides
+layout: fullwidth-hero
 category: norway
 image: 2015/10/ouro-preto.jpg
 ---

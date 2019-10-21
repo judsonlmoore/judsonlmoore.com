@@ -2,7 +2,7 @@
 title: Denmark Travel Guide
 subtitle:
 permalink: "/Denmark/"
-layout: travel-guides
+layout: fullwidth-hero
 category: denmark
 image: 2015/10/ouro-preto.jpg
 ---

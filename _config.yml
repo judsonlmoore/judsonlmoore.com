@@ -186,6 +186,6 @@ cloudinary:
         class: author-thumb img-fluid
         min_width: 40
         min_hight: 40
-        max_width: 72
-        max_height: 72
+        max_width: 170
+        max_height: 170
         fallback_max_width: 72

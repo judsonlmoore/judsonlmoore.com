@@ -2,7 +2,7 @@
 title: Germany Travel Guide
 subtitle: The origins of my nomadic and adventurous life.
 permalink: "/germany/"
-layout: travel-guides
+layout: fullwidth-hero
 category: germany
 image: 2015/10/IMG_4676.jpg
 ---

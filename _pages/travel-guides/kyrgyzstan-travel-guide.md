@@ -2,7 +2,7 @@
 title: Kyrgyzstan Travel Guide
 subtitle: A stunning land in Central Asia.
 permalink: "/kyrgyzstan/"
-layout: travel-guides
+layout: fullwidth-hero
 category: kyrgyzstan
 image: 2012/06/Osh_Bazaar_in_Bishkek_Kyrgyzstaneg.jpeg
 ---

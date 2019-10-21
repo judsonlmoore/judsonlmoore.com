@@ -2,7 +2,7 @@
 title: United Arab Emirates Travel Guide
 subtitle: The best 36-hour layover ever.
 permalink: "/uae/"
-layout: travel-guides
+layout: fullwidth-hero
 category: uae
 image: 2015/01/IMG_3707.jpg
 ---

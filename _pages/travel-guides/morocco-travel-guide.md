@@ -2,7 +2,7 @@
 title: Morocco Travel Guide
 subtitle: As diverse a place as you will find anywhere in the world.
 permalink: "/morocco/"
-layout: travel-guides
+layout: fullwidth-hero
 category: morocco
 image: 2017/04/riad-in-morocco-3.jpg
 ---

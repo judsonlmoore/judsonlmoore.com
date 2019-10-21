@@ -3,26 +3,21 @@ title: page-right-sidebar
 layout: default
 ---
 
-<div class="site-content">
-    <div class="container">
+<!-- container -->
+<div class="container bg-white p-5 my-5 mt-3 mt-md-5">
 
-        <!-- Content
-================================================== -->
-        <div class="main-content">
-
-            <section>
-                <div class="article-post">
-                    <div class="row">
-                        <div class="col-lg-9">
-                            {{content}}
-                        </div>
-                        <div class="col-lg-3 d-none d-lg-block">
-                            {% include sidebar.html %}
-                        </div>
-                    </div>
+    <section>
+        <div class="article-post">
+            <div class="row">
+                <div class="col-lg-8 px-3 p-sm-0">
+                    {{content}}
                 </div>
-            </section>
+                <div class="col-lg-4 p-3 px-sm-0 pl-lg-3 pt-lg-0">
+                    {% include sidebar.html %}
+                </div>
+            </div>
+        </div>
+    </section>
 
-        </div> <!-- main-content -->
-    </div> <!-- container -->
-</div> <!-- site-content -->
+</div> 
+<!-- /container -->

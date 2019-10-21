@@ -2,7 +2,7 @@
 title: While Young
 subtitle: Some subtitle
 permalink: "/whileyoung/"
-layout: travel-guides
+layout: fullwidth-hero
 category: whileyoung
 image: 2015/10/ouro-preto.jpg
 ---

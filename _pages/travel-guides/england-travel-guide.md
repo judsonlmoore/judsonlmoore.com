@@ -1,28 +1,14 @@
 ---
 title: England Travel Guide
-subtitle: A subtitle goes here
+subtitle: Her Majesty's Kingdom.
 permalink: "/england/"
-layout: travel-guides
+layout: fullwidth-hero
 category: england
-image: 2015/09/Gustav-Bauernfeind-A-Street-Scene-Damascus.jpg
+image: 2015/10/london.jpg
+
+
 ---
 
-## H2
+## The best part of England is the English
 
-Stuff
-
-## H2
-
-**Q:** When is the best time to visit Brazil?  
-**A:** Brazil has a very diverse cultural calendar, geography, and regional climates, making it always a great time to visit Brazil.
-
-**Q:** Is a visa required for US citizens?  
-**A:** Yes, a visa is required for US citizens to visit Brazil.
-
-**Q:** Where else can I learn more about Brazil?  
-**A:** VisitBrasil.com is the official tourism site of Brazil
-
-[Electric Plug Type N Diagram](../assets/images/2015/10/electric-plug-type-n1.png)
-Type N electrical sockets with standard voltage of 127 / 220 V at 60 Hz).
-
-[Buy adaptor on Amazon](https://www.amazon.com/gp/product/B075VQDWZ7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075VQDWZ7&linkCode=as2&tag=judsonlmoor0a-20&linkId=f642c14792d29932c81b0b0796cb2fc1)
+The United Kingdom is one of my favorite destinations. The rich history, the modern monarchy, the endless treasures of the world which line the museums (regardless of how they got there..) The British people have an amazing history and a masterfully crafted society. I first visited London for a week with friends during my Rotary study abroad year. I later returned in a pursuit to make a permanent move to the island, which did not work out as hoped but which has become my greatest evidence that things happen for a reason. I occasionally have the opportunity to schedule an extended layover in London and am always happy to do so. London is home to several of my most significant loved ones and I hope it will be home to me as well, one day.

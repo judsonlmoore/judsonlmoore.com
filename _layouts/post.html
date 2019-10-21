@@ -5,150 +5,139 @@ archive: false
 post_class: post-template
 ---
 
-<div class="site-content">
-    <div class="container">
+<div class="container mt-3 mt-md-5">
 
-        <!-- Content
-================================================== -->
-        <div class="main-content">
+    <div class="row">
 
-            <!-- Begin Article
-================================================== -->
-            <div class="container">
-                <div class="row">
+        <!-- Post -->
+        <div class="col-lg-8 px-3 px-sm-0">
+            <div class="mainheading pt-1 pt-md-0">
 
-                    <!-- Post Share -->
-                    <div class="col-md-2">
-                        {% include share.html %}
-                    </div>
+                <!-- Post Title -->
+                <div class="bg-white p-3 p-md-5 shadow-sm">
 
-                    <!-- Post -->
+                    <h1 class="posttitle">{{ page.title }}</h1>
 
-                    <div class="col-md-9 flex-first flex-md-unordered">
-                        <div class="mainheading px-0 pt-md-5">
+                    <!-- Post Date -->
+                    <small>
+                        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                        {% if page.last_modified_at %}
+                        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                    {% endif %}
+                    </small>
 
-                            <!-- Post Title -->
-                            <div class="bg-white p-5 shadow-sm">
-
-                                <h1 class="posttitle">{{ page.title }}</h1>
-
-                                <!-- Post Date -->
-                                <small>
-                                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                                    {% if page.last_modified_at %}
-                                    (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                                {% endif %}
-                                </small>
-
-                                <!-- Post Categories/Tags -->
-                                <ul class="list-inline">
-                                    {% assign sortedCategories = page.categories | sort %}
-                                    {% for category in sortedCategories %}
-                                    <li class="list-inline-item">
-                                        <a class="smoothscroll badge badge-primary" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">
-                                            <span>{{ category }}</span>
-                                        </a>
-                                    </li>
-                                    {% endfor %}
-                                    {% assign sortedTags = page.tags | sort %}
-                                    {% for tag in sortedTags %}
-                                    <li class="list-inline-item">
-                                        <a class="smoothscroll badge badge-secondary" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
-                                    </li>
-                                    {% endfor %}
-                                </ul>
-                                <!-- End Categories/Tags -->
-
-                            </div>
-
-                        </div>
-
-                        {% if page.image %}
-                        <!-- Post Featured Image -->
-                        <div class="p-0 shadow-sm">
-                            {% cloudinary featured {{ site.baseurl }}{{ site.image-path }}{{ page.image }} alt="{{ page.title }}" %}
-                        </div>
-                        <!-- End Featured Image -->
-                        {% endif %}
-
-                        <!-- Post Content -->
-                        <div class="article-post bg-white p-5 shadow-sm">
-                            <!-- Toc if any -->
-                            {% if page.toc %}
-                                {% if page.beforetoc %}
-                                    <p><em>{{page.beforetoc}}</em></p>
-                                {% endif %}
-                                <div class="toc mt-4 mb-4 lead">
-                                    <h3 class="font-weight-bold">Summary</h3>
-                                    {% include toc.html html=content %}
-                                </div>
-                            {% endif %}
-                            <!-- End Toc -->
-                            {{content}}
-                        </div>
-
-                        <!-- Author Box -->
-                        {% assign author = site.authors[page.author] %}
-                        {% if page.author %}
-                        <div class="p-3 p-md-5 mt-5 text-dark bg-white shadow-sm">
-                            <div class="row">
-                                <div class="col-xs-12 col-md-3 col-lg-2 mb-4 mb-md-0">
-                                    {% if author.avatar %}
-                                    {% cloudinary author-thumb {{ site.baseurl }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.display_name }}" %}
-                                    {% endif %}
-                                </div>
-                                <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                                    <h2 class="h4">{{ author.display_name }}</h2>
-                                    <p>{{ author.description }}</p>
-                                    <p><a href="{{ author.twitter }}" class="btn btn-sm btn-primary" target="_blank" role="button">Follow on Twitter <i class="fab fa-twitter"></i></a></p>
-                                </div>
-                            </div>
-                        </div>
-                        {% endif %}
-
-                        <!-- Prev/Next -->
-                        <div class="p-3 p-md-5 mt-5 text-dark bg-white shadow-sm">
-                            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
-                                {% if page.previous.url %}
-                                <a class="prev d-block col-md-6" href="{{ site.baseurl }}/{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
-                                {% endif %}
-                                {% if page.next.url %}
-                                <a class="next d-block col-md-6 text-lg-right" href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}} &raquo; </a>
-                                {% endif %}
-                            <div class="clearfix"></div>
-                            </div>
-                        </div>
-                        <!-- End Prev/Next -->
-
-                    </div>
-                    <!-- End Post -->
+                    <!-- Post Categories/Tags -->
+                    <ul class="list-inline">
+                        {% assign sortedCategories = page.categories | sort %}
+                        {% for category in sortedCategories %}
+                        <li class="list-inline-item">
+                            <a class="smoothscroll badge badge-primary" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">
+                                <span>{{ category }}</span>
+                            </a>
+                        </li>
+                        {% endfor %}
+                        {% assign sortedTags = page.tags | sort %}
+                        {% for tag in sortedTags %}
+                        <li class="list-inline-item">
+                            <a class="smoothscroll badge badge-secondary" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    <!-- End Categories/Tags -->
 
                 </div>
-            </div>
-            <!-- End Article
-================================================== -->
 
-            <!-- Begin Comments
-================================================== -->
-            {% if page.comments != false %}
-            <div class="container">
-                <div id="comments" class="row justify-content-center mb-5">
-                    <div class="col-md-8">
-                        {% include disqus.html %}
+            </div>
+
+            {% if page.image %}
+            <!-- Post Featured Image -->
+            <div class="p-0 shadow-sm">
+                {% cloudinary featured {{ site.baseurl }}{{ site.image-path }}{{ page.image }} alt="{{ page.title }}" %}
+            </div>
+            <!-- End Featured Image -->
+            {% endif %}
+
+            <!-- Post Content -->
+            <div class="article-post bg-white p-3 p-sm-5 shadow-sm">
+                <!-- Toc if any -->
+                {% if page.toc %}
+                    {% if page.beforetoc %}
+                        <p><em>{{page.beforetoc}}</em></p>
+                    {% endif %}
+                    <div class="toc mt-4 mb-4 lead">
+                        <h3 class="font-weight-bold">Summary</h3>
+                        {% include toc.html html=content %}
+                    </div>
+                {% endif %}
+                <!-- End Toc -->
+                {{content}}
+            </div>
+
+            <!-- Author Box -->
+            {% assign author = site.authors[page.author] %}
+            {% if page.author %}
+            <div class="mt-3 p-5 text-dark bg-white shadow-sm">
+                <div class="row">
+                    <div class="col-xs-12 col-md-3 col-lg-2 mb-4 mb-md-0">
+                        {% if author.avatar %}
+                        {% cloudinary author-thumb {{ site.baseurl }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.display_name }}" %}
+                        {% endif %}
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <h2 class="h4">{{ author.display_name }}</h2>
+                        <p>{{ author.description }}</p>
+                        <p><a href="{{ author.twitter }}" class="btn btn-sm btn-primary" target="_blank" role="button">Follow on Twitter <i class="fab fa-twitter"></i></a></p>
                     </div>
                 </div>
             </div>
             {% endif %}
-            <!--End Comments
-================================================== -->
 
-        </div> <!-- main-content -->
-    </div> <!-- container -->
-</div> <!-- site-content -->
+            <!-- Prev/Next -->
+            <div class="mt-3 p-5 text-dark bg-white shadow-sm">
+                <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+                    <div class="col-md-6">
+                        {% if page.previous.url %}
+                        <a class="prev d-block stretched-link" href="{{ site.baseurl }}/{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
+                        {% endif %}
+                    </div>
+                    <div class="col-md-6">
+                        {% if page.next.url %}
+                        <a class="next d-block text-lg-right stretched-link" href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}} &raquo; </a>
+                        {% endif %}
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <!-- End Prev/Next -->
+
+
+        </div>
+
+        <!-- Begin Sidebar -->
+        <div class="col-lg-4 p-3 px-sm-0 pl-lg-3 pt-lg-0">
+            {% include sidebar.html %}
+        </div>
+        <!-- End Sidebar -->
+
+        <!-- Begin Comments -->
+        {% if page.comments != false %}
+        <div class="container">
+            <div id="comments" class="row justify-content-center mb-5">
+                <div class="col-md-8">
+                    {% include disqus.html %}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        <!--End Comments -->
+
+
+    </div> <!-- row -->
+
+</div> <!-- container -->
 
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
+https://search.google.com/structured-data/testing-tool/u/0/ -->
 {% if page.rating %}
 <script type="application/ld+json">
 {

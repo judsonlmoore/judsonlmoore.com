@@ -2,7 +2,7 @@
 title: United States of America Travel Guide
 subtitle: My homebase.
 permalink: "/usa/"
-layout: travel-guides
+layout: fullwidth-hero
 category: usa
 image: 2014/09/cat-nola.jpg
 ---

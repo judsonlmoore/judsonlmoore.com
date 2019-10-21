@@ -1,28 +1,12 @@
 ---
 title: Egypt Travel Guide
-subtitle: A subtitle goes here
+subtitle: Encouraging East-West dialogue as a 2015 Gabr Fellow
 permalink: "/egypt/"
-layout: travel-guides
+layout: fullwidth-hero
 category: egypt
-image: 2015/09/Gustav-Bauernfeind-A-Street-Scene-Damascus.jpg
+image: 2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
 ---
 
-## H2
+## Egypt is still the cradle of civilization 
 
-Stuff
-
-## H2
-
-**Q:** When is the best time to visit Brazil?  
-**A:** Brazil has a very diverse cultural calendar, geography, and regional climates, making it always a great time to visit Brazil.
-
-**Q:** Is a visa required for US citizens?  
-**A:** Yes, a visa is required for US citizens to visit Brazil.
-
-**Q:** Where else can I learn more about Brazil?  
-**A:** VisitBrasil.com is the official tourism site of Brazil
-
-[Electric Plug Type N Diagram](../assets/images/2015/10/electric-plug-type-n1.png)
-Type N electrical sockets with standard voltage of 127 / 220 V at 60 Hz).
-
-[Buy adaptor on Amazon](https://www.amazon.com/gp/product/B075VQDWZ7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075VQDWZ7&linkCode=as2&tag=judsonlmoor0a-20&linkId=f642c14792d29932c81b0b0796cb2fc1)
+[The Mohamed Shafik Gabr Foundation](http://www.msgabrfoundation.org/) is an Egyptian-based charitable organization with a history of good works, particularly in the areas of education and healthcare access. A few years ago, the foundation decided to support a fellowship for young professionals in Egypt and western countries to come together to experience each other’s cultures and to encourage a dialogue between emerging leaders in a wide variety of professional sectors. *[East-West: The Art of Dialogue](https://eastwestdialogue.org/)*, brings together 10 Egyptians, 10 Westerners (predominantly Americans) and organizes five weeks of intense travel throughout Egypt and the United States. While on tour, fellows meet with leaders in economics, politics and the arts. Fellows also work together to write an action plan for a development project which will be implemented in Egypt.

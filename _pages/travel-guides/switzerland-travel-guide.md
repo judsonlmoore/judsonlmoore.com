@@ -1,28 +1,12 @@
 ---
 title: Switzerland Travel Guide
-subtitle: A subtitle goes here
+subtitle: A winter dreamland
 permalink: "/switzerland/"
-layout: travel-guides
+layout: fullwidth-hero
 category: switzerland
-image: 2015/09/Gustav-Bauernfeind-A-Street-Scene-Damascus.jpg
+image: 2015/10/switzerland-capital-dome.jpg
 ---
 
-## H2
+## Switzerland is as delicious as it is beautiful 
 
-Stuff
-
-## H2
-
-**Q:** When is the best time to visit Brazil?  
-**A:** Brazil has a very diverse cultural calendar, geography, and regional climates, making it always a great time to visit Brazil.
-
-**Q:** Is a visa required for US citizens?  
-**A:** Yes, a visa is required for US citizens to visit Brazil.
-
-**Q:** Where else can I learn more about Brazil?  
-**A:** VisitBrasil.com is the official tourism site of Brazil
-
-[Electric Plug Type N Diagram](../assets/images/2015/10/electric-plug-type-n1.png)
-Type N electrical sockets with standard voltage of 127 / 220 V at 60 Hz).
-
-[Buy adaptor on Amazon](https://www.amazon.com/gp/product/B075VQDWZ7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075VQDWZ7&linkCode=as2&tag=judsonlmoor0a-20&linkId=f642c14792d29932c81b0b0796cb2fc1)
+Home of Charlie Chaplin, Nestlé, the United Nations and many of my friends, Switzerland is not often a place I get to, but it is always a place I am excited to be. I first traveled here when I was 17 years old and did not see the snowcapped mountains again for over a decade as I made my way to the USA after a six-month business trip in India. In the German-speaking part of the country, I find myself feeling right at home with the Swiss. In the other parts of Switzerland, I enjoy the challenges of language barriers along with the majestic landscapes and delicious fondue.

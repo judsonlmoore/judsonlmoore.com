@@ -2,7 +2,7 @@
 title: Ireland Travel Guide
 subtitle:
 permalink: "/ireland/"
-layout: travel-guides
+layout: fullwidth-hero
 category: ireland
 image: 2015/10/ouro-preto.jpg
 ---

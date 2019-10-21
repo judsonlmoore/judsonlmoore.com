@@ -2,7 +2,7 @@
 title: Turkey Travel Guide
 subtitle: Two continents, one country.
 permalink: "/turkey/"
-layout: travel-guides
+layout: fullwidth-hero
 category: turkey
 image: 2013/05/IMG_1765.jpg
 ---

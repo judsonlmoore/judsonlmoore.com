@@ -5,8 +5,8 @@
     <description>Author and travel addict</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Oct 2019 15:24:27 +0200</pubDate>
-    <lastBuildDate>Sat, 19 Oct 2019 15:24:27 +0200</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2019 09:40:20 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2019 09:40:20 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -230,6 +230,9 @@
 
 &lt;p&gt;Aside from the trail being very beautiful and mostly void of other visitors, there are a number of other tombs along the way which you can enter and fully explore. When you do arrive at the High Place of Sacrifice, you will be confronted with the best panoramic view of Petra, which you can enjoy over a cup of Bedouin tea, prepared fresh for you in a small tent with comfortable seating right on the edge of the cliff.&lt;/p&gt;
 
+&lt;!-- Gallery CSS --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/gallery-fluid.css&quot; /&gt;
+
 &lt;div class=&quot;tz-gallery&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
     
@@ -429,6 +432,9 @@ baguetteBox.run('.tz-gallery');
 &lt;h2 id=&quot;musical-talent-of-trivago-the-lineup&quot;&gt;Musical Talent of trivago: The Lineup&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;I am just blown away at the level of musical talent that exists in this company.&lt;/strong&gt; Not to mention the courage it takes to play music in front of all your colleagues. The concert featured 8 acts: 6 bands, a DJ, and me. Here are some highlight photos from the evening.&lt;/p&gt;
+
+&lt;!-- Gallery CSS --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/gallery-fluid.css&quot; /&gt;
 
 &lt;div class=&quot;tz-gallery&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
@@ -989,6 +995,9 @@ baguetteBox.run('.tz-gallery');
     &lt;p&gt;&lt;strong&gt;Official Website:&lt;/strong&gt; &lt;a href=&quot;http://www.dublincastle.ie/&quot;&gt;dublincastle.ie&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;!-- Gallery CSS --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/gallery-fluid.css&quot; /&gt;
 
 &lt;div class=&quot;tz-gallery&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;

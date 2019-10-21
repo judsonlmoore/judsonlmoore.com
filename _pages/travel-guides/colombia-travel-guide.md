@@ -2,7 +2,7 @@
 title: Colombia Travel Guide
 subtitle: A 15th year reunion with my Rotary Youth Exchange friends.
 permalink: "/colombia/"
-layout: travel-guides
+layout: fullwidth-hero
 category: colombia
 image: 2014/11/IMG_2650.jpg
 ---

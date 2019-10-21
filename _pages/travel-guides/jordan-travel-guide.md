@@ -2,7 +2,7 @@
 title: Jordan Travel Guide
 subtitle: Mystical desert.
 permalink: "/jordan/"
-layout: travel-guides
+layout: fullwidth-hero
 category: jordan
 image: 2018/05/wadi-rum-jordan-daytime-landscape.jpg
 ---

@@ -2,7 +2,7 @@
 title: Scotland Travel Guide
 subtitle:
 permalink: "/scotland/"
-layout: travel-guides
+layout: fullwidth-hero
 category: scotland
 image: 2015/10/ouro-preto.jpg
 ---
