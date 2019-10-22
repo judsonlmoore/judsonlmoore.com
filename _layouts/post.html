@@ -98,16 +98,16 @@ post_class: post-template
             <!-- /Related Posts -->
 
             <!-- Prev/Next -->
-            <div class="mt-3 p-5 text-dark bg-white shadow-sm">
+            <div class="p-3 p-sm-5 mt-5 text-dark bg-white shadow-sm">
                 <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
                     <div class="col-md-6">
                         {% if page.previous.url %}
-                        <a class="prev d-block stretched-link" href="{{ site.baseurl }}/{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
+                        <a class="prev d-block stretched-link" href="{{ site.url }}/{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
                         {% endif %}
                     </div>
                     <div class="col-md-6">
                         {% if page.next.url %}
-                        <a class="next d-block text-lg-right stretched-link" href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}} &raquo; </a>
+                        <a class="next d-block text-lg-right stretched-link" href="{{ site.url }}/{{page.next.url}}">{{page.next.title}} &raquo; </a>
                         {% endif %}
                     </div>
                     <div class="clearfix"></div>
