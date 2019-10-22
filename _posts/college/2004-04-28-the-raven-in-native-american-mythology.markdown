@@ -33,7 +33,7 @@ The next day the boy cried for more of the things on the shelf and was given a b
 
 Raven shortly thereafter was told of a well with a never-ending supply of water.  Raven went to the place where the well was and learned that the man who owned the well kept it covered and never left its side. He even built his house around the well and slept by it so that no one else could drink from it.  Once again Raven began to scheme a plan to get this water.
 
-{% cloudinary /assets/images/2004/04/exponential-happiness-fb-banner.png alt="" description="" %}({{ site.baseurl }}/book/)
+{% include jumbotron-exponential-happiness-promo.html %}
 
 Raven disguised himself as the man’s brother-in-law and went to the man telling him they he would stay the night with him.  Both went to sleep and in the early morning Raven woke up and went away from the well.  When Raven returned he brought with him dog dung and put it on the sleeping man’s buttocks.  Raven awoke the man and showed the man the accident he had had in the night.  The man embarrassed and in need to clean up, ran out of the house to clean up.
 

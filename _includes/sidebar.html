@@ -1,28 +1,25 @@
-<div class="card rounded shadow-sm mb-3" >
-	<div class="card-header bg-dark text-light">Subscribe</div>
-	<div class="card-body bg-white text-dark">
-		{% include form-opt-in.html %}
-	</div>
-</div>
+<div class="col-lg-4 px-3 p-sm-0 pl-lg-4">
 
-<div class="card rounded shadow-sm mb-3" >
-	<div class="card-header bg-dark text-light">Instagram</div>
-	<div class="card-body bg-white text-dark">
-		<p class="card-title">Follow my adventure!</p>
-		{% include instagram.html clientId="d98d7d64aecf4686b4d202112bb92d24" userId="211587932" accessToken="211587932.d98d7d6.86f45ebe22df4150a00d7c7827b9b934" limit="6" %}
-		<p class="card-text">Always be up to date by following me on Instagram</p>
-		<a href="https://www.instagram.com/judsonlmoore" target="_blank" class="btn btn-primary btn-lg">
-            <i class="fab fa-instagram pr-1"></i>
-            <span>Instagram</span>
-        </a>
+	<div class="card rounded shadow-sm mb-3" >
+		<div class="card-header bg-dark text-light">Subscribe</div>
+		<div class="card-body bg-white text-dark">
+			{% include form-opt-in.html %}
+		</div>
 	</div>
-</div>
 
-<div class="card rounded shadow-sm mb-3" >
-	<div class="card-header bg-dark text-light">My new book</div>
-	<div class="card-body bg-white text-dark">
-		<p class="lead my-3">Order my new book today!</p>
-		{% cloudinary /assets/images/2019/05/exponential-happiness-book-cover-digital.png alt="Book cover mockups for Exponential Happiness" description="Available in paperback, and all e-reader formats." %}
-		<a class="btn btn-lg" href="https://www.amazon.com/dp/B07YYMZD4T/ref=as_li_ss_tl?ref_=pe_3052080_276849420&linkCode=ll1&tag=judsonlmoore-20&linkId=52a68e390fe715cab2de695cdd19735e&language=en_US" target="_blank" role="button" style="background:#FF9900; color:#000" >Buy now on Amazon <i class="fab fa-amazon"></i></a>
+	<div class="card rounded shadow-sm mb-3" >
+		<div class="card-header bg-dark text-light">Instagram</div>
+		<div class="card-body bg-white text-dark">
+			<p class="card-title">Follow my adventure!</p>
+			{% include instagram.html clientId="d98d7d64aecf4686b4d202112bb92d24" userId="211587932" accessToken="211587932.d98d7d6.86f45ebe22df4150a00d7c7827b9b934" limit="6" %}
+			<p class="card-text">Always be up to date by following me on Instagram</p>
+			<a href="https://www.instagram.com/judsonlmoore" target="_blank" class="btn btn-primary btn-lg">
+	            <i class="fab fa-instagram pr-1"></i>
+	            <span>Instagram</span>
+	        </a>
+		</div>
 	</div>
+
+	{% include jumbotron-exponential-happiness-promo.html %}
+
 </div>
