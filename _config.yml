@@ -161,7 +161,6 @@ cloudinary:
       fallback_max_width: 800
       steps: 5
       figure: auto
-      #sizes: "(min-width: 50rem) 50rem, 90vw"
       attributes:
         class: img-fluid
         loading: auto

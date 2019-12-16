@@ -24,29 +24,52 @@ comments: false
 			<div class="col-lg-6">
 				<p>
 					<a class="btn btn-lg" href="https://www.amazon.com/gp/product/1075569184/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=judsonlmoore-20&linkId=32fd2b86fbfd22af6b3fae66936a4eae&language=en_US" target="_blank" role="button" style="background:#FF9900; color:#000" >Buy on Amazon <i class="fab fa-amazon"></i></a>
-					<small>Paperback & Kindle</small>
+					<small class="d-none d-lg-block">Paperback & Kindle</small>
 				</p>
 			</div>
 
 			<div class="col-lg-6">
 				<p>
 					<a class="btn btn-lg text-white" href="https://leanpub.com/exponentialhappiness" target="_blank" role="button" style="background:#000" >Buy on Leanpub <i class="fab fa-leanpub"></i></a>
-					<small>All digital formats</small>
+					<small class="d-none d-lg-block">All digital formats</small>
 				</p>
 			</div>
 		</div>
     </div>
-    <div class="col-lg-6 d-none d-lg-block">
-		{% cloudinary /assets/images/2019/05/exponential-happiness-book-cover-paperback-3d.png alt="" description="" %}
-	</div>
-</div>
+    <div class="col-lg-6 d-none d-lg-block p-0 m-0">
+    	{% cloudinary /assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg alt="" description="" %}
+		<!-- Button trigger modal -->
+    	<a href="#" data-toggle="modal" data-target="#exampleModalCenter"><i class="far fa-eye"></i> Preview the first the chapters</a>
 
-<div class="card text-white bg-secondary my-5 p-4">
-	<div class="card-body">
-		{% assign quote = site.data.text %}
-		{% assign quote = quote["quote"] %}
-		{% include carousel-text.html quote=quote %}
+
+
+
+		<!-- Modal -->
+		<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <h5 class="modal-title" id="exampleModalCenterTitle">Sign up</h5>
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		          <span aria-hidden="true">&times;</span>
+		        </button>
+		      </div>
+		      <div class="modal-body">
+		        {% include form-opt-in.html %}
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+		        <button type="button" class="btn btn-primary">Save changes</button>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+
+
+
+
 	</div>
+
 </div>
 
 <div class="row">
@@ -60,12 +83,10 @@ comments: false
 </div>
 
 <div class="row">
-    <div class="col-lg-6">
-    	{% cloudinary /assets/images/2019/05/exponential-happiness-book-cover-digital.png alt="Book cover mockups for Exponential Happiness" description="Available in paperback, and all e-reader formats." %}
-    </div>
+
     <div class="col-lg-6">
     	<h2>Table of contents</h2>
-		<ul>
+		<ul class="list-unstyled">
 			<li><strong>Chapter 1:</strong> Will this book change my life?</li>
 			<li><strong>Chapter 2:</strong> Identifying your “What if”</li>
 			<li><strong>Chapter 3:</strong> Why Start While Young?</li>
@@ -76,4 +97,18 @@ comments: false
 			<li><strong>Chapter 8:</strong> Pay It Forward</li>
 		</ul>
     </div>
+
+    <div class="col-lg-6">
+		<h2>Product details</h2>
+		<ul class="list-unstyled">
+			<li>Paperback: 229 pages</li>
+			<li>Publisher: Independently published (October 18, 2019)
+			<li>Language: English</li>
+			<li>ISBN-10: 1075569184</li>
+			<li>ISBN-13: 978-1075569180</li>
+			<li>Product Dimensions: 6 x 0.6 x 9 inches</li>
+			<li>Shipping Weight: 14.4 ounces (View shipping rates and policies)</li>
+		</ul>
+    </div>
+
 </div>
