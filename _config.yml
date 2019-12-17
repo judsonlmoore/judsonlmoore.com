@@ -2,7 +2,7 @@
 title: Judson L Moore
 name: Judson L Moore
 description: Author and travel addict
-url: "https://nonprod.judsonlmoore.com"
+url: "https://www.judsonlmoore.com"
 image-path: /assets/images/
 author: judsonlmoore
 twitter:
@@ -163,7 +163,7 @@ cloudinary:
       figure: auto
       attributes:
         class: img-fluid
-        loading: auto
+        loading: lazy
     featured-box-img-cover:
       attributes:
         class: featured-box-img-cover img-fluid
@@ -177,8 +177,8 @@ cloudinary:
         class: featured-image img-fluid img-fluid
         min_width: 315
         min_hight: 210
-        max_width: 800
-        max_height: 530
+        max_width: 760
+        max_height: 500
     author-thumb: 
       steps: 2
       attributes: 

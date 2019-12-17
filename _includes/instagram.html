@@ -17,7 +17,7 @@
         resolution: 'standard_resolution',
         accessToken: '{{ include.accessToken }}',
         clientId: '{{ include.clientId }}',
-        template: '<a href="{% raw %}{{link}}{% endraw %}" class="instagram w-50 p-1 m-0" target="_blank"><img src="{% raw %}{{image}}{% endraw %}" /></a>'
+        template: '<a href="{% raw %}{{link}}{% endraw %}" class="instagram w-50 p-1 m-0" target="_blank" rel="noopener"><img src="{% raw %}{{image}}{% endraw %}" alt="Image from @judsonlmoore on Instagram" /></a>'
     });
     feed.run();
 </script>

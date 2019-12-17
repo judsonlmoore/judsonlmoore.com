@@ -1,6 +1,6 @@
 {% for item in site.data.social %}
 <!--{{ item.name }} -->
-<a href="{{ item.url }}" class="btn bg-blue text-light mr-2" alt="Follow on {{ item.name }}" target="_blank">
+<a href="{{ item.url }}" class="btn bg-blue text-light mr-2" alt="Follow on {{ item.name }}" target="_blank" rel="noopener">
 	<span class="fab fa-{{ item.name }}"></span>
 </a>
 {% endfor %}
