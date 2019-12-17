@@ -5,7 +5,7 @@ categories:		college
 tags:			Politics
 author:			judsonlmoore
 layout:			post
-image:			2012/09/tumblr_l6c40zdG7R1qb60c5.jpg
+image:			2005/12/kennedys-excomm.png
 
 
 ---
@@ -14,7 +14,7 @@ During the thirteen-day period from October 18-29, 1962, the world stood and wat
 
 The Kennedy administration played a key roll in avoiding catastrophe by adhering to a process which considered all options, outcomes, and available information.  To understand the decision-making process, we must first evaluate the people who were of influence.  The Kennedy administration formed the Executive Committee (ExComm), “which brought together a number of NSC members plus others… who were not national security specialists but had the confidence of the president.” [[1]]({{ site.baseurl }}/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn1)  There were 71 official members, but the most important are as follows:
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_l6c40zdG7R1qb60c5.png" alt="" description="" %}
+{% cloudinary /assets/images/2005/12/kennedys-excomm.png alt="" description="" %}
 
 To try and detail the input of each of these people would easily fill a book, so for the practical purposes of this paper we will focus on a few of the most influential and polarized members of the ExComm.
 
@@ -108,45 +108,26 @@ In Conclusion, the Cuban Missile Crisis brought the US dangerously close to nucl
 
 ### WORKS CITED
 
-Barrett, David M., and Christopher Ryan. “5 National Security,” In _The Executive Office of the President:  A Historical, Biographical, and Bibliographical Guide_. Edited by Relyea, Harold C., null22-null23. Westport, CT: Greenwood Press, 1997.
-
-_The Cuban Crisis of 1962: Selected Documents and Chronology_. Edited by David L. Larson. Boston: Houghton Mifflin, 1963.
-
-Freedman, Lawrence. _Kennedy’s Wars: Berlin, Cuba, Laos, and Vietnam_. New York: Oxford University Press, 2000.
-
-Garthoff, Raymond L. _Reflections on the Cuban Missile Crisis_. Rev. ed. Washington, DC: The Brookings Institution, 1989.
-
-Harper, Paul and Joann P. Krieg, eds. _John F. Kennedy: The Promise Revisited_. New York: Greenwood Press, 1988.
-
-Irving, L. Janis. _“Groupthink,”_ _Psychology Today._ November 1971.  Boston: Houghton Mifflin Company, 1972.
-
-[Roger Hilsman, _The Cuban Missile Crisis The Struggle over Policy._ Westport, CT: Praeger Publishers, 1996.](http://www.questia.com/PM.qst?a=o&d=14275244)
-
-Mcnamara, Robert S., and James G. Blight. _Wilson’s Ghost: Reducing the Risk of Conflict, Killing, and Catastrophe in the 21st Century_. New York: Public Affairs, 2001.
-
-Needler, Martin C. _The Concepts of Comparative Politics_. Westport, CT: Praeger, 1991.
-
-“_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.image:			
-
+1. Barrett, David M., and Christopher Ryan. “5 National Security,” In _The Executive Office of the President:  A Historical, Biographical, and Bibliographical Guide_. Edited by Relyea, Harold C., null22-null23. Westport, CT: Greenwood Press, 1997.
+2. _The Cuban Crisis of 1962: Selected Documents and Chronology_. Edited by David L. Larson. Boston: Houghton Mifflin, 1963.
+3. Freedman, Lawrence. _Kennedy’s Wars: Berlin, Cuba, Laos, and Vietnam_. New York: Oxford University Press, 2000.
+4. Garthoff, Raymond L. _Reflections on the Cuban Missile Crisis_. Rev. ed. Washington, DC: The Brookings Institution, 1989.
+5. Harper, Paul and Joann P. Krieg, eds. _John F. Kennedy: The Promise Revisited_. New York: Greenwood Press, 1988.
+6. Irving, L. Janis. _“Groupthink,”_ _Psychology Today._ November 1971.  Boston: Houghton Mifflin Company, 1972.
+7. [Roger Hilsman, _The Cuban Missile Crisis The Struggle over Policy._ Westport, CT: Praeger Publishers, 1996.](http://www.questia.com/PM.qst?a=o&d=14275244)
+8. Mcnamara, Robert S., and James G. Blight. _Wilson’s Ghost: Reducing the Risk of Conflict, Killing, and Catastrophe in the 21st Century_. New York: Public Affairs, 2001.
+9. Needler, Martin C. _The Concepts of Comparative Politics_. Westport, CT: Praeger, 1991.
+10. “_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.
 
 ### Footnotes
 
-[1].   David M. Barrett, and Christopher Ryan, “5 National Security,” in _The Executive Office of the President:  A Historical, Biographical, and Bibliographical Guide_, ed. Harold C. Relyea  (Westport, CT: Greenwood Press, 1997), 190.
-
-[2].   [Lawrence Freedman, _Kennedy’s Wars: Berlin, Cuba, Laos, and Vietnam_  (New York: Oxford University Press, 2000), 161.](http://www.questia.com/PM.qst?a=o&d=90323638)
-
-[3].   [Paul Harper and Joann P. Krieg, eds., _John F. Kennedy: The Promise Revisited_ (New York: Greenwood Press, 1988), 90.](http://www.questia.com/PM.qst?a=o&d=15070606)
-
-[4].    Unless otherwise noted, all of the information on this time line was extracted from audio-recordings and transcripts from meetings in the White House and that were made available by the John F. Kennedy Presidential Library.  Recordings and Transcripts are available at [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/)
-
-[5].   [Robert S. Mcnamara, and James G. Blight, _Wilson’s Ghost: Reducing the Risk of Conflict, Killing, and Catastrophe in the 21st Century_ (New York: Public Affairs, 2001), 47.](http://www.questia.com/PM.qst?a=o&d=100986095)
-
-[6].   [Raymond L. Garthoff, _Reflections on the Cuban Missile Crisis_, Rev. ed. (Washington, DC: The Brookings Institution, 1989), 61.](http://www.questia.com/PM.qst?a=o&d=13755376)
-
-[7].   _The Cuban Crisis of 1962: Selected Documents and Chronology_, ed. Larson, David L. (Boston: Houghton Mifflin, 1963), 125.
-
-[8].    “_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.
-
-[9].   [Roger Hilsman, _The Cuban Missile Crisis The Struggle over Policy_ (Westport, CT: Praeger Publishers, 1996), 104.](http://www.questia.com/PM.qst?a=o&d=14275244)
-
-[10].    Irving L. Janis. _“Groupthink,” Psychology Today._ November 1971, 43-44, 46, 74-76 Boston: Houghton Mifflin Company, 1972.
+1. David M. Barrett, and Christopher Ryan, “5 National Security,” in _The Executive Office of the President:  A Historical, Biographical, and Bibliographical Guide_, ed. Harold C. Relyea  (Westport, CT: Greenwood Press, 1997), 190.
+2. [Lawrence Freedman, _Kennedy’s Wars: Berlin, Cuba, Laos, and Vietnam_  (New York: Oxford University Press, 2000), 161.](http://www.questia.com/PM.qst?a=o&d=90323638)
+3. [Paul Harper and Joann P. Krieg, eds., _John F. Kennedy: The Promise Revisited_ (New York: Greenwood Press, 1988), 90.](http://www.questia.com/PM.qst?a=o&d=15070606)
+4. Unless otherwise noted, all of the information on this time line was extracted from audio-recordings and transcripts from meetings in the White House and that were made available by the John F. Kennedy Presidential Library.  Recordings and Transcripts are available at [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/)
+5. [Robert S. Mcnamara, and James G. Blight, _Wilson’s Ghost: Reducing the Risk of Conflict, Killing, and Catastrophe in the 21st Century_ (New York: Public Affairs, 2001), 47.](http://www.questia.com/PM.qst?a=o&d=100986095)
+6. [Raymond L. Garthoff, _Reflections on the Cuban Missile Crisis_, Rev. ed. (Washington, DC: The Brookings Institution, 1989), 61.](http://www.questia.com/PM.qst?a=o&d=13755376)
+7. _The Cuban Crisis of 1962: Selected Documents and Chronology_, ed. Larson, David L. (Boston: Houghton Mifflin, 1963), 125.
+8. “_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.
+9. [Roger Hilsman, _The Cuban Missile Crisis The Struggle over Policy_ (Westport, CT: Praeger Publishers, 1996), 104.](http://www.questia.com/PM.qst?a=o&d=14275244)
+10. Irving L. Janis. _“Groupthink,” Psychology Today._ November 1971, 43-44, 46, 74-76 Boston: Houghton Mifflin Company, 1972.

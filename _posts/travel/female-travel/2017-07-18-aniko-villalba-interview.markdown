@@ -25,7 +25,7 @@ After the presentation, I was invited to join her and a small group to dinner. W
 
 **Aniko Villalba - **For me slow travel is not really about the speed of the trip, it’s more about how you look at a place, how you relate to it, what things you choose to do (and not to do) there. I like to compare it to a visit to a museum: if you go inside a big famous museum (let’s say the Louvre) you will probably feel the urge to see “everything”, to go from room to room, to see each and every painting and, of course, to take a picture of the Mona Lisa (because how could you _not_ do it?). But what if instead of trying to see everything you just focus your time on enjoying three or four of your favorite paintings? Or maybe even just one. That’s slow travel for me: the urge to do all kinds of stuff and the fear of missing out will always be there, but I prefer to just see and do what really interests me, **even if it means going to Paris and not seeing the Eiffel Tower**, or if it means staying one month in the same location.
 
-{% include image.html alt="Aniko Villalba visits with inhabitants of a small village in China." file="../assets/images/2017/07/aniko-villalba-china.jpg" alt="" description="" %}
+{% cloudinary /assets/images/2017/07/aniko-villalba-china.jpg alt="Aniko Villalba visits with inhabitants of a small village in China." description="" %}
 
 ## To other would-be travelers out there, what advice do you give for how to get started?
 
@@ -59,7 +59,7 @@ After the presentation, I was invited to join her and a small group to dinner. W
 
 **Aniko Villalba -** That I don’t want to live as a nomad forever. A few days ago I wrote a blog post titled “[I’m tired of traveling](https://viajandoporahi.com/me-canse-de-viajar/)” (S*panish*) in which I opened up to my readers and told them that I don’t want to travel anymore (at least for now) and that my dream right now is to find a house in France and settle down here with my husband. I want to have my own space, my desk, my bookshelf, a group of friends, daily activities and routines. I think that traveling became so much a part of my routine that I stopped enjoying it as before. So, for now, I decided it’s best to stop and focus on my writing, on my future online courses and on other creative projects that I have going on. And when I feel like it, I will travel again.
 
-{% include image.html alt="Photo of Aniko Villalba books, El Sindrom de Paris and Dias de Viaje" file="../assets/images/2017/07/aniko-villalba-book-covers.jpg" alt="" description="" %}
+{% cloudinary /assets/images/2017/07/aniko-villalba-book-covers.jpg alt="Photo of Aniko Villalba books, El Sindrom de Paris and Dias de Viaje" description="" %}
 
 ## What does “home” mean to you?
 

@@ -10,4 +10,4 @@ image:			2012/09/LSUmag_Winter2011.jpg
 
 ---
 
-{% include image.html alt="](http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png" alt="" description="" %}(http://judsonmoore.com/files/2012/09/LSUmag_Winter2011.png" alt="" description="" %}
+{% cloudinary /assets/images/2012/09/LSUmag_Winter2011.jpg alt="" description="" %}

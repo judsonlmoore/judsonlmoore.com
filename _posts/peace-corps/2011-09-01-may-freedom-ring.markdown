@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			2012/09/tumblr_lqu1hvkIFi1qb60c5.jpg
+image:			2012/09/talas-city-center.jpg
 
 
 ---
@@ -18,33 +18,21 @@ I caught about the last hour of the game which would be longer than my attention
 
 Here are some photos:
 
-{% include image.html alt="The start of the parade in front of the Talas Oblast White House" file="../assets/images/2011/09/tumblr_lqu1hvkIFi1qb60c5.jpg" alt="" description="" %}
+{% cloudinary /assets/images/2011/09/tumblr_lqu1hvkIFi1qb60c5.jpg alt="The start of the parade in front of the Talas Oblast White House" alt="" description="" %}
 
 The start of the parade in front of the Talas Oblast White House
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1lswGMT1qb60c5.jpg" alt="" description="" %}
+{% cloudinary /assets/images/2012/09/Kyrgyz-Indipendence-Day-2011-002.jpeg alt="Youth carrying a giant flag of Kyrgyzstan" description="" %}
 
-Youth carrying a giant flag of Kyrgyzstan
+{% cloudinary /assets/images/2012/09/Kyrgyz-Indipendence-Day-2011-003.jpeg alt="Me at the horse games" description="" %}
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1q5U1eh1qb60c5.jpg" alt="" description="" %}
+{% cloudinary /assets/images/2012/09/Kyrgyz-Indipendence-Day-2011-004.jpeg alt="A rider got knocked off his horse trying to reach for the sheep (at his feet) which fell short of the goal (the mound encircled by tires)" description="" %}
 
-Me at the horse games
+{% cloudinary /assets/images/2012/09/Kyrgyz-Indipendence-Day-2011-005.jpeg alt="A successful grab of the sheep in full gallup" description="" %}
 
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1rp73yg1qb60c5.jpg" alt="" description="" %}
+{% cloudinary /assets/images/2012/09/Kyrgyz-Indipendence-Day-2011-006.jpeg alt="The grand stands of the horse stadium" description="" %}
 
-A rider got knocked off his horse trying to reach for the sheep (at his feet) which fell short of the goal (the mound encircled by tires)
-
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1u2m45S1qb60c5.jpg" alt="" description="" %}
-
-A successful grab of the sheep in full gallup
-
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1w5ghS91qb60c5.jpg" alt="" description="" %}
-
-The grand stands of the horse stadium
-
-{% include image.html alt="](http://media.tumblr.com/tumblr_lqu1xdwZ1p1qb60c5.jpg" alt="" description="" %}
-
-More of me at the games (can you ever get enough?!)
+{% cloudinary /assets/images/2012/09/Kyrgyz-Indipendence-Day-2011-007.jpeg alt="More of me at the games (can you ever get enough?!)" description="" %}
 
 Today, September 1st, is the annual "First Bell" (first day of school) and so now life is going to change considerably for me, even though I have nothing to do with schools. For the summer all of the teacher PCVs have been on vacation. Sure they have participated in some camps and maybe a few clubs, but many have mostly been available to hang out with at any moment that they weren't off traveling the country. I also live with 4 school-aged kids that won't be hanging around the house all day, and when they are I imagine they will have homework. Also I walk by a university on my way to work. It has been an empty building most days but now it will be full of life with smart young people.
 

@@ -30,7 +30,7 @@ My visit to the Iguazu Falls came on the 89th day after I arrived in Brazil. Why
 
 After a 10-hour overnight bus ride from Santa Fé, where I first saw **the Milky Way Galaxy**, I am rested and ready to experience the next grand natural wonder. What is coming at me in the following hours is a story that shapes the rest of my life.
 
-{% include image.html alt="Iguazu Falls flowing over green outcrop" file="../assets/images/2016/09/iguazu-falls-flowing-over-green-outcrop.jpg" description=" Iguazu Falls flowing over green outcrop" %}
+{% cloudinary /assets/images/2016/09/iguazu-falls-flowing-over-green-outcrop.jpg alt="Iguazu Falls flowing over green outcrop" description="Iguazu Falls flowing over green outcrop" %}
 
 ## Upon Arrival to the Iguazu Falls
 
@@ -42,7 +42,7 @@ A short while later, I smoothly passed through the Argentinian boarder and had *
 
 The day was a bit rainy and I was visiting in the off-season, so I felt like I had the park to myself. The entry free is scaled depending on what all you want to do during your stay. I opted for free range access to the park's vast trails, the Falls observatory, and a boat ride under the Falls. **Everything was extrodenarially cheap**, except for the boat ride, but hey, I have come this far, so I may as well do all the things!
 
-{% include image.html alt="Iguazu Falls Panorama" file="../assets/images/2016/09/iguazu-falls-panorama.jpg" description=" Iguazu Falls Panorama" %}
+{% cloudinary /assets/images/2016/09/iguazu-falls-panorama.jpg alt="Iguazu Falls Panorama" description="Iguazu Falls Panorama" %}
 
 ## A Walk Through The Rain Forest
 
@@ -54,11 +54,11 @@ There are a number of trails winding through the Iguazu Falls Park which are met
 
 Without warning, something amazing swooped right in front of me: a toucan! I look up and to my astonishment, there is **a whole flock of toucans** and a variety of other exotic birds in every shape, size, and color. Some are flying and others are perched on the equally exotic flora of the Iguazu Falls Park. I have never seen such birds even in captivity, so to see so many flourishing in the wild up close has continued to be a life highlight even years later.
 
-{% include image.html alt="A Toucan at Iguazu Falls Park" file="../assets/images/2016/09/a-toucan-at-iguazu-falls-park.jpg" description=" A Toucan at Iguazu Falls Park" %}
+{% cloudinary /assets/images/2016/09/a-toucan-at-iguazu-falls-park.jpg alt="A Toucan at Iguazu Falls Park" description="A Toucan at Iguazu Falls Park" %}
 
 You could spend days in the Iguazu Falls Park exploring these amazing trails and sights. Each one can be completed in 1-2 hours, so if you have to choose just one, I recommend the [Devil's Throat Trail](http://www.iguazuargentina.com/en/garganta-del-diablo/). This is one of the longer trails, but you also get spectacular views of the Falls while also weaving in and out of the forest. From these vantage points above the Falls, you sense their vastness. **The Iguazu Falls are like the Grand Canyon, just wetter!**
 
-{% include image.html alt="Observation Deck at the Iguazu Falls" file="../assets/images/2016/09/observation-deck-at-the-iguazu-falls.jpg" description=" Observation Deck at the Iguazu Falls" %}
+{% cloudinary /assets/images/2016/09/observation-deck-at-the-iguazu-falls.jpg alt="Observation Deck at the Iguazu Falls" description="Observation Deck at the Iguazu Falls" %}
 
 The official tourism website for the Argentinian side of the Iguazu Falls has great information about all the trails in the Park. Just [visit their website](http://www.iguazuargentina.com/en) and select one of the trails from the main menu. At the bottom of each of those pages is an awesome interactive map like this one. This map is for the **Devil's Throat Trail**.
 
@@ -76,7 +76,7 @@ The boat came fairly close to the water, close enough for me to feel the choppin
 
 We made a few passes by the waterfalls, each time approaching from a different angle providing very different views. The whole boat tour lasts about 30 minutes. Though this is not so much time, it is enough to make the costs worth it and to **provide truly amazing memories of the Iguazu Falls**.
 
-{% include image.html alt="Iguazu Falls view from below" file="../assets/images/2016/09/iguazu-falls-view-from-below.jpg" description=" Iguazu Falls view from below" %}
+{% cloudinary /assets/images/2016/09/iguazu-falls-view-from-below.jpg alt="Iguazu Falls view from below" Iguazu Falls view from below" %}
 
 ## Dinner, And Then One More Adventure
 

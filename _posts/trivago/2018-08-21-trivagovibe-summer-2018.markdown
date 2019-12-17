@@ -46,7 +46,7 @@ _Then came the question:_
 
 And so we set up the Roland drums for soundcheck. When all was set, I got behind the drums, and with one beat into the kick drum >BOOM< we all knew we struck gold. **This. Drumset. Sounds. AMAZING. Live!** Thusly, the rest of the night had amazing sounding rhythm which was super easy to mix into the volume of everyone else on stage.
 
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" description=" Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
+{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" description="Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
 
 ## Musical Talent of trivago: The Lineup
 
