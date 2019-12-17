@@ -370,6 +370,155 @@
 
 <p>A big “thank you” to Scott and the whole Rival Sons crew for taking the time to participate in this interview. So how about you? Do you love the taste of crow? What road do you travel? Please leave me a comment below, or connect with me directly at <a href="http://twitter.com/judsonlmoore/">@JudsonLMoore</a>. Travel safely!</p>
 
+
+                <!-- Begin Comments -->
+                
+                <div id="comments" class="row justify-content-center mb-5">
+                    <div class="col-md-8">
+                        <div class="disqus"></div>
+<script type="text/javascript">
+    $.disqusLoader(".disqus", { scriptUrl: "//username.disqus.com/embed.js" });
+
+    /*
+    disqusLoader.js v1.0
+    A JavaScript plugin for lazy-loading Disqus comments widget.
+    -
+    By Osvaldas Valutis, www.osvaldas.info
+    Available for use under the MIT License
+*/
+
+(function($, window, document, undefined) {
+    "use strict";
+
+    var $win = $(window),
+        throttle = function(a, b) {
+            var c, d;
+            return function() {
+                var e = this,
+                    f = arguments,
+                    g = +new Date();
+                c && g < c + a
+                    ? (clearTimeout(d),
+                      (d = setTimeout(function() {
+                            (c = g), b.apply(e, f);
+                      }, a)))
+                    : ((c = g), b.apply(e, f));
+            };
+        },
+        throttleTO = false,
+        laziness = false,
+        disqusConfig = false,
+        scriptUrl = false,
+        scriptStatus = "unloaded",
+        $instance = $(),
+        init = function() {
+            if (
+                !$instance.length ||
+                $instance.data("disqusLoaderStatus") == "loaded"
+            )
+                return true;
+
+            var winST = $win.scrollTop();
+
+            // if the element is too far below || too far above
+            if (
+                $instance.offset().top - winST > $win.height() * laziness ||
+                winST -
+                    $instance.offset().top -
+                    $instance.outerHeight() -
+                    $win.height() * laziness >
+                    0
+            )
+                return true;
+
+            $("#disqus_thread").removeAttr("id");
+            $instance
+                .attr("id", "disqus_thread")
+                .data("disqusLoaderStatus", "loaded");
+
+            if (scriptStatus == "loaded") {
+                DISQUS.reset({ reload: true, config: disqusConfig });
+            } // unloaded | loading
+            else {
+                window.disqus_config = disqusConfig;
+                if (scriptStatus == "unloaded") {
+                    scriptStatus = "loading";
+                    $.ajax({
+                        url: scriptUrl,
+                        async: true,
+                        cache: true,
+                        dataType: "script",
+                        success: function() {
+                            scriptStatus = "loaded";
+                        }
+                    });
+                }
+            }
+        };
+
+    $win.on("scroll resize", throttle(throttleTO, init));
+
+    $.disqusLoader = function(element, options) {
+        options = $.extend(
+            {},
+            {
+                laziness: 1,
+                throttle: 250,
+                scriptUrl: false,
+                disqusConfig: false
+            },
+            options
+        );
+
+        laziness = options.laziness + 1;
+        throttleTO = options.throttle;
+        disqusConfig = options.disqusConfig;
+        scriptUrl = scriptUrl === false ? options.scriptUrl : scriptUrl; // set it only once
+        $instance = (typeof element == "string" ? $(element) : element).eq(0);
+
+        $instance.data("disqusLoaderStatus", "unloaded");
+
+        init();
+    };
+})(jQuery, window, document);
+
+</script>
+
+<section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = "judsonlmoore";
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement("script");
+            dsq.type = "text/javascript";
+            dsq.async = true;
+            dsq.src =
+                window.location.protocol +
+                "//" +
+                disqus_shortname +
+                ".disqus.com/embed.js";
+            (
+                document.getElementsByTagName("head")[0] ||
+                document.getElementsByTagName("body")[0]
+            ).appendChild(dsq);
+        })();
+    </script>
+    <noscript
+        >Please enable JavaScript to view the
+        <a href="http://disqus.com/?ref_noscript"
+            >comments powered by Disqus.</a
+        ></noscript
+    >
+    <a href="http://disqus.com" class="dsq-brlink"
+        >comments powered by <span class="logo-disqus">Disqus</span></a
+    >
+</section>
+
+                    </div>
+                </div>
+                
+                <!--End Comments -->
             </div>
 
             <!-- Author Box -->
@@ -390,7 +539,6 @@
                 </div>
             </div>
             
-
 
             <!-- Related Posts -->
             <div class="p-3 p-sm-5 mt-5 text-dark bg-white shadow-sm">
@@ -677,7 +825,6 @@
             </div>
             <!-- End Prev/Next -->
 
-
         </div>
 
         <!-- Begin Sidebar -->
@@ -774,7 +921,7 @@
 	</div>
 
 	<div class="card bg-dark text-white">
-	<img src="http://localhost:4000/assets/images/2019/05/exponential-happiness-background.jpg" class="img-fluid" loading="lazy" alt="" description=""  width="1000" height="1385" crossorigin="anonymous" />
+	<img src="http://localhost:4000/assets/images/2019/05/exponential-happiness-background.jpg" class="card-img img-fluid" loading="lazy" alt="" description=""  width="1000" height="1385" crossorigin="anonymous" />
 	<div class="card-img-overlay" style="background: linear-gradient(0deg,rgba(0, 0, 0, 0.7),rgba(2, 2, 2, 0.3))">
 		<h5 class="card-title">Are you happy?</h5>
 		<p class="card-text">Are you a young person curious about how to make it in this world? Are you the parent, teacher, or mentor to someone in need of guidance? If yes, then this book is for you.</p>
@@ -785,158 +932,6 @@
 
 </div>
         <!-- End Sidebar -->
-
-        <!-- Begin Comments -->
-        
-        <div class="container">
-            <div id="comments" class="row justify-content-center mb-5">
-                <div class="col-md-8">
-                    <div class="disqus"></div>
-<script type="text/javascript">
-    $.disqusLoader(".disqus", { scriptUrl: "//username.disqus.com/embed.js" });
-
-    /*
-    disqusLoader.js v1.0
-    A JavaScript plugin for lazy-loading Disqus comments widget.
-    -
-    By Osvaldas Valutis, www.osvaldas.info
-    Available for use under the MIT License
-*/
-
-(function($, window, document, undefined) {
-    "use strict";
-
-    var $win = $(window),
-        throttle = function(a, b) {
-            var c, d;
-            return function() {
-                var e = this,
-                    f = arguments,
-                    g = +new Date();
-                c && g < c + a
-                    ? (clearTimeout(d),
-                      (d = setTimeout(function() {
-                            (c = g), b.apply(e, f);
-                      }, a)))
-                    : ((c = g), b.apply(e, f));
-            };
-        },
-        throttleTO = false,
-        laziness = false,
-        disqusConfig = false,
-        scriptUrl = false,
-        scriptStatus = "unloaded",
-        $instance = $(),
-        init = function() {
-            if (
-                !$instance.length ||
-                $instance.data("disqusLoaderStatus") == "loaded"
-            )
-                return true;
-
-            var winST = $win.scrollTop();
-
-            // if the element is too far below || too far above
-            if (
-                $instance.offset().top - winST > $win.height() * laziness ||
-                winST -
-                    $instance.offset().top -
-                    $instance.outerHeight() -
-                    $win.height() * laziness >
-                    0
-            )
-                return true;
-
-            $("#disqus_thread").removeAttr("id");
-            $instance
-                .attr("id", "disqus_thread")
-                .data("disqusLoaderStatus", "loaded");
-
-            if (scriptStatus == "loaded") {
-                DISQUS.reset({ reload: true, config: disqusConfig });
-            } // unloaded | loading
-            else {
-                window.disqus_config = disqusConfig;
-                if (scriptStatus == "unloaded") {
-                    scriptStatus = "loading";
-                    $.ajax({
-                        url: scriptUrl,
-                        async: true,
-                        cache: true,
-                        dataType: "script",
-                        success: function() {
-                            scriptStatus = "loaded";
-                        }
-                    });
-                }
-            }
-        };
-
-    $win.on("scroll resize", throttle(throttleTO, init));
-
-    $.disqusLoader = function(element, options) {
-        options = $.extend(
-            {},
-            {
-                laziness: 1,
-                throttle: 250,
-                scriptUrl: false,
-                disqusConfig: false
-            },
-            options
-        );
-
-        laziness = options.laziness + 1;
-        throttleTO = options.throttle;
-        disqusConfig = options.disqusConfig;
-        scriptUrl = scriptUrl === false ? options.scriptUrl : scriptUrl; // set it only once
-        $instance = (typeof element == "string" ? $(element) : element).eq(0);
-
-        $instance.data("disqusLoaderStatus", "unloaded");
-
-        init();
-    };
-})(jQuery, window, document);
-
-</script>
-
-<section class="disqus">
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        var disqus_shortname = "judsonlmoore";
-        var disqus_developer = 0;
-        (function() {
-            var dsq = document.createElement("script");
-            dsq.type = "text/javascript";
-            dsq.async = true;
-            dsq.src =
-                window.location.protocol +
-                "//" +
-                disqus_shortname +
-                ".disqus.com/embed.js";
-            (
-                document.getElementsByTagName("head")[0] ||
-                document.getElementsByTagName("body")[0]
-            ).appendChild(dsq);
-        })();
-    </script>
-    <noscript
-        >Please enable JavaScript to view the
-        <a href="http://disqus.com/?ref_noscript"
-            >comments powered by Disqus.</a
-        ></noscript
-    >
-    <a href="http://disqus.com" class="dsq-brlink"
-        >comments powered by <span class="logo-disqus">Disqus</span></a
-    >
-</section>
-
-                </div>
-            </div>
-        </div>
-        
-        <!--End Comments -->
-
 
     </div> <!-- row -->
 

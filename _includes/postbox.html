@@ -1,6 +1,6 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="card shadow-sm mb-5 mb-lg-0">
+<div class="card">
     {% if post.image %}
     {% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
     {% endif %}

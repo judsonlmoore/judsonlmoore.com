@@ -71,6 +71,16 @@ post_class: post-template
                 {% endif %}
                 <!-- End Toc -->
                 {{content}}
+
+                <!-- Begin Comments -->
+                {% if page.comments != false %}
+                <div id="comments" class="row justify-content-center mb-5">
+                    <div class="col-md-8">
+                        {% include disqus.html %}
+                    </div>
+                </div>
+                {% endif %}
+                <!--End Comments -->
             </div>
 
             <!-- Author Box -->
@@ -91,7 +101,6 @@ post_class: post-template
                 </div>
             </div>
             {% endif %}
-
 
             <!-- Related Posts -->
             {% include related-posts.html %}
@@ -115,25 +124,11 @@ post_class: post-template
             </div>
             <!-- End Prev/Next -->
 
-
         </div>
 
         <!-- Begin Sidebar -->
         {% include sidebar.html %}
         <!-- End Sidebar -->
-
-        <!-- Begin Comments -->
-        {% if page.comments != false %}
-        <div class="container">
-            <div id="comments" class="row justify-content-center mb-5">
-                <div class="col-md-8">
-                    {% include disqus.html %}
-                </div>
-            </div>
-        </div>
-        {% endif %}
-        <!--End Comments -->
-
 
     </div> <!-- row -->
 
