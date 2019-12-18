@@ -144,6 +144,15 @@ exclude:
   - vendor/ruby/
   - node_modules
 
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: true
+  blanklines: false
+  ignore:
+    envs: []
+
 cloudinary:
   cloud_name: judsonlmoore-com
   only_prod: true
