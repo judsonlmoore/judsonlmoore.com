@@ -178,7 +178,7 @@ cloudinary:
         min_width: 315
         min_hight: 210
         max_width: 760
-        max_height: 500
+        max_height: 450
     author-thumb: 
       steps: 2
       attributes: 
