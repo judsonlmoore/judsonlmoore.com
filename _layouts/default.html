@@ -30,7 +30,11 @@
     </script>
     {% endif %}
 
-    {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+    {% capture layout %}
+    {% if page.layout %}layout-{{ page.layout }}
+    {% endif %}
+    {% endcapture %}
+
     <body class="{{layout}}">
         <!-- defer loading of font and font awesome -->
         <noscript id="deferred-styles">
