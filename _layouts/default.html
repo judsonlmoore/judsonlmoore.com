@@ -7,6 +7,18 @@ layout: compress
 <html lang="en">
     <head>
 
+        {% if jekyll.environment == 'production' %}
+        <!-- Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12358141-4"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-12358141-4');
+        </script>
+        {% endif %}
+
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -22,18 +34,6 @@ layout: compress
         <script src="https://kit.fontawesome.com/d4658f2d4a.js" crossorigin="anonymous" integrity="sha384-TDhFdBCp6zkFoOxFg2XaOsN4rWmrP4Tbzzaz0VKFgnk4mENBCgpW6mG7kamM0Yvy"></script>
 
     </head>
-
-    {% if jekyll.environment == 'production' %}
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12358141-4"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-12358141-4');
-    </script>
-    {% endif %}
 
     {% capture layout %}
     {% if page.layout %}layout-{{ page.layout }}
@@ -66,19 +66,14 @@ layout: compress
         {% include footer.html %}
         <!-- End Footer -->
 
-        <!-- Scripts -->
+        <!-- Boostrap JS -->
+        <script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.baseurl}}"></script>
 
         <!-- JQuery -->
         <script src="{{'/assets/vendor/jquery.min.js' | prepend: site.baseurl}}"></script>
 
         <!-- Lightbox -->
         <script src="{{ site.baseurl }}/assets/js/lightbox.min.js"></script>
-
-        <!-- Popper JS -->
-        <script src="{{'/assets/vendor/popper.min.js' | prepend: site.baseurl}}"></script>
-
-        <!-- Boostrap JS -->
-        <script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.baseurl}}"></script>
 
         <!-- IE 10 Fix -->
         <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
