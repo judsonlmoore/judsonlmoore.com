@@ -2,7 +2,7 @@
 title: Judson L Moore
 name: Judson L Moore
 description: Author and travel addict
-url: "https://www.judsonlmoore.com"
+# url: "https://www.judsonlmoore.com"
 image-path: /assets/images/
 author: judsonlmoore
 twitter:
@@ -143,6 +143,15 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - node_modules
+
+compress_html:  
+  clippings: all  
+  comments: ["<!-- ", " -->"] 
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th] 
+  profile: true 
+  blanklines: false 
+  ignore: 
+    envs: []  
 
 cloudinary:
   cloud_name: judsonlmoore-com
