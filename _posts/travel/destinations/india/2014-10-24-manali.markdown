@@ -25,4 +25,4 @@ Our time here was short, but the memories of the majestic views will stay with m
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-10-24-manali"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

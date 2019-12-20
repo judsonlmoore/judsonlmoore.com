@@ -40,7 +40,7 @@ At the end of the day, we drove across the river to get a backside view of the T
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-10-27-agra"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Agra Fort
 
@@ -50,6 +50,6 @@ The Agra Fort is very nice and has some similar design features and colors as we
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 Have You been to Agra? Are you planning a trip? Please let us know by leaving a comment bellow or by writing me directly at @judsonlmoore!

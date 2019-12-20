@@ -14,4 +14,4 @@ I joined a group from the [Trekking Union of Kyrgyzstan](https://www.facebook.c
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-03-30-hiking-konorchek-canyon"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

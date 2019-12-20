@@ -40,7 +40,7 @@ Here is a photo gallery of my surgical prep experience. I was not able to take p
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-04-18-appendectomy-in-bishkek"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 I was led to the surgical area but the PCMO was not allowed to enter the surgery room. After coming inside, the surgeons starting to ask me all these really important questions like if I had any allergies to medicine. if I had allergies to any of these _specific_ medicines, what is my weight and height (I don't even know in metric!) and on and on. These were things that I believe they needed to know but to which I had no answers. This begins the terrifying period of my being truly alone in this hospital. Here I am about to undergo what is already a scary event in one's life, and I am all alone, counting on my foreign language skills and in a room that Western horror movies would love to gain access to for any climatic scene.
 
@@ -138,7 +138,7 @@ I went back to my room but after a bit I got up the courage to try the stairs ag
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 **Day 5**
 
@@ -152,7 +152,7 @@ They also came because they needed to get my apartment keys. We were to receive 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 **Day 6**
 
@@ -164,7 +164,7 @@ The rest of the day was spent just meandering the halls of the hospital. I took 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 **Day 7**
 

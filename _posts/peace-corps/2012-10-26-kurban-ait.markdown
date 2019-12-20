@@ -14,6 +14,6 @@ This morning Bishkek Muslims began the Kurban Ait celebration by gathering in th
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-10-26-kurban-ait"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 More about Kurban Ait on [Wikipedia](http://en.wikipedia.org/wiki/Kurban_Ait).

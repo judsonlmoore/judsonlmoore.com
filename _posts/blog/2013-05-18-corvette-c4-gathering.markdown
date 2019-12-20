@@ -21,7 +21,7 @@ Daniel has been collecting and restoring C4 Corvettes since high school, and bas
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-05-18-corvette-c4-gathering"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The National Corvette Museum Tour
 
@@ -29,7 +29,7 @@ The C4 Gathering lasted for four days and was full of information sessions about
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 Here is your Judson trivia factoid for the day: I grew up in Kentucky, not Louisiana. Did you already know that? If so, then you are either *really* paying attention, or you have known me for a very long time. I've not been back to Kentucky since 1999, and so while I was this close to my childhood home, my childhood best friend, Kevin, surprised me with a visit to Bowling Green! What a great trip!
 

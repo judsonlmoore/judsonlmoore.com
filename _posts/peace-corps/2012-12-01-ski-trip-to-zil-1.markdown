@@ -20,4 +20,4 @@ On today's ski trip I was unfortunately too excited to actually take any photo
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-12-01-ski-trip-to-zil-1"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

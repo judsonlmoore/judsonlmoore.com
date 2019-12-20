@@ -62,7 +62,7 @@ Download the entire Weingut Pfirmann 2016 wine list [here (PDF)" file="../asse
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2016-09-08-german-wine-country"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Walk Back To Town
 

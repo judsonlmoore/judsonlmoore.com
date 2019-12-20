@@ -14,4 +14,4 @@ My friend Linda has a friend named Almanbet who invited her to the mountains for
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-08-19-almanbets-birthday-cookout"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

@@ -14,4 +14,4 @@ I took a long bike ride and found this great stretch of graffiti art on a long c
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-10-08-bishkek-graffiti"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

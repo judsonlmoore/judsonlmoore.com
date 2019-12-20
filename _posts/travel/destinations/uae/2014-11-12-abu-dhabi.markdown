@@ -33,4 +33,4 @@ Please forgive my appearance in these photos; I'd been on a plane for over 24-ho
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-11-12-abu-dhabi"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

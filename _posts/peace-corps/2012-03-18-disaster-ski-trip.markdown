@@ -20,4 +20,4 @@ Goodnight!
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-03-18-disaster-ski-trip"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

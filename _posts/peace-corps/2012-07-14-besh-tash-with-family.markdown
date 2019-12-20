@@ -16,4 +16,4 @@ Check out how cute my little sister is!
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-07-14-besh-tash-with-family"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

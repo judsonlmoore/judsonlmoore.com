@@ -14,4 +14,4 @@ The Osh Bazaar in Bishkek is one of the most important shopping places in Kyrgyz
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["peace-corps/2012-06-24-osh-bazaar"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

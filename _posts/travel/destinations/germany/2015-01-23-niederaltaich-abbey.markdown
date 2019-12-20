@@ -23,7 +23,7 @@ Known for its frescos and Baroque design, the church is a treasure of Bavaria. 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2015-01-23-niederaltaich-abbey"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## Photos From Above the Abbey
 
@@ -31,6 +31,6 @@ This was a real treat! I was allowed to ascend one of the church steeples to the
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 Have you been to the Niederaltaich Abbey? Planning a trip to the region? Do you have other amazing stories to share about European churches or architecture? Please leave a comment below or get in touch with me at [@JudsonLMoore](http://twitter.com/judsonlmoore)!

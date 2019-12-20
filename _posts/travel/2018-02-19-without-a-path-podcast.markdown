@@ -44,7 +44,9 @@ I talked about a lot in this episode of the Without a Path Podcast. Here are som
 
 During the interview, I mentioned a sacrificial sheep slaughter which temporarily converted me into a vegetarian. Joe thought it wise to include some of the audio in the Podcast episode, **which has stirred a lot of questions** about what the event looked like. Look no further, here is the full event for those of you whose curiosity is stronger than your stomachs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4f3QsvHVv20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4f3QsvHVv20" allowfullscreen></iframe>
+</div>
 
 ## My favorite Without a Path Podcast Episodes
 

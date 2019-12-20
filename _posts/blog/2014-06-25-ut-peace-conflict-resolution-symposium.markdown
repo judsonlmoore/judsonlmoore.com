@@ -13,6 +13,6 @@ Today I gave an hour-long presentation at the [University of Texas to a Peace, 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-06-25-ut-peace-conflict-resolution-symposium"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 Here is the video from the presentation.

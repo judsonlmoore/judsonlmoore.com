@@ -2,7 +2,12 @@
 title:			Mars on Earth - The Wadi Rum Desert in Jordan
 date:			2018-08-27T10:00:17.000+00:00 Z
 categories:		jordan
-tags:			camel, desert, safari, tours, travel guide
+tags:
+  - camel
+  - desert
+  - safari
+  - tours
+  - travel guide
 destination:	Wadi Rum Desert
 author:			judsonlmoore
 layout:			post

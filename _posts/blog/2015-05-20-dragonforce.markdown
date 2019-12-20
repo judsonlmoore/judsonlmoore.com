@@ -31,4 +31,4 @@ Here are a few photos from around the DragonForce show in Austin Texas.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2015-05-20-dragonforce"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

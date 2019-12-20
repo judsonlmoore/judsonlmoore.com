@@ -34,7 +34,7 @@ As the sun rose, the area around us came alive. There was a family of boar rumma
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-09-29-hampi"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Tungabhadra Dam and a Hindu Fest
 
@@ -46,7 +46,7 @@ Just in case you've missed the subtile hints: the food is awesome.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Historical Ruins of Hampi
 
@@ -58,16 +58,16 @@ If we had not negotiated his price, then we would have either paid INR1000 for 6
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 Most of the original buildings of Hampi were destroyed by the invasion of three Muslim kings in 1565, but there are a few buildings with Islamic architectural details which they left standing. Additionally, there are a few buildings they left for their own use, like the elephant stables. Very few buildings that were destroyed have been reconstructed, but as you will see from these photos, those which remain are truly beautiful.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 The central point of Hampi is marked by the very large Virupaksha Temple. The panoramic view of this temple from atop a nearby hill is breathtaking. This single structure and the view from this vantage point is the most interesting thing I saw in all of India.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

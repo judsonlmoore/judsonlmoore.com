@@ -12,4 +12,4 @@ image:
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-09-17-kg-street-festival"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

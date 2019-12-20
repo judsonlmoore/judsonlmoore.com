@@ -54,7 +54,7 @@ And so we set up the Roland drums for soundcheck. When all was set, I got behind
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2018-08-21-trivagovibe-summer-2018"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 I didn't get much video of the other bands, but be sure to check out this awesome video of [Josito & the Kids performing Daft Punk's *Get Lucky*](https://www.instagram.com/p/Bmu6MBIFzS_/). **These guys are amazing!**
 

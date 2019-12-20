@@ -18,7 +18,7 @@ Naziia accompanied me on this trip and it was an amazing honeymoon of sorts. She
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-05-05-weekend-in-istanbul"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 The 6-hour flight was perfectly manageable under normal circumstances, but we departed in the middle of the night and I didn't travel well having to sit for so long with my healing body. We landed, got through customs and hailed a cab to Naziia's friend's house.
 
@@ -28,7 +28,7 @@ We decided to head toward the city center to check out the infamous architectur
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 Once I dug myself out of the shame I instantly felt for succumbing to the corporate coffee, I needed to see something real, and really old. Luckily, we were right around the corner from the Grand Bazaar.
 
@@ -40,7 +40,7 @@ Gold is prominent as a fashion material, like many parts of the world, but its r
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Hagia Sophia
 
@@ -50,7 +50,7 @@ Though the Hagia Sophia's architecture feels like a mosque, it was originally bu
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Blue Mosque
 
@@ -60,7 +60,7 @@ I arrived at the Blue Mosque first thing in the morning and still had an hour or
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 Upon exiting the Blue Mosque, we ran into a film shoot for a Bollywood film. We stayed and watched for a few minutes before carrying on.
 
@@ -78,7 +78,7 @@ Topkapı Palace was the seat of the once great Ottoman Empire for over 400 yea
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## Mısır Çarşısı (Egyptian Bazaar)
 
@@ -88,7 +88,7 @@ Also known as the Spice Bazaar, the Mısır Çarşısı (Egyptian Bazaar) is qui
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## Walls of Constantinople
 
@@ -96,12 +96,12 @@ Much like the Great Wall of China, the Walls of Constantinople are not a single 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 For anything else we did not have time (nor I the health) to see in Turkey, we let Miniaturk fill in the gaps. This small amusement park of miniaturized models of famous Turkish destinations is like a putt-putt golf course, but without the golf part. It is very well put together, but I sure would have preferred to see all these sites in real life. Of course, now I have a good impression of what else I can see in Turkey next time, and that actually makes this a pretty brilliant marketing outlet.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 Did I miss something? What is your favorite thing from Istanbul? Please write me a comment below, or reach me [@JudsonLMoore](http://twitter.com/judsonlmoore)!

@@ -16,7 +16,7 @@ My friend Alina (the Kyrgyz girl in these photos) invited me a long to go on a s
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-08-11-lake-issyk-kul-summer-2012"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 **Friends**
 
@@ -24,7 +24,7 @@ Here are some photos of some of my friends hanging out in Cholpon-Ata, the large
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 **Horse Games**
 
@@ -32,7 +32,7 @@ Here are photos of the national horse games of Kyrgyzstan, called Kökbörü ([
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 **PCVs**
 
@@ -40,4 +40,4 @@ I got to spend some time with other volunteers.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

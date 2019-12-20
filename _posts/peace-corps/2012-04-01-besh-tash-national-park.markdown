@@ -14,4 +14,4 @@ In preparation for the 2012 Talas GLOW/TOBE Camp I needed to make a site visit
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-04-01-besh-tash-national-park"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

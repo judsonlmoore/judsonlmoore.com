@@ -19,7 +19,7 @@ The original location is just outside of town. If you get a chance, go to the o
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-11-10-andres-carne-de-res"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 \*this is an excerpt from [a longer article]({{ site.baseurl }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).
 

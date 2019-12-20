@@ -25,4 +25,4 @@ I didn't get so many photos, despite all the amazing structures. The sun seemed 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-11-13-dubai"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

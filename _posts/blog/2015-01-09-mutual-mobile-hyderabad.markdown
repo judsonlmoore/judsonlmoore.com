@@ -29,7 +29,7 @@ Upon seeing the new space for the first time, I knew I was up against a new kind
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2015-01-09-mutual-mobile-hyderabad"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## Establishing The Vision
 
@@ -47,7 +47,7 @@ Here is a quick look at the final materials and colors that we chose for each el
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Foundations Get Set
 
@@ -57,7 +57,7 @@ As with most projects, the vast majority of the time was spent laying foundation
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## And Then Came The Floods
 
@@ -65,13 +65,13 @@ With just a few weeks until the grand opening, disaster struck! The floor above 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 In the last two weeks, the finishing touches came together almost overnight, transforming the construction zone into a believable office; all it needed was furniture.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Greatest Challenge
 
@@ -83,7 +83,7 @@ The most difficult and project-threatening of these procurements was for our int
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Finished Mutual Mobile Office
 
@@ -91,7 +91,7 @@ The finished product is an inspiring, modern creative facility which will have a
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Grand Opening Celebrations
 
@@ -99,7 +99,7 @@ Of course this is good and all, but what's the point of a new facility if you do
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 In celebration of the new facility launch, I commissioned a video to be made which shows off the space and captures some colleague's first impressions of the office. My hats off to [Ankit Bakshi of Laputa Media](http://laputamedia.com) for producing these awesome videos. Ankit came in just one week before the shoot and after a brief walk through looking at the space and hearing what my goals for the video were, he walked away and wrote a script and video flow overnight. What was most impressive, is that when I offered up an opinion or suggestion, he spoke up and shot me down if he felt that it would take us off-message. Rarely (if ever) in India did I come across someone who had the backbone to say "no" when it needed to be said. And for that, I would work with Ankit again in a heartbeat.
 

@@ -22,4 +22,4 @@ Today was a great day!
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-09-13-charminar"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

@@ -22,7 +22,7 @@ Once inside the Amber Fort, we were overwhelmed by the architecture and detail w
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-12-13-jaipur"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 ## The Jal Mahal
 
@@ -40,4 +40,4 @@ One art piece that I thought was striking was a number of rifles and spears that
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

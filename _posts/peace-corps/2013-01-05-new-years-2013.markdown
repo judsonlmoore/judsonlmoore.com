@@ -12,7 +12,7 @@ image:			2013/01/2013-01-01_bishkek-newyear_featured.jpeg
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2013-01-05-new-years-2013"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 _Photo Credit: Kloop.kg ([source](http://kloop.kg/blog/kloop_galleries/fejerverki-nad-bishkekom/))_
 

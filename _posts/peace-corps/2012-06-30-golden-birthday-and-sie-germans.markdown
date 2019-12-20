@@ -16,7 +16,7 @@ image:			2012/06/GoldenBirthday_featured.jpg
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-06-30-golden-birthday-and-sie-germans"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
 
 **Hiking in Besh Tash and Manas Ordo**
 
@@ -24,4 +24,4 @@ Sie German Frauen came down for my birthday weekend and somehow got me out hikin
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

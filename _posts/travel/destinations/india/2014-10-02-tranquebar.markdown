@@ -33,4 +33,4 @@ The town, especially the coastline, is very photogenic. The weather was perfect 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-10-02-tranquebar"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

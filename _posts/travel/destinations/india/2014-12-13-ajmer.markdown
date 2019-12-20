@@ -26,4 +26,4 @@ Have you been to Ajmer? Planing a trip there? Please leave me a comment below, o
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-12-13-ajmer"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

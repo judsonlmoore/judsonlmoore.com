@@ -27,4 +27,4 @@ After spending sunrise on the coast, we wandered around the historic district of
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-10-02-pondicherry"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}

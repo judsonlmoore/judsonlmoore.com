@@ -14,4 +14,4 @@ Happy Birthday America! Here are a few photos of the festivities at the American
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-07-04-2012-4th-of-july-bishkek-embassy-party"] %}
-{% include gallery-fluid.html images=images %}
+{% include gallery-lightbox.html images=images %}
