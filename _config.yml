@@ -2,7 +2,7 @@
 title: Judson L Moore
 name: Judson L Moore
 description: Author and travel addict
-url: "https://nonprod.judsonlmoore.com"
+url: "https://www.judsonlmoore.com"
 image-path: /assets/images/
 author: judsonlmoore
 twitter:
@@ -148,7 +148,7 @@ compress_html:
   clippings: all  
   comments: ["<!-- ", " -->"] 
   endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th] 
-  profile: true 
+  profile: false 
   blanklines: false 
   ignore: 
     envs: []  
