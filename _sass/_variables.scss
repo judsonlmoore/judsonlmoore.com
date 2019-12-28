@@ -1,9 +1,15 @@
-$text:			rgba(0,0,0,.5);
-$white:  		#fff;
-$red:     		#dc3545;
-$light-blue:	#ecf0f5;
-$body-bg: 		$light-blue;
-$body-color: 	$text;
+$white:				#fff;
+$red:				#dc3545;
+$light:				#f8f9fa;
+$dark:				#343a40;
+$body-bg:			$light;
+$body-color:		$dark;
 
-/* custom vars */
-$custom-font-size: 20px;
+/* Custom Vars */
+$custom-font-size:	21px;
+
+$breakpoint-xs: 0;
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1380px;

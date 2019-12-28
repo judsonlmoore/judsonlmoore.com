@@ -2,7 +2,7 @@
 {% assign author = site.authors[post.author] %}
 <div class="card">
     {% if post.image %}
-    {% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+    {% cloudinary default {{ site.baseurl }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
     {% endif %}
     <div class="card-body">
         <h5 class="card-title">{{ post.title }}</h5>

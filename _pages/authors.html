@@ -1,54 +1,16 @@
 ---
+layout: default
 title: Authors
-permalink: "/authors/"
-layout: page
-comments: false
-
+permalink: /authors/
 ---
+<h1>Staff</h1>
 
-<h1>Authors</h1>
-
-<p>Judson L Moore is the primary author of this blog, but from time to time a story, inspiration, or opportunity comes along for other authors to contribute their voice as well. Here is a list of all authors which have contributed to this blog.</p>
-
-<p>Click here to learn about being a guest author</p>
-
-<div class="container">
-  <div class="row text-center">
-
-
-{% assign authors = site.authors %} 
-{% for item in authors %} 
-
+<ul>
+  {% for author in site.authors %}
     <li>
-      <h2>{{ item.name }}</h2>
+      <h2>{{ author.name }}</h2>
       <h3>{{ author.position }}</h3>
       <p>{{ author.content | markdownify }}</p>
     </li>
-
-
-{% endfor %}
-
-
-
-
-
-    {% assign author = site.authors %}
-    {% for items in site.authors %}
-
-    <!-- Team item -->
-    <div class="col-xl-3 col-sm-6 mb-5">
-        <div class="bg-white rounded shadow-sm py-5 px-4"><img src="{{ author.avatar }}" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-            <h5 class="mb-0">{{ author.display_name }}</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
-            <ul class="social mb-0 list-inline mt-3">
-                <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
-            </ul>
-        </div>
-    </div><!-- End -->
-
-    {% endfor %}
-
-  </div>
-</div>
+  {% endfor %}
+</ul>

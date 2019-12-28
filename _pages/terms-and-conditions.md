@@ -3,6 +3,7 @@ title: Terms and Conditions
 permalink: "/terms-and-conditions/"
 layout: page
 comments: false
+
 ---
 
 <h1>{{ page.title }}</h1>

@@ -5,6 +5,7 @@ permalink: "/whileyoung/"
 layout: fullwidth-hero
 category: whileyoung
 image: 2015/10/ouro-preto.jpg
+
 ---
 
 ## H2
