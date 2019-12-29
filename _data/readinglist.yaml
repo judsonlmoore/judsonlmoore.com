@@ -1,20 +1,80 @@
-- book: 
-  title: title 
-  author: author
-  genre: 4
-  url: /
-  description: description
 
-- book: 
-  title: title 
-  author: author
-  genre: 2
-  url: /
-  description: description
+- title: The Miracle Morning
+  author: Hal Elrod
+  genre: Success self-help
+  url: https://amzn.to/2ZA4P7N
+  description: 
+  review: Really thought-provoking ideas for how to optimize your time and take advantage of your mornings to set yourself up for success. As a very much non-morning person, I found myself hitting the alarm less simply because this book inspired me to WANT to make better use of that time. It's been a life changer!
+  image: 
 
-- book: 
-  title: title 
-  author: author
-  genre: 5
-  url: /
-  description: description
+- title: How to Talk to Anyone
+  author: Leil Lowndes
+  genre: Communication skills
+  url: https://amzn.to/37kMWfO
+  description: 
+  review: Really nice advice for how to approach the art of dialogue, something which many have never learned, or forgotten, in the modern-age of the iPod.
+  image: 
+
+- title: TED Talks
+  author: Chris Anderson
+  genre: Public speaking reference
+  url: https://amzn.to/2F5ueNc
+  description: 
+  review: Very interesting to learn about the background of TED and what characteristics make for a good speech. Will work to incorporate these guidelines into my own presentations from now on.
+  image: 
+
+- title: The Millionaire Next Door
+  author: Thomas J. Stanley and William D. Danko
+  genre: Wealth management
+  url: https://amzn.to/2Q7aPSo
+  description: 
+  review: A fascinating study in to a topic many don't get nearly enough education about - money and personal finance. The insights shared here about how millionaires treat money is life-changing advice every person should learn at a young age.
+  image: 
+
+- title: Deep Work
+  author: Cal Newport
+  genre: Time management
+  url: https://amzn.to/369eF2C
+  description: 
+  review: Fantastic advice for how to find passion in your work. Never settle for less.
+  image: 
+
+- title: Inspired - How to Create Products Customers Love
+  author: Marty Cagan
+  genre: Product management 
+  url: https://amzn.to/37dPmg2
+  description: 
+  review: A must-have for any product management professional. A great read for anyone working in software. Applicable for anyone in any industry looking for a new way of thinking and approaching problems. This book showed me the path to become a product manager, a career that I have been passionate about for years now.
+  image: 
+
+- title: The Art of Thinking Clearly
+  author: Rolf Dobelli
+  genre: Neuropsychology
+  url: https://amzn.to/39r42uq
+  description: 
+  review: The short, bite-sized stories, make it really easy to pick this book up and put it down between other activities. The stories are worth taking your time to reflect on, so I really enjoyed starting my day by reading a chapter and then pondering on the lessons while I got ready for work. Great read and gets you thinking.
+  image: 
+
+- title: You Must Write a Book - Boost Your Brand, Get More Business, and Become the Go-To Expert
+  author: Honorée Corder
+  genre: Business writing skills
+  url: https://amzn.to/367scYJ
+  description: 
+  review: 
+  image: 
+
+- title: The Subtle Art of Not Giving a F*ck
+  author: Mark Manson
+  genre: Happiness and self-help
+  url: https://amzn.to/2ZyWRLR
+  description: 
+  review: 
+  image: 
+
+- title: Sense and Respond
+  author: Jeff Gothelf and Josh Seiden
+  genre: Strategic business planning
+  url: https://amzn.to/2syQOuT
+  description: 
+  review: 
+  image: 

@@ -38,7 +38,7 @@ Keeping that in mind, there are **three reasons why a company might be allowed t
 
 1. You work in a field which is in **high demand** and there is a shortage of qualified local applicants (many STEM (Science, Technology, Engineering, and Mathematics) jobs are in this category);
 
-2) You are truly an **expert in your field** and bring a level of thought leadership in the industry to the company which can not be found in the country (maybe you wrote a book or gave a TED Talk with millions of views on the topic of the role to which you are applying);
+2. You are truly an **expert in your field** and bring a level of thought leadership in the industry to the company which can not be found in the country (maybe you wrote a book or gave a TED Talk with millions of views on the topic of the role to which you are applying);
 
 3. You have **native-level fluency in your native language** and, as a native of your country, **you understand the culture**, business, and people to a degree which a non-native person simply can not.
 
@@ -63,19 +63,12 @@ Now consider the large German-based companies which do business in America (thin
 You may or may not find that the career path you are currently on or would like to be on, falls inside of the permitters of what you are likely to get a visa for. Just the same, there are ways to leverage your experience, whatever it is, to land you a *first* job abroad. Since we are talking about companies with international reach, they are going to have a number of departments which require the market knowledge and language skills which **only a native can deliver on**. Here are a few examples:
 
 - Sales
-
 - Marketing
-
 - Media Buying
-
 - Content Marketing
-
 - Business Development
-
 - UX and other Copywriting
-
 - SOX Compliance (for publicly traded companies)
-
 - Legal and paralegal work, including proofreading of legal documents
 
 If none of that sounds like a longterm passion for you, ask yourself, "would an international experience in one of these fields serve me well later in my career for what I really want to do?" If so, then why not give it a try? Not only might you find your way into that coveted visa, but you also will gain valuable experience while getting your foot in the door. **This is just the beginning.**

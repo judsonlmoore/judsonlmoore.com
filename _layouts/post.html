@@ -10,7 +10,7 @@ post_class: post-template
     <div class="row">
 
         <!-- Post -->
-        <div class="col-lg-8 px-3 px-sm-0">
+        <div class="col-lg-8 px-3 px-sm-0 mb-5">
             <div class="mainheading pt-1 pt-md-0">
 
                 <!-- Post Title -->
@@ -58,7 +58,7 @@ post_class: post-template
             {% endif %}
 
             <!-- Post Content -->
-            <div class="article-post bg-white p-3 p-sm-5 shadow-sm">
+            <div class="article-post bg-white p-3 p-sm-5 mb-5 shadow-sm">
                 <!-- Toc if any -->
                 {% if page.toc %}
                     {% if page.beforetoc %}
@@ -79,23 +79,9 @@ post_class: post-template
                 <!--End Comments -->
             </div>
 
-            <!-- Author Box -->
-            {% assign author = site.authors[page.author] %}
-            {% if page.author %}
-            <div class="p-3 p-sm-5 mt-5 text-dark bg-white shadow-sm">
-                <div class="row justify-content-center">
-                    <div class="col-5 col-md-3 mb-4 mb-md-0">
-                        {% if author.avatar %}
-                        {% cloudinary author-thumb {{ site.baseurl }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.display_name }}" %}
-                        {% endif %}
-                    </div>
-                    <div class="col-12 col-md-9 text-center text-md-left">
-                        <h2 class="h4">{{ author.display_name }}</h2>
-                        <p>{{ author.description }}</p>
-                        <p><a href="{{ author.twitter }}" class="btn btn-sm btn-primary" target="_blank" role="button">Follow on Twitter <i class="fab fa-twitter"></i></a></p>
-                    </div>
-                </div>
-            </div>
+            {% assign author = site.authors | where: 'short_name', page.author | first %}
+            {% if author %}
+            {% include author-box.html %}
             {% endif %}
 
             <!-- Related Posts -->
@@ -103,7 +89,7 @@ post_class: post-template
             <!-- /Related Posts -->
 
             <!-- Prev/Next -->
-            <div class="p-3 p-sm-5 mt-5 text-dark bg-white shadow-sm">
+            <div class="p-3 p-sm-5 mb-5 text-dark bg-white shadow-sm">
                 <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
                     <div class="col-md-6">
                         {% if page.previous.url %}

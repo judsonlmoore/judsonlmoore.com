@@ -1,0 +1,35 @@
+<!-- Author Box -->
+<div class="card mb-5 shadow-sm">
+	<div class="row p-5 justify-content-center">
+		<div class="col-md-3">
+			{% if author.avatar %}
+			{% cloudinary author-thumb {{ site.baseurl }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.name }}" %}
+			{% endif %}
+			{% if author.gravatar %}
+			<img class="card-img-top" src="https://www.gravatar.com/avatar/{{ author.gravatar }}" alt="Photo of {{ author.name }}" >
+			{% endif %}
+		</div>
+		<div class="col-md-9">
+		    <div class="card-body">
+			    <h5 class="card-title">{{ author.name }}</h5>
+			    <p class="card-text">{{ author.content | markdownify }}</p>
+			    {% if author.twitter %}
+				<a href="https://www.instagram.com/{{ author.twitter }}" class="btn btn-sm btn-primary" target="_blank" role="button"><i class="fab fa-instagram"></i></a>
+				{% endif %}
+				{% if author.facebook %}
+				<a href="https://www.facebook.com/{{ author.facebook }}" class="btn btn-sm btn-primary" target="_blank" role="button"><i class="fab fa-facebook"></i></a>
+				{% endif %}
+				{% if author.linkedin %}
+				<a href="https://www.linkedin.com/in/{{ author.linkedin }}" class="btn btn-sm btn-primary" target="_blank" role="button"><i class="fab fa-linkedin"></i></a>
+				{% endif %}
+				{% if author.youtube %}
+				<a href="https://www.youtube.com/user/{{ author.youtube }}" class="btn btn-sm btn-primary" target="_blank" role="button"><i class="fab fa-youtube"></i></a>
+				{% endif %}
+				{% if author.url %}
+				<a href="{{ author.url }}" class="btn btn-sm btn-primary" target="_blank" role="button"><i class="fas fa-link"></i></a>
+				{% endif %}
+			</div>
+	    </div>
+	</div>
+</div>
+<!-- End Author Box -->
