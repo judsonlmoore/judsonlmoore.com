@@ -35,6 +35,7 @@
 				<div class="card-body">
 			        <h5 class="card-title">{{ post.title }}</h5>
 			        <p class="card-text"><small class="text-muted">{{ post.date | date_to_string }}</small></p>
+			        <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 80 }}</p>
 			        <a href="{{ site.baseurl }}{{ post.url }}" class="stretched-link"></a>
 		      </div>
 			</div>
