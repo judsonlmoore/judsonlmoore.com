@@ -12,7 +12,7 @@
     var feed = new Instafeed({
         get: 'user',
         userId: '{{ include.userId }}',
-        limit: '{{ include.limit }}',
+        limit: '5',
         sortBy: 'most-recent',
         resolution: 'standard_resolution',
         accessToken: '{{ include.accessToken }}',
