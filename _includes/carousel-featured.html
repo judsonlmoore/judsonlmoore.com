@@ -32,12 +32,12 @@
         {% else %}
         <div class="carousel-item">
         {% endif %}
-            <a href="{{ site.baseurl }}{{ post.url }}">
+            <a href="{{ site.url }}{{ post.url }}">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>{{ post.title }}</h5>
                     <!-- <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p> -->
                 </div>
-                {% cloudinary featured {{ site.baseurl }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+                {% cloudinary featured {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
             </a>
         </div>
         {% endif %}

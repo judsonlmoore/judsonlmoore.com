@@ -12,7 +12,7 @@ image:			2012/10/LSUAlumniFall2012-2.jpg
 
 Here is a screenshot of my most recent article in the [LSU Alumni Association Magazine](http://lsualumni.org). The text from the article is posted below the screen shot. Enjoy!
 
-[]({{ site.baseurl }}/lsu-alumni-magazine-article-fall-2012/)
+[]({{ site.url }}/lsu-alumni-magazine-article-fall-2012/)
 
 Greetings Tiger Nation,
 

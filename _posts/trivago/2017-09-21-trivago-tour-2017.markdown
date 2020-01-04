@@ -17,7 +17,7 @@ _The opinions expressed in this article are my own and not the views of my emplo
 
 I have had the good fortune to work at **one of Europe’s best companies** for employee satisfaction: trivago. The hotel metasearch, known worldwide for its guerilla television marketing tactics and services for helping travelers find their ideal hotel at the best available rate, is a German-based company with **an amazing workplace culture**. The cultural highlight of the year for trivago employees is _trivago on Tour_.
 
-**Read more: [How metasearch saves me loads of time and money]({{ site.baseurl }}/what-is-metasearch/)**
+**Read more: [How metasearch saves me loads of time and money]({{ site.url }}/what-is-metasearch/)**
 
 trivago on Tour is an annual trip for all trivago employees. The activities and destination are closely guarded secrets, leaving employees with only rumors, hearsay, and dreaming of where the trip might take them until we are already there. [My first trivago on Tour](http://whereisper.com/blog/trivago-on-tour-ibiza) was in 2016 when we chartered a fleet of jets to fly us to the Mediterranean island of Ibiza. Now in 2017, our destination turned out to be **a Nordic cruise to Norway and to Denmark**.
 
@@ -69,7 +69,7 @@ Kristiansand is a small town which I learned from a local is known for being “
 
 Our hike wound us through about 5 miles of **pristine nature** in the Baneheia Park. This park was constructed starting in 1860 and is well planned-out with lakes, trails, dining and toilet facilities. In fact, the park has so many great things to say about it, that **I wrote a whole post** about how to spend a day in Norway!
 
-**Further reading: [How to spend a day in Norway: Hiking in Baneheia Park in Kristiansand]({{ site.baseurl }}/baneheia-kristiansand-norway/)**
+**Further reading: [How to spend a day in Norway: Hiking in Baneheia Park in Kristiansand]({{ site.url }}/baneheia-kristiansand-norway/)**
 
 **[A post shared by Judson L Moore (@judsonlmoore)](https://www.instagram.com/p/BZJtZTXHuCy/) on** Sep 17, 2017 at 11:10am PDT
 
@@ -83,7 +83,7 @@ The **8-mile** bike ride through the capital of Denmark was met again with perfe
 
 **Fun fact**: in the Danish language, the only time that the formal “you” is used is when addressing or referring to the queen. To all other people, the informal “you” is used.
 
-**Further reading: [How to spend a day in Denmark: A bike tour of Copenhagen]({{ site.baseurl }}/bike-tour-copenhagen/)**
+**Further reading: [How to spend a day in Denmark: A bike tour of Copenhagen]({{ site.url }}/bike-tour-copenhagen/)**
 
 {% cloudinary /assets/images/2017/09/trivago-on-tour-2017-copenhagen-bike-ride.jpg alt="trivago on Tour takes a bike ride through Copenhagen, Denmark" description="" %}
 

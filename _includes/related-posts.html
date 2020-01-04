@@ -28,7 +28,7 @@
 		<div class="row no-gutters">
 		    <div class="col-md-5">
 				{% if post.image %}
-				{% cloudinary default {{ site.baseurl }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+				{% cloudinary default {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
 				{% endif %}
 			</div>
 		    <div class="col-md-7">
@@ -36,7 +36,7 @@
 			        <h5 class="card-title">{{ post.title }}</h5>
 			        <p class="card-text"><small class="text-muted">{{ post.date | date_to_string }}</small></p>
 			        <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 80 }}</p>
-			        <a href="{{ site.baseurl }}{{ post.url }}" class="stretched-link"></a>
+			        <a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
 		      </div>
 			</div>
 		</div>

@@ -14,7 +14,7 @@ image:			2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Praca-da-liberdade-flor.jpg
 
 ## Belo Horizonte Travel Guide
 
-Belo Horizonte is Brazil's sixth-largest city and the capital of the state of Minas Gerais. This well-planned city has sprawling tree-lined boulevards and ample green space to enjoy. The surrounding area is full of colonial historical sites and other great destinations, such as [Ouro Preto]({{ site.baseurl }}/ouro-preto-brazil-travel-guide/). **If you are into nature, history, art, or nightlife, Belo Horizonte is a great destination to include on your next trip to Brazil.**
+Belo Horizonte is Brazil's sixth-largest city and the capital of the state of Minas Gerais. This well-planned city has sprawling tree-lined boulevards and ample green space to enjoy. The surrounding area is full of colonial historical sites and other great destinations, such as [Ouro Preto]({{ site.url }}/ouro-preto-brazil-travel-guide/). **If you are into nature, history, art, or nightlife, Belo Horizonte is a great destination to include on your next trip to Brazil.**
 
 I came to Belo Horizonte to visit my friend Lilian and her now husband, Glauco. I knew Lilian from my Rotary Youth Exchange year in Germany. Lilian and her family would later host me for 6-weeks while I explored Belo Horizonte and the surrounding area. It came to feel like home fairly quickly. In this Belo Horizonte Travel Guide, **I will recount the highlights of my favorite places in the city.**
 
@@ -54,7 +54,7 @@ The name of the state Belo Horizonte is in is *Minas Gerais,* which translates
 
 **The history of Brazil is fueled by gold**, and that gold came from this area of Brazil. Therefore, it is well worth taking the time to explore the museums which covers this topic.
 
-**Further Reading: [Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion]({{ site.baseurl }}/ouro-preto-brazil-travel-guide/)**
+**Further Reading: [Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion]({{ site.url }}/ouro-preto-brazil-travel-guide/)**
 
 There are many museums in Belo Horizonte, but perhaps the most unique is the [Museu do metal](http://www.mmgerdau.org.br/explore-o-museu/). This museum tells the history of metal in Brazil. The precious ores have been at the heart of Brazil's economic success, and their ability to be among the world's emerging superpowers. The museum is a modern structure with **breathtaking architecture, play on light, reflection, and metal of every shape, size, and color**.
 

@@ -13,7 +13,7 @@ image:			2016/03/Travel-Advice-To-Rajasthan-India-Featured-Image.jpg
 
 Rajasthan India is one of the most sought after destinations in the world. This dusty desert plain is a throwback to a more magical time when sultans ruled and where the unbelievable power of mystics can still be felt today.
 
-**[Related Post: India Travel Advice In Under 10 Minutes]({{ site.baseurl }}/travel-advice-india/)**
+**[Related Post: India Travel Advice In Under 10 Minutes]({{ site.url }}/travel-advice-india/)**
 
 I traveled to three places in Rajasthan: Jaipur, Ajmer and Pushkar. I tell my story here. If you have a story to share, please drop me a line in the comments section below.
 

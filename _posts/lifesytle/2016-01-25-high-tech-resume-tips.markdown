@@ -11,7 +11,7 @@ image:			2016/01/resume-writing-man-notebook-laptop-1.jpg
 
 ---
 
-The purpose of a resume is to get you an interview. It needs to be catchy (but not tacky), impressive (but not long), and most importantly: well-organized (yet still creative). Everyone has their own style preference in writing a resume, so I am not going to get into that here. The purpose of this article is to provide some high-tech resume tips which can be applied to any resume. However, you can gain access to **my awesome high-tech resume template** along with lots of useful notes when you [subscribe to my email list]({{ site.baseurl }}/subscribe/). So go do that now. It's ok. I will stay here and wait for you to come back. :)
+The purpose of a resume is to get you an interview. It needs to be catchy (but not tacky), impressive (but not long), and most importantly: well-organized (yet still creative). Everyone has their own style preference in writing a resume, so I am not going to get into that here. The purpose of this article is to provide some high-tech resume tips which can be applied to any resume. However, you can gain access to **my awesome high-tech resume template** along with lots of useful notes when you [subscribe to my email list]({{ site.url }}/subscribe/). So go do that now. It's ok. I will stay here and wait for you to come back. :)
 
 ## Use Google Docs
 
@@ -69,4 +69,4 @@ Try it out now! Download my resume! [PDF](https://docs.google.com/document/d/1A
 
 _\*though you can download different formats, the PDF format is the best bet for maintaining your formatting style. _
 
-Give this a try and let me know your thoughts! Be sure to [subscribe]({{ site.baseurl }}/subscribe/) in order to download my high-tech resume template. Do you have other best practices you can share with us? Please leave a comment below to provide feedback or reach out to me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Give this a try and let me know your thoughts! Be sure to [subscribe]({{ site.url }}/subscribe/) in order to download my high-tech resume template. Do you have other best practices you can share with us? Please leave a comment below to provide feedback or reach out to me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!

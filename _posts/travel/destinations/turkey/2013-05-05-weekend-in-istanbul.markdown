@@ -64,7 +64,7 @@ I arrived at the Blue Mosque first thing in the morning and still had an hour or
 
 Upon exiting the Blue Mosque, we ran into a film shoot for a Bollywood film. We stayed and watched for a few minutes before carrying on.
 
-> **Update:** While living in [Hyderabad India]({{ site.baseurl }}/india/) (two years after being in Istanbul), I showed this clip to some colleagues and they recognized it instantly. What we saw being filmed can be seen in its final cut [at 1:35 in this video featuring Jeet & Subhasree](https://www.youtube.com/watch?v=xNEsq9zMX-Y).
+> **Update:** While living in [Hyderabad India]({{ site.url }}/india/) (two years after being in Istanbul), I showed this clip to some colleagues and they recognized it instantly. What we saw being filmed can be seen in its final cut [at 1:35 in this video featuring Jeet & Subhasree](https://www.youtube.com/watch?v=xNEsq9zMX-Y).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pL4DmS4Ork" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

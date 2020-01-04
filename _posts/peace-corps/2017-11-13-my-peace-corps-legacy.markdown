@@ -43,7 +43,7 @@ Last week, **I was afforded the opportunity** to present this history and succes
 
 One morning, just before my first departure from Kyrgyzstan in 2013, **my appendix decided it was time to leave my body**. I had an emergency appendectomy in Kyrgyzstan and it was not a fun experience at all. In fact, it was downright terrible.
 
-As a writer **constrained to a hospital bed** for a week, I did just what you might expect and [documented the whole experience]({{ site.baseurl }}/appendectomy-in-bishkek/).
+As a writer **constrained to a hospital bed** for a week, I did just what you might expect and [documented the whole experience]({{ site.url }}/appendectomy-in-bishkek/).
 
 In my writing, I strived to compliment the skills and achievement of the medical teams, who were indeed great. However, they had very limited resources to work with. The purpose of my article was more to shine a light on the awful conditions of Kyrgyzstan's top surgical center in hopes that it might be **a contributing factor to future improvements**. My article was even [translated into Russian and posted on the local news site, Kloop Media](https://kloop.kg/blog/2013/04/29/kak-amerikanets-perezhil-appenditsit-v-bishkeke/).
 
@@ -63,7 +63,7 @@ I was only dreaming that by sharing my experiences, I could make some impact at 
 
 **A brilliant university student** named Meerim once asked me to help her with a summer camp for students in the 15-16 year age range. The problem is that the students would be from an area of Kyrgyzstan which was off-limits for me to travel to. As a workaround solution, Meerim packed up all the students and brought them to me, in Bishkek.
 
-Roughly 20 students attended. [For my part of the camp]({{ site.baseurl }}/bishkek-ict-training/), we had two objectives: expose the students to basic computer skills, especially that of using Excel and understanding budgets, and also to expose them to universities in Bishkek. The hope was that we might **inspire some of the students** to consider applying for university when they finished their primary studies.
+Roughly 20 students attended. [For my part of the camp]({{ site.url }}/bishkek-ict-training/), we had two objectives: expose the students to basic computer skills, especially that of using Excel and understanding budgets, and also to expose them to universities in Bishkek. The hope was that we might **inspire some of the students** to consider applying for university when they finished their primary studies.
 
 The training was lots of fun and the kids grasped all of the concepts just fine. They even seemed to find it all quite interesting. **We toured a wide variety of universities** ranging from the American university, a Russian university, a design university, and a technical college. We also exposed them to some local entrepreneurs, even gaining a tour of the roasting facility for Central Asia’s finest coffee roaster.
 

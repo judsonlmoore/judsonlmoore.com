@@ -19,7 +19,7 @@ Are you tired of sitting in traffic every day and wish you could be set free in 
 
 [Redfin's latest report](https://www.redfin.com/blog/2017/02/the-best-cities-for-living-without-a-car.html) combines Walk, Transit and Bike score data to determine the best cities in the U.S. for living without a car. This top 10 list has both a few obvious destinations, but I must admit, I was a little bit surprised by a few of these. At the top of my surprise, was **Minneapolis**. Now, to be fair, I have never been to Minneapolis, so it is hard for me to judge. But I have never noticed Minneapolis on a list of cities with great transportation or heard people discussing how great it is to live in Minneapolis. Just goes to show that I might be in a bit of an echo chamber after all.
 
-**Further reading: [Living Without a Car in America]({{ site.baseurl }}/living-without-a-car-in-america/)**
+**Further reading: [Living Without a Car in America]({{ site.url }}/living-without-a-car-in-america/)**
 
 In fact, Minneapolis is so bike friendly, that it is the only US city which made a list in 2016 of most bikeable cities worldwide. Despite it only obtaining a #7 ranking on Redfin’s aggregate report, Minneapolis is clearly a great place to be living without a car.
 

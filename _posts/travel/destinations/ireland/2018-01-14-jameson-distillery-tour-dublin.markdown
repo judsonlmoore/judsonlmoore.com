@@ -18,7 +18,7 @@ There are a number of activities and tours you can take while visiting The James
 
 Now, don't get me wrong, I was raised in Kentucky (hint, that is foreshadowing..) but I have never been to a proper whiskey taste testing. I have done more than my share of vineyard weekends and even a tequila tasting at the Jose Cuervo distillery in Tequila, Mexico, but **this is my first sit down to learn how to fully appreciate the finer side of whiskey.** A dear and lifelong friend has called me "Jameson" for about as long as I can remember, so it feels about right that I should have this first experience at The Jameson Distillery!
 
-**Further Reading: [Visiting the Guinness Storehouse in Dublin. Tour and experience review.]({{ site.baseurl }}/guinness-storehouse-dublin/)**
+**Further Reading: [Visiting the Guinness Storehouse in Dublin. Tour and experience review.]({{ site.url }}/guinness-storehouse-dublin/)**
 
 ## In A Nutshell
 

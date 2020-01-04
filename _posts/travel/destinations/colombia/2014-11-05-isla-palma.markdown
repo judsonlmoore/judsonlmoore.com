@@ -23,4 +23,4 @@ Between the jungle flora and fauna and the sense of adventure that this forgotte
 {% assign images = gallery["2014-11-05-isla-palma"] %}
 {% include gallery-lightbox.html images=images %}
 
-\*this is an excerpt from [a longer article]({{ site.baseurl }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).
+\*this is an excerpt from [a longer article]({{ site.url }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).

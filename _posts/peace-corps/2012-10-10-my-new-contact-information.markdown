@@ -10,7 +10,7 @@ image:			2012/10/NewContactInfo.jpg
 
 ---
 
-[]({{ site.baseurl }}/my-new-contact-information/)
+[]({{ site.url }}/my-new-contact-information/)
 
 Please update your records to reflect my new contact information:
 

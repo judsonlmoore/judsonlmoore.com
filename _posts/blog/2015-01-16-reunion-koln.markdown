@@ -10,7 +10,7 @@ image:			2015/09/koln.jpg
 
 ---
 
-After spending [5-months in India](/india/) building out [a new facility for Mutual Mobile]({{ site.baseurl }}/mutual-mobile-hyderabad/), I get to take a few weeks of vacation! I am returning to Germany for the first time since my high school Rotary Youth Exchange year in Oldenburg and am very excited to reconnect with old friends. My fist stop on this journey is Köln, known in English-speaking circles as Cologne.
+After spending [5-months in India](/india/) building out [a new facility for Mutual Mobile]({{ site.url }}/mutual-mobile-hyderabad/), I get to take a few weeks of vacation! I am returning to Germany for the first time since my high school Rotary Youth Exchange year in Oldenburg and am very excited to reconnect with old friends. My fist stop on this journey is Köln, known in English-speaking circles as Cologne.
 
 After flying Hyderabad > Abu Dhabi > Frankfurt I got a first class ticket on the ICE 102 to Köln and began my relaxing 3-week tour of central Europe. Here is a preview of the beauty to come.
 

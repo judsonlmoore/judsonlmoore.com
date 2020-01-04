@@ -12,7 +12,7 @@ image:			2015/10/ouro-preto.jpg
 
 ---
 
-Ouro Preto is a small colonial town in the heart of the Brazilian state of Minas Gerais, [near to Belo Horizonte]({{ site.baseurl }}/belo-horizonte-travel-guide/). The entire town was Brazil’s first place to be designated a UNESCO world heritage site, due to its vast historical significance from the early days of Portuguese colonization of Brazil and for its high quality of architectural preservation.
+Ouro Preto is a small colonial town in the heart of the Brazilian state of Minas Gerais, [near to Belo Horizonte]({{ site.url }}/belo-horizonte-travel-guide/). The entire town was Brazil’s first place to be designated a UNESCO world heritage site, due to its vast historical significance from the early days of Portuguese colonization of Brazil and for its high quality of architectural preservation.
 
 Similar to the “go west young man” slogans in America which were inspired by the California Gold Rush, colonial settlers were jumping over each other to get to Ouro Preto first to unearth the rich gold and mineral resource found there. ‘Ouro Preto’ means ‘black gold,’ and it is this gold which spurred an explosion of colonial exploration away from Brazil’s magnificent coastline.
 
@@ -40,7 +40,7 @@ The city was forgotten nearly as quickly as it was established. The halt of cons
 
 In the mid-20th century, the Brazilian government began massive restoration efforts throughout Ouro Preto to encourage the then-blossoming tourism industry there. Today, Ouro Preto is one of the most visited destinations in all of Brazil.
 
-**Further Reading: [Belo Horizonte is a Historic and Cultural Capital of Brazil]({{ site.baseurl }}/belo-horizonte-travel-guide/)**
+**Further Reading: [Belo Horizonte is a Historic and Cultural Capital of Brazil]({{ site.url }}/belo-horizonte-travel-guide/)**
 
 ## What to see and do in Ouro Preto
 

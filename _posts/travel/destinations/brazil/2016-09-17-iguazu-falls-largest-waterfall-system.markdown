@@ -116,7 +116,7 @@ Furthermore, though at the time this passport stamp issue instilled some degree 
 
 - **[Meine besten Tipps zum Besuch der Iguazu Fälle](http://backpacker-blog.org/tipps-besuch-iguazu-faelle/)** - by Jörg of backpacker-blog.org
 
-- _Have a post to add to this list? Please [contact me]({{ site.baseurl }}/contact/)._
+- _Have a post to add to this list? Please [contact me]({{ site.url }}/contact/)._
 
 ## That's a Wrap!
 

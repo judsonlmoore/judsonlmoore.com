@@ -10,7 +10,7 @@ image:			2015/10/IMG_4683.jpg
 
 ---
 
-I recently had the chance to reunite with a dear friend in his hometown of Brühl Germany. Mark and I worked together in [Kyrgyzstan]({{ site.baseurl }}/kyrgyzstan/) to develop skills of journalists and media professionals. His trainings are one of the reasons why [KyrgyzMedia.com](http://KyrgyzMedia.com) has become so sustainable over the years, so clearly I am very grateful for his skill and friendship!
+I recently had the chance to reunite with a dear friend in his hometown of Brühl Germany. Mark and I worked together in [Kyrgyzstan]({{ site.url }}/kyrgyzstan/) to develop skills of journalists and media professionals. His trainings are one of the reasons why [KyrgyzMedia.com](http://KyrgyzMedia.com) has become so sustainable over the years, so clearly I am very grateful for his skill and friendship!
 
 ## First Impressions of Brühl
 

@@ -22,4 +22,4 @@ As the fellows get to know one another, we will begin to form small groups and 
 It is a great honor to be selected as a Gabr Fellow and I will keep my blog and [Twitter](http://twitter.com/judsonlmoore) flowing with photos and updates. [Subscribe to my newsletter](/subscribe/) for the most exciting updates. Thank you, my readers, for the support, there will be much more to read very soon!
 
 >**Update**
->Read About My Time in Egypt [Here]({{ site.baseurl }}/egypt/).
+>Read About My Time in Egypt [Here]({{ site.url }}/egypt/).

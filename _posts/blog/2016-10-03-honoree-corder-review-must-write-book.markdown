@@ -57,7 +57,7 @@ Honorée says many times that being a genius, having 40 years experience, or bei
 
 Now it is your turn! What will you do? Will you read this book? Will you write your own book? [Buying it now on Amazon](http://amzn.to/2dmMtlo) is the first step. I would LOVE to discuss this book and your writing with you further. Please leave me a comment below, or contact me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
 
-**Spoiler Alert #2:** I am writing a book! Look for it later this year. To be alerted of all my updates and when my book is published, [subscribe to my newsletter now]({{ site.baseurl }}/subscribe/).
+**Spoiler Alert #2:** I am writing a book! Look for it later this year. To be alerted of all my updates and when my book is published, [subscribe to my newsletter now]({{ site.url }}/subscribe/).
 
 {% cloudinary /assets/images/2016/09/honoree-corder-headshot-e1474796598717.jpg alt="Honoree Corder, Author" description="About Honorée Corder" %}
 

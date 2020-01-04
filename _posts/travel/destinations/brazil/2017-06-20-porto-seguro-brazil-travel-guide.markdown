@@ -34,7 +34,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 {% cloudinary /assets/images/2017/06/judson-moore-fred-durst.jpg alt="Comparison of Judson Moore and Fred Durst" description="Fred Durst or Judson Moore?" %}
 
-My friends and I went by bus to Porto Seguro for spring break. The bus journey from Belo Horizonte, [where I was based out of for 6-weeks]({{ site.baseurl }}/belo-horizonte-travel-guide/), was a tiresome overnight ride. The bus was very luxurious and comfortable, but it was a long way to go, **lasting around 15 hours**.
+My friends and I went by bus to Porto Seguro for spring break. The bus journey from Belo Horizonte, [where I was based out of for 6-weeks]({{ site.url }}/belo-horizonte-travel-guide/), was a tiresome overnight ride. The bus was very luxurious and comfortable, but it was a long way to go, **lasting around 15 hours**.
 
 In the middle of the night, we took a small break at a roadside rest area. **Brazilian interstates rest areas are very built up**, with restaurants and any accommodation you might need on a long-haul.
 

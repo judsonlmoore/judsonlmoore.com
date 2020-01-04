@@ -19,6 +19,6 @@ Near Bogotá is the [Salt Cathedral of Zipaquirá](http://en.wikipedia.org/wik
 {% assign images = gallery["2014-11-08-salt-cathedral-zipaquira"] %}
 {% include gallery-lightbox.html images=images %}
 
-\*this is an excerpt from [a longer article]({{ site.baseurl }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).
+\*this is an excerpt from [a longer article]({{ site.url }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).
 
 Have you visited this majestic place? Please share your story in the comments below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!

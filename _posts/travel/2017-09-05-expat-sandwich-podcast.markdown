@@ -43,7 +43,7 @@ The Expat Sandwich Podcast is relatively new on the podcast scene. The episode w
 
 - [Paris with David Lebovitz](http://expatsandwich.com/paris-david-lebovitz/)
 
-**Additional Reading: [Best podcast 2017 - What I listen to for my daily dose of inspiration]({{ site.baseurl }}/best-podcast-2017/)**
+**Additional Reading: [Best podcast 2017 - What I listen to for my daily dose of inspiration]({{ site.url }}/best-podcast-2017/)**
 
 ## How did you like the episode?
 

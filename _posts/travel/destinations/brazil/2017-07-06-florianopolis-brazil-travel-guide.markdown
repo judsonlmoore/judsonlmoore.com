@@ -32,7 +32,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 ## Orienting yourself around Florianopolis
 
-Florianopolis is a large island city off the southern coast of Brazil. It is the capital of the state of Santa Catarina, where [I also visited the Germanesque town of Blumenau]({{ site.baseurl }}/blumenau-brazil-travel-guide/). The 33-mile-long island is truly a land of two tales. The ocean-facing side of the island is all about the beach, whereas the land-facing side of the island is a bit more serious about the business and politics of running one of **Brazil's highest standard of living states**. The city does extend into the mainland as well, where around **1 million people** live in the metropolitan area.
+Florianopolis is a large island city off the southern coast of Brazil. It is the capital of the state of Santa Catarina, where [I also visited the Germanesque town of Blumenau]({{ site.url }}/blumenau-brazil-travel-guide/). The 33-mile-long island is truly a land of two tales. The ocean-facing side of the island is all about the beach, whereas the land-facing side of the island is a bit more serious about the business and politics of running one of **Brazil's highest standard of living states**. The city does extend into the mainland as well, where around **1 million people** live in the metropolitan area.
 
 Though the city is vibrant with nightclubs, cuisine, and many annual events, perhaps the biggest draw to Florianopolis, and the one which I will focus on in this post is the beaches.
 

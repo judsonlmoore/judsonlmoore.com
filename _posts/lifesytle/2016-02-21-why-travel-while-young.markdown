@@ -47,13 +47,13 @@ The joys of starting and having a family is the pinnacle of achievement for man
 
 Consider for a moment that traveling before you start a family is one of the best ways to become a more well-rounded person, and an even better parent. The experiences you will gain from learning about a different way of doing things and different cultures (even in your own country) are the type of valuable life lessons you can give to your child and give them that much more of an advantage in their own life.
 
-**Related Post: [8 Things To Tell Your Family Before You Travel]({{ site.baseurl }}/things-to-tell-family-before-you-travel/)**
+**Related Post: [8 Things To Tell Your Family Before You Travel]({{ site.url }}/things-to-tell-family-before-you-travel/)**
 
 ## Retirement
 
 Work hard, play hard (in that order!) The most inspirational adults in my life have had the most breathtaking travel experiences in their retirement. There is a lot to be said for achieving the time and financial flexibility to live adventurously in your later years, so you should prepare yourself for that. However, you can not know what life will throw at you along the way and retirement travel is simply a pipe dream for many. If you aren't in the habit from a young age, chances are slim you will suddenly start to have an adventure once you retire. For some inspiration, go watch the Pixar movie [Up (2009)](https://geo.itunes.apple.com/us/movie/up/id322447599?at=1l3vaf4&mt=6).
 
-**Related Post: [Three Ways Travel Changed My life When I Was Young]({{ site.baseurl }}/three-ways-travel-changed-life/)**
+**Related Post: [Three Ways Travel Changed My life When I Was Young]({{ site.url }}/three-ways-travel-changed-life/)**
 
 ## Conclusion
 
