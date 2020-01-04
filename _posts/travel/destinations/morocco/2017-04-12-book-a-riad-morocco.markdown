@@ -31,7 +31,7 @@ As much as I can rave about how wonderful riads are, they are not for everyone, 
 
 Knowing where your riad is at on a map is one thing, but finding it in the layberanth of a madina is another all together. Mapping apps are less reliable here, but one host gave me the tip to use the app [Galileo](https://galileo-app.com/) ([iOS](https://ad.apps.fm/8IpEyeTO8GFTIofxNB2M8_E7og6fuV2oOMeOQdRqrE2p3vVedUm5KyU8Xq4APB1ozJNtwS4j_CkBGUd2uV5MTtekQ9a7KpkZ-LYPbjtHfdFbLR3Kci8V1PkgTdisRaNKc_q5BWZ6I-E2Sa8VKe04U7bVaSTlN3NgGDRU0tFF_YA) | [Android](https://play.google.com/store/apps/details?id=com.bodunov.galileo)), which is an off-line map. I found it to be quite accurate a real lifesaver while between Wi-Fi hotspots. Still, your initial arrival to the riad can be quite tricky. **It is advisable to arrange your host to meet you at a landmark** and walk you to the riad. If you are just arriving to the city and have luggage, then the riad can send a taxi for you. This might be a bit expensive, but will serve you well for the ease and peace of mind.
 
-{% cloudinary /assets/images/2017/04/riad-in-morocco-2.jpg alt="Front door of a riad in Morocco" description="" %}
+{% cloudinary default /assets/images/2017/04/riad-in-morocco-2.jpg alt="Front door of a riad in Morocco" description="" %}
 
 ### 2. Can I carry my luggage very far, and through narrow, hilly streets?
 
@@ -47,7 +47,7 @@ I can answer this one for you: **no**. Medinas are not very accessible in genera
 
 Every riad I have looked at has advertised Wi-Fi, but you should **take that with a grain of salt**. Even if there is Wi-Fi, there is likely only a trickle of internet bandwidth. If you are relying on your lodging to provide you with the internet for uploading your days' worth of selfies, this might not work out so well. Likewise, if you need to be connected to the Internet for work or other purposes, then a riad is likely not going to be the best fit for you.
 
-{% cloudinary /assets/images/2017/04/riad-in-morocco-4.jpg alt="Daytime view of the courtyard at a riad in Morocco" description="" %}
+{% cloudinary default /assets/images/2017/04/riad-in-morocco-4.jpg alt="Daytime view of the courtyard at a riad in Morocco" description="" %}
 
 ### 5. Is the room on the first floor?
 
@@ -63,7 +63,7 @@ Food, fragrances, gasses, animals and people are all sources of strong and varie
 
 Just like with the smells, riads can be noisy places if you are on the first floor. **Any room not on the first floor should be just fine**, though, and offer you more silence than you would get at home or at a modern hotel.
 
-{% cloudinary /assets/images/2017/04/riad-in-morocco-1.jpg alt="Nighttime garden at a riad in Morocco" description="" %}
+{% cloudinary default /assets/images/2017/04/riad-in-morocco-1.jpg alt="Nighttime garden at a riad in Morocco" description="" %}
 
 ### 8. Can you accommodate my dietary restrictions?
 

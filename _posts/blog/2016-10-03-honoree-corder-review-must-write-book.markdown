@@ -59,6 +59,6 @@ Now it is your turn! What will you do? Will you read this book? Will you write y
 
 **Spoiler Alert #2:** I am writing a book! Look for it later this year. To be alerted of all my updates and when my book is published, [subscribe to my newsletter now]({{ site.url }}/subscribe/).
 
-{% cloudinary /assets/images/2016/09/honoree-corder-headshot-e1474796598717.jpg alt="Honoree Corder, Author" description="About Honorée Corder" %}
+{% cloudinary default /assets/images/2016/09/honoree-corder-headshot-e1474796598717.jpg alt="Honoree Corder, Author" description="About Honorée Corder" %}
 
 Honorée Corder is the author of 20 books, including _You Must Write a Book, Vision to Reality_, _Prosperity for Writers_, _Business Dating_, *The Successful Single Mom* book series, _If Divorce is a Game, These are the Rules_, and _The Divorced Phoenix_. She is also Hal Elrod’s business partner in _The Miracle Morning_ book series. She also does all sorts of other magical things, and her badassery is legendary. You can find out more at [HonoreeCorder.com](http://honoreecorder.com/).

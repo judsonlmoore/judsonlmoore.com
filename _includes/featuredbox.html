@@ -7,7 +7,7 @@
                 <div class="h-100">
                     <div class="wrapthumbnail">
                         <a href="{{ site.url }}{{ post.url }}">
-                            {% cloudinary featured-box-img-cover {{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+                            {% cloudinary featured-box-img-cover {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
                         </a>
                     </div>
                 </div>

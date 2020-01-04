@@ -40,7 +40,7 @@ Even the **nearby site of the City of Petra**, which was the capital of the myst
 
 But enough with the human history: **what can people do here today?** Well, people still live here and carry on a desert and nomadic culture. Though trade was once the core of the local economy, like that of the Silk Road, Wadi Rum now flourishes on tourism.
 
-{% cloudinary /assets/images/2018/05/wadi-rum-jordan-jeep-tour-group.jpg alt="My new friends from the Wadi Rum tour, including Tiffany Tchouboukjian (opposite from me), pilled up in the back of a truck for our desert jeep tour" description="My new friends from the Wadi Rum tour, including Tiffany Tchouboukjian (opposite from me), pilled up in the back of a truck for our desert jeep tour" %}
+{% cloudinary default /assets/images/2018/05/wadi-rum-jordan-jeep-tour-group.jpg alt="My new friends from the Wadi Rum tour, including Tiffany Tchouboukjian (opposite from me), pilled up in the back of a truck for our desert jeep tour" description="My new friends from the Wadi Rum tour, including Tiffany Tchouboukjian (opposite from me), pilled up in the back of a truck for our desert jeep tour" %}
 
 ## Tours of Wadi Rum
 
@@ -52,7 +52,7 @@ The tour included stops in Jerash, Amman, Petra, and lastly (but most certainly
 
 The Wadi Rum tour consisted of three parts: jeep tour, camel tour (optional), lunch. Jeep is the best way to get around the desert, I believe. **We only ever got stuck in the sand once!**
 
-{% cloudinary /assets/images/2018/05/wadi-rum-jordan-jeep-tour-parked.jpg alt="Judson poses with Wadi Rum tour jeeps in the Lawrence Memorial Bedouin Camp" description="The jeeps line up at the Lawrence Memorial Bedouin Camp." %}
+{% cloudinary default /assets/images/2018/05/wadi-rum-jordan-jeep-tour-parked.jpg alt="Judson poses with Wadi Rum tour jeeps in the Lawrence Memorial Bedouin Camp" description="The jeeps line up at the Lawrence Memorial Bedouin Camp." %}
 
 ## Camels of Wadi Rum
 
@@ -64,7 +64,7 @@ In Wadi Rum, you will see **two types of camels** when you visit: those which ar
 
 And here is something new I learned: when you see camels freely walking in a straight line, it means they intend to walk a really long distance! **I wonder if that has to do with aerodynamics?**
 
-{% cloudinary /assets/images/2018/05/wadi-rum-jordan-camels.jpg alt="Camels laying on the red sand of Wadi Rum in Jordan" description="Camels of the Wadi Rum Desert in Jordan" %}
+{% cloudinary default /assets/images/2018/05/wadi-rum-jordan-camels.jpg alt="Camels laying on the red sand of Wadi Rum in Jordan" description="Camels of the Wadi Rum Desert in Jordan" %}
 
 ## Desert Camel Safari
 
@@ -72,18 +72,18 @@ Despite my weird love for camels, when offered the optional opportunity to take 
 
 This camel safari only lasted 20-30 minutes and ended at the Lawrence Memorial Bedouin Camp where I was already waiting for everyone, as I came in a jeep. This also meant **I had more time for drinking** the incredible (and incredibly sweet) Bedouin tea!
 
-{% cloudinary /assets/images/2018/05/wadi-rum-jordan-camel-ride.jpg alt="A tour group takes a camel safari in the Wadi Rum Desert in southern Jordan" description="The camel safari of the Wadi Rum Desert" %}
+{% cloudinary default /assets/images/2018/05/wadi-rum-jordan-camel-ride.jpg alt="A tour group takes a camel safari in the Wadi Rum Desert in southern Jordan" description="The camel safari of the Wadi Rum Desert" %}
 
 ## Petroglyphs and Inscriptions
 
 Right, so I mentioned the 12,000-year-old origins of humans in the area. Wadi Rum is scattered with **more than 40,000 known petroglyphs and inscriptions** on the rocks. The point of our tour where the camel safari began is one such point of interest where these markings are clearly visible. Luckily, the markings are very much out of reach without a ladder, which is probably one of the reasons they have lasted for so long.
 
-{% cloudinary /assets/images/2018/05/wadi-rum-jordan-nomads-petroglyphs-inscriptions.jpg alt="Judson points out the 12,000 year-old Petroglyphs and inscriptions in Wadi Rum." description="Petroglyphs and inscriptions in Wadi Rum date as far back as 10,000 B.C." %}
+{% cloudinary default /assets/images/2018/05/wadi-rum-jordan-nomads-petroglyphs-inscriptions.jpg alt="Judson points out the 12,000 year-old Petroglyphs and inscriptions in Wadi Rum." description="Petroglyphs and inscriptions in Wadi Rum date as far back as 10,000 B.C." %}
 
 ## No Filter Needed
 
 I am occasionally guilty of applying some filter or editing touches to photos. But I wanted to highlight that the next landscape photo is totally untouched. **This is just how the place looks.** And this was taken with an iPhone, not a professional camera, which means the color depth of the photo is not nearly as rich as the real-life view of Wadi Rum. This place is just truly spectacular, and at every turn, you better be prepared to lose your breath!
 
-{% cloudinary /assets/images/2018/05/wadi-rum-jordan-daytime-landscape.jpg alt="The Seven Pillars of Wisdom rock formation in Wadi Rum, Jordan" description="The Seven Pillars of Wisdom rock formation in Wadi Rum, Jordan" %}
+{% cloudinary default /assets/images/2018/05/wadi-rum-jordan-daytime-landscape.jpg alt="The Seven Pillars of Wisdom rock formation in Wadi Rum, Jordan" description="The Seven Pillars of Wisdom rock formation in Wadi Rum, Jordan" %}
 
 I hope you enjoyed this article! Have you been to Wadi Rum before? What did I miss? What questions do you have? **Please contribute your thoughts below in the comments.** Safe travels!

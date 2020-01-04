@@ -1,117 +1,51 @@
-<style type="text/css">
-    
-// Make each area overflow horizontally and
-// have the ability to have other items
-// scrolled into view
-.scroll {
-  white-space: nowrap;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  -ms-overflow-style: -ms-autohiding-scrollbar; }
+<nav class="navbar navbar-expand-md fixed-top navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Offcanvas navbar</a>
+    <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
+        <span class="navbar-toggler-icon"></span>
+    </button>
 
-// Example two required styles --------------- /
-.example-two-header {
-  .logo {
-    width: 25%; }
-  nav {
-    width: 75%; } }
-
-// Example three required styles --------------- /
-.example-three {
-  .logo,
-  nav {
-    width: 100%; }
-  
-  .nav-item {
-    color: #f6f7ee; } }
-
-// Shared styles --------------- /
-header {
-  background: #152637; }
-
-// Examples
-.example-one-header,
-.example-two-header {
-  border-radius: 3px; }
-
-.example-three-header {
-  border-radius: 3px 3px 0 0; }
-
-.example-three nav {
-  background: #727c87;
-  white-space: nowrap;
-  overflow-x: scroll; 
-  -webkit-overflow-scrolling: touch;
-  border-radius: 0 0 3px 3px; }
-
-// Logo
-.logo {
-  text-align: center; // only effective in example 2/3
-  font-weight: 700;
-  color: #727c87;
-  border-right: 1px solid rgba(#727c87, .4);
-  padding: 12px 24px 13px; }
-
-// Nav items
-.nav-item {
-  padding: 12px 16px 13px;
-
-  &:not(:last-child) {
-    border-right: 1px solid rgba(#727c87, .2); } }
-
-// Setup/misc styles --------------- /
-* { 
-  box-sizing: border-box; }
-
-// Remove the inline-block extra space
-header,
-nav { 
-  font-size: 0; }
-
-// Requires font size to be reset for these elements
-.logo,
-.nav-item {
-  font-size: 14px; }
-
-.logo,
-.nav-item,
-.vertical-align-middle {
-  display: inline-block;
-  vertical-align: middle; }
-
-.title {
-  margin: 24px 0 6px;
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: .2em;
-  color: #999; }
-
-// Demo purposes only, proceed with caution on Windows!
-.scroll::-webkit-scrollbar {
-  display: none; }
-
-
-
-</style>
-
-<header class="example-two-header">
-    <span class="logo">Logo</span>
-    <nav class="vertical-align-middle scroll">
-        <span class="nav-item">Blog</span>
-        <span class="nav-item">Portfolio</span>
-        <span class="nav-item">Downloads</span>
-        <span class="nav-item">About</span>
-        <span class="nav-item">Contact</span>
+    <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Dashboard <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Notifications</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Profile</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Switch account</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Settings</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown01">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+            </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
+<div class="nav-scroller bg-white box-shadow">
+    <nav class="nav nav-underline">
+        <a class="nav-link active" href="#">Dashboard</a>
+        <a class="nav-link" href="#">
+          Friends
+          <span class="badge badge-pill bg-light align-text-bottom">27</span>
+        </a>
+        <a class="nav-link" href="#">Explore</a>
+        <a class="nav-link" href="#">Suggestions</a>
+        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Link</a>
     </nav>
-</header>
-
-
-
-
-
-
-
-
-
-
-
+</div>

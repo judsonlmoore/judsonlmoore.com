@@ -31,7 +31,7 @@ post_class: post-template
                         {% assign sortedCategories = page.categories | sort %}
                         {% for category in sortedCategories %}
                         <li class="list-inline-item">
-                            <a class="smoothscroll badge badge-primary" href="{{site.baseurl}}/categories#{{ category }}">
+                            <a class="smoothscroll badge badge-primary" href="{{site.url}}/categories#{{ category }}">
                                 <span>{{ category }}</span>
                             </a>
                         </li>
@@ -39,7 +39,7 @@ post_class: post-template
                         {% assign sortedTags = page.tags | sort %}
                         {% for tag in sortedTags %}
                         <li class="list-inline-item">
-                            <a class="smoothscroll badge badge-secondary" href="{{site.baseurl}}/tags#{{ tag }}">{{ tag }}</a>
+                            <a class="smoothscroll badge badge-secondary" href="{{site.url}}/tags#{{ tag }}">{{ tag }}</a>
                         </li>
                         {% endfor %}
                     </ul>

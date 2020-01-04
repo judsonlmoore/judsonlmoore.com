@@ -26,7 +26,7 @@ Upon arrival, we were cheerfully greeted by the owner and wine master, who didn'
 
 After a brief tour of the facilities and a crash course of the winemaking process, we moved into the tasting room and the main event got underway.
 
-{% cloudinary /assets/images/2016/08/germany-wine-country-taste-testing-at-weingut-pfirmann.jpg alt="Germany Wine Country Taste Testing at Weingut Pfirmann" description="" %}
+{% cloudinary default /assets/images/2016/08/germany-wine-country-taste-testing-at-weingut-pfirmann.jpg alt="Germany Wine Country Taste Testing at Weingut Pfirmann" description="" %}
 
 _photo credit: Kathrin Rupprath_
 
@@ -70,4 +70,4 @@ It is hard to say that there was a part of this day's experience which was bette
 
 I highly recommend that you make a visit to the German wine country and to Landau. Take your family, your friends, or just yourself. You are going to have a great time! Have you been to Landau before? Are you thinking about making a trip there? I would love to hear your thoughts in the comments below, or reach out to me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
 
-{% cloudinary /assets/images/2016/09/friends-in-the-german-wine-country-walking-through-a-vineyard.jpg alt="Friends in the German Wine Country walking through a vineyard." description="" %}
+{% cloudinary default /assets/images/2016/09/friends-in-the-german-wine-country-walking-through-a-vineyard.jpg alt="Friends in the German Wine Country walking through a vineyard." description="" %}
