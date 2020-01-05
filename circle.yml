@@ -25,8 +25,8 @@ jobs:
           paths:
             - vendor/bundle
       - run:
-          name: make build
-          command: make build
+          name: make deploy
+          command: make deploy
 #      - run:
 #          name: HTMLProofer tests
 #          command: |
