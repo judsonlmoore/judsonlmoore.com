@@ -19,7 +19,7 @@ It is also a young country marked by **a mixture of cultures** originating from 
 
 In fact, Brazil offers **infinite possibilities** to the traveler. Going there may be simpler than many Americans imagine. Even so, **some tips** may come in handy before one makes the decision to pack his or her bags and head south.
 
-{% cloudinary default /assets/images/2017/06/SU_SerraGaúcha0106.jpg alt="Sao Pedro Church in Gramado, Brazil" description="Sao Pedro Church in Gramado, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary default /assets/images/2017/06/SU_SerraGaucha0106.jpg alt="Sao Pedro Church in Gramado, Brazil" description="Sao Pedro Church in Gramado, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## The best time of the year to visit Brazil
 
@@ -59,7 +59,7 @@ The number of flights between Brazil and the United States has **grown more than
 
 It is also one of the most comprehensive, since it contains more than 190 weekly **flights that connect 12 American cities** (Atlanta, Chicago, Dallas, Houston, Detroit, Fort Lauderdale, Los Angeles, Miami, New York, Newark, Orlando, and Washington) to 9 Brazilian destinations (São Paulo, Campinas, Rio de Janeiro, Brasília, Belo Horizonte, Fortaleza, Recife, Belém, and Manaus).
 
-{% cloudinary default /assets/images/2017/06/SE_SãoPaulo0741.jpg alt="The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil" description="The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary default /assets/images/2017/06/SE_SaoPaulo0741.jpg alt="The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil" description="The Octavio Frias de Oliveira bridge is a cable-stayed bridge in São Paulo, Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## Traveling in Brazil
 

@@ -46,7 +46,7 @@ At the southern end of Freedom Park is the **Palácio da Liberdade**. This is th
 
 Today the Palácio da Liberdade acts as a tourist attraction and is only put into official service during the transfer of power ceremonies between elected officials.
 
-{% cloudinary default /assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Palácio-da-Liberdade.jpg alt="Belo Horizonte, Brasil, Minas Gerais, Palácio da Liberdade" description="Belo Horizonte, Brasil, Minas Gerais, Palácio da Liberdade. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary default /assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Palacio-da-Liberdade.jpg alt="Belo Horizonte, Brasil, Minas Gerais, Palácio da Liberdade" description="Belo Horizonte, Brasil, Minas Gerais, Palácio da Liberdade. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## Museums reflect the rich history of Minas Gerais
 
@@ -66,7 +66,7 @@ On a hot summer day in Belo Horizonte, you will find the streets lined with arti
 
 Even if you don't go in the museum, you can find artisans in the plaza out front and **cool down with a dance in the water fountains**. It is also a great place to catch a rainbow on a cloudless day!
 
-{% cloudinary default /assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Museu-de-Artes-e-Ofícios.jpg alt="Belo Horizonte, Brasil, Minas Gerais, Palácio de artes e ofícios" description="Belo Horizonte, Brasil, Minas Gerais, Palácio de artes e ofícios. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary default /assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Museu-de-Artes-e-Oficios.jpg alt="Belo Horizonte, Brasil, Minas Gerais, Palácio de artes e ofícios" description="Belo Horizonte, Brasil, Minas Gerais, Palácio de artes e ofícios. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## Panoramic City Views
 
@@ -78,7 +78,7 @@ Here are two places I can recommend for catching the panoramic view of Belo Hori
 
 - **Alta Vila Tower** - Located in the district of Nova Lima on the south side of Belo Horizonte, this tower offers a spectacular view of Belo Horizonte and its surrounding mountains but without the hefty price tag of Porcão BH. If you get hungry then you are in luck, because on the first floor is the Belo Horizonte Hard Rock Cafe!
 
-{% cloudinary default /assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Panorâmica.jpg alt="Arquitetura, Belo Horizonte, Brasil, Minas Gerais, Panorâmica" description="Belo Horizonte, Brasil, Minas Gerais, Panorâmica. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary default /assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Panoramica.jpg alt="Arquitetura, Belo Horizonte, Brasil, Minas Gerais, Panorâmica" description="Belo Horizonte, Brasil, Minas Gerais, Panorâmica. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## How to get more information about Belo Horizonte
 
