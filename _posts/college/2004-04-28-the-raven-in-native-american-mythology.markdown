@@ -13,7 +13,7 @@ image:			2004/04/NativeAmericanRaven.jpg
 
 _Photo Credit: [Larry Vienneau](https://www.etsy.com/listing/82025011/raven-artwork-raven-crow-aquatint?ref=shop_home_active_24)_
 
-> If you have any questions about this paper or the Raven in Native American Mythology, feel free to leave a comment below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).
+> If you have any questions about this paper or the Raven in Native American Mythology, feel free to leave a comment below or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore).
 
 ## The Raven in Native American Mythology
 
@@ -75,7 +75,7 @@ Some say that people project their own characteristics onto their deities.  If 
 
 As with many deities, the raven is regarded with respect and wariness.  Being in close intercourse with the Raven would be like having “too much religion.”  Appreciating the raven from afar through storytelling was safer and more functional than being in close contact with such unpredictable a character.
 
-> If you would like additional sources, or have any questions, feel free to leave a comment below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).
+> If you would like additional sources, or have any questions, feel free to leave a comment below or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore).
 
 ## Bibliography
 

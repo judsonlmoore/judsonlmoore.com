@@ -11,11 +11,11 @@ image:			2015/04/IMG_1468.jpg
 
 ---
 
-It's no secret that I've spent some time in India, but I am frequently asked, "why were you there?" I know that I am better at documenting my weekends and time off, but I don't just travel the world for fun, I do have a job to get done! It is now my great pleasure to unveil to you the new office of Mutual Mobile in Hyderabad, India! If you have ever built a space in another country, or were part of building this space, please tell me about it in the comments below, or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+It's no secret that I've spent some time in India, but I am frequently asked, "why were you there?" I know that I am better at documenting my weekends and time off, but I don't just travel the world for fun, I do have a job to get done! It is now my great pleasure to unveil to you the new office of Mutual Mobile in Hyderabad, India! If you have ever built a space in another country, or were part of building this space, please tell me about it in the comments below, or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!
 
 ## Mutual Mobile Sends Me To India
 
-In India, my job was to launch a new facility for [Mutual Mobile](/mutual-mobile/) in the city of Hyderabad. This mission was an enormous challenge and a wonderful experience, but I didn't have to go at it alone. We already had an office in Hyderabad with about 50 employees. Before I arrived, that team expended significant effort scouting a new location and negotiating a lease on the new space. I went to India once that space was selected and helped identify architects, designers and builders who would turn this concrete box into a cutting edge and inspiring place to work. I stayed in India and managed the project until the facility launched 5-months later.
+In India, my job was to launch a new facility for [Mutual Mobile]({{ site.url }}/tags/#mutual-mobile/) in the city of Hyderabad. This mission was an enormous challenge and a wonderful experience, but I didn't have to go at it alone. We already had an office in Hyderabad with about 50 employees. Before I arrived, that team expended significant effort scouting a new location and negotiating a lease on the new space. I went to India once that space was selected and helped identify architects, designers and builders who would turn this concrete box into a cutting edge and inspiring place to work. I stayed in India and managed the project until the facility launched 5-months later.
 
 Before I went to Hyderabad, I established what my personal measure of failure would be. For me, failure would be indicated at any point where I had to make a decision. Of course, I am capable of making decisions, and I am not hesitant to share my opinions and insights. However, at the end of this project I will leave India, and it is the Indian team that will need to maintain their new facility and have a sense of ownership for it. Therefore, they need to own the decisions. Additionally, if at any point my and their opinions differ so drastically, and I feel so strongly about my view that I overrule them on a decision, then we have gotten to a very bad place. Therefore, if ever I make a decision on this project, I have truly failed.
 
@@ -113,4 +113,4 @@ This whole project was a deeply impactful time in my life. The people I got to k
 
 I am also happy to report that in the duration of this project, I never made a decision. Success accomplished!
 
-So what do you think about the space and the process? Please leave me a message in the comments below, or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+So what do you think about the space and the process? Please leave me a message in the comments below, or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

@@ -61,4 +61,4 @@ The train finally came, and I was home at about 9:30am, with NO sleep, and so wh
 
 Ok, so there it is, I saw Papa Roach in concert, and what were all my Tioga people doing back home? You were dancing in uncomfortable formal-wear, listening to everyday music played by a DJ at Homecoming! Where would I have rather been? Truthfully, I wished I was home at the time. I was so homesick this night! But now, 2 weeks later, I am glad to be here, I am having such a great time! And hey, I will have Homecoming next year, and it will be great! GO SENIORS 2002!!! Yea, whatever…….
 
-If you are a Papa Roach fan, or have a story of meeting one of your favorite bands, please share it in the comments below! Feel free to also message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+If you are a Papa Roach fan, or have a story of meeting one of your favorite bands, please share it in the comments below! Feel free to also message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

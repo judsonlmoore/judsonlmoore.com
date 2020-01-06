@@ -11,7 +11,7 @@ image:			2016/01/Essential-Travel-Apps-Featured-Image.jpg
 
 ---
 
-With tens of millions of apps out there in the world, it is hard to see the forest through the trees. Travels Apps are only a fraction of all apps, but still one of the largest categories of apps which you will find. I am either currently traveling, or thinking about traveling, literally _all the time_. Whether sitting on a plane, trying to cross a city or laying in bed at night dreaming of my next trip, these are the travel apps that I rely on the most.  Please also share your favorite travel apps in the comments below, or let me know what they are directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+With tens of millions of apps out there in the world, it is hard to see the forest through the trees. Travels Apps are only a fraction of all apps, but still one of the largest categories of apps which you will find. I am either currently traveling, or thinking about traveling, literally _all the time_. Whether sitting on a plane, trying to cross a city or laying in bed at night dreaming of my next trip, these are the travel apps that I rely on the most.  Please also share your favorite travel apps in the comments below, or let me know what they are directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!
 
 ## My Top Travel Apps
 
@@ -90,7 +90,7 @@ Get it Now: [iOS](https://geo.itunes.apple.com/us/app/splitwise-split-bills-expe
 #### Pocket
 
 Pocket is a read-later app with a boost. The feature-rich free version syncs up between your mobile and desktop devices so that you always have access to the reading you want to save for later. I use this in concert with wikitravel.org to create my own travel guides before trips. Its been a lifesaver many times!
-Get it Now: [iOS](https://geo.itunes.apple.com/us/app/pocket-save-articles-videos/id309601447?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)
+Get it Now: [iOS](https://apps.apple.com/de/app/pocket/id309601447?mt=8&ign-mpt=uo%3D4) | [Android](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)
 
 #### Duolingo
 

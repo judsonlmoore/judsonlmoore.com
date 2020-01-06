@@ -13,7 +13,7 @@ image:			2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
 
 International fellowship programs are an excellent way to see the world, learn valuable lessons and get someone else to pay for it all. Many fellowships are tied to current degree-seeking students and researchers, therefore, you might reasonably assume that when you read "fellowship" you need to be in school. This is not true. There are many professional fellowships, as well as opportunities for mid-career international education and research.
 
-Here are a few programs from which I have personal experience. I'm happy to offer tips for applying to these, and would love for you to expand this list by leaving a comment below or reaching me at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Here are a few programs from which I have personal experience. I'm happy to offer tips for applying to these, and would love for you to expand this list by leaving a comment below or reaching me at [@judsonlmoore](https://twitter.com/judsonlmoore)!
 
 ## 1. East-West: The Art of Dialogue (Egypt, UK, USA)
 

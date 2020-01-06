@@ -46,7 +46,7 @@ However, looking toward tomorrow should not distract from your good fortunes of 
 
 According to one research paper from the Yale Center for Emotional Intelligence, [people who express gratitude are perceived as more trustworthy by others](http://ei.yale.edu/what-is-gratitude/). Wouldn't you like for people to trust you more than they already do? Become more conscious in your expressions of gratitude and enjoy **the benefits of others holding you in higher esteem**.
 
-{% cloudinary default /assets/images/2017/09/giving-thanks-chalk-wall.jpg alt="The Thanks Wall at Mutual Mobile." description="The Thanks Wall at Mutual Mobile." %}
+{% cloudinary /assets/images/2017/09/giving-thanks-chalk-wall.jpg alt="The Thanks Wall at Mutual Mobile." description="The Thanks Wall at Mutual Mobile." %}
 
 ## #5 - Giving thanks feels good
 

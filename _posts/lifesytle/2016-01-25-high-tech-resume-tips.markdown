@@ -69,4 +69,4 @@ Try it out now! Download my resume! [PDF](https://docs.google.com/document/d/1A
 
 _\*though you can download different formats, the PDF format is the best bet for maintaining your formatting style. _
 
-Give this a try and let me know your thoughts! Be sure to [subscribe]({{ site.url }}/subscribe/) in order to download my high-tech resume template. Do you have other best practices you can share with us? Please leave a comment below to provide feedback or reach out to me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Give this a try and let me know your thoughts! Be sure to [subscribe]({{ site.url }}/subscribe/) in order to download my high-tech resume template. Do you have other best practices you can share with us? Please leave a comment below to provide feedback or reach out to me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

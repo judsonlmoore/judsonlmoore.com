@@ -52,4 +52,4 @@ Another helpful tactic is to learn shortcuts. For example, In German, there are 
 
 Regardless of why you are learning a language, fun must be part of it. Try not to take yourself too seriously while getting accustomed to this new challenge. With time, you will be telling jokes, laughing with others, and soon be everyone's favorite person to bring to dinner and show off the foreigner's funny speaking skills!
 
-Have any of these tips worked for you? Please share your experience in overcoming language barriers in the comments below or get in touch with me at [@judsonlmoore](http://twitter.com/judsonlmoore).
+Have any of these tips worked for you? Please share your experience in overcoming language barriers in the comments below or get in touch with me at [@judsonlmoore](https://twitter.com/judsonlmoore).

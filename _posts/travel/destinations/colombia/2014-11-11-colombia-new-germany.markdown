@@ -17,7 +17,7 @@ I recently made a 12-day trip to Colombia to reunite with a few friends from my 
 
 ## Bogotá: The Capital of Colombia
 
-Our first days were spent in the capital city, Bogotá. On the first day we explored the Monastery, [Cerro de Monserrate](http://en.wikipedia.org/wiki/Monserrate), which has breathtaking panoramic views of Bogotá. After some photo ops with local school children, we went down into the city center and spent several hours at [The Gold Museum](http://en.wikipedia.org/wiki/Gold_Museum,_Bogot%C3%A1). This museum is the most extensive collection of gold artifacts in the world. Located in a region of town called [La Candelaria](http://en.wikipedia.org/wiki/La_Candelaria) (the old town), the museum is next to the national capital and some very interesting architecture.
+Our first days were spent in the capital city, Bogotá. On the first day we explored the Monastery, [Cerro de Monserrate](https://en.wikipedia.org/wiki/Monserrate), which has breathtaking panoramic views of Bogotá. After some photo ops with local school children, we went down into the city center and spent several hours at [The Gold Museum](https://en.wikipedia.org/wiki/Gold_Museum,_Bogot%C3%A1). This museum is the most extensive collection of gold artifacts in the world. Located in a region of town called [La Candelaria](https://en.wikipedia.org/wiki/La_Candelaria) (the old town), the museum is next to the national capital and some very interesting architecture.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-11-11-colombia-new-germany"] %}
@@ -25,7 +25,7 @@ Our first days were spent in the capital city, Bogotá. On the first day we exp
 
 ## Cartagena: Costal Paradise of Colombia
 
-After having a chance to recover from jet lag, we headed to the coastal city of Cartagena. This is one of the most visited destinations in Colombia for the rich and the famous; we had just missed Prince Charles by a few days.  The Old City is where you want to spend all of your time in Cartagena. The beaches there are dirty so you will need to leave the city or go out to the islands to find the clear water (easily done by boat). There is an old fort in Cartagena, [Castillo San Felipe de Barajas](http://en.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas), which is totally worth checking out. Other than that, everything is either far away or just in the Old City.
+After having a chance to recover from jet lag, we headed to the coastal city of Cartagena. This is one of the most visited destinations in Colombia for the rich and the famous; we had just missed Prince Charles by a few days.  The Old City is where you want to spend all of your time in Cartagena. The beaches there are dirty so you will need to leave the city or go out to the islands to find the clear water (easily done by boat). There is an old fort in Cartagena, [Castillo San Felipe de Barajas](https://en.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas), which is totally worth checking out. Other than that, everything is either far away or just in the Old City.
 
 In the Old City, you will find amazing food. The ceviche here is incredible everywhere, but the best is at a small shack just outside the front doors of the airport ([map](https://www.google.co.in/maps/dir//10.4453845,-75.5171151/@10.4453807,-75.5194285,17z/data=!3m1!4b1)). Come out from baggage claim, cross the street and take a right to the first intersection. Take a left. The shack will be 200' on the left sidewalk.
 
@@ -51,11 +51,11 @@ Between the jungle flora and fauna and the sense of adventure that this forgotte
 
 ## Villa de Leyva: Mountain Adventures
 
-Our next destination is the preserved town of [Villa de Leyva](http://en.wikipedia.org/wiki/Villa_de_Leyva). Located a 4-hour drive north from Bogotá nestled in rolling hills and a landscape that was, to me, what I expected Colombia to look and feel like. The architecture is uniform: white stucco with red tile roofs. The streets are paved in stones, and I must admit, the ladies here wearing high heels are even braver and more graceful than the Kyrgyz women who wear heels in winter, which is really saying something!
+Our next destination is the preserved town of [Villa de Leyva](https://en.wikipedia.org/wiki/Villa_de_Leyva). Located a 4-hour drive north from Bogotá nestled in rolling hills and a landscape that was, to me, what I expected Colombia to look and feel like. The architecture is uniform: white stucco with red tile roofs. The streets are paved in stones, and I must admit, the ladies here wearing high heels are even braver and more graceful than the Kyrgyz women who wear heels in winter, which is really saying something!
 
 The first day was spent wandering the town's historic streets and enjoying a sunset behind the mountains and dark rainclouds which only impacted us long enough to make us seek refuge in a Brazilian cafe; I was totally ok with that.
 
-The second day here was my favorite time of the whole trip. We rented 4-wheelers in the early morning and set out on a 30km ride through the jungle to see a group of seven [waterfalls](http://en.wikipedia.org/wiki/Waterfall) named "La Piriquera" 15 km away from the town. When we arrived at the waterfalls, we first had to zip-line down into the valley and then take a short hike to the main fall. Coming back up was a bit more challenging, ascending straight up the mountain only using a knotted rope to climb with.
+The second day here was my favorite time of the whole trip. We rented 4-wheelers in the early morning and set out on a 30km ride through the jungle to see a group of seven [waterfalls](https://en.wikipedia.org/wiki/Waterfall) named "La Piriquera" 15 km away from the town. When we arrived at the waterfalls, we first had to zip-line down into the valley and then take a short hike to the main fall. Coming back up was a bit more challenging, ascending straight up the mountain only using a knotted rope to climb with.
 
 This day was full of adventure and beauty, all complete before lunch!
 
@@ -65,7 +65,7 @@ This day was full of adventure and beauty, all complete before lunch!
 
 ## Salt Cathedral of Zipaquirá
 
-Near Bogotá is the [Salt Cathedral of Zipaquirá](http://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1). If you go to Colombia and don't go here, you should truly feel like you've missed out on something grand. Dubbed, "a wonder of the world, the first wonder of Colombia," photos can't do this place justice. Just get there.
+Near Bogotá is the [Salt Cathedral of Zipaquirá](https://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1). If you go to Colombia and don't go here, you should truly feel like you've missed out on something grand. Dubbed, "a wonder of the world, the first wonder of Colombia," photos can't do this place justice. Just get there.
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
@@ -99,4 +99,4 @@ I have found that [WikiTravel](http://wikitravel.org/) is the best website in t
 
 I make some bold statements here about places being "the best available." How could I know this, I was just there for a short time! Well, the trip was organized by a friend of mine who is from Colombia (Bogotá) and who has travelled extensively throughout the country with his job (producing video and photo shoots for Colombia's top models) and he knows the ins and outs of everything there. If you plan a trip to Colombia, you will be well-served to follow my footsteps!
 
-Have you been to Colombia or are you planning a trip there soon? Please leave me a comment below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Have you been to Colombia or are you planning a trip there soon? Please leave me a comment below or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

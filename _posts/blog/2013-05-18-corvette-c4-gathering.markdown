@@ -33,4 +33,4 @@ The C4 Gathering lasted for four days and was full of information sessions about
 
 Here is your Judson trivia factoid for the day: I grew up in Kentucky, not Louisiana. Did you already know that? If so, then you are either *really* paying attention, or you have known me for a very long time. I've not been back to Kentucky since 1999, and so while I was this close to my childhood home, my childhood best friend, Kevin, surprised me with a visit to Bowling Green! What a great trip!
 
-Are you a Corvette enthusiast? Do you own a C4? Do you want to know more about these beautiful card? Please drop me a note in the comments below, or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Are you a Corvette enthusiast? Do you own a C4? Do you want to know more about these beautiful card? Please drop me a note in the comments below, or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

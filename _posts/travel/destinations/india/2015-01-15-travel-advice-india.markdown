@@ -35,7 +35,7 @@ What India travel guide would be complete without the mentioning of some destina
 
 A great travel plan would be to land in Delhi, see Delhi for 1-2 days, and then go by car to Agra. Agra only requires one day, but you should arrange your travel to see the Taj Mahal at sunrise. Don't be late. Contact Sarfaraz on Whatsapp [(+919412330010](tel:%28%2B919412330010)), he is an amazing guide. He is a university professor and is very knowledgeable about all things Agra. His rate for me was INR 950 for 4 (or maybe 6) hours. While in Agra, you must see the Taj Mahal and the Agra Fort. I also highly recommend seeing the Taj Mahal from across the river; no one is over there, and you can get an awesome photo like this one:
 
-{% cloudinary default /assets/images/2016/01/travel-advice-to-india.jpg alt="Jumping in front of the Taj Mahal in Agra, India." description="Jumping in front of the Taj Mahal in Agra, India." %}
+{% cloudinary /assets/images/2016/01/travel-advice-to-india.jpg alt="Jumping in front of the Taj Mahal in Agra, India." description="Jumping in front of the Taj Mahal in Agra, India." %}
 
 From Agra, take an overnight train all the way to whatever your furthest away destination is if you're thinking of returning at the end to Delhi. So that means take a train to Jodhpur, Udaipur or Jaisalmer; then work your way back toward Delhi for your return flight.
 
@@ -83,4 +83,4 @@ If you have time to do something other than the Golden Triangle, then you should
 
 * Find [JCI Accredited](http://www.jointcommissioninternational.org/about-jci/jci-accredited-organizations/?c=India) hospitals in India.
 
-I hope that this India travel guide has been interesting and informative for you. Please comment below if  you make it to any of these destinations and please share your photos with me at [@judsonlmoore](http://twitter.com/judsonlmoore)! Have fun and good luck!
+I hope that this India travel guide has been interesting and informative for you. Please comment below if  you make it to any of these destinations and please share your photos with me at [@judsonlmoore](https://twitter.com/judsonlmoore)! Have fun and good luck!

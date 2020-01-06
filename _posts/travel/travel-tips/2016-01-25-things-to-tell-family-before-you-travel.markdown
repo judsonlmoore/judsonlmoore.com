@@ -15,7 +15,7 @@ All travel has a lot of moving parts (pun intended). For you, the traveler, you 
 
 > **The most inquisitive and interested folks in all things regarding your whereabouts is likely to be your family.**
 
-So, how do you keep your family informed without making them overly concerned for you and without driving yourself crazy in the process? Below are my principals, but I would love to read your comments with words of wisdom or stories of the experiences you've learned from. You can also message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore).
+So, how do you keep your family informed without making them overly concerned for you and without driving yourself crazy in the process? Below are my principals, but I would love to read your comments with words of wisdom or stories of the experiences you've learned from. You can also message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore).
 
 ## 1. Your Schedule
 
@@ -49,4 +49,4 @@ Travel is like a roller coaster in that though it may come with its ups and down
 
 Always tell your family that you love them. It can never be said enough and it is always the best last words that your family can hear from you, until they hear from you again!
 
-**And now I would love to hear from you! **Please comment below with your experience communicating with your family about travel. What concerns did they have? What made them excited? How did you handle telling them your plans? I am excited to engage with you on this topic! You can also message me at [@judsonlmoore](http://twitter.com/judsonlmoore).
+**And now I would love to hear from you! **Please comment below with your experience communicating with your family about travel. What concerns did they have? What made them excited? How did you handle telling them your plans? I am excited to engage with you on this topic! You can also message me at [@judsonlmoore](https://twitter.com/judsonlmoore).

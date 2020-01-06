@@ -10,4 +10,4 @@ image:			2012/09/LSUmag_Winter2011.jpg
 
 ---
 
-{% cloudinary default /assets/images/2012/09/LSUmag_Winter2011.jpg alt="" description="" %}
+{% cloudinary /assets/images/2012/09/LSUmag_Winter2011.jpg alt="" description="" %}

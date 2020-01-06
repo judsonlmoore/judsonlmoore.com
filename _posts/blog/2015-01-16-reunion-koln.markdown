@@ -32,7 +32,7 @@ Adjacent to the Dom is the Romano-Germanic Museum. This archeological museum is
 
 Köln is an amazingly beautiful city, even in the freezing cold. I look forward to returning soon when the weather is nicer!
 
-Have you been to Köln? Planning a trip to the region? Please leave a comment below or get in touch with me at[@JudsonLMoore](http://twitter.com/judsonlmoore)!
+Have you been to Köln? Planning a trip to the region? Please leave a comment below or get in touch with me at[@JudsonLMoore](https://twitter.com/judsonlmoore)!
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2015-01-16-reunion-koln"] %}

@@ -20,7 +20,7 @@ There are ample shaded sitting areas directly on the beach and lots of historic 
 
 [After spending a week in the mountain town of Diamantina for Carnival](/diamantina-brazil-travel-guide/), visiting the beach scene of Porto Seguro was quite the change of pace. This week at the beach was full diving, flying, learning, dancing, and the makings of an identity story which has been **one of my best accounts to-date!**
 
-_This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](http://visitbrasil.com/). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
+_This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](https://visitbrasil.com/). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
 
 ## In A Nutshell
 
@@ -32,7 +32,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 ## Celebrity encounters in Porto Seguro
 
-{% cloudinary default /assets/images/2017/06/judson-moore-fred-durst.jpg alt="Comparison of Judson Moore and Fred Durst" description="Fred Durst or Judson Moore?" %}
+{% cloudinary /assets/images/2017/06/judson-moore-fred-durst.jpg alt="Comparison of Judson Moore and Fred Durst" description="Fred Durst or Judson Moore?" %}
 
 My friends and I went by bus to Porto Seguro for spring break. The bus journey from Belo Horizonte, [where I was based out of for 6-weeks]({{ site.url }}/belo-horizonte-travel-guide/), was a tiresome overnight ride. The bus was very luxurious and comfortable, but it was a long way to go, **lasting around 15 hours**.
 
@@ -54,11 +54,11 @@ Porto Seguro is located along what is known as the Discovery Coast. Called this 
 
 It is also among the most beautiful places in the country. The beaches feel untouched. There are no major cities for hundreds of miles, no (noticeable) pollution, and **everything is left in a very natural state**.
 
-{% cloudinary default /assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Beach-Panoramic.jpg alt="Porto Seguro, Bahia, Brazil, Beach Panoramic" description="Porto Seguro, Bahia, Brazil, Beach Panoramic. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary /assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Beach-Panoramic.jpg alt="Porto Seguro, Bahia, Brazil, Beach Panoramic" description="Porto Seguro, Bahia, Brazil, Beach Panoramic. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 The entire coastline is lined with beach huts which play music the whole day and night. There is no lack of facility to relax, a place to sit or layout, or servers to bring you a **fresh-cut coconut, pineapple, or a refreshing caipirinha**. The beach life in Porto Seguro is both relaxed and energetic at the same time. You will feel the joy, the fun, and the warmth of the Brazilian spirit while being completely relaxed.
 
-{% cloudinary default /assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Ponta-Grande-Beach.jpg alt="Porto Seguro, Bahia, Brazil, Ponta Grande Beach" description="Porto Seguro, Bahia, Brazil, Ponta Grande Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary /assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Ponta-Grande-Beach.jpg alt="Porto Seguro, Bahia, Brazil, Ponta Grande Beach" description="Porto Seguro, Bahia, Brazil, Ponta Grande Beach. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## Axé: The Music of Bahia. The Music of Brazil.
 
@@ -72,7 +72,7 @@ The Nossa Senhora da Pena Church houses many religious paintings from the sixte
 
 Though not exactly a religious symbol, you must also visit the Discovery Landmark (_Marco do Descobrimento_) which celebrates the original landing spot of Portuguese settlers to Brazil. It is the **Brazilian equivalent to Plymouth Rock** in the USA.
 
-{% cloudinary default /assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Religious-Sculpture.jpg alt="Porto Seguro, Bahia, Brazil, Religious Sculpture" description="Porto Seguro, Bahia, Brazil, Religious Sculpture. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary /assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Religious-Sculpture.jpg alt="Porto Seguro, Bahia, Brazil, Religious Sculpture" description="Porto Seguro, Bahia, Brazil, Religious Sculpture. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## What to do in Porto Seguro
 
@@ -84,10 +84,10 @@ Though Porto Seguro had a lot of tourists at this time, the numerous nightclubs 
 
 There are other watercraft activities like the banana ride and parasailing, which I also did. All of this is easily accessible from any beach in Porto Seguro and is quite affordable, so **I highly recommend that you do it too**!
 
-{% cloudinary default /assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Historic-Center-Clouds.jpg alt="Porto Seguro, Bahia, Brazil, Historic Center Clouds" description="Porto Seguro, Bahia, Brazil, Historic Center Clouds. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
+{% cloudinary /assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Historic-Center-Clouds.jpg alt="Porto Seguro, Bahia, Brazil, Historic Center Clouds" description="Porto Seguro, Bahia, Brazil, Historic Center Clouds. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
 ## Where to get more information about Porto Seguro
 
 For more information about visiting Porto Seguro, [check out this page on VisitBrasil.com](http://www.visitbrasil.com/en/destinos/porto-seguro/)!
 
-**I would love to hear** about your time in Porto Seguro, or how you think this compares to other beach destinations. Please leave a comment below, or, you may **reach out to me directly** on Twitter at [@judsonlmoore](http://twitter.com/judsonlmoore).
+**I would love to hear** about your time in Porto Seguro, or how you think this compares to other beach destinations. Please leave a comment below, or, you may **reach out to me directly** on Twitter at [@judsonlmoore](https://twitter.com/judsonlmoore).

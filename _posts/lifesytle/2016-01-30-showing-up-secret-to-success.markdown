@@ -33,4 +33,4 @@ When opportunity comes knocking or someone invites you to learn more about an o
 
 > Every Day. Every Time. Without Fail. No Exceptions - [Paul Cummings, CEO of Woople](http://paulcummings.com/)
 
-What are some examples of times you have shown up? What are your struggles? What are your successes? Please share by leaving a comment now or by messaging me at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+What are some examples of times you have shown up? What are your struggles? What are your successes? Please share by leaving a comment now or by messaging me at [@judsonlmoore](https://twitter.com/judsonlmoore)!

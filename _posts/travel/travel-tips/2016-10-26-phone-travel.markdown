@@ -49,7 +49,7 @@ That way when you text someone, they will respond to your iMessage only and not 
 
 Once you’re on the plane, remove your SIM card. You’ll also want a [SIM tool](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=sim+tool) just to make life easier, or just use a paperclip.
 
-{% cloudinary default /assets/images/2016/10/iphone-sim-removal-diagram.png alt="A diagram of how to remove a SIM card from an iPhone with a paperclip." description="" %}
+{% cloudinary /assets/images/2016/10/iphone-sim-removal-diagram.png alt="A diagram of how to remove a SIM card from an iPhone with a paperclip." description="" %}
 
 Keep the SIM card like it’s your passport. You don’t want to get back on US soil and not have service. Seriously, if you lose your passport they’ll still let you back into the country. No SIM card means you have to go to the AT&T or Verizon store.
 
@@ -69,6 +69,6 @@ Once you get the prepaid plan worked out, they’ll usually offer to install the
 
 When you need to use an app, if you turned off cell service for everything, it will popup a message directing you to go to settings and turn it back on for that app. You’ll also get alerts if a wifi hotspot is available. Only recommendation is to never turn on cell access for Facebook, which will do it’s best to use a bunch of data in the background when you don’t have the app open. I normally can get by with Google Maps, Safari, and that’s about it.
 
-Do you have a preferred phone carrier when abroad? Do you have other tips to share? Please leave a comment below, or message me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
+Do you have a preferred phone carrier when abroad? Do you have other tips to share? Please leave a comment below, or message me directly at [@JudsonLMoore](https://twitter.com/judsonlmoore).
 
 _featured photo: [Steve Schroeder](https://www.flickr.com/photos/uncleboatshoes/)_

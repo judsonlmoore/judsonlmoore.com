@@ -12,7 +12,7 @@ image:			2013/05/IMG_1765.jpg
 
 Before we get too far down the Istanbul rabbit hole of awesomeness, let me remind you that I just had a major abdominal surgery a few weeks ago and am still very much in the midst of recovering. I give a lot of thumbs ups and smiles for the camera, but I had to move really carefully and slowly through all of this. That said, please forgive me if I tended to not do my hair.
 
-I would also love to hear from you about your past or future time spent in Istanbul. Please share your story in the comments below or by messaging me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+I would also love to hear from you about your past or future time spent in Istanbul. Please share your story in the comments below or by messaging me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!
 
 Naziia accompanied me on this trip and it was an amazing honeymoon of sorts. She really made this trip possible by getting us hooked up at one of her friend's homes in the beautiful Florya neighborhood of Istanbul.
 
@@ -104,4 +104,4 @@ For anything else we did not have time (nor I the health) to see in Turkey, we l
 {% assign images = gallery[""] %}
 {% include gallery-lightbox.html images=images %}
 
-Did I miss something? What is your favorite thing from Istanbul? Please write me a comment below, or reach me [@JudsonLMoore](http://twitter.com/judsonlmoore)!
+Did I miss something? What is your favorite thing from Istanbul? Please write me a comment below, or reach me [@JudsonLMoore](https://twitter.com/judsonlmoore)!

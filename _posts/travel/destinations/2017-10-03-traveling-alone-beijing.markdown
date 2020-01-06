@@ -32,7 +32,7 @@ I reached my hostel very late that night. It was tucked in what seemed like the 
 
 When I entered the hostel, all the beds were occupied by sleeping women. I did my best to be quiet, undressing in the dark, adding extra socks, sweaters, and pants to stay warm and climbed into the top bunk. I fell asleep immediately. The next day would be my first full day in Beijing.
 
-{% cloudinary default /assets/images/2017/10/kelly-branyik-propitious-panda-marble-boat.jpg alt="Kelly Branyik of Propitious Panda marble boat on frozen lake" description="" %}
+{% cloudinary /assets/images/2017/10/kelly-branyik-propitious-panda-marble-boat.jpg alt="Kelly Branyik of Propitious Panda marble boat on frozen lake" description="" %}
 
 ## The Great Wall of China, Badaling, South Wall in Beijing
 
@@ -58,7 +58,7 @@ It was a carved wooden doll that resembled a nesting doll. It’s smiling face a
 
 It was quite possibly the only thing this boy had to give me. And while it may not have been worth much when he bought it, it was worth a fortune to me. It was moments like this that brought me to China in the first place. I wanted to see places, experience the world, connect with people and make a lasting impact on at least one person. Down the road, I would impact many.
 
-{% cloudinary default /assets/images/2017/10/kelly-branyik-propitious-panda-carved-doll.jpg alt="Kelly Branyik of Propitious Panda shows a wooden carved doll" description="" %}
+{% cloudinary /assets/images/2017/10/kelly-branyik-propitious-panda-carved-doll.jpg alt="Kelly Branyik of Propitious Panda shows a wooden carved doll" description="" %}
 
 ## Communicating Love and Gratitude
 

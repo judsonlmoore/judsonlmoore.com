@@ -72,7 +72,7 @@ Sleep was a welcome distraction to the pain which started to creep in, but these
 
 **Day 2**
 
-Around the time I was finally resting in the ICU I was abruptly interrupted by two nurses poking at my stitches. I didn't really feel it, the drugs were still in my system, but it was enough to wake me. Then they pulled up a gurney next to my bed and instructed me to brace for impact, this was going to hurt. And boy did it hurt when I moved to the other bed. That was more awakening than a Starbucks redshot and gave me an appreciation for [how Harry Whittington must have felt when Dick Cheney shot him in the face](http://en.wikipedia.org/wiki/Dick_Cheney_hunting_incident) with a shotgun.
+Around the time I was finally resting in the ICU I was abruptly interrupted by two nurses poking at my stitches. I didn't really feel it, the drugs were still in my system, but it was enough to wake me. Then they pulled up a gurney next to my bed and instructed me to brace for impact, this was going to hurt. And boy did it hurt when I moved to the other bed. That was more awakening than a Starbucks redshot and gave me an appreciation for [how Harry Whittington must have felt when Dick Cheney shot him in the face](https://en.wikipedia.org/wiki/Dick_Cheney_hunting_incident) with a shotgun.
 
 Once nestled into my wheeled platform, I had no choice but to watch the ceiling lights zoom by, or at least the light fixtures, as many of them didn't actually have bulbs in them. After a few turns down not very lengthy hallways we entered a room. My room. My "lux" room.
 

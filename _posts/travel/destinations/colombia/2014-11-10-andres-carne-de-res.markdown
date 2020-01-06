@@ -23,4 +23,4 @@ The original location is just outside of town. If you get a chance, go to the o
 
 \*this is an excerpt from [a longer article]({{ site.url }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).
 
-Have you eaten here or spent the whole night dancing away the calories? Please share your story in the comments below or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Have you eaten here or spent the whole night dancing away the calories? Please share your story in the comments below or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

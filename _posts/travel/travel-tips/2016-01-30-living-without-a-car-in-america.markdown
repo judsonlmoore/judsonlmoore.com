@@ -63,4 +63,4 @@ via [Bikemunk](https://www.bikemunk.com/bike-share-companies/)
 
 Of course you can also walk to where you are going if you have the time. I find that I walk the 4-miles home in about an hour. This is my favorite hour of the day because I get to listen to a podcast, call my parents, or just enjoy the fresh air and lack of emails. You can also invest in your own bike and use that to get where you are going much more quickly than your feet can take you.
 
-Check out [Walk Score](https://www.walkscore.com/) to see how your neighborhood ranks for walkability and other alternative transportation factors! Learn something new? Please share by posting a comment below or by messaging me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Check out [Walk Score](https://www.walkscore.com/) to see how your neighborhood ranks for walkability and other alternative transportation factors! Learn something new? Please share by posting a comment below or by messaging me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

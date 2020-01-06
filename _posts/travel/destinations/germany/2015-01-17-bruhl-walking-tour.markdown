@@ -22,7 +22,7 @@ Unlike most of west Germany, there are actually some fairly significant hills he
 
 The Augustusburg Palace is a UNESCO World Heritage Site, noteworthy for being one of the finest examples of Rococo interiors in the world. Because the palace was closed on the day I visited so I just got to explore the historic hunting grounds around the palace, but I will certainly return and get the full tour soon!
 
-Have you been to Brühl? Planning a trip to the region? Please leave a comment below or get in touch with me at [@JudsonLMoore](http://twitter.com/judsonlmoore)!
+Have you been to Brühl? Planning a trip to the region? Please leave a comment below or get in touch with me at [@JudsonLMoore](https://twitter.com/judsonlmoore)!
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2015-01-17-bruhl-walking-tour"] %}

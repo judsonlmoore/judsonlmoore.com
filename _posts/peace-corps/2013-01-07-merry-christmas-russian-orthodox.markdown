@@ -10,7 +10,7 @@ image:			2013/01/BishkeksOrthodoxCathedral_010.jpg
 
 ---
 
-January 7th is the date of Orthodox Christmas. For a long and detailed explanation of why this differs from the western-celebrated December 25th Christmas you can refer to [this article on Wikipedia](http://en.wikipedia.org/wiki/Christmas#Date_of_celebration). My friend Dimity instructed me to the time and place where the Orthodox observance of Christmas could be witnessed in Bishkek and I wrangled up about 15 other foreign friends and we went to the Bishkek Orthodox Cathedral together at 8pm to take it all in.
+January 7th is the date of Orthodox Christmas. For a long and detailed explanation of why this differs from the western-celebrated December 25th Christmas you can refer to [this article on Wikipedia](https://en.wikipedia.org/wiki/Christmas#Date_of_celebration). My friend Dimity instructed me to the time and place where the Orthodox observance of Christmas could be witnessed in Bishkek and I wrangled up about 15 other foreign friends and we went to the Bishkek Orthodox Cathedral together at 8pm to take it all in.
 
 We were instructed that the ceremony would begin when the first stars appeared in the sky. Locally that was a little before 8pm. However, the rule actually applies to when the first starts appear of Israel, not where the local church stands. So at 11pm the ceremony began.
 

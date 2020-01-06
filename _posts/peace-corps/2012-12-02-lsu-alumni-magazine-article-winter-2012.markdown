@@ -18,7 +18,7 @@ As beautiful summer days become a distant memory from this dark and cold Kyrgyzs
 
 What else could I hope to accomplish in my last six months? Lots!
 
-Though I have been working on the business and sustainability model of the internet radio broadcast at http://kloop.kg/online-radio/, we still have to begin the actual broadcast. This should happen sometime in January. Once we begin with our broadcast, we will have a lot of further development to do: writing new programs, scheduling in-studio programs and developing the syndication pipeline of programs originating from the rural regions of Kyrgyzstan.
+Though I have been working on the business and sustainability model of the internet radio broadcast at https://kloop.kg/online-radio/, we still have to begin the actual broadcast. This should happen sometime in January. Once we begin with our broadcast, we will have a lot of further development to do: writing new programs, scheduling in-studio programs and developing the syndication pipeline of programs originating from the rural regions of Kyrgyzstan.
 
 In addition to the development work I am doing, there are many important cross-cultural activities I participate in. My favorite activity has been hosting dinner parties at my apartment so that I can share Louisiana-style food with my Kyrgyz friends. Usually this means red beans and rice because the ingredients are available here and it is cheap and easy to cook for large groups. Spicy food is not so common in Kjyrgyzstan so I go easy on the spices but I haven't had anyone complain yet. As would be expected, the food has convinced a few people that Louisiana is a place they need to visit one day. Mission accomplished!
 

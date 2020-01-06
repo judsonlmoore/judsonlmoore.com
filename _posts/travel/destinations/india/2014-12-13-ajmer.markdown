@@ -22,7 +22,7 @@ After the temple, we continued on to Lake Ana Sagar, a 900-year old manmade lake
 
 We only had a few hours to spend in Ajmer, so after finding a quick coffee we hailed a cab and moved on to the nearby town of Pushkar where we embarked on an [overnight camel safari]({{ site.url }}/pushkar/)!
 
-Have you been to Ajmer? Planing a trip there? Please leave me a comment below, or message me directly at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Have you been to Ajmer? Planing a trip there? Please leave me a comment below, or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-12-13-ajmer"] %}

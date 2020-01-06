@@ -16,7 +16,7 @@ After a short 3 hour drive south on the German Autobahn from Düsseldorf, just 
 
 If you are able to make a trip to Landau I recommend staying at the [Heiligenthaler Hof Apartments and Rooms](http://www.apartmenthaus-heiligenthaler-hof.de/) which are super nice and come at a very low price tag. Even better, the restaurant here is Greek and some of the best food I've ever eaten. All the staff were super friendly and treated us like family, even giving us a few rounds of ouzo when we helped them fix their lights.
 
-If you are planning a trip to Landau or have been here before, please let me know about it by leaving a comment below or by reaching me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
+If you are planning a trip to Landau or have been here before, please let me know about it by leaving a comment below or by reaching me directly at [@JudsonLMoore](https://twitter.com/judsonlmoore).
 
 ## Weingut Pfirmann Taste Testing
 
@@ -26,7 +26,7 @@ Upon arrival, we were cheerfully greeted by the owner and wine master, who didn'
 
 After a brief tour of the facilities and a crash course of the winemaking process, we moved into the tasting room and the main event got underway.
 
-{% cloudinary default /assets/images/2016/08/germany-wine-country-taste-testing-at-weingut-pfirmann.jpg alt="Germany Wine Country Taste Testing at Weingut Pfirmann" description="" %}
+{% cloudinary /assets/images/2016/08/germany-wine-country-taste-testing-at-weingut-pfirmann.jpg alt="Germany Wine Country Taste Testing at Weingut Pfirmann" description="" %}
 
 _photo credit: Kathrin Rupprath_
 
@@ -68,6 +68,6 @@ Download the entire Weingut Pfirmann 2016 wine list [here (PDF)" file="../asse
 
 It is hard to say that there was a part of this day's experience which was better than the wine. However, the walk home was what the day was really about. We spent hours soaking in the German wine country by wandering through the vineyards and rolling hills. Time with friends, enjoying the evening air, and a beautiful sunset, this is what makes life rich and memories grand.
 
-I highly recommend that you make a visit to the German wine country and to Landau. Take your family, your friends, or just yourself. You are going to have a great time! Have you been to Landau before? Are you thinking about making a trip there? I would love to hear your thoughts in the comments below, or reach out to me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore).
+I highly recommend that you make a visit to the German wine country and to Landau. Take your family, your friends, or just yourself. You are going to have a great time! Have you been to Landau before? Are you thinking about making a trip there? I would love to hear your thoughts in the comments below, or reach out to me directly at [@JudsonLMoore](https://twitter.com/judsonlmoore).
 
-{% cloudinary default /assets/images/2016/09/friends-in-the-german-wine-country-walking-through-a-vineyard.jpg alt="Friends in the German Wine Country walking through a vineyard." description="" %}
+{% cloudinary /assets/images/2016/09/friends-in-the-german-wine-country-walking-through-a-vineyard.jpg alt="Friends in the German Wine Country walking through a vineyard." description="" %}

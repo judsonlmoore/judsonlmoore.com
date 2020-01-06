@@ -21,7 +21,7 @@ I can tell a lot of stories on this topic, but here are the two greatest keys to
 
 - **Demonstrate the Numbers** - Create a spreadsheet to show the costs of travel strictly for work vs. the cost of granting you a few extra days. This can include a ticket with a third leg or a delayed return date. If the flight price doesn't change and you are going to cover your own lodging costs for the additional dates, many employers will go along with your proposed plan.
 
-Here are a few brief stories of how I have negotiated some awesome travel policies. Need advice? Have tips to add? Please leave a comment below and share your story with me at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Here are a few brief stories of how I have negotiated some awesome travel policies. Need advice? Have tips to add? Please leave a comment below and share your story with me at [@judsonlmoore](https://twitter.com/judsonlmoore)!
 
 ## Holiday Swap
 
@@ -53,4 +53,4 @@ Be sure to register for all the reward points programs for your flights and hote
 
 Expenses really add up when traveling. Consider getting a charge card which earns extra points on travel expenses and which have no foreign transaction fees. American Express Platinum and Chase Sapphire Preferred are my favorite, but there are tons of options out there. For a very in-depth look at rewards programs, check out [The Points Guy](http://thepointsguy.com/2016/01/best-starter-travel-rewards-cards-2016/).
 
-For some additional reading and travel policy negotiation insights, check out this article by [Joe Sharkey of the New York Times](http://www.nytimes.com/2012/08/21/business/corporate-travel-policies-can-entice-or-repel-job-seekers.html?_r=0). Have you had successes or challenges in negotiating awesome travel policies with your employer? Please share your experiences by leaving a comment below or messaging me at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+For some additional reading and travel policy negotiation insights, check out this article by [Joe Sharkey of the New York Times](http://www.nytimes.com/2012/08/21/business/corporate-travel-policies-can-entice-or-repel-job-seekers.html?_r=0). Have you had successes or challenges in negotiating awesome travel policies with your employer? Please share your experiences by leaving a comment below or messaging me at [@judsonlmoore](https://twitter.com/judsonlmoore)!

@@ -27,7 +27,7 @@ Metadata is all of the behind the scenes data which make the Internet the Intern
 
 Please forgive the nerd in me that despite my best judgement will now show you a really boring (but instructive) workflow chart.
 
-{% cloudinary default /assets/images/2016/08/metasearch-explained.svg alt="JakobVoss [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]" description="" caption="JakobVoss [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]" %}
+{% cloudinary /assets/images/2016/08/metasearch-explained.svg alt="JakobVoss [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]" description="" caption="JakobVoss [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]" %}
 
 _source: [Jakob Voss](https://en.wikipedia.org/wiki/Metasearch_engine#/media/File:Meta-search-en.svg)_
 
@@ -80,6 +80,6 @@ Here are some examples of travel metasearch sites as well as a few which are not
 
 ## In Closing
 
-Do you use any of the metasearch tools I mentioned here? Other metasearch site or apps? Do you find them useful, or do you find them to be an unnecessary extra layer of the internet? Please let me know your thoughts in the comments below, or you can reach me directly at [@JudsonLMoore](http://twitter.com/judsonlmoore/).
+Do you use any of the metasearch tools I mentioned here? Other metasearch site or apps? Do you find them useful, or do you find them to be an unnecessary extra layer of the internet? Please let me know your thoughts in the comments below, or you can reach me directly at [@JudsonLMoore](https://twitter.com/judsonlmoore/).
 
 _featured photo credit [Tim Gouw](https://unsplash.com/@punttim)._

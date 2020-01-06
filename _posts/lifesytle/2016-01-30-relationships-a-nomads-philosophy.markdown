@@ -27,4 +27,4 @@ I do believe that the most common exception to this theory is seen during honeym
 
 The best way to keep any relationship healthy over the long haul is by continuous shared experience and maintaining good communication.
 
-Do you have examples of this being true or not true? Agree or disagree? Please write a comment below or message me at [@judsonlmoore](http://twitter.com/judsonlmoore) with your thoughts.
+Do you have examples of this being true or not true? Agree or disagree? Please write a comment below or message me at [@judsonlmoore](https://twitter.com/judsonlmoore) with your thoughts.

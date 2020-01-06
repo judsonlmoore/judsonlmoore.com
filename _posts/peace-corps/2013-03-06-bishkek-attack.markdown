@@ -12,11 +12,11 @@ image:			2013/03/thumbs_up_doctors_iStock_00_620x350.jpg
 
 Just considering that I would begin this post with something like, "I don't know how important it is to tell you that..." should be a pretty clear indicator, but for the sake of documentation, and most importantly, to let you all know that I am OK, let me tell you a little about my Saturday evening.
 
-Saturday was the birthday celebration of a close colleague and friend of mine from [Kloop Media,](http://kloop.kg/) Ilya. Starting with dinner and drinks at his house, we quickly moved on to a nice dance club in Bishkek called [Promzona](http://promzona.kg/). After what seems like an unreasonably short period of time we decided to change venues to a downtown dance club where I decided not to stick around and that I was tired and wanted to go home. I was tired of paying for taxis and I was very near my new apartment so I decided to walk. The weather was nice.
+Saturday was the birthday celebration of a close colleague and friend of mine from [Kloop Media,](https://kloop.kg/) Ilya. Starting with dinner and drinks at his house, we quickly moved on to a nice dance club in Bishkek called [Promzona](http://promzona.kg/). After what seems like an unreasonably short period of time we decided to change venues to a downtown dance club where I decided not to stick around and that I was tired and wanted to go home. I was tired of paying for taxis and I was very near my new apartment so I decided to walk. The weather was nice.
 
 Sparing you the details, just as I arrived to my apartment building, 2 drunk guys started talking to me. I ignored them and moved past them. As I moved passed them I was struck in the back of my head and neck and fell to the ground. I got up and ran into a nearby 24-hour cafe where I handed my phone to a waitress as it called the Peace Corps emergency number. As she took the phone, I lost consciousness.
 
-{% cloudinary default /assets/images/2013/03/thumbs_up_doctors_iStock_00_620x350.jpg alt="Doctors Give Thumbs Up" alt="" description="" %}
+{% cloudinary /assets/images/2013/03/thumbs_up_doctors_iStock_00_620x350.jpg alt="Doctors Give Thumbs Up" alt="" description="" %}
 
 Actually, I don't remember the attack at all because of the minor concussion I received. No, I was not drunk and alcohol was quickly ruled out as a contributing factor. The drinks I had at dinner were light and many hours earlier. I have only been able to put this story together by interviewing witnesses and making a few speculations.
 

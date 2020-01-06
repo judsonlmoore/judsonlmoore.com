@@ -14,7 +14,7 @@ image:			2013/01/2013-01-01_bishkek-newyear_featured.jpeg
 {% assign images = gallery["2013-01-05-new-years-2013"] %}
 {% include gallery-lightbox.html images=images %}
 
-_Photo Credit: Kloop.kg ([source](http://kloop.kg/blog/kloop_galleries/fejerverki-nad-bishkekom/))_
+_Photo Credit: Kloop.kg ([source](https://kloop.kg/blog/kloop_galleries/fejerverki-nad-bishkekom/))_
 
 Bringing in 2013 in Kyrgyzstan was quite a spectacular series of events! Unlike in America, New Years Eve is a formal family affair. Imagine combining Thanksgiving, Christmas and New Year all together: Santa Clause (Father Frost) and his grand daughter deliver presents to children on New Years Eve, every house has a New Years Tree decorated almost exactly as westerners would expect to find a Christmas tree and at midnight there are fireworks and champaign to bring it all to a close. All of this is celebrated with family; friends rarely get into the mix.
 

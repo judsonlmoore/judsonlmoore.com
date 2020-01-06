@@ -48,7 +48,7 @@ _(Min 3 nights. Max 4-5 nights)_
 
 _(Min 1 night. Max 3 nights) (DO NOT TRAVEL AT NIGHT TO / FROM TALAS)_
 - [RadioMost](http://radiomost.org/)
-- [Manas Ordo](http://en.wikipedia.org/wiki/Manas_Ordo)
+- [Manas Ordo](https://en.wikipedia.org/wiki/Manas_Ordo)
 - The River (notice the under-water cafe and the waterslide at the little lake on your right as you approach the river
 - Duck Schaschlik
 - Maybe go to Pakrovka to the dam.. home of the largest bust of Lenin in the world (or so we were always told)
@@ -58,7 +58,7 @@ _(Min 1 night. Max 3 nights) (DO NOT TRAVEL AT NIGHT TO / FROM TALAS)_
 _(Min 1 night. Max 3 nights)_
 - Beach Town.
 - Eat at [У рыбака](https://foursquare.com/v/%D1%83-%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%B0/4e219196628469a57416a165) “The Fisherman”
-- [Chyngyz Aitmatov Museum ](http://en.wikipedia.org/wiki/Chinghiz_Aitmatov)
+- [Chyngyz Aitmatov Museum ](https://en.wikipedia.org/wiki/Chinghiz_Aitmatov)
 - Hippodrom (if there are horse games, [Kok-Boru](http://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
 
 ## **Karakol - Winter Ski Destination**
@@ -102,4 +102,4 @@ _(In order of my favorites)_
 - Chai… lots and lots of chai of BOTH kinds: red (black) and green tea.
 - Coffee from Sierra Coffee
 
-Have you been to Kyrgyzstan before? Please leave your thoughts in the comments below or get in touch with me at [@judsonlmoore](http://twitter.com/judsonlmoore)! I am also happy to put pretty much anyone in direct contact with my friends and family in Kyrgyzstan. **Safe travels!**
+Have you been to Kyrgyzstan before? Please leave your thoughts in the comments below or get in touch with me at [@judsonlmoore](https://twitter.com/judsonlmoore)! I am also happy to put pretty much anyone in direct contact with my friends and family in Kyrgyzstan. **Safe travels!**

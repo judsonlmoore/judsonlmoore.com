@@ -19,7 +19,7 @@ Previously, while working in Talas, I was working at [RadioMost 100.5 FM](http:/
 
 ## The New Project: KyrgyzMedia.com
 
-This project aims to expand the reach of the small radio stations in the rural areas of the country and allow for the whole world to tune in 24/7 and listen to radio journalists reporting from all regions of the country. Kloop currently produces a daily 30-minute news program in 3 languages (Russian,  Kyrgyz and Uzbek) which can be heard at [http://radio.kloop.kg](http://kloop.kg/online-radio/). Analytics of the Kloop website suggest that our main audience are Kyrgyz immigrant workers living abroad, primarily in Russia. By providing streaming radio, these Kyrgyz people living abroad will have a chance to hear not only the national and headline news of Kyrgyzstan, but hear what is happening in their home communities.
+This project aims to expand the reach of the small radio stations in the rural areas of the country and allow for the whole world to tune in 24/7 and listen to radio journalists reporting from all regions of the country. Kloop currently produces a daily 30-minute news program in 3 languages (Russian,  Kyrgyz and Uzbek) which can be heard at [http://radio.kloop.kg](https://kloop.kg/online-radio/). Analytics of the Kloop website suggest that our main audience are Kyrgyz immigrant workers living abroad, primarily in Russia. By providing streaming radio, these Kyrgyz people living abroad will have a chance to hear not only the national and headline news of Kyrgyzstan, but hear what is happening in their home communities.
 
 The internet broadcast is scheduled to begin in January 2013. I will keep you updated on our progress.
 

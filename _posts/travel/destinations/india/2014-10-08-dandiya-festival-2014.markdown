@@ -15,7 +15,7 @@ image:			2014/10/10710578_1484575781810747_2165003879202651235_n.jpg
 
 As it so happened, the months I spent in India spanned the peak festival season. I love festivals, so this was very convenient. Of all the cultural events I attended, Dandiya was my favorite. The music seemed to be unique to this festival. I never heard music elsewhere in India with so much percussion, and, to be honest, I rarely ever heard live music of any nature, but this night made up for that. I like to describe the band as having the "correct number of drummers," because everyone on stage was a percussionist! (keep in mind that piano is a percussion instrument; therefore a synthesizer is too!)
 
-Dandiya has a fascinating history ([Wikipedia](http://en.wikipedia.org/wiki/Dandiya_Raas)) and the modern celebration features dance performances that honor the goddess Durga by depicting a battle between the goddess and the demon-king Mahishasura. The dance is sometimes referred to as "The Sword Dance" because participants carry sticks that they twirl and strike against the sticks of other dancers while twirling. I feel that this dance has some similarities to the Brazilian martial art, Capoeira.
+Dandiya has a fascinating history ([Wikipedia](https://en.wikipedia.org/wiki/Dandiya_Raas)) and the modern celebration features dance performances that honor the goddess Durga by depicting a battle between the goddess and the demon-king Mahishasura. The dance is sometimes referred to as "The Sword Dance" because participants carry sticks that they twirl and strike against the sticks of other dancers while twirling. I feel that this dance has some similarities to the Brazilian martial art, Capoeira.
 
 ## The Best Dressed Man At Dandiya
 

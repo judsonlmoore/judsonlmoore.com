@@ -19,7 +19,7 @@ I traveled to three places in Rajasthan: Jaipur, Ajmer and Pushkar. I tell my s
 
 ## Jaipur, Rajasthan
 
-{% cloudinary default /assets/images/2016/03/Jaipur-Rajasthan-India-Hall-Of-Mirrors.jpg alt="Jaipur Rajasthan India Hall Of Mirrors" description="" %}
+{% cloudinary /assets/images/2016/03/Jaipur-Rajasthan-India-Hall-Of-Mirrors.jpg alt="Jaipur Rajasthan India Hall Of Mirrors" description="" %}
 
 _The Pink City_, as Jaipur is known, is called as such because all the buildings here are painted a reddish pinkish color to imitate the red sandstone architecture of Mughal cities, from which Jaipur is fashioned. This western point of the famous Golden Triangle of India sits in the heart of Rajasthan and is the route that connects Delhi, Agra and Jaipur, so that should tell you something about how important of a place this is. Jaipur is the largest city in Rajasthan.
 
@@ -39,7 +39,7 @@ One art piece that I thought was striking was a number of rifles and spears that
 
 ## Ajmer, Rajasthan
 
-{% cloudinary default /assets/images/2016/03/Ajmer-Rajasthan-India-Ana-Sagar-Lake.jpg alt="Ajmer-Rajasthan-India-Ana-Sagar-Lake" description="" %}
+{% cloudinary /assets/images/2016/03/Ajmer-Rajasthan-India-Ana-Sagar-Lake.jpg alt="Ajmer-Rajasthan-India-Ana-Sagar-Lake" description="" %}
 
 My first train ride in India led me to Ajmer, a small town in the heart of Rajasthan. Ajmer is a small town of only 500,000 people (which is a small town in these parts). The town was easily walkable, which is what we opted to do for the mile journey to Daulat Bagh, a park on Lake Ana Sagar. In the park, we came across an interesting temple to Lord Shiva. I would later learn that king cobra snakes are present in all of Lord Shiva’s temples, but in Rajasthan they seem to be much more prominent. Despite this, I only came across one real king cobra snake on my journey and I was more afraid of its charmer than I was the snake its self.
 
@@ -49,7 +49,7 @@ We only had a few hours to spend in Ajmer, so after finding a quick coffee we ha
 
 ## Pushkar - Religious Center of Rajasthan
 
-{% cloudinary default /assets/images/2016/03/Pushkar-Rajasthan-India-On-Camel.jpg alt="Pushkar Rajasthan India On Camel" description="" %}
+{% cloudinary /assets/images/2016/03/Pushkar-Rajasthan-India-On-Camel.jpg alt="Pushkar Rajasthan India On Camel" description="" %}
 
 Pushkar is one of the most significant pilgrimage sites for Hindus. Hindus believe that Lord Brahma, the Hindu god of creation, created Pushkar. Despite the significance of Lord Brahma, there are very few temples in the world are dedicated to him, thanks to the [Curse of Savitri](https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar#Legend). The Pushkar temple is, however, the most significant of the Brahma temples and viewed by many as the only legitimate temple. Pushkar is widely considered to be one of the most religious places in the world.
 
@@ -68,4 +68,4 @@ I woke at morning’s first light, and the guides already had ginger tea hot and
 
 Once back in Pushkar, we had to move quickly to make our bus back to Jaipur. Our bus departed from Ajmer and to get back there we had to haggle with a driver pretty hard. He only agreed to take us after we decided to walk away, which is a great negotiating tactic. The guy chased us down and decided to drive us to Ajmer on a back road that seemed very much in the wrong direction and Google Maps seemed to confirm that we were just being taken out into the desert. This was a pretty scary moment trying to figure out if we were being kidnapped, but in the end, the road we were on took us exactly where we were trying to go and the driver was a pleasure to ride with. But you never know... All in all, this trip was one for the ages and I encourage you to visit Rajasthan when you have the chance!
 
-Questions? Additions? Please write your thoughts in the comments section below or get in touch with me at [@judsonlmoore](http://twitter.com/judsonlmoore)!
+Questions? Additions? Please write your thoughts in the comments section below or get in touch with me at [@judsonlmoore](https://twitter.com/judsonlmoore)!
