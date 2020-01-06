@@ -117,7 +117,7 @@ The home of the famous Aran sweater, and original of Ireland! Sweaters, scarfs, 
 **George's Street Arcade**
 _S Great George's St, Dublin 2, Dublin, Ireland_
 Ornate 1881 shopping plaza offering indie clothing boutiques & food vendors, plus books & jewelry.
-[Website](http://georgesstreetarcade.ie/)
+[Website](https://georgesstreetarcade.ie/)
 
 If you are interested in **secondhand and vintage shops**, then you must [check out Siopaella](https://www.siopaella.com). There are four locations in Dublin, all very near each other. Each location has a different specialty, ranging from furnishings and luxury goods to more vintage items.
 
@@ -167,7 +167,7 @@ I wrote [a comprehensive review of the Jameson Distillery]({{ site.url }}/jameso
 
 - **Time to Budget: **2 hours
 
-- **Official Website:** [jamesonwhiskey.com](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st)
+- **Official Website:** [jamesonwhiskey.com](https://www.jamesonwhiskey.com/en-IE/visit-us/jameson-distillery-bow-st)
 
 - **Additional reading:** [Jameson distillery tour and whiskey tasting experience]({{ site.url }}/jameson-distillery-tour-dublin/)
 
@@ -185,7 +185,7 @@ And yes, you can get married here, too!
 
 - **When to visit:** Evening
 
-- **Official Website:** [thechurch.ie](http://thechurch.ie/)
+- **Official Website:** [thechurch.ie](https://www.thechurch.ie/)
 
 {% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." description="The Church Bar in Dublin Ireland" %}
 
@@ -389,7 +389,7 @@ Directly under the train station is a restaurant called The Bloody Stream. The a
 
 - **Time to Budget:** 1-2 hours
 
-- **Official Website:** [bloodystream.ie](http://bloodystream.ie/)
+- **Official Website:** [bloodystream.ie](https://bloodystream.ie/)
 
 {% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-howth-fish-chips.jpg alt="The traditional fish and chips at The Bloody Stream in the Howth Railway Station" description="Fish and Chips at The Bloody Stream in the Howth Railway Station" %}
 

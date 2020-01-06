@@ -39,7 +39,7 @@ Here are some things to consider linking:
 
 Be sure to style your links in an attractive way. I prefer to style my links to blend in with the rest of the text so that the document is attractive when printed, even though it means you can't visually see the links, it makes for a nice subtle detail recruiters notice when they float their cursor over the document.
 
-You should also utilize a URL shortening service, such as [bit.ly](https://bitly.com/) or [goo.gl](https://goo.gl/) so that you can track how often and when each link gets clicked. This data can be super useful to you during your job pursuits.
+You should also utilize a URL shortening service, such as [bit.ly](https://bitly.com/) so that you can track how often and when each link gets clicked. This data can be super useful to you during your job pursuits.
 
 ## Make It Easy To Send Email
 

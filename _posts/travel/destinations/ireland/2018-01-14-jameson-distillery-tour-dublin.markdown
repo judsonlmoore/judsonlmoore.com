@@ -30,7 +30,7 @@ Now, don't get me wrong, I was raised in Kentucky (hint, that is foreshadowing..
 
 ## Take the Jameson Distillery Bow St. Tour in Dublin
 
-The tour of The Jameson Distillery is called [The Bow St. Experience](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/bow-st-experience). I think this is for two reasons. The obvious one is that the distillery is located on Bow St. The second is that **it is not a distillery anymore**, rather it is a museum of the original distillery, thus, it is an "experience" and not really a distillery tour. According to [the Jameson website](https://www.jamesonwhiskey.com/ie/visit-us), _every drop of Jameson is produced in Midleton, Cork,_ about a 3-hour drive away.
+The tour of The Jameson Distillery is called [The Bow St. Experience](https://www.jamesonwhiskey.com/en-IE/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/bow-st-experience). I think this is for two reasons. The obvious one is that the distillery is located on Bow St. The second is that **it is not a distillery anymore**, rather it is a museum of the original distillery, thus, it is an "experience" and not really a distillery tour. According to [the Jameson website](https://www.jamesonwhiskey.com/en-IE/visit-us), _every drop of Jameson is produced in Midleton, Cork,_ about a 3-hour drive away.
 
 **The tour consists of four parts.** The first part is mostly about waiting for the second part, but you wait along a wall with a very nice timeline of Jameson history. Much of this is to understand the origins of Jameson, the life of the founder, John Jameson, and the impact that this *city within a city* has had on Dublin, Ireland, and the world.
 
@@ -54,13 +54,13 @@ We then moved on to the third tasting, which was, of course, Jameson.
 
 **I think having back to back whiskeys is pretty rough on the pallet** and I am not so convinced that tasting them like this is really the best idea, but still, I appreciated the opportunity and it was a great way to round off the end of the Jameson Distillery Bow St. Tour.
 
-Learn more about this tour and book tickets for your visit on [the Jameson website](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/bow-st-experience).
+Learn more about this tour and book tickets for your visit on [the Jameson website](https://www.jamesonwhiskey.com/en-IE/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/bow-st-experience).
 
 {% cloudinary /assets/images/2018/01/jameson-distillery-bow-st-dublin-tour-taste-testing.jpg alt="" description="" %}
 
 ## A premium whiskey tasting at the Jameson Distillery Bow St.
 
-Now on to part two of my experience: [the premium whiskey tasting at the Jameson Distillery](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/the-whiskey-tasters)
+Now on to part two of my experience: [the premium whiskey tasting at the Jameson Distillery](https://www.jamesonwhiskey.com/en-IE/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/the-whiskey-tasters)
 
 This tasting was actually a pretty amazing experience. For one, the location is in John Jameson's original office. It has been renovated but keeps the general essence of the original office. **John Jameson had a pretty awesome office** apparently because it has a full bar in it!
 
@@ -126,7 +126,7 @@ At the conclusion of the tasting, our ambassador asked everyone in the room to d
 
 All in all, **this was a really nice experience and one I am glad to have had.** It was worth the 30 Euros and 4o minutes. To top it off, the taste testing also came with a really nice book about Jameson with the full history and recipes for whiskey cocktails you can make at home. **Unlike the distillery tour**, participants of the taste testing also received a 10% discount at the gift shop.
 
-Learn more about this taste testing and book tickets for your visit on [the Jameson website](https://www.jamesonwhiskey.com/ie/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/the-whiskey-tasters).
+Learn more about this taste testing and book tickets for your visit on [the Jameson website](https://www.jamesonwhiskey.com/en-IE/visit-us/jameson-distillery-bow-st/jdbs-our-experiences/the-whiskey-tasters).
 
 ## Sláinte! "Cheers!" in Irish Gaelic
 

@@ -12,7 +12,7 @@ image:			2018/02/without-a-path-judson-in-kyrgyzstan.jpg
 
 ---
 
-[The Without a Path Podcast](https://withoutapath.com/) with the American writer, traveler, and meddler Joe Baur is chock full of intriguing chats with creative types, adventurers, and the occasional story of hope for humanity. Guests share stories about the travels which has helped define their lives in this weekly travel podcast. **I highly encourage you to subscribe to** the [Without A Path Podcast on iTunes](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).
+[The Without a Path Podcast](https://withoutapath.com/) with the American writer, traveler, and meddler Joe Baur is chock full of intriguing chats with creative types, adventurers, and the occasional story of hope for humanity. Guests share stories about the travels which has helped define their lives in this weekly travel podcast. **I highly encourage you to subscribe to** the [Without A Path Podcast on iTunes](https://podcasts.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).
 
 **My interview on the podcast** focuses on stories from Kyrgyzstan, how I got there, what I was doing there, and what has happened in the country since I left in 2015.
 

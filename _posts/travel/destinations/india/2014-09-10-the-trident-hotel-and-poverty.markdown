@@ -39,7 +39,7 @@ I don't know that this structure on the left is a home, but on the right is a co
 
 I am no stranger to poverty. My time in [Brazil]({{ site.url }}/brazil/) and [Kyrgyzstan]({{ site.url }}/kyrgyzstan/) showed me intense poverty and at times I lived right in it. Though this is a peaceful scene, I am reminded of a quote by Gandhi, "Poverty is the worst form of violence;" perhaps only because this is India and I am just cliche like that. I am deeply moved by the dichotomy of this situation but I also feel powerless to do anything about it. I can't even measure my own feelings about the situation.
 
-My struggle in this scene is to decide, "how do I feel about this," and "what can I do about it?" I am very interested in being part of effecting widespread change in people's lives, but I am much more of an institutionalist than I am a one-on-one interaction type. My time working for the [Louisiana Capital Area Red Cross](http://www.redcross.org/local/louisiana/local-chapters/Louisiana-Capital-Area-West) ingrained a sense of institutional impacts being more my forte than being the one pouring the soup in the kitchen.
+My struggle in this scene is to decide, "how do I feel about this," and "what can I do about it?" I am very interested in being part of effecting widespread change in people's lives, but I am much more of an institutionalist than I am a one-on-one interaction type. My time working for the [Louisiana Capital Area Red Cross](https://www.redcross.org/local/louisiana/about-us/locations/louisiana-capital-area-west.html) ingrained a sense of institutional impacts being more my forte than being the one pouring the soup in the kitchen.
 
 ## So what do I do?
 

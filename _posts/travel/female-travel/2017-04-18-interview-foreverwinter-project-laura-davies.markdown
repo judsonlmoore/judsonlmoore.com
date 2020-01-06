@@ -18,7 +18,7 @@ I recently had the opportunity to sit down with Laura Davies as she pursues an e
 
 I always loved the name Never Summer and thought it would be cool to have a skier brand with a similarly clever name. My friend Tim and I jokingly came up with the name ForeverWinter over beers, but we didn’t have anything concrete to apply the name to. Once I started to plan the first trip I knew that ForeverWinter Project was the perfect name for my goal to ski around the world.
 
-![Logo of the ForeverWinter Project, by Laura Davies](https://cdn.judsonlmoore.com/uploads/2017/03/18121007/logo-foreverwinter-project-150x150.jpg "@ForeverWinter Project on Instagram")
+![Logo of the ForeverWinter Project, by Laura Davies](../assets/images/2017/03/18121007/logo-foreverwinter-project-150x150.jpg "@ForeverWinter Project on Instagram")
 
 ## So what exactly is “ForeverWinter Project”?
 
@@ -46,7 +46,7 @@ I was hired by a healthcare company in Denver and started a job I loved and lear
 
 ## Switching from healthcare to skiing must require some industry specific resources. Where can the reader start seeking out those resources?
 
-Some of my favorite resources for skiing are: [powderhounds.com](http://www.powderhounds.com/), [Telegraph](http://www.telegraph.co.uk/travel/ski/), and a company called [Scout Ski](http://scoutski.com/). Scout Ski noticed a similar gap in ski trip resources and will actually help plan your entire international ski trip.
+Some of my favorite resources for skiing are: [powderhounds.com](https://www.powderhounds.com/), [Telegraph](https://www.telegraph.co.uk/travel/ski/), and a company called [Scout Ski](http://scoutski.com/). Scout Ski noticed a similar gap in ski trip resources and will actually help plan your entire international ski trip.
 
 While each of these websites has pieces of information for skiing internationally, I hope foreverwinterproject.com can help combine the best tips and provide new information about more remote destinations such as Kashmir or Kazakhstan.
 

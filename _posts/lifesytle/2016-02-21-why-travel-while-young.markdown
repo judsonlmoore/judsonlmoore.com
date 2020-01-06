@@ -23,7 +23,7 @@ Let me break this down.
 
 ## Education
 
-The first 18 years of our lives are spent getting educated. Unless you have a family that travels, chances are that you won't have a lot of opportunities to go out and see much of the world. Even then, you won't have much autonomy in making travel choices. The big exception to this is to become a youth exchange student. I am a supporter of the [Rotary Youth Exchange Program](https://www.rotary.org/en/get-involved/exchange-ideas/youth-exchanges), which I participated in at age 17 for a year in Germany. *(leave me a comment below if you would like me to connect you with your local Rotary Club for more information)*
+The first 18 years of our lives are spent getting educated. Unless you have a family that travels, chances are that you won't have a lot of opportunities to go out and see much of the world. Even then, you won't have much autonomy in making travel choices. The big exception to this is to become a youth exchange student. I am a supporter of the [Rotary Youth Exchange Program](https://www.rotary.org/en/our-programs/youth-exchanges), which I participated in at age 17 for a year in Germany. *(leave me a comment below if you would like me to connect you with your local Rotary Club for more information)*
 
 **Related Post: [The Secret To All My Success](/showing-up/)**
 

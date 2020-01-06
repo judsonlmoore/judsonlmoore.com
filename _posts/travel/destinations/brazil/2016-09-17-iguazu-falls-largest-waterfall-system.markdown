@@ -56,11 +56,11 @@ Without warning, something amazing swooped right in front of me: a toucan! I loo
 
 {% cloudinary /assets/images/2016/09/a-toucan-at-iguazu-falls-park.jpg alt="A Toucan at Iguazu Falls Park" description="A Toucan at Iguazu Falls Park" %}
 
-You could spend days in the Iguazu Falls Park exploring these amazing trails and sights. Each one can be completed in 1-2 hours, so if you have to choose just one, I recommend the [Devil's Throat Trail](http://www.iguazuargentina.com/en/garganta-del-diablo/). This is one of the longer trails, but you also get spectacular views of the Falls while also weaving in and out of the forest. From these vantage points above the Falls, you sense their vastness. **The Iguazu Falls are like the Grand Canyon, just wetter!**
+You could spend days in the Iguazu Falls Park exploring these amazing trails and sights. Each one can be completed in 1-2 hours, so if you have to choose just one, I recommend the [Devil's Throat Trail](https://iguazuargentina.com/es/indexen/garganta-del-diablo/). This is one of the longer trails, but you also get spectacular views of the Falls while also weaving in and out of the forest. From these vantage points above the Falls, you sense their vastness. **The Iguazu Falls are like the Grand Canyon, just wetter!**
 
 {% cloudinary /assets/images/2016/09/observation-deck-at-the-iguazu-falls.jpg alt="Observation Deck at the Iguazu Falls" description="Observation Deck at the Iguazu Falls" %}
 
-The official tourism website for the Argentinian side of the Iguazu Falls has great information about all the trails in the Park. Just [visit their website](http://www.iguazuargentina.com/en) and select one of the trails from the main menu. At the bottom of each of those pages is an awesome interactive map like this one. This map is for the **Devil's Throat Trail**.
+The official tourism website for the Argentinian side of the Iguazu Falls has great information about all the trails in the Park. Just [visit their website](https://iguazuargentina.com/es/indexen) and select one of the trails from the main menu. At the bottom of each of those pages is an awesome interactive map like this one. This map is for the **Devil's Throat Trail**.
 
 ## Going Off-Road and Off-Land to the Iguazu Falls
 
@@ -100,21 +100,21 @@ Furthermore, though at the time this passport stamp issue instilled some degree 
 
 **Official**
 
-- **[Iguazu Argentina](http://www.iguazuargentina.com/)** (official) - The official tourism site for the Argentinian side of the Iguazu Falls.
+- **[Iguazu Argentina](https://iguazuargentina.com/es/index)** (official) - The official tourism site for the Argentinian side of the Iguazu Falls.
 
-- [**Visit Foz**](http://www.visitefoz.com.br/en/) (official) - The official tourism site for the Brazilian city of Foz do Iguazu.
+- [**Visit Foz**](https://www.visitefoz.com.br/en/) (official) - The official tourism site for the Brazilian city of Foz do Iguazu.
 
 - **[Iguazu Falls on WikiTravel](http://wikitravel.org/en/Igua%C3%A7u_Falls)** - This site is one of the very best resources for travel anywhere! Pair this with the Pocket App ([iOS](https://apps.apple.com/de/app/pocket/id309601447?mt=8&ign-mpt=uo%3D4) | [Android](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)) to compile your own awesome offline travel guides!
 
 **From around the blogosphere**
 
-- [**Six Things Nobody Tells You About Iguazu Falls**](http://globetrottergirls.com/2013/08/things-nobody-tells-you-about-iguazu-falls/) - \_by Dani of globetrot_tergirls.com
+- [**Six Things Nobody Tells You About Iguazu Falls**](https://globetrottergirls.com/2019/08/things-nobody-tells-you-about-iguazu-falls/) - \_by Dani of globetrot_tergirls.com
 
 - **[Igauzu Falls Travel Guide & Tips](http://wanderingtrader.com/iguazu-falls/travel-guide/)** - by Marcello Arrambide of wanderingtrader.com
 
 - **[A guide to Iguazu Falls](https://blog.hihostels.com/2013/06/a-guide-to-iguazu-falls/)** - by Bronwyn Hager on Hosteling International
 
-- **[Meine besten Tipps zum Besuch der Iguazu Fälle](http://backpacker-blog.org/tipps-besuch-iguazu-faelle/)** - by Jörg of backpacker-blog.org
+- **[Meine besten Tipps zum Besuch der Iguazu Fälle](https://backpacker-blog.org/tipps-besuch-iguazu-faelle/)** - by Jörg of backpacker-blog.org
 
 - _Have a post to add to this list? Please [contact me]({{ site.url }}/contact/)._
 
