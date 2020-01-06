@@ -66,19 +66,19 @@ layout: compress
         {% include footer.html %}
         <!-- End Footer -->
 
-        <!-- JQuery -->
+        <!-- JQuery JS -->
         <script src="{{'/assets/vendor/jquery.min.js' | prepend: site.url}}"></script>
 
-        <!-- Popper -->
+        <!-- Popper JS -->
         <script src="{{'/assets/vendor/popper.min.js' | prepend: site.url}}"></script>
 
         <!-- Bootstrap JS -->
         <script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.url}}"></script>
 
-        <!-- Lightbox -->
+        <!-- Lightbox JS -->
         <script src="{{'/assets/js/lightbox.min.js' | prepend: site.url}}"></script>
 
-        <!-- IE 10 Fix -->
+        <!-- IE 10 Fix JS -->
         <script src="{{'/assets/js/ie10-viewport-bug-workaround.js' | prepend: site.url}}"></script>
 
         <!-- Crisp Chat Application -->
@@ -87,11 +87,6 @@ layout: compress
         {% if page.layout == 'post' %}
         <!-- Disqus -->
         <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js" ></script>
-        {% endif %}
-
-        {% if page.layout == 'shop' %}
-        <!-- Shop Payment Info -->
-        {% include webshop.html email="you@gmail.com" paymentlink="https://useplink.com/payment/ssMgtkddEzgC4rKKJJ9T" %}
         {% endif %}
     </body>
 </html>

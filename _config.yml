@@ -119,7 +119,7 @@ compress_html:
 cloudinary:
   cloud_name: judsonlmoore-com
   verbose: false
-  only_prod: true
+  only_prod: false
   presets:
     default:
       gravity: auto

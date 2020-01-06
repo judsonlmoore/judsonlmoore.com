@@ -9,7 +9,7 @@ comments: false
 
 <h1>{{ page.title }}</h1>
 
-<p><a href="/terms-and-conditions/">Terms and Conditions</a> | <a href="/refund-policy/">Refund Policy</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/disclosures/">Disclosures</a></p>
+<p><a href="{{ site.url }}/terms-and-conditions/">Terms and Conditions</a> | <a href="{{ site.url }}/refund-policy/">Refund Policy</a> | <a href="{{ site.url }}/privacy-policy/">Privacy Policy</a> | <a href="{{ site.url }}/disclosures/">Disclosures</a></p>
 
 Our policy lasts 30 days. If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund or exchange.
 
