@@ -144,7 +144,7 @@ cloudinary:
         fallback_max_width: 510
     featured:
       attibutes:
-        class: featured-image img-fluid img-fluid
+        class: featured-image img-fluid
         min_width: 315
         min_hight: 210
         max_width: 760
