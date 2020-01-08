@@ -8,8 +8,9 @@ $body-color:		$dark;
 /* Custom Vars */
 $custom-font-size:	20px;
 
-$breakpoint-xs: 0;
-$breakpoint-sm: 576px;
-$breakpoint-md: 768px;
-$breakpoint-lg: 992px;
-$breakpoint-xl: 1380px;
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 920px,
+  xl: 1280px
+) !default;
