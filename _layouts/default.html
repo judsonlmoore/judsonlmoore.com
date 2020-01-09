@@ -20,6 +20,7 @@ layout: compress
         {% endif %}
 
         <meta charset="utf-8" />
+
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         <!-- Site Icon -->
@@ -41,18 +42,6 @@ layout: compress
     {% endcapture %}
 
     <body class="{{layout}}">
-        <!-- defer loading of font and font awesome -->
-        <noscript id="deferred-styles">
-            <link
-                href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i"
-                rel="stylesheet"
-            />
-            <link
-                rel="stylesheet"
-                src="{{ site.url }}/assets/css/all.min.css"
-                crossorigin="anonymous"
-            />         
-        </noscript>
 
         <!-- Begin Menu Navigation -->
         {% include nav.html %}
@@ -79,10 +68,32 @@ layout: compress
         <script defer src="{{'/assets/js/lightbox.min.js' | prepend: site.url}}"></script>
 
         <!-- IE 10 Fix JS -->
-        <script defer src="{{'/assets/js/ie10-viewport-bug-workaround.js' | prepend: site.url}}"></script>
+        <script type="text/javascript">
+            /*!
+             * IE10 viewport hack for Surface/desktop Windows 8 bug
+             * Copyright 2014-2017 The Bootstrap Authors
+             * Copyright 2014-2017 Twitter, Inc.
+             * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+             */
 
-        <!-- Crisp Chat Application -->
-        <!-- <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="3d3dd4a9-6976-4ab1-91b8-be385622c5e2";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script> -->
+            // See the Getting Started docs for more information:
+            // https://getbootstrap.com/getting-started/#support-ie10-width
+
+            (function () {
+              'use strict'
+
+              if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var msViewportStyle = document.createElement('style')
+                msViewportStyle.appendChild(
+                  document.createTextNode(
+                    '@-ms-viewport{width:auto!important}'
+                  )
+                )
+                document.head.appendChild(msViewportStyle)
+              }
+
+            }())
+        </script>
 
         {% if page.layout == 'post' %}
         <!-- Disqus -->
