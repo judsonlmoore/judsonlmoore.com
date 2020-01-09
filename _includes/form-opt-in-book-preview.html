@@ -1,0 +1,42 @@
+<form
+	action="https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=0371de54bb"
+	method="post"
+	name="mc-embedded-subscribe-form"
+	class="wj-contact-form validate"
+	target="_blank"
+	rel="noopener"
+	novalidate
+>
+	<div class="form-group">
+		<input
+			type="email"
+			name="EMAIL"
+			class="form-control required email"
+			id="mce-EMAIL"
+			aria-describedby="emailHelp"
+			placeholder="Enter email"
+			autocomplete="on"
+			required
+		/>
+	</div>
+	<button
+		type="submit"
+		value="Subscribe"
+		name="subscribe"
+		class="btn btn-primary btn-lg"
+	>
+		Submit
+	</button>
+	<small id="emailHelp" class="form-text text-muted">You will be subscribed to email updates. Unsubscribe anytime.</small>
+</form>
+<script type="text/javascript">
+	$("#exampleModal").on("show.bs.modal", function(event) {
+		var button = $(event.relatedTarget); // Button that triggered the modal
+		var recipient = button.data("whatever"); // Extract info from data-* attributes
+		// If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+		// Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+		var modal = $(this);
+		modal.find(".modal-title").text("New message to " + recipient);
+		modal.find(".modal-body input").val(recipient);
+	});
+</script>
