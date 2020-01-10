@@ -47,15 +47,13 @@ short_name: judsonlmoore
 	</div>
 </div>
 
-<div class="bg-light mb-5 p-2 p-md-5">
-	{% include exponential-happiness-about.html %}
-</div>
+{% include exponential-happiness-about.html %}
 
 <div class="row justify-content-center mb-5">
 	<div class="col-md-6">
 		{% include exponential-happiness-author.html %}
 	</div>
-	<div class="col-md-6 d-none d-md-block">
+	<div class="col-md-6">
 		{%cloudinary /assets/images/2020/01/judson-l-moore-speaks-at-rotary-club-of-alexandria.jpg alt="Judson speaks to the Rotary Club of Alexandria" %}  
 	</div>
 </div>
@@ -118,18 +116,6 @@ short_name: judsonlmoore
 	</div>
 </div>
 
-<div id="toc" class="row justify-content-center mb-5">
-    <div class="col-md-4">
-    	{% include exponential-happiness-toc.html %}
-	</div>
-</div>
-
-<div id="bulk-orders" class="row justify-content-center mb-5">
-    <div class="col-md-8">
-    	{% include exponential-happiness-bulk-orders.html %}
-	</div>
-</div>
-
 <div id="get-sample" class="jumbotron p-5 text-white rounded bg-dark">
 	<div class="row justify-content-between">
 		<div class="col-md-6 px-0 mb-5 mb-md-0">
@@ -145,3 +131,5 @@ short_name: judsonlmoore
 		</div>
 	</div>
 </div>
+
+{% include exponential-happiness-bulk-orders.html %}

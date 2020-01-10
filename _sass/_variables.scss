@@ -1,16 +1,21 @@
-$white:				#fff;
-$red:				#dc3545;
-$light:				#f8f9fa;
-$dark:				#343a40;
-$body-bg:			$light;
-$body-color:		$dark;
-
 /* Custom Vars */
 $custom-font-size:	20px;
 
 $container-max-widths: (
-  sm: 540px,
-  md: 720px,
-  lg: 920px,
-  xl: 1280px
+	sm: 500px, 
+	md: 680px, 
+	lg: 880px, 
+	xl: 1240px 
 ) !default;
+
+$grid-breakpoints: ( 
+	xs: 0, 
+	sm: 540px,
+	md: 720px,
+	lg: 920px,
+	xl: 1280px
+) !default;
+
+$body-bg: #f8f9fa;
+
+$enable-responsive-font-sizes: true;
