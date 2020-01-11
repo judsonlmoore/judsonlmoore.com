@@ -3,7 +3,7 @@ title:			Rotary eClub of Silicon Valley
 description:	Why I rebuilt my website
 excerpt:		Why I rebuilt my website
 author:			judsonlmoore
-date:			2020-01-02 21:08:48 Z
+date:			
 categories:		blog
 tags:			
   - adventure

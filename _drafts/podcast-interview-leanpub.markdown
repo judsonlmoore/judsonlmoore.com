@@ -3,7 +3,7 @@ title:			My interview on LeanPub's Frontmatter Podcast
 description:	Why I rebuilt my website
 excerpt:		Why I rebuilt my website
 author:			judsonlmoore
-date:			2020-01-01 21:08:48 Z
+date:			
 categories:		blog
 tags:			
   - adventure
