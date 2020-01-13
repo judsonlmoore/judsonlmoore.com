@@ -6,135 +6,144 @@ comments: false
 
 ---
 
-<section class="p-2 p-md-5">
+<h2 class="mb-5">Reader resources</h2>
 
-	<div class="row mb-5">
+<div class="row mb-5">
 
-		<div class="col-lg-6 mb-5">
-			<h2 class="mb-5">Reader resources</h2>
-			<p>Thank you for subscribing to my newsletter! As a thank you, I provide resources here which can boost your productivity and help you better plan and live&nbsp;your “what if.” It is up to you to do it while at a young age! If you have any problems working with the resources here, or have any questions at all, please feel free to email me:</p>
-			<p><a href="mailto:judson@judsonlmoore.com" rel="noopener">judson@judsonlmoore.com</a></p>
-			<p>Also please come <strong>join me on an adventure</strong> by following me on social media:</p>
-			{% for item in site.data.social %}
-			<!--{{ item.name }} -->
-			<a href="{{ item.url }}" class="btn bg-dark text-light mr-2 mb-2" alt="Follow on {{ item.name }}" target="_blank" rel="noopener">
-				<span class="fab fa-{{ item.name }}"></span>
-			</a>
-			{% endfor %}
-		</div>
+	<div class="col-lg-6 mb-5">
+		<p>Thank you for subscribing to my newsletter! As a thank you, I provide resources here which can boost your productivity and help you better plan and live your “what if.” It is up to you to do it while at a young age! If you have any problems working with the resources here, or have any questions at all, please feel free to email me:</p>
+		<p><a href="mailto:judson@judsonlmoore.com" rel="noopener">judson@judsonlmoore.com</a></p>
+		<p>Also please come <strong>join me on an adventure</strong> by following me on social media:</p>
+		{% for item in site.data.social %}
+		<!--{{ item.name }} -->
+		<a href="{{ item.url }}" class="btn bg-dark text-light mr-2 mb-2" alt="Follow on {{ item.name }}" target="_blank" rel="noopener">
+			<span class="fab fa-{{ item.name }}"></span>
+		</a>
+		{% endfor %}
+	</div>
 
-		<div class="col-lg-6 p-3 mb-5 bg-light">
-			<h4>Subscribe now</h4>
-			<p>If you're not yet subscribed to my newsletter, sign up here to get it now</p>
-			{% include form-opt-in.html %}
-		</div>
+	<div class="col-lg-6 p-5 bg-light rounded text-center">
+
+		<blockquote class="blockquote">
+			<p class="mb-0">"Do it while you're young," a cliché thing to say, but not at all a cliché thing to do. Your life's experiences are the outcome of the decisions you make. Pursue your goals as young as possible and enjoy a life of exponential happiness!</p>
+			<footer class="blockquote-footer">Judson L Moore <cite title="Source Title">Author</cite></footer>
+		</blockquote>
 
 	</div>
 
-	<h2 class="mb-5">Digital downloads</h2>
+</div>
 
-	<div class="row mb-5">
-		<div class="col-sm-4 mb-5">
-			<div class="card">
-				<div class="card-body">
-					<h5 class="card-title">High Tech Resume Template</h5>
-					<p class="card-text">Every job starts with an interview, which starts with a great resume. This resume template is based on my resume. Complete with notes and writing tips, this template can help you get your next big interview!</p>
-					<a href="https://docs.google.com/document/d/1Xbx0EcrE8D3AJVNwoTN_UTHKWkwY_DOVZnyj6WqtRjI/edit?usp=sharing" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Get it now</a><br />
-				</div>
-			</div>
-		</div>
-		<div class="col-sm-4 mb-5">
-			<div class="card">
-				<div class="card-body">
-					<h5 class="card-title">Life Goals &amp; 20-Year Plan Exercise</h5>
-					<p class="card-text">A good life starts with a good plan. Planning and goal-setting or critical skills to develop. Use this template to help you quickly and easily craft a 20-year plan with concrete steps you can follow to accomplish your goals.</p>
-					<a href="https://docs.google.com/spreadsheets/d/1rieDYXbXdsu4qdIIWIrjz3bRLBoo1zmwaUqJV6wL3ZY/edit?usp=sharing" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Get it now</a><br />
-					<a href="{{ site.url }}/life-goals-exercise/" rel="noopener">read related article</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-sm-4 mb-5">
-			<div class="card">
-				<div class="card-body">
-					<h5 class="card-title">My Contact Card</h5>
-					<p class="card-text">Add me to your contacts! Here is a file with all of my contact information so that you can be sure to quickly get in touch with me at any time. Just download to install on your phone or computer’s contacts app.</p>
-					<a href="{{ site.url }}/assets/images/2018/01/JudsonLMoore.vcf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Get it now</a>
-				</div>
-			</div>
-		</div>
+<h2 class="mb-5">Digital downloads</h2>
 
-	</div>
+<div class="row mb-5">
 
-	<h2 class="mb-5">Downloadable postcards</h2>
-
-	<div class="row">
-
-		<div class="col-sm-4 mb-5">
-			<div class="card">
-				<img src="/assets/images/2018/01/Postcard-India-New-Delhi-Trident-Hotel-Indian-Mandala-Elephant-front.jpg" class="card-img-top" alt="...">
-				<div class="card-body">
-					<h5 class="card-title">The Trident Elephant</h5>
-					<p class="card-text">The immaculate 5-star Trident Hotel Gurgaon in the metropolitan area of New Delhi gives special attention to the details. This massive Rangoli (floor art) of an elephant provides guests good luck on their journey.</p>
-					<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-New-Delhi-Trident-Hotel-Indian-Mandala-Elephant.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
-					<a href="{{ site.url }}/india/" rel="noopener">read related article</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-sm-4 mb-5">
-			<div class="card">
-				<img src="/assets/images/2018/01/Postcard-India-Hampi-Stone-chariot-in-Vittala-temple-compound-Detail-front.jpg" class="card-img-top" alt="...">
-				<div class="card-body">
-					<h5 class="card-title">The Hampi Chariot</h5>
-					<p class="card-text">This is a detail of the Stone Chariot at Vittala Temple in Hampi, India. It is one of three famed stone chariots in India and is actually a shrine dedicated to Garuda, built inside the Vittala Temple Complex.</p>
-					<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-Hampi-Stone-chariot-in-Vittala-temple-compound-Detail.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
-					<a href="{{ site.url }}/hampi/" rel="noopener">read related article</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-sm-4">
-			<div class="card">
-				<img src="/assets/images/2018/01/Postcard-India-New-Delhi-Trident-Hotel-Ascending-Lanterns-front.jpg" class="card-img-top" alt="...">
-				<div class="card-body">
-					<h5 class="card-title">Candle-lit Stairs</h5>
-					<p class="card-text">The immaculate 5-star Trident Hotel Gurgaon in the metropolitan area of New Delhi gives special attention to the details. These candle-lit stairs are just one example of the hotel ground’s luxury.</p>
-					<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-New-Delhi-Trident-Hotel-Ascending-Lanterns.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
-					<a href="{{ site.url }}/india/" rel="noopener">read related articles</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-sm-4 mb-5">
-			<div class="card">
-				<img src="/assets/images/2018/01/Postcard-India-New-Deli-Trident-Hotel-Rotunda-front.jpg" class="card-img-top" alt="...">
-				<div class="card-body">
-					<h5 class="card-title">A Gilded Dome</h5>
-					<p class="card-text">The immaculate 5-star Trident Hotel Gurgaon in the metropolitan area of New Delhi gives special attention to the details. This gilded dome in the lobby is just one way in which the hotel gives guests a sense of majesty.</p>
-					<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-New-Deli-Trident-Hotel-Rotunda.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
-					<a href="{{ site.url }}/india/" rel="noopener">read related articles</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-sm-4 mb-5">
-			<div class="card">
-				<img src="/assets/images/2018/01/Postcard-India-Tranquebar-Fishing-Boat-front.jpg" class="card-img-top" alt="...">
-				<div class="card-body">
-					<h5 class="card-title">Tranquebar Fishing Boat</h5>
-					<p class="card-text">A colorfully painted fishing boat of Tranquebar in southeast India on the Bay of Bengal. Home of the largest Danish fort ourside of Europe, Tranquebar is also the origin of Christianity in India.</p>
-					<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-Tranquebar-Fishing-Boat.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
-					<a href="{{ site.url }}/tranquebar/" rel="noopener">read related article</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-sm-4 mb-5">
-			<div class="card">
-				<img src="/assets/images/2018/01/Postcard-India-Tranquebar-Boat-and-Temple-front.jpg" class="card-img-top" alt="...">
-				<div class="card-body">
-					<h5 class="card-title">Tranquebar Fishing Temple</h5>
-					<p class="card-text">A colorfully painted fishing boat of Tranquebar in southeast India on the Bay of Bengal. Home of the largest Danish fort ourside of Europe, Tranquebar is also the origin of Christianity in India.</p>
-					<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-Tranquebar-Boat-and-Temple.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
-					<a href="{{ site.url }}/tranquebar/" rel="noopener">read related article</a>
-				</div>
+	<div class="col-sm-4 mb-5">
+		<div class="card">
+			<div class="card-body">
+				<h5 class="card-title">High Tech Resume Template</h5>
+				<p class="card-text">Every job starts with an interview, which starts with a great resume. This resume template is based on my resume. Complete with notes and writing tips, this template can help you get your next big interview!</p>
+				<a href="https://docs.google.com/document/d/1Xbx0EcrE8D3AJVNwoTN_UTHKWkwY_DOVZnyj6WqtRjI/edit?usp=sharing" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Get it now</a><br />
 			</div>
 		</div>
 	</div>
 
-</section>
+	<div class="col-sm-4 mb-5">
+		<div class="card">
+			<div class="card-body">
+				<h5 class="card-title">Life Goals &amp; 20-Year Plan Exercise</h5>
+				<p class="card-text">A good life starts with a good plan. Planning and goal-setting or critical skills to develop. Use this template to help you quickly and easily craft a 20-year plan with concrete steps you can follow to accomplish your goals.</p>
+				<a href="https://docs.google.com/spreadsheets/d/1rieDYXbXdsu4qdIIWIrjz3bRLBoo1zmwaUqJV6wL3ZY/edit?usp=sharing" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Get it now</a><br />
+				<a href="{{ site.url }}/life-goals-exercise/" rel="noopener">read related article</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4">
+		<div class="card">
+			<div class="card-body">
+				<h5 class="card-title">My Contact Card</h5>
+				<p class="card-text">Add me to your contacts! Here is a file with all of my contact information so that you can be sure to quickly get in touch with me at any time. Just download to install on your phone or computer’s contacts app.</p>
+				<a href="{{ site.url }}/assets/images/2018/01/JudsonLMoore.vcf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Get it now</a>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<h2 class="mb-5">Downloadable postcards</h2>
+
+<div class="row">
+
+	<div class="col-sm-4 mb-5">
+		<div class="card">
+			{% cloudinary /assets/images/2018/01/Postcard-India-New-Delhi-Trident-Hotel-Indian-Mandala-Elephant-front.jpg class="card-img-top" %}
+			<div class="card-body">
+				<h5 class="card-title">The Trident Elephant</h5>
+				<p class="card-text">The immaculate 5-star Trident Hotel Gurgaon in the metropolitan area of New Delhi gives special attention to the details. This massive Rangoli (floor art) of an elephant provides guests good luck on their journey.</p>
+				<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-New-Delhi-Trident-Hotel-Indian-Mandala-Elephant.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
+				<a href="{{ site.url }}/india/" rel="noopener">read related article</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4 mb-5">
+		<div class="card">
+			{% cloudinary /assets/images/2018/01/Postcard-India-Hampi-Stone-chariot-in-Vittala-temple-compound-Detail-front.jpg class="card-img-top" %}
+			<div class="card-body">
+				<h5 class="card-title">The Hampi Chariot</h5>
+				<p class="card-text">This is a detail of the Stone Chariot at Vittala Temple in Hampi, India. It is one of three famed stone chariots in India and is actually a shrine dedicated to Garuda, built inside the Vittala Temple Complex.</p>
+				<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-Hampi-Stone-chariot-in-Vittala-temple-compound-Detail.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
+				<a href="{{ site.url }}/hampi/" rel="noopener">read related article</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4 mb-5">
+		<div class="card">
+			{% cloudinary /assets/images/2018/01/Postcard-India-New-Delhi-Trident-Hotel-Ascending-Lanterns-front.jpg class="card-img-top" %}
+			<div class="card-body">
+				<h5 class="card-title">Candle-lit Stairs</h5>
+				<p class="card-text">The immaculate 5-star Trident Hotel Gurgaon in the metropolitan area of New Delhi gives special attention to the details. These candle-lit stairs are just one example of the hotel ground’s luxury.</p>
+				<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-New-Delhi-Trident-Hotel-Ascending-Lanterns.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
+				<a href="{{ site.url }}/india/" rel="noopener">read related articles</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4 mb-5">
+		<div class="card">
+			{% cloudinary /assets/images/2018/01/Postcard-India-New-Deli-Trident-Hotel-Rotunda-front.jpg class="card-img-top" %}
+			<div class="card-body">
+				<h5 class="card-title">A Gilded Dome</h5>
+				<p class="card-text">The immaculate 5-star Trident Hotel Gurgaon in the metropolitan area of New Delhi gives special attention to the details. This gilded dome in the lobby is just one way in which the hotel gives guests a sense of majesty.</p>
+				<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-New-Deli-Trident-Hotel-Rotunda.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
+				<a href="{{ site.url }}/india/" rel="noopener">read related articles</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4 mb-5">
+		<div class="card">
+			{% cloudinary /assets/images/2018/01/Postcard-India-Tranquebar-Fishing-Boat-front.jpg class="card-img-top" %}
+			<div class="card-body">
+				<h5 class="card-title">Tranquebar Fishing Boat</h5>
+				<p class="card-text">A colorfully painted fishing boat of Tranquebar in southeast India on the Bay of Bengal. Home of the largest Danish fort ourside of Europe, Tranquebar is also the origin of Christianity in India.</p>
+				<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-Tranquebar-Fishing-Boat.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
+				<a href="{{ site.url }}/tranquebar/" rel="noopener">read related article</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4">
+		<div class="card">
+			{% cloudinary /assets/images/2018/01/Postcard-India-Tranquebar-Boat-and-Temple-front.jpg class="card-img-top" %}
+			<div class="card-body">
+				<h5 class="card-title">Tranquebar Fishing Temple</h5>
+				<p class="card-text">A colorfully painted fishing boat of Tranquebar in southeast India on the Bay of Bengal. Home of the largest Danish fort ourside of Europe, Tranquebar is also the origin of Christianity in India.</p>
+				<a href="{{ site.url }}/assets/images/2018/01/Postcard-India-Tranquebar-Boat-and-Temple.pdf" class="btn btn-primary" role="button" target="_blank"><i class="fas fa-download"></i> Download Postcard</a><br />
+				<a href="{{ site.url }}/tranquebar/" rel="noopener">read related article</a>
+			</div>
+		</div>
+	</div>
+
+</div>

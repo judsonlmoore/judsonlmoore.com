@@ -1,7 +1,7 @@
 ---
-title: Lifestyle
+title: Do it while you're young
 subtitle: A collection of advice and best-practices I've collected from years of experience.
-permalink: "/lifestyle/"
+permalink: "/whileyoung/"
 layout: fullwidth-hero
 category: lifestyle
 image: 2016/01/adventure-2.jpeg
