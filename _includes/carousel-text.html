@@ -1,33 +1,30 @@
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <!-- Wrapper for slides -->
-    <div class="row">
-        <div class="col-xs-offset-3 col-xs-6">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <div class="carousel-content text-center">
-                        <p>Under conditions which many would consider unbearable, Judson not only found a way to try something new, but he was the driving force behind making it flourish.</p>
-                        <small>Bettina Ruigies, <cite title="Source Title">DeutscheWelle Akademie</cite></small>
-                    </div>
+    <div class="row p-3 p-md-5 bg-light">
+        <div class="carousel-inner">
+
+            {% for item in site.data.recommendations %}
+            {% if forloop.first == true %}
+
+            <div class="carousel-item active">
+            {% else %}
+            <div class="carousel-item">
+            {% endif %}
+
+                <div class="carousel-content text-center lead">
+
+                    <blockquote class="blockquote text-center">
+                        <p class="mb-0">{{ item.quote }}</p>
+                        <footer class="blockquote-footer">
+                            <a href="{{ item.url }}" class="text-muted">{{ item.source }} <cite title="Source Title">{{ item.title }} at {{ item.employer }}</cite></a>
+                        </footer>
+                    </blockquote>
+
                 </div>
-                <div class="carousel-item">
-                    <div class="carousel-content text-center">
-                        <p>I have a deep respect for Judson’s passion and commitment to free speech and social justice.</p>
-                        <small>Seth Fearey, <cite title="Source Title">United States Peace Corps</cite></small>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="carousel-content text-center">
-                        <p>Judson has a way to rally people, get them on side and aligned with goals.</p>
-                        <small>Christine Rybas, <cite title="Source Title">Paul Cummings Enterprises</cite></small>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="carousel-content text-center">
-                        <p>Judson has shown broad abilities in the strengthening of media pluralism, building institutional capacities of media NGOs and outlets.</p>
-                        <small>Sergey Karpov, <cite title="Source Title">UNESCO</cite></small>
-                    </div>
-                </div>
+
             </div>
+            {% endfor %}
         </div>
+
     </div>
 </div>

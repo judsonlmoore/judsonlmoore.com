@@ -9,6 +9,7 @@ sitemap: false
 
 ---
 
+
 <div class="row justify-content-center mb-md-5">
 	<div class="col-md-4 mb-5 mb-md-0">
 		<span class="badge badge-info">New book!</span>
@@ -36,6 +37,7 @@ sitemap: false
 			<div class="card-body bg-white text-dark">
 
 				<h2>Download here</h2>
+				<span class="badge badge-info">Exclusive</span> Rotary eClub of Silicon Valley
 				<p class="lead my-3">Provide your email address and I will email you a free digitial edition of <em>Exponential Happiness</em>.</p>
 
 				{% include form-opt-in-book-preview.html user="fcb5f983e8f1c7cb022f4353b" list="2d85dca5fe" fname="true" lname="true" value="32" %}
@@ -58,11 +60,37 @@ sitemap: false
 </div>
 
 <div class="row justify-content-center bg-light mx-1 mx-md-0 mb-5 p-2 p-md-5">
-	<div class="col-md-8">
-		<blockquote class="blockquote text-center">
-			<p class="mb-0">"Do it while you're young," a cliché thing to say, but not at all a cliché thing to do. Your life's experiences are the outcome of the decisions you make. Pursue your goals as young as possible and enjoy a life of exponential happiness!</p>
-			<footer class="blockquote-footer">Judson L Moore <cite title="Source Title">Author</cite></footer>
-		</blockquote>
+	<div class="col">
+		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+		    <!-- Wrapper for slides -->
+		    <div class="row p-3 p-md-5 bg-light">
+		        <div class="carousel-inner">
+
+		            {% for item in site.data.exponential-happiness-reviews %}
+		            {% if forloop.first == true %}
+
+		            <div class="carousel-item active">
+		            {% else %}
+		            <div class="carousel-item">
+		            {% endif %}
+
+		                <div class="carousel-content text-center lead">
+
+		                    <blockquote class="blockquote text-center">
+		                        <p class="mb-0">{{ item.quote }}</p>
+		                        <footer class="blockquote-footer">
+		                            <a href="{{ item.url }}" class="text-muted">{{ item.source }} <cite title="Source Title">{{ item.title }} at {{ item.employer }}</cite></a>
+		                        </footer>
+		                    </blockquote>
+
+		                </div>
+
+		            </div>
+		            {% endfor %}
+		        </div>
+
+		    </div>
+		</div>
 	</div>
 </div>
 

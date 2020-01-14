@@ -96,19 +96,35 @@ comments: true
 			<h2>WHAT OTHERS SAY</h2>
 			<p>Here are a few recommendations I have received. Contact me for more information.</p>
 
-			<div class="card-columns">
+			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+			    <!-- Wrapper for slides -->
+			    <div class="row p-3 p-md-5 bg-light">
+			        <div class="carousel-inner">
 
-				{% for item in site.data.recomendations %}
-				<div class="card">
-					<div class="card-body">
-					  <p class="card-text">{{ item.quote }}</p>
-					  <h5 class="card-title">{{ item.source }}</h5>
-					  <p class="card-text"><small class="text-muted"> {{ item.title }} </small></p>
-					  <p class="card-text"><small class="text-muted"><a href="{{ item.url }}" target="_blank">{{ item.employer }}</a></small></p>
-					</div>
-				</div>
-				{% endfor %}
+			            {% for item in site.data.recommendations %}
+			            {% if forloop.first == true %}
 
+			            <div class="carousel-item active">
+			            {% else %}
+			            <div class="carousel-item">
+			            {% endif %}
+
+			                <div class="carousel-content text-center lead">
+
+			                    <blockquote class="blockquote text-center">
+			                        <p class="mb-0">{{ item.quote }}</p>
+			                        <footer class="blockquote-footer">
+			                            <a href="{{ item.url }}" class="text-muted">{{ item.source }} <cite title="Source Title">{{ item.title }} at {{ item.employer }}</cite></a>
+			                        </footer>
+			                    </blockquote>
+
+			                </div>
+
+			            </div>
+			            {% endfor %}
+			        </div>
+
+			    </div>
 			</div>
 
 		</div>
