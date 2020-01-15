@@ -9,13 +9,15 @@ sitemap: false
 ---
 
 
-<h2 class="mb-5">You're subscribed!</h2>
-
-<div class="row mb-5">
-	<div class="col-lg-8 mb-5">
-		<p>Thank you for subscribing to my newsletter! As a thank you, I provide resources here which can boost your productivity and help you better plan and live your “what if.” It is up to you to do it while at a young age! If you have any problems working with the resources here, or have any questions at all, please feel free to email me:</p>
+<div class="row">
+	<div class="col-lg-4 mb-5">
+		{% cloudinary /assets/images/2016/11/youre-awesome.jpg %}
+	</div>
+	<div class="col-lg-8">
+		<h2>You're subscribed!</h2>
+		<p>Thank you for subscribing to my newsletter! If at any time I can be of service to you, please feel free to to email me:</p>
 		<p><a href="mailto:judson@judsonlmoore.com" rel="noopener">judson@judsonlmoore.com</a></p>
-		<p>Also please come <strong>join me on an adventure</strong> by following me on social media:</p>
+		<p>Also please come <strong>join me on an adventure</strong> on social media:</p>
 		{% for item in site.data.social %}
 		<!--{{ item.name }} -->
 		<a href="{{ item.url }}" class="btn bg-dark text-light mr-2 mb-2" alt="Follow on {{ item.name }}" target="_blank" rel="noopener">
@@ -23,25 +25,5 @@ sitemap: false
 		</a>
 		{% endfor %}
 	</div>
-
-	<div class="col-lg-4">
-		{% cloudinary /assets/images/2016/11/youre-awesome.jpg %}
-	</div>
-
-</div>
-
-<h2 class="mb-5">Read these popular posts</h2>
-
-<div class="row mb-5">
-
-    <div class="col-lg-8 mb-5">
-	    <div class="card-columns">
-	        {% for post in site.posts %}
-		        {% if post.featured == true %}
-		            {% include postbox.html %}
-		        {% endif %}
-		    {% endfor %}
-	    </div>
-    </div>
 
 </div>
