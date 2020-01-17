@@ -2,12 +2,12 @@
 	action="{{site.mailchimp-list}}"
 	method="post"
 	name="mc-embedded-subscribe-form"
-	class="wj-contact-form validate"
+	class="wj-contact-form validate form-inline"
 	target="_blank"
 	rel="noopener"
 	novalidate
 >
-	<div class="form-group">
+	<div class="form-group mr-sm-3 mb-2">
 		<input
 			type="email"
 			name="EMAIL"
@@ -23,12 +23,12 @@
 		type="submit"
 		value="Subscribe"
 		name="subscribe"
-		class="btn btn-primary btn-lg"
+		class="btn btn-primary mb-2"
 	>
 		Submit
 	</button>
-	<small id="emailHelp" class="form-text text-muted">You will be subscribed to email updates. Unsubscribe anytime.</small>
 </form>
+<small id="emailHelp" class="form-text text-muted">You will be subscribed to email updates. Unsubscribe anytime.</small>
 <script type="text/javascript">
 	$("#exampleModal").on("show.bs.modal", function(event) {
 		var button = $(event.relatedTarget); // Button that triggered the modal
