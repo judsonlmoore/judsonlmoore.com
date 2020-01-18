@@ -9,6 +9,13 @@ layout: default
 
         <div class="article-post">
             {{content}}
+
+	        <!-- Begin Comments -->
+	        {% if page.comments == true %}
+	        {% include disqus.html %}
+	        {% endif %}
+	        <!--End Comments -->`
+
         </div>
 
     </section>
