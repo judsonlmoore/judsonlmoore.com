@@ -29,7 +29,7 @@
 		<div class="row no-gutters">
 		    <div class="col-md-5">
 				{% if post.image %}
-				{% cloudinary default {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+				{% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
 				{% endif %}
 			</div>
 		    <div class="col-md-7">
