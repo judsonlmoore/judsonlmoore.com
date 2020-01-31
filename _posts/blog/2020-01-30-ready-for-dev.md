@@ -6,7 +6,6 @@ date:			2020-01-30 21:08:48 Z
 categories:		blog
 tags:			
   - product management
-  - 
 layout:			post
 image:			2020/01/ready-for-dev.png
 toc:			false
