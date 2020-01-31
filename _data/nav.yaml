@@ -1,4 +1,6 @@
 main:
+  - page: Happiness
+    url: /happiness/
   - title: Asia
     subfolderitems:
       - page: India
@@ -32,7 +34,7 @@ main:
       - page: United States of America
         url: /usa/
   - page: Lifestyle
-    url: /lifestyle/
+    url: /whileyoung/
   - page: Female Travel
     url: /female-travel/
   - page: Book <span class="badge badge-info">New</span>

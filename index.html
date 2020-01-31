@@ -9,6 +9,7 @@ title: Home
 
         <div class="col-lg-8 px-3 p-sm-0">
 
+            {% if page.url == "/" %}
             {% include carousel-featured.html %}
 
             <!-- Call to Action Well -->
@@ -16,12 +17,17 @@ title: Home
                 <p class="h4"><span class=""><strong>Do you want to <em>experience</em> the world?</strong> I encourage you to get an <u>early</u> start at living a full and adventurous life by providing tips for living your "what if" <strong>#WhileYoung</strong>.</span></p>
             </div>
 
-            <!-- Posts Index -->
-            <div class="card-columns">
+            {% else %}
+            {% endif %}
+
+            <div class="row row-cols-1 row-cols-md-2">
+                <!-- Posts Index -->
                 {% for post in paginator.posts %}
                 {% include postbox.html %}
                 {% endfor %}
             </div>
+
+            {% include pagination.html %}
 
         </div>
 

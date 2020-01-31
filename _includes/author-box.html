@@ -1,6 +1,6 @@
 <!-- Author Box -->
-<div class="card mb-5 shadow-sm">
-	<div class="row p-5 justify-content-center">
+<div class="p-3 p-sm-5 mb-5 text-dark bg-white shadow-sm">
+	<div class="row justify-content-center">
 		<div class="col-md-3">
 			{% if author.avatar %}
 			{% cloudinary author-thumb {{ site.url }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.name }}" %}

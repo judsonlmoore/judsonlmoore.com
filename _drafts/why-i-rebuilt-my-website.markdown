@@ -1,6 +1,6 @@
 ---
 title:			How to migrate from Wordpress to Jekyll and AWS
-description:	I decreased my page load time by 400% while 
+description:	I decreased my page load time by 400% while learning about the static site generator, Jekyll
 excerpt:		Why I rebuilt my website
 author:			judsonlmoore
 date:			2020-01-10 22:08:48 Z
@@ -9,6 +9,7 @@ tags:
   - web development
   - technical skills
   - jekyll
+  - product management
 layout:			post
 image:			2020/01/wordpress-vs-jekyll.png
 
@@ -27,11 +28,26 @@ My daytime profession is as a software product manager. This means that I am sit
 
 I've been interested in web development and technical tinkering for as long as I can remember. Until a few years ago when I started working in the tech sector professionally, I was pretty much on my own in figuring out how websites were made. For many years, I managed various projects with Wordpress and obsessed over numerous optimizations via plugins and coding custom themes. 
 
-Then a few years ago I decided I wanted to increase my knowledge around the tool that software developers use. I started with Amazon's AWS Web Service. "The Cloud" is all everyone talks about for enterprise website hosting and I felt with AWS I could increase my website's performance. 
+Then a few years ago I decided I wanted to increase my knowledge around the tool that "real" software developers use. I started with Amazon's AWS Web Service. "The Cloud" is all everyone talks about for enterprise website hosting and I felt with AWS I could increase my website's performance while learning something new. 
 
 First, I migrated my Wordpress instances from a shared hosting provider to AWS EC2 cloud-based servers. Then I learned how to offload my media and other assets to S3 buckets so that they could be distributed by Cloudfront. The user benefit of this was clear: fater pageload by parallelizing the download of assets across multiple sub-domains. 
 
-I used the [WP Offload Media Plugin](https://deliciousbrains.com/wp-offload-media/) by Delicious Brains to offload the assets to S3. The plugin worked really well and was easy to implement, but it was quite expensive to renew the license each year and it just gave me a taste of what AWS was capeable of.
+In AWS, I learned about the following topics: 
+
+- Network load balancing
+- Lambda functions 
+- Route 53 DNS 
+- User management with IAM
+- Migrated from SQL to MariaDB and hosted on RDS
+- Amazon Virtual Private Cloud (Amazon VPC) 
+- Network access control list (ACLs) 
+- Security Groups
+
+A big thank you to [MartyAWS and his YouTube channel](https://www.youtube.com/channel/UCeHkyJsi_1MLh5ScR98Mvzw) for consulting with me and helping me figure some of this out!
+
+For offloading media from Wordpress to S3 buckets, I used the [WP Offload Media Plugin](https://deliciousbrains.com/wp-offload-media/) by Delicious Brains. The plugin worked really well and was easy to implement, but it was quite expensive to renew the license each year, so it felt less and less sustainable over time.
+
+All of this was great fun and I learned a lot while tinkering with the AWS universe, but it really just gave me a taste of what AWS was capeable of.
 
 _I thirsted for more._
 
@@ -44,6 +60,8 @@ By the way, there are many static site generators out there, but Jekyll seemed t
 Other popular static site generators you might like to look in to include [Hugo](https://gohugo.io/), [Gatsby](https://www.gatsbyjs.org/), and [Next](https://nextjs.org/). If you choose to use one of those, then most of the rest of this post will not be applicable to use, or at least not the code snippets.
 
 After the idea to use a static site generator had some time to gestate for awhile, I couldn't resist the urge to see if I could figure out how to migrate from Wordpress to Jekyll. It took quite some doing and I had to ask for help a few times, but looking back, this was actually rather quite easy (if not very involved with lots of steps) and most of all, I found that migrating my blog from Wordpress to Jekyll was lots of fun! 
+
+In the remainder of this post I will outline the steps I took to migrate from Wordpress to Jekyll. 
 
 ## My goals for migrating from Wordpress to Jekyll
 
@@ -171,8 +189,6 @@ My machine > Github > CircleCI > S3 > Cloudfront
 
 #### Cloudinary
 [Jekyll Cloudinary Liquid tag plugin](https://github.com/nhoizey/jekyll-cloudinary)
-
-`{% cloudinary /assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" %}`
 
 {% cloudinary /assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" %}
 

@@ -51,6 +51,10 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: ""
+    values:
+      image: 2019/11/judsonlmoore-holding-exponential-happiness.jpg
 
 # Plugins
 plugins:
@@ -67,8 +71,8 @@ sass:
     - node_modules
 
 # Pagination
-paginate: 6
-paginate_path: /page:num/
+paginate: 12
+paginate_path: "/blog/page-:num/"
 
 # Archives
 jekyll-archives:
@@ -95,11 +99,13 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - .sass-cache/
+  - gemfiles/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - node_modules
+  - node_modules/
 
 compress_html:  
   clippings: all  

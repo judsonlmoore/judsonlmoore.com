@@ -36,15 +36,11 @@ layout: default
 	</div>
 
 	<section>
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="card-columns"> 
-					{% assign posts = site.posts | where_exp: "item" , "item.categories contains page.category"%} 
-					{% for post in posts %} 
-					{% include postbox.html %} 
-					{% endfor %}
-				</div>
-			</div>
+		<div class="row row-cols-1 row-cols-md-3">
+			{% assign posts = site.posts | where_exp: "item" , "item.categories contains page.category"%} 
+			{% for post in posts %} 
+			{% include postbox.html %} 
+			{% endfor %}
 		</div>
 	</section>
 
