@@ -18,12 +18,9 @@ sitemap: false
 		<p>Thank you for subscribing to my newsletter! If at any time I can be of service to you, please feel free to to email me:</p>
 		<p><a href="mailto:judson@judsonlmoore.com" rel="noopener">judson@judsonlmoore.com</a></p>
 		<p>Also please come <strong>join me on an adventure</strong> on social media:</p>
-		{% for item in site.data.social %}
-		<!--{{ item.name }} -->
-		<a href="{{ item.url }}" class="btn bg-dark text-light mr-2 mb-2" alt="Follow on {{ item.name }}" target="_blank" rel="noopener">
-			<span class="fab fa-{{ item.name }}"></span>
-		</a>
-		{% endfor %}
+
+		{% include social-buttons.html %}
+
 	</div>
 
 </div>

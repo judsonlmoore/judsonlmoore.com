@@ -9,5 +9,6 @@ twitter: judsonlmoore
 facebook: judsonlmoore_blog
 instagram: judsonlmoore
 linkedin: judsonlmoore
+youtube: judsonlmoore
 ---
 Travel addict. Ambitious about making the world a better place. Writing what I learn along the way.

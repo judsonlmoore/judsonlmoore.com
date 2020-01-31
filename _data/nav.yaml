@@ -1,40 +1,34 @@
 main:
   - page: Happiness
     url: /happiness/
-  - title: Asia
-    subfolderitems:
-      - page: India
-        url: /india/
-      - page: Kyrgyzstan
-        url: /kyrgyzstan/
-  - title: Europe
-    subfolderitems:
-      - page: England
-        url: /england/
-      - page: Germany
-        url: /germany/
-      - page: Switzerland
-        url: /switzerland/
-      - page: Turkey
-        url: /turkey/
-  - title: MENA
-    subfolderitems:
-      - page: Egypt
-        url: /egypt/
-      - page: Morocco
-        url: /morocco/
-      - page: United Arab Emirates
-        url: /uae/
-  - title: Americas
+  - page: While Young
+    url: /whileyoung/
+  - title: Travel Guides
     subfolderitems:
       - page: Brazil
         url: /brazil/
       - page: Colombia
         url: /colombia/
+      - page: England
+        url: /england/
+      - page: Egypt
+        url: /egypt/
+      - page: Germany
+        url: /germany/
+      - page: India
+        url: /india/
+      - page: Kyrgyzstan
+        url: /kyrgyzstan/
+      - page: Morocco
+        url: /morocco/
+      - page: Switzerland
+        url: /switzerland/
+      - page: Turkey
+        url: /turkey/
+      - page: United Arab Emirates
+        url: /uae/
       - page: United States of America
         url: /usa/
-  - page: Lifestyle
-    url: /whileyoung/
   - page: Female Travel
     url: /female-travel/
   - page: Book <span class="badge badge-info">New</span>
