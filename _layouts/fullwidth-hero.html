@@ -4,16 +4,8 @@ layout: default
 
 --- 
 
-<style type="text/css">
-	#fullwidth-img {
-		background-image: url("{{ site.image-path }}{{ page.image }}");
-		background-size: cover;
-	    background-position: center;
-	}
-</style>
-
 <!-- Header -->
-<div id="fullwidth-img" class="container-fluid py-5 mb-0 mb-sm-5">
+<div id="fullwidth-img" class="container-fluid py-5 mb-0 mb-sm-5" style="background-image: url('{{ site.image-path }}{{ page.image }}'); background-size: cover; background-position: center; min-height: 40vh;">
 	<div class="container h-100">
 		<div class="row h-100 align-items-center">
 		    <div class="col-lg-12">
