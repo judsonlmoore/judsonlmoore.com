@@ -1,10 +1,10 @@
 ---
-title:			The sixth philosophy - do it while you're young
+title:			Do it while you're young
 date:			2020-01-01 19:00:00 Z
 categories:		happiness
 tags:			
 author:			judsonlmoore
-excerpt:		
+description:	
 layout:			post
 image:			2020/01/philosophy-6-do-it-while-youre-young.png
 toc:			false

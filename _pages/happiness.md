@@ -1,6 +1,7 @@
 ---
 title: Achieving Happiness
 subtitle: Phillosophies to live your life by
+description: There are several principles, philosophies really, by which I have come to live my life. By following these philosophies, the result in your life is Exponential Happiness.
 permalink: "/happiness/"
 layout: fullwidth-hero
 comments: false
@@ -21,7 +22,7 @@ There are several principles, philosophies really, by which I have come to live 
 - **The fifth philosophy:** be flexible 
 - **The sixth philosophy:** do it while you're young
 
-By following these philosophies, the result is *exponential happiness*.
+By following these philosophies, the result in your life is ***exponential happiness***.
 
 To learn more, read the posts below where I go in to greater detail about each of these philosophies. If they touch you, then I invite you to take a deeper dive with my book, [*Exponential Happiness*](/book/).
 

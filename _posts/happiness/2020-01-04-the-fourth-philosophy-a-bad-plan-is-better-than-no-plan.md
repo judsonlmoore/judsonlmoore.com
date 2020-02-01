@@ -1,10 +1,10 @@
 ---
-title:			The fourth philosophy - a bad plan is better than no plan
+title:			A bad plan is better than no plan
 date:			2020-01-03 19:00:00 Z
 categories:		happiness
 tags:			
 author:			judsonlmoore
-excerpt:		
+description:	
 layout:			post
 image:			2020/01/philosophy-4-a-bad-plan-is-better-than-no-plan.png
 toc:			false

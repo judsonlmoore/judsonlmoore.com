@@ -1,10 +1,10 @@
 ---
-title:			The fifth philosophy - be flexible
+title:			Be flexible
 date:			2020-01-02 19:00:00 Z
 categories:		happiness
 tags:			
 author:			judsonlmoore
-excerpt:		
+description:	
 layout:			post
 image:			2020/01/philosophy-5-be-flexible.png
 toc:			false
