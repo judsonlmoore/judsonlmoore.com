@@ -30,33 +30,19 @@ Want more guidance with identifying your life goals? **Subscribe to my newslette
 Things in priority order that I'd like to do before I die that would contribute to my impact:
 
 1. Always be the one to "walk through the door."
-
 2. Volunteer.
-
 3. Gain vast cultural knowledge and world understanding.
-
 4. Live for several years in another country.
-
 5. Share my knowledge and experience with others.
-
 6. Start (and end) a music revolution.
-
 7. Give generously.
-
 8. Be an active Rotarian.
-
 9. Love.
-
 10. Learn to collaborate better.
-
 11. Complete Peace Corps service.
-
 12. Reconnect with my worldly friends.
-
 13. Make my parents proud / be like dad.
-
 14. Have great expendable income.
-
 15. Be wealthy.
 
 This post is is dated to the date which I originally wrote the paper form of this list (12/23/2007) but I actually did not post it to my blog until 6/8/2014 when I found the original document while "lightening the ship." I am proud that in my short years I have already accomplished a number of these things and I will continue to do many of these things over and over throughout my life. I struggle with identifying how to approach #6 and I hope that #14 is coming in due time. Your feedback is welcome in the comments section below.

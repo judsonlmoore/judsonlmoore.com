@@ -1,6 +1,7 @@
 ---
 title: Norway Travel Guide
 subtitle:
+Description: Plan your visit to Norway and find out where to go and what to do in Norway. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/norway/"
 layout: fullwidth-hero
 category: norway

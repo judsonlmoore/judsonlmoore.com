@@ -1,6 +1,7 @@
 ---
 title: Denmark Travel Guide
-subtitle:
+subtitle: The southern territory of Scandinavia
+Description: Plan your visit to Denmark and find out where to go and what to do in Denmark. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/Denmark/"
 layout: fullwidth-hero
 category: denmark

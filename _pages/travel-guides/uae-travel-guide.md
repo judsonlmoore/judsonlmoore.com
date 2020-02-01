@@ -1,6 +1,7 @@
 ---
 title: United Arab Emirates Travel Guide
 subtitle: The best 36-hour layover ever.
+Description: Plan your visit to the UAE and find out where to go and what to do in the UAE. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/uae/"
 layout: fullwidth-hero
 category: uae

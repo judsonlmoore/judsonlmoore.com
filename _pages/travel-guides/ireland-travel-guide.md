@@ -1,6 +1,7 @@
 ---
 title: Ireland Travel Guide
 subtitle:
+Description: Plan your visit to Ireland and find out where to go and what to do in Ireland. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/ireland/"
 layout: fullwidth-hero
 category: ireland

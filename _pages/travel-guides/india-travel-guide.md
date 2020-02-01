@@ -1,6 +1,7 @@
 ---
 title: India Travel Guide
 subtitle: A half-year business trip, transformed into one of my greatest adventures.
+Description: Plan your visit to India and find out where to go and what to do in India. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/india/"
 layout: fullwidth-hero
 category: india

@@ -1,6 +1,7 @@
 ---
 title: England Travel Guide
 subtitle: Her Majesty's Kingdom.
+Description: Plan your visit to England and find out where to go and what to do in England. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/england/"
 layout: fullwidth-hero
 category: england

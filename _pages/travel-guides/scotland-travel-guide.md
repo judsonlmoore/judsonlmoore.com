@@ -1,6 +1,7 @@
 ---
 title: Scotland Travel Guide
 subtitle:
+Description: Plan your visit to Scotland and find out where to go and what to do in Scotland. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/scotland/"
 layout: fullwidth-hero
 category: scotland

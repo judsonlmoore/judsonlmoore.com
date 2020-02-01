@@ -1,6 +1,7 @@
 ---
 title: Morocco Travel Guide
 subtitle: As diverse a place as you will find anywhere in the world.
+Description: Plan your visit to Morocco and find out where to go and what to do in Morocco. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/morocco/"
 layout: fullwidth-hero
 category: morocco

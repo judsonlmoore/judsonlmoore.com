@@ -30,7 +30,9 @@ According to a University of California San Diego School of Medicine study, [gi
 
 Regardless of if you live longer or not, wouldn't it be nice to live in **a world full of gratitude** rather than one void of it? I imagine that such a world would be a magical place where anything is possible. Here is a video which has a similar meaning and which is sure to brighten your day :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=K65rOLPGQyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/U5lZBjWDR_c" allowfullscreen></iframe>
+</div>
 
 ## #3 - Giving thanks is better than not
 

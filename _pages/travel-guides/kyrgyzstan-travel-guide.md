@@ -1,6 +1,7 @@
 ---
 title: Kyrgyzstan Travel Guide
 subtitle: A stunning land in Central Asia.
+Description: Plan your visit to Kyrgyzstan and find out where to go and what to do in Kyrgyzstan. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/kyrgyzstan/"
 layout: fullwidth-hero
 category: kyrgyzstan

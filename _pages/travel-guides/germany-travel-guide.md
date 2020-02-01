@@ -1,6 +1,7 @@
 ---
 title: Germany Travel Guide
 subtitle: The origins of my nomadic and adventurous life.
+Description: Plan your visit to Germany and find out where to go and what to do in Germany. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/germany/"
 layout: fullwidth-hero
 category: germany

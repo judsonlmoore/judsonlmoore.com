@@ -1,6 +1,7 @@
 ---
 title: Jordan Travel Guide
 subtitle: Mystical desert.
+Description: Plan your visit to Jordan and find out where to go and what to do in Jordan. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/jordan/"
 layout: fullwidth-hero
 category: jordan

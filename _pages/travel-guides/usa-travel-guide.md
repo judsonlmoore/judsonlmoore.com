@@ -1,6 +1,7 @@
 ---
 title: United States of America Travel Guide
 subtitle: My homebase.
+Description: Plan your visit to the USA and find out where to go and what to do in the USA. Read about itineraries, activities, places to stay and travel essentials...
 permalink: "/usa/"
 layout: fullwidth-hero
 category: usa
