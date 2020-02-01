@@ -6,6 +6,8 @@ layout: fullwidth-hero
 comments: false
 category: happiness
 image: 2019/05/exponential-happiness-background.jpg
+color: fba828
+
 ---
 
 ## My life philosophies in a nutshell
