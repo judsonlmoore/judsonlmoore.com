@@ -2,7 +2,7 @@
 title:			Do it while you're young
 date:			2020-01-01 19:00:00 Z
 categories:		happiness
-tags:			
+tags:			happiness
 author:			judsonlmoore
 description:	
 layout:			post
@@ -16,3 +16,22 @@ Albert Einstein wisely said, "Compound interest is the eighth wonder of the worl
 The result is *exponential happiness*.
 
 Those formative younger years, when we have not yet amassed responsibilities to others or crushing debts, gives us the ability to live life for ourselves. We get this one chance to say *what if*, to show up, to make a plan, and to afford ourselves the flexibility to change. As you will see later on, this becomes much more difficult with time. Those who start while young have a higher probability of finding happiness when they set the foundation before all those other pressures pile up.  
+
+
+## Something
+
+
+
+## Something
+
+
+
+## Something
+
+
+
+
+
+Check out my book [Exponential Happiness](/book/) for loads more details on this and other topics to help you in your pursuit of happiness! 
+
+If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have and I will be happy to advise you the best I can directly! 

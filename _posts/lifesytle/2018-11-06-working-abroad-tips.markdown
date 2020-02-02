@@ -2,7 +2,7 @@
 title:			Tips for how to successfully find work abroad as an American
 date:			2018-11-06 20:07:05
 categories:		lifestyle
-tags:			germany, inspiration, interview, whileyoung, two words
+tags:			germany, inspiration, interview, whileyoung
 author:			judsonlmoore
 layout:			post
 featured:		true
@@ -37,9 +37,7 @@ There are smart and talented people with relevant job experience all over the wo
 Keeping that in mind, there are **three reasons why a company might be allowed to hire an immigrant**:
 
 1. You work in a field which is in **high demand** and there is a shortage of qualified local applicants (many STEM (Science, Technology, Engineering, and Mathematics) jobs are in this category);
-
 2. You are truly an **expert in your field** and bring a level of thought leadership in the industry to the company which can not be found in the country (maybe you wrote a book or gave a TED Talk with millions of views on the topic of the role to which you are applying);
-
 3. You have **native-level fluency in your native language** and, as a native of your country, **you understand the culture**, business, and people to a degree which a non-native person simply can not.
 
 You may very well qualify under point 1 or 2 of this list, but that will apply to a smaller number of people. If 1 and 2 apply to you, then you probably also don't need to be reading this article (not that it hurts!) because you already have a fast and direct path into your dream job abroad. Point 3 was how I made my current move to Germany, thusly, I argue that **your greatest asset is native language and market knowledge**.
@@ -49,7 +47,6 @@ You may very well qualify under point 1 or 2 of this list, but that will apply t
 This is the key part. Actually, this insight, which I only recently became conscious of, is probably the single most important part of finding a job abroad, and it is very simple. You should be looking for **companies which meet these two criteria:**
 
 1. Are based in the country where you want to move; and
-
 2. Do business in the country where you are native.
 
 It's that simple! But let me explain the logic here. Let's say you are American and you want to work in Germany (trying to be consistent with my examples here...). American companies with offices in Germany (think: Facebook, Google, Amazon, IBM, Nike, Ford) built those offices because they needed local market knowledge in Germany. **They already have plenty of American-based resources.** So working for one of these companies in Germany might be quite difficult.

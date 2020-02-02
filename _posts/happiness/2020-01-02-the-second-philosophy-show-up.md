@@ -2,7 +2,7 @@
 title:			Show up
 date:			2020-01-05 19:00:00 Z
 categories:		happiness
-tags:			
+tags:			happiness
 author:			judsonlmoore
 description:	
 layout:			post

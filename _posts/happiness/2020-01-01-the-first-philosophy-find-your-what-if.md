@@ -2,7 +2,7 @@
 title:			Find your "what if" and live it every day
 date:			2020-01-06 19:00:00 Z
 categories:		happiness
-tags:			
+tags:			happiness
 author:			judsonlmoore
 description:	
 layout:			post
