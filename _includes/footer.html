@@ -1,103 +1,68 @@
-<!-- Footer -->
 <footer class="page-footer bg-dark text-light py-3">
 
-  <!-- Footer Links -->
-  <div class="container text-center text-md-left mt-5">
+	<div class="container text-center text-md-left mt-5">
 
-    <!-- Grid row -->
-    <div class="row mt-3">
+		<div class="row mt-3 text-uppercase small">
 
-		<!-- Grid column -->
-		<div class="col-md-3 col-lg-5 col-xl-5 mx-auto mb-4">
+			<div class="col-lg-2 d-none d-lg-block">
+		        <a href="{{ site.url }}/">
+		            <h2>{% include icons/logo.svg %}</h2>
+		        </a>
+			</div>
 
-	        <!-- Content -->
-	        <h6 class="text-uppercase font-weight-bold">Connect with Judson</h6>
-	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-	        <p>
-	          {% include icons/home.svg %} Gaertnerstr 3 Berlin 10245 Germany
-	      	</p>
-	        <p>
-	          {% include icons/envelope.svg %} contact@judsonlmoore.com
-	      	</p>
-	        <p>
-	          {% include icons/mobile.svg %} + 01 310 571 5210
-	      	</p>
-	        <p>
-	          {% include icons/print.svg %} + 49 176 640 34811
-	      	</p>
-	        {% include social-buttons.html %}
-		</div>
-		<!-- Grid column -->
+			<div class="col-sm-2 font-weight-bold">
+				<ul class="list-unstyled">
+					<li><a href="{{ site.url }}/about/">About Me</a></li>
+					<li><a href="{{ site.url }}/book/">My book</a></li>
+					<li><a href="{{ site.url }}/resume/">Resume</a></li>
+					<li><a href="{{ site.url }}/readinglist/">Reading List</a></li>
+				</ul>
+			</div>
 
-		<!-- Grid column -->
-		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+			<div class="col-sm-2 font-weight-light">
+				<ul class="list-unstyled">
+					<li><a href="{{ site.url }}/happiness/">Happiness</a></li>
+					<li><a href="{{ site.url }}/whileyoung/">#whileyoung</a></li>
+					<li><a href="{{ site.url }}/readinglist/">Reading list</a></li>
+					<li><a href="{{ site.url }}/categories/">Categories</a></li>
+				</ul>
+			</div>
 
-	        <h6 class="text-uppercase font-weight-bold">Links</h6>
-	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-	        <p>
-	          <a href="{{ site.url }}/about/">About Judson</a>
-	        </p>
-	        <p>
-	          <a href="{{ site.url }}/resume/">Resume</a>
-	        </p>
-	        <p>
-	          <a href="{{ site.url }}/book/">Exponential Happiness</a>
-	        </p>
-	        <p>
-	          <a href="{{ site.url }}/readinglist/">Reading List</a>
-	        </p>
+			<div class="col-sm-2 font-weight-light">
+				<ul class="list-unstyled">
+					<li><a href="{{ site.url }}/brazil/">Brazil</a></li>
+					<li><a href="{{ site.url }}/colombia/">Colombia</a></li>
+					<li><a href="{{ site.url }}/england/">England</a></li>
+					<li><a href="{{ site.url }}/egypt/">Egypt</a></li>
+				</ul>
+			</div>
 
-		</div>
-		<!-- Grid column -->
+			<div class="col-sm-2 font-weight-light">
+				<ul class="list-unstyled">
+					<li><a href="{{ site.url }}/germany/">Germany</a></li>
+					<li><a href="{{ site.url }}/india/">India</a></li>
+					<li><a href="{{ site.url }}/kyrgyzstan/">Kyrgyzstan</a></li>
+					<li><a href="{{ site.url }}/morocco/">Morocco</a></li>
+				</ul>
+			</div>
 
-		<!-- Grid column -->
-		<div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-
-	        <!-- Links -->
-	        <h6 class="text-uppercase font-weight-bold">More links</h6>
-	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-	        <p>
-	          <a href="{{ site.url }}/mediakit/">Media Kit</a>
-	        </p>
-	        <p>
-	          <a href="{{ site.url }}/guest-author/">Guest Authors</a>
-	        </p>
-	        <p>
-	          <a href="{{ site.url }}/disclosures/">Disclosures</a>
-	        </p>
-	        <p>
-	          <a href="{{ site.url }}/sitemap.xml">Sitemap</a>
-	        </p>
-
-		</div>
-		<!-- Grid column -->
-
-		<!-- Grid column -->
-		<div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-
-	        <!-- Links -->
-	        <h6 class="text-uppercase font-weight-bold">Subscribe</h6>
-	        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-			<div class="card rounded shadow-sm mb-3 bg-light text-light">
-				<div class="card-body bg-white text-dark">
-					{% include form-opt-in.html %}
-				</div>
+			<div class="col-sm-2 font-weight-light">
+				<ul class="list-unstyled">
+					<li><a href="{{ site.url }}/guest-author/">Guest authors</a></li>
+					<li><a href="{{ site.url }}/mediakit/">Media kit</a></li>
+					<li><a href="{{ site.url }}/disclosures/">Disclosures</a></li>
+					<li><a href="{{ site.url }}/sitemap.xml" target="_blank">Sitemap</a></li>
+				</ul>
 			</div>
 
 		</div>
-		<!-- Grid column -->
+
+	    <hr class="bg-white">
+
+		<div class="py-3 text-center text-md-right small">
+		Copyright ©{{ site.time | date: "%Y" }} <a href="{{ site.url }}">{{ site.name }}</a>. All rights reserved.
+		</div>
 
     </div>
-    <!-- Grid row -->
-
-</div>
-<!-- Footer Links -->
-
-<!-- Copyright -->
-<div class="footer-copyright text-center py-3">
-Copyright © {{ site.time | date: "%Y" }} <a href="{{ site.url	x }}">{{ site.name }}</a>
-</div>
-<!-- Copyright -->
 
 </footer>
-<!-- Footer -->

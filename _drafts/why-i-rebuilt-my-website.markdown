@@ -1,7 +1,6 @@
 ---
 title:			How to migrate from Wordpress to Jekyll and AWS
 description:	I decreased my page load time by 400% while learning about the static site generator, Jekyll
-excerpt:		Why I rebuilt my website
 author:			judsonlmoore
 date:			2020-01-10 22:08:48 Z
 categories:		blog

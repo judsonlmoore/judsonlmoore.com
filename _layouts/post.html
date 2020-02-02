@@ -16,34 +16,39 @@ post_class: post-template
                 <!-- Post Title -->
                 <div class="bg-white p-3 p-md-5 shadow-sm">
 
-                    <h1 class="posttitle">{{ page.title }}</h1>
+                    <!-- Post Categories/Tags -->
+                    {% assign sortedCategories = page.categories | sort %}
+                    {% for category in sortedCategories %}
+                    <a class="text-uppercase font-weight-bold font-italic" href="{{site.url}}/categories#{{ category }}">
+                        <span>{{ category }}</span>
+                    </a>
+                    {% endfor %}
+                    <!-- End Categories/Tags -->
 
                     <!-- Post Date -->
-                    <small>
-                        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                    <small class="text-muted">
+                        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%B %e, %Y" }}">{{ page.date | date:"%B %e, %Y" }}</time></span>           
                         {% if page.last_modified_at %}
-                        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                    {% endif %}
+                        | <strong>Updated</strong> <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%B %e, %Y" }}</time>)
+                        {% endif %}
                     </small>
+                    <!-- End Post Date -->
 
+                    <h1 class="display-4">{{ page.title }}</h1>
+
+                    {% if page.tags != nill %}
                     <!-- Post Categories/Tags -->
                     <ul class="list-inline">
-                        {% assign sortedCategories = page.categories | sort %}
-                        {% for category in sortedCategories %}
-                        <li class="list-inline-item">
-                            <a class="smoothscroll badge badge-primary" href="{{site.url}}/categories#{{ category }}">
-                                <span>{{ category }}</span>
-                            </a>
-                        </li>
-                        {% endfor %}
+                        Tags: 
                         {% assign sortedTags = page.tags | sort %}
                         {% for tag in sortedTags %}
                         <li class="list-inline-item">
-                            <a class="smoothscroll badge badge-secondary" href="{{site.url}}/tags#{{ tag }}">{{ tag }}</a>
+                            <a class="smoothscroll" href="{{site.url}}/tags#{{ tag }}">{{ tag }}</a>
                         </li>
                         {% endfor %}
                     </ul>
                     <!-- End Categories/Tags -->
+                    {% endif %}
 
                 </div>
 
@@ -89,24 +94,6 @@ post_class: post-template
             {% endif %}
 
             {% include related-posts.html %}
-
-            <!-- Prev/Next -->
-            <div class="p-3 p-sm-5 text-dark bg-white shadow-sm">
-                <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
-                    <div class="col-md-6">
-                        {% if page.previous.url %}
-                        <a class="prev d-block stretched-link" href="{{ site.url }}{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
-                        {% endif %}
-                    </div>
-                    <div class="col-md-6">
-                        {% if page.next.url %}
-                        <a class="next d-block text-lg-right stretched-link" href="{{ site.url }}{{page.next.url}}">{{page.next.title}} &raquo; </a>
-                        {% endif %}
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-            <!-- End Prev/Next -->
 
         </div>
 
