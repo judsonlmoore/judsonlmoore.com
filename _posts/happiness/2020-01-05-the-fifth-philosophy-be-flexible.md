@@ -10,16 +10,21 @@ toc:			false
 
 ---
 
+Your work isn't over once you've [written a plan for acomplishing your life goals](/the-fourth-philosophy-a-bad-plan-is-better-than-no-plan/). 
+
 Having a plan is great and all, but remember, life is complicated. You are always getting new information, and the circumstances are ever-changing. The ability to be flexible is paramount. Flexibility is not about flip-flopping or even changing your mind. It is about allowing yourself and your plan to adapt to a continually changing environment so that you ensure success in accomplishing your goals.
 
 Flexibility is hard. People don't like the uncertainty of change. Learning to be flexible takes discipline. Once mastered, you can apply it to achieving success in all aspects of your life.
 
 
-## Something
 
 
 
-## Something
+## How to be flexible 
+
+
+
+## To avoid or to embrace disruption 
 
 
 
