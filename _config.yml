@@ -126,14 +126,14 @@ cloudinary:
       crop: fill
       focus: auto
       quality: auto
-      min_width: 150
-      max_width: 1200
-      fallback_max_width: 800
+      min_width: 50
+      max_width: 1000
+      fallback_max_width: 825
       steps: 5
       figure: auto
       attributes:
-        class: img-fluid
-        loading: lazy
+        class: "img-fluid"
+        loading: "auto"
     featured-box-img-cover:
       attributes:
         class: featured-box-img-cover img-fluid
