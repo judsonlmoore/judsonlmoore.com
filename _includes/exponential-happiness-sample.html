@@ -1,17 +1,22 @@
-<!-- Exponential Happiness Lead Generator -->
-<div id="get-sample" class="jumbotron p-5 mb-5 text-white rounded bg-dark">
-	<div class="row justify-content-between">
-		<div class="col-md-6 px-0 mb-5 mb-md-0">
-			<h2>Get the first three chapters free</h2>
-			<p class="lead my-3">Provide your email address to gain instant access to the first three chapters of <em>Exponential Happiness</em>.</p>
-		</div>
-		<div class="col-md-5 px-0">
-			<div class="card rounded" >
-				<div class="card-body bg-white text-dark">
-					{% include form-opt-in.html %}
-				</div>
-			</div>
-		</div>
+<div class="modal-body">
+	<div class="container-fluid bd-example-row">
+	  <div class="row justify-content-center text-white text-left">
+	    <div class="col-5 col-sm-4 mb-5 mb-md-0">
+	      {% cloudinary /assets/images/2019/05/exponential-happiness-book-cover-flat.jpg alt="Book cover of Exponential Happiness by Judson L Moore" class="shadow" %}
+	    </div>
+	    <div class="col-sm-8">
+	      <h5 class="modal-title" id="gridModalLabel">Three free chapters are just a click away!</h5>
+	      <p class="d-none d-md-block">Preview my new book now and learn how to:</p>
+	      <ul class="d-none d-md-block list-unstyled">
+	        <li><strong>Define</strong>&nbsp;what “happiness” means to you</li>
+	        <li><strong>Identify</strong>&nbsp;your life goals</li>
+	        <li><strong>Create</strong>&nbsp;an actionable plan to achieve those goals</li>
+	        <li><strong>Embrace</strong>&nbsp;failure as a learning opportunity</li>
+	        <li><strong>Live</strong>&nbsp;a life without regrets</li>
+	      </ul>
+	      <p>Just let me know <span class="color-primary">where</span> to send it!</p>
+	      {% include form-opt-in.html %}
+	    </div>
+	  </div>
 	</div>
 </div>
-<!-- End Exponential Happiness Lead Generator -->

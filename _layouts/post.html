@@ -86,7 +86,10 @@ post_class: post-template
                 {% endif %}
             </div>
 
-            {% include exponential-happiness-sample.html %}
+            <!-- Exponential Happiness Lead Generator -->
+            <div id="get-sample" class="p-2 mb-5 text-white rounded bg-dark" style="background-image: linear-gradient(to right bottom, #ffa600, #eb921d, #d48029, #bd6f30, #a46033, #985136, #894439, #783939, #6b2d3e, #592442, #431f44, #281c43);">
+                {% include exponential-happiness-sample.html %}
+            </div>
 
             {% assign author = site.authors | where: 'short_name', page.author | first %}
             {% if author %}

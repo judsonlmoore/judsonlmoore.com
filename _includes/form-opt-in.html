@@ -2,33 +2,37 @@
 	action="{{site.mailchimp-list}}"
 	method="post"
 	name="mc-embedded-subscribe-form"
-	class="wj-contact-form validate form-inline"
+	class="wj-contact-form validate"
 	target="_blank"
 	rel="noopener"
 	novalidate
 >
-	<div class="form-group mr-sm-3 mb-2">
-		<input
-			type="email"
-			name="EMAIL"
-			class="form-control required email"
-			id="mce-EMAIL"
-			aria-describedby="emailHelp"
-			placeholder="Enter email"
-			autocomplete="on"
-			required
-		/>
+	<div class="form-row">
+		<div class="col-12 col-lg-8 mb-2">
+			<input
+				type="email"
+				name="EMAIL"
+				class="form-control required email"
+				id="mce-EMAIL"
+				aria-describedby="emailHelp"
+				placeholder="Enter email"
+				autocomplete="on"
+				required
+			/>
+		</div>
+		<div class="col-12 col-lg-4">
+			<button
+				type="submit"
+				value="Subscribe"
+				name="subscribe"
+				class="btn btn-primary mb-2 btn-block"
+			>
+				Submit
+			</button>
+		</div>
 	</div>
-	<button
-		type="submit"
-		value="Subscribe"
-		name="subscribe"
-		class="btn btn-primary mb-2"
-	>
-		Submit
-	</button>
 </form>
-<small id="emailHelp" class="form-text text-muted">You will be subscribed to email updates. Unsubscribe anytime.</small>
+<!-- <small id="emailHelp" class="form-text text-muted">You will be subscribed to email updates. Unsubscribe anytime.</small> -->
 <script type="text/javascript">
 	$("#exampleModal").on("show.bs.modal", function(event) {
 		var button = $(event.relatedTarget); // Button that triggered the modal

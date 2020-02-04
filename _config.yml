@@ -132,8 +132,8 @@ cloudinary:
       steps: 5
       figure: auto
       attributes:
-        class: "img-fluid"
-        loading: "auto"
+        class: img-fluid
+        loading: auto
     featured-box-img-cover:
       attributes:
         class: featured-box-img-cover img-fluid

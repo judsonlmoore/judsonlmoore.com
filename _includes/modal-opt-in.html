@@ -1,21 +1,19 @@
-
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModalCenter">
-  Subscribe now for more {{ page.category }} tips {% include icons/envelope.svg %}
-</button>
+<!-- Modal Button -->
+<a class="btn btn-primary btn-lg stretched-link" data-toggle="modal" data-target="#admodal">
+  {% if btn.text %}{{ include.btn-text }}{% else %}Special offer{% endif %}
+</a>
 
 <!-- Modal -->
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content">
+<div id="admodal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="gridModalLabel" aria-hidden="true" style="display: none;">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content" style="background-image: linear-gradient(to right bottom, #ffa600, #ef6442, #bb385c, #71295e, #281c43);">
+
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalCenterTitle">Sign up</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
       </div>
-      <div class="modal-body">
-        {% include form-opt-in.html %}
+        {% include exponential-happiness-sample.html %}
+      <div class="modal-footer">
+        <small id="emailHelp" class="form-text text-warning">You will be subscribed to email updates. Unsubscribe anytime.</small>
       </div>
     </div>
   </div>
