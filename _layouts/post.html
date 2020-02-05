@@ -10,11 +10,11 @@ post_class: post-template
     <div class="row">
 
         <!-- Post -->
-        <div class="col-lg-8 px-3 px-sm-0 mb-5">
+        <div class="col px-3 px-sm-0 mb-5">
             <div class="mainheading pt-1 pt-md-0">
 
                 <!-- Post Title -->
-                <div class="bg-white p-3 p-md-5 shadow-sm">
+                <div class="bg-white p-1 p-md-0">
 
                     <!-- Post Categories/Tags -->
                     {% assign sortedCategories = page.categories | sort %}
@@ -54,16 +54,24 @@ post_class: post-template
 
             </div>
 
+        </div>
+    </div>
+
+    <div class="row">
+
+        <!-- Post -->
+        <div class="col-lg-8 px-3 px-sm-0 mb-5">
+
             {% if page.image %}
             <!-- Post Featured Image -->
-            <div class="p-0 shadow-sm">
+            <div class="p-0 categories:		lifestyle">
                 {% cloudinary featured {{ site.url }}{{ site.image-path }}{{ page.image }} alt="{{ page.title }}" %}
             </div>
             <!-- End Featured Image -->
             {% endif %}
 
             <!-- Post Content -->
-            <div class="article-post bg-white p-3 p-sm-5 mb-5 shadow-sm">
+            <div class="article-post bg-white p-3 p-sm-5 mb-5 categories:		lifestyle">
 
                 {% if page.toc != false %}
                 <!-- Toc -->
