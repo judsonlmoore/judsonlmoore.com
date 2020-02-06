@@ -5,7 +5,7 @@ Description: Plan your visit to India and find out where to go and what to do in
 permalink: "/india/"
 layout: fullwidth-hero
 category: india
-image: 2015/01/IMG_0548.jpg
+image: assets/images/2015/01/IMG_0548.jpg
 ---
 
 ## I negotiated a business trip into a grand adventure

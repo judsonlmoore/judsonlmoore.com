@@ -5,7 +5,7 @@ Description: Plan your visit to Denmark and find out where to go and what to do 
 permalink: "/Denmark/"
 layout: fullwidth-hero
 category: denmark
-image: 2015/10/ouro-preto.jpg
+image: assets/images/2015/10/ouro-preto.jpg
 ---
 
 ## How my time in Brazil changed my life

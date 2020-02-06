@@ -5,7 +5,7 @@ Description: Plan your visit to Switzerland and find out where to go and what to
 permalink: "/switzerland/"
 layout: fullwidth-hero
 category: switzerland
-image: 2015/10/switzerland-capital-dome.jpg
+image: assets/images/2015/10/switzerland-capital-dome.jpg
 ---
 
 ## Switzerland is as delicious as it is beautiful 

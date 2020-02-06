@@ -5,7 +5,7 @@ Description: Plan your visit to Morocco and find out where to go and what to do 
 permalink: "/morocco/"
 layout: fullwidth-hero
 category: morocco
-image: 2017/04/riad-in-morocco-3.jpg
+image: assets/images/2017/04/riad-in-morocco-3.jpg
 ---
 
 ## Morocco is the gateway between East and West

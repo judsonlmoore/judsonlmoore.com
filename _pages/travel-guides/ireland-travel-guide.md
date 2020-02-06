@@ -5,7 +5,7 @@ Description: Plan your visit to Ireland and find out where to go and what to do 
 permalink: "/ireland/"
 layout: fullwidth-hero
 category: ireland
-image: 2015/10/ouro-preto.jpg
+image: assets/images/2015/10/ouro-preto.jpg
 ---
 
 ## Ireland

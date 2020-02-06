@@ -1,13 +1,13 @@
 ---
-title: Achieving Happiness
-subtitle: Phillosophies to live your life by
-description: There are several principles, philosophies really, by which I have come to live my life. By following these philosophies, the result in your life is Exponential Happiness.
-permalink: "/happiness/"
-layout: fullwidth-hero
-comments: false
-category: happiness
-image: assets/images/2019/05/exponential-happiness-background.jpg
-color: fba828
+title:			Achieving Happiness
+subtitle:		Phillosophies to live your life by
+description:	There are several principles, philosophies really, by which I have come to live my life. By following these philosophies, the result in your life is Exponential Happiness.
+permalink:		"/happiness/"
+layout:			fullwidth-hero
+comments:		false
+category:		happiness
+image:			assets/images/2019/05/exponential-happiness-background.jpg
+color:			fba828
 
 ---
 
@@ -26,8 +26,3 @@ There are several principles, philosophies really, by which I have come to live 
 By following these philosophies, the result in your life is ***exponential happiness***.
 
 To learn more, read the posts below where I go in to greater detail about each of these philosophies. If they touch you, then I invite you to take a deeper dive with my book, [*Exponential Happiness*](/book/).
-
-<blockquote class="blockquote text-center bg-light p-5">
-	<p class="mb-0">Two roads diverged in a wood, and I — I took the one less traveled by, and that has made all the difference.</p>
-	<footer class="blockquote-footer">Robert Frost <cite title="Source Title">The Road Not Taken</cite></footer>
-</blockquote>

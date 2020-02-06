@@ -4,7 +4,7 @@ subtitle: Female travel advice written by women, for women.
 permalink: "/female-travel/"
 layout: fullwidth-hero
 category: female-travel
-image: 2017/07/female-travel-advice.jpg
+image: assets/images/2017/07/female-travel-advice.jpg
 ---
 
 ## Female travel advice written for and by women

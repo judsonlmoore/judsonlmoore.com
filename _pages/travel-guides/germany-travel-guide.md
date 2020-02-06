@@ -5,7 +5,7 @@ Description: Plan your visit to Germany and find out where to go and what to do 
 permalink: "/germany/"
 layout: fullwidth-hero
 category: germany
-image: 2015/10/IMG_4676.jpg
+image: assets/images/2015/10/IMG_4676.jpg
 ---
 
 ## More than Wienerschnitzel and Bratwurst

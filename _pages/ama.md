@@ -4,7 +4,7 @@ subtitle: Connect directly with Judson and ask him anything
 permalink: "/ama/"
 layout: fullwidth-hero
 comments: true
-image: 2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
+image: assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
 ---
 
 

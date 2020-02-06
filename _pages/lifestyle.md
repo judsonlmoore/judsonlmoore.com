@@ -4,7 +4,7 @@ subtitle: A collection of advice and best-practices I've collected from years of
 permalink: "/whileyoung/"
 layout: fullwidth-hero
 category: lifestyle
-image: 2016/01/adventure-2.jpeg
+image: assets/images/2016/01/adventure-2.jpeg
 
 ---
 

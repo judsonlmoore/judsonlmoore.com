@@ -5,7 +5,7 @@ Description: Plan your visit to Scotland and find out where to go and what to do
 permalink: "/scotland/"
 layout: fullwidth-hero
 category: scotland
-image: 2015/10/ouro-preto.jpg
+image: assets/images/2015/10/ouro-preto.jpg
 ---
 
 ## How my time in Brazil changed my life

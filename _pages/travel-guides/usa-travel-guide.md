@@ -5,7 +5,7 @@ Description: Plan your visit to the USA and find out where to go and what to do 
 permalink: "/usa/"
 layout: fullwidth-hero
 category: usa
-image: 2014/09/cat-nola.jpg
+image: assets/images/2014/09/cat-nola.jpg
 ---
 
 ## The story of my homeland

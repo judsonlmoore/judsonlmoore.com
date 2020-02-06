@@ -110,13 +110,13 @@ layout: compress
                       backdrop: 'static',
                       keyboard: false
                     });
-                }, 20000);
+                }, 30000);
                   sessionStorage.adModal = 1;
               }
             });
         </script>
 
-        {% if page.layout == 'post' %}
+        {% if page.layout == 'post' or page.comments == true %}
         <!-- Disqus -->
         <script id="dsq-count-scr" src="https://{{site.disqus}}.disqus.com/count.js" ></script>
         {% endif %}

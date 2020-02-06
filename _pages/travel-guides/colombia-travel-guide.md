@@ -5,7 +5,7 @@ Description: Plan your visit to Colombia and find out where to go and what to do
 permalink: "/colombia/"
 layout: fullwidth-hero
 category: colombia
-image: 2014/11/IMG_2650.jpg
+image: assets/images/2014/11/IMG_2650.jpg
 ---
 
 ## Colombia is a gateway to the soul
