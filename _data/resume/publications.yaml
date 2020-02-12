@@ -7,14 +7,13 @@
     - Updates to the LSU Community about my experiences working and living in the Kyrgyz Republic as a United States Peace Corps Volunteer.
     - 10 articles between 2011–2013
 
-- name: NBC
-  title: 
-  url: /resume#publications
+- name: KALB-TV News Channel 5
+  title: Dezmond Meeks Live on Good Day CENLA
+  url: https://youtu.be/AKA5fKZkNuM
   image: /assets/images/logos/logo-nbc.png
   image-bw: /assets/images/logos/logo-nbc-bw.png
   points: 
-    - 
-    - 
+    - I performed live with Dezmond Meeks on the morning news by providing some rhythem backup on a guitarcase 
 
 - name: recode
   title: How to Achieve Silicon Valley Anywhere
@@ -26,18 +25,17 @@
 
 - name: trivago Business Blog
   title: Various articles
-  url: /resume#publications
+  url: https://businessblog.trivago.com/
   image: /assets/images/logos/logo-trivago.png
   image-bw: /assets/images/logos/logo-trivago-bw.png
   points: 
-    - 
-    - 
+    - As trivago's product marketing manager for North America, I was a frequent contributer to their B2B blog
+    - Update - As of June 2019 trivago has removed previous content from the blog and my posts are no longer archived there
 
 - name: UNESCO
-  title: 
+  title: Five mobile community media centers launched in Kyrgyzstan
   url: http://www.unesco.kz/five-mobile-community-media-centers-launched-in-kyrgyzstan
   image: /assets/images/logos/logo-unesco.png
   image-bw: /assets/images/logos/logo-unesco-bw.png
   points: 
-    - 
-    - 
+    - KyrgyzMedia.com is a project I founded. I found funding support from UNESCO and launched the program in 2013 in partnership with Kloop Media in Bishkek.
