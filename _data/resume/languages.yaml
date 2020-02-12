@@ -1,0 +1,15 @@
+- language: English
+  strength: 100%
+  note: Native or bilingual proficiency
+
+- language: German
+  strength: 80%
+  note: Professional working proficiency
+
+- language: Russian
+  strength: 60%
+  note: Limited working proficiency
+
+- language: Kyrgyz
+  strength: 40%
+  note: Elementary proficiency

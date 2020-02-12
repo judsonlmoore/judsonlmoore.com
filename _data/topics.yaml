@@ -1,0 +1,15 @@
+- topic: Goals
+  description: Setting goals and pursuing them is hard. Let's work on yours together.
+  icon: chart-line-solid.svg
+
+- topic: Happiness
+  description: The pursuit of happiness is a lifelong endeavor. I've got tools to help.
+  icon: laugh-regular.svg
+
+- topic: Travel
+  description: Travel sets you free and teaches you more than anything else.
+  icon: plane-solid.svg
+
+- topic: Career
+  description: Tips for setting career goals, negotiations, resume writing.
+  icon: handshake-regular.svg

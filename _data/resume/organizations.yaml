@@ -1,0 +1,37 @@
+- name: Rotary Club of Austin
+  city: Austin, TX
+  country: USA
+  start-date: Aug 2015
+  end-date: Present
+  position: Member
+  points: 
+    - International Scholarships Committee
+    - Global Grants Committee
+    - Youth Committee
+
+- name: Heart of Texas Peace Corps Association
+  city: Austin, TX
+  country: USA
+  start-date: 2014
+  end-date: Present
+  position: President
+  points: 
+    - Promoting Peace Corps activities in central Texas for returned, current and future volunteers.
+
+- name: Brazos Technology District
+  city: Austin, TX
+  country: YSA
+  start-date: Jun 2013
+  end-date: Present
+  position: Co-Founder
+  points: 
+    - A coalition of tech businesses in downtown Austin, Texas working together to solve common problems. We apply entrepreneurial concepts to these issues, focusing on quick, iterative progress in order to ensure a healthy community that closely aligns with people in technology.
+
+- name: Kloop Media Foundation
+  city: Austin, TX
+  country: USA
+  start-date: Jul 2013
+  end-date: Jul 2015
+  position: Executive Director
+  points: 
+    - Supported journalism education in Central Asia by providing an international exchange opportunity and by acting as international governmental censorship watchdog.

@@ -1,9 +1,23 @@
+- company: eBay
+  title: Senior Product Manager
+  image: /assets/images/logos/logo-ebay.png
+  city: Berlin
+  country: Germany
+  start-date: 2018
+  end-date: Present
+  points: 
+    - Discover and deliver seller solutions across multiple brands of the eBay Classifieds Group
+    - Focus on delivering globally-scalable tools for boosting seller success in the motors vertical
+    - Manage stakeholder communication in multiple international markets
+    - Prioritize strategy between user research, design, and delivery teams
+
 - company: trivago
   title: Product Manager
-  city: D&uuml;sseldorf
+  image: /assets/images/logos/logo-trivago.png
+  city: Duesseldorf
   country: Germany
-  start: 2017
-  end: present
+  start-date: 2017
+  end-date: 2018
   points: 
     - Find, define and validate opportunities and user problems worth solving on trivago
     - Test features in a methodological, hypothesis-driven way using pre-defined KPIs
@@ -14,10 +28,11 @@
 
 - company: trivago
   title: Product Marketing Manager for North America
-  city: D&uuml;sseldorf
+  image: /assets/images/logos/logo-trivago.png
+  city: Duesseldorf
   country: Germany
-  start: 2016
-  end: 2017
+  start-date: 2016
+  end-date: 2017
   points: 
     - Spokesperson for trivago business communications in the USA market
     - Represent trivago at trade fairs, workshops, and other public functions such as webinars
@@ -27,10 +42,11 @@
 
 - company: Mutual Mobile
   title: Operations Manager
+  image: /assets/images/logos/logo-mutual-mobile.png
   city: Austin, TX
   country: USA
-  start: 2013
-  end: 2015
+  start-date: 2013
+  end-date: 2015
   points: 
     - Reduced operational expenses 20% while simultaneously expanding employee benefits
     - Constructed a facility in Hyderabad, India, for a workforce of 100 people on-time and on-budget
@@ -39,10 +55,11 @@
 
 - company: United States Peace Corps
   title: Community and Economic Developer
+  image: /assets/images/logos/logo-peace-corps.png
   city: Bishkek
   country: Kyrgyzstan
-  start: 2011
-  end: 2013
+  start-date: 2011
+  end-date: 2013
   points: 
     - Established strategic vision to leverage the power of mobile for connecting rural journalists with each other and the world via KyrgyzMedia.com; secured $500k of funding over 3-years from the United Nations; operates in 20+ communities; receives 15,000 unique web visitors annually.
     - Authored and delivered bi-monthly capacity-building trainings to 20+ media organizations
@@ -50,52 +67,58 @@
 
 - company: Kloop Media Foundation
   title: Executive Director
+  image: /assets/images/logos/logo-kloop.png
   city: Austin, TX
   country: USA
-  start: 2013
-  end: 2015
+  start-date: 2013
+  end-date: 2015
   points: 
     - Raised awareness and funding for journalisim education initiatives in Central Asia
 
 - company: Loyola University
   title: Assistant Director of Student Affairs
+  image: /assets/images/logos/logo-loyola.png
   city: New Orleans, LA
   country: USA
-  start: 2009
-  end: 2010
+  start-date: 2009
+  end-date: 2010
   points: 
     - Crafted and taught event management curriculum to student organizations and student leaders
 
 - company: Paul Cummings World Wide Enterprises
   title: Manager of Special Events
+  image: /assets/images/logos/logo-paul-cummings.png
   city: Chattanooga, TN
   country: USA
-  start: 2008
-  end: 2009
+  start-date: 2008
+  end-date: 2009
   points: 
     - Produced corporate functions, concerts, retreats and workshops, including a nationally–touring lecture and training series in partnership with international recording artist Beth Hart
 
 - company: Green Machine Concerts
   title: Concert Promoter
+  image: /assets/images/logos/logo-green-machine-concerts.png
   city: Memphis, TN
   country: USA
-  start: 2007
-  end: 2008
+  start-date: 2007
+  end-date: 2008
   points: 
     - Negotiated and coordinated efforts between international talent agencies, artists, universities, venues, and other corporate clients to produce world-class concerts, festivals and tours
 
 - company: Louisiana State University Athletics 
   title: Event Manager
+  image: /assets/images/logos/logo-lsu-athletics.png
   city: Baton Rouge, LA
-  start: 2006
+  start-date: 2006
   points: 
     - Prepared sports venues for events by constructing and striking specific setups for basketball, volleyball, gymnastics, concerts and graduation events.    
 
 - company: American Red Cross
   title: Emergency Response Planner
+  image: /assets/images/logos/logo-american-red-cross.png
   city: Baton Rouge, LA
   country: USA
-  start: 2005
-  end: 2007
+  start-date: 2005
+  end-date: 2007
   points: 
     - Authored and coordinated response plans between the Red Cross and other local, state and federal emergency preparedness agencies.

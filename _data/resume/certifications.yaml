@@ -1,0 +1,27 @@
+- name: Data Protection Basics (GDPR)
+  issued-by: eBay
+  start-date: Nov 2018
+  end-date: No Expiration Date
+  points: 
+    - 
+
+- name: Top Secret and Sensitive Compartmented Information (TS/SCI)
+  issued-by: U.S. Department of State
+  start-date: Oct 2014
+  end-date: No Expiration Date
+  points: 
+    - Cleared for TOP SECRET information and granted access to Sensitive Compartmented Information based on Single Scope Background Investigation completed on 10/31/2014.
+
+- name: Zusatzblatt - beschäftigung gestattet
+  issued-by: Landeshauptstadt Düsseldorf
+  start-date: Jun 2018
+  end-date: Jun 2021
+  points: 
+    - 
+
+- name: Certified Scrum Product Owner
+  issued-by: Scrum Alliance
+  start-date: Jan 2018
+  end-date: Jan 2020
+  points: 
+    - Credential ID 000738249

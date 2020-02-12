@@ -3,32 +3,83 @@ layout: default
 title: Home
 ---
 
-{% if page.url == "/" %}
-<div id="fullwidth-img" class="container-fluid py-5 mb-0 mb-sm-5 vh-100" style="background-image: url('{{ site.image-path }}2019/11/judsonlmoore-holding-exponential-happiness.jpg'); background-size: cover; background-position: center;">
+<div id="fullwidth-img" class="container-fluid py-5 mb-0 vh-75" style="background-image: url('{{ site.image-path }}2019/11/judsonlmoore-holding-exponential-happiness.jpg'); background-size: cover; background-position: center;">
     <div class="container h-100">
         <div class="row h-100 align-items-center">
             <div class="col-lg-12 text-center">
-                <h2 class="display-3 font-weight-bolder text-white mt-5 mb-2" style="line-height: 1.5em;">
+                <h2 class="display-5 font-weight-bolder text-white mt-5 mb-2" style="line-height: 1.5em;">
                     <span style="background-color: #000000; padding: .1rem .4rem 0 .3rem;">Pursuing happiness?</span>
                 </h2>
                 <h3 class="display-5 font-weight-bolder text-white mb-5">
                     <span style="background-color: #000000; padding: .1rem .4rem 0 .3rem;">You've come to the right place</span>
-                </h3    >
-                <a class="btn btn-lg btn-primary" href="{{ site.url }}/happiness/">Find happiness here</a>
+                </h3>
+                <a href="{{ site.url }}/happiness/" class="btn btn-lg btn-primary">Find happiness here</a>
             </div>
         </div>
     </div>
 </div>
-{% endif %}
-<div class="container mt-3 mt-md-5"> 
-    <div class="row text-light bg-dark mb-5 mx-1 p-4 text-center align-middle position-relative">
-        <p class="h4"><span class=""><strong>Do you want to <em>experience</em> the world?</strong> I encourage you to get an <u>early</u> start at living a full and adventurous life by providing tips for living your "what if" <strong>#WhileYoung</strong>.</span></p>
-        {% include modal-opt-in.html btn-text="Sounds great, tell me more!" %}
+<div class="row mb-0 bg-light d-none d-lg-block">
+    <div class="container"> 
+        <div class="row justify-content-center text-center py-3">
+            {% for item in site.data.resume.publications %}
+            <div class="col-md-2 my-auto px-3 px-xl-5">
+                <a href="{{ item.url }}">{% cloudinary {{ item.image }} alt="{{ item.name }}" %}</a>
+            </div>
+            {% endfor %}
+        </div>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
-        {% for post in paginator.posts %}
-        {% include postbox.html %}
+</div>
+<div class="container mt-3 mt-md-5"> 
+    <div class="row py-5 d-none d-lg-flex">
+        {% for item in site.data.topics %}
+        <div class="col-lg-3">
+            <span><p class="h4">{% include icons/{{ item.icon }} %} {{ item.topic }}</p></span>
+            <p>{{ item.description }}</p>
+        </div>
         {% endfor %}
     </div>
-    {% include pagination.html %}
+    <div class="row mb-5 d-none d-lg-block">
+        <div class="col-lg-6">
+            <h2 class="display-5">Pursuing happiness</h2>
+            <p>What does it take to be happy? No one can tell you the answer; you must discover it for yourself!</p>
+            <p>Nothing is more personal than defining what "happiness" means to you, but it is a complicated topic. Check out these articles about <a href="/happiness/">pursuing happiness</a> where I share my thoughts on the topic.
+        </div>
+        <div class="col-lg-6">
+            {% cloudinary /assets/images/2018/05/wadi-rum-jordan-jumping-in-the-desert.jpg" alt="Judson jumping for joy in the Wadi Rum desert of Jordan" %}
+        </div>
+    </div>
+    <div class="row mb-5 d-none d-lg-block">
+        <div class="col-lg-6">
+            {% cloudinary /assets/images/2020/01/judson-l-moore-speaks-at-rotary-club-of-alexandria.jpg alt="Judson speaks to the Rotary Club of Alexandria" %}
+        </div>
+        <div class="col-lg-6">
+            <h2 class="display-5">Community engagement</h2>
+            <p>My roots from an activist family, origin-story involving Rotary International, and years of volunteerism around the world have all contributed to my commitment to community.</p>
+            <p>I believe that having a strong commitment to community is enriching for everyone involved.</p>
+            <p>Some of my favorite community organizations include Rotary and the Red Cross.</p> 
+        </div>
+    </div>
+    <div class="row mb-5 d-none d-lg-block">
+        <div class="col-lg-6">
+            <h2 class="display-5">Empowering youth</h2>
+            <p>After years of travel blogging and being asked how I've lived such an incredible life, I realized that it is time to pay forward the lessons and encouragements instilled in my at a young age.</p>
+            <p>In my book, <em><a href="/book/">Exponential Happiness</a></em>, I reveal all the words of wisdom that nudged me out the door when I was young. In addition, I share many of the professional tools that have helped me stay on-track with my goals.</p>
+            <p>These topics are also shared on the blog for <a href="/happiness/">happiness</a> and <a href="/whileyoung/">lifestyle</a>.
+        </div>
+        <div class="col-lg-6">
+            {% cloudinary /assets/images/2020/01/ce-atx-2020-students-holding-exponential-happiness-2.jpg" alt="" %}
+        </div>
+    </div>
+    <div class="row mb-5">
+        <dir class="col">
+            <h2 class="display-5">From the blog</h2>
+            <div class="row row-cols-1 row-cols-md-3">
+                {% for post in site.posts %}
+                    {% if post.featured == true %}
+                        {% include postbox.html %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </dir>
+    </div>
 </div>

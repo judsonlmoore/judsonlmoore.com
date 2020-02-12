@@ -107,6 +107,10 @@ exclude:
   - vendor/ruby/
   - node_modules/
 
+feed:
+  path: atom.xml
+  excerpt_only: true
+
 compress_html:  
   clippings: all  
   comments: ["<!-- ", " -->"] 

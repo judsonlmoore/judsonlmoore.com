@@ -30,10 +30,10 @@ include-npm-deps:
 	cp node_modules/bootstrap/dist/js/bootstrap.min.js $(VENDOR_DIR)
 
 build: include-npm-deps
-	JEKYLL_ENV=development bundle exec $(JEKYLL) build --drafts
+	JEKYLL_ENV=development bundle exec $(JEKYLL) build --drafts --incremental
 
 serve: include-npm-deps
-	JEKYLL_ENV=development bundle exec $(JEKYLL) serve --drafts
+	JEKYLL_ENV=development bundle exec $(JEKYLL) serve --drafts --incremental
 
 deploy: include-npm-deps
 	JEKYLL_ENV=production bundle exec $(JEKYLL) build

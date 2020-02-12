@@ -1,0 +1,43 @@
+- name: LSU Alumni Association
+  title: Update Kyrgyzstan
+  url: http://issuu.com/lsualumni/
+  image: /assets/images/logos/logo-lsu-alumni-association.png
+  image-bw: /assets/images/logos/logo-lsu-alumni-association-bw.png
+  points: 
+    - Updates to the LSU Community about my experiences working and living in the Kyrgyz Republic as a United States Peace Corps Volunteer.
+    - 10 articles between 2011–2013
+
+- name: NBC
+  title: 
+  url: /resume#publications
+  image: /assets/images/logos/logo-nbc.png
+  image-bw: /assets/images/logos/logo-nbc-bw.png
+  points: 
+    - 
+    - 
+
+- name: recode
+  title: How to Achieve Silicon Valley Anywhere
+  url: http://recode.net/2014/06/25/how-to-achieve-silicon-valley-anywhere/
+  image: /assets/images/logos/logo-recode.png
+  image-bw: /assets/images/logos/logo-recode-bw.png
+  points: 
+    - An article I wrote about my work with the Brazos Technology District where I share lessons learned about building a sense of community among business that share common goals.
+
+- name: trivago Business Blog
+  title: Various articles
+  url: /resume#publications
+  image: /assets/images/logos/logo-trivago.png
+  image-bw: /assets/images/logos/logo-trivago-bw.png
+  points: 
+    - 
+    - 
+
+- name: UNESCO
+  title: 
+  url: http://www.unesco.kz/five-mobile-community-media-centers-launched-in-kyrgyzstan
+  image: /assets/images/logos/logo-unesco.png
+  image-bw: /assets/images/logos/logo-unesco-bw.png
+  points: 
+    - 
+    - 
