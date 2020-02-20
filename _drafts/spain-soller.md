@@ -1,5 +1,5 @@
 ---
-title:			Title
+title:			Soller
 description:	Description
 excerpt:		Excerpt
 author:			judsonlmoore
@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/spain-soller-travel-guide/
-image:			2020/02/egypt-alexandria-018.jpg
+image:			2020/02/spain-soller-001.jpg
 
 
 ---

@@ -1,5 +1,5 @@
 ---
-title:			Title
+title:			Ibizia
 description:	Description
 excerpt:		Excerpt
 author:			judsonlmoore
@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/spain-ibizia-travel-guide/
-image:			2020/02/egypt-alexandria-018.jpg
+image:			2020/02/spain-ibizia-002.jpg
 
 
 ---

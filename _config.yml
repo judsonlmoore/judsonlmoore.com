@@ -162,3 +162,11 @@ cloudinary:
         max_width: 170
         max_height: 170
         fallback_max_width: 72
+    img-thumbnail:
+      attributes: 
+        class: img-thumbnail
+        min_width: 40
+        min_hight: 40
+        max_width: 170
+        max_height: 170
+        fallback_max_width: 72

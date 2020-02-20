@@ -1,5 +1,5 @@
 ---
-title:			Title
+title:			Rasnov
 description:	Description
 excerpt:		Excerpt
 author:			judsonlmoore
@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/romania-rasnov-travel-guide/
-image:			2020/02/egypt-alexandria-018.jpg
+image:			2020/02/romania-rasnov-010.jpg
 
 
 ---

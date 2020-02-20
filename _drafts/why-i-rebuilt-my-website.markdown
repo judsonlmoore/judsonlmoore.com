@@ -1,5 +1,5 @@
 ---
-title:			How to migrate from Wordpress to Jekyll and AWS
+title:			How to migrate from Wordpress to Jekyll with CircleCI and AWS
 description:	I decreased my page load time by 400% while learning about the static site generator, Jekyll
 author:			judsonlmoore
 date:			2020-01-10 22:08:48 Z

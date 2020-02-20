@@ -1,5 +1,5 @@
 ---
-title:			Title
+title:			Bucharest
 description:	Description
 excerpt:		Excerpt
 author:			judsonlmoore
@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/romania-bucharest-travel-guide/
-image:			2020/02/egypt-alexandria-018.jpg
+image:			2020/02/romania-bucharest-019.jpg
 
 
 ---

@@ -1,5 +1,5 @@
 ---
-title:			Title
+title:			Morocco High Atlas
 description:	Description
 excerpt:		Excerpt
 author:			judsonlmoore
@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/morocco-high-atlas-travel-guide/
-image:			2020/02/egypt-alexandria-018.jpg
+image:			2020/02/morocco-high-atlas-004.jpg
 
 
 ---

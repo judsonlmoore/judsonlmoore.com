@@ -1,5 +1,5 @@
 ---
-title:			Title
+title:			Fez Old Town
 description:	Description
 excerpt:		Excerpt
 author:			judsonlmoore
@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/morocco-fez-old-town-travel-guide/
-image:			2020/02/egypt-alexandria-018.jpg
+image:			2020/02/morocco-fez-old-town-080.jpg
 
 
 ---

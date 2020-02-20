@@ -1,5 +1,5 @@
 ---
-title:			Title
+title:			Tel Aviv Abraham Hostel
 description:	Description
 excerpt:		Excerpt
 author:			judsonlmoore
@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/israel-tel-aviv-abraham-hostel-travel-guide/
-image:			2020/02/egypt-alexandria-018.jpg
+image:			2020/02/israel-tel-aviv-041.jpg
 
 
 ---
