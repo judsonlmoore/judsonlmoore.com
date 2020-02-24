@@ -13,8 +13,8 @@ post_class: post-template
         <div class="col px-3 px-sm-0">
             <div class="mainheading pt-1 pt-md-0">
 
-                <!-- Post Title -->
-                <div class="bg-white p-1 p-md-0">
+                <!-- Post Header -->
+                <div class="pb-3 pb-md-5">
 
                     <!-- Post Categories/Tags -->
                     {% assign sortedCategories = page.categories | sort %}
@@ -36,18 +36,19 @@ post_class: post-template
 
                     <h1 class="display-4">{{ page.title }}</h1>
 
-                    {% if page.tags != nill %}
-                    <!-- Post Categories/Tags -->
-                    <ul class="list-inline">
-                        Tags: 
-                        {% assign sortedTags = page.tags | sort %}
-                        {% for tag in sortedTags %}
-                        <li class="list-inline-item">
-                            <a class="smoothscroll" href="{{site.url}}/tags#{{ tag }}"> {{ tag }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                    <!-- End Categories/Tags -->
+                    {% assign author = site.authors | where: 'short_name', page.author | first %}
+                    {% if author %}
+                    <!-- Post Author -->
+                    <div class="media text-muted">
+                        {% if author.avatar %}
+                        {% cloudinary author-thumb {{ site.url }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.name }}" class="mr-2 d-none d-md-block" width="64" heigh="64" %}
+                        {% endif %}
+                        <p class="media-body pb-3 mb-0 lh-125">
+                            <strong class="d-block text-gray-dark">{{ author.name }}</strong>
+                            {{ author.content | strip_html }}<br>{% if author.twitter %}Follow me on <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.facebook %}Find me on<a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"> facebook</a>.{% endif %}
+                        </p>
+                    </div>
+                    <!-- End Post Author -->
                     {% endif %}
 
                 </div>
@@ -60,7 +61,7 @@ post_class: post-template
     <div class="row">
 
         <!-- Post -->
-        <div class="col-lg-8 px-3 px-sm-0 mb-5">
+        <div class="col-lg-8 px-3 px-sm-0">
 
             {% if page.image %}
             <!-- Post Featured Image -->
@@ -71,7 +72,7 @@ post_class: post-template
             {% endif %}
 
             <!-- Post Content -->
-            <div class="article-post bg-white p-0 py-3 p-sm-5 mb-5">
+            <div class="article-post bg-white p-0 p-sm-5">
 
                 {% if page.toc != false %}
                 <!-- Toc -->
@@ -93,18 +94,6 @@ post_class: post-template
                 <!--End Comments -->
                 {% endif %}
             </div>
-
-            <!-- Exponential Happiness Lead Generator -->
-            <div id="get-sample" class="p-2 mb-5 text-white rounded bg-dark" style="background-image: linear-gradient(to right bottom, #ffa600, #eb921d, #d48029, #bd6f30, #a46033, #985136, #894439, #783939, #6b2d3e, #592442, #431f44, #281c43);">
-                {% include exponential-happiness-sample.html %}
-            </div>
-
-            {% assign author = site.authors | where: 'short_name', page.author | first %}
-            {% if author %}
-            {% include author-box.html %}
-            {% endif %}
-
-            {% include related-posts.html %}
 
         </div>
 

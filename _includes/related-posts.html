@@ -1,6 +1,5 @@
 <!-- Related Posts -->
-<div class="p-3 p-sm-5 mb-5 text-dark bg-white shadow-sm">
-	<h2>Related posts</h2>
+<h2>Related posts</h2>
 
 	{% assign maxRelated = 4 %}
 	{% assign minCommonTags =  1 %}
@@ -23,20 +22,12 @@
 
     {% if sameTagCount >= minCommonTags %}
 
-	<div class="row no-gutters mb-5">
+	<div class="media position-relative mb-3 pb-3 border-bottom border-gray">
 		{% if post.image %}
-		<div class="col-md-2">
-			<a href="{{ site.url }}{{ post.url }}">
-				{% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
-			</a>
-		</div>
-		<div class="col-md-10">
-		{% else %}
-		<div class="col-md-12">
-		{% endif %}
-			<div class="pl-3">
-				<p class="h5 card-title">{{ post.title }}</p>
-			</div>
+	    {% cloudinary {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" class="mr-3" width="64" heigh="64" %}
+	    {% endif %}
+		<div class="media-body">
+			<p class="mt-0 text-gray-dark">{{ post.title }}</p>
 			<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
 		</div>
 	</div>
@@ -48,4 +39,4 @@
 	{% endif %}
 	{% endfor %}
 </div>
-<!-- /Related Posts -->
+<!-- EndRelated Posts -->
