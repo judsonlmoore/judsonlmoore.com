@@ -7,7 +7,7 @@ destination:  Florianopolis
 author:		   	judsonlmoore
 excerpt:	   	Florianopolis Brazil is a magnificent city with a blend of beach, surfing, adventure sport, and a modern city driving Brazilian innovation.
 layout:			post
-image:			2017/04/Florianopolis-Santa-Catarina-Brazil-Observation-Point.jpg
+image:			/assets/images/2017/04/Florianopolis-Santa-Catarina-Brazil-Observation-Point.jpg
 
 
 ---

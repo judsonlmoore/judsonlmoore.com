@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/alexandria-egypt-library-travel-guide/
-image:			2020/02/egypt-alexandria-library-024.jpg
+image:			/assets/images/2020/02/egypt-alexandria-library-024.jpg
 
 
 ---

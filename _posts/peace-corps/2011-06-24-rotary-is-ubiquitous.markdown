@@ -4,7 +4,7 @@ date:			2011-06-24 09:33:05 Z
 categories:		peace corps
 author:			judsonlmoore
 layout:			post
-image:			2013/08/rotary-bg.jpg
+image:			/assets/images/2013/08/rotary-bg.jpg
 
 
 ---

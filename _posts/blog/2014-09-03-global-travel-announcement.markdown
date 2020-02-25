@@ -5,7 +5,7 @@ categories:		blog
 tags:			abu dhabi, colombia, india, interests, travel, travel announcement
 author:			judsonlmoore
 layout:			post
-image:			2014/09/Global-Travel-Announcement.jpg
+image:			/assets/images/2014/09/Global-Travel-Announcement.jpg
 
 
 ---

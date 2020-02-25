@@ -7,7 +7,7 @@ author:			judsonlmoore
 description:	After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
 excerpt:		After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
 layout:			post
-image:			2017/03/best-podcast-2017.jpg
+image:			/assets/images/2017.jpg
 
 
 ---

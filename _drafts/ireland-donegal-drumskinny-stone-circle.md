@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/donegal-ireland-drumskinny-stone-circle-travel-guide/
-image:			2020/02/ireland-donegal-drumskinny-stone-circle-001.jpg
+image:			/assets/images/2020/02/ireland-donegal-drumskinny-stone-circle-001.jpg
 
 
 ---

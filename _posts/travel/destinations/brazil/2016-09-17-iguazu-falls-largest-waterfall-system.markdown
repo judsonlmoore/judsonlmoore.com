@@ -7,7 +7,7 @@ destination:	Iguazu Falls
 author:			judsonlmoore
 excerpt:		In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one of the grandest natural wonders in the world, the Iguazu Falls.
 layout:			post
-image:			2016/09/sunset-over-iguazu-falls.jpg
+image:			/assets/images/2016/09/sunset-over-iguazu-falls.jpg
 
 
 ---

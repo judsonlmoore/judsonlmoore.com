@@ -7,7 +7,7 @@ author:			judsonlmoore
 description:	Giving thanks has a range of benefits from making you feel better to making the world a better place. Learn more and take the thanksgiving challenge.
 excerpt:		Giving thanks has a range of benefits from making you feel better to making the world a better place. Learn more and take the thanksgiving challenge.
 layout:			post
-image:			2017/09/judson-thanks-giza.jpg
+image:			/assets/images/2017/09/judson-thanks-giza.jpg
 
 
 ---

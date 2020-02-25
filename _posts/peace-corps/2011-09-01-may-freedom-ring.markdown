@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			2012/09/talas-city-center.jpg
+image:			/assets/images/2012/09/talas-city-center.jpg
 
 
 ---

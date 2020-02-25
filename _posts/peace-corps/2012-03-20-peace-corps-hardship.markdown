@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			lifestyle, peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			2012/09/pcv-hardship.jpeg
+image:			/assets/images/2012/09/pcv-hardship.jpeg
 
 
 ---

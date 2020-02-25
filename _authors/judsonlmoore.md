@@ -2,7 +2,7 @@
 short_name: judsonlmoore
 name: Judson L Moore
 display_name: Judson L Moore
-avatar: avatar-judsonlmoore.png
+avatar: /assets/images/avatar-judsonlmoore.png
 email: judson@judsonlmoore.com
 web: https://www.judsonlmoore.com
 twitter: judsonlmoore

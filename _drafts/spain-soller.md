@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/spain-soller-travel-guide/
-image:			2020/02/spain-soller-001.jpg
+image:			/assets/images/2020/02/spain-soller-001.jpg
 
 
 ---

@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/donegal-ireland-cuilcagh-boardwalk-trail-travel-guide/
-image:			2020/02/donegal-ireland-cuilcagh-boardwalk-trail-011.jpg
+image:			/assets/images/2020/02/donegal-ireland-cuilcagh-boardwalk-trail-011.jpg
 
 
 ---

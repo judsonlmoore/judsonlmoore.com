@@ -7,7 +7,7 @@ categories:		blog
 tags:			
   - product management
 layout:			post
-image:			2020/01/ready-for-dev.png
+image:			/assets/images/2020/01/ready-for-dev.png
 toc:			false
 
 ---

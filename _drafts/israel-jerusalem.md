@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/israel-jerusalem-travel-guide/
-image:			2020/02/israel-jerusalem-061.jpg
+image:			/assets/images/2020/02/israel-jerusalem-061.jpg
 
 
 ---

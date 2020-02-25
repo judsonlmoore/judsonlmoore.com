@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/israel-bethlehem-travel-guide/
-image:			2020/02/israel-bethlehem-022.jpg
+image:			/assets/images/2020/02/israel-bethlehem-022.jpg
 
 
 ---

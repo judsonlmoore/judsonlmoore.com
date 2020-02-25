@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/netherlands-amsterdam-travel-guide/
-image:			2020/02/netherlands-amsterdam-015.jpg
+image:			/assets/images/2020/02/netherlands-amsterdam-015.jpg
 
 
 ---

@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/alexandria-egypt-travel-guide/
-image:			2020/02/egypt-alexandria-018.jpg
+image:			/assets/images/2020/02/egypt-alexandria-018.jpg
 
 
 ---

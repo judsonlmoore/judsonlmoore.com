@@ -5,7 +5,7 @@ categories:		lifestyle
 author:			judsonlmoore
 excerpt:		My heart has found a new place to call home in Los Angeles and I owe it all to this very special group of community leaders and humanitarians.
 layout:			post
-image:			2010/06/home-is-where-the-heart-is.jpg
+image:			/assets/images/2010/06/home-is-where-the-heart-is.jpg
 
 
 ---

@@ -5,7 +5,7 @@ categories:		travel-tips
 author:			judsonlmoore
 excerpt:		I explain what is metasearch, the king of all internet search tools. With metasearch, you can search more of the internet faster, saving you time and money.
 layout:			post
-image:			2016/08/what-is-metasearch.jpeg
+image:			/assets/images/2016/08/what-is-metasearch.jpeg
 
 
 ---

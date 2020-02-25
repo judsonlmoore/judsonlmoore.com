@@ -6,7 +6,7 @@ tags:			central asia, hiking, nature
 author:			judsonlmoore
 layout:			post
 
-image:			2015/10/konorchek-canyon-kyrgyzstan.jpg
+image:			/assets/images/2015/10/konorchek-canyon-kyrgyzstan.jpg
 
 
 ---

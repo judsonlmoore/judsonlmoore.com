@@ -6,7 +6,7 @@ tags:			colombia, reunion, rotary, rye, south america, travel
 author:			judsonlmoore
 excerpt:		Isla Palma is the private island retreat of cartel boss Pablo Escobar. Today, this all-inclusive resort is scattered with the ruins of that page in history.
 layout:			post
-image:			2014/11/IMG_2816.jpg
+image:			/assets/images/2014/11/IMG_2816.jpg
 
 
 ---

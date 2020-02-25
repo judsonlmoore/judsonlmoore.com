@@ -6,7 +6,7 @@ tags:			journalism, peace corps, video
 author:			judsonlmoore
 excerpt:		National television station OTPK in Kyrgyzstan featured me and some of my Peace Corps Volunteer colleagues during a story about how Americans celebrate NYE.
 layout:			post
-image:			2012/02/PCVs-on-Kyrgyz-National-Television-OTPK.jpg
+image:			/assets/images/2012/02/PCVs-on-Kyrgyz-National-Television-OTPK.jpg
 
 
 ---

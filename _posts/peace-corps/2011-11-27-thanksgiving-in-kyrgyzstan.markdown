@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, holidays, peace corps
 author:			judsonlmoore
 layout:			post
-image:			2011/12/ThanksgivingNewGovernmentAndNewYear_featured.jpg
+image:			/assets/images/2011/12/ThanksgivingNewGovernmentAndNewYear_featured.jpg
 
 
 ---

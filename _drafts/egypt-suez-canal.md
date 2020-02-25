@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/suez-canal-egypt-travel-guide/
-image:			2020/02/egypt-suez-canal-007.jpg
+image:			/assets/images/2020/02/egypt-suez-canal-007.jpg
 
 
 ---

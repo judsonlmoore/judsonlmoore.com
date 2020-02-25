@@ -6,7 +6,7 @@ tags:			fitness, health, hyderabad, india, running
 author:			judsonlmoore
 excerpt:		The annual Hyderabad 10k is a massive city-wide event with olympian leaders, beautiful scenery and live music on at every kilometer.
 layout:			post
-image:			2015/04/IMG_0973.jpg
+image:			/assets/images/2015/04/IMG_0973.jpg
 
 
 ---

@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/luxor-egypt-travel-guide/
-image:			2020/02/egypt-luxor-077.jpg
+image:			/assets/images/2020/02/egypt-luxor-077.jpg
 
 
 ---

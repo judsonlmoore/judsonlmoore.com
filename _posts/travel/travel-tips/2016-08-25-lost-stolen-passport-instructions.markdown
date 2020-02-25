@@ -5,7 +5,7 @@ categories:		travel-tips
 author:			judsonlmoore
 excerpt:		A lost or stolen passport can be one of the most panic-inducing realizations a traveler can encounter. This happens everyday, and there is a clear solution.
 layout:			post
-image:			2016/08/lost-passport.jpeg
+image:			/assets/images/2016/08/lost-passport.jpeg
 
 
 ---

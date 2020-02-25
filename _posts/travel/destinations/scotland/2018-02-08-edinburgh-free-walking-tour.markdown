@@ -7,7 +7,7 @@ author:			judsonlmoore
 description:	The Edinburgh free walking tour by SANDEMANs is a great way to start your trip in Edinburgh and orient yourself to the city and to Scottish history.
 excerpt:		On my recent trip to Edinburgh, I kicked off my day with a free walking tour of the city. The experience proved to be a great way to orient myself to the city and to Scottish history. I took lots of photos and now share what I learned along the way.
 layout:			post
-image:			2018/01/free-walking-tour-edinburgh-skyline.jpg
+image:			/assets/images/2018/01/free-walking-tour-edinburgh-skyline.jpg
 
 
 ---

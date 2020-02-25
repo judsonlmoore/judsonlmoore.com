@@ -6,7 +6,7 @@ tags:			happiness
 author:			judsonlmoore
 description:	Don't repeat the mistakes of the previous generation. Learn from your elders and then use the seven learning styles to actively learn something new.
 layout:			post
-image:			2020/01/philosophy-3-suffering-does-not-make-you-stronger-learning-does.png
+image:			/assets/images/2020/01/philosophy-3-suffering-does-not-make-you-stronger-learning-does.png
 toc:			false
 
 ---

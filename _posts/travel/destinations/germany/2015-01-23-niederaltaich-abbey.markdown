@@ -4,7 +4,7 @@ date:			2015-01-23 04:33:23 Z
 categories:		germany
 author:			judsonlmoore
 layout:			post
-image:			2015/10/IMG_5395.jpg
+image:			/assets/images/2015/10/IMG_5395.jpg
 
 
 ---

@@ -4,7 +4,7 @@ date:			2014-06-25 06:54:34 Z
 categories:		blog
 author:			judsonlmoore
 layout:			post
-image:			2014/06/UTPCR-2013-Presentation.002.jpg
+image:			/assets/images/2014/06/UTPCR-2013-Presentation.002.jpg
 
 
 ---

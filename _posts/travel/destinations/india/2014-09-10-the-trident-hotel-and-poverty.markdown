@@ -6,7 +6,7 @@ tags:			adventure, hotel life, india, mutual mobile, poverty, travel
 author:			judsonlmoore
 excerpt:		During a 6-month business trip to India, I was faced with poverty every day from the window of my high rise 7-star hotel. What could I do about it?
 layout:			post
-image:			2014/10/IMG_0212.jpg
+image:			/assets/images/2014/10/IMG_0212.jpg
 
 
 ---

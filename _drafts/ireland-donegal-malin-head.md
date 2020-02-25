@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/donegal-ireland-malin-head-travel-guide/
-image:			2020/02/ireland-malin-head-003.jpg
+image:			/assets/images/2020/02/ireland-malin-head-003.jpg
 
 
 ---

@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, kyrgyzstan, ,artin, party, sie germans
 author:			judsonlmoore
 layout:			post
-image:			2013/01/MartinAbschiedsparty_featured.jpg
+image:			/assets/images/2013/01/MartinAbschiedsparty_featured.jpg
 
 
 ---

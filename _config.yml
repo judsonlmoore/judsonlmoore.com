@@ -1,17 +1,20 @@
 # Site
 title: Judson L Moore
-name: Judson L Moore
-description: Author and travel addict
+tagline: Author and travel addict
+description: Do you want to experience the world? I encourage you to get an early start at living a full and adventurous life by providing tips for living your "what if" \#WhileYoung.
 url: "https://www.judsonlmoore.com"
 image-path: /assets/images/
+name: Judson L Moore
 author: Judson L Moore
+logo: /assets/images/avatar-judsonlmoore.png
+lang: en_US
 twitter:
   username: judsonlmoore
   card: summary_large_image
 facebook:
   app_id: 990949061035215
-  publisher:
-  admins:
+  publisher: https://www.facebook.com/JudsonLMooreBlog/
+  admins: judsonlmoore
 favicon: assets/images/favicon.png
 social:
   name: Judson L Moore
@@ -21,11 +24,10 @@ social:
     - https://www.linkedin.com/in/judsonlmoore
     - https://github.com/judsonlmoore
     - https://www.instagram.com/judsonlmoore/
+webmaster_verifications:
   google: 3MN-XApFrgWYSpGop2aNPX3eHkQtKupxl-OltwME23o
   bing: 1571295b1311496094a646cca481014e
-  alexa:
-  yandex: df106ee154e1faa4
-  baidu:
+  yandex: df106ee154e1faa4 
 baseurl: ""
 disqus: "judsonlmoore"
 mailchimp-list: "https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
@@ -54,7 +56,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: 2019/11/judsonlmoore-holding-exponential-happiness.jpg
+      image: /assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg
 
 # Plugins
 plugins:

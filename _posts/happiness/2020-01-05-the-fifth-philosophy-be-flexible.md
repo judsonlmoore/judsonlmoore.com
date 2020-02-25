@@ -5,7 +5,7 @@ categories:		happiness
 tags:			happiness
 author:			judsonlmoore
 layout:			post
-image:			2020/01/philosophy-5-be-flexible.png
+image:			/assets/images/2020/01/philosophy-5-be-flexible.png
 toc:			false
 
 ---

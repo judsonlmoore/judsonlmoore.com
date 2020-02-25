@@ -7,7 +7,7 @@ destination:	Diamantina
 author:			judsonlmoore
 excerpt:		Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial history. Surrounded by spectacular nature, it dances with life once a year.
 layout:			post
-image:			2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathedral-from-Afar.jpg
+image:			/assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathedral-from-Afar.jpg
 
 
 ---

@@ -6,7 +6,7 @@ tags:			American Red Cross, anniversary, disaster, hurricane katrina, memories
 author:			judsonlmoore
 excerpt:		On the 10 year anniversary of Hurricane Katrina, I reflect on how that was a pivotal moment when the trajectory of my life changed.
 layout:			post
-image:			2015/08/LSU-Eye-of-the-Storm-Autumn-Judson.jpeg
+image:			/assets/images/2015/08/LSU-Eye-of-the-Storm-Autumn-Judson.jpeg
 
 
 ---

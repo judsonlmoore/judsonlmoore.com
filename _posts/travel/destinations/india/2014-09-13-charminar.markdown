@@ -5,7 +5,7 @@ categories:		india
 tags:			architecture, india, islam, mosque
 author:			judsonlmoore
 layout:			post
-image:			2014/12/IMG_0289.jpg
+image:			/assets/images/2014/12/IMG_0289.jpg
 
 
 ---

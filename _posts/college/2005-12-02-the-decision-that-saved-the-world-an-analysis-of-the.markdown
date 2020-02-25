@@ -5,7 +5,7 @@ categories:		college
 tags:			Politics
 author:			judsonlmoore
 layout:			post
-image:			2005/12/kennedys-excomm.png
+image:			/assets/images/2005/12/kennedys-excomm.png
 
 
 ---

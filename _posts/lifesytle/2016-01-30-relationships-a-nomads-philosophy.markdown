@@ -6,7 +6,7 @@ tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Relationships struggle to survive the test of distance, and for good reason. As a nomad, I have learned how to protect the most precious relationships.
 layout:			post
-image:			2016/01/Relationships-A-Nomads-Philosophy-Featured-Image.jpeg
+image:			/assets/images/2016/01/Relationships-A-Nomads-Philosophy-Featured-Image.jpeg
 
 
 ---

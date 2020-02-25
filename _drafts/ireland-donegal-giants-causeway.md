@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/donegal-ireland-giants-causeway-travel-guide/
-image:			2020/02/ireland-donegal-giants-causeway-001.jpg
+image:			/assets/images/2020/02/ireland-donegal-giants-causeway-001.jpg
 
 
 ---

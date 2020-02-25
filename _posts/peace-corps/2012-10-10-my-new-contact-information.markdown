@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			about me, contact info, judson l moore
 author:			judsonlmoore
 layout:			post
-image:			2012/10/NewContactInfo.jpg
+image:			/assets/images/2012/10/NewContactInfo.jpg
 
 
 ---

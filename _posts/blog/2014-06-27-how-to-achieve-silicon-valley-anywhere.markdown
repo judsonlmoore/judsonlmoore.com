@@ -5,7 +5,7 @@ categories:		blog
 tags:			austin, brazos tech district, community, mutual mobile, publications
 author:			judsonlmoore
 layout:			post
-image:			2014/06/silicon-valley-usa.png
+image:			/assets/images/2014/06/silicon-valley-usa.png
 
 
 ---

@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/donegal-ireland-coastline-fairy-bridges-travel-guide/
-image:			2020/02/ireland-donegal-coastline-fairy-bridges-014.jpg
+image:			/assets/images/2020/02/ireland-donegal-coastline-fairy-bridges-014.jpg
 
 
 ---

@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/morocco-high-atlas-travel-guide/
-image:			2020/02/morocco-high-atlas-004.jpg
+image:			/assets/images/2020/02/morocco-high-atlas-004.jpg
 
 
 ---

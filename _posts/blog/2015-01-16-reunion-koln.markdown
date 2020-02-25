@@ -5,7 +5,7 @@ categories:		blog
 tags:			europe, germany, reunion, train
 author:			judsonlmoore
 layout:			post
-image:			2015/09/koln.jpg
+image:			/assets/images/2015/09/koln.jpg
 
 
 ---

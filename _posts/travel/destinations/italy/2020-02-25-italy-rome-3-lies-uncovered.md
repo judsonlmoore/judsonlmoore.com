@@ -8,7 +8,7 @@ tags:
   - travel
   - insider tips
 layout:			post
-image:			2020/02/italy-rome-colosseum-arena-floor-selfie.jpg
+image:			/assets/images/2020/02/italy-rome-colosseum-arena-floor-selfie.jpg
 permalink:		/three-lies-about-rome-uncovered/
 
 

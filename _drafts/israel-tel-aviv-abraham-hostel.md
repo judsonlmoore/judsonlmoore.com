@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/israel-tel-aviv-abraham-hostel-travel-guide/
-image:			2020/02/israel-tel-aviv-041.jpg
+image:			/assets/images/2020/02/israel-tel-aviv-041.jpg
 
 
 ---

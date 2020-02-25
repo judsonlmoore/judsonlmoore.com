@@ -7,7 +7,7 @@
                 <div class="h-100">
                     <div class="wrapthumbnail">
                         <a href="{{ site.url }}{{ post.url }}">
-                            {% cloudinary featured-box-img-cover {{ site.url }}{{ site.image-path }}{{ post.image }} alt="{{ post.title }}" %}
+                            {% cloudinary featured-box-img-cover {{ site.url }}{{ post.image }} alt="{{ post.title }}" %}
                         </a>
                     </div>
                 </div>
@@ -32,7 +32,7 @@
                                 {% if post.author %}
                                 <span class="meta-footer-thumb">
                                 {% if author.avatar %}
-                                {% cloudinary author-thumb {{ site.url }}{{ site.image-path }}{{ author.avatar }} alt="{{ author.display_name }}" %}
+                                {% cloudinary author-thumb {{ site.url }}{{ author.avatar }} alt="{{ author.display_name }}" %}
                                 {% endif %}
                                 </span>
                                 <span class="author-meta">

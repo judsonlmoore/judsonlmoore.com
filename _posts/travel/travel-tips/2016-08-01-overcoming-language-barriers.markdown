@@ -5,7 +5,7 @@ categories:		travel-tips
 author:			judsonlmoore
 excerpt:		Language barriers are hard to overcome but with these simple tips you will find yourself speaking and comprehending in no time!
 layout:			post
-image:			2016/08/tips-for-overcoming-langauge-barriers-featured-image.jpeg.jpg
+image:			/assets/images/2016/08/tips-for-overcoming-langauge-barriers-featured-image.jpeg.jpg
 
 
 ---

@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/romania-bucharest-travel-guide/
-image:			2020/02/romania-bucharest-019.jpg
+image:			/assets/images/2020/02/romania-bucharest-019.jpg
 
 
 ---

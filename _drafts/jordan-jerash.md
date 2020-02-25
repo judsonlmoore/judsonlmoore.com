@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/jordan-jerash-travel-guide/
-image:			2020/02/jordan-jerash-031.jpg
+image:			/assets/images/2020/02/jordan-jerash-031.jpg
 
 
 ---

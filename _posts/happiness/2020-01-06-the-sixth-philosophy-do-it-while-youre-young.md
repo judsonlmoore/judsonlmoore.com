@@ -6,7 +6,7 @@ tags:			happiness
 author:			judsonlmoore
 description:    
 layout:			post
-image:			2020/01/philosophy-6-do-it-while-youre-young.png
+image:			/assets/images/2020/01/philosophy-6-do-it-while-youre-young.png
 toc:			false
 
 ---

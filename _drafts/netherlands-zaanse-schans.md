@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/netherlands-zaanse-schans-travel-guide/
-image:			2020/02/netherlands-zaanse-schans-013.jpg
+image:			/assets/images/2020/02/netherlands-zaanse-schans-013.jpg
 
 
 ---

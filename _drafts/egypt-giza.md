@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/giza-egypt-travel-guide/
-image:			2020/02/egypt-giza-016.jpg
+image:			/assets/images/2020/02/egypt-giza-016.jpg
 
 
 ---

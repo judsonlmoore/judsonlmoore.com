@@ -6,7 +6,7 @@ tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Negotiating travel policy with your work is both possible and can be beneficial for all concerned. Read this article for tips and best practices.
 layout:			post
-image:			2016/01/Tips-For-Negotiating-Travel-At-Your-Job-Featured-Image.jpg
+image:			/assets/images/2016/01/Tips-For-Negotiating-Travel-At-Your-Job-Featured-Image.jpg
 
 
 ---

@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/donegal-ireland-sliabh-liag-cliffs-travel-guide/
-image:			2020/02/ireland-donegal-sliabh-liag-cliffs-001.jpg
+image:			/assets/images/2020/02/ireland-donegal-sliabh-liag-cliffs-001.jpg
 
 
 ---

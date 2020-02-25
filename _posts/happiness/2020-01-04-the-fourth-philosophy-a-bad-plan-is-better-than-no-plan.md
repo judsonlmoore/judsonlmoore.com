@@ -6,7 +6,7 @@ tags:			happiness
 author:			judsonlmoore
 description:	
 layout:			post
-image:			2020/01/philosophy-4-a-bad-plan-is-better-than-no-plan.png
+image:			/assets/images/2020/01/philosophy-4-a-bad-plan-is-better-than-no-plan.png
 toc:			false
 
 ---

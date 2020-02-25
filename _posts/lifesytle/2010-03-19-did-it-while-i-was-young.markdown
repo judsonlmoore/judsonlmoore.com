@@ -5,7 +5,7 @@ categories:		lifestyle
 tags:			sticky
 author:			judsonlmoore
 layout:			post
-image:			2016/01/adventure.jpeg
+image:			/assets/images/2016/01/adventure.jpeg
 
 
 ---

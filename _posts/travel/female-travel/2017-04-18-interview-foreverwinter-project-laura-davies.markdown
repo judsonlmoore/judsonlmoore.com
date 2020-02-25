@@ -6,7 +6,7 @@ tags:			female travel, inspiration, interview, skiing, solo travel, woman’s pe
 author:			judsonlmoore
 excerpt:		I recently had the opportunity to sit down with Laura Davies as she pursues an epic journey chasing winter around the world with The ForeverWinter Project.
 layout:			post
-image:			2017/03/foreverwinter-project-ski-kazakhstan.jpg
+image:			/assets/images/2017/03/foreverwinter-project-ski-kazakhstan.jpg
 
 
 ---

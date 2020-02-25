@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			biking, bishkek, fun, kyrgyzstan, sports
 author:			judsonlmoore
 layout:			post
-image:			2013/01/BikingPanoramaBishkek_007.jpg
+image:			/assets/images/2013/01/BikingPanoramaBishkek_007.jpg
 
 
 ---

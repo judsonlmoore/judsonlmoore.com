@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			atack, bishkek, interests, kyrgyzstan, travel safety, violence
 author:			judsonlmoore
 layout:			post
-image:			2013/03/thumbs_up_doctors_iStock_00_620x350.jpg
+image:			/assets/images/2013/03/thumbs_up_doctors_iStock_00_620x350.jpg
 
 
 ---

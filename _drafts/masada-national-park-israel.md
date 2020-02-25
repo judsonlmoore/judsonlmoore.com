@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/masada-national-park-israel-travel-guide/
-image:			2020/02/israel-masada-national-park-israel-001.jpg
+image:			/assets/images/2020/02/israel-masada-national-park-israel-001.jpg
 
 
 ---

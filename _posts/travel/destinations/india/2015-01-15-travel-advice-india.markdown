@@ -6,7 +6,7 @@ tags:			agra, dehli, jaipur, rajasthan, recommendations, tips, travel
 author:			judsonlmoore
 excerpt:		During a 6-month business trip to India, I took advantage of every weekend to travel to a different corner of this beautiful and vibrant country.
 layout:			post
-image:			2015/03/minaal-bag.jpg
+image:			/assets/images/2015/03/minaal-bag.jpg
 
 
 ---

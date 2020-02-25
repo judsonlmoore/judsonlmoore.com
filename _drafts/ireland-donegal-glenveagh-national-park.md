@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/donegal-ireland-glenveagh-national-park-travel-guide/
-image:			2020/02/ireland-donegal-glenveagh-national-park-001.jpg
+image:			/assets/images/2020/02/ireland-donegal-glenveagh-national-park-001.jpg
 
 
 ---

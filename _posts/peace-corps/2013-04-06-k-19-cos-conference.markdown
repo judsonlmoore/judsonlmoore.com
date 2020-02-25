@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			cos, kyrgyzstan, peace corps, rpcv
 author:			judsonlmoore
 layout:			post
-image:			2013/04/DSC06366.jpg
+image:			/assets/images/2013/04/DSC06366.jpg
 
 
 ---

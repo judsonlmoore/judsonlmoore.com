@@ -6,7 +6,7 @@ permalink:		"/happiness/"
 layout:			fullwidth-hero
 comments:		false
 category:		happiness
-image:			assets/images/2019/05/exponential-happiness-background.jpg
+image:			/assets/images/2019/05/exponential-happiness-background.jpg
 color:			fba828
 
 ---

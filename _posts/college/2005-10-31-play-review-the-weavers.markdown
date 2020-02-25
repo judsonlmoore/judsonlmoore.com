@@ -4,7 +4,7 @@ date:			2005-10-31 08:00:00 Z
 categories:		college
 author:			judsonlmoore
 layout:			post
-image:			2012/09/tumblr_l6pgvn60651qb60c5.jpg
+image:			/assets/images/2012/09/tumblr_l6pgvn60651qb60c5.jpg
 
 
 ---

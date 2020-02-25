@@ -5,7 +5,7 @@ categories:		college
 tags:			politics
 author:			judsonlmoore
 layout:			post
-image:			2006/02/the-elgin-marbles.jpg
+image:			/assets/images/2006/02/the-elgin-marbles.jpg
 
 
 ---

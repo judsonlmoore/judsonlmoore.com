@@ -4,7 +4,7 @@ date:			2010-08-31 14:03:16 Z
 categories:		peace corps
 author:			judsonlmoore
 layout:			post
-image:			2010/08/everything-i-own-right-here.jpg
+image:			/assets/images/2010/08/everything-i-own-right-here.jpg
 
 
 ---

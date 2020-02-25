@@ -6,7 +6,7 @@ tags:			adventure, art, culture, education, exchange, fellowship, gabr, oriental
 author:			judsonlmoore
 excerpt:		I will be meeting with Egyptian and American diplomats, military leaders, entrepreneurs and influencers during the 6-week Gabr Fellowship Program.
 layout:			post
-image:			2015/09/Gustav-Bauernfeind-A-Street-Scene-Damascus.jpg
+image:			/assets/images/2015/09/Gustav-Bauernfeind-A-Street-Scene-Damascus.jpg
 
 
 ---

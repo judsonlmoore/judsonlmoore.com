@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			appendectomy, bishkek, health, kyrgyzstan, peace corps, travel safety
 author:			judsonlmoore
 layout:			post
-image:			2013/04/20130415-164023.jpg
+image:			/assets/images/2013/04/20130415-164023.jpg
 
 
 ---

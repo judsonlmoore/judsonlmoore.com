@@ -10,7 +10,7 @@ tags:
   - jekyll
   - product management
 layout:			post
-image:			2020/01/wordpress-vs-jekyll.png
+image:			/assets/images/2020/01/wordpress-vs-jekyll.png
 
 
 ---

@@ -6,7 +6,7 @@ tags:			happiness
 author:			judsonlmoore
 description:	
 layout:			post
-image:			2020/01/philosophy-2-show-up.png
+image:			/assets/images/2020/01/philosophy-2-show-up.png
 toc:			false
 
 ---

@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/spain-ibizia-travel-guide/
-image:			2020/02/spain-ibizia-002.jpg
+image:			/assets/images/2020/02/spain-ibizia-002.jpg
 
 
 ---

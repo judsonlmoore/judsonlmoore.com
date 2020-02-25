@@ -5,7 +5,7 @@ categories:		india
 author:			judsonlmoore
 excerpt:		After arriving to Rajasthan India we stopped first in Ajmer to charge our batteries and see one of the world's oldest manmade structures.
 layout:			post
-image:			2015/01/IMG_4234.jpg
+image:			/assets/images/2015/01/IMG_4234.jpg
 
 
 ---

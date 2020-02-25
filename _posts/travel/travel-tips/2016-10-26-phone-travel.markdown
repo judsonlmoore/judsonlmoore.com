@@ -5,7 +5,7 @@ categories:		travel-tips
 author:			judsonlmoore
 excerpt:		International phone travel can be expensive or even scary. Follow these best practices to ensure you get the most out of your phone and avoid extra charges.
 layout:			post
-image:			2016/10/sim-cards-international-phone-travel.jpg
+image:			/assets/images/2016/10/sim-cards-international-phone-travel.jpg
 
 
 ---

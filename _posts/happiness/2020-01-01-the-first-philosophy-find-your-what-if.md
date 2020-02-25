@@ -6,7 +6,7 @@ tags:			happiness
 author:			judsonlmoore
 description:	
 layout:			post
-image:			2020/01/philosophy-1-find-your-what-if-and-live-it-every-day.png
+image:			/assets/images/2020/01/philosophy-1-find-your-what-if-and-live-it-every-day.png
 toc:			false
 
 ---
@@ -48,7 +48,7 @@ Backcasting is actually what bridges the Life Goals Excercise into an actionable
 
 After backcasting a scenario, you will have a clearer picture of how to move from the present moment, toward the imagined future. 
 
-{% cloudinary assets/images/2020/01/backcasting-diagram.png description="A diagram of backcasting" alt="A diagram of backcasting" %}
+{% cloudinary /assets/images/2020/01/backcasting-diagram.png description="A diagram of backcasting" alt="A diagram of backcasting" %}
 
 ### LinkedIn 
 

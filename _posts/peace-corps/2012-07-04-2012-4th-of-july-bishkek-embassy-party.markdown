@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			4th of july, bishkek, culture, embassy, kyrgyzstan, party, peace corps
 author:			judsonlmoore
 layout:			post
-image:			2012/07/20124thOfJuly.jpg
+image:			/assets/images/2012/07/20124thOfJuly.jpg
 
 
 ---

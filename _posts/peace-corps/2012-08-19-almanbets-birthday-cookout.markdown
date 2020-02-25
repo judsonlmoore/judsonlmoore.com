@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bbq, birthday, culture exchange, day trips, kyrgyz culture, kyrgyzstan, mountains, nature
 author:			judsonlmoore
 layout:			post
-image:			2012/08/NotAlaArcha_Featured.jpg
+image:			/assets/images/2012/08/NotAlaArcha_Featured.jpg
 
 
 ---

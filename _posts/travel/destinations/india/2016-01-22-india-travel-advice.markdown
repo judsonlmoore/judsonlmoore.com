@@ -6,7 +6,7 @@ categories:		india
 author:			judsonlmoore
 excerpt:		India is a wonderfully diverse and beautifully colorful country. I have traveled throughout India and have compiled my best advice here.
 layout:			post
-image:			2015/03/minaal-bag.jpg
+image:			/assets/images/2015/03/minaal-bag.jpg
 
 
 ---

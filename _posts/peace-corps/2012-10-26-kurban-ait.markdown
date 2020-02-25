@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan
 author:			judsonlmoore
 layout:			post
-image:			2013/01/AitBishkek_featured.jpg
+image:			/assets/images/2013/01/AitBishkek_featured.jpg
 
 
 ---

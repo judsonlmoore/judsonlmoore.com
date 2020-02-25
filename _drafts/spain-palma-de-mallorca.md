@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/spain-palma-de-mallorca-travel-guide/
-image:			2020/02/spain-palma-de-mallorca-002.jpg
+image:			/assets/images/2020/02/spain-palma-de-mallorca-002.jpg
 
 
 ---

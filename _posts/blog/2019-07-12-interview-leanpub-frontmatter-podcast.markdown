@@ -11,7 +11,7 @@ tags:
   - life story
 layout:			post
 permalink:		/interview-leanpub-frontmatter-podcast/
-image:			2019/07/leanpub-frontmatter-podcast-interview-with-judsonlmoore.png
+image:			/assets/images/2019/07/leanpub-frontmatter-podcast-interview-with-judsonlmoore.png
 toc:			false
 
 

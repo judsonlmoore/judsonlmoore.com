@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/romania-rasnov-travel-guide/
-image:			2020/02/romania-rasnov-010.jpg
+image:			/assets/images/2020/02/romania-rasnov-010.jpg
 
 
 ---

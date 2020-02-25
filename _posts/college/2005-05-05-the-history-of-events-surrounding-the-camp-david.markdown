@@ -5,7 +5,7 @@ categories:		college
 tags:			politics
 author:			judsonlmoore
 layout:			post
-image:			2005/05/begin-sadat-carter-camp-david.png
+image:			/assets/images/2005/05/begin-sadat-carter-camp-david.png
 
 
 ---

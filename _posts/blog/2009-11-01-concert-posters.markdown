@@ -5,7 +5,7 @@ categories:		blog
 tags:			tcb concerts
 author:			judsonlmoore
 layout:			post
-image:			2009/11/2007.09.06_ZZ_Top-160.jpg
+image:			/assets/images/2009/11/2007.09.06_ZZ_Top-160.jpg
 
 
 ---

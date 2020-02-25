@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/morocco-fez-old-town-travel-guide/
-image:			2020/02/morocco-fez-old-town-080.jpg
+image:			/assets/images/2020/02/morocco-fez-old-town-080.jpg
 
 
 ---

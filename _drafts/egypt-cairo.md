@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/cairo-egypt-travel-guide/
-image:			2020/02/egypt-cairo-032.jpg
+image:			/assets/images/2020/02/egypt-cairo-032.jpg
 
 
 ---

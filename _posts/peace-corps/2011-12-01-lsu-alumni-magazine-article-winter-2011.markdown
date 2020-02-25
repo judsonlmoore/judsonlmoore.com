@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			kyrgyzstan, lsu, lsu alumni, peace corps, published, talas
 author:			judsonlmoore
 layout:			post
-image:			2012/09/LSUmag_Winter2011.jpg
+image:			/assets/images/2012/09/LSUmag_Winter2011.jpg
 
 
 ---

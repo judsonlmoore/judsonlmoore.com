@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, christmas, holiday, kyrgyzstan, orthodox, religion
 author:			judsonlmoore
 layout:			post
-image:			2013/01/BishkeksOrthodoxCathedral_010.jpg
+image:			/assets/images/2013/01/BishkeksOrthodoxCathedral_010.jpg
 
 
 ---

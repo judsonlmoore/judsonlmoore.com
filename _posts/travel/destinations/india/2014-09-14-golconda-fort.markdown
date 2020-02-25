@@ -5,7 +5,7 @@ categories:		india
 tags:			architecture, fort, history, india, ruins
 author:			judsonlmoore
 layout:			post
-image:			2014/09/IMG_0326.jpg
+image:			/assets/images/2014/09/IMG_0326.jpg
 
 
 ---

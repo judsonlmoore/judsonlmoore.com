@@ -9,7 +9,7 @@ tags:
   - travel
 layout:			post
 permalink:		/donegal-ireland-mullaghmore-travel-guide/
-image:			2020/02/ireland-donegal-mullaghmore-003.jpg
+image:			/assets/images/2020/02/ireland-donegal-mullaghmore-003.jpg
 
 
 ---

@@ -7,7 +7,7 @@ author:			judsonlmoore
 description:	Happy New Year! 2017 was my most traveled year to-date, full of all sorts of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
 excerpt:		Happy New Year! 2017 was my most traveled year to-date, full of all sorts of experiences and life changes. Here is a look back on 2017 highlights month-by-month.
 layout:			post
-image:			2018/01/best-of-2017-april-neandertal-hiking.jpg
+image:			/assets/images/2018/01/best-of-2017-april-neandertal-hiking.jpg
 
 
 ---

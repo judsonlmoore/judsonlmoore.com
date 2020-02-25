@@ -7,7 +7,7 @@ author:			judsonlmoore
 description:	I caught up with Scott Holiday in Germany while on tour with Rival Sons. He talks of life on the road, their new album, and how the band thrives.
 excerpt:		I caught up with Scott Holiday in Germany while on tour with Rival Sons. He talks of life on the road, their new album, and how the band thrives.
 layout:			post
-image:			2017/02/interview-scott-holiday-rival-sons-005.jpg
+image:			/assets/images/2017/02/interview-scott-holiday-rival-sons-005.jpg
 
 
 ---
