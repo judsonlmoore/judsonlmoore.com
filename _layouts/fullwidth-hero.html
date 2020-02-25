@@ -7,7 +7,7 @@ layout: default
 <div 
 	id="fullwidth-img" 
 	class="container-fluid py-5 mb-0 mb-sm-5 vh-50" 
-	style="background-image: url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_825/{% endif %}{{ site.url }}/{{ page.image }}'); background-size: cover; background-position: center;">
+	style="background-image: url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_825/{% endif %}{{ site.url }}{{ page.image }}'); background-size: cover; background-position: center;">
 	<div class="container h-100">
 		<div class="row h-100 align-items-center">
 		    <div class="col-lg-12">
