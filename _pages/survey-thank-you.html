@@ -28,15 +28,11 @@ comments: false
     </div>
     <div class="row">
 
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
+        {% for post in site.posts %}
+            {% if post.featured == true %}
+                {% include postbox.html %}
+            {% endif %}
+        {% endfor %}
 
     </div>
 </section>

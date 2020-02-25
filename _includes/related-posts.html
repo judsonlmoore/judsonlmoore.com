@@ -24,7 +24,7 @@
 
 	<div class="media position-relative mb-3 pb-3 border-bottom border-gray">
 		{% if post.image %}
-	    {% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="mr-3" width="64" heigh="64" %}
+	    {% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="mr-3" style="object-fit: cover; width: 64px; height: 64px;" %}
 	    {% endif %}
 		<div class="media-body">
 			<p class="mt-0 text-gray-dark">{{ post.title }}</p>

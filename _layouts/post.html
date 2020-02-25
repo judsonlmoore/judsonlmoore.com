@@ -41,7 +41,7 @@ post_class: post-template
                     <!-- Post Author -->
                     <div class="media text-muted">
                         {% if author.avatar %}
-                        {% cloudinary author-thumb {{ site.url }}{{ author.avatar }} alt="{{ author.name }}" class="mr-2 d-none d-md-block" width="64" heigh="64" %}
+                        {% cloudinary {{ site.url }}{{ author.avatar }} alt="{{ author.name }}" class="mr-2 d-none d-md-block" width="64" heigh="64" %}
                         {% endif %}
                         <p class="media-body pb-3 mb-0 lh-125">
                             <strong class="d-block text-gray-dark">{{ author.name }}</strong>

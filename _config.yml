@@ -139,42 +139,10 @@ cloudinary:
       crop: fill
       focus: auto
       quality: auto
-      min_width: 50
-      max_width: 1000
-      fallback_max_width: 825
+      min_width: 64
+      max_width: 1024
+      fallback_max_width: 806
       steps: 5
       attributes:
         class: img-fluid
         loading: auto
-    featured-box-img-cover:
-      attributes:
-        class: featured-box-img-cover img-fluid
-        min_width: 185
-        min_hight: 350
-        max_width: 510
-        max_height: 360
-        fallback_max_width: 510
-    featured:
-      attibutes:
-        class: featured-image img-fluid
-        min_width: 315
-        min_hight: 210
-        max_width: 760
-        max_height: 450
-    author-thumb: 
-      steps: 2
-      attributes: 
-        class: author-thumb img-fluid
-        min_width: 40
-        min_hight: 40
-        max_width: 170
-        max_height: 170
-        fallback_max_width: 72
-    img-thumbnail:
-      attributes: 
-        class: img-thumbnail
-        min_width: 40
-        min_hight: 40
-        max_width: 170
-        max_height: 170
-        fallback_max_width: 72
