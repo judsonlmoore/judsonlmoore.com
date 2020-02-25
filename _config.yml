@@ -144,5 +144,5 @@ cloudinary:
       fallback_max_width: 806
       steps: 5
       attributes:
-        class: img-fluid
+        class: "img-fluid"
         loading: auto
