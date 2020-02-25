@@ -6,7 +6,7 @@ avatar: /assets/images/avatar-judsonlmoore.png
 email: judson@judsonlmoore.com
 web: https://www.judsonlmoore.com
 twitter: judsonlmoore
-facebook: judsonlmoore_blog
+facebook: judsonlmooreblog
 instagram: judsonlmoore
 linkedin: judsonlmoore
 youtube: judsonlmoore
