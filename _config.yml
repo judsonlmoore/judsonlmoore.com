@@ -143,6 +143,7 @@ cloudinary:
       max_width: 1024
       fallback_max_width: 806
       steps: 5
+      figure: never
       attributes:
         class: "img-fluid"
         loading: auto
