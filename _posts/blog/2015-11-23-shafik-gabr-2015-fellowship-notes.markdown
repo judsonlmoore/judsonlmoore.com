@@ -4,7 +4,7 @@ date:		     	2015-11-23 04:42:52 Z
 categories:		blog
 author:			  judsonlmoore
 layout:			  post
-image:			 2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
+image:        /assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
 
 
 ---

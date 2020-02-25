@@ -5,7 +5,7 @@ categories:		blog
 tags:			    austin, bikes, biking, carbon fiber, custom, sram
 author:		   	judsonlmoore
 layout:		   	post
-image:		  	2013/08/2013-06-15-18.42.40.jpg
+image:		  	/assets/images/2013/08/2013-06-15-18.42.40.jpg
 
 
 ---

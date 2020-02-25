@@ -5,7 +5,7 @@ categories:		peace corps
 tags:			bishkek, fun, interests, kyrgyzstan, trivia
 author:	  		judsonlmoore
 layout:		   	post
-image:		  	2013/03/trivia.jpeg
+image:		  	/assets/images/2013/03/trivia.jpeg
 
 
 ---
