@@ -18,7 +18,7 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 #Plugins here
 group :jekyll_plugins do
-    gem 'jekyll'
+    gem "jekyll", github: "jekyll/jekyll"
     gem 'jekyll-feed'
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'

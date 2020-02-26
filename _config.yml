@@ -1,7 +1,7 @@
 # Site
 title: Judson L Moore
 tagline: Author and travel addict
-description: Do you want to experience the world? I encourage you to get an early start at living a full and adventurous life by providing tips for living your "what if" \#WhileYoung.
+description: Do you want to experience the world? I encourage you to get an early start at living a full and adventurous life by providing tips for living your "what if" while young.
 url: "https://www.judsonlmoore.com"
 image-path: /assets/images/
 name: Judson L Moore
@@ -58,7 +58,7 @@ defaults:
     values:
       image: /assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg
 
-# Plugins
+# plugins
 plugins:
   - jekyll-paginate
   - jekyll-feed
@@ -67,40 +67,30 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
 
+# jekyll-cloudinary
+cloudinary:
+  cloud_name: judsonlmoore-com
+  only_prod: true
+  presets:
+    default:
+      gravity: auto
+      crop: fill
+      focus: auto
+      quality: auto
+      min_width: 64
+      max_width: 1800
+      fallback_max_width: 806
+      sizes: "(min-width: 50rem) 50rem, 90vw"
+      attributes:
+        class: "img-fluid"
+        loading: "lazy"
+
 sass:
   load_paths:
     - _sass
     - node_modules
 
-# _config.yml
-# Note: Your API key will be read from an ENV variable
-algolia:
-  application_id: '7NL4THI97T'
-  index_name:     'judsonlmoore.com'
-  search_only_api_key: 32a647216673c47b6e482d43e5c289a3
-
-# Pagination
-paginate: 12
-paginate_path: "/blog/page-:num/"
-
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: "/category/:name/"
-    tag: "/tag/:name/"
-
-# Other
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-
+# excludes
 exclude:
   - .jekyll-cache
   - changelog.md
@@ -116,10 +106,42 @@ exclude:
   - vendor/ruby/
   - node_modules/
 
+# seaech api 
+algolia:
+  application_id: '7NL4THI97T'
+  index_name:     'judsonlmoore.com'
+  search_only_api_key: 32a647216673c47b6e482d43e5c289a3
+
+# jekyll-paginate
+paginate: 12
+paginate_path: "/blog/page-:num/"
+
+# jekyll-archives
+jekyll-archives:
+  enabled: all
+  layout: archive
+  permalinks:
+    year: '/archives/year/:year/'
+    month: '/archives/month/:year-:month/'
+    tag: '/archives/tag/:name/'
+    day: '/archives/:year/:month/:day/'
+    category: '/archives/category/:name/'
+
+# jekyll-feed
 feed:
   path: atom.xml
   excerpt_only: true
 
+# other
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# minification
 compress_html:  
   clippings: all  
   comments: ["<!-- ", " -->"] 
@@ -128,22 +150,3 @@ compress_html:
   blanklines: false 
   ignore: 
     envs: []
-
-cloudinary:
-  cloud_name: judsonlmoore-com
-  verbose: false
-  only_prod: true
-  presets:
-    default:
-      gravity: auto
-      crop: fill
-      focus: auto
-      quality: auto
-      min_width: 64
-      max_width: 1024
-      fallback_max_width: 806
-      steps: 5
-      figure: never
-      attributes:
-        class: "img-fluid"
-        loading: auto

@@ -53,7 +53,9 @@ The rivalry between these two men was the stuff of legend and popular appeal dur
 
 Piazza Navona, in the heart of Rome, became the epicenter for the rivalry between these two men. Bernini created the magnificent Fountain of the Four Rivers in the center of this plaza. The fountain represented the four great rivers on the four continents where the Church had gained influence until that time: the Nile in Africa, the Danube in Europe, the Ganges in Asia, and the Río de la Plata representing the Americas. In the center was an ancient Egyptian obelisk rising toward the heavens. 
 
-Pictured below you can see that the figure representing the Nile River is shielding his eyes. The legend is that Bernini set this figure in stone to be shielded from the horrible sight of the church directly in front of it (Sant'Agnese in Agone) which was designed by Borromini. **This is a lie**. This is a great story, and one with mass appeal. The story was among the first things I was told by my hotel concierge the night before when I checked in. Given that the hotel is only a few minute's walk from the plaza, I thought it would be a credible one.
+Pictured below you can see that the figure representing the Nile River is shielding his eyes. The legend is that Bernini set this figure in stone to be shielded from the horrible sight of the church directly in front of it (Sant'Agnese in Agone) which was designed by Borromini. **This is a lie**. 
+
+A great story, and one with mass appeal, the story was among the first things I was told by my hotel concierge the night before when I checked in. Given that the hotel is only a few minute's walk from the plaza, I thought it would be a credible one.
 
 **The truth is** that the fountain was completed two years before the church began construction. The Nile figure's gesture only signifies that at that time, the Nile's source was not yet known. 
 

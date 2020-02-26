@@ -28,6 +28,8 @@ layout: compress
 
         {% seo %}
 
+        {% feed_meta %}
+
         <!-- Site CSS -->
         <link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.url}}">
         
@@ -56,7 +58,7 @@ layout: compress
     <body class="{{layout}}">
 
         <!-- Begin Menu Navigation -->
-        {% include nav.html %}
+        {% include_cached nav.html %}
         <!-- End Navigation -->
 
         <!-- Begin Content -->
@@ -64,7 +66,7 @@ layout: compress
         <!-- End Content -->
 
         <!-- Begin Footer -->
-        {% include footer.html %}
+        {% include_cached footer.html %}
         <!-- End Footer -->
 
         <!-- JQuery JS -->
