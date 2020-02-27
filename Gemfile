@@ -16,9 +16,10 @@ gem "liquid-c"
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
+gem 'jekyll'
+
 #Plugins here
 group :jekyll_plugins do
-    gem "jekyll", github: "jekyll/jekyll"
     gem 'jekyll-feed'
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
@@ -28,6 +29,5 @@ group :jekyll_plugins do
     gem 'jekyll-cloudinary'
     gem 'jekyll-sitemap'
     gem 'jekyll-algolia'
-    # gem 'jekyll-minifier'
-    # gem 'html-proofer'
+    gem 'html-proofer'
 end

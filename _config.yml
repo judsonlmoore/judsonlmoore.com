@@ -80,6 +80,7 @@ cloudinary:
       max_width: 1800
       fallback_max_width: 806
       sizes: "(min-width: 50rem) 50rem, 90vw"
+      figure: never
       attributes:
         class: "img-fluid"
         loading: "lazy"
