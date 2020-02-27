@@ -26,7 +26,6 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
     gem 'jekyll-cloudinary'
-	gem 'jekyll-include-cache'
     gem 'jekyll-sitemap'
     gem 'jekyll-algolia'
     # gem 'jekyll-minifier'
