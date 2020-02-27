@@ -5,7 +5,7 @@ Description: Plan your visit to Turkey and find out where to go and what to do i
 permalink: "/turkey/"
 layout: fullwidth-hero
 category: turkey
-image: assets/images/2013/05/IMG_1765.jpg
+image: /assets/images/2013/05/IMG_1765.jpg
 ---
 
 ## The most cosmopolitan country on Earth

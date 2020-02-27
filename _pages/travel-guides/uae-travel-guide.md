@@ -5,7 +5,7 @@ Description: Plan your visit to the UAE and find out where to go and what to do 
 permalink: "/uae/"
 layout: fullwidth-hero
 category: uae
-image: assets/images/2015/01/IMG_3707.jpg
+image: /assets/images/2015/01/IMG_3707.jpg
 ---
 
 ## The opulence of the desert on a backpacker budget

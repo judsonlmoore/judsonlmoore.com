@@ -5,7 +5,7 @@ description: Plan your visit to Brazil and find out where to go and what to do i
 permalink: "/brazil/"
 layout: fullwidth-hero
 category: brazil
-image: assets/images/2015/10/ouro-preto.jpg
+image: /assets/images/2015/10/ouro-preto.jpg
 color: 009C3B
 
 ---

@@ -15,7 +15,7 @@ facebook:
   app_id: 990949061035215
   publisher: https://www.facebook.com/JudsonLMooreBlog/
   admins: judsonlmoore
-favicon: assets/images/favicon.png
+favicon: /assets/images/favicon.png
 social:
   name: Judson L Moore
   links:

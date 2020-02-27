@@ -5,7 +5,7 @@ Description: Plan your visit to Norway and find out where to go and what to do i
 permalink: "/norway/"
 layout: fullwidth-hero
 category: norway
-image: assets/images/2015/10/ouro-preto.jpg
+image: /assets/images/2015/10/ouro-preto.jpg
 ---
 
 ## How my time in Brazil changed my life

@@ -5,7 +5,7 @@ Description: Plan your visit to Kyrgyzstan and find out where to go and what to 
 permalink: "/kyrgyzstan/"
 layout: fullwidth-hero
 category: kyrgyzstan
-image: assets/images/2012/06/Osh_Bazaar_in_Bishkek_Kyrgyzstaneg.jpeg
+image: /assets/images/2012/06/Osh_Bazaar_in_Bishkek_Kyrgyzstaneg.jpeg
 ---
 
 ## The Switzerland of Central Asia

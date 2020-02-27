@@ -5,7 +5,7 @@ Description: Plan your visit to Egypt and find out where to go and what to do in
 permalink: "/egypt/"
 layout: fullwidth-hero
 category: egypt
-image: assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
+image: /assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
 ---
 
 ## Egypt is still the cradle of civilization 

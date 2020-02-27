@@ -5,7 +5,7 @@ Description: Articles about solo travel writen by women, for women. Get tips and
 permalink: "/female-travel/"
 layout: fullwidth-hero
 category: female-travel
-image: assets/images/2017/07/female-travel-advice.jpg
+image: /assets/images/2017/07/female-travel-advice.jpg
 ---
 
 ## Female travel advice written for and by women

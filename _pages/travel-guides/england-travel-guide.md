@@ -5,7 +5,7 @@ Description: Plan your visit to England and find out where to go and what to do 
 permalink: "/england/"
 layout: fullwidth-hero
 category: england
-image: assets/images/2015/10/london.jpg
+image: /assets/images/2015/10/london.jpg
 
 
 ---

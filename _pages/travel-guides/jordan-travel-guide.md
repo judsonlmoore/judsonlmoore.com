@@ -5,7 +5,7 @@ Description: Plan your visit to Jordan and find out where to go and what to do i
 permalink: "/jordan/"
 layout: fullwidth-hero
 category: jordan
-image: assets/images/2018/05/wadi-rum-jordan-daytime-landscape.jpg
+image: /assets/images/2018/05/wadi-rum-jordan-daytime-landscape.jpg
 ---
 
 ## How my time in Brazil changed my life
