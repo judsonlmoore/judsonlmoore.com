@@ -2,6 +2,7 @@
 title:			Rotary Is Ubiquitous
 date:			2011-06-24 09:33:05 Z
 categories:		peace corps
+tags:			rotary
 author:			judsonlmoore
 layout:			post
 image:			/assets/images/2013/08/rotary-bg.jpg

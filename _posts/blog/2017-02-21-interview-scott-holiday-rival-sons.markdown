@@ -38,7 +38,7 @@ It makes people feel things and that’s the idea. If we don’t spur ourselves 
 
 And it’s also very traditional and very torch-bearing in a way that we know. Rock ‘n roll has seemed to—I think now it’s just re-sprouting. But when we started the band even before I met the guys when I was looking for everybody, I felt rock ‘n roll had become very complacent with itself and it felt horrible and, of course, it was never going to die or go away, but I just felt like The Blues Brothers being on a mission from God.
 
-**Further Reading: [Posters from Concerts I Promoted](/concert-posters/)**
+**Further Reading: [Posters from Concerts I Promoted]({{ site.url }}/concert-posters/)**
 
 We have a responsibility to do it the way that we believe and want to see it done, a dirty rock ‘n roll band. We’ve always said a quote, “It seemed like rock forgot to roll. It’s like rock forgot to dance.” It forgot its boogie. It forgot what it was all about and I just wanted to make something that I will be proud of and feel like it’s encompassing these elements. It’s dirty. It’s very bluesy. It’s country and western, a lot of R&B, funk and a lot of soul. That’s what rock ‘n roll is. I think the great amalgamation of all these styles.
 

@@ -17,7 +17,7 @@ The greatest advantage I have had in life is that when I was young, I had many a
 
 People say *carpe diem* like as if you don't know what the future holds. Though you can't know if this is your last day in good health or not, for many people, life can be somehow predictable. I've made this infographic to represent an average American's life who sticks to the traditional routine of education, career, family and retirement. The dark blue represents things in our life which make travel more difficult. The yellow represents time of greater flexibility.
 
-{% cloudinary /assets/images/2016/02/Why-Travel-While-Young-Graph.jpg alt="Why Travel While Young Graph" alt="" description="" %}
+{% cloudinary /assets/images/2016/02/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" alt="" description="" %}
 
 Let me break this down.
 
@@ -25,19 +25,19 @@ Let me break this down.
 
 The first 18 years of our lives are spent getting educated. Unless you have a family that travels, chances are that you won't have a lot of opportunities to go out and see much of the world. Even then, you won't have much autonomy in making travel choices. The big exception to this is to become a youth exchange student. I am a supporter of the [Rotary Youth Exchange Program](https://www.rotary.org/en/our-programs/youth-exchanges), which I participated in at age 17 for a year in Germany. *(leave me a comment below if you would like me to connect you with your local Rotary Club for more information)*
 
-**Related Post: [The Secret To All My Success](/showing-up/)**
+**Related Post: [The Secret To All My Success]({{ site.url }}/showing-up/)**
 
 The gaps between high school and college, and between college and starting your career, are excellent times to travel. Those are the two points in your life when you are truly free to choose for yourself. You may feel the pressure to hurry to college, or hurry to work, but the fact of the matter is that those things will always be there for you. If you want to hold off a week / month / year to gain some experience seeing the world, you will be that much more well prepared for those next-steps and seen as a much more attractive candidate by the gatekeepers of your future.
 
 Of course, you can also study abroad for part or all of college or graduate school. There are many programs that will fund your way to study around the world. When looking into these, you will read a lot of prestigious language which might discourage you from applying, but I assure you that they need you to apply as much as you want them to say yes!
 
-**Related Post: [19 Amazing International Fellowship Programs](/international-fellowship-programs/)**
+**Related Post: [19 Amazing International Fellowship Programs]({{ site.url }}/international-fellowship-programs/)**
 
 ## Career
 
 Gone are the days of graduating from college and going to one job for the rest of your life. Increasingly, recent graduates are discovering the importance of gaining a myriad of diverse experience. There is a big world out there and a lot to learn about it. As your first few jobs come and go, consider planning some travel in-between, or making one of these jobs at an international location. You may also be interested in participating with a professional fellowship program abroad.
 
-**Related Post: [Negotiating Travel At Your Job](/negotiating-travel-at-your-job/)**
+**Related Post: [Negotiating Travel At Your Job]({{ site.url }}/negotiating-travel-at-your-job/)**
 
 Your career may very well let you to travel and work abroad, but these jobs are rare. When traveling for work, you will have to travel at someone else's discretion. Still, some of my best travel experiences have been on behalf of my employer. Look for careers that involve travel and find an employer which is flexible in working with you to pad business travel with some personal experiences as well.
 

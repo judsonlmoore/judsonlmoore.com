@@ -17,7 +17,7 @@ I've now been living in [Hyderabad, India](https://en.wikipedia.org/wiki/Hyderab
 
 Generally speaking, I have seen three things in this city: The Trident Hotel, [Charminar](https://en.wikipedia.org/wiki/Charminar), and the [Golkonda Fort](https://en.wikipedia.org/wiki/Golconda_Fort).
 
-For the sake of brevity, I will just write about the hotel in this post. You can find my other posts from Hyderabad [here](/india/).
+For the sake of brevity, I will just write about the hotel in this post. You can find my other posts from Hyderabad [here]({{ site.url }}/india/).
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2014-09-10-the-trident-hotel-and-poverty"] %}

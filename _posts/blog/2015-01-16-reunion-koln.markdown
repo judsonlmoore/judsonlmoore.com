@@ -10,7 +10,7 @@ image:			/assets/images/2015/09/koln.jpg
 
 ---
 
-After spending [5-months in India](/india/) building out [a new facility for Mutual Mobile]({{ site.url }}/mutual-mobile-hyderabad/), I get to take a few weeks of vacation! I am returning to Germany for the first time since my high school Rotary Youth Exchange year in Oldenburg and am very excited to reconnect with old friends. My fist stop on this journey is Köln, known in English-speaking circles as Cologne.
+After spending [5-months in India]({{ site.url }}/india/) building out [a new facility for Mutual Mobile]({{ site.url }}/mutual-mobile-hyderabad/), I get to take a few weeks of vacation! I am returning to Germany for the first time since my high school Rotary Youth Exchange year in Oldenburg and am very excited to reconnect with old friends. My fist stop on this journey is Köln, known in English-speaking circles as Cologne.
 
 After flying Hyderabad > Abu Dhabi > Frankfurt I got a first class ticket on the ICE 102 to Köln and began my relaxing 3-week tour of central Europe. Here is a preview of the beauty to come.
 
@@ -18,7 +18,7 @@ After flying Hyderabad > Abu Dhabi > Frankfurt I got a first class ticket on the
 
 ## First Impressions of Köln (and beer!)
 
-Upon arriving in Köln (Cologne), I met Bettina and Maxim, whom I know from [my time in Kyrgyzstan](/location/kyrgyzstan/). After a quick change of clothes and a smorgasbord of cheese and meat, it was time to get this 3-week pub crawl underway.
+Upon arriving in Köln (Cologne), I met Bettina and Maxim, whom I know from [my time in Kyrgyzstan]({{ site.url }}/kyrgyzstan/). After a quick change of clothes and a smorgasbord of cheese and meat, it was time to get this 3-week pub crawl underway.
 
 Each region, city and sometimes even neighborhoods in Germany are distinguishable by the kind of beer available. Köln is home of Kölsch beer, a German lager, which is crisp and refreshing. Kölsch is served in small glasses so that you can drink it before the temperature has a chance to rise, and similarly to a Brazilian steakhouse, you will have more beer in front of you before you can put the empty glass on the table unless you indicate you are done drinking by putting a coaster on top of the glass. This beer is fun, even before the server dressed like Uncle Fester gives it to you.
 

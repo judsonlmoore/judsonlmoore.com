@@ -13,7 +13,7 @@ toc:			false
 
 Now that you have your *what if* in mind, you are energized to show up, and you have learned from others around you, what comes next? Well, you need a plan! Just as I draft an outline for my books before I started to write paragraphs, you need to have an idea about the steps that are necessary to take to reach your goal.
 
-As children, we are asked many times about what we want to be when we grow up. Rarely does that conversation continue to discuss *how* we can live that life. In Chapter 4 of my book, [Exponential Happiness](/book/), I reveal best practices for discovering the *how* behind every type of goal. The book walks you through a planning and decision-making process that will save you a lot of grief by creating a plan which will propel you toward living your *what if*.
+As children, we are asked many times about what we want to be when we grow up. Rarely does that conversation continue to discuss *how* we can live that life. In Chapter 4 of my book, [Exponential Happiness]({{ site.url }}/book/), I reveal best practices for discovering the *how* behind every type of goal. The book walks you through a planning and decision-making process that will save you a lot of grief by creating a plan which will propel you toward living your *what if*.
 
 I wouldn't expect you to run off and buy the book without any evidence regarding the impact of its contents, so here, *I'll give you a little teaser.*
 
@@ -21,7 +21,7 @@ I wouldn't expect you to run off and buy the book without any evidence regarding
 
 There are a lot of lofty careers out there. You don't become a doctor or a pilot or an astronaut overnight. These are professions that you don't just fall in to after a period of post-university discovery during a gap year. These are professions that accept only those who perform at the top of their peers and who have their passions in the right place. The sacrifices you must make to obtain these roles are too big for you to succeed in them without having the drive and focus to do so. 
 
-When a goal is so lofty and comes with such huge risks in the consequences of failure, how do you go about planning for success? Well, one good method is *backcasting* which you can read more about in [this post about discovering your "what if"](/the-first-philosophy-find-your-what-if/). Another good method is to go direct to the source and read the requirements. 
+When a goal is so lofty and comes with such huge risks in the consequences of failure, how do you go about planning for success? Well, one good method is *backcasting* which you can read more about in [this post about discovering your "what if"]({{ site.url }}/the-first-philosophy-find-your-what-if/). Another good method is to go direct to the source and read the requirements. 
 
 Let's use the astronaut career as our example here.
 
@@ -41,6 +41,6 @@ We get new information every day. We learn. We grow. Doors open. Doors close. As
 
 Check-in with your plans regularly to assess whether or not the destination is still desired. Maybe there is a better path to the destination, or maybe there is a better goal altogether. 
 
-Check out my book [Exponential Happiness](/book/) for loads more details on this and other topics to help you in your pursuit of achieving your goals! 
+Check out my book [Exponential Happiness]({{ site.url }}/book/) for loads more details on this and other topics to help you in your pursuit of achieving your goals! 
 
 If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have and I will be happy to advise you the best I can directly!

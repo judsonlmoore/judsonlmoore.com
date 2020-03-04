@@ -16,7 +16,7 @@ image:			/assets/images/2017/04/Blumenau-Santa-Catarina-Brazil.jpg
 
 In the southern Brazilian state of Santa Catarina is a city called Blumenau, which is as German as any city in Germany (and I know, I live in Germany!) From the cobblestone streets, to the post-and-beam architecture, and the bakeries on every corner, **you wouldn't know you are not in Germany** if you just woke up here one day.
 
-A buddy of mine, Leo, [who I was visiting in Florianópolis](/florianopolis-brazil-travel-guide/), had a family apartment in Blumenau, so we decided to go spend a few days there. He and I met while we were both Rotary Youth Exchange students in Germany, so getting to experience the German culture together again **was quite special**.
+A buddy of mine, Leo, [who I was visiting in Florianópolis]({{ site.url }}/florianopolis-brazil-travel-guide/), had a family apartment in Blumenau, so we decided to go spend a few days there. He and I met while we were both Rotary Youth Exchange students in Germany, so getting to experience the German culture together again **was quite special**.
 
 _This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](https://visitbrasil.com/). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
 

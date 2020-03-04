@@ -2,6 +2,7 @@
 title:			What I Would Have Said - Home Is Where the Heart Is.
 date:			2010-06-06 08:19:00 Z
 categories:		lifestyle
+tags:			rotary
 author:			judsonlmoore
 excerpt:		My heart has found a new place to call home in Los Angeles and I owe it all to this very special group of community leaders and humanitarians.
 layout:			post

@@ -34,9 +34,9 @@ However you got here, I am glad that you are here. It is my honor to share with 
 
 ### Life Goals Excercise
 
-Chapter 2 of my book [Exponential Happiness](/book/) is all about discovery. One of the tools that the book explores in great detail is how to uncover your life goals and then write an action plan by which you can realize those goals. The tool is called the Life Goals Exercise and the outcome is having a 10-year plan. 
+Chapter 2 of my book [Exponential Happiness]({{ site.url }}/book/) is all about discovery. One of the tools that the book explores in great detail is how to uncover your life goals and then write an action plan by which you can realize those goals. The tool is called the Life Goals Exercise and the outcome is having a 10-year plan. 
 
-I've already shared my life goals and given a brief on how anyone can conduct this thought exercise to discover their own life goals in [this blog post](/life-goals-exercise/).
+I've already shared my life goals and given a brief on how anyone can conduct this thought exercise to discover their own life goals in [this blog post]({{ site.url }}/life-goals-exercise/).
 
 The gist of it is to think of broad and longterm desires and then split that up into focused, bite-sized items, on which you can take action over time in pursuit of your goals. By doing this, you create a document that will act as a point of reference as you walk through the journey of life. What is important to keep in mind, though, is as I like to say, **"a bad plan is better than no plan, but the most important element to any plan is the flexibility to change."**
 
@@ -60,6 +60,6 @@ If after reviewing 5-6 profiles from people in similar roles you can't see any p
 
 ### Mentors
 
-You never know where your greatest assets may lay. Consider engaging a mentor to help along with the process. Not sure how mentorship works or how to find a mentor? Check out my book [Exponential Happiness](/book/) for loads more details on this and other topics to help you in your pursuit of happiness! 
+You never know where your greatest assets may lay. Consider engaging a mentor to help along with the process. Not sure how mentorship works or how to find a mentor? Check out my book [Exponential Happiness]({{ site.url }}/book/) for loads more details on this and other topics to help you in your pursuit of happiness! 
 
 If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have and I will be happy to advise you the best I can directly! 

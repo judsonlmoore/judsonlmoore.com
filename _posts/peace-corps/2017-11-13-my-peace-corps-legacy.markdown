@@ -11,7 +11,7 @@ image:			/assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-j
 
 ---
 
-I just returned from a 2-week trip to Kyrgyzstan. “Kyrgyz-what???” you say? Exactly. Well, if you have been paying attention to my writings the last years then you will recall that [**I served in the US Peace Corps**](/categories/#jobs/peace-corps/) from 2011-2013 in Kyrgyzstan.
+I just returned from a 2-week trip to Kyrgyzstan. “Kyrgyz-what???” you say? Exactly. Well, if you have been paying attention to my writings the last years then you will recall that [**I served in the US Peace Corps**]({{ site.url }}/categories/#jobs/peace-corps/) from 2011-2013 in Kyrgyzstan.
 
 Kyrgyzstan is a gorgeous and remote country in the heart of Central Asia. Europeans who visit the country refer to it as **the Switzerland of Central Asia**. The history of the country is steeped in nomadic traditions, and it was once a major route along the Silk Road.
 

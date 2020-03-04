@@ -44,8 +44,8 @@ post_class: post-template
                         {% cloudinary {{ site.url }}{{ author.avatar }} alt="{{ author.name }}" class="mr-2 d-none d-md-block" width="64" heigh="64" %}
                         {% endif %}
                         <p class="media-body pb-3 mb-0 lh-125">
-                            <strong class="d-block text-gray-dark">{{ author.name }}</strong>
-                            {{ author.content | strip_html }}<br>{% if author.twitter %}Follow me on <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.facebook %}Find me on<a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"> facebook</a>.{% endif %}
+                            <strong class="d-block text-gray-dark"><span class="d-md-none">By </span>{{ author.name }}</strong>
+                            {{ author.content | strip_html }} {% if author.twitter %}Follow me on <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.facebook %}Find me on<a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"> facebook</a>.{% endif %}
                         </p>
                     </div>
                     <!-- End Post Author -->
@@ -76,8 +76,8 @@ post_class: post-template
 
                 {% if page.toc != false %}
                 <!-- Toc -->
-                <div class="toc mb-5 lead">
-                    <h3 class="font-weight-bold">In this post...</h3>
+                <div class="toc">
+                    <h3>In this post...</h3>
                     {% assign my_min = page.toc_min | default: site.toc_min | default: 1 %}
                     {% assign my_max = page.toc_max | default: site.toc_max | default: 2 %}
                     {% include toc.html html=content sanitize=true h_min=my_min h_max=my_max %}

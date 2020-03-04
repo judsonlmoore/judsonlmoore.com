@@ -19,7 +19,7 @@ The participants come from a wide variety of professional sectors and are all em
 
 As the fellows get to know one another, we will begin to form small groups and author action plans for development projects that can be implemented in Egypt. As part of the application process, each of us has already written an action plan. You can read [my action plan here](https://docs.google.com/document/d/1uIoBKQJTFPy7YuGQ31FZG23k9Tuze_E_Qo4qq578lv0/edit?usp=sharing), as an example of the type of work we will conduct.
 
-It is a great honor to be selected as a Gabr Fellow and I will keep my blog and [Twitter](https://twitter.com/judsonlmoore) flowing with photos and updates. [Subscribe to my newsletter](/subscribe/) for the most exciting updates. Thank you, my readers, for the support, there will be much more to read very soon!
+It is a great honor to be selected as a Gabr Fellow and I will keep my blog and [Twitter](https://twitter.com/judsonlmoore) flowing with photos and updates. [Subscribe to my newsletter]({{ site.url }}/subscribe/) for the most exciting updates. Thank you, my readers, for the support, there will be much more to read very soon!
 
 >**Update**
 >Read About My Time in Egypt [Here]({{ site.url }}/egypt/).

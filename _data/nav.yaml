@@ -31,8 +31,6 @@ main:
         url: /usa/
   - page: Female Travel
     url: /female-travel/
-  - page: Book <span class="badge badge-warning">New</span>
-    url: /book/
 secondary:
   - page: About Me
     url: /about/

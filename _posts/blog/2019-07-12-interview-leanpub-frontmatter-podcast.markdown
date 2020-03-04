@@ -17,7 +17,7 @@ toc:			false
 
 ---
 
-Just before I published my first book, [Exponential Happiness](/book/), my publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself. 
+Just before I published my first book, [Exponential Happiness]({{ site.url }}/book/), my publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself. 
 
 Len Epp is Leanpub's co-founder. During his interview, we discussed: 
 

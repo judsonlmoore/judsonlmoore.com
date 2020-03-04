@@ -48,6 +48,6 @@ Fear not! You *will* make mistakes! There is no straight path in life. We are fa
 
 The trick is to not get buried in angst about the endless possible outcomes of our decisions. Just make the best decision you can, based on all the available information available to you at the moment. When you realize later that you made a sub-prime decision, embrace the opportunity to assess what led up to that decision and what happened as a result. Contemplate the end-to-end process and learn from it. 
 
-Check out my book [Exponential Happiness](/book/) for loads more details on this and other topics to help you in your pursuit of happiness! 
+Check out my book [Exponential Happiness]({{ site.url }}/book/) for loads more details on this and other topics to help you in your pursuit of happiness! 
 
 If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have and I will be happy to directly advise you the best I can.

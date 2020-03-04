@@ -27,6 +27,6 @@ This day was full of adventure and beauty, all complete before lunch!
 {% assign images = gallery["2014-11-07-villa-de-leyva"] %}
 {% include gallery-lightbox.html images=images %}
 
-\*this is an excerpt from [a longer article]({{ site.url }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).
+\*this is an excerpt from [a longer article]({{ site.url }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany]({{ site.url }}/germany/).
 
 Have you experienced the Colombian countryside? Please share your story in the comments below or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

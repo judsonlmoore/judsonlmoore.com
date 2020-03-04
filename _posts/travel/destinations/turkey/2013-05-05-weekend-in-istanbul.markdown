@@ -84,7 +84,7 @@ Topkapı Palace was the seat of the once great Ottoman Empire for over 400 yea
 
 Also known as the Spice Bazaar, the Mısır Çarşısı (Egyptian Bazaar) is quite likely the most delicious smelling place I have ever been. This massive sprawl of mostly spice and tea vendors sell their quality products in an open-air fashion which fills the air, and your nostrils, with wonderful smells. If this is a glimpse into what Egypt is like, then I can not wait to get there someday soon!
 
-> **Update:** I have now been to Egypt! Check out those stories [here](/egypt/).
+> **Update:** I have now been to Egypt! Check out those stories [here]({{ site.url }}/egypt/).
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
