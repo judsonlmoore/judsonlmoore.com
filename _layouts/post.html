@@ -72,9 +72,7 @@ post_class: post-template
 
             {% if page.image %}
             <!-- Post Featured Image -->
-            <div class="p-0">
-                {% cloudinary featured {{ site.url }}{{ page.image }} alt="{{ page.title }}" %}
-            </div>
+            {% cloudinary {{ site.url }}{{ page.image }} alt="{{ page.title }}" %}
             <!-- End Featured Image -->
             {% endif %}
 
