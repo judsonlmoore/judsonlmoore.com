@@ -8,11 +8,10 @@ tags:
   - travel
 layout:			post
 permalink:		/suez-canal-egypt-cruise/
-image:			/assets/images/2015/11/egypt-suez-canal-007.jpg
+image:			/assets/images/2015/11/egypt-suez-canal-006.jpg
 
 
 ---
-
 
 
 The Suez Canal isn't exactly a tourist destination, but that can't keep me from taking a leisure cruise on a presidential yacht on a beautiful day! The Suez Canal, a modern engineering marvel of staggering proportions, is a highly militarized zone in eastern Egypt, connecting the Mediterranean Sea and the Red Sea. Originally opened in 1869, the canal became the primary artery for goods to flow between east and west for over a hundred years. With so much trade traversing the canal, the capacity was deemed in need of a boost and so in 2014 work commenced which would increase the canal's capacity from 50 transits a day to 97, and cut waiting times from 18 to 11 hours.
@@ -28,7 +27,7 @@ In my case, I was invited by the Egyptian Government as part of an official dele
 
 On this picturesque day, we were escorted by military convoy from Cairo to Ismailia, the port city in the middle of the Suez Canal where the Suez Canal Authority headquarters is located. From here, all operations of the canal are overseen and coordinated with precision.
 
-{% cloudinary /assets/images/2015/11/egypt-suez-canal-005.jpg alt="The Egyptian Presidential Yacht" caption="The Egyptian Presidential Yacht" %}
+{% cloudinary /assets/images/2015/11/egypt-suez-canal-007.jpg alt="The Suez Canal Authority" caption="The Suez Canal Authority" %}
 
 ## Preparing to disembark on our Suez Canal cruise
 
@@ -43,6 +42,8 @@ Egypt had experienced several revolutions during recent years. In 2011 the Mubar
 As the freshly-minted president of Egypt, Sisi needed a cause that could unite Egyptians and bring everyone together for the economic prosperity of the country. He found his cause in the expansion of the Suez Canal. 
 
 In just over 6-months (192 days, to be exact), the Egyptian people provided the full funding for the Suez Canal expansion via bonds. Egyptians view the canal's benefit not just from its revenue potential. The canal's expansion was also for the creation of future opportunities for economic redundancy, strengthening industry, manufacturing, and the strategic viability of the whole region.
+
+{% cloudinary /assets/images/2015/11/egypt-suez-canal-005.jpg alt="The Egyptian Presidential Yacht" caption="The Egyptian Presidential Yacht" %}
 
 ## They had less time than they thought 
 
