@@ -182,35 +182,40 @@ Repetition, repetition, repetition! I said it before and I will say it again: fi
 
 ## I surveyed 30,000 Rotary Youth Exchange Students 
 
-I conducted [a survey on Facebook](https://www.facebook.com/groups/229463670434809/?post_id=2646133198767832) in a private group of 30,000 people called *You Know You're a Rotary Youth Exchange Student When...*. I wanted to know how much influence others had played on the decision for these people to leave their homes at a young age and participate in an exchange program. 
+I conducted [a survey on Facebook](https://www.facebook.com/groups/229463670434809/?post_id=2646133198767832) in a private group with 30,000 members called *You Know You're a Rotary Youth Exchange Student When...*. I wanted to know how much influence others had played on the decision for these students to leave their homes at a young age and participate in an exchange program. 
 
 The results surprised me...
 
 <div class="alert alert-secondary" role="alert">
     <h4 class="alert-heading">Survey results</h4>
-    <p>When you decided to do an exchange, how influential were others in helping you decide to do it?</p>
-    <div class="progress" style="height: 20px;">
-        <div class="progress-bar" role="progressbar" style="width: 74%;" aria-valuenow="74" aria-valuemin="0" aria-valuemax="100">Not at all = 384</div>
-        <div class="progress-bar bg-warning" role="progressbar" style="width: 17%;" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100">Neutral = 90</div>
-        <div class="progress-bar bg-danger" role="progressbar" style="width: 9%;" aria-valuenow="9" aria-valuemin="0" aria-valuemax="100">Very = 45</div>
+    <p class="lead">When you decided to do an exchange, how influential were others in helping you decide to do it?</p>
+    <div class="progress mb-3" style="height: 20px;">
+        <div class="progress-bar" role="progressbar" style="width: 74%;" aria-valuenow="74" aria-valuemin="0" aria-valuemax="100">74%</div>
+        <div class="progress-bar bg-warning" role="progressbar" style="width: 17%;" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100">17%</div>
+        <div class="progress-bar bg-danger" role="progressbar" style="width: 9%;" aria-valuenow="9" aria-valuemin="0" aria-valuemax="100">9%</div>
     </div>
+    <strong>N = 519</strong>
+    <span class="badge badge-pill badge-primary">Not at all (384)</span>
+    <span class="badge badge-pill badge-warning">Neutral (90)</span>
+    <span class="badge badge-pill badge-danger">Very (45)</span>
     <hr>
-    <p class="mb-0"><a href="https://www.facebook.com/groups/229463670434809/?post_id=2646133198767832" target="_blank">Source on private facebook group</a></p>
+    <p class="mb-0"><a href="https://www.facebook.com/groups/229463670434809/?post_id=2646133198767832" target="_blank">{% include icons/external-link.svg %} Source on private facebook group</a></p>
 </div>
 
 If most Rotary Youth Exchange Students claim that others were not at all influential in their decision to do an exchange year, what does that mean for Rotarians? How can you then make an impact on would-be youth program participants? 
 
-Well, I theorize that others' influence deserves more credit than it is receiving in this survey. I know it took me the better part of a decade before I started to acknowledge the importance that the role of adults in my life played in helping me arrive at the decisions that at the time I thought I was making on my own. 
+I imagine that the 74% of respondents who claim there was no outside influence on their decision to participate in a youth exchange program may also represent, in part, those children of Rotarians and others close to the Rotary family whos recruitment into Rotary Youth Programs is relatively easy. It's wonderful that those students are involved, but it isn't enough. This creates an echo chamber in Rotary and doesn't take full-enough advantage of Rotarians' ability to leverage the openness of the Youth Programs to be more inclusive in the community.
 
-That said, there are two clear things you can do: 
+## Tips for healthier recruitment into the Rotary family
 
-**1. Focus on the excited students**
-This is an easy thing. The ambitious students will come to you. They will be the children of other Rotarians and people you know. By all means, recruit them into the Rotary family. 
+Recruitment is hard and it is very tempting to only work with those ambitious students that you already have contact with. By all means, they should be encouraged to apply, but they shouldn't be the only applicants considered. Here are two things every Rotarian can do to improve Youth Program recruitment: 
 
-**2. Evangelize the benefits of our programs, earlier**
-For those students that are harder to find, more difficult to reach, or more timid about the grandiosity of Rotary and our programs, get the word to them at a younger age. Don't talk to 10th graders about youth exchange; talk to 6th graders about it. Get the dreaming started early and watch recruitment become all the easier later.
+1. **Evangelize the benefits of Rotary Youth Programs, earlier.** For those students that are harder to find, more difficult to reach, or more timid about the grandiosity of Rotary and our programs, get the word to them at a younger age. For example, you shouldn't be talking only to 10th graders about youth exchange; talk to 6th graders about it. Get them dreaming earlier and watch recruitment become all the easier later.
+2. **Look beyond the Rotary family.** Rotary's youth programs are open to the community, without any prerequisite of Rotary membership in their family. Embrace young people who express interest and find a way for them to get involved with Rotary. If your club or district isn't active with any youth programs, then work with students you're in touch with to get something started and take a leadership role in spreading the Rotary philosophies.
 
-## Watch my original presentation to the Rotary eClub of Silicon Valley
+There are a lot of creative ways to get young people's attention. Be sure that your club has a committee to discuss these topics and get to work!
+
+## Watch my original presentation
 
 You can read all of the meeting notes and find my original presentation on [the website of the Rotary eClub of Silicon Valley](https://www.siliconvalleyrotary.com/meeting-02-17-2020/). Alternatively, I've embedded the talk below. 
 

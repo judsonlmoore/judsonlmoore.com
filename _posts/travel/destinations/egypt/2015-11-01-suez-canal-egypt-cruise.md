@@ -1,6 +1,6 @@
 ---
-title:			Cruising Egypt's Suez Canal in a presidential yacht
-description:	I took a cruise down one of the most miliatrized areas of the world in a luxury yacht of the Egyptian president
+title:			How to visit the Suez Canal in a presidential yacht
+description:	Ever wonder how to visit the Suez Canal? Thanks to the Gabr Fellowship, I got to go there myself on a presidential pleasure cruise.
 author:			judsonlmoore
 date:			2015-11-01 21:08:48 Z
 categories:		egypt
