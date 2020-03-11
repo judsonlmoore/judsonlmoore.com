@@ -6,28 +6,23 @@ comments: false
 
 ---
 
-<div class="section mb-5 p-5">
+<h2>Reading list</h2>
 
-	<h2>Reading list</h2>
+<p>Here is a collection of my favorite books. Click the affiliate links to learn more and to purcahse on Amazon.</p>
 
-	<p>Here is a collection of my favorite books. Click the affiliate links to learn more and to purcahse on Amazon.</p>
+<hr>
 
-	{% for item in site.data.readinglist %}
-	<h4>{{ item.title }}</a></h4>
-	<small><strong>{{ item.author }}</strong> <em>{{ item.genre }}</em></small>
-	<p>{{ item.review }}</p>
-	<p><a href="{{ item.url }}">Buy on Amazon</a></p>
-	<hr>
-	{% endfor %}
-
+{% for item in site.data.readinglist %}
+<div class="row my-4">
+	<div class="col-2">
+		{% cloudinary assets/images/bookcovers/{{ item.image }} alt="Book cover of {{ item.title }} by {{ item.author }}" %}
+	</div>
+	<div class="col-10">
+		<h3 class="mb-0">{{ item.title }}</h3>
+		<p>by {{ item.author }} <span class="text-secondary"><small>genre: {{ item.genre }}</small></span></p>
+		<p class="lead">{{ item.review }}</p>
+		<p><a href="{{ item.url }}" class="btn btn-primary">Buy on Amazon</a></p>
+	</div>
 </div>
-
-<!-- 
-<div class="section">
-
-	<h2>Articles I am reading</h2>
-
-	<p>https://getpocket.com/users/judsonlmoore/feed/all</p>
-
-</div>
- -->
+<hr>
+{% endfor %}
