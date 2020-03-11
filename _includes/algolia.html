@@ -1,26 +1,8 @@
-  <div id="search-searchbar"></div>
-
-  <div class="post-list" id="search-hits">
-    {% for post in site.posts %}
-      <div class="post-item">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h2>
-
-        <div class="post-snippet">{{ post.excerpt }}</div>
-      </div>
-    {% endfor %}
-  </div>
-
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
+<base href="{{ site.url }}">
 
 <script>
 const search = instantsearch({
@@ -34,8 +16,7 @@ const hitTemplate = function(hit) {
   if (hit.date) {
     date = moment.unix(hit.date).format('MMM D, YYYY');
   }
-
-  let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+  let url = `{{ site.url }}${hit.url}#${hit.anchor}`;
 
   const title = hit._highlightResult.title.value;
 
@@ -45,7 +26,6 @@ const hitTemplate = function(hit) {
       return `<span class="post-breadcrumb">${match.value}</span>`
     }).join(' > ')
   }
-
   const content = hit._highlightResult.html.value;
 
   return `
@@ -63,7 +43,7 @@ search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
     placeholder: 'Search into posts...',
-    poweredBy: true // This is required if you're on the free Community plan
+    poweredBy: true
   })
 );
 

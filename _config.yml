@@ -109,8 +109,8 @@ exclude:
 
 # seaech api 
 algolia:
-  application_id: '7NL4THI97T'
-  index_name:     'judsonlmoore.com'
+  application_id: 7NL4THI97T
+  index_name: judsonlmoore.com
   search_only_api_key: 32a647216673c47b6e482d43e5c289a3
 
 # jekyll-paginate

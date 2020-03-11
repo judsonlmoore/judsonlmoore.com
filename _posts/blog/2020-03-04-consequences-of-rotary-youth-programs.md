@@ -75,9 +75,9 @@ All an investment needs to benefit from compounding interest is time. As the hum
     <footer class="blockquote-footer">Albert Einstein <cite title="Source Title">theoretical physicist</cite></footer>
 </blockquote>
 
-Just like with compounding interest in your financial investments, starting early and giving fully makes a big difference later in your life. Just reference the simple chart below. The red line is compounding, while the blue line is just 10% less input. What a difference it makes! So as my dear friend [Paul Cummings](https://www.paulcummings.com/blog/every-day-is-a-gift) says, "live your life at Level 10, every day, every time, without fail, no exceptions!"
+Just like with compounding interest in your financial investments, starting early and giving fully makes a big difference later in your life. Just reference the simple chart below. The blue line is compounding, while the red line is just 10% less input. What a difference it makes! So as my dear friend [Paul Cummings](https://www.paulcummings.com/blog/every-day-is-a-gift) says, "live your life at Level 10, every day, every time, without fail, no exceptions!"
 
-<img src="/assets/images/2020/01/exponential-happiness-curve.svg" class="img-fluid">
+<img src="/assets/images/2020/01/exponential-happiness-curve.svg" class="img-fluid" alt="Compounding line compared to 10% less input">
 
 ### What does Rotary have to do with the value of being young?
 
