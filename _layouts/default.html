@@ -115,10 +115,12 @@ layout: compress
             });
         </script>
 
-        {% if page.layout == 'post' or page.comments == true %}
-        <!-- Disqus -->
-        <script id="dsq-count-scr" src="https://{{ site.disqus }}.disqus.com/count.js" ></script>
-        {% endif %}
-        <script id="dsq-count-scr" src="//michaelkant.disqus.com/count.js" async></script>
+        <!-- Disqus Count -->
+        <script id="dsq-count-scr" src="https://{{ site.disqus }}.disqus.com/count.js" >
+            var disqus_config = function () {
+                this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }];
+            };
+        </script>
+
     </body>
 </html>
