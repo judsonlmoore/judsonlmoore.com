@@ -1,7 +1,6 @@
 ---
 title:			Ultimate reading list for product managers
-description:	Description
-excerpt:		Excerpt
+description:	This ultimate reading list for product managers includes books, articles, blogs, and even podcasts and some videos, all curated with the product management professional in mind.  
 author:			judsonlmoore
 date:			2020-03-14 05:08:48 Z
 categories:		['Product Management']
@@ -19,7 +18,7 @@ I've been reading product mangement and other business books, articles, blogs, a
 
 **Have something to ad?** Please leave me a comment at the bottom of this page to suggest additions to this list. 
 
-## Books
+## Books 
 
 This list contains general management and product management books. Certianly, reading in-depth about product managment is very valuable, but part of what makes a good product manager is to have broad knowledge, which is why I include general management and management books from other industries here.
 
