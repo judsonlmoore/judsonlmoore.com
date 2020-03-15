@@ -1,7 +1,7 @@
 ---
 title:			Application Submitted!
 date:			2010-09-29 04:00:00 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			peace corps
 author:			judsonlmoore
 layout:			post

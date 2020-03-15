@@ -1,7 +1,7 @@
 ---
 title:			FLEX Exam 2012 Bishkek
 date:			2012-10-14 12:46:46 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			accels, bishkek, flex, kyrgyzstan, testing
 author:			judsonlmoore
 layout:			post

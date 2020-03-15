@@ -1,7 +1,7 @@
 ---
 title:			Peace Corps Hardship
 date:			2012-03-20 15:03:03 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			lifestyle, peace corps, talas
 author:			judsonlmoore
 layout:			post

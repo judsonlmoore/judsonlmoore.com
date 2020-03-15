@@ -5,7 +5,7 @@ title: Home
 
 {% if page.url == "/" %}
 
-<section class="masthead mb-4 mb-lg-0">
+<section class="masthead mb-5">
     <div id="fullwidth-img" class="container-fluid py-5 mb-0 vh-75" style="background-image: url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/{% endif %}{{ site.url }}/assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg'); background-size: cover; background-position: center;">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
@@ -21,6 +21,7 @@ title: Home
             </div>
         </div>
     </div>
+
     <div class="mb-0 bg-light d-none d-lg-block">
         <div class="container"> 
             <div class="row justify-content-center text-center py-3">
@@ -34,78 +35,79 @@ title: Home
     </div>
 </section>
 
-<section class="topics container">
-    <div class="row my-5 d-none d-lg-flex">
-        {% for item in site.data.topics %}
-        <div class="col-lg-3 p-3">
-            <span><p class="h4">{% include icons/{{ item.icon }} %} {{ item.topic }}</p></span>
-            <p>{{ item.description }}</p>
+<section class="topics container mb-5">
+    <div class="row mb-5">
+        <div class="col-md-3 d-none d-lg-block">
+            {% cloudinary /assets/images/2016/05/avatar-judson-l-moore-transparent-bg.png alt="" description="" %}
         </div>
-        {% endfor %}
+        <div class="col-md-9">
+            <h2 class="display-5">Hi, I am Judson.</h2>
+            <p>I’m a product management professional with more than 20-years of work experience. My career has taken me across the globe to fill a variety of roles in a breadth of industries. My passions include applying technology and innovation to solving traditional problems, sharing my experiences through writing and interviews, and committing to making my community a better place for all who live in it.</p>
+            <p><mark>I offer one-on-one coaching services</mark> to people interested in <mark>personal and career growth</mark>, especially those who aren't sure what they want to do when they "grow up."</p>
+        </div> 
     </div>
-</section>
-
-<section class="examples container">
-    <div class="row mb-4">
-        <div class="col-lg-6">
-            {% cloudinary /assets/images/2018/05/wadi-rum-jordan-jumping-in-the-desert.jpg" alt="Judson jumping for joy in the Wadi Rum desert of Jordan" %}
+    <div class="row bg-light p-3">
+        <div class="col-md-3">
+            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                {% for item in site.data.topics %}
+                {% if forloop.first %}
+                <a class="nav-link active text-capitalize" id="v-pills-{{ item.topic }}-tab" data-toggle="pill" href="#v-pills-{{ item.topic }}" role="tab" aria-controls="v-pills-{{ item.topic }}" aria-selected="true">{% include icons/{{ item.icon }} %} {{ item.topic }}</a>
+                {% else %}
+                <a class="nav-link text-capitalize" id="v-pills-{{ item.topic }}-tab" data-toggle="pill" href="#v-pills-{{ item.topic }}" role="tab" aria-controls="v-pills-{{ item.topic }}" aria-selected="true">{% include icons/{{ item.icon }} %} {{ item.topic }}</a>
+                {% endif %}
+                {% endfor %}
+            </div>
         </div>
-        <div class="col-lg-6">
-            <h2 class="display-5">Pursuing happiness</h2>
-            <p>What does it take to be happy? No one can tell you the answer; you must discover it for yourself!</p>
-            <p>Nothing is more personal than defining what "happiness" means to you, but it is a complicated topic. Check out these articles about <a href="/happiness/">pursuing happiness</a> where I share my thoughts on the topic.</p>
+        <div class="col-md-9">
+            <div class="tab-content" id="v-pills-tabContent">
+                {% for item in site.data.topics %}
+                {% if forloop.first %}
+                <div class="tab-pane fade show active" id="v-pills-{{ item.topic }}" role="tabpanel" aria-labelledby="v-pills-{{ item.topic }}-tab">
+                {% else %}
+                <div class="tab-pane fade" id="v-pills-{{ item.topic }}" role="tabpanel" aria-labelledby="v-pills-{{ item.topic }}-tab">
+                {% endif %}
+                    <div class="row mb-4">
+                        <div class="col-lg-6">
+                            <p class="lead">{{ item.lead }}</p>
+                            {{ item.content }}
+                        </div>
+                        <div class="col-lg-6">
+                            {% cloudinary {{ item.image }} alt="{{ item.image-alt }}" style="object-fit: cover; width: 400px; height: 275px;" %}
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
         </div>
     </div>
-    <div class="row mb-4">
-        <div class="col-lg-6 order-lg-2">
-            {% cloudinary /assets/images/2020/01/judson-l-moore-speaks-at-rotary-club-of-alexandria.jpg alt="Judson speaks to the Rotary Club of Alexandria" %}
-        </div>
-        <div class="col-lg-6">
-            <h2 class="display-5">Community engagement</h2>
-            <p>My roots from an activist family, origin-story involving Rotary International, and years of volunteerism around the world have all contributed to my commitment to community.</p>
-            <p>I believe that having a strong commitment to community is enriching for everyone involved.</p>
-            <p>Some of my favorite community organizations include Rotary and the Red Cross.</p> 
-        </div>
-    </div>
-    <div class="row mb-4">
-        <div class="col-lg-6">
-            {% cloudinary /assets/images/2020/01/ce-atx-2020-students-holding-exponential-happiness-2.jpg" alt="" %}
-        </div>
-        <div class="col-lg-6">
-            <h2 class="display-5">Empowering youth</h2>
-            <p>After years of travel blogging and being asked how I've lived such an incredible life, I realized that it is time to pay forward the lessons and encouragements instilled in my at a young age.</p>
-            <p>In my book, <em><a href="/book/">Exponential Happiness</a></em>, I reveal all the words of wisdom that nudged me out the door when I was young. In addition, I share many of the professional tools that have helped me stay on-track with my goals.</p>
-            <p>These topics are also shared on the blog for <a href="/happiness/">happiness</a> and <a href="/whileyoung/">lifestyle</a>.</p>
-        </div>
-    </div>
-</section>
+</section> 
 
 <section class="blog container">
     <div class="row">
         <dir class="col">
             <h2 class="display-5">From the blog</h2>
-            <div class="row row-cols-1 row-cols-md-3">
-                {% for post in site.posts %}
-                    {% if post.featured == true %}
-                        {% include postbox.html %}
-                    {% endif %}
-                {% endfor %}
-            </div>
-{% else %}
-<section class="blog container">
-    <div class="row">
-        <div class="col">
-{% endif %}
-            <div class="row text-light bg-dark my-5 mx-1 p-4 text-center align-middle">
-                <p class="h4"><span class=""><strong>Do you want to <em>experience</em> the world?</strong> I encourage you to get an <u>early</u> start at living a full and adventurous life by providing tips for living your "what if" <strong>#WhileYoung</strong>.</span></p>
-                {% include modal-opt-in.html btn-text="Sounds great, tell me more!" %}
-            </div>
-            <div class="row row-cols-1 row-cols-md-3 mb-4">
-                {% for post in paginator.posts %}
-                    {% include postbox.html %}
-                {% endfor %}
-            </div>
-            {% include pagination.html %}
+            {% include category-modual.html %}
         </dir>
     </div>
+</section>
+
+{% endif %}
+
+<section class="blog container my-5">
+    <div class="p-4 mb-5 text-light bg-dark text-center">
+        <p class="h4"><strong>Do you want to <em>experience</em> the world?</strong> I encourage you to get an <u>early</u> start at living a full and adventurous life by providing tips for living your "what if" <strong>#WhileYoung</strong>.</p>
+        {% include modal-opt-in.html btn-text="Sounds great, tell me more!" %}
+    </div>
+    <div class="row row-cols-1 row-cols-md-3 mb-4">
+        {% if page.url == "/" %}
+            {% for post in paginator.posts limit:6 %}
+                {% include postbox.html %}
+            {% endfor %}
+        {% else %}
+            {% for post in paginator.posts %}
+                {% include postbox.html %}
+            {% endfor %}
+        {% endif %}
+    </div>
+    {% include pagination.html %}
 </section>

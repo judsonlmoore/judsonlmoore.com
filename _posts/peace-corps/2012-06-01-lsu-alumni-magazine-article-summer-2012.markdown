@@ -1,7 +1,7 @@
 ---
 title:			LSU Alumni Magazine Article - Summer 2012
 date:			2012-06-01 14:42:06 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			kyrgyzstan, lsu, lsu alumni, peace corps, published, talas
 author:			judsonlmoore
 layout:			post

@@ -1,7 +1,7 @@
 ---
 title:			Kyrgyzstan + Anthropology
 date:			2011-02-02 16:50:14 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			peace corps
 author:			judsonlmoore
 layout:			post

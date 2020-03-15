@@ -1,7 +1,7 @@
 ---
 title:			I have Arrived at Staging
 date:			2011-03-24 20:10:00 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			peace corps
 author:			judsonlmoore
 layout:			post

@@ -84,6 +84,13 @@ cloudinary:
       attributes:
         class: "img-fluid"
         loading: "lazy"
+    thumbnail:
+      min_width: 16
+      min_height: 16
+      max_width: 128
+      max_height: 128
+      fallback_max_width: 64
+
 
 sass:
   load_paths:

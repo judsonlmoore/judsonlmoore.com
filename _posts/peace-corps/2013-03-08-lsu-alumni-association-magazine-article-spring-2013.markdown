@@ -1,7 +1,7 @@
 ---
 title:			LSU Alumni Association Magazine Article - Spring 2013
 date:			2013-03-08 15:26:21 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, kyrgyzstan, lsu, lsu alumni, peace corps, published
 author:			judsonlmoore
 layout:			post

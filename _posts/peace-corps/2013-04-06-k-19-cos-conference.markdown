@@ -1,7 +1,7 @@
 ---
 title:			K-19 COS Conference
 date:			2013-04-06 22:52:05 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			cos, kyrgyzstan, peace corps, rpcv
 author:			judsonlmoore
 layout:			post

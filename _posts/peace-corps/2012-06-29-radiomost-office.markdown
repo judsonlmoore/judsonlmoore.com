@@ -1,7 +1,7 @@
 ---
 title:			Radiomost Office
 date:			2012-06-29 06:42:03 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			kyrgyzstan, peace corps, radiomost, talas
 author:			judsonlmoore
 layout:			post

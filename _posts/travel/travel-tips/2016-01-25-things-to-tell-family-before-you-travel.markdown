@@ -1,7 +1,7 @@
 ---
 title:			8 Things to Tell Your Family Before You Travel
 date:			2016-01-25 05:55:49 Z
-categories:		travel-tips
+categories:		['travel tips']
 tags:			whileyoung
 author:			judsonlmoore
 excerpt:		Before you travel use these tips for keeping your family informed without making them overly concerned and without driving yourself crazy in the process.

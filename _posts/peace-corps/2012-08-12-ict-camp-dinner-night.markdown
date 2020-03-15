@@ -1,7 +1,7 @@
 ---
 title:			ICT Camp Dinner Night
 date:			2012-08-12 23:43:46 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, dinner party, friends, ict, jinga, kyrgyz culture, kyrgyzstan
 author:			judsonlmoore
 layout:			post

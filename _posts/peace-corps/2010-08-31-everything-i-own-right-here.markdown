@@ -1,7 +1,7 @@
 ---
 title:			Everything I Own, Right Here.
 date:			2010-08-31 14:03:16 Z
-categories:		peace corps
+categories:		['peace corps']
 author:			judsonlmoore
 layout:			post
 image:			/assets/images/2010/08/everything-i-own-right-here.jpg

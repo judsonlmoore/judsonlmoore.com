@@ -1,7 +1,7 @@
 ---
 title:			Merry Christmas (Russian Orthodox)
 date:			2013-01-07 18:56:11 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, christmas, holiday, kyrgyzstan, orthodox, religion
 author:			judsonlmoore
 layout:			post

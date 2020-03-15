@@ -1,7 +1,7 @@
 ---
 title:			The Nature of My Work
 date:			2011-07-03 20:40:04 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			peace corps, talas
 author:			judsonlmoore
 layout:			post

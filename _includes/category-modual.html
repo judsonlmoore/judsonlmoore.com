@@ -1,0 +1,60 @@
+<ul class="nav nav-pills mb-3 flex-nowrap overflow-auto text-capitalize text-nowrap" id="pills-tab" role="tablist">
+	{% for category in site.categories %}
+	{% assign cat_name = category[0] | split: " " %}
+	<li class="nav-item">
+		{% if forloop.first %}
+	    <a class="nav-link active" id="pills-{{ cat_name | join: "-" }}-tab" data-toggle="pill" href="#pills-{{ cat_name | join: "-" }}" role="tab" aria-controls="pills-{{ cat_name | join: "-" }}" aria-selected="true">{{ cat_name | join: " " }}</a>
+		{% else %}
+	    <a class="nav-link" id="pills-{{ cat_name | join: "-" }}-tab" data-toggle="pill" href="#pills-{{ cat_name | join: "-" }}" role="tab" aria-controls="pills-{{ cat_name | join: "-" }}" aria-selected="true">{{ cat_name | join: " " }}</a>
+		{% endif %}
+	</li>
+	{% endfor %}
+</ul>
+
+<div class="tab-content" id="pills-tabContent">
+	{% for category in site.categories %}
+    {% assign cat_name = category[0] | split: " " %}
+	{% if forloop.first %}
+	<div class="tab-pane fade show active" id="pills-{{ cat_name | join: "-" }}" role="tabpanel" aria-labelledby="pills-{{ cat_name | join: "-" }}-tab">
+	{% else %}
+	<div class="tab-pane fade" id="pills-{{ cat_name | join: "-" }}" role="tabpanel" aria-labelledby="pills-{{ cat_name | join: "-" }}-tab">
+	{% endif %}
+
+		<div class="row">
+
+	        <div class="col-md-6 position-relative mb-5 mb-lg-0"> 
+	        	{% for post in category[1] limit:1 %}
+	        	<div class="media position-relative">
+	        		<a href="{{ site.url }}{{ post.url }}">
+						{% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" style="object-fit: cover; width: 590px; height: 390px;" %}
+					</a>
+					<div class="carousel-caption">
+						<h5>{{ post.title }}</h5>
+						<p>{{ post.excerpt | strip_html | truncatewords:20 }}</p>
+						<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
+					</div>
+				</div>
+	    		{% endfor %}
+	    	</div>
+
+	    	<div class="col-md-6">
+	    		{% for post in category[1] limit:4 offset:1 %}
+				<div class="media position-relative mb-3 pb-3">
+					{% if post.image %}
+				    {% cloudinary thumbnail {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="mr-3" style="object-fit: cover; width: 64px; height: 64px;" %}
+				    {% endif %}
+					<div class="media-body">
+						<p class="my-0"><strong>{{ post.title }}</strong></p>
+						<p class="my-0">{{ post.excerpt | strip_html | truncatewords:20 }}</p>
+						<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
+					</div>
+				</div>
+				{% endfor %}
+	        </div>
+			
+		</div>
+
+	</div>
+	{% endfor %}
+
+</div>

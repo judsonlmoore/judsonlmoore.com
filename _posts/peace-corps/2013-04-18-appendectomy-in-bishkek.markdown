@@ -1,7 +1,7 @@
 ---
 title:			Appendectomy In Bishkek
 date:			2013-04-18 20:42:04 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			appendectomy, bishkek, health, kyrgyzstan, peace corps, travel safety
 author:			judsonlmoore
 layout:			post

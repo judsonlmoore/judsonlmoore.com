@@ -1,7 +1,7 @@
 ---
 title:			Peela Chai Each
 date:			2011-07-27 17:01:00 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			culture, k10, kyrgyzstan, pcvs, peace corps, pixies, radiomost, talas
 author:			judsonlmoore
 layout:			post

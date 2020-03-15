@@ -1,7 +1,7 @@
 ---
 title:			Sushi Nights
 date:			2012-06-25 06:40:51 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, cooking, culture exchange, kyrgyzstan, peace corps, sushi, thanks
 author:			judsonlmoore
 layout:			post

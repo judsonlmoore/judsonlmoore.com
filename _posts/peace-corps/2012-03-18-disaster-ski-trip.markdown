@@ -1,7 +1,7 @@
 ---
 title:			Disaster Ski Trip
 date:			2012-03-18 06:59:44 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, disaster, kyrgyzstan, ski kg, aki trip, skiing, tik
 author:			judsonlmoore
 layout:			post

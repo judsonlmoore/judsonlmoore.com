@@ -1,15 +1,41 @@
-- topic: Goals
-  description: Setting goals and pursuing them is hard. Let's work on yours together.
-  icon: chart-line-solid.svg
-
-- topic: Happiness
-  description: The pursuit of happiness is a lifelong endeavor. I've got tools to help.
+- topic: happiness
+  lead: The pursuit of happiness is a lifelong endeavor. I've got tools to help you on your journey
+  content: <p><strong>What does it take to be happy?</strong> No one can tell you the answer; you must discover it for yourself!</p><p>Nothing is more personal than defining what "happiness" means to you, but it is a complicated topic. Check out these articles about <a href="/happiness/">pursuing happiness</a> where I share my thoughts on the topic.</p>
+  image: /assets/images/2018/05/wadi-rum-jordan-jumping-in-the-desert.jpg
+  image-alt: Judson jumping for joy in the Wadi Rum desert of Jordan
   icon: laugh-regular.svg
 
-- topic: Travel
-  description: Travel sets you free and teaches you more than anything else.
-  icon: plane-solid.svg
+- topic: goals
+  lead: Setting goals and pursuing them is hard. Let's work on yours together
+  content: <p><strong>What you need is a plan</strong>. I've got tools to help you make a plan you can put in to action.</p><p>Both shorterm and longterm plans are easy to make and achievable to execute with suprisingly little upfront effort. And don't forget, the most important part of any plan is flexibility to change.</p>
+  image: /assets/images/2020/01/philosophy-4-a-bad-plan-is-better-than-no-plan.png
+  image-alt: needed
+  icon: chart-line-solid.svg
 
-- topic: Career
-  description: Tips for setting career goals, negotiations, resume writing.
+- topic: career
+  lead: Tips for setting career goals, negotiations, and resume writing
+  content: <p><strong>What do you want to be when you grow up?</strong> It's never too late to change your answer to that question. Through research, learning, determination, and finding a mentor, it's never too late to reinvent yourself.</p><p>I've worked in a dozen industries in multiple countries. Let me provide you with inspiration to pursue your dream job.</p>
+  image: /assets/images/2020/01/philosophy-3-suffering-does-not-make-you-stronger-learning-does.png
+  image-alt: needed
   icon: handshake-regular.svg
+
+- topic: community
+  lead: Having a strong commitment to community is vital to being the rising tide that lifts all boats
+  content: <p><strong>You get out what you put in.</strong> My roots from an activist family, origin-story with Rotary International, and years of volunteerism around the world have all contributed to my commitment to community.</p><p>I believe that having a strong commitment to community is enriching for everyone concerned. Let me help you lend a hand.</p>
+  image: /assets/images/2020/01/judson-l-moore-speaks-at-rotary-club-of-alexandria.jpg
+  image-alt: Judson speaks to the Rotary Club of Alexandria
+  icon: users-solid.svg
+
+- topic: youth
+  lead: Youth is the one asset that once spent, it is gone forever
+  content: <p><strong>How are you spending your youth? (An applicable question at any age!)</strong> In my book, <em><a href=/book/">Exponential Happiness</a></em>, I reveal the words of wisdom that nudged me out the door when I was young. In addition, I share many of the professional tools that have helped me stay on-track with my goals.</p><p>These topics are also shared on the blog for <a href="/happiness/">happiness</a> and <a href="/lifestyle/">lifestyle</a>.</p>
+  image: /assets/images/2020/01/ce-atx-2020-students-holding-exponential-happiness-2.jpg
+  image-alt: Students holding Judson's book, Exponential Happiness
+  icon: child-solid.svg
+
+- topic: travel
+  lead: Travel sets you free and teaches you more than anything else ever could
+  content: <p><strong>Do you want to travel and see more of the world?</strong> I have been very blessed with many opportunities to travel far and wide around the world. They didn't always come easy, and some required downright sacrifice, but I wouldn't undo a single one of my trips.</p><p>Read my travel blog or get in touch with me for help planning your next adventure.</p>
+  image: /assets/images/2015/03/minaal-bag.jpg
+  image-alt: needed
+  icon: plane-solid.svg

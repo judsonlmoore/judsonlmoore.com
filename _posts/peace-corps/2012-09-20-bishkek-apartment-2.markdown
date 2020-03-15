@@ -1,7 +1,7 @@
 ---
 title:			Bishkek Apartment #2
 date:			2012-09-20 06:36:46 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			apartment, bishkek, kyrgyzstan, lifestyle, living conditions, peace corps
 author:			judsonlmoore
 layout:			post

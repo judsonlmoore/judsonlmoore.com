@@ -1,7 +1,7 @@
 ---
 title:			2012 4th of July Bishkek Embassy Party
 date:			2012-07-04 06:38:52 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			4th of july, bishkek, culture, embassy, kyrgyzstan, party, peace corps
 author:			judsonlmoore
 layout:			post

@@ -1,7 +1,7 @@
 ---
 title:			Moving To Bishkek - New City. New Work. New Address.
 date:			2012-09-17 20:21:04 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, kloop, kyrgyzstan, peace corps, site change
 author:			judsonlmoore
 excerpt:		I am moving To Bishkek, Kyrgyzstan to continue to the next step of my Peace Corps Service. Get all of my new details and learn about my new project here.

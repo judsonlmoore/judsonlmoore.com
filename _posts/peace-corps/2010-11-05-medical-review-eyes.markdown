@@ -1,7 +1,7 @@
 ---
 title:			Medical Review - Eyes
 date:			2010-11-05 04:00:00 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			peace corps
 author:			judsonlmoore
 layout:			post

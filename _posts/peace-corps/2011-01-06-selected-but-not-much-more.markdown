@@ -1,7 +1,7 @@
 ---
 title:			Selected! But Not Much More...
 date:			2011-01-06 05:00:00 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			peace corps
 author:			judsonlmoore
 layout:			post

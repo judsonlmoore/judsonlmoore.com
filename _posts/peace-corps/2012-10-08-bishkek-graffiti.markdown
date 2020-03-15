@@ -1,7 +1,7 @@
 ---
 title:			Bishkek Graffiti
 date:			2012-10-08 14:34:41 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, graffiti, kyrgyz culture, kyrgyzstan, photos
 author:			judsonlmoore
 layout:			post

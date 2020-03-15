@@ -1,7 +1,7 @@
 ---
 title:			Besh Tash with Family
 date:			2012-07-14 06:38:27 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			besh tash, kyrgyz culture, kyrgyzstan, peace corps, talas
 author:			judsonlmoore
 layout:			post

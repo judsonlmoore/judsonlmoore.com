@@ -1,7 +1,7 @@
 ---
 title:			Program Travel Report Nov 13-27, 2011
 date:			2011-12-02 16:00:00 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, kyrgyzstan, peace corps, talas
 author:			judsonlmoore
 layout:			post

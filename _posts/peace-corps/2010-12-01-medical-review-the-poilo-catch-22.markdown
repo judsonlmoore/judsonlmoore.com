@@ -1,7 +1,7 @@
 ---
 title:			Medical Review - The Poilo Catch 22
 date:			2010-12-01 05:00:00 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			peace corps
 author:			judsonlmoore
 layout:			post

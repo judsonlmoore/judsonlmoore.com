@@ -1,7 +1,7 @@
 ---
 title:			Almanbet's Brother's Wedding
 date:			2012-09-19 03:20:43 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan, party, wedding
 author:			judsonlmoore
 layout:			post

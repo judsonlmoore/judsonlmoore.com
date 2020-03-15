@@ -1,7 +1,7 @@
 ---
 title:			What happened when I traveled alone in Beijing
 date:			2017-10-03 10:00:01 Z
-categories:		female travel
+categories:		['female travel']
 tags:			female travel, guest author, travel tips
 author:			kellybranyik
 excerpt:		Returned Peace Corps Volunteer and author of the Propitious Panda blog and the new book "It Depends" shares a tale of solo travel in Beijing.
@@ -46,7 +46,7 @@ I continued to the stone steps that would lead me up onto the wall and then head
 
 I stood on that wall, for as a long as I could, touching the stone to keep the memory real. When I felt my lingering was overdone, I walked back down to the entrance toward the train that would take me back into the city.
 
-**Additional Reading: [Solo Female Travel Advice]({{ site.url }}/female-travel/)**
+**Additional Reading: [Solo Female Travel Advice]({{ site.url }}/['female travel']/)**
 
 ## The Train Ride Back to Beijing
 

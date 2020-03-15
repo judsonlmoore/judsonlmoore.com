@@ -3,7 +3,7 @@
 	{% assign author = site.authors[post.author] %}
 	<div class="card h-100">
 	    {% if post.image %}
-	    <a href="{{ site.url }}{{ post.url }}">{% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" %}</a>
+	    <a href="{{ site.url }}{{ post.url }}">{% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" style="object-fit: cover; width: 385px; height: 300px;"%}</a>
 	    {% endif %}
 	    <div class="card-body">
 	        <h5 class="card-title mb-0">{{ post.title }}</h5>

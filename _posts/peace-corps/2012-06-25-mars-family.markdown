@@ -1,7 +1,7 @@
 ---
 title:			Mars Family
 date:			2012-06-25 06:40:10 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bishkek, friends, kyrgyz culture, kyrgyzstan
 author:			judsonlmoore
 layout:			post

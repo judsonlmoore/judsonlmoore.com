@@ -1,7 +1,7 @@
 ---
 title:			Almanbet's Birthday Cookout
 date:			2012-08-19 20:33:09 Z
-categories:		peace corps
+categories:		['peace corps']
 tags:			bbq, birthday, culture exchange, day trips, kyrgyz culture, kyrgyzstan, mountains, nature
 author:			judsonlmoore
 layout:			post
