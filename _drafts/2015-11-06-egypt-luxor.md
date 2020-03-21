@@ -1,7 +1,6 @@
 ---
 title:			Luxor
-description:	Description
-excerpt:		Excerpt
+description:	x
 author:			judsonlmoore
 date:			2015-11-06 21:08:48 Z
 categories:		egypt

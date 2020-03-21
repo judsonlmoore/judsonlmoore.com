@@ -1,8 +1,8 @@
 ---
-layout: default
-disqus: true
-archive: false
-post_class: post-template
+layout:         default
+disqus:         true
+archive:        false
+post_class:     post-template
 ---
 
 <div class="container mt-3 mt-md-5">
@@ -18,7 +18,7 @@ post_class: post-template
 
                     <!-- Post Categories/Tags -->
                     {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories %}
+                    {% for category in sortedCategories limit:1 %}
                     <a class="text-uppercase font-weight-bold font-italic" href="{{site.url}}/categories#{{ category }}">
                         <span>{{ category }}</span>
                     </a>

@@ -1,13 +1,13 @@
 ---
-title: Denmark Travel Guide
-subtitle: The southern territory of Scandinavia
-Description: Plan your visit to Denmark and find out where to go and what to do in Denmark. Read about itineraries, activities, places to stay and travel essentials...
-permalink: "/Denmark/"
-layout: fullwidth-hero
-category: denmark
-image: /assets/images/2015/10/ouro-preto.jpg
+title: 			Denmark Travel Guide
+subtitle: 		The southernmost territory of Scandinavia
+description: 	Plan your visit to Denmark and find out where to go and what to do in Denmark. Read about itineraries, activities, places to stay and travel essentials.
+permalink: 		"/denmark/"
+layout: 		fullwidth-hero
+category: 		denmark
+image: 			/assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg
 ---
 
-## How my time in Brazil changed my life
+## Piecing together the home of Lego
 
-With an overwhelming need to scratch my newly-acquired wanderlust itch, I set out on a six month solo backpacking trip in Brazil as soon as I finished high school. During my Rotary Youth Exchange year, I had come to know many people from all over the world, including a large number of Brazilians. While in Brazil, I stayed in the homes of my friends, many of which were Rotarians, and so I had many opportunities to present at Rotary Clubs and participate in community projects. The people I met, the strife I witnessed, the beauty of the people and the culture, all set me down the path of my life’s work: to impact communities on the international stage.
+What do a nordic cruise, a royal ship, and a bike tour have in common? Let's find out! Denmark is the southernmost of the Scandinavian countries and the only one with a land border to mainland Europe. Denmark is a constitutional monarchy with a ruling queen, Margrethe II. The Danes also invented Lego (my favorite childhood toy) and continue to operate the second-oldest operating amusement park in the world.

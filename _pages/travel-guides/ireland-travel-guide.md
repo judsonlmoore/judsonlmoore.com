@@ -1,13 +1,13 @@
 ---
-title: Ireland Travel Guide
-subtitle:
-Description: Plan your visit to Ireland and find out where to go and what to do in Ireland. Read about itineraries, activities, places to stay and travel essentials...
-permalink: "/ireland/"
-layout: fullwidth-hero
-category: ireland
-image: /assets/images/2015/10/ouro-preto.jpg
+title: 			Ireland Travel Guide
+subtitle:		The world's luckiest people
+description:	Plan your visit to Ireland and find out where to go and what to do in Ireland. Read about itineraries, activities, places to stay and travel essentials.
+permalink: 		"/ireland/"
+layout: 		fullwidth-hero
+category: 		ireland
+image: 			/assets/images/2020/02/ireland-donegal-giants-causeway-006.jpg
 ---
 
-## Ireland
+## I learned that I am Irish!
 
-With an overwhelming need to scratch my newly-acquired wanderlust itch, I set out on a six month solo backpacking trip in Brazil as soon as I finished high school. During my Rotary Youth Exchange year, I had come to know many people from all over the world, including a large number of Brazilians. While in Brazil, I stayed in the homes of my friends, many of which were Rotarians, and so I had many opportunities to present at Rotary Clubs and participate in community projects. The people I met, the strife I witnessed, the beauty of the people and the culture, all set me down the path of my life’s work: to impact communities on the international stage.
+Ireland is a gorgeous country with wonderful people and a rich heritage. From 2017-2019 I made multiple trips to the isle and explored some of the world's most untouched wilderness, toured haunted castles, and drank from the world's finest breweries and distilleries. The Irish people are lovely in every regard and their hospitality rivals only that of my home in the American South. A trip to Ireland is a must-do in your lifetime.

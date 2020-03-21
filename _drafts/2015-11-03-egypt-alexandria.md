@@ -1,7 +1,6 @@
 ---
 title:			Alexandria Egypt Travel Guide
-description:	Description
-excerpt:		Excerpt
+description:	x
 author:			judsonlmoore
 date:			2015-11-03 21:08:48 Z
 categories:		egypt

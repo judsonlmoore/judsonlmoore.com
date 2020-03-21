@@ -203,6 +203,9 @@ Don't forget to look outside of your post content for images. Images appear in a
 
 {% cloudinary /assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" %}
 
+## Headers
+[Adding HTTP Security Headers Using Lambda@Edge and Amazon CloudFront](https://aws.amazon.com/blogs/networking-and-content-delivery/adding-http-security-headers-using-lambdaedge-and-amazon-cloudfront/)
+
 ## Conclusion
 
 One note: Did not migrate e-commerce pages 

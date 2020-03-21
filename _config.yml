@@ -91,7 +91,6 @@ cloudinary:
       max_height: 128
       fallback_max_width: 64
 
-
 sass:
   load_paths:
     - _sass

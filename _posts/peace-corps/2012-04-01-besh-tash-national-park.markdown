@@ -1,12 +1,12 @@
 ---
 title:			Besh Tash National Park
 date:			2012-04-01 06:42:50 Z
-categories:		['peace corps']
+categories:		['peace corps', kyrgyzstan]
 tags:			besh tash, hiking, kyrgyzstan, peace corps, talas
 author:			judsonlmoore
 layout:			post
-image:			
-
+image:			/assets/images/2012/04/P1020570.jpg
+permalink:		/besh-tash-national-park/
 
 ---
 
@@ -14,4 +14,4 @@ In preparation for the 2012 Talas GLOW/TOBE Camp I needed to make a site visit
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-04-01-besh-tash-national-park"] %}
-{% include gallery-lightbox.html images=images %}
+{% include gallery-lightbox.html images=images %} 

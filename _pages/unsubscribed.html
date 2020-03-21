@@ -1,49 +1,23 @@
 ---
-title: You have been unsubscribed
-permalink: "/unsubscribed/"
-layout: page
-comments: false
-
+title:          You have been unsubscribed
+description:    A farewell note to people who have unsubscribed from my newsletter
+permalink:      "/unsubscribed/"
+layout:         page
+sitemap:        false
+comments:       false
 ---
+
 
 <div class="row">
 
-	<div class="col-lg-8">
+	<div class="col">
 
-		<h2>You Have Been Unsubscribed</h2>
+        <div class="alert alert-success" role="alert">You Have Been Unsubscribed</div>
 
-		<p>I wish you and yours the utmost success in your future adventures. Whenever you need some advice or inspiration, I will still be right here waiting.<br> Best,<br> Judson L Moore</p>
+		<p>I wish you and yours the utmost success in your future adventures. Whenever you need some advice or inspiration, I will still be right here waiting.<br><br>All the Best,<br>Judson L Moore</p>
 
-	</div>
-
-	<div class="col-lg-4">
-		
-        <h2>Resubscribe</h2>
-
-        <p>Oh! Was that an accident? No problem! You can resubscribe by clicking this button:</p>
-
-        <a href="{{ site.url }}/subscribe/" class="btn btn-outline-dark btn-lg btn-block" role="button" target="_blank">{% include icons/download.svg %} Resubscribe Here</a>
+        {% include modal-opt-in.html btn-text="Resubscribe" %}
 
 	</div>
 
 </div>
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-
-    <div class="section-title">
-        <h2><span>Read these popular posts</span></h2>
-    </div>
-
-    <div class="row">
-
-        {% for post in site.posts %}
-            {% if post.featured == true %}
-                {% include postbox.html %}
-            {% endif %}
-        {% endfor %}
-
-    </div>
-
-</section>

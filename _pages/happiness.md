@@ -8,8 +8,8 @@ comments:		false
 category:		happiness
 image:			/assets/images/2019/05/exponential-happiness-background.jpg
 color:			fba828
-
 ---
+
 
 ## My life philosophies
 

@@ -4,17 +4,16 @@ date:			2011-06-29 20:53:02 Z
 categories:		['peace corps']
 tags:			peace corps, talas
 author:			judsonlmoore
-permalink: 		kyrgyz-poem-for-my-birthday
+permalink: 		/kyrgyz-poem-for-my-birthday/
 layout:			post
 image:			
-
-
 ---
 
-For my birthday, the Press Secretary to the Governor of Talas State wrote me
-a song. Here it is in Kyrgyz, I will try to translate it later:
 
-Жатсон доско тамаша!
+For my birthday, the Press Secretary to the Governor of Talas State wrote me
+a song. Here it is in the original Kyrgyz, and a (bad) translation of the text from Google Translate. 
+
+## Жатсон доско тамаша! (Kyrgyz)
 
 Океандын ар жагы, болсо да Жатсон турагы,
 Алыстан аттын арытып Таласка келген убагы.
@@ -35,3 +34,25 @@ a song. Here it is in Kyrgyz, I will try to translate it later:
 Анткени кучоп баратат айканын дагы шайтаны,
 Жарабай десе ал кызды берели анда Гаврошту,
 Тугойлуу кылып койолу ушинтип биздин жан досту!
+
+## Judson a friend! (English)
+
+Although each side of the ocean, and the beauty of Judson
+Time to scan from a distance horse caravan.
+Inadequate knowledge of the arrival of a young boy, kubanntı
+The project will be a lot of money, probably texting us.
+
+Anyway, friends, members of the giant wrestlers,
+Speak much of the language, knows, and knows different.
+I'm surprised more than anything else, and looks young gambler,
+Manas name Aykoldon more courage!
+
+Candy benevolence in general, refers to the formal!
+With much of the time is a joke, taypanız
+Activate koloktop girls not to go,
+If you select the radio Mostar to go far!
+
+If the combination may be filled with a friend,
+For it is the resilience of the cross, Demon,
+Let's say she was not fit for it, Gavroştu
+Couples have chosen not to make this our friend!

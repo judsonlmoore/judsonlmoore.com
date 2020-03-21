@@ -1,10 +1,11 @@
 ---
-title: Ask Me Anything
-subtitle: Connect directly with Judson and ask him anything
-permalink: "/ama/"
-layout: fullwidth-hero
-comments: true
-image: /assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
+title: 			Ask Me Anything
+subtitle: 		Connect directly with Judson and ask him anything
+description: 	x
+permalink: 		"/ama/"
+layout: 		fullwidth-hero
+comments: 		true
+image: 			/assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
 ---
 
 

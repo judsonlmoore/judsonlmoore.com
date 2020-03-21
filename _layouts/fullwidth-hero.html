@@ -3,21 +3,21 @@ title: fullwidth-hero
 layout: default 
 --- 
 
-<!-- Header -->
+
 <div 
 	id="fullwidth-img" 
 	class="container-fluid py-5 mb-0 mb-sm-5 vh-50" 
-	style="background-image: url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/{% endif %}{{ site.url }}{{ page.image }}'); background-size: cover; background-position: center;">
+	style="background-image: url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1400,ar_3.9,c_crop/{% endif %}{{ site.url }}{{ page.image }}'); background-size: cover; background-position: center;">
 	<div class="container h-100">
 		<div class="row h-100 align-items-center">
 		    <div class="col-lg-12">
-				<h1 class="display-3 font-weight-bolder text-white mt-5 mb-2" style="line-height: 1.5em;">
-					<span style="background-color: {% if page.color %}#{{ page.color }}{% else %}#000000{% endif %}; padding: .1rem .4rem 0 .3rem;">
+				<h1 class="display-4 font-weight-bolder text-white mt-3 mt-md-5 mb-2" style="line-height: 1.8em;">
+					<span class="bg-dark p-1">
 					{{ page.title }}
 					</span>
 				</h1>
 				<h3 class="display-5 font-weight-bolder text-white mb-5">
-					<span style="background-color: {% if page.color %}#{{ page.color }}{% else %}#000000{% endif %}; padding: .1rem .4rem 0 .3rem;">
+					<span class="bg-dark p-1">
 					{{ page.subtitle }}
 					</span>
 				</h3>
@@ -25,12 +25,16 @@ layout: default
 		</div>
 	</div>
 </div>
-<!-- /Header -->
 
-<!-- container -->
 <div class="container bg-white my-3 my-md-5">
 
-	{{content}}
+	<div class="row">
+		<div class="col">
+			<div class="column-2">
+				{{content}}
+			</div>
+		</div>
+	</div>
 
 	<h2>Blog posts about <span class="text-capitalize">{{ page.category }}</span></h2>
 	<div class="row row-cols-1 row-cols-md-3">
@@ -40,4 +44,3 @@ layout: default
 		{% endfor %}
 	</div>
 </div>
-<!-- /container -->

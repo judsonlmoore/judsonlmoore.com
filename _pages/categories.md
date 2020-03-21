@@ -1,7 +1,7 @@
 ---
-title: Categories
-permalink: "/categories/"
-layout: categories
-
+title: 			Categories
+description: 	x
+permalink: 		"/categories/"
+layout: 		categories
 ---
 

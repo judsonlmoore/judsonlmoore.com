@@ -1,9 +1,9 @@
 ---
-title: Refund Policy
-permalink: "/refund-policy/"
-layout: page
-comments: false
-
+title:			Refund Policy
+description:	The details of this website's refund policy are defined here.
+permalink:		"/refund-policy/"
+layout:			page
+comments:		false
 ---
 
 
@@ -11,7 +11,9 @@ comments: false
 
 <p><a href="{{ site.url }}/terms-and-conditions/">Terms and Conditions</a> | <a href="{{ site.url }}/refund-policy/">Refund Policy</a> | <a href="{{ site.url }}/privacy-policy/">Privacy Policy</a> | <a href="{{ site.url }}/disclosures/">Disclosures</a></p>
 
-Our policy lasts 30 days. If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund or exchange.
+This refund policy applies only to products or services purchased directly through this website. If, for example, you purchased an item produced by this site through a third-party supplier (such as Amazon) then only the refund policies set forth by that vendor apply to your purchase. 
+
+Our refund policy lasts 30 days. If 30 days have gone by since your purchase, unfortunately, we can’t offer you a refund or exchange.
 
 To be eligible for a return, your item must be unused and in the same condition that you received it. It must also be in the original packaging.
 
@@ -31,28 +33,26 @@ There are certain situations where only partial refunds are granted: (if applica
 
 - Book with obvious signs of use
 - CD, DVD, VHS tape, software, video game, cassette tape, or vinyl record that has been opened.
-- Any item not in its original condition, is damaged or missing parts for reasons not due to our error.
+- Any item not in its original condition is damaged or missing parts for reasons not due to our error.
 - Any item that is returned more than 30 days after delivery
 
-## Refunds (if applicable)  
+## Refunds 
 
 Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.  
+
 If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within a certain amount of days.
 
-## Late or missing refunds (if applicable)  
+## Late or missing refunds
 
-If you haven’t received a refund yet, first check your bank account again.  
-Then contact your credit card company, it may take some time before your refund is officially posted.  
-Next contact your bank. There is often some processing time before a refund is posted.  
-If you’ve done all of this and you still have not received your refund yet, please contact us at getintouch@judsonlmoore.com.
+If you haven’t received a refund yet, first check your bank account again. Then contact your credit card company, it may take some time before your refund is officially posted. Next, contact your bank. There is often some processing time before a refund is posted. If you’ve done all of this and you still have not received your refund yet, please contact us at shop@judsonlmoore.com.
 
-## Sale items (if applicable)  
+## Sale items  
 
-Only regular priced items may be refunded, unfortunately sale items cannot be refunded.
+Only regular priced items may be refunded, unfortunately, sale items cannot be refunded.
 
-## Exchanges (if applicable)  
+## Exchanges
 
-We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at getintouch@judsonlmoore.com and send your item to: 2102 Quail Hollow Dr, Bryan, TX, 77802, United States.
+We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at shop@judsonlmoore.com.
 
 ## Gifts  
 
@@ -62,10 +62,8 @@ If the item wasn’t marked as a gift when purchased, or the gift giver had the 
 
 ## Shipping  
 
-To return your product, you should mail your product to: 2102 Quail Hollow Dr, Bryan, TX, 77802, United States.
+You will be responsible for paying for your shipping costs for returning your item. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.
 
-You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.
+Depending on where you live, the time it may take for your exchanged product to reach you may vary.
 
-Depending on where you live, the time it may take for your exchanged product to reach you, may vary.
-
-If you are shipping an item over \$75, you should consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.
+If you are shipping an item over $75, you should consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.

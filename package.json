@@ -3,6 +3,7 @@
     "@fortawesome/fontawesome-free": "^5.11.2"
   },
   "dependencies": {
+    "@geedmo/yamm": "^4.0.1",
     "algoliasearch": "^4.1.0",
     "bootstrap": "^4.4.1",
     "instantsearch.js": "^4.3.1",

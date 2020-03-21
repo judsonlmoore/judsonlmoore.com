@@ -1,13 +1,13 @@
 ---
-title: Norway Travel Guide
-subtitle:
-Description: Plan your visit to Norway and find out where to go and what to do in Norway. Read about itineraries, activities, places to stay and travel essentials...
-permalink: "/norway/"
-layout: fullwidth-hero
-category: norway
-image: /assets/images/2015/10/ouro-preto.jpg
+title: 			Norway Travel Guide
+subtitle:		Serenity in nature
+description: 	Plan your visit to Norway and find out where to go and what to do in Norway. Read about itineraries, activities, places to stay and travel essentials.
+permalink: 		"/norway/"
+layout: 		fullwidth-hero
+category: 		norway
+image: 			/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-lillipad-lake.jpg
 ---
 
-## How my time in Brazil changed my life
+## My preferred cruise destination 
 
-With an overwhelming need to scratch my newly-acquired wanderlust itch, I set out on a six month solo backpacking trip in Brazil as soon as I finished high school. During my Rotary Youth Exchange year, I had come to know many people from all over the world, including a large number of Brazilians. While in Brazil, I stayed in the homes of my friends, many of which were Rotarians, and so I had many opportunities to present at Rotary Clubs and participate in community projects. The people I met, the strife I witnessed, the beauty of the people and the culture, all set me down the path of my life’s work: to impact communities on the international stage.
+Crisp, clean, air and a forest hike might not be what first comes to mind when you think about taking a cruise, but this is exactly how I came to discover Norway. Though only in the country for a day, I captured some quick insights into how to get in and out of the country in an affordable and alternative way, as well as a peek into the local culture and cuisine. I will visit again and encourage you to do the same. 

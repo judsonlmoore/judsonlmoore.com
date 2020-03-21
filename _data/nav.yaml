@@ -1,26 +1,36 @@
 main:
   - page: Happiness
     url: /happiness/
-  - page: While Young
-    url: /whileyoung/
+  - page: Lifestyle
+    url: /lifestyle/
   - title: Travel Guides
     subfolderitems:
       - page: Brazil
         url: /brazil/
       - page: Colombia
         url: /colombia/
-      - page: England
-        url: /england/
+      - page: Denmark
+        url: /denmark/
       - page: Egypt
         url: /egypt/
+      - page: England
+        url: /england/
       - page: Germany
         url: /germany/
       - page: India
         url: /india/
+      - page: Ireland
+        url: /ireland/
+      - page: Jordan
+        url: /jordan/
       - page: Kyrgyzstan
         url: /kyrgyzstan/
       - page: Morocco
         url: /morocco/
+      - page: Norway
+        url: /norway/
+      - page: Scotland
+        url: /scotland/
       - page: Switzerland
         url: /switzerland/
       - page: Turkey

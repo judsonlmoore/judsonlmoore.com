@@ -1,9 +1,9 @@
 ---
-title: Privacy Policy
-permalink: "/privacy-policy/"
-layout: page
-comments: false
-
+title: 			Privacy Policy
+description: 	x
+permalink: 		"/privacy-policy/"
+layout: 		page
+comments: 		false
 ---
 
 
