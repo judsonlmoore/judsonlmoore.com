@@ -13,7 +13,7 @@ image:			/assets/images/2016/08/bob-moore-college.jpeg.jpg
 
 > I am thrilled to have my father, Bob Moore, be the first guest author on my blog! The following is an account of how travel changed his life at an early age. Maybe this is where I got it from? It's a beautiful story, with a great lesson to each each of us. I hope you enjoy it and that you will leave a comment below. You can also reach me directly at [@judsonlmoore](https://twitter.com/judsonlmoore).
 
-## Three Ways Travel Changed My Life
+## Three Ways Travel Changed My Life 
 
 1. Travel changed my college major and career aspirations.
 2. Travel enabled me to overcome recalcitrant racist feelings.

@@ -1,12 +1,13 @@
 ---
-short_name: tarahmason
-name: Tarah Mason
-display_name: Tarah Mason
-gravatar: 5f34aa736d5e05203f81bd1463ff3514
-facebook: travelwithtarah
-instagram: tarahmason
-pintrest: tarahmason
-linkedin: tarahmason
-web: https://www.travelwithtarah.com/
+short_name: kellybranyik
+name: Kelly Branyik
+display_name: Kelly Branyik
+avatar: /assets/images/avatar-kellybranyik.png
+facebook: propitiouspanda
+twitter: propitiouspanda
+instagram: propitiouspanda
+pintrest: travelbranyik
+youtube: channel/UC8SXQMMzRJKKgDHtoBbGfYg
+web: https://travelbranyik.com/
 ---
-I am a California native and a graduate from the University of Alabama (roll tide)! I discovered my love for travel while studying abroad in Barcelona, Spain and haven’t been able to sit still since. After graduation, I moved to Thailand to teach English and travel Southeast Asia. Basically, I’m a normal 23-year-old, trying to see the world before her mom guilt trips her into coming home!
+Kelly Branyik is a Returned Peace Corps Volunteer who served from 2014-2016 in Chongqing, China. She currently resides in Colorado Springs where she works as a TV and Radio commercial scriptwriter for a local advertising agency. Kelly is a published author of the book, "It Depends - A Guide to Peace Corps.” She still shares her stories of Peace Corps on her blog, Propitious Panda in hopes to inspire people to take the journey.

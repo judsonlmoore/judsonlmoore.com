@@ -11,7 +11,7 @@ image:			/assets/images/2017/04/airplane-wing-sunset.jpg
 
 ---
 
-So this is kind of a comprehensive mini-guide to traveling, inspired by my travels around Southeast Asia. These are the best tips and tricks for quick, easy, and affordable travel; good for everything from studying abroad to weekend trips and road-tripping around your state. Special thanks to[ Michelle](https://www.instagram.com/michelleparkerrr/),[ Annie](https://www.instagram.com/anniemalstylefries/),[ Britt](http://brittanyvinh.com), and[ Eileen](https://www.instagram.com/eileeeenc/) for contributing ♥ you guys are great.
+So this is kind of a comprehensive mini-guide to traveling, inspired by my travels around Southeast Asia. These are the best tips and tricks for quick, easy, and affordable travel; good for everything from studying abroad to weekend trips and road-tripping around your state. Special thanks to[ Michelle](https://www.instagram.com/michelleparkerrr/),[ Annie](https://www.instagram.com/anniemalstylefries/),[ Britt](http://brittanyvinh.com), and[ Eileen](https://www.instagram.com/eileeeenc/) for contributing ♥ you guys are great. 
 
 You can also check out my photo journals for[ Indonesia](http://www.jayemsey.com/blog/sundayschool), [Malaysia](http://www.jayemsey.com/blog/festivaloflights),[ Taiwan](http://www.jayemsey.com/blog/islandinterlude),[ Thailand](http://www.jayemsey.com/blog/aminuteinthaime), and[ Cambodia](http://jayemsey.com/blog/ruins)!
 

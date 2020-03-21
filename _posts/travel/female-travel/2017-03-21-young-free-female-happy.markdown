@@ -11,7 +11,7 @@ image:			/assets/images/2017/03/avatar-tarah-mason.jpg
 
 ---
 
-## Being happy starts and ends with you
+## Being happy starts and ends with you 
 
 Life is short. Sometimes I feel like it was just yesterday that I was a freshman moving into my dorm room and sometimes that feels like forever ago (even though it was only 4 and a half years ago). Some days I’d give anything to go back and relive my freshman year of college and others I cringe at the thought of having to relive that period of my life. **There are days when I still feel like a little kid **who just needs her mom and days when I feel like an independent woman just trying to make her way in the world.
 

@@ -2,14 +2,14 @@ bobmoore:
   short_name: bobmoore
   name: Bob Moore
   display_name: Bob Moore
-  gravatar: 33cd6f3235b9b5e27d9a35d328fddd7b
+  avatar: /assets/images/avatar-bobmoore.png
   description: Bob Moore is a retired sociologist living in Bryan, Texas. A graduate of Louisiana State University with a doctorate from the University of Kentucky, his has been author or co-author of hundreds of peer-reviewed medical studies. He is the smartest person Judson Moore has ever met, and coincidentally, Bob is Judson's father.
 
 jenniferchang:
   short_name: jenniferchang
   name: Jennifer Chang
   display_name: Jennifer Chang
-  gravatar:
+  avatar: /assets/images/avatar-jenniferchang.png
   twitter: jayemsey
   instagram: jayemsey
   linkedin: jayemsey
@@ -35,11 +35,11 @@ tarahmason:
   short_name: tarahmason
   name: Tarah Mason
   display_name: Tarah Mason
-  gravatar: 5f34aa736d5e05203f81bd1463ff3514
+  avatar: /assets/images/avatar-tarahmason.png
   facebook: travelwithtarah
   instagram: tarahmason
   pintrest: tarahmason
-  linkedin: tarahmason
+  linkedin: tarah-mason-680893bb
   web: https://www.travelwithtarah.com/
   description: I am a California native and a graduate from the University of Alabama (roll tide)! I discovered my love for travel while studying abroad in Barcelona, Spain and haven’t been able to sit still since. After graduation, I moved to Thailand to teach English and travel Southeast Asia. Basically, I’m a normal 23-year-old, trying to see the world before her mom guilt trips her into coming home!
 
@@ -47,6 +47,7 @@ kellybranyik:
   short_name: kellybranyik
   name: Kelly Branyik
   display_name: Kelly Branyik
+  avatar: /assets/images/avatar-kellybranyik.png
   facebook: propitiouspanda
   twitter: propitiouspanda
   instagram: propitiouspanda

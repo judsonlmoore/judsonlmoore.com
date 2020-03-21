@@ -1,6 +1,6 @@
 ---
-title: fullwidth-hero
-layout: default 
+title: about
+layout: default
 --- 
 
 
@@ -28,19 +28,8 @@ layout: default
 
 <div class="container bg-white my-3 my-md-5">
 
-	<div class="row">
-		<div class="col">
-			<div class="">
-				{{content}}
-			</div>
-		</div>
-	</div>
+	<p>See also: <a href="{{ site.url }}/about/">About</a> | <a href="{{ site.url }}/guest-author/">Be A Guest Author</a> | <a href="{{ site.url }}/mediakit/">Media Kit</a> | <a href="{{ site.url }}/resume/">My Resume</a></p>
 
-	<h2>Blog posts about <span class="text-capitalize">{{ page.category }}</span></h2>
-	<div class="row row-cols-1 row-cols-md-3">
-		{% assign posts = site.posts | where_exp: "item" , "item.categories contains page.category"%} 
-		{% for post in posts %} 
-		{% include postbox.html %} 
-		{% endfor %}
-	</div>
+	{{content}}
+
 </div>

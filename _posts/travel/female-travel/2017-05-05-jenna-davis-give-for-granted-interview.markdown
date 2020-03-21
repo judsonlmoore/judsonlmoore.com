@@ -3,7 +3,7 @@ title:			An Interview with Jenna Davis of Give For Granted
 date:			2017-05-05 10:00:08 Z
 categories:		['female travel']
 tags:			female travel, inspiration, interview
-author:			judsonlmoore
+author:			jennadavis
 excerpt:		Jenna Davis is founder of Give For Granted, a sustainable travel blog about giving back to Earth via travel. Read this interview of how she rose to success.
 layout:			post
 image:			/assets/images/2017/04/jenna-davis-give-for-granted-e1493307152121.jpg
@@ -14,7 +14,7 @@ image:			/assets/images/2017/04/jenna-davis-give-for-granted-e1493307152121.jpg
 
 ### GIVE FOR GRANTED FOUNDER JENNA DAVIS
 
-I came to know Jenna Davis while living in Düsseldorf Germany where I work, and where she has perfected the art of making play, work. Jenna is a rare breed. She is one who stood up and said, “yes!” Her story is truly one of living ones’ “what if,” and I am thrilled to have had the opportunity to interview her and learn about her journey in life. Enjoy the interview, get inspired, and [leave Jenna a comment]({{ site.url }}/jenna-davis-give-for-granted-interview/#dsq-app1) below.
+I came to know Jenna Davis while living in Düsseldorf Germany where I work, and where she has perfected the art of making play, work. Jenna is a rare breed. She is one who stood up and said, “yes!” Her story is truly one of living ones’ “what if,” and I am thrilled to have had the opportunity to interview her and learn about her journey in life. Enjoy the interview, get inspired, and [leave Jenna a comment]({{ site.url }}/jenna-davis-give-for-granted-interview/#dsq-app1) below. 
 
 Connect with Jenna Davis and with Give For Granted:
 

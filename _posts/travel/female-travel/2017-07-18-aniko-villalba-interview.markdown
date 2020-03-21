@@ -3,7 +3,7 @@ title:			An Interview with Aniko Villalba of the Viajando Por Ahí Travel Blog a
 date:			2017-07-18 10:00:14 Z
 categories:		['female travel']
 tags:			argentina, backpacking, female travel, inspiration, interview, south america, travel tips
-author:			judsonlmoore
+author:			anikovillalba
 excerpt:		Aniko Villalba and I got to talking about being digital nomads, solo travel, female travel, and what it really means to live the dream of a global citizen.
 layout:			post
 image:			/assets/images/2017/04/aniko-villalba-interview.jpg
@@ -11,7 +11,7 @@ image:			/assets/images/2017/04/aniko-villalba-interview.jpg
 
 ---
 
-**Aniko Villalba is an Argentinean-Hungarian author** and true citizen of the world. She has spent the last decade traveling the world and sharing her experiences as the author of three books and the [Viajando Por Ahi Blog](https://viajandoporahi.com).
+**Aniko Villalba is an Argentinean-Hungarian author** and true citizen of the world. She has spent the last decade traveling the world and sharing her experiences as the author of three books and the [Viajando Por Ahi Blog](https://viajandoporahi.com). 
 
 I had an opportunity to meet Aniko in Düsseldorf, Germany, where [she gave a presentation at trivago](https://medium.com/@lifeattrivago/if-working-while-traveling-describes-your-dream-job-listen-to-aniko-villalba-and-find-out-how-to-212cafcd7ef7) about her **life and career as a digital nomad**.
 

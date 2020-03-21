@@ -13,7 +13,7 @@ image:			/assets/images/2017/09/kelly-branyik-propitious-panda-badaling-south-wa
 
 ## Breaking Through the Fear of Travel
 
-I sat on a bench just at the end of the thick stone bridge overlooking the icy, white [Houhai Lake](https://en.wikipedia.org/wiki/Houhai). The day was bright. Even brighter with the hazy sky against it. The iced lake looked like a thick layer of clouds and I was at the edge of a cliff. Just to the left of me was a line of trees hugging the edge I imagined I was on. The famous Marble Boat of Beijing’s Summer Palace was docked just near the edge of the bridge, anchored in by the thick ice.
+I sat on a bench just at the end of the thick stone bridge overlooking the icy, white [Houhai Lake](https://en.wikipedia.org/wiki/Houhai). The day was bright. Even brighter with the hazy sky against it. The iced lake looked like a thick layer of clouds and I was at the edge of a cliff. Just to the left of me was a line of trees hugging the edge I imagined I was on. The famous Marble Boat of Beijing’s Summer Palace was docked just near the edge of the bridge, anchored in by the thick ice. 
 
 Just a year before, I added this place, this moment, to a long list of things I wanted to see during [my Peace Corps service in China](https://www.propitiouspanda.com/). A year before, I didn’t realize I would be traveling solo in China, let alone making this trip and seeing this place for the first time, and I would be doing it solo.
 

@@ -2,7 +2,7 @@
 short_name: jenniferchang
 name: Jennifer Chang
 display_name: Jennifer Chang
-gravatar:
+avatar: /assets/images/avatar-jenniferchang.png
 twitter: jayemsey
 instagram: jayemsey
 linkedin: jayemsey
