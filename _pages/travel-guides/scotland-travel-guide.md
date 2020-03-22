@@ -1,6 +1,6 @@
 ---
 title: 			Scotland Travel Guide
-subtitle:		Medieval lore, today
+subtitle:		Medieval lore and modern fantasy
 description: 	Plan your visit to Scotland and find out where to go and what to do in Scotland. Read about itineraries, activities, places to stay and travel essentials.
 permalink: 		"/scotland/"
 layout: 		fullwidth-hero

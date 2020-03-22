@@ -4,27 +4,19 @@ description:    A nice thank you message for subscribers who have updated their 
 permalink:      "/subscription-updated/"
 layout:         page
 sitemap:        false
-comments:       false
 ---
 
 
 <div class="alert alert-success" role="alert">Your information has been updated</div>
 
-<section class="featured-posts">
+<h2><span>Read these popular posts</span></h2>
 
-    <div class="section-title">
-        <h2><span>Read these popular posts</span></h2>
+<p>Be sure to <strong>read some of these articles</strong> and <strong>please leave a comment</strong> below each one with your thoughts, feedback, and questions!</p>
 
-        <p>Be sure to <strong>read some of these articles</strong> and <strong>please leave a comment</strong> below each one with your thoughts, feedback, and questions!</p>
-
-    </div>
-
-    <div class="row">
-        {% for post in site.posts %}
-            {% if post.featured == true %}
-                {% include postbox.html %}
-            {% endif %}
-        {% endfor %}
-    </div>
-
-</section>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+    {% for post in site.posts %}
+        {% if post.featured == true %}
+            {% include postbox.html %}
+        {% endif %}
+    {% endfor %}
+</div>

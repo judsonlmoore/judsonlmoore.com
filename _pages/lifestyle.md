@@ -1,7 +1,7 @@
 ---
 title: 			Lifestyle
 subtitle: 		Youth is your greatest asset
-description: 	A collection of advice and best-practices I've collected from years of experience.
+description: 	A collection of advice and best-practices I've collected from years of work and travel experience.
 permalink: 		"/lifestyle/"
 layout: 		fullwidth-hero
 category: 		lifestyle

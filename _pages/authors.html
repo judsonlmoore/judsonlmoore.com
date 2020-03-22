@@ -5,18 +5,50 @@ description: 	All authors and contributers of judsonlmoore.com are listed here.
 permalink: 		/authors/
 ---
 
-<section>
-	<div class="row">
-		<div class="col">
+<h1>Authors</h1>
+<p class="mb-5">This site has been honored with the contributions of many guest authors over the years. If you would like to be a guest author, please visit the <a href="{{ site.url }}/guest-author/">how to become a guest author page</a>. Thank you to everyone who has helped to make the content on this website great!</p>
 
-			<h1>Authors</h1> 
-
-			<div class="row">
-			{% for author in site.authors %}
-			{% include author-box.html %}
-			{% endfor %}
+<div class="row row-cols-1 row-cols-md-2 mb-4">
+	{% for author in site.authors %}
+	<div class="col mb-5">
+		<div class="card h-100 shadow-sm" >
+			<div class="row no-gutters">
+				<div class="col-md-3 p-3 d-none d-md-block">
+					{% if author.avatar %}
+					{% cloudinary {{ site.url }}{{ author.avatar }} alt="{{ author.name }}" %}
+					{% endif %}
+					{% if author.gravatar %}
+					<img class="card-img-top" src="https://www.gravatar.com/avatar/{{ author.gravatar }}" alt="Photo of {{ author.name }}" >
+					{% endif %}
+				</div>
+				<div class="col-md-9">
+				    <div class="card-body">
+					    <h5 class="card-title">{{ author.name }}</h5>
+					    <p class="card-text">{{ author.content | markdownify }}</p>
+						{% for post in site.posts limit:1 %}
+							{% if post.author == author.short_name %}
+								<p><strong>Recent post:</strong><br><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></p>
+							{% endif %}
+						{% endfor %}
+					    {% if author.twitter %}
+						<a href="https://www.twitter.com/{{ author.twitter }}" class="btn btn-sm btn-primary" target="_blank" role="button">{% include icons/twitter.svg %}</a>
+						{% endif %}
+						{% if author.facebook %}
+						<a href="https://www.facebook.com/{{ author.facebook }}" class="btn btn-sm btn-primary" target="_blank" role="button">{% include icons/facebook.svg %}</a>
+						{% endif %}
+						{% if author.linkedin %}
+						<a href="https://www.linkedin.com/in/{{ author.linkedin }}" class="btn btn-sm btn-primary" target="_blank" role="button">{% include icons/linkedin.svg %}</a>
+						{% endif %}
+						{% if author.youtube %}
+						<a href="https://www.youtube.com/{{ author.youtube }}" class="btn btn-sm btn-primary" target="_blank" role="button">{% include icons/youtube.svg %}</a>
+						{% endif %}
+						{% if author.web %}
+						<a href="{{ author.web }}" class="btn btn-sm btn-primary" target="_blank" role="button">{% include icons/link.svg %}</a>
+						{% endif %}
+					</div>
+			    </div>
 			</div>
-
 		</div>
 	</div>
-</section>
+	{% endfor %}
+</div>

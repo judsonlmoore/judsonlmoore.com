@@ -3,7 +3,6 @@ title: 			Terms and Conditions
 description: 	All visitors and users of judsonlmoore.com agree to these terms and conditions 
 permalink: 		"/terms-and-conditions/"
 layout: 		page
-comments: 		false
 ---
 
 
