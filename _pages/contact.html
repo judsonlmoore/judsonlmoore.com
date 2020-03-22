@@ -1,133 +1,55 @@
 ---
 title:        Contact
-description:  x
+description:  Get in touch with Judson L Moore to learn how to work together and get answers to all of your questions.
 permalink:    "/contact/"
 layout:       page
-comments:     false
 ---
 
+<h1>Contact</h1>
 
-<div class="row">
-  <div class="col-lg-12">
+<div class="row justify-content-between">
+    <div class="col-lg-6 mb-5 mb-lg-0">
+        <form role="form" action="https://formspree.io/mvoqvgjo" method="post">
+            <input type="hidden" name="_next" value="/contact/" />
+            <input type="hidden" name="_subject" value="New submission!" />
+            <input type="text" name="_gotcha" style="display:none" />
 
+            <div class="form-group">
+                <label for="InputName">Your Name</label>
+                <input type="text" class="form-control" name="name" id="InputName" placeholder="Enter Name" required>
+            </div>
+            <div class="form-group">
+                <label for="InputEmail">Your Email</label>
 
-    <!-- Styles -->
-    <style>
-    #chartdiv {
-      width: 100%;
-      height: 500px;
-    }
+                <input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="Enter Email" required>
+            </div>
+            <div class="form-group">
+                <label for="InputMessage">Message</label>
 
-    </style>
+                <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+            </div>
+            <div class="form-group">
+                <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+                <div class="g-recaptcha" data-sitekey="6LcUCwcUAAAAAIS5Q4RZm4tRnU1Fpg6jkzj1LKa0"></div>
+            </div>
+            <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary btn-large pull-right">
+        </form>
+    </div>
 
-    <!-- Resources -->
-    <script src="https://www.amcharts.com/lib/4/core.js"></script>
-    <script src="https://www.amcharts.com/lib/4/maps.js"></script>
-    <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
-    <script src="https://www.amcharts.com/lib/4/geodata/usaLow.js"></script>
-    <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
-
-    <!-- Chart code -->
-    <script>
-    am4core.ready(function() {
-
-    // Themes begin
-    am4core.useTheme(am4themes_animated);
-    // Themes end
-
-    // Create map instance
-    var chart = am4core.create("chartdiv", am4maps.MapChart);
-
-    // Set map definition
-    chart.geodata = am4geodata_worldLow;
-
-    // Set projection
-    chart.projection = new am4maps.projections.Miller();
-
-    // Series for World map
-    var worldSeries = chart.series.push(new am4maps.MapPolygonSeries());
-    worldSeries.exclude = ["AQ"];
-    worldSeries.useGeodata = true;
-
-    var polygonTemplate = worldSeries.mapPolygons.template;
-    polygonTemplate.tooltipText = "{name}";
-    polygonTemplate.fill = chart.colors.getIndex(0);
-    polygonTemplate.nonScalingStroke = true;
-
-    // Hover state
-    var hs = polygonTemplate.states.create("hover");
-    hs.properties.fill = am4core.color("#367B25");
-
-    // Series for United States map
-    var usaSeries = chart.series.push(new am4maps.MapPolygonSeries());
-    usaSeries.geodata = am4geodata_usaLow;
-
-    var usPolygonTemplate = usaSeries.mapPolygons.template;
-    usPolygonTemplate.tooltipText = "{name}";
-    usPolygonTemplate.fill = chart.colors.getIndex(1);
-    usPolygonTemplate.nonScalingStroke = true;
-
-    // Hover state
-    var hs = usPolygonTemplate .states.create("hover");
-    hs.properties.fill = am4core.color("#367B25");
-
-    }); // end am4core.ready()
-    </script>
-
-    <!-- HTML -->
-    <div id="chartdiv"></div>
-
-  </div>
+    <div class="col-lg-5">
+        <address>
+            <h3>Snail Mail</h3>
+            <p class="lead">Send me a postcard!</p>
+            <p>Please send any regular post to the following address:<br><br>
+                <a href="https://goo.gl/maps/TDBvAyrSKn2xLhu77" target="_blank">
+                    Judson Moore<br>
+                    Gärtnerstraße 3<br>
+                    10245 Berlin<br>
+                    Germany<br><br>
+                </a>
+                <a href="https://wa.me/13105715210" target="_blank">Write me on Whatsapp</a><br><br>
+            </p>
+        </address>        
+        {% include social-buttons.html %}
+    </div>
 </div>
-
-
-<main class="container">
-  <header class="page-header">
-    <h1 class="entry-title">Contact</h1>
-  </header>
-
-  <div class="contact">
-    <div class="alert alert-success"><strong><span class="glyphicon glyphicon-send"></span> Success! Message sent. (If form ok!)</strong></div>
-    <div class="alert alert-danger"><span class="glyphicon glyphicon-alert"></span><strong> Error! Please check the inputs. (If form error!)</strong></div>
-    <div class="alert alert-info"><span class="glyphicon glyphicon-exclamation-sign"></span><strong> The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use. (No need PHP!)</strong></div>
-    <div class="row">
-      <div class="col-lg-6">
-        <form role="form" action="http://formspree.io/judsonlmoore@gmail.com">
-          <input type="hidden" name="_next" value="/contact/" />
-          <input type="hidden" name="_subject" value="New submission!" />
-          <input type="text" name="_gotcha" style="display:none" />
-
-          <div class="form-group">
-            <label for="InputName">Your Name</label>
-            <input type="text" class="form-control" name="name" id="InputName" placeholder="Enter Name" required>
-          </div>
-          <div class="form-group">
-            <label for="InputEmail">Your Email</label>
-
-            <input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="Enter Email" required>
-          </div>
-          <div class="form-group">
-            <label for="InputMessage">Message</label>
-
-            <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
-          </div>
-          <div class="form-group">
-            <label for="InputReal">What is 4+3? (Simple Spam Checker)</label>
-            <input type="text" class="form-control" name="InputReal" id="InputReal" required>
-          </div>
-          <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary btn-large pull-right"> 
-      </form>
-    </div>
-    <hr class="hidden-lg">
-    <div class="col-lg-5 col-md-offset-1">
-      <address>
-        <h3>Office Location</h3>
-        <p class="lead"><a href="https://www.google.com/maps/preview?ie=UTF-8&q=The+Pentagon&fb=1&gl=us&hq=1400+Defense+Pentagon+Washington,+DC+20301-1400&cid=12647181945379443503&ei=qmYfU4H8LoL2oATa0IHIBg&ved=0CKwBEPwSMAo&safe=on">The Pentagon<br>
-        Washington, DC 20301</a><br>
-        Phone: XXX-XXX-XXXX<br>
-      Fax: XXX-XXX-YYYY</p>
-    </address>
-    <p>Planning a trip? Need advice? Wand to grab a coffee? Please get in touch with me by sending a message in the form to the right, or connect with me at one of these social media platforms!</p>
-    </div>
-  </div>
-</main>
