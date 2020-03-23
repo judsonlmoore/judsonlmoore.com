@@ -63,4 +63,4 @@ Again, the weather could not have been more perfect for us on this day. Here are
 
 It was a great day and I am thankful to trivago for making it possible! **Maybe you can join us next year!** If you are interested to join me in 2018, just take a look at [the open careers at trivago](http://company.trivago.com/jobs/)! If anything looks interesting to you, let me know and I will be happy to chat with you about a career in trivago.
 
-Have you ever been to Norway? Would you like to go there someday? If so, **I would love to hear from you!** [Just leave a comment below]({{ site.url }}/trivago-tour-2017/#dsq-app1), and be sure to follow me on Twitter at [@judsonlmoore](https://www.twitter.com/judsonlmoore/). Until next trip, travel well!
+Have you ever been to Norway? Would you like to go there someday? If so, **I would love to hear from you!** [Just leave a comment below]({{ site.url }}/trivago-tour-2017/#disqus_thread), and be sure to follow me on Twitter at [@judsonlmoore](https://www.twitter.com/judsonlmoore/). Until next trip, travel well!

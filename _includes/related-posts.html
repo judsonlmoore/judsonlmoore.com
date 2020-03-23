@@ -1,42 +1,38 @@
-<!-- Related Posts -->
-<h2>Related posts</h2>
+{% assign maxRelated = 4 %}
+{% assign minCommonTags =  1 %}
+{% assign maxRelatedCounter = 0 %}
 
-	{% assign maxRelated = 4 %}
-	{% assign minCommonTags =  1 %}
-	{% assign maxRelatedCounter = 0 %}
+{% for post in site.posts %}
 
-	{% for post in site.posts %}
+{% assign sameTagCount = 0 %}
+{% assign commonTags = '' %}
 
-    {% assign sameTagCount = 0 %}
-    {% assign commonTags = '' %}
-
-    {% for tag in post.tags %}
-		{% if post.url != page.url %}
-			{% if page.tags contains tag %}
-				{% assign sameTagCount = sameTagCount | plus: 1 %}
-				{% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-				{% assign commonTags = commonTags | append: tagmarkup %}
-			{% endif %}
-		{% endif %}
-	{% endfor %}
-
-    {% if sameTagCount >= minCommonTags %}
-
-	<div class="media position-relative mb-3 pb-3 border-bottom border-gray">
-		{% if post.image %}
-	    {% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="mr-3" style="object-fit: cover; width: 64px; height: 64px;" %}
-	    {% endif %}
-		<div class="media-body">
-			<p class="mt-0 text-gray-dark">{{ post.title }}</p>
-			<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
-		</div>
-	</div>
-
-	{% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-		{% if maxRelatedCounter >= maxRelated %}
-			{% break %}
+{% for tag in post.tags %}
+	{% if post.url != page.url %}
+		{% if page.tags contains tag %}
+			{% assign sameTagCount = sameTagCount | plus: 1 %}
+			{% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+			{% assign commonTags = commonTags | append: tagmarkup %}
 		{% endif %}
 	{% endif %}
-	{% endfor %}
+{% endfor %}
+
+{% if sameTagCount >= minCommonTags %}
+
+<div class="media position-relative mb-3 pb-3 border-bottom border-gray">
+	{% if post.image %}
+    {% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="mr-3" style="object-fit: cover; width: 64px; height: 64px;" %}
+    {% endif %}
+	<div class="media-body">
+		<p class="my-0"><strong>{{ post.title }}</strong></p>
+		<p class="my-0 text-muted small">{{ post.excerpt | strip_html | truncatewords:14 }}</p>
+		<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
+	</div>
 </div>
-<!-- EndRelated Posts -->
+
+{% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+	{% if maxRelatedCounter >= maxRelated %}
+		{% break %}
+	{% endif %}
+{% endif %}
+{% endfor %}

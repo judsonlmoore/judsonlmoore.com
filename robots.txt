@@ -1,0 +1,12 @@
+Sitemap: http://localhost:4000/sitemap.xml
+
+User-agent: *
+Disallow: /book-rcala/
+Disallow: /book-rye/
+Disallow: /exponential-happiness-book-preview/
+Disallow: /resources/
+Disallow: /search/
+Disallow: /subscribe-confirm/
+Disallow: /subscribe-thank-you/
+Disallow: /subscription-updated/
+Disallow: /unsubscribed/
