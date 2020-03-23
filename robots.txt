@@ -9,4 +9,3 @@ Disallow: /search/
 Disallow: /subscribe-confirm/
 Disallow: /subscribe-thank-you/
 Disallow: /subscription-updated/
-Disallow: /unsubscribed/
