@@ -68,7 +68,7 @@ Hanson\*
 Hurt**  
 Indigo Girls**_  
 Ingram Hill ∞  
-Issac Hayes_  
+Isaac Hayes_  
 Jason Aldean**  
 Jamey Johnson*  
 Jennifer Johns\*\*  

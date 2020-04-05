@@ -92,11 +92,13 @@ post_class:     post-template
 
                 {{content}}
 
+                {% if jekyll.environment == 'production' %}
                 {% if page.comments != false %}
                 <hr>
                 <!-- Begin Comments -->
                 {% include disqus.html %}
                 <!--End Comments -->
+                {% endif %}
                 {% endif %}
             </div>
 
