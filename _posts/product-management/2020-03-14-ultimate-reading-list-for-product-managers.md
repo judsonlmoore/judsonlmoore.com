@@ -20,7 +20,7 @@ I've been reading product mangement and other business books, articles, blogs, a
 
 ## Books 
 
-This list contains general management and product management books. Certianly, reading in-depth about product managment is very valuable, but part of what makes a good product manager is to have broad knowledge, which is why I include general management and management books from other industries here.
+This list contains general management and product management books. Certainly, reading in-depth about product managment is very valuable, but part of what makes a good product manager is to have broad knowledge, which is why I include general management and management books from other industries here.
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.books %}
 <h3 class="h5">{{ item.title }}</h3>
@@ -31,7 +31,7 @@ This list contains general management and product management books. Certianly, r
 
 ## UX Research
 
-Product managers work hand-in-hand with UX Resaerch and Design. Therefor, it makes sense to readup on that profession's best-practices as well. The more you know about how they garner insights, the better-equiped you'll be to work together as a product team.
+Product managers work hand-in-hand with UX Resaerch and Design. Therefore, it makes sense to read up on that profession's best-practices as well. The more you know about how they garner insights, the better-equiped you'll be to work together as a product team.
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.uxresearchbook %}
 <h3 class="h5">{{ item.title }}</h3>
