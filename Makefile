@@ -36,4 +36,4 @@ serve: include-npm-deps
 	JEKYLL_ENV=development bundle exec $(JEKYLL) serve --drafts --incremental
 
 deploy: include-npm-deps
-	JEKYLL_ENV=production bundle exec $(JEKYLL) build
+	JEKYLL_ENV=production bundle exec $(JEKYLL) build --trace
