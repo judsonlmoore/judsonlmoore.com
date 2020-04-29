@@ -247,6 +247,8 @@ To that end, I recommend reading [5 Steps To Add Bootstrap 4 To Jekyll The Right
 
 #### Minimize 
 
+I am using [this layout by Anatol Broder](http://jch.penibelst.de/) to compress all of my HTML files. It is very easy to setup and avoids the use of plugins, which is preferable.
+
 Your site will be using a few .js libraries. If they are not minified, then the easiest thing to do is to look at the documentation for those libraries for the URL or file to reference which is minified by default. Typically this is the same file path as the non-minified version but with `.min.js` at the end of the file. So for example, if your code references `jquery.js` then the minified version of the file is probably `jquery.min.js`.
 
 For CSS output, it took me ages to figure out how simple it is to minimize the output of your SCSS file when it compiles to CSS. To minimize the CSS output by Bootstrap, simply add this to your `config.yml` file:
