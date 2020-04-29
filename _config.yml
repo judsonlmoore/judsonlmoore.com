@@ -65,6 +65,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-target-blank
 
 # jekyll-cloudinary
 cloudinary:
