@@ -19,9 +19,7 @@ post_class:     post-template
                     <!-- Post Categories/Tags -->
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories limit:1 %}
-                    <a class="text-uppercase font-weight-bold font-italic" href="{{site.url}}/categories#{{ category }}">
-                        <span>{{ category }}</span>
-                    </a>
+                    <span class="text-uppercase font-weight-bold font-italic">{{ category }}</span>
                     {% endfor %}
                     <!-- End Categories/Tags -->
 

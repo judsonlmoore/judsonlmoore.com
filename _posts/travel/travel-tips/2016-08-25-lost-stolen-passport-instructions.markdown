@@ -57,5 +57,3 @@ Sometimes a new passport might be issued as a temporary passport which is only v
 > Here are the links to the appropriate authorities in a few countries: [United States](https://travel.state.gov/content/passports/en/passports/lost-stolen.html), [Canada](http://www.cic.gc.ca/english/passport/security/lost-stolen.asp), [United Kingdom](https://www.gov.uk/report-a-lost-or-stolen-passport), [European Union](http://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm#!). For other countries, just [click here for a Google search](https://www.google.de/?gfe_rd=cr&ei=T_u-V4_1KcqH8Qe-rb_IBg&gws_rd=cr#q=replace+my+lost+passport).
 
 Have you lost a passport or had it stolen? What did you learn from the experience? Please share your thoughts in the comments below, or reach me directly at [@JudsonLMoore](https://twitter.com/judsonlmoore).
-
-_photo credit: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/93/My_collection_of_passport_stamps.jpg")_

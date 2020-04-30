@@ -4,7 +4,7 @@ subtitle: 		The best 36-hour layover ever
 description: 	Plan your visit to the United Arab Emirates and find out where to go and what to do in the UAE. Read about itineraries, activities, places to stay and travel essentials.
 permalink: 		"/uae/"
 layout: 		fullwidth-hero
-category: 		['united arab emirates']
+category: 		united arab emirates
 image: 			/assets/images/2015/01/IMG_3707.jpg
 ---
 
