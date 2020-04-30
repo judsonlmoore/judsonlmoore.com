@@ -54,7 +54,7 @@ That said, I've also used this time of a more flexible home office environment t
 
 I also just ordered a new fancy all-carbon-fiber road bike yesterday and as soon as it arrives I plan to do some long rides out of the city toward the Spreewald.
 
-{% cloudinary /assets/images/2020/04/covid19-berlin-germany-playstation.jpg alt="Showing off my PS4 controller at home with Unchartered 4 playing in the background" description="" %}
+{% cloudinary /assets/images/2020/04/covid19-berlin-germany-playing-playstation.jpg alt="Showing off my PS4 controller at home with Unchartered 4 playing in the background" description="" %}
 
 ## Entertainment
 
