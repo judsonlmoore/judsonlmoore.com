@@ -28,7 +28,7 @@ As these biases go a long way in explaining the human condition when it comes to
 
 1. **Optimism bias** - the tendency to be over-optimistic, underestimating greatly the probability of undesirable outcomes and overestimating favorable and pleasing outcomes
 2. **Normalcy bias** - the refusal to plan for, or react to, a disaster which has never happened before.
-3. **Heard instinct** - the behavior of individuals in a group acting collectively without a centralized direction.
+3. **Head instinct** - the behavior of individuals in a group acting collectively without a centralized direction.
 
 I've been writing a lot about planning recently. Most of that planning has focused on [identifying and pursuing your life goals]({{ site.url }}/happiness/). Planning for a successful future is very important, but what about planning for disaster? **How can forethought and planning increase your ability to survive difficult times?**
 
