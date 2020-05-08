@@ -4,13 +4,10 @@ description:	This ultimate reading list for product managers includes books, art
 author:			judsonlmoore
 date:			2020-03-14 05:08:48 Z
 categories:		['Product Management']
-tags:			
-  - career
+tags:			career
 permalink:		/ultimate-reading-list-for-product-managers/
 layout:			post
 image:			/assets/images/2020/03/ultimate-reading-list-for-product-managers.jpg
-
-
 ---
 
 

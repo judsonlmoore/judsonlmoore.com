@@ -4,12 +4,10 @@ description:	Don't just move tasks around; impact your team culture with this de
 author:			judsonlmoore
 date:			2020-01-30 21:08:48 Z
 categories:		['product management']
-tags:			
-  - product management
+tags:			jira
 layout:			post
 image:			/assets/images/2020/01/ready-for-dev.png
 toc:			false
-
 ---
 
 

@@ -11,8 +11,6 @@ tags:
   - product management
 layout:			post
 image:			/assets/images/2020/01/wordpress-vs-jekyll.png
-
-
 ---
 
 
