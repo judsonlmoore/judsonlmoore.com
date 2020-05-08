@@ -1,0 +1,23 @@
+**Please see the parent story task for acceptance criteria.**
+
+----
+**Technical Information**
+_What are the technical specifications? Code to be used? A product manager probably shouldn't define this, but it might be useful to add such information to the description during refinement._ 
+
+```
+int main()
+{
+  // printf() displays the string inside quotation
+  printf("Hello, World!");
+  return 0;
+}
+```
+
+**More Info:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sodales tellus a mollis. Donec et arcu vitae odio euismod facilisis.
+- A descriptive list is easier to read and understand than blocks of text
+- A descriptive list is easier to read and understand than blocks of text
+
+Is there anything else that needs to be known?
+
+----
+**FYI:** @mention _stakeholders, relevant team members, or anyone else who might be impacted by this task's outcomes_

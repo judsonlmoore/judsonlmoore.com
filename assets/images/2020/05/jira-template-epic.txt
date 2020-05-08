@@ -1,0 +1,67 @@
+**Request and Value Generation**
+_Using the "Problem, Solution, Result" framework, how will the outcome of this epic generate value for our users and business? Learn how and and why [here](https://help.optimizely.com/Ideate_and_Hypothesize/Design_an_effective_hypothesis)._ 
+
+**Problem:** What problem are we aiming to solve?
+**User:** Define the user in 1 sentence... (can be a persona, system, user type, etc...)
+**Solution:** Describe what outcomes should be delivered when this epic is done. 
+- A descriptive list is easier to read and understand than blocks of text
+- A descriptive list is easier to read and understand than blocks of text
+
+Is there anything else that needs to be known about this solution? Constraints? Risks?
+
+**Result:** We will increase value to...
+- **...the User:** Lorem ipsum dolor sit amet...
+- **...the business:** Lorem ipsum dolor sit amet...
+
+----
+**Assumptions?**
+_What do we think we know or assume to be true?_
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sodales tellus a mollis. Donec et arcu vitae odio euismod facilisis.
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+
+Is there anything else that needs to be known about the background? Constraints? Risks?
+
+----
+**Background & Strategic Fit**
+_Describe or link to any relevant information which informed the decision to create this task._
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sodales tellus a mollis. Donec et arcu vitae odio euismod facilisis.
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- MDP-xxxxx
+- MDP-xxxxx
+
+Is there anything else that needs to be known about the background? Constraints? Risks?
+
+----
+**Goals & Success Metrics**
+_What does success look like at the end of this epic? How will it be measured?_ 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sodales tellus a mollis. Donec et arcu vitae odio euismod facilisis.
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+
+----
+**Additional Information**
+_Consider these points when writing an epic task._
+
+**Who will be impacted by this epic?**
+- Will other teams feel an impact from this work?
+- Do they know to anticipate that impact? 
+
+**Which stakeholders should be informed?**
+- Have all stakeholders been informed of this work? (Product Marketing, Legal, Sales, Biz Ops, etc...)
+- Is their feedback reflected in this epic? 
+
+**Does this epic's current priority justify it be worked on now?**
+- Performing this task is an investment. Is this epic the most valuable way for us to invest our time and resources today?
+
+**What risks will come with this task?**
+- Have the downsides of this task been considered?
+- Are we causing technical debt or other problems for down the road?
+- How can we mitigate those risks?
+
+----
+**FYI:** @mention _stakeholders, relevant team members, or anyone else who might be impacted by this task's outcomes_

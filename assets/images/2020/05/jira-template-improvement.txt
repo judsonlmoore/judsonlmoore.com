@@ -1,0 +1,40 @@
+**Request**
+_Describe the desired action of this improvement_
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat tellus id viverra facilisis. Pellentesque dapibus orci eu ipsum rhoncus porttitor. Vivamus at leo nunc. Sed in lectus metus.
+
+----
+**Background**
+_Improvements usually have an origin story, describe that here_
+
+In task JJT-xxxxx this feature was lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat tellus id viverra facilisis.
+
+----
+**Acceptance Criteria**
+_Provide acceptance criteria which serves as a definition of done. Learn how and why [here](https://medium.freecodecamp.org/the-acceptance-criteria-for-writing-acceptance-criteria-6eae9d497814)._
+
+**Given** ...
+**When** ...
+**Then** ...
+
+**Given** ...
+**When** ...
+**Then** ...
+
+**Given** ...
+**When** ...
+**Then** ...
+
+----
+**How Might This Feature Look?**
+_Include a mockup, wireframe, or sketch if it will help convey what this task is requesting._
+
+| Mobile | Desktop |
+| mobile-sketch.png | desktop-sketch.png |
+
+For more info: 
+- Design task: JJT-xxxxx
+- Abstract / Figma / Sketch / etc... project link: [https://app.goabstract.com](https://app.goabstract.com/) 
+
+----
+**FYI:** @mention _stakeholders, relevant team members, or anyone else who might be impacted by this task's outcomes_
