@@ -1,23 +1,20 @@
 ---
 title:			Ultimate reading list for product managers
-description:	This ultimate reading list for product managers includes books, articles, blogs, and even podcasts and some videos, all curated with the product management professional in mind.  
-author:			judsonlmoore
-date:			2020-03-14 05:08:48 Z
-categories:		['Product Management']
-tags:			career
-permalink:		/ultimate-reading-list-for-product-managers/
-layout:			post
+description:	This ultimate reading list for product managers includes books, articles, blogs, and even podcasts and some videos.  
+categories:		['product management']
+tags:
+  - career
 image:			/assets/images/2020/03/ultimate-reading-list-for-product-managers.jpg
 ---
 
 
-I've been reading product mangement and other business books, articles, blogs, and listening to industry podcasts for years, even before I was a product manager. Here is a list of some of my favorites that I've found or had shared with me. I hope that you will find this ultimate reading list for product managers to be of value to you. 
+I've been reading product management and other business books, articles, blogs, and listening to industry podcasts for years, even before I was a product manager. Here is a list of some of my favorites that I've found or had shared with me. I hope that you will find this ultimate reading list for product managers to be of value to you. 
 
-**Have something to ad?** Please leave me a comment at the bottom of this page to suggest additions to this list. 
+**Have something to add?** Please leave me a comment at the bottom of this page to suggest additions to this list. 
 
 ## Books 
 
-This list contains general management and product management books. Certainly, reading in-depth about product managment is very valuable, but part of what makes a good product manager is to have broad knowledge, which is why I include general management and management books from other industries here.
+This list contains general management and product management books. Yes, reading in-depth about product management is very valuable. Still, part of what makes a good product manager is broad knowledge, which is why I include general management and management books from other industries.
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.books %}
 <h3 class="h5">{{ item.title }}</h3>
@@ -28,7 +25,7 @@ This list contains general management and product management books. Certainly, r
 
 ## UX Research
 
-Product managers work hand-in-hand with UX Resaerch and Design. Therefore, it makes sense to read up on that profession's best-practices as well. The more you know about how they garner insights, the better-equiped you'll be to work together as a product team.
+Product managers work hand-in-hand with UX Research and Design. Therefore, it makes sense to read up on that profession's best-practices as well. The more you know about how they garner insights, the better equipped you'll be to work together as a product team.
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.uxresearchbook %}
 <h3 class="h5">{{ item.title }}</h3>
@@ -39,7 +36,7 @@ Product managers work hand-in-hand with UX Resaerch and Design. Therefore, it ma
 
 ## Blogs
 
-Here are some great blogs to puruse. Be sure to subscribe to some of their newsletters for the most up to date insights. 
+Here are some great blogs to pursue. Be sure to subscribe to some of their newsletters for the most up to date insights. 
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.blogs %}
 <h3 class="h5">{{ item.title }}</h3>
@@ -50,7 +47,7 @@ Here are some great blogs to puruse. Be sure to subscribe to some of their newsl
 
 ## Articles
 
-Some articles have been of particular value to me in shaping my way of thinking as a product manager. For an uptodate look at what I am reading most recently, check out my [Pocket App RSS feed](https://getpocket.com/users/judsonlmoore/feed/all). Note that this feed contains all my saved articles, which also include travel-related things I am reading for trips I am planning ( I travel a lot). 
+Some articles have been of particular value to me in shaping my way of thinking like a product manager. For an up to date look at what I am reading most recently, check out my [Pocket App RSS feed](https://getpocket.com/users/judsonlmoore/feed/all). Note that this feed contains all my saved articles, which include travel-related things I am reading for trips I am planning ( I travel a lot). 
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.articles %}
 <p><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></p>
@@ -58,7 +55,7 @@ Some articles have been of particular value to me in shaping my way of thinking 
 
 ## Videos
 
-TED Talks and other conference videos make for great evening viewing and at-home learning. Here are a few of my favorites. 
+TED Talks and other conference videos make for excellent evening viewing and at-home learning. Here are a few of my favorites. 
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.videos %}
 <h3 class="h5">{{ item.title }}</h3>
@@ -71,7 +68,7 @@ TED Talks and other conference videos make for great evening viewing and at-home
 
 ## Podcasts
 
-For the commute to work or time at the gym, these podcasts offer really great insights to how other product managers approach their product challenges. 
+These podcasts offer great insights into how other product managers approach their product challenges and are great to listen to during your commute to work or time at the gym. 
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.podcasts %}
 <h3 class="h5">{{ item.title }}</h3>
@@ -104,7 +101,7 @@ A few of the prolific twitter accounts for some product management thought-leade
 
 ## Other
 
-Some other random resources for product managers. 
+Here are some other random resources for product managers. 
 
 {% for item in site.data.ultimate-reading-list-for-product-managers.other %}
 <p><a href="{{ item.url }}" target="_blank">{{ item.title }}</a> - {{ item.review }}</p>
