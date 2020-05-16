@@ -49,10 +49,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+      author: "judsonlmoore"
   - scope:
       path: ""
     values:
