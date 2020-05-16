@@ -1,13 +1,8 @@
 ---
 title:			My Peace Corps Mission is Accomplished
-date:			2013-05-05 04:44:56 Z
 categories:		['peace corps']
 tags:			bishkek, kyrgyzstan, life goal, peace corps, rpcv, talas
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2013/08/mission-accomplished.jpg
-
-
 ---
 
 Serving with the United States Peace Corps in Kyrgyzstan these last two years has been a tremendous experience. During my two years in Kyrgyzstan I accomplished many things; too many to attempt listing here. So let me just describe the cornerstone achievement: Mobile Community Media Centers.

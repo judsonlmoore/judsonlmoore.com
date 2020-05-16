@@ -1,14 +1,9 @@
 ---
 title:			India Travel Advice In Under 10 Minutes
-date:			2016-01-22 03:51:26 Z
 published: 		false
 categories:		india
-author:			judsonlmoore
 excerpt:		India is a wonderfully diverse and beautifully colorful country. I have traveled throughout India and have compiled my best advice here.
-layout:			post
 image:			/assets/images/2015/03/minaal-bag.jpg
-
-
 ---
 
 I have seen so much of India at this point that I feel like I can give you some good advice and connect you with folks in each area of the country. In the event that you visit India, I think the below read will be very helpful. Please, add your comments below or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

@@ -1,14 +1,9 @@
 ---
 title:			A Pondicherry Sunrise Is Better Than A Tequila Sunrise
-date:			2014-10-02 00:05:33 Z
 categories:		india
 tags:			adventure, india, travel
-author:			judsonlmoore
 excerpt:		This coastal town of Pondicherry sits on the Bay of Bengal in southeast India. This historical French colony is lined with cobblestone streets and charm.
-layout:			post
 image:			/assets/images/2015/01/IMG_0866.jpg
-
-
 ---
 
 ## A Sunrise In Pondicherry

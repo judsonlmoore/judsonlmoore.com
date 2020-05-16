@@ -1,13 +1,8 @@
 ---
 title:			LSU Alumni Magazine Article - Fall 2012
-date:			2012-10-07 00:18:45 Z
 categories:		['peace corps']
 tags:			kyrgyzstan, lsu, lsu alumni, peace corps, published, talas
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2012/10/LSUAlumniFall2012-2.jpg
-
-
 ---
 
 Here is a screenshot of my most recent article in the [LSU Alumni Association Magazine](http://lsualumni.org). The text from the article is posted below the screen shot. Enjoy!

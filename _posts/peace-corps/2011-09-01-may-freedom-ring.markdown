@@ -1,13 +1,8 @@
 ---
 title:			May Freedom Ring
-date:			2011-09-01 23:12:27 Z
 categories:		['peace corps']
 tags:			peace corps, talas
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2012/09/talas-city-center.jpg
-
-
 ---
 
 Yesterday was the 20th anniversary of the Kyrgyz Republic's independence from the USSR. To mark the occasion there was a parade downtown in front of the White House (The State of Talas's government building) in the morning followed by widely-held house parties, demonstrations of the national horse games and fireworks in the evening.

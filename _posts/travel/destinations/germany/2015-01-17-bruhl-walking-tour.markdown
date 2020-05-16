@@ -1,13 +1,8 @@
 ---
 title:			A Walk Through Brühl's Countryside and Palaces
-date:			2015-01-17 17:30:38 Z
 categories:		germany
-author:			judsonlmoore
 excerpt:		Brühl Germany is a quaint and peaceful town surrounded by palaces, historic estates and wonderful walking paths. Join me on my walk through Brühl!
-layout:			post
 image:			/assets/images/2015/10/IMG_4683.jpg
-
-
 ---
 
 I recently had the chance to reunite with a dear friend in his hometown of Brühl Germany. Mark and I worked together in [Kyrgyzstan]({{ site.url }}/kyrgyzstan/) to develop skills of journalists and media professionals. His trainings are one of the reasons why [KyrgyzMedia.com](http://KyrgyzMedia.com) has become so sustainable over the years, so clearly I am very grateful for his skill and friendship!

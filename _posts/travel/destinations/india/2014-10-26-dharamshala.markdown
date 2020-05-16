@@ -1,14 +1,9 @@
 ---
 title:			Dharamshala is Home To The Dalai Lama and This Wonderful Shopkeeper
-date:			2014-10-26 13:45:18 Z
 categories:		india
 tags:			adventure, dalai lama, india, mountains, travel, trekking
-author:			judsonlmoore
 excerpt:		Dharamshala is the refuge of the Tibetan people in India. Hospitality shines through their acts, their stories, and their business ethics.
-layout:			post
 image:			/assets/images/2015/01/IMG_0250.jpg
-
-
 ---
 
 ## Dharamshala

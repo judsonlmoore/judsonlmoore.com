@@ -1,14 +1,9 @@
 ---
 title:			Top 10 American Cities for Living Without a Car in 2017
-date:			2017-03-03 19:22:04 Z
 categories:		['united states of america']
 tags:			living without a car, ranking, report, top 10, transportation, walking
-author:			judsonlmoore
 excerpt:		Living without a car is the new American dream established by Millennials seeking a more efficient life. Here are the top cities where dreams come true.
-layout:			post
 image:			/assets/images/2017/03/top-10-living-without-car-america-redfin-2017.jpg
-
-
 ---
 
 ## Living without a car in America: First Impressions 

@@ -1,13 +1,8 @@
 ---
 title:			German Wine Country - A Taste of Landau and the Pfirmann Weingut
-date:			2016-09-08 20:38:08 Z
 categories:		germany
-author:			judsonlmoore
 excerpt:		The wide array of wineries, beautiful scenery, and friendly wine masters make German Wine Country a must-taste destination.
-layout:			post
 image:			/assets/images/2016/08/german-wine-country-landau.jpg
-
-
 ---
 
 ## A Weekend In The German Wine Country

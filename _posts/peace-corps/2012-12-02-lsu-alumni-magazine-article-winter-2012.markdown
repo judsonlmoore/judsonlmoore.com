@@ -1,13 +1,8 @@
 ---
 title:			LSU Alumni Magazine Article – Winter 2012
-date:			2012-12-02 02:44:09 Z
 categories:		['peace corps']
 tags:			bishkek, kyrgyzstan, lsu, lsu alumni, peace corps, published
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2013/01/LSUmag_Winter2012.jpg
-
-
 ---
 
 > Photo Caption: Judson and his Kyrgyz friends having fun at a cross-cultural dinner party. One of many such events he hosts in his home to share American culture and Louisiana cuisine." %}

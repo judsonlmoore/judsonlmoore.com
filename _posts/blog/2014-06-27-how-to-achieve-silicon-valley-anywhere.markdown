@@ -1,13 +1,8 @@
 ---
 title:			How to Achieve Silicon Valley Anywhere [crosspost]
-date:			2014-06-27 04:45:00 Z
 categories:		blog
 tags:			austin, brazos tech district, community, mutual mobile, publications
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2014/06/silicon-valley-usa.png
-
-
 ---
 
 _The following was originally posted on <re/code> on June 25, 2014. Read the original post [here](http://recode.net/2014/06/25/how-to-achieve-silicon-valley-anywhere)._

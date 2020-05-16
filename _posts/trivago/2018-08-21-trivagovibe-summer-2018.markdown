@@ -1,16 +1,10 @@
 ---
 title:			DRUMSON performs live at the trivagoVibe
-date:			2018-08-21 20:35:07 Z
 categories:		trivago
 tags:			#lifeattrivago
-author:			judsonlmoore
-comments:		true
 description:	I made my European debut as a solo drummer / performer during trivago's bi-annual trivagoVibe concert in Düsseldorf, Germany this summer.
 excerpt:		I was honored with the opportunity to headline the bi-annual trivagoVibe this summer.
-layout:			post
 image:			/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
-
-
 ---
 
 
@@ -64,8 +58,7 @@ Drummers typically sit in the back of the stage, behind the rest of the band. Th
 
 As I walked onto the stage, I slipped into character. For the next 32 minutes, I would be: **DRUMSON**.
 
-> **Update:** Checkout the official website for Drumson at [https://drumson.de](https://drumson.de)!
-
+> **Up
 {% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="Drumson performs a solo show at the 2018 trivagoVibe" caption="Drumson performs a solo show at the 2018 trivagoVibe" %}
 
 ## Watch Video Footage from my First DRUMSON Performance

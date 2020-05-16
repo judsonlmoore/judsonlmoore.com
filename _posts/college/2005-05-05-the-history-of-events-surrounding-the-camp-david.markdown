@@ -1,13 +1,8 @@
 ---
 title:			The History of Events Surrounding the Camp David Accords
-date:			2005-05-05 04:00:00 Z
 categories:		college
 tags:			politics
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2005/05/begin-sadat-carter-camp-david.png
-
-
 ---
 
 

@@ -1,15 +1,10 @@
 ---
 title:			Belo Horizonte is a historic and cultural capital of Brazil
-date:			2017-06-06 10:09:12 Z
 categories:		brazil
 tags:			brazil, south america, travel guide
 destination:	Belo Horizonte
-author:			judsonlmoore
 excerpt:		Discover the best things to do with this Belo Horizonte travel guide, including panoramic views, the metal museum, majestic parks, and the best steakhouse.
-layout:			post
 image:			/assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Praca-da-liberdade-flor.jpg
-
-
 ---
 
 ## Belo Horizonte Travel Guide

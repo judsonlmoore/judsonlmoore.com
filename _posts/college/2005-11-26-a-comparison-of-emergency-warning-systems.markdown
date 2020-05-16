@@ -1,12 +1,7 @@
 ---
 title:			A Comparison of Emergency Warning Systems
-date:			2005-11-26 08:00:00 Z
 categories:		college
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 In a November 2000 report published by the executive Subcommittee on Natural Disaster Reduction, about _Natural Disaster Information Systems_, three different major disaster warning systems and their relative application and effectiveness were discussed.  These three were the NOAA Weather Radio, the Emergency Alert System, and GPS technology.

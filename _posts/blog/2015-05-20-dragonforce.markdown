@@ -1,14 +1,9 @@
 ---
 title:			DragonForce Performs at the Mohawk in Austin Texas
-date:			2015-05-20 23:41:07 Z
 categories:		blog
 tags:			concert, live, music
-author:			judsonlmoore
 excerpt:		The English power metal band, DragonForce, of Guitar Hero fame, performed in Austin Texas and I got a first row experience of their amazing performance.
-layout:			post
 image:			/assets/images/2015/05/IMG_2217.jpg
-
-
 ---
 
 I've waited to see the English power metal band, DragonForce, for more than ten years! These guys came on to the pop culture radar by having the featured and impossible to play bonus song at the end of the Guitar Hero video game. They performed in Austin Texas at the outdoor stage of [The Mohawk](http://mohawkaustin.com/), which is one of my favorite venues and conveniently located just a few blocks away from my office. After work, some colleges and I walked down the hill to catch the show in the rain. It was an epic evening!

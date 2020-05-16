@@ -1,14 +1,9 @@
 ---
 title:			Why Travel While Young?
-date:			2016-02-21 02:47:46 Z
 categories:		lifestyle
 tags:			whileyoung
-author:			judsonlmoore
 excerpt:		Learn why travel at a young age is a critical foundation for developing skill, independence, and for ensuring a prosperous life.
-layout:			post
 image:			/assets/images/2016/01/adventure-2-e1463677777821.jpeg
-
-
 ---
 
 The greatest advantage I have had in life is that when I was young, I had many adults whom I respected tell me to, "do _it_ while you're young." Of course, "it" could mean anything: take a risk, start a business, save for retirement, but for me, it meant travel. One day after years of hearing their advice, I started listening and I've been on a grand adventure ever since. This poses the question: **Why Travel *While Young*?**

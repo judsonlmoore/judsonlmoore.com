@@ -1,14 +1,9 @@
 ---
 title:			A Nomad's Philosophy to Relationships
-date:			2016-01-30 17:44:26 Z
 categories:		lifestyle
 tags:			whileyoung
-author:			judsonlmoore
 excerpt:		Relationships struggle to survive the test of distance, and for good reason. As a nomad, I have learned how to protect the most precious relationships.
-layout:			post
 image:			/assets/images/2016/01/Relationships-A-Nomads-Philosophy-Featured-Image.jpeg
-
-
 ---
 
 For many years, I have had a philosophy regarding the quality of relationships. I have shared it with many people along my journey but I have never written about it. Recent events in my life make this philosophy seem increasingly relevant and so I would like to go ahead and share this with the world.

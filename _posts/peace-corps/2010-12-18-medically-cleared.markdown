@@ -1,13 +1,8 @@
 ---
 title:			Medically Cleared
-date:			2010-12-18 05:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 Two days ago my status was updated to reflect that "a decision has been made regarding your medical eligibility."  Well that is sure a little bit unsettling.  I have seen all of my results and everyone assures me that I am 100% healthy and that all tests came back with the desired results.  Plus I was on the phone with my PC medical office a few days ago and she told me that she expected to clear me the next day (when in fact my status was updated).

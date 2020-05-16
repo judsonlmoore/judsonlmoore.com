@@ -1,14 +1,9 @@
 ---
 title:			High Tech Tips for Any Resume
-date:			2016-01-25 03:19:18 Z
 categories:		lifestyle
 tags:			whileyoung
-author:			judsonlmoore
 excerpt:		Resume writing is an art form. Use these innovative resume tips to show that you understand technology and can think outside of the box.
-layout:			post
 image:			/assets/images/2016/01/resume-writing-man-notebook-laptop-1.jpg
-
-
 ---
 
 The purpose of a resume is to get you an interview. It needs to be catchy (but not tacky), impressive (but not long), and most importantly: well-organized (yet still creative). Everyone has their own style preference in writing a resume, so I am not going to get into that here. The purpose of this article is to provide some high-tech resume tips which can be applied to any resume. However, you can gain access to **my awesome high-tech resume template** along with lots of useful notes when you [subscribe to my email list]({{ site.url }}/subscribe/). So go do that now. It's ok. I will stay here and wait for you to come back. :)

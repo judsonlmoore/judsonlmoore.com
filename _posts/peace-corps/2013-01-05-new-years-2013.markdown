@@ -1,13 +1,8 @@
 ---
 title:			Happy New Year / С новым годом / Жаны жылыныздар менен
-date:			2013-01-05 16:36:53 Z
 categories:		['peace corps', kyrgyzstan]
 tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan, new year, party
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2013/01/2013-01-01_bishkek-newyear_featured.jpeg
-
-
 ---
 
 {% assign gallery = site.data.galleries %}

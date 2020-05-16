@@ -1,13 +1,8 @@
 ---
 title:			Selected! But Not Much More...
-date:			2011-01-06 05:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 Woooo!  My status has been updated to SELECTED FOR SERVICE!  Most unfortunately there is nothing else to report at this time.  They only state

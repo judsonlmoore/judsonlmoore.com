@@ -1,13 +1,8 @@
 ---
 title:			Medical Review - Blood and Teeth
-date:			2010-11-09 05:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 17 vials of blood!!  They took more blood out of me than I knew I even had in me!  It was more or less painless but still it was a shock to the system.  I had breakfast right after and then I was feeling fine.

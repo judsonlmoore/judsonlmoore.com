@@ -1,13 +1,8 @@
 ---
 title:			K-19 COS Conference
-date:			2013-04-06 22:52:05 Z
 categories:		['peace corps']
 tags:			cos, kyrgyzstan, peace corps, rpcv
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2013/04/DSC06366.jpg
-
-
 ---
 
 This is it. This is the end. I made it. Yet somehow, I don't feel any sense of accomplishment. As I participate in the commencement sessions of my Peace Corps group for three days at this resort, all I can think about is how I need to be back at my site. There is still so much work to be done and precious few hours left to accomplish it all. I still have two months until I will leave Kyrgyzstan, so this also just doesn't feel like goodbye, even though the topic of the conference is exactly that.

@@ -1,13 +1,8 @@
 ---
 title:			Interview Scheduled (for TOMORROW!)
-date:			2010-10-26 04:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 WOAH!  This is crazy!  My regional Peace Corps office (Dallas) received the additional follow up paperwork for my application yesterday and they called me today to setup an interview for TOMORROW!

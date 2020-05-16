@@ -1,14 +1,9 @@
 ---
 title:			The Expat Sandwich Podcast features my story of serving humanity.
-date:			2017-09-05 10:00:58 Z
 categories:		adventure
 tags:			interview, podcast, travel
-author:			judsonlmoore
 excerpt:		The Expat Sandwich Podcast features Americans living abroad and the crazy but interesting lives they lead. I share stories from my travels and work in humanitarian service in the season 2 opener.
-layout:			post
 image:			/assets/images/2017/09/expat-sandwich-bg.jpg
-
-
 ---
 
 [The Expat Sandwich Podcast](http://expatsandwich.com/) features Americans living abroad and the crazy antics that they encounter around the world. The show's producer, Marty Walker, and I had a wonderful time talking and she did a brilliant job of presenting my story on her podcast. You can play the episode below, but **I highly encourage you to subscribe to the podcast** and leave it a 5-star review [on iTunes](https://itunes.apple.com/us/podcast/expat-sandwich/id1205730536?mt=2).

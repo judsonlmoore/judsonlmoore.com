@@ -1,14 +1,9 @@
 ---
 title:			The Secret To All My Success
-date:			2016-01-30 22:44:25 Z
 categories:		lifestyle
 tags:			whileyoung
-author:			judsonlmoore
 excerpt:		Showing up is the first step in every success story, but it can be hard to know where to put your efforts. Learn now from my first "showing up" story!
-layout:			post
 image:			/assets/images/2016/01/The-Secret-Key-To-All-My-Success-Featured-Image.jpeg
-
-
 ---
 
 Throughout my life I've been asked many times about my success. "How do you get to travel so much?" "How are you able to convince others to pay for your travel?" "How are you so lucky?" How.. How.. How. The answer to all of this is exceedingly simple. I did not grow up in a wealthy family. I did not have extraordinary circumstances. It was also most certainly not just luck. The secret to my success is that _I showed up_. But showing up can be trickier than it sounds. Let me tell you the story of when I first started showing up.

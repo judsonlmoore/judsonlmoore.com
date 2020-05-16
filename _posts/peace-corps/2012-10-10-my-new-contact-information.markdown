@@ -1,13 +1,8 @@
 ---
 title:			My New Contact Information
-date:			2012-10-10 06:52:09 Z
 categories:		['peace corps']
 tags:			about me, contact info, judson l moore
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2012/10/NewContactInfo.jpg
-
-
 ---
 
 []({{ site.url }}/my-new-contact-information/)

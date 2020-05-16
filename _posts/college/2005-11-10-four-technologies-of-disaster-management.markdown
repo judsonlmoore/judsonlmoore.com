@@ -1,12 +1,7 @@
 ---
 title:			Four Technologies of Disaster Management
-date:			2005-11-10 08:00:00 Z
 categories:		college
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 When working in a disaster there are many resources and available technologies to help managers coordinate relief efforts.  Some of the key technologies include mapping, aerial photography, information management, and logistics.  The following is a brief review of these four areas and how their proper implication in the disaster management field can make a difference in saving lives.

@@ -1,18 +1,13 @@
 ---
 title:			The Lost City of Petra is More Amazing Than I Ever Imagined
-date:			2018-10-28 10:00:54 Z
 categories:		jordan
 tags:			travel guide
 destination:	Petra
-author:			judsonlmoore
-layout:			post
 featured:		true
 hidden:			true
 excerpt:		Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye.
 description:	Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye. Read now why a visit to Petra is a must for anyone visiting Israel or Jordan.
 image:			/assets/images/2018/05/petra-jordan-al-khazneh-treasury.jpg
-
-
 ---
 
 The lost city of Petra, of Indiana Jones fame, sits in the southern territories of Jordan, between Amman and [Wadi Rum]({{ site.url }}/wadi-rum-jordan-destination-guide/). This UNESCO World Heritage Site has been on my bucket list for a long time and I am glad to report that it does not disappoint. All I really knew about Petra was The Treasury building, which is famous for being the resting place of the Holy Grail in the 1989 film *Indiana Jones and the Last Crusade*. I was thrilled to descend the long and winding *Siq*, or path, into Petra, where The Treasury is not the first thing you see along the path, and as it turns out, it is not nearly the last thing either.

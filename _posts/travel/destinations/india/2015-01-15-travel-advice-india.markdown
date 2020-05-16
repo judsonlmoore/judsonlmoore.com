@@ -1,14 +1,9 @@
 ---
 title:			India Travel Guide - What I Learned After 6 Months On The Road
-date:			2015-01-15 14:37:39 Z
 categories:		india
 tags:			agra, dehli, jaipur, rajasthan, recommendations, tips, travel
-author:			judsonlmoore
 excerpt:		During a 6-month business trip to India, I took advantage of every weekend to travel to a different corner of this beautiful and vibrant country.
-layout:			post
 image:			/assets/images/2015/03/minaal-bag.jpg
-
-
 ---
 
 I have seen so much of India at this point that I feel like I can give you some good advice and connect you with folks in each area of the country. In the event that you visit India, I think the below India travel guide will be very helpful. Please, add your comments below!

@@ -1,13 +1,8 @@
 ---
 title:			The Nature of My Work
-date:			2011-07-03 20:40:04 Z
 categories:		['peace corps']
 tags:			peace corps, talas
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 I have been at my site now for 1 month. Though I have only scratched the surface of my work's potential and am still in the "honeymoon" phase, I feel like I have accomplished a lot. I will write more on the programs I have created later once they are funded. For now, allow me just to introduce you to my office.

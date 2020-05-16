@@ -1,13 +1,8 @@
 ---
 title:			Application Submitted!
-date:			2010-09-29 04:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 Ok so not much of an update here.  It took me weeks to do what I could have really done in a few hours or days at most.  Darn those essays!

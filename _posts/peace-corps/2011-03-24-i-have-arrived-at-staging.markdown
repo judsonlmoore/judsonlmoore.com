@@ -1,13 +1,8 @@
 ---
 title:			I have Arrived at Staging
-date:			2011-03-24 20:10:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 I have safely arrived to the Staging hotel in Philadelphia (room 542 if you are nearby!) I don't have anything scheduled until tomorrow at noon. From there, the schedule is head spinning! The staging event will last for 7 hours tomorrow afternoon. Presumably there will be free time in the evening to get to know my new colleagues and friends.

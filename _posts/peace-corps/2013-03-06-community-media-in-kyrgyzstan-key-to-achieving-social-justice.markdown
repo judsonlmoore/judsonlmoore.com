@@ -1,13 +1,8 @@
 ---
 title:			Community Media in Kyrgyzstan Key to Achieving Social Justice [cross-post]
-date:			2013-03-06 04:44:27 Z
 categories:		['peace corps']
 tags:			bishkek, central asia, kyrgyzstan, peace corps, projects, service, talas, un, unesco
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2013/03/1247.jpg
-
-
 ---
 
 The culmination of months of work, preparation and an international team overcoming very difficult situations get's summed up nicely in this article posted on the UNESCO-Kazakhstan website. Though I am not mentioned here, my work site, [Kloop Media,](http://kloop.kg) and my director, Rinat Tykhvanshin, are. I will let it speak for it's self.

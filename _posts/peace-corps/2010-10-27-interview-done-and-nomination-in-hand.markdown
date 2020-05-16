@@ -1,13 +1,8 @@
 ---
 title:			Interview Done and Nomination In Hand
-date:			2010-10-27 04:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 I'm just going to jump in and tell you the end of the story up front:

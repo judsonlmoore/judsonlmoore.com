@@ -1,14 +1,10 @@
 ---
 title:			Young, free, and female. How to be happy in a world full of choice and pressure.
-date:			2017-03-21 10:00:06 Z
 categories:		['female travel']
 tags:			guest author, life choices, live your what if
 author:			tarahmason
 excerpt:		Travel blogger Tarah Mason writes a guest post about how to be happy in a world full of opportunities, pressures, and unlimited possibilities.
-layout:			post
 image:			/assets/images/2017/03/avatar-tarah-mason.jpg
-
-
 ---
 
 ## Being happy starts and ends with you

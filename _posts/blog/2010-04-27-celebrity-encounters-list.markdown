@@ -1,13 +1,8 @@
 ---
 title:			Celebrity Encounters List
-date:			2010-04-27 02:29:00 Z
 categories:		blog
 tags:			celebrity encounter, music
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 **\* indicates the number of times I have encountered this group/person  

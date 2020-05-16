@@ -1,13 +1,8 @@
 ---
 title:			Thanksgiving, New Government and New Year
-date:			2011-12-04 17:06:57 Z
 categories:		['peace corps']
 tags:			bishkek, culture, holiday, kyrgyzstan, peace corps, thanksgiving
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2011/12/ThanksgivingNewGovernmentAndNewYear_featured.jpg
-
-
 ---
 
 Being as far away from America as I am did not put even the slightest dent in my celebrating the Thanksgiving holiday last week. Thanks to the US Embassy in Bishkek and the Peace Corps staff we had 3 x 20lbs Butterball turkeys and all the dishes you would expect to see at any American celebration of thanks.

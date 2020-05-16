@@ -1,13 +1,8 @@
 ---
 title:			Tips For Overcoming Language Barriers
-date:			2016-08-01 17:43:59 Z
 categories:		['travel tips']
-author:			judsonlmoore
 excerpt:		Language barriers are hard to overcome but with these simple tips you will find yourself speaking and comprehending in no time!
-layout:			post
 image:			/assets/images/2016/08/tips-for-overcoming-langauge-barriers-featured-image.jpeg.jpg
-
-
 ---
 
 There is no such thing as an "easy Language" to learn. After all, a language is an inherently huge thing. That said, there are a lot of things you can do to quickly overcome language barriers and rapidly ascend to fluency.

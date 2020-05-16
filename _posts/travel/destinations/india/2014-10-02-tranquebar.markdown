@@ -1,14 +1,9 @@
 ---
 title:			Three reasons Tranquebar is worth the long drive to get to
-date:			2014-10-02 23:00:29 Z
 categories:		india
 tags:			awesome, beach, fort, india, seafood, vacation
-author:			judsonlmoore
 excerpt:		Tranquebar is Christianity's origin point in India, home to the largest Danish fort outside of Europe, and one amazing B&B I called home.
-layout:			post
 image:			/assets/images/2015/01/IMG_1032.jpg
-
-
 ---
 
 ## Resting In Tranquebar

@@ -1,13 +1,8 @@
 ---
 title:			'Selected: Kyrgyz Republic'
-date:			2011-01-10 05:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 I was right! Kyrgyz Republic here I come!

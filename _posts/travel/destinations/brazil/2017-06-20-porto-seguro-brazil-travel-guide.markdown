@@ -1,15 +1,10 @@
 ---
 title:			Porto Seguro is the best beach town in the whole world. Here is why.
-date:			2017-06-20 10:00:45 Z
 categories:		brazil
 tags:			beach, brazil, south america, travel guide
 destination:	Porto Seguro
-author:			judsonlmoore
 excerpt:		Porto Seguro is where Portuguese colonialists discovered Brazil. Full of history, this coastal town has the perfect mix of beach, activity, and history.
-layout:			post
 image:			/assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Historic-Center.jpg
-
-
 ---
 
 ## Porto Seguro: My favorite beach in the world

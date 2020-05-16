@@ -1,14 +1,9 @@
 ---
 title:			Cartagena - A Historical Tour Through Colombia's Magnificent Port
-date:			2014-11-03 08:34:38 Z
 categories:		colombia
 tags:			colombia, reunion, rotary, rye, south america, travel
-author:			judsonlmoore
 excerpt:		Cartagena is a historic city on the Caribbean coast of Colombia full of culture, music, seafood and great times for great people!
-layout:			post
 image:			/assets/images/2014/11/IMG_2413.jpg
-
-
 ---
 
 I am so excited to tell you about the stunning and fun city of Cartagena! If you have some tips to add, please do so in the comments below or by messaging me directly at [@judsonlmoore](https://twitter.com/judsonlmoore).

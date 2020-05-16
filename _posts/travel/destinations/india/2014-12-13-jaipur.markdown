@@ -1,13 +1,8 @@
 ---
 title:			Jaipur - Home of Royalty, Castles and the Kama Sutra
-date:			2014-12-13 05:09:38 Z
 categories:		india
-author:			judsonlmoore
 excerpt:		Jaipur sits in the heart of Rajasthan India and is home to detailed architecture and epic palaces suitable only for the most refined tastes in the world.
-layout:			post
 image:			/assets/images/2015/01/IMG_40421.jpg
-
-
 ---
 
 ## The Pink City

@@ -1,15 +1,10 @@
 ---
 title:			Edinburgh Free Walking Tour
-date:			2018-02-08 11:00:44 Z
 categories:		scotland
 tags:			adventure, travel guide, travel tips, walking tour
-author:			judsonlmoore
 description:	The Edinburgh free walking tour by SANDEMANs is a great way to start your trip in Edinburgh and orient yourself to the city and to Scottish history.
 excerpt:		On my recent trip to Edinburgh, I kicked off my day with a free walking tour of the city. The experience proved to be a great way to orient myself to the city and to Scottish history. I took lots of photos and now share what I learned along the way.
-layout:			post
 image:			/assets/images/2018/01/free-walking-tour-edinburgh-skyline.jpg
-
-
 ---
 
 I am believing more and more that **the very best way to start any trip** is with a free walking tour. These tours are offered in many of the world's top destinations and are a great way to quickly orient yourself to the highlights a city has to offer. Most walking tours do not go inside of the sites, churches, and castles, but rather offer stories and a local's perspective on what makes the city unique. If you kick off a weekend trip with a free walking tour, then you will be well-equipped to spend the next days getting to know the city in greater detail on your own.

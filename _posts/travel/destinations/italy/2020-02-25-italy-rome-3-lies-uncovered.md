@@ -1,17 +1,12 @@
 ---
 title:			Three lies about Rome uncovered
 description:	On a recent visit to Rome I was surprised to learn that these three commonly known Roman facts are not true.
-author:			judsonlmoore
-date:			2020-02-18 08:08:48 Z
 categories:		italy
 tags:            
   - travel
   - insider tips
-layout:			post
 image:			/assets/images/2020/02/italy-rome-colosseum-arena-floor-selfie.jpg
 permalink:		/three-lies-about-rome-uncovered/
-
-
 ---
 
 

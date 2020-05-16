@@ -1,13 +1,8 @@
 ---
 title:			FLEX Exam 2012 Bishkek
-date:			2012-10-14 12:46:46 Z
 categories:		['peace corps']
 tags:			accels, bishkek, flex, kyrgyzstan, testing
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2013/01/FLEXExamBishkek2012_featured.jpg
-
-
 ---
 
 I was asked to help proctor the FLEX exam this year in Bishkek. Here is a snippet about the program from the FLEX Website:

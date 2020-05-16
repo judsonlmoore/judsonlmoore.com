@@ -1,11 +1,8 @@
 ---
 title:			COVID-19 Life in Berlin
-date:			2020-04-14 08:00:00 Z
 categories:		blog
 tags:			berlin, germany, covid-19
-author:			judsonlmoore
 excerpt:		This is what my life at home looks like in Berlin during the COVID-19 pandemic. There is a lot to keep my mind off the world falling apart around me.
-layout:			post
 image:			/assets/images/2020/04/covid19-berlin-germany-hoarding.jpg
 ---
 

@@ -1,13 +1,8 @@
 ---
 title:			Peace Corps Hardship
-date:			2012-03-20 15:03:03 Z
 categories:		['peace corps']
 tags:			lifestyle, peace corps, talas
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2012/09/pcv-hardship.jpeg
-
-
 ---
 
 Life in the Peace Corps is not as luxurious as some might think it could be. Here is a quick shot of my daily hardship:

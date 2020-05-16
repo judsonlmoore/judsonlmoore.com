@@ -1,11 +1,8 @@
 ---
 title:			Жатсон доско тамаша!
-date:			2011-06-29 20:53:02 Z
 categories:		['peace corps']
 tags:			peace corps, talas
-author:			judsonlmoore
 permalink: 		/kyrgyz-poem-for-my-birthday/
-layout:			post
 image:			
 ---
 

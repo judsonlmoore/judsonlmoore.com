@@ -1,14 +1,9 @@
 ---
 title:			Living Without A Car in America
-date:			2016-01-30 17:44:26 Z
 categories:		['travel tips']
 tags:			whileyoung
-author:			judsonlmoore
 excerpt:		Living without a car in America may seem unpatriotic or even impossible, but with these basic tips, you too can live a blissful and car-free life!
-layout:			post
 image:			/assets/images/2016/01/Living-In-America-Without-A-Car-Featured-Image.jpg
-
-
 ---
 
 After living abroad for a few years, I found myself coming home to America for a new job. I was headed to Texas, home of big trucks and vast expanses between places. I thought to myself that the first order of business would be to purchase a new vehicle, seeing as how I didn't own one at the time. On arrival, the guy who hired me offered me a challenge: try living without a car for 30 days; if you hate it, buy a vehicle. I took his challenge and am happy to report that three years later, I am still blissfully living without a car!

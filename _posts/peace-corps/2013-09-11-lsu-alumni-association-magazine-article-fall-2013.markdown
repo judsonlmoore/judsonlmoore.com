@@ -1,13 +1,8 @@
 ---
 title:			LSU Alumni Association Magazine Article – Fall 2013
-date:			2013-09-11 10:39:38 Z
 categories:		['peace corps']
 tags:			bishkek, kyrgyzstan, lsu, lsu alumni, peace corps, published
-author:			judsonlmoore
-layout:			post
-image:			/assets/images/2013/09/IMG_2062.jpg
-
----
+image:			/assets/images/2013/09/IMG_2062.jpg---
 
 Well, this chapter of my life has now officially concluded. With my final article in the LSU Alumni Magazine, Peace Corps is officially in my past. Enjoy the read and thank you all for the support. On to the next adventure!
 

@@ -1,13 +1,8 @@
 ---
 title:			Why The Peace Corps?
-date:			2010-09-03 04:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 Having grown up in a politically-charged family I always took politics and matters of great concern with a grain of salt. It was not until my return from a year in Germany as a Rotary Youth Exchange Student that I started to have a greater appreciation for the world around me. Exactly one year later I returned from a 6-month trip to Brazil. As my mother says, "Germany opened my eyes to the world and Brazil opened my eyes to myself."

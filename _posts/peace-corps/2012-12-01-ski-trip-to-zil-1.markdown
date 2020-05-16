@@ -1,13 +1,8 @@
 ---
 title:			Ski Trip To Zil #1
-date:			2012-12-01 17:05:44 Z
 categories:		['peace corps', kyrgyzstan]
 tags:			bishkek, fun, kyrgyzstan, ski kg, skiing, sports, zil
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2013/01/SkiTripToZil_1_featured.jpg
-
-
 ---
 
 Ski Season is here! My desire for years has been to live within a 3-hours drive of skiing. And now I am less than an hour away from skiing. And what makes it even better is that an entire day's cost (transport, food, ski rental and lift pass) costs less than \$30.00!

@@ -2,19 +2,14 @@
 title:			My interview on LeanPub's Frontmatter Podcast
 description:	My publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself.
 excerpt:		My publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself.
-author:			judsonlmoore
-date:			2019-07-12 21:08:48 Z
 categories:		blog
 tags:			
   - interview
   - podcast
   - life story
-layout:			post
 permalink:		/interview-leanpub-frontmatter-podcast/
 image:			/assets/images/2019/07/leanpub-frontmatter-podcast-interview-with-judsonlmoore.png
 toc:			false
-
-
 ---
 
 Just before I published my first book, [Exponential Happiness]({{ site.url }}/book/), my publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself. 

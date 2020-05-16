@@ -1,17 +1,12 @@
 ---
 title:			The consequences of Rotary Youth Programs
 description:	Reflecting on how Rotary Youth Programs have impacted my life has led me to promote this call to action for Rotarians everywhere.
-author:			judsonlmoore
-date:			2020-03-04 08:08:48 Z
 categories:		blog
 tags:			
   - rotary
   - youth exchange
-layout:			post
 image:			/assets/images/2020/02/rotary-youth-exchange-group-photo.jpg
 permalink:		/consequences-of-rotary-youth-programs/
-
-
 ---
 
 

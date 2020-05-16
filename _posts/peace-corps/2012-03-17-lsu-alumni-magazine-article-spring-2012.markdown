@@ -1,13 +1,8 @@
 ---
 title:			LSU Alumni Magazine Article - Spring 2012
-date:			2012-03-17 22:07:00 Z
 categories:		['peace corps']
 tags:			kyrgyzstan, lsu, lsu alumni, peace corps, published, talas
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2012/03/LSUAlumniMagazineArticleSpring20121.jpg
-
-
 ---
 
 Greetings Tiger Nation,

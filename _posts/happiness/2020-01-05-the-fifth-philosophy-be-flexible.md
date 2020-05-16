@@ -1,14 +1,9 @@
 ---
 title:			Be flexible
-date:			2020-01-02 19:00:00 Z
 categories:		happiness
 tags:			happiness
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2020/01/philosophy-5-be-flexible.png
-toc:			false
-
----
+toc:			false---
 
 Your work isn't over once you've [written a plan for accomplishing your life goals]({{ site.url }}/the-fourth-philosophy-a-bad-plan-is-better-than-no-plan/). As I said there, "The most important aspect to any plan is the flexibility to change." This philosophy is critical. A long-term plan will not serve you well if you do not allow yourself the flexibility to make changes as you go. 
 

@@ -1,13 +1,8 @@
 ---
 title:			Lost or Stolen Passport? Stay Calm and Follow These Instructions.
-date:			2016-08-25 20:51:44 Z
 categories:		['travel tips']
-author:			judsonlmoore
 excerpt:		A lost or stolen passport can be one of the most panic-inducing realizations a traveler can encounter. This happens everyday, and there is a clear solution.
-layout:			post
 image:			/assets/images/2016/08/lost-passport.jpeg
-
-
 ---
 
 You're planning your next adventure, or perhaps you are out somewhere in the world discovering new sights, smells, and sounds. Then you come to a panicked realization: **I have lost my passport!** Yes, this is bad news. But do not panic! This happens all the time and there are clear guidelines for how to replace your lost or stolen passport.

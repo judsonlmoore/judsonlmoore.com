@@ -1,13 +1,8 @@
 ---
 title:			The Development of the Modern State
-date:			2005-02-02 05:00:00 Z
 categories:		college
 tags:			politics
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 In this chapter two points are made: first, discuss the different forms of ‘state’ which have existed and how that transformed into the modern state; second, why it is that the nation-state became the dominate form of the modern state.

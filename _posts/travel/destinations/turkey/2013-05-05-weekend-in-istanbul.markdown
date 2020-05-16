@@ -1,13 +1,8 @@
 ---
 title:			What to do for A Weekend in Istanbul
-date:			2013-05-05 17:29:52 Z
 categories:		turkey
-author:			judsonlmoore
 excerpt:		If you find yourself having a weekend in Istanbul, Turkey, then this is the guide for you! I was there just three days but saw a huge amount of sites.
-layout:			post
 image:			/assets/images/2013/05/IMG_1765.jpg
-
-
 ---
 
 Before we get too far down the Istanbul rabbit hole of awesomeness, let me remind you that I just had a major abdominal surgery a few weeks ago and am still very much in the midst of recovering. I give a lot of thumbs ups and smiles for the camera, but I had to move really carefully and slowly through all of this. That said, please forgive me if I tended to not do my hair.
@@ -64,8 +59,7 @@ I arrived at the Blue Mosque first thing in the morning and still had an hour or
 
 Upon exiting the Blue Mosque, we ran into a film shoot for a Bollywood film. We stayed and watched for a few minutes before carrying on.
 
-> **Update:** While living in [Hyderabad India]({{ site.url }}/india/) (two years after being in Istanbul), I showed this clip to some colleagues and they recognized it instantly. What we saw being filmed can be seen in its final cut [at 1:35 in this video featuring Jeet & Subhasree](https://www.youtube.com/watch?v=xNEsq9zMX-Y).
-
+> **Up
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pL4DmS4Ork" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Obelisk of Theodosius
@@ -84,8 +78,7 @@ Topkapı Palace was the seat of the once great Ottoman Empire for over 400 yea
 
 Also known as the Spice Bazaar, the Mısır Çarşısı (Egyptian Bazaar) is quite likely the most delicious smelling place I have ever been. This massive sprawl of mostly spice and tea vendors sell their quality products in an open-air fashion which fills the air, and your nostrils, with wonderful smells. If this is a glimpse into what Egypt is like, then I can not wait to get there someday soon!
 
-> **Update:** I have now been to Egypt! Check out those stories [here]({{ site.url }}/egypt/).
-
+> **Up
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery[""] %}
 {% include gallery-lightbox.html images=images %}

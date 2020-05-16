@@ -1,14 +1,9 @@
 ---
 title:			The Annual Hyderabad 10k Around The Hussain Sagar Lake
-date:			2014-11-29 13:20:20 Z
 categories:		blog
 tags:			fitness, health, hyderabad, india, running
-author:			judsonlmoore
 excerpt:		The annual Hyderabad 10k is a massive city-wide event with olympian leaders, beautiful scenery and live music on at every kilometer.
-layout:			post
 image:			/assets/images/2015/04/IMG_0973.jpg
-
-
 ---
 
 [Mutual Mobile]({{ site.url }}/tags/#mutual-mobile/) participates every year in the Hyderabad 10k. I happened to be in town for this event and so, naturally, I ran with the team! The running path is along the Necklace Road, which surrounds the Hussain Sagar Lake in the heart of the city. The event was reminiscent of the Mardi Gras Marathon in New Orleans because they had a stage with live music at every kilometer marker. The music ranged from traditional to rock, to school choirs. I ran the whole 10k, but only 1km at a time, then I would listen to the music for awhile and run to the next stage. I couldn't help myself!

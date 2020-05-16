@@ -1,11 +1,8 @@
 ---
 title:			I never thought this would happen to me
-date:			2020-04-29 08:00:00 Z
 categories:		blog
 tags:			disaster, planning
-author:			judsonlmoore
 excerpt:		Failing to accept that tragedy will impact your life leaves you vulnerable to be unprepared in the inevitable moment that disaster strikes. Face these possibilities head-on and make a plan.
-layout:			post
 image:			/assets/images/2020/04/shock-and-suprise.jpeg
 ---
 

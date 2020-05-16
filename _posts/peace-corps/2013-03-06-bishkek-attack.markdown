@@ -1,13 +1,8 @@
 ---
 title:			Bishkek Attack
-date:			2013-03-06 14:12:41 Z
 categories:		['peace corps']
 tags:			atack, bishkek, interests, kyrgyzstan, travel safety, violence
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2013/03/thumbs_up_doctors_iStock_00_620x350.jpg
-
-
 ---
 
 Just considering that I would begin this post with something like, "I don't know how important it is to tell you that..." should be a pretty clear indicator, but for the sake of documentation, and most importantly, to let you all know that I am OK, let me tell you a little about my Saturday evening.

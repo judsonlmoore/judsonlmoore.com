@@ -1,14 +1,9 @@
 ---
 title:			Salt Cathedral of Zipaquirá - A Subterranean Monument of Faith
-date:			2014-11-08 08:44:27 Z
 categories:		colombia
 tags:			Colombia, reunion, rotary, rye, south america, travel
-author:			judsonlmoore
 excerpt:		The Salt Cathedral of Zipaquirá on the outskirts of Bogota, Colombia, is perhaps the world's grandest testament of a people's faith to their creator.
-layout:			post
 image:			/assets/images/2014/11/IMG_3601.jpg
-
-
 ---
 
 ## The Salt Cathedral of Zipaquirá

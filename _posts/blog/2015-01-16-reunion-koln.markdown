@@ -1,13 +1,8 @@
 ---
 title:			Reunion, Kölsch and Architecture of Köln (Cologne)
-date:			2015-01-16 22:10:15 Z
 categories:		blog
 tags:			europe, germany, reunion, train
-author:			judsonlmoore
-layout:			post
 image:			/assets/images/2015/09/koln.jpg
-
-
 ---
 
 After spending [5-months in India]({{ site.url }}/india/) building out [a new facility for Mutual Mobile]({{ site.url }}/mutual-mobile-hyderabad/), I get to take a few weeks of vacation! I am returning to Germany for the first time since my high school Rotary Youth Exchange year in Oldenburg and am very excited to reconnect with old friends. My fist stop on this journey is Köln, known in English-speaking circles as Cologne.

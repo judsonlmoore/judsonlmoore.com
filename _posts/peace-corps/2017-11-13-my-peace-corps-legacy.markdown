@@ -1,14 +1,9 @@
 ---
 title:			What I have learned about my Peace Corps legacy in Kyrgyzstan
-date:			2017-11-13 21:13:21 Z
 categories:		['peace corps']
 tags:			bishkek, kyrgyzstan, peace corps, service above self, talas
-author:			judsonlmoore
 excerpt:		I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
-layout:			post
 image:			/assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg
-
-
 ---
 
 I just returned from a 2-week trip to Kyrgyzstan. “Kyrgyz-what???” you say? Exactly. Well, if you have been paying attention to my writings the last years then you will recall that [**I served in the US Peace Corps**]({{ site.url }}/categories/#jobs/peace-corps/) from 2011-2013 in Kyrgyzstan.

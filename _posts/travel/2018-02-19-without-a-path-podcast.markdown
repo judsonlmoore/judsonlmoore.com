@@ -1,15 +1,10 @@
 ---
 title:			The Without a Path Podcast asked me to share travel advice in Kyrgyzstan
-date:			2018-02-19 16:41:33 Z
 categories:		kyrgyzstan
 tags:			interview, podcast, travel
-author:			judsonlmoore
 description:	
 excerpt:		I share travel advice from Kyrgyzstan on The Without a Path Podcast with American writer, traveler, and meddler Joe Baur. We discuss travel, tourism, humanitarianism, and a sheep slaughter.
-layout:			post
 image:			/assets/images/2018/02/without-a-path-judson-in-kyrgyzstan.jpg
-
-
 ---
 
 [The Without a Path Podcast](https://withoutapath.com/) with the American writer, traveler, and meddler Joe Baur is chock full of intriguing chats with creative types, adventurers, and the occasional story of hope for humanity. Guests share stories about the travels which has helped define their lives in this weekly travel podcast. **I highly encourage you to subscribe to** the [Without A Path Podcast on iTunes](https://podcasts.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).

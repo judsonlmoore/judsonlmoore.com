@@ -1,13 +1,8 @@
 ---
 title:			Application Followup Paperwork
-date:			2010-09-18 04:00:00 Z
 categories:		['peace corps']
 tags:			peace corps
-author:			judsonlmoore
-layout:			post
 image:			
-
-
 ---
 
 Well they got the application but that (of course) just lead to more paperwork!  They sent me forms for fingerprints and are asking about financial (read: debt) standings.  Luckily I am pretty much debt free and getting the finger prints was easy enough thanks to the fine folks at the Pineville Police Department.
