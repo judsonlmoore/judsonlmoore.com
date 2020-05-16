@@ -1,10 +1,12 @@
 ---
 title:			A bad plan is better than no plan
-categories:		happiness
-tags:			happiness
 description:	
+categories:		happiness
+tags:
+  - happiness
 image:			/assets/images/2020/01/philosophy-4-a-bad-plan-is-better-than-no-plan.png
-toc:			false---
+---
+
 
 Now that you have your *what if* in mind, you are energized to show up, and you have learned from others around you, what comes next? Well, you need a plan! Just as I draft an outline for my books before I started to write paragraphs, you need to have an idea about the steps that are necessary to take to reach your goal.
 

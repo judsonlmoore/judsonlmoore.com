@@ -8,7 +8,8 @@ category: 		product management
 image: 			/assets/images/2020/05/judson-moore-speaking-at-becoming-ebay-in-berlin.jpg
 ---
 
-## Applied decision-making
+
+## Applied decision-making 
 
 Product management plays a central role in the software development workflow. On one side sits the stakeholders, business developers, user researchers, and analytics teams, each inputting a seemingly endless amount of requirements and opportunities. On the other side lies the engineering and delivery team with constraints regarding what can be delivered over a specific period. 
 

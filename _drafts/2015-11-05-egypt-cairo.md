@@ -9,8 +9,6 @@ tags:
 layout:			post
 permalink:		/cairo-egypt-travel-guide/
 image:			/assets/images/2015/11/egypt-cairo-032.jpg
-
-
 ---
 
 

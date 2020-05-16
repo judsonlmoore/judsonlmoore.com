@@ -9,7 +9,7 @@ image:			/assets/images/2019/05/exponential-happiness-background.jpg
 ---
 
 
-## My life philosophies
+## My life philosophies 
 
 There are several principles, philosophies really, by which I have come to live my life. In the course of my book, *[Exponential Happiness*]({{ site.url }}/book/)* I share each of these in great detail. I describe how I came to discover each of these principles, how they have challenged me, how I have challenged them, and how you can apply them to your way of thinking. Let me take a moment to outline a few of these:
 

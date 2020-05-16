@@ -4,6 +4,7 @@ categories:		college
 image:			
 ---
 
+
 When working in a disaster there are many resources and available technologies to help managers coordinate relief efforts.  Some of the key technologies include mapping, aerial photography, information management, and logistics.  The following is a brief review of these four areas and how their proper implication in the disaster management field can make a difference in saving lives.
 
 Knowing the geographic features of the effected area are extremely important.  Having reliable maps is key to planning the distribution of resources and people, as well as determining what obstacles are likely to be in the way of getting to those locations.  There are many different types of maps which can be used to asses the area: topographic maps, geologic maps, hazard maps, demographic maps, and hurricane tracking maps.  It is important to have both access to this reliable information, as well as have a proficient ability to read these maps.

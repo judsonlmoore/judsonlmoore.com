@@ -9,8 +9,6 @@ tags:
 layout:			post
 permalink:		/alexandria-egypt-travel-guide/
 image:			/assets/images/2015/11/egypt-alexandria-018.jpg
-
-
 ---
 
 

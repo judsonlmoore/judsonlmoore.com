@@ -1,10 +1,12 @@
 ---
 title:			Suffering does not make you stronger; learning does.
-categories:		happiness
-tags:			happiness
 description:	Don't repeat the mistakes of the previous generation. Learn from your elders and then use the seven learning styles to actively learn something new.
+categories:		happiness
+tags:
+  - happiness
 image:			/assets/images/2020/01/philosophy-3-suffering-does-not-make-you-stronger-learning-does.png
-toc:			false---
+---
+
 
 "I had to suffer when I was your age, so you do too; it builds character!" Does this sound familiar to you? I adamantly disagree with this sentiment. "Character" can be learned in any number of ways, and struggles of the previous generation should not be the struggles of today's generation. There are plenty of ways to build character, there is no reason to needly repeat preventable mistakes when they can simply be avoided. 
 

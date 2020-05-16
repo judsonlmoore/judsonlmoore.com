@@ -9,8 +9,6 @@ tags:
 layout:			post
 permalink:		/luxor-egypt-travel-guide/
 image:			/assets/images/2015/11/egypt-luxor-007.jpg
-
-
 ---
 
 

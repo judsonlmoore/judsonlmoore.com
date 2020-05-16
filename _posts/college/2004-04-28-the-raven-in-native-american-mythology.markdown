@@ -6,6 +6,7 @@ excerpt:		The raven is a very important figure in most Native American cultures.
 image:			/assets/images/2004/04/NativeAmericanRaven.jpg
 ---
 
+
 _Photo Credit: [Larry Vienneau](https://www.etsy.com/listing/82025011/raven-artwork-raven-crow-aquatint?ref=shop_home_active_24)_
 
 > If you have any questions about this paper or the Raven in Native American Mythology, feel free to leave a comment below or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore).

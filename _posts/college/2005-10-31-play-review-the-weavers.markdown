@@ -4,6 +4,7 @@ categories:		college
 image:			/assets/images/2012/09/tumblr_l6pgvn60651qb60c5.jpg
 ---
 
+
 _The Weavers_, by Gerhart Hauptman, is a play about the suppressed weavers of Peterswaldu, Langenbielau, and Kaschbach, Germany.  This story tells about their efforts to liberalize themselves from the trappings of poverty and the social structure which keeps them there.  This struggle leads into a violent revolt which ends with innocent death.  Before the events of the play can be outlined in any detail, I will introduce a few of the main characters.
 
 Dreissiger is a local merchant and owner of a textile production company.  The weavers come to him once a week to sell him the cloth that they have made and to obtain new yarn in which to make more for the next month.  Dreissiger pays the weavers too little because he says that the cloth is not in high demand on the market.  Yet at the same time he is able to employ 200 additional weavers.  He uses the excuse that he is just trying to help, but in reality he is exploiting the workers.

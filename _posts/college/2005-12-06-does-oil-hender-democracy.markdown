@@ -5,6 +5,7 @@ tags:			politics
 image:			
 ---
 
+
 The Article, _Does Oil Hender Democracy_, by Michael Ross, examines why the generally excepted theory that economic growth fosters democratic rule fails in countries where the main economic stimulator is from oil production.  The Middle East, Central Asia, and Venezuela all share two things in common: they are all major oil-producing countries and they all have non-democratic regimes.  Ross structures his paper by studying three aspects to the, “oil-impedes-democracy” claim.
 
 The first of these aspects is testing whether or not a claim is valid.  For instance, it is difficult to test a claims validity when there are no variations upon which to test it against.  The example Ross gives us is that of countries in the Middle East which produce few scholars with multiple dependent variables; the dependent variable of course being regime type.  In the oil-rich Middle Eastern countries, all regimes have been authoritarian since gaining independence.  Since few countries in the Middle East have every experienced any regime which was not authoritarian, it is difficult to test any theory using regime type as the dependent variable in the Middle East.  Because of this, it can be said that there are other factors which determine regime type which are not economic, for instance, the fact that much of the Middle East is Islamic, greatly impacts the region’s culture.

@@ -1,9 +1,23 @@
 main:
-  - page: Happiness
-    url: /happiness/
-  - page: Lifestyle
-    url: /lifestyle/
-  - title: Travel Guides
+  - title: Lifestyle
+    subfolderitems:
+      - page: Happiness
+        url: /happiness/
+      - page: WhileYoung
+        url: /lifestyle/
+  - title: Career
+    subfolderitems:
+      - page: Product Management
+        url: /product-management/
+      - page: Resume writing
+        url: /high-tech-resume-tips/
+      - page: Reading list
+        url: /readinglist/
+      - page: Fellowships
+        url: /international-fellowship-programs/
+      - page: Peace Corps
+        url: /peacecorps/
+  - title: Travel
     subfolderitems:
       - page: Brazil
         url: /brazil/
@@ -39,8 +53,20 @@ main:
         url: /uae/
       - page: United States of America
         url: /usa/
-  - page: Female Travel
-    url: /female-travel/
+      - page: Female Travel
+        url: /female-travel/
+      - page: Travel insurance
+        url: /travel-insurance/
+  - title: About
+    subfolderitems:
+      - page: About Judson
+        url: /about/
+      - page: My Resume
+        url: /resume/
+      - page: Contact
+        url: /contact/
+      - page: Subscribe
+        url: /subscribe/
 secondary:
   - page: About Me
     url: /about/

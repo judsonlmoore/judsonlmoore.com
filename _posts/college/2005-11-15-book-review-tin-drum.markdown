@@ -5,6 +5,7 @@ tags:			Germany
 image:			
 ---
 
+
 The main character and narrator is Oskar Matzerath. Oskar is a man who never grew up, literally. He stunted his own growth when he was three years old, at three feet. In the book he does grow an additional 13 inches. Oskar is known for never parting with his red and white lacquered tin drum, which he is constantly beating on. Oskar’s other unique characteristic is that he has an extremely high-pitched singing voice which has the ability to shatter glass. As Oskar grows taller, he also looses this glass-breaking voice. Oskar does not attend school, but tries to educate himself instead by studying the writings of Goethe and Rasputin.
 
 Jan Bronski isVincent Bronski’s son and Oskar’s mother. Oskar believes that Jan is his birth father. Jan is a sickly man who has such a history of illness that he is turned away from military service on numerous occasions. Jan is an employee of the Polish Postal Service in Danzig. He fights defending the post building from the invading Germans, but looses and is taken prisoner and eventually executed.

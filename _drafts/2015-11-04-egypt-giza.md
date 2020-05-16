@@ -9,8 +9,6 @@ tags:
 layout:			post
 permalink:		/giza-egypt-travel-guide/
 image:			/assets/images/2015/11/egypt-giza-014.jpg
-
-
 ---
 
 

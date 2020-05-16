@@ -4,6 +4,7 @@ categories:		college
 image:			
 ---
 
+
 In a November 2000 report published by the executive Subcommittee on Natural Disaster Reduction, about _Natural Disaster Information Systems_, three different major disaster warning systems and their relative application and effectiveness were discussed.  These three were the NOAA Weather Radio, the Emergency Alert System, and GPS technology.
 
 The NOAA Weather Radio is one of the few broad-range warning systems which is exclusively government controlled and owned.  This system works by broadcasting a four to six minute long warning about weather hazards in certain area, and the looping it so that anyone can tune in and get the warning at anytime.  This radio network is a currently available in 90% of the United States, but is hindered by the fact that one must own a specific type of radio to decode its signal.  One of the implications this executive committee would like to see happen is that all radios be made compatible with the NOAA signal so that anyone can receive warnings from any radio, at anytime. Although the NOAA radio decoder can be purchased inexpensively, many people do not own one, and do not listen to it constantly waiting for a warning.  Doing this would enable many more people to be reached in times of danger.  One further hope of the committee is that the system could be made ‘smart’, so that radios could decipher your location in relation to the pinpointed location of the threat, and let you know which direction and what distance the threat is from you.

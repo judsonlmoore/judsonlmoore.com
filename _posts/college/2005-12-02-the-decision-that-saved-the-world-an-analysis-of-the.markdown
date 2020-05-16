@@ -5,6 +5,7 @@ tags:			Politics
 image:			/assets/images/2005/12/kennedys-excomm.png
 ---
 
+
 During the thirteen-day period from October 18-29, 1962, the world stood and watched as the United States and USSR nearly entered into a war which could have resulted in world-wide nuclear holocaust.  The end result of the showdown was the extraction of Soviet nuclear presence in Cuba in exchange for the removal of US nuclear weapons in Turkey and a continued quarantine against Cuba which is still in place to this day.  There were many events during this thirteen-day period which nearly set off a war but thanks to the diligent decisions made by both President John F. Kennedy and Russian Premier Khrushchev, nuclear war was avoided.
 
 The Kennedy administration played a key roll in avoiding catastrophe by adhering to a process which considered all options, outcomes, and available information.  To understand the decision-making process, we must first evaluate the people who were of influence.  The Kennedy administration formed the Executive Committee (ExComm), “which brought together a number of NSC members plus others… who were not national security specialists but had the confidence of the president.” [[1]]({{ site.url }}/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn1)  There were 71 official members, but the most important are as follows:

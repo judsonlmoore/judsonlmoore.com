@@ -1,10 +1,12 @@
 ---
 title:			Show up
-categories:		happiness
-tags:			happiness
 description:	
+categories:		happiness
+tags:
+  - happiness
 image:			/assets/images/2020/01/philosophy-2-show-up.png
-toc:			false---
+---
+
 
 Opportunities are all around us. They take all forms, shapes, and sizes. Sometimes showing up is about going to class prepared with your homework complete. Other times, showing up is about accepting an invitation. Often in life, showing up is about applying for that job you've been interested in, the scholarship that will pay for your education, or a fellowship program you think might impact your world-view. Regardless of the form an opportunity takes, **it is a wasted chance if you do not show up.**
 

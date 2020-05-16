@@ -2,7 +2,8 @@
 title:			Peela Chai Each
 categories:		['peace corps']
 tags:			culture, k10, kyrgyzstan, pcvs, peace corps, pixies, radiomost, talas
-image:			/assets/images/2011/07/Three-tea-cups.jpeg---
+image:			/assets/images/2011/07/Three-tea-cups.jpeg
+---
 
 Last week was RadioMost’s 4th Anniversary as the pioneer community radio station in Kyrgyzstan.  To mark the occasion we had a music festival at which a few of my fellow Peace Corps Volunteers performed a song.
 

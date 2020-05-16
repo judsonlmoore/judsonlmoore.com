@@ -4,6 +4,7 @@ categories:		college
 image:			
 ---
 
+
 The American Red Cross was chartered in 1905 by the American Congress to, “carry on a system of national and international relief in time of peace and apply the same in mitigating the sufferings caused by pestilence, famine, fire, floods, and other great national calamities, and to devise and carry on measures for preventing the same.”  The American Red Cross plays a substantial roll in the United States and the world in providing assistance to victims of disaster (clients), and other agencies which are involved in disaster situations (firefighters, FEMA, police, etc…)
 
 Here in Louisiana the Red Cross most recently played a huge roll in the relief efforts from Hurricanes Katrina and Rita through financial assistance, providing shelter, medical supplies, and handing out hygiene products, including toothbrushes and soap.  Although the Red Cross has recently gotten so much attention in this area because of their participation after those great storms, there is so much more that they do.  In fact, responding to huge natural disasters is only a small and geographically concentrated part of the roll they play nation-wide in the field of Disaster Services.
