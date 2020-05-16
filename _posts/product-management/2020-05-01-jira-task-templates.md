@@ -4,7 +4,7 @@ description:	Organizing your backlog is made easy with these Jira task templates
 categories:		['product management']
 tags:			
   - jira
-image:			/assets/images/2020/05/Jira-task-templates-featured-image.png
+image:			/assets/images/2020/05/jira-task-templates-featured-image.png
 ---
 
 

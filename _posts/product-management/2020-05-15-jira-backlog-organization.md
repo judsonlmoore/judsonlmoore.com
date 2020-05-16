@@ -1,6 +1,6 @@
 ---
 title:			How to organize the Jira backlog and Kanban board
-description:	This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters: delivering user value.
+description:	This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters - delivering user value.
 categories:		['product management']
 tags:
   - jira
@@ -8,7 +8,7 @@ image:			/assets/images/2020/05/jira-backlog-organization-featured-image.png
 ---
 
 
-One of my career goals is to work at Atlassian one day because I want to learn how the people who built the Jira project management software use it themselves. I've used Jira in a variety of team environments and often get the feeling that it isn't used correctly, or at the minimum, it isn't being used very efficiently. Of course, probably the only entity capable of knowing how the software can best be used for a team is by that team itself.
+One of my career goals is to work at Atlassian one day because I want to learn how the people who built the Jira project management software use it themselves. I've used Jira in a variety of team environments and often get the feeling that it isn't used correctly, or at the minimum, it isn't being used very efficiently. Of course, probably the only entity capable of knowing how the software can best be used for a team is by that team itself. 
 
 How a team works with Jira is dependent on how Jira is set up and what practices of organizing tasks the team incorporates into their general way of working.
 
