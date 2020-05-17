@@ -1,6 +1,6 @@
 ---
 title:			Lake Issyk Kul Summer 2012
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - issyk-kul
   - kyrgyzstan

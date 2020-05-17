@@ -1,6 +1,6 @@
 ---
 title:			Nooryz 2013
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - culture

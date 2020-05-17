@@ -1,8 +1,13 @@
 ---
 title:			Travel Advice To Rajasthan India
-categories:		india
+categories:		['travel guide']
 tags:
-  - whileyoung
+  - asia
+  - india
+  - rajasthan
+  - jaipur
+  - ajmer
+  - pushkar
 excerpt:		Rajasthan India is a magical wonderland of castles, camels and amazing food! Check out these tips for places to stay, things to do and how to get around!
 image:			/assets/images/2016/03/Travel-Advice-To-Rajasthan-India-Featured-Image.jpg
 ---

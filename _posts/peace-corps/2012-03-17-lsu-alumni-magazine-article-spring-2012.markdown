@@ -25,7 +25,7 @@ The major problem is that many of these journalists have poor access to internet
 
 So I came up with a solution.  I am building a network of websites that will serve to unify Kyrgyz Independent and community media under one internet brand.  This site will be part social network, part web hosting solution and 100% Kyrgyz media.  With the ability to share information with each other, file-sharing, host their own websites and have the world access their work, I believe that this can be a highly impactful resource for bringing more of Kyrgyzstan to the world.
 
-You may visit [http://KyrgyzMedia.com](http://KyrgyzMedia.com) to see the development of this site.
+You may visit [http://kyrgyzmedia.kg](http://kyrgyzmedia.kg) to see the development of this site.
 
 I wish you and yours a prosperous 2012 and encourage you to work for the betterment of the community in which you live!  As always, you may follow my adventure at [https://www.judsonlmoore.com](https://www.judsonlmoore.com).
 

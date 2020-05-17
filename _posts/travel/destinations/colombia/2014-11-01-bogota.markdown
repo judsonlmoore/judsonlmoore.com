@@ -1,13 +1,12 @@
 ---
 title:			Bogotá - A Capital of More Romantic Times and a Beautiful Nation
-categories:		colombia
+categories:		['travel guide']
 tags:
+  - south america
   - colombia
-  - reunion
+  - bogota
   - rotary
   - rye
-  - south america
-  - travel
 excerpt:		In Colombia's capital city, Bogotá, one finds themselves taken to a time when romance lived permanently in the air and anything was possible.
 image:			/assets/images/2014/11/IMG_2198.jpg
 ---

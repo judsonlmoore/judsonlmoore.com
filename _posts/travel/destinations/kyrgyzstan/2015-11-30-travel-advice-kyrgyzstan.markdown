@@ -1,11 +1,9 @@
 ---
 title:			Kyrgyzstan Travel Guide and 2-Week Itinerary Recommendation
-categories:		kyrgyzstan
+categories:		['travel guide']
 tags:
-  - adventure
-  - advice
+  - asia
   - kyrgyzstan
-  - travel
 excerpt:		After living for two years in Kyrgyzstan, I have some pro tips for how your next Central Asian adventure can be the top experience of a lifetime.
 image:			/assets/images/2014/09/cat-kyrgyzstan.jpg
 ---

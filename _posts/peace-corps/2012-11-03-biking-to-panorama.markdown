@@ -1,6 +1,6 @@
 ---
 title:			Biking to Panorama
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - biking
   - bishkek

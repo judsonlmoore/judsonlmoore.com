@@ -10,9 +10,9 @@ image: 			/assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.j
 
 ## I would love to work with you
 
-I am a team player and a big believer in collaboration. Writing a blog as a solo author is hard! To make life a little easier (and way more interesting for all involved) I am always looking for opportunities to collaborate. If you are a product, service, destination, government, tourism agency, school, civic organization, or a fellow author, I am confident that we can find a way to work together.
+I am a team player and a big believer in collaboration. Writing a blog as a solo author is hard! To make life a little easier (and way more interesting for all involved), I am always looking for opportunities to collaborate. If you are a product, service, destination, government, tourism agency, school, civic organization, or a fellow author, I am confident that we can find a way to work together.
 
-To get the process started, just send me a note at [getintouch@judsonlmoore.com](mailto:getintouch@judsonlmoore.com).
+To get the process started, send me a note at [getintouch@judsonlmoore.com](mailto:getintouch@judsonlmoore.com).
 
 ## Podcasts
 
@@ -31,7 +31,7 @@ I love addressing audiences of any size! I have spoken at universities, youth c
 
 ## I can write something for you
 
-My writing has been featured in many other publications and outlets. It is not only a joy for me to share my thoughts with another audience’s beyond my own, but it is also really important! I appreciate opportunities to write for others. If you are seeking guest author engagement, then I would be very happy to hear from you. Here is some of my writing around the internet.
+My writing has been featured in many other publications and outlets. It is not only a joy for me to share my thoughts with another audience's beyond my own, but it is also really important! I appreciate opportunities to write for others. If you are seeking guest author engagement, then I would be delighted to hear from you. Here is some of my writing around the internet.
 
 - [re/Code - How to Achieve Silicon Valley Anywhere](https://www.vox.com/2014/6/25/11628326/how-to-achieve-silicon-valley-anywhere)
 - [trivago’s Hotel Manager Blog](https://web.archive.org/web/20170509120316/http://hotelmanager-blog.trivago.com/en-us/author/jmoore/)
@@ -43,14 +43,14 @@ Perhaps you are looking for an outlet for your voice. I am currently seeking gue
 
 ## Press trips
 
-If what you are looking for is boots-on-the-ground experience and reviews of your destination or business, then I can make myself available for a few days to come to you and make an in-depth analysis, review, interview, demonstration, or any range of other activities which suite your needs.
+If you are looking for boots-on-the-ground experience and reviews of your destination or business, I can make myself available for a few days to come to you and make an in-depth analysis, review, interview, demonstration, or any range of other activities which suite your needs.
 
 - [Brazil travel posts]({{ site.url }}/brazil/) written in collaboration with [Visit Brasil](https://www.visitbrasil.com/), Brazil's official tourism website
 - [An example proposal I made for the Kyrgyzstan Tourism Ministry](https://docs.google.com/document/d/1ekVHAuhlnPW0RbfJu2jaf8A-nZfnFMNDx9i-DJp0_jo/edit?usp=sharing)
 
 ## My audience
 
-The sum of my monthly website traffic, social media followers, and newsletter subscribers make up my audience. All in all my monthly audience average over the last 12 months is 5782 people. My audience is engaged and targeted, as you can see from blog post comments and from exploring the profiles of my social media followers.
+The sum of my monthly website traffic, social media followers, and newsletter subscribers make up my audience. All in all, my monthly audience average over the last 12 months is 5782 people. My audience is engaged and targeted, as you can see from blog post comments and from exploring the profiles of my social media followers.
 
 *\*data is updated monthly*
 

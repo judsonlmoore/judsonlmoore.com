@@ -1,9 +1,11 @@
 ---
 title:			How to visit the Suez Canal in a presidential yacht
 description:	Ever wonder how to visit the Suez Canal? Thanks to the Gabr Fellowship, I got to go there myself on a presidential pleasure cruise.
-categories:		egypt
+categories:		['travel guide']
 tags:			
-  - travel
+  - mena
+  - egypt
+  - suez canal
 permalink:		/suez-canal-egypt-cruise/
 image:			/assets/images/2015/11/egypt-suez-canal-006.jpg
 ---

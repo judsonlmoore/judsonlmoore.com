@@ -17,7 +17,7 @@ I've have had a very busy and productive summer full of summer camps, exploratio
 
 Previously, while working in Talas, I was working at [RadioMost 100.5 FM](http://radiomost.org/), the premier community radio station of Kyrgyzstan, where I was assisting them to develop new radio stations across all regions of the country. Now I have moved to Bishkek to work with the [Kloop Media Foundation](http://kloop.kg) to develop the first ever internet radio broadcast originating from Kyrgyzstan. This station's format will be similar to NPR or the BBC in that it will be mostly news but will also feature special stories originating from corespondents, or in our case the programs will largely originate from the community radio stations with which I have worked for the past year.
 
-## The New Project: KyrgyzMedia.com
+## The New Project: kyrgyzmedia.kg
 
 This project aims to expand the reach of the small radio stations in the rural areas of the country and allow for the whole world to tune in 24/7 and listen to radio journalists reporting from all regions of the country. Kloop currently produces a daily 30-minute news program in 3 languages (Russian,  Kyrgyz and Uzbek) which can be heard at [http://radio.kloop.kg](https://kloop.kg/online-radio/). Analytics of the Kloop website suggest that our main audience are Kyrgyz immigrant workers living abroad, primarily in Russia. By providing streaming radio, these Kyrgyz people living abroad will have a chance to hear not only the national and headline news of Kyrgyzstan, but hear what is happening in their home communities.
 

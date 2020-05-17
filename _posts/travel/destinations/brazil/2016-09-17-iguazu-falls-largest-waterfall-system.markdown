@@ -1,12 +1,13 @@
 ---
 title:			The Iguazu Falls Are More Than The World's Largest Waterfall System
-categories:		brazil
+categories:		['travel guide']
 tags:
+  - south america
   - argentina
   - brazil
-  - travel guide
-  - waterfalls
-destination:	Iguazu Falls
+  - parana
+  - foz do iguaçu
+destination:	Foz do Iguaçu
 excerpt:		In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one of the grandest natural wonders in the world, the Iguazu Falls.
 image:			/assets/images/2016/09/sunset-over-iguazu-falls.jpg
 ---

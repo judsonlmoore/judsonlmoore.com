@@ -1,6 +1,10 @@
 ---
 title:			What to do for A Weekend in Istanbul
-categories:		turkey
+categories:		['travel guide']
+tags:
+  - europe
+  - turkey
+  - istanbul
 excerpt:		If you find yourself having a weekend in Istanbul, Turkey, then this is the guide for you! I was there just three days but saw a huge amount of sites.
 image:			/assets/images/2013/05/IMG_1765.jpg
 ---

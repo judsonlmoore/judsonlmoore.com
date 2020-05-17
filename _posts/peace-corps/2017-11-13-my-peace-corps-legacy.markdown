@@ -31,13 +31,13 @@ Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone
 
 {% cloudinary /assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg alt="Judson delivering the keynote at a media conference in Bishkek in November 2017" description="Judson delivering the keynote at a media conference in Bishkek in November 2017." %}
 
-[KyrgyzMedia.com](http://kyrgyzmedia.com/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
+[kyrgyzmedia.kg](http://kyrgyzmedia.kg/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
 
 **I couldn’t be prouder** that this project’s origins are from an idea that I had and fought for, wrote the original project plan for and even secured the first rounds of funding for. However, the success and achievements are, and always have been, with the journalists who are utilizing the technology to tell their story.
 
 Last week, **I was afforded the opportunity** to present this history and success to the journalists at a media conference in Bishkek, where I was a guest of the conference at the invitation of Deutsche Welle. I am eternally grateful to their support of the project, and of course to the journalists who saw value in this concept and who have owned it ever since.
 
-{% cloudinary /assets/images/2017/11/kyrgyzmedia.com-5-year-growth.png alt="A chart showing the growth in articles read year over year." description="Year over year growth in articles read on KyrgyzMedia.com" %}
+{% cloudinary /assets/images/2017/11/kyrgyzmedia.kg-5-year-growth.png alt="A chart showing the growth in articles read year over year." description="Year over year growth in articles read on kyrgyzmedia.kg" %}
 
 ## Improvements in medical facilities
 

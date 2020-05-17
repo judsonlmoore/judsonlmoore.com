@@ -1,5 +1,5 @@
 ---
-title: fullwidth-hero
+title: travel-guide
 layout: default 
 --- 
 
@@ -38,7 +38,7 @@ layout: default
 
 	<h2>Blog posts about <span class="text-capitalize">{{ page.category }}</span></h2>
 	<div class="row row-cols-1 row-cols-md-3">
-		{% assign posts = site.posts | where_exp: "item" , "item.categories contains page.category"%} 
+		{% assign posts = site.posts | where_exp: "item" , "item.tags contains page.category" %} 
 		{% for post in posts %} 
 		{% include postbox.html %} 
 		{% endfor %}

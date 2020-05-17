@@ -20,14 +20,12 @@
 {% if sameTagCount >= minCommonTags %}
 
 <div class="media position-relative mb-3 pb-3 border-bottom border-gray">
-	{% if post.image %}
-    {% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="mr-3" style="object-fit: cover; width: 64px; height: 64px;" %}
-    {% endif %}
+    {% cloudinary thumbnail {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="mr-3" style="object-fit: cover; width: 64px; height: 64px;" %}
 	<div class="media-body">
 		<p class="my-0"><strong>{{ post.title }}</strong></p>
 		<p class="my-0 text-muted small">{{ post.excerpt | strip_html | truncatewords:14 }}</p>
-		<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
 	</div>
+	<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
 </div>
 
 {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}

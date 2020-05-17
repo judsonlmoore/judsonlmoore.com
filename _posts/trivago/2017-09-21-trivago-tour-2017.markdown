@@ -1,6 +1,6 @@
 ---
 title:			trivago On Tour - Cruise 2017 to Norway and Denmark
-categories:		trivago
+categories:		blog
 tags:
   - #lifeattrivago
   - copenhagen

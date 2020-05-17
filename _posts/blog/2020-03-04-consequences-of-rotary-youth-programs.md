@@ -129,7 +129,7 @@ The United States Peace Corps operates in countries where they have been invited
 
 I was invited to apply, and I am so glad that I accepted that invitation. 6-months later I had my boots on the ground in Kyrgyzstan. I established a [really strong legacy]({{ site.url }}/my-peace-corps-legacy/) with my work in Kyrgyzstan as a Peace Corps Volunteer. 
 
-Not only was this the most rewarding 27-months of my life, but the work I did there in establishing an online network for journalists in rural areas, [kyrgyzmedia.com](http://kyrgyzmedia.com/), has gone on to enable a national association of Community Media and has changed the capacity of rural communities to have their voice heard all around the world.
+Not only was this the most rewarding 27-months of my life, but the work I did there in establishing an online network for journalists in rural areas, [kyrgyzmedia.kg](http://kyrgyzmedia.kg/), has gone on to enable a national association of Community Media and has changed the capacity of rural communities to have their voice heard all around the world.
 
 {% cloudinary /assets/images/2020/02/showing-up-by-invitation.jpeg alt="" caption="Peace Corps Volunteers with US Ambassador Pamela Spratlen at the US Embassy in Bishkek." %}
 

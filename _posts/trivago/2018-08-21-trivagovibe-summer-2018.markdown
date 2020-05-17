@@ -1,6 +1,6 @@
 ---
 title:			DRUMSON performs live at the trivagoVibe
-categories:		trivago
+categories:		blog
 tags:
   - #lifeattrivago
 description:	I made my European debut as a solo drummer / performer during trivago's bi-annual trivagoVibe concert in Düsseldorf, Germany this summer.

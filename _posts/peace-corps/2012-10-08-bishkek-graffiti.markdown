@@ -1,6 +1,6 @@
 ---
 title:			Bishkek Graffiti
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - graffiti

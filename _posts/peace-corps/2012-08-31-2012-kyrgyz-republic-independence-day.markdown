@@ -1,6 +1,6 @@
 ---
 title:			2012 Kyrgyz Republic Independence Day
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - freedom

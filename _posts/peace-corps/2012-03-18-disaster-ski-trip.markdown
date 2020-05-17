@@ -1,6 +1,6 @@
 ---
 title:			Disaster Ski Trip
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
  - bishkek
  - disaster

@@ -1,13 +1,11 @@
 ---
 title:			Pushkar - A Camel Safari In The Heart of Rajasthan India
-categories:		india
+categories:		['travel guide']
 tags:
-  - adventure
-  - camel
-  - camping
-  - desert
-  - nomads
-  - safari
+  - asia
+  - india
+  - rajasthan
+  - pushkar
 excerpt:		An overnight camel safari in Pushkar with desert nomads led to the best meal of my life and a new appreciation for the love life of a camel named Romeo.
 image:			/assets/images/2015/01/IMG_4417.jpg
 ---

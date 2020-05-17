@@ -1,12 +1,11 @@
 ---
 title:			Golconda Fort
-categories:		india
+categories:		['travel guide']
 tags:
-  - architecture
-  - fort
-  - history
+  - asia
   - india
-  - ruins
+  - telangana
+  - hyderabad
 image:			/assets/images/2014/09/IMG_0326.jpg
 ---
 

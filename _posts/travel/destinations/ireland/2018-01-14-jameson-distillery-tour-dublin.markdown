@@ -1,11 +1,10 @@
 ---
 title:			Jameson distillery tour and whiskey tasting experience in Dublin
-categories:		ireland
+categories:		['travel guide']
 tags:
-  - alcohol
+  - europe
+  - ireland
   - dublin
-  - museum
-  - tours
 description:	The Jameson Distillery on Bow St. in Dublin will fulfill all of your whiskey demands while visiting Ireland. Learn how whiskey is made and taste test some of the world's finest all in one great experience.
 excerpt:		The Jameson Distillery on Bow St. in Dublin will fulfill all of your whiskey demands while visiting Ireland. Learn how whiskey is made and taste test some of the world's finest all in one great experience.
 image:			/assets/images/2018/01/jameson-distillery-bow-st-dublin-sign.jpg

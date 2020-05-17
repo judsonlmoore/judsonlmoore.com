@@ -1,6 +1,6 @@
 ---
 title:			Thanksgiving in Kyrgyzstan
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - holidays

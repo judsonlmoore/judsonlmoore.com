@@ -1,11 +1,10 @@
 ---
 title:          Things to Do in Dublin - A 3-day Weekend Itinerary
-categories:		  ireland
+categories:     ['travel guide']
 tags:
-  - adventure
-  - itenerary
-  - travel guide
-  - travel tips
+  - europe
+  - ireland
+  - dublin
 description:    Discover things to do in Dublin for a weekend trip. Learn about sites of historical significance, the best nightlife, and get inspired for some sensational hikes.
 excerpt:        With just one visit, Dublin has become one of my favorite cities in the world. I pieced together the very best from my trip to Dublin in to this 3-day itinerary for things to do in Dublin. From historical sites, to nightlife, and hikes, Dublin has something for everyone.
 image:          /assets/images/2018/01/dublin-weekend-itenerary-river-liffey-min.jpg

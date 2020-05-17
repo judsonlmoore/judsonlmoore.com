@@ -1,11 +1,11 @@
 ---
 title:			Charminar
-categories:		india
+categories:		['travel guide']
 tags:
-  - architecture
+  - asia
   - india
-  - islam
-  - mosque
+  - telangana
+  - hyderabad
 image:			/assets/images/2014/12/IMG_0289.jpg
 ---
 

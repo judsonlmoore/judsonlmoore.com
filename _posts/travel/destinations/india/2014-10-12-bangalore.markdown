@@ -1,13 +1,11 @@
 ---
 title:			Bangalore Is Known For More Than Being India's Silicon Valley
-categories:		india
+categories:		['travel guide']
 tags:
+  - asia
   - india
-  - museum
-  - palace
-  - park
-  - temple
-  - travel
+  - karnataka
+  - bangalore
 excerpt:		I made a lot out of a quick trip to India's Garden City, Bangalore. Temples of bulls, parks, and rooftop discos make Bangalore a must-visit destination.
 image:			/assets/images/2015/01/IMG_1506.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title:			Bishkek Photo Tour - A Morning in Kyrgyzstan's Capital City
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - architecture
   - bishkek

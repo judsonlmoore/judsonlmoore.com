@@ -72,21 +72,19 @@ cloudinary:
     default:
       gravity: auto
       crop: fill
+      aspect_ratio: 4:3
       focus: auto
-      quality: auto
       min_width: 64
       max_width: 1800
       fallback_max_width: 806
-      sizes: "(min-width: 50rem) 50rem, 90vw"
-      figure: never
       attributes:
         class: "img-fluid"
         loading: "lazy"
     thumbnail:
       min_width: 16
       min_height: 16
-      max_width: 128
-      max_height: 128
+      max_width: 256
+      max_height: 256
       fallback_max_width: 64
 
 sass:

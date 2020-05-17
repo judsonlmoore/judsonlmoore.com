@@ -1,6 +1,6 @@
 ---
 title:			Happy New Year / С новым годом / Жаны жылыныздар менен
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - holiday

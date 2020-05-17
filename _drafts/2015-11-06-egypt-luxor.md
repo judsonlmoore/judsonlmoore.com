@@ -3,7 +3,7 @@ title:			Luxor
 description:	x
 author:			judsonlmoore
 date:			2015-11-06 21:08:48 Z
-categories:		egypt
+categories:		['travel guide']
 tags:			
   - travel
 layout:			post

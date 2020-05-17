@@ -1,6 +1,6 @@
 ---
 title:			Merry Christmas (Russian Orthodox)
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - christmas

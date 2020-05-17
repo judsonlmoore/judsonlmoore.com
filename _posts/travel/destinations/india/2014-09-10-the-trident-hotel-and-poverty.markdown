@@ -1,13 +1,11 @@
 ---
 title:			The Trident Hotel and Poverty
-categories:		india
+categories:		['travel guide']
 tags:
-  - adventure
-  - hotel life
+  - asia
   - india
-  - mutual mobile
-  - poverty
-  - travel
+  - telangana
+  - hyderabad
 excerpt:		During a 6-month business trip to India, I was faced with poverty every day from the window of my high rise 7-star hotel. What could I do about it?
 image:			/assets/images/2014/10/IMG_0212.jpg
 ---

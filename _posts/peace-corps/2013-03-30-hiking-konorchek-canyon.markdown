@@ -1,6 +1,6 @@
 ---
 title:			Hiking Konorchek Canyon in Kyrgyzstan
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - central asia
   - hiking

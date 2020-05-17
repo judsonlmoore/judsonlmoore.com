@@ -1,6 +1,6 @@
 ---
 title:			KG Street Festival
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - festivals

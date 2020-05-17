@@ -1,6 +1,6 @@
 ---
 title:			The Expat Sandwich Podcast features my story of serving humanity.
-categories:		adventure
+categories:		['travel tips']
 tags:
   - interview
   - podcast
@@ -27,7 +27,7 @@ I talked about a lot in this episode of Expat Sandwich. Here are some notes and 
 
 - [Kloop School of Journalism](https://kloop.kg/) - This nontraditional school in Kyrgyzstan teaches Western-style journalism practices to youth. Their stories are published on one of Central Asia's most-read news sites.
 
-- [Kyrgyz Media](http://kyrgyzmedia.com/) - This is the project that I launched while in the Peace Corps. Even if you don't read Russian or Kyrgyz, just looking through the photos in the posts will tell you a lot about the Kyrgyz People.
+- [Kyrgyz Media](http://kyrgyzmedia.kg/) - This is the project that I launched while in the Peace Corps. Even if you don't read Russian or Kyrgyz, just looking through the photos in the posts will tell you a lot about the Kyrgyz People.
 
 ## My favorite Expat Sandwich Episodes
 

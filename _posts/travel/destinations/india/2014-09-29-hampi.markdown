@@ -1,11 +1,11 @@
 ---
 title:			Hampi the Fallen Capital of the Vijayanagara Empire in India
-categories:		india
+categories:		['travel guide']
 tags:
-  - adventure
-  - architectur
-  - best places
+  - asia
   - india
+  - karnataka
+  - hampi
 image:			/assets/images/2015/01/IMG_0692.jpg
 ---
 

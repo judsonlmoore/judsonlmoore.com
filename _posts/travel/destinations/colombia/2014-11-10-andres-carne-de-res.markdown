@@ -1,13 +1,12 @@
 ---
 title:			Andrés Carne de Res - The Tackiest Steakhouse In The World
-categories:		colombia
+categories:		['travel guide']
 tags:
+  - south america
   - colombia
-  - reunion
+  - bogota
   - rotary
   - rye
-  - south america
-  - travel
 excerpt:		If you find yourself hungry in Colombia, you better find your way to Andrés Carne de Res. This is the tackiest, tastiest and biggest steakhouse ever!
 image:			/assets/images/2014/11/IMG_0650.jpg
 ---

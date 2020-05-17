@@ -1,14 +1,9 @@
 ---
 title:			10 Questions to Ask Before You Book a Riad in Morocco
-categories:		morocco
+categories:		['travel guide']
 tags:
-  - adventure
-  - advice
-  - booking
-  - holiday
-  - mountains
-  - travel
-  - travel tips
+  - mena
+  - morocco
 excerpt:		Morocco is a land with charms dating back centuries. If you want to have an authentic experience, book a riad in Morocco, but ask these questions first.
 image:			/assets/images/2017/04/riad-in-morocco-3.jpg
 ---

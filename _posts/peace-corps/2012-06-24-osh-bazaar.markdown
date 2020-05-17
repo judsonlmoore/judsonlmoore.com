@@ -1,6 +1,6 @@
 ---
 title:			Osh Bazaar
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - central asia

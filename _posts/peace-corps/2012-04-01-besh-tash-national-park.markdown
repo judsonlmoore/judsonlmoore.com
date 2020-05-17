@@ -1,6 +1,6 @@
 ---
 title:			Besh Tash National Park
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - besh tash
   - hiking

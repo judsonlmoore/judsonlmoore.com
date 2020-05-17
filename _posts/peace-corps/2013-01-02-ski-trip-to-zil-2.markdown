@@ -1,6 +1,6 @@
 ---
 title:			Ski Trip to Zil 2
-categories:		['peace corps', kyrgyzstan]
+categories:		['peace corps']
 tags:
   - bishkek
   - fun

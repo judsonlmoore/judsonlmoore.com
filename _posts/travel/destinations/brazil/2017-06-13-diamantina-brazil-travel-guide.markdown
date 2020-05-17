@@ -1,13 +1,11 @@
 ---
 title:			Diamantina Brazil is a sleepy town with a party spirit
-categories:		brazil
+categories:		['travel guide']
 tags:
-  - backpacking
-  - brazil
-  - history
-  - nature
   - south america
-  - travel guide
+  - brazil
+  - minas gerais
+  - diamantina
 destination:	Diamantina
 excerpt:		Diamantina Brazil is a tiny town reflecting 300 years of Brazilian colonial history. Surrounded by spectacular nature, it dances with life once a year.
 image:			/assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathedral-from-Afar.jpg
