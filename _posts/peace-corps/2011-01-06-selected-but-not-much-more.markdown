@@ -1,7 +1,8 @@
 ---
 title:			Selected! But Not Much More...
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

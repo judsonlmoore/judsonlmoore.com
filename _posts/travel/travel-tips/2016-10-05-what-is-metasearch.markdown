@@ -1,6 +1,8 @@
 ---
-title:			What is Metasearch And How It Saves You Loads of Time and Money
+title:			What is metasearch and how it saves you loads of time and money
 categories:		['travel tips']
+tags:
+  - trivago
 excerpt:		I explain what is metasearch, the king of all internet search tools. With metasearch, you can search more of the internet faster, saving you time and money.
 image:			/assets/images/2016/08/what-is-metasearch.jpeg
 ---

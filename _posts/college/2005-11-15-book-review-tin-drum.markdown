@@ -1,7 +1,8 @@
 ---
 title:			Book Review - Tin Drum
 categories:		college
-tags:			Germany
+tags:
+  - germany
 image:			
 ---
 

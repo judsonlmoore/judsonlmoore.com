@@ -57,6 +57,18 @@ main:
         url: /female-travel/
       - page: Travel insurance
         url: /travel-insurance/
+  - title: Blog
+    subfolderitems:
+      - page: All articles
+        url: /categories/
+      - page: Rotary
+        url: /tags/#rotary
+      - page: College
+        url: /categories/#college
+      - page: Travel tips
+        url: /categories/#travel-tips
+      - page: trivago
+        url: /categories/#trivago
   - title: About
     subfolderitems:
       - page: About Judson

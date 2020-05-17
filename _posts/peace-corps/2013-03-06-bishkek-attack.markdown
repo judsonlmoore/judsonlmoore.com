@@ -1,7 +1,13 @@
 ---
 title:			Bishkek Attack
 categories:		['peace corps']
-tags:			atack, bishkek, interests, kyrgyzstan, travel safety, violence
+tags:
+  - atack
+  - bishkek
+  - interests
+  - kyrgyzstan
+  - travel safety
+  - violence
 image:			/assets/images/2013/03/thumbs_up_doctors_iStock_00_620x350.jpg
 ---
 

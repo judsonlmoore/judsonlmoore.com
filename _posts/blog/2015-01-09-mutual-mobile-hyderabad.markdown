@@ -1,7 +1,15 @@
 ---
 title:			How Its Made - The Mutual Mobile Office in Hyderabad India
 categories:		blog
-tags:			career, challenge, construction, facility, hyderabad, india, mutual mobile, success
+tags:
+  - career
+  - challenge
+  - construction
+  - facility
+  - hyderabad
+  - india
+  - mutual mobile
+  - success
 excerpt:		Mutual Mobile sent me to India for 6 moths to build a new office in Hyderabad India. This is the story of the collaborative process to create this space.
 image:			/assets/images/2015/04/IMG_1468.jpg
 ---

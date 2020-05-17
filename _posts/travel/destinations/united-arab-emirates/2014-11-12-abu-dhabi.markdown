@@ -1,7 +1,12 @@
 ---
 title:			Abu Dhabi - Making the Best of a 36-Hour Layover in the UAE
 categories:		['united arab emirates']
-tags:			adventure, bucket list, heritage, travel, uae
+tags:
+  - adventure
+  - bucket list
+  - heritage
+  - travel
+  - uae
 excerpt:		A 36-hour layover in Abu Dhabi became one of the most interesting and spontaneous adventures of my life! Check out all the awesome things you can do too.
 image:			/assets/images/2015/01/IMG_3745.jpg
 ---

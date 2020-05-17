@@ -1,7 +1,9 @@
 ---
 title:			Working Hard For The (no) Money
 categories:		['peace corps']
-tags:			peace corps, talas
+tags:
+  - peace corps
+  - talas
 image:			
 ---
 

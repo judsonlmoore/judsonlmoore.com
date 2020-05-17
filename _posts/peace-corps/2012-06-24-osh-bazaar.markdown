@@ -1,7 +1,13 @@
 ---
 title:			Osh Bazaar
 categories:		['peace corps', kyrgyzstan]
-tags:			bishkek, central asia, kyrgyzstan, osh bazaar, peace corps, shopping
+tags:
+  - bishkek
+  - central asia
+  - kyrgyzstan
+  - osh bazaar
+  - peace corps
+  - shopping
 image:			
 ---
 

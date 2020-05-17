@@ -1,7 +1,12 @@
 ---
 title:			Golconda Fort
 categories:		india
-tags:			architecture, fort, history, india, ruins
+tags:
+  - architecture
+  - fort
+  - history
+  - india
+  - ruins
 image:			/assets/images/2014/09/IMG_0326.jpg
 ---
 

@@ -1,7 +1,9 @@
 ---
 title:			The Nature of My Work
 categories:		['peace corps']
-tags:			peace corps, talas
+tags:
+  - peace corps
+  - talas
 image:			
 ---
 

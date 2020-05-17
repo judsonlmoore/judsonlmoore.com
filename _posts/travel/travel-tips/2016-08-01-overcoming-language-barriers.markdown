@@ -1,6 +1,8 @@
 ---
 title:			Tips For Overcoming Language Barriers
 categories:		['travel tips']
+tags:
+  - culture
 excerpt:		Language barriers are hard to overcome but with these simple tips you will find yourself speaking and comprehending in no time!
 image:			/assets/images/2016/08/tips-for-overcoming-langauge-barriers-featured-image.jpeg.jpg
 ---

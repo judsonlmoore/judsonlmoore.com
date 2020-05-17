@@ -1,7 +1,12 @@
 ---
 title:			K20 Site Placement Ceremony
 categories:		['peace corps']
-tags:			k20, kyrgyzstan, peace corps, pst, site placement
+tags:
+  - k20
+  - kyrgyzstan
+  - peace corps
+  - pst
+  - site placement
 image:			/assets/images/2012/06/K20SitePlacement_featured.jpg
 ---
 

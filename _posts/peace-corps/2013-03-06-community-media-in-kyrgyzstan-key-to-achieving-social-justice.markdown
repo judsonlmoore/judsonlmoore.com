@@ -1,7 +1,16 @@
 ---
 title:			Community Media in Kyrgyzstan Key to Achieving Social Justice [cross-post]
 categories:		['peace corps']
-tags:			bishkek, central asia, kyrgyzstan, peace corps, projects, service, talas, un, unesco
+tags:
+  - bishkek
+  - central asia
+  - kyrgyzstan
+  - peace corps
+  - projects
+  - service
+  - talas
+  - un
+  - unesco
 image:			/assets/images/2013/03/1247.jpg
 ---
 

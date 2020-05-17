@@ -1,7 +1,8 @@
 ---
 title:			The Development of the Modern State
 categories:		college
-tags:			politics
+tags:
+  - politics
 image:			
 ---
 

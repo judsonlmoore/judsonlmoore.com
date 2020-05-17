@@ -1,7 +1,8 @@
 ---
 title:			Medical Review - The VA
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

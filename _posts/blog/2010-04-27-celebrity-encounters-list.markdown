@@ -1,7 +1,9 @@
 ---
 title:			Celebrity Encounters List
 categories:		blog
-tags:			celebrity encounter, music
+tags:
+  - celebrity encounter
+  - music
 image:			
 ---
 

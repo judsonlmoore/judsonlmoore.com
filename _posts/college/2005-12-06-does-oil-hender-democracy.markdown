@@ -1,7 +1,8 @@
 ---
 title:			Does Oil Hender Democracy?
 categories:		college
-tags:			politics
+tags:
+  - politics
 image:			
 ---
 

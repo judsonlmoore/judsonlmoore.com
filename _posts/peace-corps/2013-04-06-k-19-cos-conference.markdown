@@ -1,7 +1,11 @@
 ---
 title:			K-19 COS Conference
 categories:		['peace corps']
-tags:			cos, kyrgyzstan, peace corps, rpcv
+tags:
+  - cos
+  - kyrgyzstan
+  - peace corps
+  - rpcv
 image:			/assets/images/2013/04/DSC06366.jpg
 ---
 

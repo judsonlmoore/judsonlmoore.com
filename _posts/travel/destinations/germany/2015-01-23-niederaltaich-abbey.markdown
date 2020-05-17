@@ -1,6 +1,9 @@
 ---
 title:			Photo Tour of the Niederaltaich Abbey
 categories:		germany
+tags: 
+  - bavaria
+  - travel guide
 image:			/assets/images/2015/10/IMG_5395.jpg
 ---
 

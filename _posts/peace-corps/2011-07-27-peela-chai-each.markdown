@@ -1,7 +1,15 @@
 ---
 title:			Peela Chai Each
 categories:		['peace corps']
-tags:			culture, k10, kyrgyzstan, pcvs, peace corps, pixies, radiomost, talas
+tags:
+  - culture
+  - k10
+  - kyrgyzstan
+  - pcvs
+  - peace corps
+  - pixies
+  - radiomost
+  - talas
 image:			/assets/images/2011/07/Three-tea-cups.jpeg
 ---
 

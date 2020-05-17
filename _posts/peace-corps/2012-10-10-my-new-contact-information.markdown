@@ -1,7 +1,9 @@
 ---
 title:			My New Contact Information
 categories:		['peace corps']
-tags:			about me, contact info, judson l moore
+tags:
+  - about me
+  - contact info
 image:			/assets/images/2012/10/NewContactInfo.jpg
 ---
 

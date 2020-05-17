@@ -1,7 +1,9 @@
 ---
 title:			The Lost City of Petra is More Amazing Than I Ever Imagined
 categories:		jordan
-tags:			travel guide
+tags:
+  - petra
+  - travel guide
 destination:	Petra
 featured:		true
 hidden:			true

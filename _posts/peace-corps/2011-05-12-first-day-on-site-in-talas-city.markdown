@@ -1,7 +1,10 @@
 ---
 title:			First Day On Site in Talas City
 categories:		['peace corps']
-tags:			kyrgyzstan, peace corps, talas
+tags:
+  - kyrgyzstan
+  - peace corps
+  - talas
 image:			
 ---
 

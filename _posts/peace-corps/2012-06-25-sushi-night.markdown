@@ -1,7 +1,14 @@
 ---
 title:			Sushi Nights
 categories:		['peace corps']
-tags:			bishkek, cooking, culture exchange, kyrgyzstan, peace corps, sushi, thanks
+tags:
+  - bishkek
+  - cooking
+  - culture exchange
+  - kyrgyzstan
+  - peace corps
+  - sushi
+  - thanks
 image:			/assets/images/2012/06/SushiNight1_featured.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title:			Concert Posters
 categories:		blog
-tags:			tcb concerts
+tags:
+ - tcb concerts
 image:			/assets/images/2009/11/2007.09.06_ZZ_Top-160.jpg
 ---
 

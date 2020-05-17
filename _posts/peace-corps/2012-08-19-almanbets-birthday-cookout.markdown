@@ -1,7 +1,15 @@
 ---
 title:			Almanbet's Birthday Cookout
 categories:		['peace corps']
-tags:			bbq, birthday, culture exchange, day trips, kyrgyz culture, kyrgyzstan, mountains, nature
+tags:
+  - bbq
+  - birthday
+  - culture exchange
+  - day trips
+  - kyrgyz culture
+  - kyrgyzstan
+  - mountains
+  - nature
 image:			/assets/images/2012/08/NotAlaArcha_Featured.jpg
 ---
 

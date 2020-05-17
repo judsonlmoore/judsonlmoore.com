@@ -1,7 +1,16 @@
 ---
 title:			The Gabr Fellowship Has Selected Me As A 2015 Fellow
 categories:		blog
-tags:			adventure, art, culture, education, exchange, fellowship, gabr, orientalist, service
+tags:
+  - adventure
+  - art
+  - culture
+  - education
+  - exchange
+  - fellowship
+  - gabr
+  - orientalist
+  - service
 excerpt:		I will be meeting with Egyptian and American diplomats, military leaders, entrepreneurs and influencers during the 6-week Gabr Fellowship Program.
 image:			/assets/images/2015/09/Gustav-Bauernfeind-A-Street-Scene-Damascus.jpg
 ---

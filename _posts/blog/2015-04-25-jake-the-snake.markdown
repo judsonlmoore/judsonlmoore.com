@@ -1,7 +1,11 @@
 ---
 title:			My New 2015 Kona Jake The Snake Cyclocross Bicycle
 categories:		blog
-tags:			biking, cx, cyclocross, phenom
+tags:
+  - biking
+  - cx
+  - cyclocross
+  - phenom
 excerpt:		Cyclocross is a hybrid road / trail bike sport which combines speed with ruggedness. I am starting to race CX and starting off with Kona's Jake The Snake.
 image:			/assets/images/2015/04/2015-kona-jake-the-snake.jpg
 ---

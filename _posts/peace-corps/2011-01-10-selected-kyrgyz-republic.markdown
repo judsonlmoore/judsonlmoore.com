@@ -1,7 +1,8 @@
 ---
 title:			'Selected: Kyrgyz Republic'
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

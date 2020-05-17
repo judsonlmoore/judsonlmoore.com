@@ -1,7 +1,8 @@
 ---
 title:			Sponsored Identity - Cultural Policy in Puerto Rico
 categories:		college
-tags:			politics
+tags:
+  - politics
 image:			
 ---
 

@@ -1,7 +1,8 @@
 ---
 title:			The Elgin Marbles - Should they be returned to Greece?
 categories:		college
-tags:			politics
+tags:
+  - politics
 image:			/assets/images/2006/02/the-elgin-marbles.jpg
 ---
 

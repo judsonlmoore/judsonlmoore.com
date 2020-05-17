@@ -1,7 +1,8 @@
 ---
 title:			Application Followup Paperwork
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

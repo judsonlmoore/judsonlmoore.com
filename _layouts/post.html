@@ -5,62 +5,56 @@ archive:        false
 post_class:     post-template
 ---
 
-<div class="container mt-3 mt-md-5">
+<div class="container mt-3 mt-md-5 px-3 px-sm-0">
 
-    <div class="row">
+    <!-- Post -->
+    <div class="mainheading pt-1 pt-md-0">
 
-        <!-- Post -->
-        <div class="col px-3 px-sm-0">
-            <div class="mainheading pt-1 pt-md-0">
+        <!-- Post Header -->
+        <div class="pb-3 pb-md-5">
 
-                <!-- Post Header -->
-                <div class="pb-3 pb-md-5">
+            <!-- Post Categories/Tags -->
+            {% assign sortedCategories = page.categories | sort %}
+            {% for category in sortedCategories limit:1 %}
+            <span class="text-uppercase font-weight-bold font-italic">{{ category }}</span>
+            {% endfor %}
+            <!-- End Categories/Tags -->
 
-                    <!-- Post Categories/Tags -->
-                    {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories limit:1 %}
-                    <span class="text-uppercase font-weight-bold font-italic">{{ category }}</span>
-                    {% endfor %}
-                    <!-- End Categories/Tags -->
+            <!-- Post Date -->
+            <small class="text-muted">
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%B %e, %Y" }}">{{ page.date | date:"%B %e, %Y" }}</time></span>           
+                {% if page.last_modified_at %}
+                | <strong>Updated</strong> <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%B %e, %Y" }}</time>)
+                {% endif %}
+            </small>
+            <!-- End Post Date -->
 
-                    <!-- Post Date -->
-                    <small class="text-muted">
-                        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%B %e, %Y" }}">{{ page.date | date:"%B %e, %Y" }}</time></span>           
-                        {% if page.last_modified_at %}
-                        | <strong>Updated</strong> <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%B %e, %Y" }}</time>)
-                        {% endif %}
-                    </small>
-                    <!-- End Post Date -->
+            <h1 class="display-4">{{ page.title }}</h1>
 
-                    <h1 class="display-4">{{ page.title }}</h1>
+            <p class="meta">{{ page.date | date: '%B %d, %Y' }} |
+                <span>
+                    <a href="{{ page.url }}#disqus_thread">0 Comments</a>
+                </span> |
+            <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Min Read
+            </p>
 
-                    <p class="meta">{{ page.date | date: '%B %d, %Y' }} |
-                        <span>
-                            <a href="{{ page.url }}#disqus_thread">0 Comments</a>
-                        </span> |
-                    <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Min Read
-                    </p>
-
-                    {% assign author = site.authors | where: 'short_name', page.author | first %}
-                    {% if author %}
-                    <!-- Post Author -->
-                    <div class="media text-muted">
-                        {% if author.avatar %}
-                        {% cloudinary {{ site.url }}{{ author.avatar }} alt="{{ author.name }}" class="mr-2 d-none d-md-block" width="64" heigh="64" %}
-                        {% endif %}
-                        <p class="media-body pb-3 mb-0 lh-125">
-                            <strong class="d-block text-gray-dark"><span class="d-md-none">By </span>{{ author.name }}</strong>
-                            {{ author.content | strip_html }} {% if author.twitter %}Follow me on <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.facebook %}Find me on<a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"> facebook</a>.{% endif %}
-                        </p>
-                    </div>
-                    <!-- End Post Author -->
-                    {% endif %}
-
-                </div>
-
+            {% assign author = site.authors | where: 'short_name', page.author | first %}
+            {% if author %}
+            <!-- Post Author -->
+            <div class="media text-muted">
+                {% if author.avatar %}
+                {% cloudinary {{ site.url }}{{ author.avatar }} alt="{{ author.name }}" class="mr-2 d-none d-md-block" width="64" heigh="64" %}
+                {% endif %}
+                <p class="media-body pb-3 mb-0 lh-125">
+                    <strong class="d-block text-gray-dark"><span class="d-md-none">By </span>{{ author.name }}</strong>
+                    {{ author.content | strip_html }} {% if author.twitter %}Follow me on <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.facebook %}Find me on<a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"> facebook</a>.{% endif %}
+                </p>
             </div>
+            <!-- End Post Author -->
+            {% endif %}
 
         </div>
+
     </div>
 
     <div class="row">
@@ -75,7 +69,7 @@ post_class:     post-template
             {% endif %}
 
             <!-- Post Content -->
-            <div class="article-post bg-white p-0 p-sm-5">
+            <div class="article-post mt-3 mt-md-5">
 
                 {% if page.toc != false %}
                 <!-- Toc -->
@@ -108,7 +102,7 @@ post_class:     post-template
 
     </div> <!-- row -->
 
-</div> <!-- container -->
+</div>
 
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/ -->

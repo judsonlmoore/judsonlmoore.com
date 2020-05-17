@@ -1,7 +1,14 @@
 ---
 title:			Bishkek / Talas Winter Road Conditions
 categories:		['peace corps']
-tags:			bishkek, danger, peace corps, road to bishkek, talas, travel, winter
+tags:
+  - bishkek
+  - danger
+  - peace corps
+  - road to bishkek
+  - talas
+  - travel
+  - winter
 image:			
 ---
 

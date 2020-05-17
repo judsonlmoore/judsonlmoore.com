@@ -1,7 +1,12 @@
 ---
 title:			FLEX Exam 2012 Bishkek
 categories:		['peace corps']
-tags:			accels, bishkek, flex, kyrgyzstan, testing
+tags:
+  - accels
+  - bishkek
+  - flex
+  - kyrgyzstan
+  - testing
 image:			/assets/images/2013/01/FLEXExamBishkek2012_featured.jpg
 ---
 

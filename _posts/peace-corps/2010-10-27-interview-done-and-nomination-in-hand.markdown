@@ -1,7 +1,8 @@
 ---
 title:			Interview Done and Nomination In Hand
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

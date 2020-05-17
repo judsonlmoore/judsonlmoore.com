@@ -1,7 +1,12 @@
 ---
 title:			Bike Trek Around Bishkek
 categories:		['peace corps', kyrgyzstan] 
-tags:			architecture, biking, bishkek, kyrgyzstan, photos
+tags:
+  - architecture
+  - biking
+  - bishkek
+  - kyrgyzstan
+  - photos
 image:			
 ---
 

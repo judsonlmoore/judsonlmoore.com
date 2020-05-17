@@ -2,6 +2,8 @@
 title:			India Travel Advice In Under 10 Minutes
 published: 		false
 categories:		india
+tags:
+  - travel guide
 excerpt:		India is a wonderfully diverse and beautifully colorful country. I have traveled throughout India and have compiled my best advice here.
 image:			/assets/images/2015/03/minaal-bag.jpg
 ---

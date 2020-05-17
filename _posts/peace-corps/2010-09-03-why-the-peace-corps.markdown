@@ -1,7 +1,8 @@
 ---
 title:			Why The Peace Corps?
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

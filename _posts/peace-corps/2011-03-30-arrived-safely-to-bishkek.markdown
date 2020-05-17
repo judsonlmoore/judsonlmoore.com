@@ -1,7 +1,9 @@
 ---
 title:			Arrived Safely to Bishkek!
 categories:		['peace corps']
-tags:			bishkek, peace corps
+tags:
+  - bishkek
+  - peace corps
 image:			
 ---
 

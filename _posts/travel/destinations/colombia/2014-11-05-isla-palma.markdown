@@ -1,7 +1,13 @@
 ---
 title:			Isla Palma - Private Island Paradise of Pablo Escobar
 categories:		colombia
-tags:			colombia, reunion, rotary, rye, south america, travel
+tags:
+  - colombia
+  - reunion
+  - rotary
+  - rye
+  - south america
+  - travel
 excerpt:		Isla Palma is the private island retreat of cartel boss Pablo Escobar. Today, this all-inclusive resort is scattered with the ruins of that page in history.
 image:			/assets/images/2014/11/IMG_2816.jpg
 ---

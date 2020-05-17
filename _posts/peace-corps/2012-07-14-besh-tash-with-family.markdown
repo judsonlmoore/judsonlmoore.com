@@ -1,7 +1,12 @@
 ---
 title:			Besh Tash with Family
 categories:		['peace corps']
-tags:			besh tash, kyrgyz culture, kyrgyzstan, peace corps, talas
+tags:
+  - besh tash
+  - kyrgyz culture
+  - kyrgyzstan
+  - peace corps
+  - talas
 image:			/assets/images/2012/07/P1040318.jpg
 ---
 

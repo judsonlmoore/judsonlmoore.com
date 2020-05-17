@@ -1,7 +1,9 @@
 ---
 title:			A quick update on the last week of my life…
 categories:		['peace corps']
-tags:			peace corps, talas
+tags:
+  - peace corps
+  - talas
 image:			
 ---
 

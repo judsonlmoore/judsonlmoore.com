@@ -1,7 +1,14 @@
 ---
 title:			ICT Camp Dinner Night
 categories:		['peace corps']
-tags:			bishkek, dinner party, friends, ict, jinga, kyrgyz culture, kyrgyzstan
+tags:
+  - bishkek
+  - dinner party
+  - friends
+  - ict
+  - jinga
+  - kyrgyz culture
+  - kyrgyzstan
 image:			/assets/images/2013/01/ICTCampDinnerNight_featured.jpg
 ---
 

@@ -1,7 +1,11 @@
 ---
 title:			Weekend Trips - Quick Tips for the Jetsetter and Novice Traveler Alike
 categories:		['female travel']
-tags:			female travel, guest author, packing list, travel tips
+tags:
+  - female travel
+  - guest author
+  - packing list
+  - travel tips
 author:			jenniferchang
 excerpt:		Weekend trips are often times the best trips. Guest author Jennifer Chang shares tips for how to make your weekend trips spontaneous and full of adventure.
 image:			/assets/images/2017/04/airplane-wing-sunset.jpg

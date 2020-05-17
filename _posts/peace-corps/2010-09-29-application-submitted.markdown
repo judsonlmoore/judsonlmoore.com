@@ -1,7 +1,8 @@
 ---
 title:			Application Submitted!
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

@@ -1,7 +1,9 @@
 ---
 title:			Book Review - The Unification of Germany
 categories:		college
-tags:			germany, politics
+tags:
+  - germany
+  - politics
 image:			
 ---
 

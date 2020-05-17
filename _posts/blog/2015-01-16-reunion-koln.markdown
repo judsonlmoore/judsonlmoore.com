@@ -1,7 +1,11 @@
 ---
 title:			Reunion, Kölsch and Architecture of Köln (Cologne)
 categories:		blog
-tags:			europe, germany, reunion, train
+tags:
+  - europe
+  - germany
+  - reunion
+  - train
 image:			/assets/images/2015/09/koln.jpg
 ---
 

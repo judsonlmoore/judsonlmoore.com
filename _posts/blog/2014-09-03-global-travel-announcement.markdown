@@ -1,7 +1,13 @@
 ---
 title:			Global Travel Announcement
 categories:		blog
-tags:			abu dhabi, colombia, india, interests, travel, travel announcement
+tags:
+  - abu dhabi
+  - colombia
+  - india
+  - interests
+  - travel
+  - travel announcement
 image:			/assets/images/2014/09/Global-Travel-Announcement.jpg
 ---
 

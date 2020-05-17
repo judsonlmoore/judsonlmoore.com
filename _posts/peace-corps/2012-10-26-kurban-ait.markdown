@@ -1,7 +1,11 @@
 ---
 title:			Kurban Ait
 categories:		['peace corps', kyrgyzstan]
-tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan
+tags:
+  - bishkek
+  - holiday
+  - kyrgyz culture
+  - kyrgyzstan
 image:			/assets/images/2013/01/AitBishkek_featured.jpg
 ---
 

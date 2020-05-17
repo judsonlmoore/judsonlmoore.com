@@ -7,7 +7,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="nav-main">
-            <ul class="navbar-nav mr-auto font-weight-bold">
+            <ul class="navbar-nav ml-auto font-weight-bold">
                 {% for item in site.data.nav.main %}
                 {% if item.subfolderitems %}
                 <li class="nav-item dropdown my-2 my-lg-0">
@@ -27,7 +27,7 @@
                 {% endif %}
                 {% endfor %}
             </ul>
-            <a class="btn btn-warning font-weight-bold my-2 my-md-0" href="{{ site.url}}/book/" role="button">
+            <a class="btn btn-warning font-weight-bold ml-0 ml-lg-5" href="{{ site.url}}/book/" role="button">
                 My book <span class="badge badge-dark">New!</span>
             </a>
         </div>

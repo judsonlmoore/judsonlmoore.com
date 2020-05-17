@@ -1,7 +1,12 @@
 ---
 title:			Bishkek Graffiti
 categories:		['peace corps', kyrgyzstan]
-tags:			bishkek, graffiti, kyrgyz culture, kyrgyzstan, photos
+tags:
+  - bishkek
+  - graffiti
+  - kyrgyz culture
+  - kyrgyzstan
+  - photos
 image:			
 ---
 

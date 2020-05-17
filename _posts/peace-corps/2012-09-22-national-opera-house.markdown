@@ -1,7 +1,11 @@
 ---
 title:			National Opera House
 categories:		['peace corps', kyrgyzstan]
-tags:			architecture, bishkek, kyrgyzstan, peace corps
+tags:
+  - architecture
+  - bishkek
+  - kyrgyzstan
+  - peace corps
 image:			
 ---
 

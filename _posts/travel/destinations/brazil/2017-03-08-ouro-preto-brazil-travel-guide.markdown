@@ -1,7 +1,10 @@
 ---
 title:			Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion
 categories:		brazil
-tags:			brazil, historic sites, travel tips
+tags:
+  - brazil
+  - historic sites
+  - travel tips
 destination:	Ouro Preto
 excerpt:		Ouro Preto Brazil is the best preserved colonial city in South America. Today, it is a treasure of riches, architecture and revolutionary history.
 image:			/assets/images/2015/10/ouro-preto.jpg

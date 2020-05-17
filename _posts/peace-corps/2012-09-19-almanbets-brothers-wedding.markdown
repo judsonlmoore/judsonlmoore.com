@@ -1,7 +1,13 @@
 ---
 title:			Almanbet's Brother's Wedding
 categories:		['peace corps']
-tags:			bishkek, holiday, kyrgyz culture, kyrgyzstan, party, wedding
+tags:
+  - bishkek
+  - holiday
+  - kyrgyz culture
+  - kyrgyzstan
+  - party
+  - wedding
 image:			/assets/images/2013/01/AlmanbetBrosWedding_featured.jpg
 ---
 

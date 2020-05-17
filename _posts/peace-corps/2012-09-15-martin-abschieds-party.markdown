@@ -1,7 +1,12 @@
 ---
 title:			Martin Abschieds Party
 categories:		['peace corps']
-tags:			bishkek, kyrgyzstan, ,artin, party, sie germans
+tags:
+  - bishkek
+  - kyrgyzstan
+  - martin
+  - party
+  - sie germans
 image:			/assets/images/2013/01/MartinAbschiedsparty_featured.jpg
 ---
 

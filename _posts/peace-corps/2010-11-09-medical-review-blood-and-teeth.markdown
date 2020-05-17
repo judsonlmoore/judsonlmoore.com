@@ -1,7 +1,8 @@
 ---
 title:			Medical Review - Blood and Teeth
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

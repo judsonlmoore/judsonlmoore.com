@@ -1,7 +1,8 @@
 ---
 title:			20 Essential Travel Apps from My Life on the Road
 categories:		['travel tips']
-tags:			whileyoung
+tags:
+  - whileyoung
 excerpt:		This suite of awesome travel apps will get you the information you need, when you need it while traveling around the world.
 image:			/assets/images/2016/01/Essential-Travel-Apps-Featured-Image.jpg
 ---

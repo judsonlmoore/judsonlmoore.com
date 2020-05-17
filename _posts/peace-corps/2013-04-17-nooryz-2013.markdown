@@ -1,7 +1,13 @@
 ---
 title:			Nooryz 2013
 categories:		['peace corps', kyrgyzstan]
-tags:			bishkek, culture, holiday, islam, kyrgyzstan, new year
+tags:
+  - bishkek
+  - culture
+  - holiday
+  - islam
+  - kyrgyzstan
+  - new year
 image:			/assets/images/2013/04/0.jpg
 ---
 

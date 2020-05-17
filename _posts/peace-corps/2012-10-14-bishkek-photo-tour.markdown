@@ -1,7 +1,11 @@
 ---
 title:			Bishkek Photo Tour - A Morning in Kyrgyzstan's Capital City
 categories:		['peace corps', kyrgyzstan]
-tags:			architecture, bishkek, kyrgyzstan, photos
+tags:
+  - architecture
+  - bishkek
+  - kyrgyzstan
+  - photos
 excerpt:		On a perfect morning in Bishkek, the capital city of Kyrgyzstan in the heart of Central Asia, I grabbed a camera and went on a tour to capture some beauty.
 image:			/assets/images/2012/10/Bishkek_featured.jpg
 ---

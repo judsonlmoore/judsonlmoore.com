@@ -1,7 +1,11 @@
 ---
 title:			Charminar
 categories:		india
-tags:			architecture, india, islam, mosque
+tags:
+  - architecture
+  - india
+  - islam
+  - mosque
 image:			/assets/images/2014/12/IMG_0289.jpg
 ---
 

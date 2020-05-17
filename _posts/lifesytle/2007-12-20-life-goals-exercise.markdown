@@ -1,7 +1,11 @@
 ---
 title:			How To Identify and Accomplish Your Life Goals
 categories:		lifestyle
-tags:			accomplishments, goals, impact, interests
+tags:
+  - accomplishments
+  - goals
+  - impact
+  - interests
 excerpt:		Do you have life goals? Do you need help identifying life goals? Or maybe you need help structuring a plan to achieve your life goals? Read this now.
 image:			/assets/images/2007/12/life-goals-exercise.jpeg
 ---

@@ -1,7 +1,12 @@
 ---
 title:			Bike Race
 categories:		['peace corps']
-tags:			biking, bishkek, disaster, kyrgyzstan, sport
+tags:
+  - biking
+  - bishkek
+  - disaster
+  - kyrgyzstan
+  - sport
 image:			/assets/images/2013/03/Biking-Race-004.jpeg
 ---
 

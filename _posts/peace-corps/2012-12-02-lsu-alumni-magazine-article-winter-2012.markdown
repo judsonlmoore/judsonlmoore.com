@@ -1,7 +1,13 @@
 ---
 title:			LSU Alumni Magazine Article – Winter 2012
 categories:		['peace corps']
-tags:			bishkek, kyrgyzstan, lsu, lsu alumni, peace corps, published
+tags:
+  - bishkek
+  - kyrgyzstan
+  - lsu
+  - lsu alumni
+  - peace corps
+  - published
 image:			/assets/images/2013/01/LSUmag_Winter2012.jpg
 ---
 

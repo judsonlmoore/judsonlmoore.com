@@ -1,7 +1,13 @@
 ---
 title:			Golden Birthday and Sie Germans
 categories:		['peace corps']
-tags:			birthday, culture, germans, kyrgyzstan, party, talas
+tags:
+  - birthday
+  - culture
+  - germans
+  - kyrgyzstan
+  - party
+  - talas
 image:			/assets/images/2012/06/GoldenBirthday_featured.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title:			I have Arrived at Staging
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

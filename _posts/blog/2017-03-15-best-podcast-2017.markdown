@@ -1,7 +1,10 @@
 ---
 title:			Best podcast 2017 - What I listen to for my daily dose of inspiration
 categories:		blog
-tags:			podcasts, top list, #trypod
+tags:
+  - podcasts
+  - top list
+  - #trypod
 description:	After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
 excerpt:		After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
 image:			/assets/images/2017/03/best-podcast-2017.jpg

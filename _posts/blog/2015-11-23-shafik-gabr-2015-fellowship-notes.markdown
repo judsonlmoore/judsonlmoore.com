@@ -1,6 +1,8 @@
 ---
 title:		  	Shafik Gabr's 2015 East-West - The Art of Dialogue Fellowship Notes
 categories:		blog
+tags: 
+  - fellowship
 image:        /assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
 ---
 

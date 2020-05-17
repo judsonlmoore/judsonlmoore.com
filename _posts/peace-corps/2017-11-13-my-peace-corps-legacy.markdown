@@ -1,7 +1,12 @@
 ---
 title:			What I have learned about my Peace Corps legacy in Kyrgyzstan
 categories:		['peace corps']
-tags:			bishkek, kyrgyzstan, peace corps, service above self, talas
+tags:
+  - bishkek
+  - kyrgyzstan
+  - peace corps
+  - service above self
+  - talas
 excerpt:		I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 image:			/assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg
 ---

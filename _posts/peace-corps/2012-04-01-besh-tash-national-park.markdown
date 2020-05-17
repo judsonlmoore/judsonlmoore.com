@@ -1,7 +1,12 @@
 ---
 title:			Besh Tash National Park
 categories:		['peace corps', kyrgyzstan]
-tags:			besh tash, hiking, kyrgyzstan, peace corps, talas
+tags:
+  - besh tash
+  - hiking
+  - kyrgyzstan
+  - peace corps
+  - talas
 image:			/assets/images/2012/04/P1020570.jpg
 permalink:		/besh-tash-national-park/
 ---

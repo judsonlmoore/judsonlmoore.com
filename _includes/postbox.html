@@ -1,16 +1,10 @@
-<div class="col mb-4">
-	<!-- begin post -->
-	{% assign author = site.authors[post.author] %}
+<div class="col mb-3">
 	<div class="card h-100">
-	    {% if post.image %}
-	    <a href="{{ site.url }}{{ post.url }}">{% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" style="object-fit: cover; width: 385px; height: 300px;"%}</a>
-	    {% endif %}
+    	{% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" %}
 	    <div class="card-body">
-	        <h5 class="card-title mb-0">{{ post.title }}</h5>
+	        <h5 class="card-title">{{ post.title }}</h5>
 	        <p class="card-text">{{ post.excerpt | strip_html | truncatewords:20 }}</p>
-	        <a href="{{ page.url }}#disqus_thread">0 Comments</a>
-	        <p class="card-text mb-0"><small class="text-muted">{{ post.date | date_to_string }}</small></p>
-	        <a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
 	    </div>
 	</div>
+    <a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
 </div>

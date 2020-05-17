@@ -20,38 +20,12 @@
 	<div class="tab-pane fade" id="pills-{{ cat_name | join: "-" }}" role="tabpanel" aria-labelledby="pills-{{ cat_name | join: "-" }}-tab">
 	{% endif %}
 
-		<div class="row">
+		<div class="row row-cols-1 row-cols-sm-2">
 
-	        <div class="col-md-6 position-relative mb-5 mb-lg-0"> 
-	        	{% for post in category[1] limit:1 %}
-	        	<div class="media position-relative">
-	        		<a href="{{ site.url }}{{ post.url }}">
-						{% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" style="object-fit: cover; width: 590px; height: 390px;" %}
-					</a>
-					<div class="carousel-caption">
-						<h5>{{ post.title }}</h5>
-						<p>{{ post.excerpt | strip_html | truncatewords:20 }}</p>
-						<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
-					</div>
-				</div>
-	    		{% endfor %}
-	    	</div>
+			{% for post in category[1] limit:6 offset:0 %}
+			{% include postbox-horizontal.html %}
+			{% endfor %}
 
-	    	<div class="col-md-6">
-	    		{% for post in category[1] limit:4 offset:1 %}
-				<div class="media position-relative mb-3 pb-3">
-					{% if post.image %}
-				    {% cloudinary thumbnail {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="mr-3" style="object-fit: cover; width: 64px; height: 64px;" %}
-				    {% endif %}
-					<div class="media-body">
-						<p class="my-0"><strong>{{ post.title }}</strong></p>
-						<p class="my-0 text-muted small">{{ post.excerpt | strip_html | truncatewords:20 }}</p>
-						<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
-					</div>
-				</div>
-				{% endfor %}
-	        </div>
-			
 		</div>
 
 	</div>

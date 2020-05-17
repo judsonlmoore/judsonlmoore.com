@@ -1,7 +1,10 @@
 ---
 title:			Peace Corps Hardship
 categories:		['peace corps']
-tags:			lifestyle, peace corps, talas
+tags:
+  - lifestyle
+  - peace corps
+  - talas
 image:			/assets/images/2012/09/pcv-hardship.jpeg
 ---
 

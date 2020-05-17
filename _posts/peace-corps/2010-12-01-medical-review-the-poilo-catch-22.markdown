@@ -1,7 +1,8 @@
 ---
 title:			Medical Review - The Poilo Catch 22
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

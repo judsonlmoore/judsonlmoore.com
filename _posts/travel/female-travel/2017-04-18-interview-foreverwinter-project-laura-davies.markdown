@@ -1,7 +1,14 @@
 ---
 title:			An Interview with Global Skier Laura Davies of the ForeverWinter Project
 categories:		['female travel']
-tags:			female travel, inspiration, interview, skiing, solo travel, woman’s perspective, world trip
+tags:
+  - female travel
+  - inspiration
+  - interview
+  - skiing
+  - solo travel
+  - woman’s perspective
+  - world trip
 author:			lauradavies
 excerpt:		I recently had the opportunity to sit down with Laura Davies as she pursues an epic journey chasing winter around the world with The ForeverWinter Project.
 image:			/assets/images/2017/03/foreverwinter-project-ski-kazakhstan.jpg

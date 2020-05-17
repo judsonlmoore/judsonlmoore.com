@@ -1,7 +1,8 @@
 ---
 title:			Interview Scheduled (for TOMORROW!)
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

@@ -1,7 +1,8 @@
 ---
 title:			Medically Cleared
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

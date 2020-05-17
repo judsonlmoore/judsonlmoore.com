@@ -1,7 +1,13 @@
 ---
 title:			LSU Alumni Association Magazine Article - Spring 2013
 categories:		['peace corps']
-tags:			bishkek, kyrgyzstan, lsu, lsu alumni, peace corps, published
+tags:
+  - bishkek
+  - kyrgyzstan
+  - lsu
+  - lsu alumni
+  - peace corps
+  - published
 image:			/assets/images/2013/03/JudsonWithSkiingSnowman.jpg
 ---
 

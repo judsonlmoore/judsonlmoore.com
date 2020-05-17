@@ -1,6 +1,9 @@
 ---
 title:			Satsang Vihar - The Religious Center of Hyderabad India
 categories:		india
+tags:
+  - hyderabad
+  - travel guide
 excerpt:		Satsang Vihar in Hyderabad India is a holy place which welcomed me to their anniversary festival and honored me in the most surprising of ways.
 image:			/assets/images/2015/03/Satsang-Vihar-Hyderabad-001.jpg
 ---

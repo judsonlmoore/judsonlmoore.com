@@ -1,7 +1,14 @@
 ---
 title:			Disaster Ski Trip
 categories:		['peace corps', kyrgyzstan]
-tags:			bishkek, disaster, kyrgyzstan, ski kg, aki trip, skiing, tik
+tags:
+ - bishkek
+ - disaster
+ - kyrgyzstan
+ - ski kg
+ - ski trip
+ - skiing
+ - tik
 image:			/assets/images/2012/03/P1020466.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title:			An Open Letter To The Rotary Club of Alexandria
 categories:		blog
-tags:			rotary
+tags:
+  - rotary
 excerpt:		16 years after the Rotary Club of Alexandria sponsored me as a Youth Exchange Student, I have finally become a Rotarian myself. Here, I say thank you.
 image:			/assets/images/2013/08/rotary-bg.jpg
 ---

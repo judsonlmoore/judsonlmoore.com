@@ -1,7 +1,11 @@
 ---
 title:			Mars Family
 categories:		['peace corps']
-tags:			bishkek, friends, kyrgyz culture, kyrgyzstan
+tags:
+  - bishkek
+  - friends
+  - kyrgyz culture
+  - kyrgyzstan
 image:			/assets/images/2012/06/MarsFamily_featured.jpg
 ---
 

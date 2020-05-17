@@ -1,7 +1,9 @@
 ---
 title:			May Freedom Ring
 categories:		['peace corps']
-tags:			peace corps, talas
+tags:
+  - peace corps
+  - talas
 image:			/assets/images/2012/09/talas-city-center.jpg
 ---
 

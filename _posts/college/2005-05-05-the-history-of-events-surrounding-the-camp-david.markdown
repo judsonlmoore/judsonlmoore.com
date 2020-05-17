@@ -1,7 +1,8 @@
 ---
 title:			The History of Events Surrounding the Camp David Accords
 categories:		college
-tags:			politics
+tags:
+  - politics
 image:			/assets/images/2005/05/begin-sadat-carter-camp-david.png
 ---
 

@@ -1,7 +1,8 @@
 ---
 title:			Rotary Is Ubiquitous
 categories:		['peace corps']
-tags:			rotary
+tags:
+  - rotary
 image:			/assets/images/2013/08/rotary-bg.jpg
 ---
 

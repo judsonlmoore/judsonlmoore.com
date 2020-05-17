@@ -1,7 +1,11 @@
 ---
 title:			Radiomost Office
 categories:		['peace corps']
-tags:			kyrgyzstan, peace corps, radiomost, talas
+tags:
+  - kyrgyzstan
+  - peace corps
+  - radiomost
+  - talas
 image:			/assets/images/2012/06/RadioMostOffie_001.jpg
 ---
 

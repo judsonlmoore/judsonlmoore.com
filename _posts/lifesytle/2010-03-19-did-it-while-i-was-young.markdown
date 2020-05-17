@@ -1,7 +1,8 @@
 ---
 title:			Did It While I Was Young
 categories:		lifestyle
-tags:			sticky
+tags:
+  - sticky
 image:			/assets/images/2016/01/adventure.jpeg
 ---
 

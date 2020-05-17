@@ -1,7 +1,14 @@
 ---
 title:			An Interview with Aniko Villalba of the Viajando Por Ahí Travel Blog and Books
 categories:		['female travel']
-tags:			argentina, backpacking, female travel, inspiration, interview, south america, travel tips
+tags:
+  - argentina
+  - backpacking
+  - female travel
+  - inspiration
+  - interview
+  - south america
+  - travel tips
 author:			anikovillalba
 excerpt:		Aniko Villalba and I got to talking about being digital nomads, solo travel, female travel, and what it really means to live the dream of a global citizen.
 image:			/assets/images/2017/04/aniko-villalba-interview.jpg

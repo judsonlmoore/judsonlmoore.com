@@ -1,7 +1,10 @@
 ---
 title:			Site Placement - Radiomost 100.5FM
 categories:		['peace corps']
-tags:			kyrgyzstan, peace corps, talas
+tags:
+  - kyrgyzstan
+  - peace corps
+  - talas
 image:			
 ---
 

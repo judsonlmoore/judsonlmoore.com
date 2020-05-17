@@ -1,7 +1,13 @@
 ---
 title:			Bishkek Apartment #2
 categories:		['peace corps']
-tags:			apartment, bishkek, kyrgyzstan, lifestyle, living conditions, peace corps
+tags:
+  - apartment
+  - bishkek
+  - kyrgyzstan
+  - lifestyle
+  - living conditions
+  - peace corps
 image:			/assets/images/2012/09/P1050285.jpg
 ---
 

@@ -1,7 +1,10 @@
 ---
 title:			Thanksgiving in Kyrgyzstan
 categories:		['peace corps', kyrgyzstan]
-tags:			bishkek, holidays, peace corps
+tags:
+  - bishkek
+  - holidays
+  - peace corps
 image:			/assets/images/2011/12/ThanksgivingNewGovernmentAndNewYear_featured.jpg
 ---
 

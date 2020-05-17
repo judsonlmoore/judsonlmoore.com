@@ -1,6 +1,8 @@
 ---
-title:			5 Simple Tips to Prepare Your Phone for Travel
+title:			5 simple tips to prepare your phone for travel
 categories:		['travel tips']
+tags:
+  - iphone
 excerpt:		International phone travel can be expensive or even scary. Follow these best practices to ensure you get the most out of your phone and avoid extra charges.
 image:			/assets/images/2016/10/sim-cards-international-phone-travel.jpg
 ---

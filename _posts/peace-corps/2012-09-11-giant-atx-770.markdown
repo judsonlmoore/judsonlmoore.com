@@ -1,7 +1,10 @@
 ---
 title:			Giant ATX 770 Mountain Bike Technical Specifications
 categories:		['peace corps']
-tags:			adventure, biking, toys
+tags:
+  - adventure
+  - biking
+  - toys
 excerpt:		After a 3-year hiatus I am back on wheels with this great Giant ATX 770 that I found in Bishkek, Kyrgyzstan! Here are the tech specs and photos.
 image:			/assets/images/2012/09/Giant-ATX770.jpg
 ---

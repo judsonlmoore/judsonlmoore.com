@@ -1,7 +1,8 @@
 ---
 title:			Kyrgyzstan + Anthropology
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

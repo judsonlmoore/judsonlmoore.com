@@ -1,7 +1,8 @@
 ---
 title:			The Decision that Saved the World -  An Analysis of the Decision-Making Process during the Cuban Missile Crisis
 categories:		college
-tags:			Politics
+tags:
+  - politics
 image:			/assets/images/2005/12/kennedys-excomm.png
 ---
 

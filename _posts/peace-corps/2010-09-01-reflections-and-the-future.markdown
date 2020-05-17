@@ -1,7 +1,8 @@
 ---
 title:			Reflections and the Future
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

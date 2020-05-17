@@ -1,7 +1,14 @@
 ---
 title:			Bishkek ICT Training
 categories:		['peace corps']
-tags:			bishkek, ict, irex, kyrgyzstan, peace corps, technology, training
+tags:
+  - bishkek
+  - ict
+  - irex
+  - kyrgyzstan
+  - peace corps
+  - technology
+  - training
 image:			/assets/images/2012/07/BishkekICTTraining_002.jpg
 ---
 

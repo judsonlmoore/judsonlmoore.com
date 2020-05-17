@@ -1,7 +1,9 @@
 ---
 title:			Жатсон доско тамаша!
 categories:		['peace corps']
-tags:			peace corps, talas
+tags:
+  - peace corps
+  - talas
 permalink: 		/kyrgyz-poem-for-my-birthday/
 image:			
 ---

@@ -1,7 +1,13 @@
 ---
 title:			My Peace Corps Mission is Accomplished
 categories:		['peace corps']
-tags:			bishkek, kyrgyzstan, life goal, peace corps, rpcv, talas
+tags:
+  - bishkek
+  - kyrgyzstan
+  - life goal
+  - peace corps
+  - rpcv
+  - talas
 image:			/assets/images/2013/08/mission-accomplished.jpg
 ---
 

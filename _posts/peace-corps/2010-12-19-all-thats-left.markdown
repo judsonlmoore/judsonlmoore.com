@@ -1,7 +1,8 @@
 ---
 title:			All Thats Left
 categories:		['peace corps']
-tags:			peace corps
+tags:
+  - peace corps
 image:			
 ---
 

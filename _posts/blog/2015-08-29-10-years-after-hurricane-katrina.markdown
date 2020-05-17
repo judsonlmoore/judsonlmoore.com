@@ -1,7 +1,12 @@
 ---
 title:			How Hurricane Katrina Changed My Life 10 Years Later
 categories:		blog
-tags:			American Red Cross, anniversary, disaster, hurricane katrina, memories
+tags:
+  - american red cross
+  - anniversary
+  - disaster
+  - hurricane katrina
+  - memories
 excerpt:		On the 10 year anniversary of Hurricane Katrina, I reflect on how that was a pivotal moment when the trajectory of my life changed.
 image:			/assets/images/2015/08/LSU-Eye-of-the-Storm-Autumn-Judson.jpeg
 ---

@@ -1,7 +1,13 @@
 ---
 title:			Merry Christmas (Russian Orthodox)
 categories:		['peace corps', kyrgyzstan]
-tags:			bishkek, christmas, holiday, kyrgyzstan, orthodox, religion
+tags:
+  - bishkek
+  - christmas
+  - holiday
+  - kyrgyzstan
+  - orthodox
+  - religion
 image:			/assets/images/2013/01/BishkeksOrthodoxCathedral_010.jpg
 ---
 
