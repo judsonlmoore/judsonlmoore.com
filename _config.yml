@@ -72,7 +72,7 @@ cloudinary:
     default:
       gravity: auto
       crop: fill
-      aspect_ratio: 4:3
+#     aspect_ratio: 4:3
       focus: auto
       min_width: 64
       max_width: 1800
