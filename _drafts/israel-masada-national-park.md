@@ -2,16 +2,10 @@
 title:			Masada National Park
 description:	Description
 excerpt:		Excerpt
-author:			judsonlmoore
-date:			2020-02-02 21:08:48 Z
 categories:		['travel guide']
 tags:			
   - travel
-layout:			post
-permalink:		/israel-masada-national-park-travel-guide/
 image:			/assets/images/2020/02/israel-masada-national-park-004.jpg
-
-
 ---
 
 

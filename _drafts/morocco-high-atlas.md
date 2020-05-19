@@ -2,16 +2,10 @@
 title:			Morocco High Atlas
 description:	Description
 excerpt:		Excerpt
-author:			judsonlmoore
-date:			2020-02-02 21:08:48 Z
 categories:		['travel guide']
 tags:			
   - travel
-layout:			post
-permalink:		/morocco-high-atlas-travel-guide/
 image:			/assets/images/2020/02/morocco-high-atlas-004.jpg
-
-
 ---
 
 

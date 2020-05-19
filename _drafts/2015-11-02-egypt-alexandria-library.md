@@ -1,13 +1,9 @@
 ---
 title:			Alexandria Library Travel Guide
 description:	x
-author:			judsonlmoore
-date:			2015-11-02 21:08:48 Z
 categories:		['travel guide']
 tags:			
   - travel
-layout:			post
-permalink:		/alexandria-egypt-library-travel-guide/
 image:			/assets/images/2015/11/egypt-alexandria-library-024.jpg
 ---
 

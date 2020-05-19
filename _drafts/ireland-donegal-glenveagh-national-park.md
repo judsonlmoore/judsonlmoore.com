@@ -2,16 +2,10 @@
 title:			Donegal Ireland Glenveagh National Park
 description:	Description
 excerpt:		Excerpt
-author:			judsonlmoore
-date:			2020-02-02 21:08:48 Z
 categories:		['travel guide']
 tags:			
   - travel
-layout:			post
-permalink:		/donegal-ireland-glenveagh-national-park-travel-guide/
 image:			/assets/images/2020/02/ireland-donegal-glenveagh-national-park-001.jpg
-
-
 ---
 
 

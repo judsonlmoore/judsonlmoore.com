@@ -1,13 +1,9 @@
 ---
 title:			Alexandria Egypt Travel Guide
 description:	x
-author:			judsonlmoore
-date:			2015-11-03 21:08:48 Z
 categories:		['travel guide']
 tags:			
   - travel
-layout:			post
-permalink:		/alexandria-egypt-travel-guide/
 image:			/assets/images/2015/11/egypt-alexandria-018.jpg
 ---
 
