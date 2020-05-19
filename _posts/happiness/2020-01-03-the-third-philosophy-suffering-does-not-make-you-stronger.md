@@ -8,9 +8,9 @@ image:			/assets/images/2020/01/philosophy-3-suffering-does-not-make-you-stronge
 ---
 
 
-"I had to suffer when I was your age, so you do too; it builds character!" Does this sound familiar to you? I adamantly disagree with this sentiment. "Character" can be learned in any number of ways, and struggles of the previous generation should not be the struggles of today's generation. There are plenty of ways to build character, there is no reason to needly repeat preventable mistakes when they can simply be avoided. 
+"I had to suffer when I was your age, so you do too; it builds character!" Does this sound familiar to you? I'm afraid I have to disagree with this sentiment. "Character" can be learned in any number of ways, and struggles of the previous generation should not be the struggles of today's generation. There are plenty of ways to build character. There is no reason to repeat preventable mistakes when they are easily avoidable. 
 
-Believing that the repetition of the previous generation's struggles is a rite of passage seems to be more like a way to stifle human progress and creativity than to advance it. When we can learn from others' mistakes without having to repeat them ourselves, then it allows us to develop and discover new problems that need solving.
+Believing that the repetition of the previous generation's struggles is a rite of passage seems to be more like a way to stifle human progress and creativity than to advance it. When we learn from others' mistakes without having to repeat them ourselves, it allows us to develop and discover new problems that need solving.
 
 There is much to be learned from those who came before us. Whether it is someone who stops to tell us the bridge ahead is flooded and we shouldn't drive there, or it is our grandparents relaying lessons learned after decades of experience, there is plenty we can and should learn from our predecessors. Repeating struggle is inefficient and should be avoided where possible.  
 
@@ -29,22 +29,22 @@ Active learning involves more focus. Take notes. Move. Listen intently. Find the
 6. Social (Interpersonal)
 7. Solitary (Intrapersonal)
 
-*Do you want me to write more about these learning styles? Let me know in the comments below and I'll write new posts on each of these!*
+*Do you want me to write more about these learning styles? Let me know in the comments below, and I'll write new posts on each of these!*
 
 ## Learn from others
 
-Of course, you should also learn from those around you as well. There is a wealth of knowledge in the experiences of everyone you know, both the younger and the older. Everyone's learned experience is different so don't shrug off any opportunity to hear about someone else's perspective. 
+Of course, you should also learn from those around you. There is a wealth of knowledge in the experiences of everyone you know, both the younger and the older. Everyone's learned experience is different, so don't shrug off any opportunity to hear about someone else's perspective. 
 
-Your family, friends, friends' family, teachers, colleagues, and community leaders are all great people to learn from. Think someone is inaccessible to you? Approach them and say, "I want to learn from you. Do you have time for a coffee?" and just watch them clear their schedule for you. People love to be approached like this. 
+Your family, friends, friends' family, teachers, colleagues, and community leaders are all great people to learn from. Think someone is inaccessible to you? Approach them and say, "I want to learn from you. Do you have time for a coffee?" and watch them clear their schedule for you. People love to feel approached like this. 
 
 Asking others to teach you something or to share their experiences with you is also a perfect way to find a mentor. 
 
 ## Recovering from mistakes
 
-Fear not! You *will* make mistakes! There is no straight path in life. We are faced with both major and non-consequential seeming decisions every day and if there is anything certain in life it is this: *you will choose poorly*. 
+Fear not! You *will* make mistakes! There is no straight path in life. We are faced with both significant and non-consequential seeming decisions every day, and if there is anything certain in life, it is this: *you will choose poorly*. 
 
-The trick is to not get buried in angst about the endless possible outcomes of our decisions. Just make the best decision you can, based on all the available information available to you at the moment. When you realize later that you made a sub-prime decision, embrace the opportunity to assess what led up to that decision and what happened as a result. Contemplate the end-to-end process and learn from it. 
+The trick is not to get buried in angst about the endless possible outcomes of our decisions. Just make the best decision you can, based on all the available information available to you at the moment. When you realize later that you made a sub-prime decision, embrace the opportunity to assess what led up to that decision and what happened as a result. Contemplate the end-to-end process and learn from it. 
 
 Check out my book [Exponential Happiness]({{ site.url }}/book/) for loads more details on this and other topics to help you in your pursuit of happiness! 
 
-If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have and I will be happy to directly advise you the best I can.
+If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have, and I will be happy to advise you the best I can directly.
