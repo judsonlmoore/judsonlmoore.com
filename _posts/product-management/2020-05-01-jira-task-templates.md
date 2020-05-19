@@ -1,8 +1,9 @@
 ---
 title:			Get organized with these Jira task templates
 description:	Organizing your backlog is made easy with these Jira task templates. Download them for free and see examples of how they deliver value to your team.
-categories:		['product management']
+categories:		career
 tags:			
+  - product management
   - jira
 image:			/assets/images/2020/05/jira-task-templates-featured-image.png
 ---

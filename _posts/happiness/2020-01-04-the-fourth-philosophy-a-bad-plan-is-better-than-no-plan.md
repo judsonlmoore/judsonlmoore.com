@@ -1,7 +1,7 @@
 ---
 title:			A bad plan is better than no plan
 description:	Pursuing your life goals is much easier if you have a plan, even if it is a bad plan.
-categories:		happiness
+categories:		lifestyle
 tags:
   - happiness
 image:			/assets/images/2020/01/philosophy-4-a-bad-plan-is-better-than-no-plan.png

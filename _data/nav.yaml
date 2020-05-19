@@ -67,8 +67,6 @@ main:
         url: /categories/#college
       - page: Travel tips
         url: /categories/#travel-tips
-      - page: trivago
-        url: /categories/#trivago
   - title: About
     subfolderitems:
       - page: About Judson

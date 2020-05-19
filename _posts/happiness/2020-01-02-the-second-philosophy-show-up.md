@@ -1,7 +1,7 @@
 ---
 title:			Show up - it's the one action that puts you in command of your destiny
 description:	Opportunities are all around you, but they will pass you by if you don't show up. It's more complicated than it sounds and not as easy as it seems.
-categories:		happiness
+categories:		lifestyle
 tags:
   - happiness
 image:			/assets/images/2020/01/philosophy-2-show-up.png

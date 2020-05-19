@@ -1,9 +1,9 @@
 ---
 title:			The most inefficient thing you do at work: copy/paste
 description:	x
-categories:		['product management']
+categories:		career
 tags:			
-  - 
+  - product management
 image:			/assets/images/2015/11/egypt-alexandria-library-024.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:			Be flexible in your planning and goals
 description:	Your interests and opportunities will change throughout your life, make sure your goals 
-categories:		happiness
+categories:		lifestyle
 tags:
   - happiness
 image:			/assets/images/2020/01/philosophy-5-be-flexible.png

@@ -1,8 +1,9 @@
 ---
 title:			A sensible definition of "Ready for Dev"
 description:	Don't just move tasks around; impact your team culture with this definition of "ready for dev"
-categories:		['product management']
+categories:		career
 tags:
+  - product management
   - jira
 image:			/assets/images/2020/01/ready-for-dev.png
 toc:			false

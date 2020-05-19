@@ -1,8 +1,9 @@
 ---
 title:			How to organize the Jira backlog and Kanban board
 description:	This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters - delivering user value.
-categories:		['product management']
+categories:		career
 tags:
+  - product management
   - jira
 image:			/assets/images/2020/05/jira-backlog-organization-featured-image.png
 ---

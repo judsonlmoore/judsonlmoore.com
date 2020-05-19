@@ -1,9 +1,10 @@
 ---
 title:			Ultimate reading list for product managers
 description:	This ultimate reading list for product managers includes books, articles, blogs, and even podcasts and some videos.  
-categories:		['product management']
+categories:		career
 tags:
-  - career
+  - product management
+  - reading
 image:			/assets/images/2020/03/ultimate-reading-list-for-product-managers.jpg
 ---
 

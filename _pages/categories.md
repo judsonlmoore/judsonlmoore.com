@@ -5,6 +5,8 @@ permalink: 		"/categories/"
 layout: 		page
 ---
 
+
+<!-- 
 <ul class="tag-box inline">
     {% assign tags_list = site.categories %} {% if tags_list.first[0] == null %} {% for tag in tags_list %}
     <li>
@@ -29,7 +31,7 @@ layout: 		page
     {% endif %} {% endif %} {% endfor %} {% assign pages_list = nil %} {% assign group = nil %}
 </ul>
 {% endfor %}
-
+ -->
 
 <div class="row row-cols-1 row-cols-md-3">
 	{% for category in site.categories %}

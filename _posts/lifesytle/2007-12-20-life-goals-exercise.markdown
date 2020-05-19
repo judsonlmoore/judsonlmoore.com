@@ -2,6 +2,7 @@
 title:			How To Identify and Accomplish Your Life Goals
 categories:		lifestyle
 tags:
+  - lifestyle
   - accomplishments
   - goals
   - impact

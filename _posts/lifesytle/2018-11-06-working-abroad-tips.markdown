@@ -2,6 +2,7 @@
 title:			Tips for how to successfully find work abroad as an American
 categories:		lifestyle
 tags:
+  - lifestyle
   - germany
   - inspiration
   - interview

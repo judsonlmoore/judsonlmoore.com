@@ -1,7 +1,7 @@
 ---
 title:			Find your "what if" and live it every day
 description:	Tools for discovering your life goals and writing an actionable plan for pursuing them.
-categories:		happiness
+categories:		lifestyle
 tags:
   - happiness
 image:			/assets/images/2020/01/philosophy-1-find-your-what-if-and-live-it-every-day.png

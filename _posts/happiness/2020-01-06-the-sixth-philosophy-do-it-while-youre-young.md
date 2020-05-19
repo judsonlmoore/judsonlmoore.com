@@ -1,7 +1,7 @@
 ---
 title:			Do it while you're young
 description:	A cliché thing to say, but not at all a cliché thing to do! Learn how to make the most out of your youth and live your dreams.
-categories:		happiness
+categories:		lifestyle
 tags:
   - happiness
 image:			/assets/images/2020/01/philosophy-6-do-it-while-youre-young.png

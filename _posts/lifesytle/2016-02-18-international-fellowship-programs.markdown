@@ -2,6 +2,7 @@
 title:			19 Amazing International Fellowship Programs
 categories:		lifestyle
 tags:
+  - lifestyle
   - whileyoung
 excerpt:		Looking for ways to study or work abroad while getting someone else to pay for the experience? Check out this list of international fellowship programs!
 image:			/assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
