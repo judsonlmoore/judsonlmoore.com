@@ -3,7 +3,7 @@ title: 			Colombia Travel Guide
 subtitle: 		A 15th-year reunion with my Rotary Youth Exchange friends
 description: 	Plan your visit to Colombia and find out where to go and what to do in Colombia. Read about itineraries, activities, places to stay, and travel essentials.
 permalink: 		"/colombia/"
-layout: 		travel-guide
+layout: 		fullwidth-hero
 category: 		colombia
 image: 			/assets/images/2014/11/IMG_2650.jpg
 ---

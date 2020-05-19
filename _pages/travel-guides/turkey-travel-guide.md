@@ -3,7 +3,7 @@ title: 			Turkey Travel Guide
 subtitle: 		Two continents, one country
 description: 	Plan your visit to Turkey and find out where to go and what to do in Turkey. Read about itineraries, activities, places to stay and travel essentials.
 permalink: 		"/turkey/"
-layout: 		travel-guide
+layout: 		fullwidth-hero
 category: 		turkey
 image: 			/assets/images/2013/05/P1080125.jpg
 ---

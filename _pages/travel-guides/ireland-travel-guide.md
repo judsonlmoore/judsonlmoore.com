@@ -3,7 +3,7 @@ title: 			Ireland Travel Guide
 subtitle:		The world's luckiest people
 description:	Plan your visit to Ireland and find out where to go and what to do in Ireland. Read about itineraries, activities, places to stay and travel essentials.
 permalink: 		"/ireland/"
-layout: 		travel-guide
+layout: 		fullwidth-hero
 category: 		ireland
 image: 			/assets/images/2020/02/ireland-donegal-giants-causeway-006.jpg
 ---

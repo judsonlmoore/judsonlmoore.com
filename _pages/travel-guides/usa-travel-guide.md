@@ -3,7 +3,7 @@ title: 			United States of America Travel Guide
 subtitle: 		Home sweet home
 description: 	Plan your visit to the United States of America and find out where to go and what to do in the USA. Read about itineraries, activities, places to stay and travel essentials.
 permalink: 		"/usa/"
-layout: 		travel-guide
+layout: 		fullwidth-hero
 category: 		united states of america
 image: 			/assets/images/2014/09/cat-nola.jpg
 ---

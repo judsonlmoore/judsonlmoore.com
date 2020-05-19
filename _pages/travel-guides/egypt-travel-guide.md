@@ -3,7 +3,7 @@ title: 			Egypt Travel Guide
 subtitle: 		Encouraging East-West dialogue as a 2015 Gabr Fellow
 description: 	Plan your visit to Egypt and find out where to go and what to do in Egypt. Read about itineraries, activities, places to stay and travel essentials.
 permalink: 		"/egypt/"
-layout: 		travel-guide
+layout: 		fullwidth-hero
 category: 		egypt
 image: 			/assets/images/2015/11/egypt-luxor-065.jpg
 ---

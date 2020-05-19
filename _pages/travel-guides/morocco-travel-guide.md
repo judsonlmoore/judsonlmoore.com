@@ -3,7 +3,7 @@ title: 			Morocco Travel Guide
 subtitle: 		Gateway to the East
 description: 	Plan your visit to Morocco and find out where to go and what to do in Morocco. Read about itineraries, activities, places to stay and travel essentials.
 permalink: 		"/morocco/"
-layout: 		travel-guide
+layout: 		fullwidth-hero
 category: 		morocco
 image: 			/assets/images/2017/04/riad-in-morocco-3.jpg
 ---
