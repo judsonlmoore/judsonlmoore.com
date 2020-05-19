@@ -2,7 +2,7 @@
 	<div class="row justify-content-center">
 		<div class="col-md-3">
 			{% if author.avatar %}
-			{% cloudinary {{ site.url }}{{ author.avatar }} alt="{{ author.name }}" %}
+			{% cloudinary thumbnail {{ site.url }}{{ author.avatar }} alt="{{ author.name }}" %}
 			{% endif %}
 			{% if author.gravatar %}
 			<img class="card-img-top" src="https://www.gravatar.com/avatar/{{ author.gravatar }}" alt="Photo of {{ author.name }}" >

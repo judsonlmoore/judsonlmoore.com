@@ -2,7 +2,7 @@
     <div class="card">
         <div class="row no-gutters">
             <div class="col-md-4">
-                {% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="h-100" style="object-fit: cover;" %}
+                {% cloudinary thumbnail {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="h-100" style="object-fit: cover;" %}
             </div>
             <div class="col-md-8">
                 <div class="card-body">
