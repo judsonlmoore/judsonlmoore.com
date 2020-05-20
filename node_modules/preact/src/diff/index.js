@@ -2,7 +2,7 @@ import { EMPTY_OBJ, EMPTY_ARR } from '../constants';
 import { Component } from '../component';
 import { Fragment } from '../create-element';
 import { diffChildren } from './children';
-import { diffProps } from './props';
+import { diffProps, setProperty } from './props';
 import { assign, removeNode } from '../util';
 import options from '../options';
 
@@ -43,7 +43,7 @@ export function diff(
 	if ((tmp = options._diff)) tmp(newVNode);
 
 	try {
-		outer: if (typeof newType === 'function') {
+		outer: if (typeof newType == 'function') {
 			let c, isNew, oldProps, oldState, snapshot, clearProcessingException;
 			let newProps = newVNode.props;
 
@@ -120,25 +120,32 @@ export function diff(
 				}
 
 				if (
-					!c._force &&
-					c.shouldComponentUpdate != null &&
-					c.shouldComponentUpdate(newProps, c._nextState, componentContext) ===
-						false
+					(!c._force &&
+						c.shouldComponentUpdate != null &&
+						c.shouldComponentUpdate(
+							newProps,
+							c._nextState,
+							componentContext
+						) === false) ||
+					newVNode._original === oldVNode._original
 				) {
 					c.props = newProps;
 					c.state = c._nextState;
-					c._dirty = false;
+					// More info about this here: https://gist.github.com/JoviDeCroock/bec5f2ce93544d2e6070ef8e0036e4e8
+					if (newVNode._original !== oldVNode._original) c._dirty = false;
 					c._vnode = newVNode;
 					newVNode._dom = oldVNode._dom;
 					newVNode._children = oldVNode._children;
 					if (c._renderCallbacks.length) {
 						commitQueue.push(c);
 					}
+
 					for (tmp = 0; tmp < newVNode._children.length; tmp++) {
 						if (newVNode._children[tmp]) {
 							newVNode._children[tmp]._parent = newVNode;
 						}
 					}
+
 					break outer;
 				}
 
@@ -164,13 +171,6 @@ export function diff(
 			c._parentDom = parentDom;
 
 			tmp = c.render(c.props, c.state, c.context);
-			let isTopLevelFragment =
-				tmp != null && tmp.type == Fragment && tmp.key == null;
-			newVNode._children = isTopLevelFragment
-				? tmp.props.children
-				: Array.isArray(tmp)
-				? tmp
-				: [tmp];
 
 			if (c.getChildContext != null) {
 				globalContext = assign(assign({}, globalContext), c.getChildContext());
@@ -180,8 +180,13 @@ export function diff(
 				snapshot = c.getSnapshotBeforeUpdate(oldProps, oldState);
 			}
 
+			let isTopLevelFragment =
+				tmp != null && tmp.type == Fragment && tmp.key == null;
+			let renderResult = isTopLevelFragment ? tmp.props.children : tmp;
+
 			diffChildren(
 				parentDom,
+				Array.isArray(renderResult) ? renderResult : [renderResult],
 				newVNode,
 				oldVNode,
 				globalContext,
@@ -203,6 +208,12 @@ export function diff(
 			}
 
 			c._force = false;
+		} else if (
+			excessDomChildren == null &&
+			newVNode._original === oldVNode._original
+		) {
+			newVNode._children = oldVNode._children;
+			newVNode._dom = oldVNode._dom;
 		} else {
 			newVNode._dom = diffElementNodes(
 				oldVNode._dom,
@@ -218,6 +229,7 @@ export function diff(
 
 		if ((tmp = options.diffed)) tmp(newVNode);
 	} catch (e) {
+		newVNode._original = null;
 		options._catchError(e, newVNode, oldVNode);
 	}
 
@@ -310,13 +322,15 @@ function diffElementNodes(
 			  );
 		// we created a new parent, so none of the previously attached children can be reused:
 		excessDomChildren = null;
+		// we are creating a new node, so we can assume this is a new subtree (in case we are hydrating), this deopts the hydrate
+		isHydrating = false;
 	}
 
 	if (newVNode.type === null) {
 		if (oldProps !== newProps && dom.data != newProps) {
 			dom.data = newProps;
 		}
-	} else if (newVNode !== oldVNode) {
+	} else {
 		if (excessDomChildren != null) {
 			excessDomChildren = EMPTY_ARR.slice.call(dom.childNodes);
 		}
@@ -329,7 +343,9 @@ function diffElementNodes(
 		// During hydration, props are not diffed at all (including dangerouslySetInnerHTML)
 		// @TODO we should warn in debug mode when props don't match here.
 		if (!isHydrating) {
-			if (oldProps === EMPTY_OBJ) {
+			// But, if we are in a situation where we are using existing DOM (e.g. replaceNode)
+			// we should read the existing DOM attributes to diff them
+			if (excessDomChildren != null) {
 				oldProps = {};
 				for (let i = 0; i < dom.attributes.length; i++) {
 					oldProps[dom.attributes[i].name] = dom.attributes[i].value;
@@ -346,12 +362,14 @@ function diffElementNodes(
 
 		diffProps(dom, newProps, oldProps, isSvg, isHydrating);
 
-		newVNode._children = newVNode.props.children;
-
 		// If the new vnode didn't have dangerouslySetInnerHTML, diff its children
-		if (!newHtml) {
+		if (newHtml) {
+			newVNode._children = [];
+		} else {
+			i = newVNode.props.children;
 			diffChildren(
 				dom,
+				Array.isArray(i) ? i : [i],
 				newVNode,
 				oldVNode,
 				globalContext,
@@ -367,17 +385,17 @@ function diffElementNodes(
 		if (!isHydrating) {
 			if (
 				'value' in newProps &&
-				newProps.value !== undefined &&
-				newProps.value !== dom.value
+				(i = newProps.value) !== undefined &&
+				i !== dom.value
 			) {
-				dom.value = newProps.value == null ? '' : newProps.value;
+				setProperty(dom, 'value', i, oldProps.value, false);
 			}
 			if (
 				'checked' in newProps &&
-				newProps.checked !== undefined &&
-				newProps.checked !== dom.checked
+				(i = newProps.checked) !== undefined &&
+				i !== dom.checked
 			) {
-				dom.checked = newProps.checked;
+				setProperty(dom, 'checked', i, oldProps.checked, false);
 			}
 		}
 	}
@@ -417,7 +435,7 @@ export function unmount(vnode, parentVNode, skipRemove) {
 	}
 
 	let dom;
-	if (!skipRemove && typeof vnode.type !== 'function') {
+	if (!skipRemove && typeof vnode.type != 'function') {
 		skipRemove = (dom = vnode._dom) != null;
 	}
 
