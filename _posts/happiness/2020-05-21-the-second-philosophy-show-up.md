@@ -1,5 +1,5 @@
 ---
-title:			Show up - it's the one action that puts you in command of your destiny
+title:			Showing up puts you in command of your destiny
 description:	Opportunities are all around you, but they will pass you by if you don't show up. It's more complicated than it sounds and not as easy as it seems.
 categories:		lifestyle
 tags:
