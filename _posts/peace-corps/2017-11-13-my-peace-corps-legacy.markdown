@@ -8,7 +8,7 @@ tags:
   - service above self
   - talas
 excerpt:		I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
-image:			/assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg
+image:			/assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-group-photo.jpg
 ---
 
 I just returned from a 2-week trip to Kyrgyzstan. “Kyrgyz-what???” you say? Exactly. Well, if you have been paying attention to my writings the last years then you will recall that [**I served in the US Peace Corps**]({{ site.url }}/categories/#jobs/peace-corps/) from 2011-2013 in Kyrgyzstan.
@@ -37,7 +37,7 @@ Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone
 
 Last week, **I was afforded the opportunity** to present this history and success to the journalists at a media conference in Bishkek, where I was a guest of the conference at the invitation of Deutsche Welle. I am eternally grateful to their support of the project, and of course to the journalists who saw value in this concept and who have owned it ever since.
 
-{% cloudinary /assets/images/2017/11/kyrgyzmedia.kg-5-year-growth.png alt="A chart showing the growth in articles read year over year." description="Year over year growth in articles read on kyrgyzmedia.kg" %}
+{% cloudinary /assets/images/2017/11/kyrgyzmedia.com-5-year-growth.png alt="A chart showing the growth in articles read year over year." description="Year over year growth in articles read on kyrgyzmedia.kg" %}
 
 ## Improvements in medical facilities
 
