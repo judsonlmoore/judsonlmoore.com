@@ -23,7 +23,7 @@ Here are a few tips to keep in mind when addressing your ability to be flexible:
 **5 ways to improve your flexibility**
 - Accept the cliche that the more things change, the more they stay the same. Change is a part of life.
 - Keep an open mind to new ideas and trying new things.
-- Ask other people what one thing they always wanted to do, and then do it with them is.
+- Ask other people what one thing they always wanted to do, and then do it with them.
 - Don't keep secrets. Let others know you're looking for a change and let them support you.
 - Change the order of your daily routine or the location where you perform daily tasks (like trying a new coffee shop).
 
