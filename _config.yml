@@ -36,9 +36,17 @@ permalink: /:title/
 
 collections:
   authors:
+    output: false
+  travel-guides:
     output: true
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      author: "judsonlmoore"
+      layout: "page"
+      image: /assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg
   - scope:
       path: ""
       type: "authors"
@@ -46,14 +54,14 @@ defaults:
       layout: "author"
   - scope:
       path: ""
+      type: "travel-guides"
+    values:
+      layout: "fullwidth-hero"
+  - scope:
+      path: ""
       type: "posts"
     values:
       layout: "post"
-      author: "judsonlmoore"
-  - scope:
-      path: ""
-    values:
-      image: /assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg
 
 # plugins
 plugins:
@@ -84,6 +92,9 @@ cloudinary:
       min_height: 64
       max_width: 512
       max_height: 512
+    card-img-top:
+      attributes:
+        class: "card-img-top"
 
 sass:
   load_paths:

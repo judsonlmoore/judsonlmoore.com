@@ -1,5 +1,5 @@
 ---
-title:			Meeting Papa Roach On Tour In Hamburg Germany
+title:			Meeting Papa Roach on tour in Hamburg Germany
 description:	I met Papa Roach in Hamburg on the last night of their first European tour, and had one of the best nights of my entire life!
 categories:		blog
 tags:
@@ -9,7 +9,7 @@ image:			/assets/images/2000/10/papa-roach-hamburg-germany-coby-dick-middle-fing
 ---
 
 
-Today I get to see one of my favorite bands of all time: Papa Roach. The day started at 11:45 am when I had to meet Katharina and Thomas at the train station. Our train left Oldenburg at 11:33 and arrived in Hamburg at 1:09 pm. We didn't have out tickets yet, and we couldn't go to the club to pick them up until 8:00 pm, so we had about 7 hours to walk the city like zombies. So that's what we did!
+Today I get to see one of my favorite bands of all time: Papa Roach. The day started at 11:45 am when I had to meet Katharina and Thomas at the train station. Our train left Oldenburg at 11:33 and arrived in Hamburg at 1:09 pm. We didn't have our tickets yet, and we couldn't go to the club to pick them up until 8:00 pm, so we had about 7 hours to walk the city like zombies. So that's what we did!
 
 While walking, we stopped in many stores, including a cool second-hand clothing store where I found an LSUMC (my dad's work) security uniform shirt! I didn't buy it though because it was too small. But that was still really cool to find that over here in Germany! In Hamburg lives the majority of the millionaires in Germany. And it showed! My god, did I see some beautiful cars! Included was a Dodge Viper GTS, a REALLY nice Ferrari (but I don't know what kind…), and a Lamborghini Countach that I wasn't able to get a photo of. Hamburg IS a beautiful city, but I didn't really see anything worth taking a picture of EXCEPT for St. Nicholas Church.
 
@@ -41,7 +41,7 @@ That was great! THANKS COBY!!! Also, even better, the last song was, of course, 
 
 ## The after-party on the Reeperbahn
 
-So, after the concert, we talked again with Papa Roach and told them how great we thought the show was. And of course, I got Coby's autograph. We spoke again shortly and found out that they were going to go to the Reeperbahn (red-light district) and go clubbing. We had planned to do the same, and so they asked if we would like to go with them! Of course, we said yes!
+After the concert, we talked again with Papa Roach and told them how great we thought the show was. And of course, I got Coby's autograph. We spoke again shortly and found out that they were going to go to the Reeperbahn (red-light district) and go clubbing. We had planned to do the same, and so they asked if we would like to go with them! Of course, we said yes!
 
 At first, I thought that they were just being nice because they had to leave to go to the hotel and take showers. So I thought that the chance of them actually showing up at the meeting point was really slim. But we gave them a chance and prayed, and they DID come! So we walked with them to the club called The Doll House, which is apparently the most famous club there.
 
@@ -69,7 +69,7 @@ If you are a Papa Roach fan or have a story of meeting one of your favorite band
 
 Greetings from 2020! It's been 20 years since I wrote this post and how life has changed. I've been all over the world and have had a fabulous career (so far). I even worked briefly as a concert promoter, where I got to work with Papa Roach on a few shows. And now: I live once again in Germany. 
 
-In March 2020, as the COVID-19 pandemic was taking root in Europe, I got to see Papa Roach in concert again. They have only gotten better with age. I love this band and am happy to have their music as part of my life's journey.
+In March 2020, as the COVID-19 pandemic took root in Europe, I got to see Papa Roach in concert again. They have only gotten better with age. I love this band and am happy to have their music as part of my life's journey.
 
 I hope I can see them again in 20 years, and still have the energy to spend the night in the moshpit!
 

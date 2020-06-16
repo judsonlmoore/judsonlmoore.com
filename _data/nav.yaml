@@ -19,40 +19,8 @@ main:
         url: /peacecorps/
   - title: Travel
     subfolderitems:
-      - page: Brazil
-        url: /brazil/
-      - page: Colombia
-        url: /colombia/
-      - page: Denmark
-        url: /denmark/
-      - page: Egypt
-        url: /egypt/
-      - page: England
-        url: /england/
-      - page: Germany
-        url: /germany/
-      - page: India
-        url: /india/
-      - page: Ireland
-        url: /ireland/
-      - page: Jordan
-        url: /jordan/
-      - page: Kyrgyzstan
-        url: /kyrgyzstan/
-      - page: Morocco
-        url: /morocco/
-      - page: Norway
-        url: /norway/
-      - page: Scotland
-        url: /scotland/
-      - page: Switzerland
-        url: /switzerland/
-      - page: Turkey
-        url: /turkey/
-      - page: United Arab Emirates
-        url: /uae/
-      - page: United States of America
-        url: /usa/
+      - page: Travel Guides
+        url: /travel-guides/
       - page: Female Travel
         url: /female-travel/
       - page: Travel insurance
