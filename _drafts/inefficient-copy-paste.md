@@ -1,5 +1,5 @@
 ---
-title:			The most inefficient thing you do at work: copy/paste
+title:			The most inefficient thing you do at work - copy and paste
 description:	x
 categories:		career
 tags:			
