@@ -51,7 +51,7 @@ defaults:
       path: ""
       type: "authors"
     values:
-      layout: "author"
+      layout: "page"
   - scope:
       path: ""
       type: "travel-guides"
@@ -92,9 +92,9 @@ cloudinary:
       min_height: 64
       max_width: 512
       max_height: 512
-    card-img-top:
       attributes:
-        class: "card-img-top"
+        class: "img-fluid"
+        loading: "lazy"
 
 sass:
   load_paths:

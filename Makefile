@@ -28,6 +28,8 @@ include-npm-deps:
 	cp node_modules/jquery/dist/jquery.min.js $(VENDOR_DIR)
 	cp node_modules/popper.js/dist/umd/popper.min.js $(VENDOR_DIR)
 	cp node_modules/bootstrap/dist/js/bootstrap.min.js $(VENDOR_DIR)
+	cp node_modules/lightbox2/src/css/lightbox.css $(VENDOR_DIR)
+	cp node_modules/lightbox2/src/js/lightbox.js $(VENDOR_DIR)
 
 build: include-npm-deps
 	JEKYLL_ENV=development bundle exec $(JEKYLL) build --drafts --incremental

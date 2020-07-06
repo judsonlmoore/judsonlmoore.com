@@ -1,5 +1,5 @@
 ---
-title:			An Interview with Aniko Villalba of the Viajando Por Ahí Travel Blog and Books
+title:			An Interview with Aniko Villalba of the Viajando Por Ahí Travel Blog
 categories:		['travel tips']
 tags:
   - south america

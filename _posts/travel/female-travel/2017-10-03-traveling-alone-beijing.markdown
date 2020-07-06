@@ -14,7 +14,7 @@ image:			/assets/images/2017/09/kelly-branyik-propitious-panda-badaling-south-wa
 
 I sat on a bench just at the end of the thick stone bridge overlooking the icy, white [Houhai Lake](https://en.wikipedia.org/wiki/Houhai). The day was bright. Even brighter with the hazy sky against it. The iced lake looked like a thick layer of clouds and I was at the edge of a cliff. Just to the left of me was a line of trees hugging the edge I imagined I was on. The famous Marble Boat of Beijing’s Summer Palace was docked just near the edge of the bridge, anchored in by the thick ice. 
 
-Just a year before, I added this place, this moment, to a long list of things I wanted to see during [my Peace Corps service in China](https://www.propitiouspanda.com/). A year before, I didn’t realize I would be traveling solo in China, let alone making this trip and seeing this place for the first time, and I would be doing it solo.
+Just a year before, I added this place, this moment, to a long list of things I wanted to see during [my Peace Corps service in China](https://travelbranyik.com/category/peace-corps-blog/). A year before, I didn’t realize I would be traveling solo in China, let alone making this trip and seeing this place for the first time, and I would be doing it solo.
 
 Sitting on that bench, looking at the [Marble Boat](https://www.travelchinaguide.com/attraction/beijing/summer/boat.htm) on the ice lake in February, I felt invincible, like I could travel anywhere. I wondered why I had been so scared of this feeling and convinced myself for so long that I couldn’t see the places I wanted to. On that bench, I wrote in my journal for several minutes to take it all in.
 
@@ -65,7 +65,7 @@ Communicating gratitude and love without words was one of the greatest things I 
 
 After Beijing, there wasn’t a place in the country I was afraid to travel to.
 
-I’ve been home from Peace Corps for over a year and my track record of brave travel has taken me to places I never imagined, like [impromptu trips to Bangkok, Thailand](https://www.propitiouspanda.com/single-post/2016/09/06/Three-Days-in-Bangkok) where I met and danced with New Yorkers traveling through Asia. I finally got to eat authentic Pad Thai, which is very similar to how my mother cooks it. I recently traveled alone to Page, Arizona for a solo camping trip and [kayaking tour in Antelope Canyon](https://lakepowellpaddleboards.com/). Even there I had no cell service, which led to a laughable moment of me reminiscing about my past.
+I’ve been home from Peace Corps for over a year and my track record of brave travel has taken me to places I never imagined, like [impromptu trips to Bangkok, Thailand](https://travelbranyik.com/three-days-in-bangkok/) where I met and danced with New Yorkers traveling through Asia. I finally got to eat authentic Pad Thai, which is very similar to how my mother cooks it. I recently traveled alone to Page, Arizona for a solo camping trip and [kayaking tour in Antelope Canyon](https://lakepowellpaddleboards.com/). Even there I had no cell service, which led to a laughable moment of me reminiscing about my past.
 
 People thought I was crazy, for traveling alone. They say they could never go without having someone with them. Others applaud me for having the bravery to solo travel. It’s freeing, meditative, and it’s a good way to know yourself and see what you’re made of.
 
