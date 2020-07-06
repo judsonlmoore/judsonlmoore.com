@@ -9,7 +9,7 @@ permalink: "/travel-guides/"
 {% for guide in site.travel-guides %}
 	<div class="col mb-3">
 		<div class="card h-100">
-	    	{% cloudinary card-img-top {{ site.url }}{{ guide.image }} alt="{{ guide.subtitle }}" %}
+	    	{% cloudinary {{ site.url }}{{ guide.image }} alt="{{ guide.subtitle }}" %}
 		    <div class="card-body">
 		        <h5 class="card-title">{{ guide.title }}</h5>
 		        <p class="card-text mb-0">{{ guide.subtitle | strip_html | truncatewords:20 }}</p>
