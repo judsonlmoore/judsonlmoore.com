@@ -1,14 +1,14 @@
 {
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0"
+    "@fortawesome/fontawesome-free": "^5.14.0"
   },
   "dependencies": {
     "@geedmo/yamm": "^4.0.1",
     "algoliasearch": "^4.3.0",
     "bootstrap": "^4.5.0",
-    "instantsearch.js": "^4.6.0",
+    "instantsearch.js": "^4.7.0",
     "jquery": "^3.5.0",
-    "lightbox2": "^2.11.1",
+    "lightbox2": "^2.11.3",
     "popper.js": "^1.16.1"
   },
   "name": "judsonlmoore.com",

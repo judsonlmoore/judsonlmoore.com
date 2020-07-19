@@ -1,7 +1,7 @@
 ---
 layout: page
 title: travel guides
-permalink: "/travel-guides/"
+permalink: "/travel-guides-2/"
 ---
 
 
