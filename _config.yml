@@ -108,7 +108,6 @@ exclude:
   - changelog.md
   - LICENSE.txt
   - README.md
-  - Gemfile
   - Gemfile.lock
   - .sass-cache/
   - gemfiles/
