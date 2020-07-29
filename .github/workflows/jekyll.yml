@@ -14,9 +14,17 @@ jobs:
 
       - name: GitHub Checkout
         uses: actions/checkout@v2
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+
+      - name: Ruby Version
+        run: ruby --version
 
       - name: Bundler Cache
         uses: actions/cache@v1
+
+      - name: Bundle
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-build-${{ hashFiles('**/Gemfile.lock') }}
