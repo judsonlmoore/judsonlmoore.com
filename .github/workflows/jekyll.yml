@@ -15,14 +15,6 @@ jobs:
     - name: GitHub Checkout
       uses: actions/checkout@v2
 
-    - name: Install Ruby
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.6' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
-
-    - name: Ruby Version
-      run: ruby --version
-
     - name: Bundler Cache
       uses: actions/cache@v1
       with:
@@ -33,6 +25,9 @@ jobs:
           ${{ runner.os }}-
 
     - name: Build & Deploy to GitHub Pages
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.7' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
       uses: joshlarsen/jekyll4-deploy-gh-pages@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
