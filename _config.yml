@@ -142,6 +142,10 @@ jekyll-archives:
 feed:
   path: atom.xml
   excerpt_only: true
+  collections:
+    posts:
+      path: "/posts.xml"
+      posts_limit: false
 
 # other
 markdown: kramdown
