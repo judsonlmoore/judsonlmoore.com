@@ -24,7 +24,7 @@ jobs:
     - name: Run Promoter
       env: 
         twitter_account: '@judsonlmoore'
-        blog_feed_url: 'https://judsonlmoore.com/atom.xml'
+        blog_feed_url: 'https://judsonlmoore.com/feed.xml'
         twitter_access_token: ${{ secrets.twitter_access_token }}
         twitter_access_token_secret: ${{ secrets.twitter_access_token_secret }}
         twitter_consumer_key: ${{ secrets.twitter_consumer_key }}
