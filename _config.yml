@@ -142,10 +142,13 @@ jekyll-archives:
 feed:
   path: atom.xml
   excerpt_only: true
+  posts_limit: 1000
   collections:
     posts:
       path: "/posts.xml"
-      posts_limit: false
+  categories:
+    - news
+    - updates
 
 # other
 markdown: kramdown
