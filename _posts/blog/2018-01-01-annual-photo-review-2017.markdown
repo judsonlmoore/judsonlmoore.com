@@ -90,7 +90,7 @@ Every year, I go on a wine-tasting weekend with my German friends. This year we 
 
 ## September - Nordic cruise to Norway and Denmark
 
-trivago really empowered a lot of personal travel for me this year. In September, trivago booked out a whole cruise ship and took all employees on **a private cruise to Norway and to Denmark.** The cruise had live music every night. The destinations had curated activities. The train to and from the boat was a dance club on rails. If you haven't read it yet, check out my article about [trivago on Tour 2017]({{ site.url }}/trivago-tour-2017/) and see the video of the party train.
+trivago really empowered a lot of personal travel for me this year. In September, trivago booked out a whole cruise ship and took all employees on **a private cruise to Norway and to Denmark.** The cruise had live music every night. The destinations had curated activities. The train to and from the boat was a dance club on rails. If you haven't read it yet, check out my article about [trivago on Tour 2017](/trivago-tour-2017/) and see the video of the party train.
 
 Here I am in Norway with a moose.
 

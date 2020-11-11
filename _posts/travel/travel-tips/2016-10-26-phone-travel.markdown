@@ -13,7 +13,7 @@ Everyone who travels has a phone. This is a fact of modern life. As accustomed 
 
 ## 1. Check Your Phone Status
 
-First, make sure the iPhone is unlocked. Most are; Verizon automatically are; you may have to [request it](https://www.att.com/deviceunlock/#/) from AT&T. You’ll want to make sure it is unlocked before leaving the US.
+First, make sure the iPhone is unlocked. Most are; Verizon automatically are; you may have to [request it](https://www.att.com/deviceunlock//) from AT&T. You’ll want to make sure it is unlocked before leaving the US.
 
 ## 2. Change Your Settings
 

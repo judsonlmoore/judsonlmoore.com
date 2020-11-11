@@ -17,4 +17,4 @@ Our first days were spent in the capital city, Bogotá. On the first day we exp
 {% assign images = gallery["2014-11-01-bogota"] %}
 {% include gallery-lightbox.html images=images %}
 
-\*this is an excerpt from [a longer article]({{ site.url }}/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany]({{ site.url }}/germany/).
+\*this is an excerpt from [a longer article](/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).

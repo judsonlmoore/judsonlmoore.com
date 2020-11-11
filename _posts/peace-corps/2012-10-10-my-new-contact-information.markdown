@@ -7,7 +7,7 @@ tags:
 image:			/assets/images/2012/10/NewContactInfo.jpg
 ---
 
-[]({{ site.url }}/my-new-contact-information/)
+[](/my-new-contact-information/)
 
 Please update your records to reflect my new contact information:
 

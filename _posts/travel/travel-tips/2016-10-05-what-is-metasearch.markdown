@@ -10,7 +10,7 @@ image:			/assets/images/2016/08/what-is-metasearch.jpeg
 
 I recently started a new job working at trivago as their B2B spokesperson for the United States. trivago is the world's largest hotel metasearch, _helping travelers find their ideal hotel at the best available rate_. Since I started working there, I have found myself thinking many times that most people probably do not know what metadata is, and therefore do not know what is metasearch or why they should care. So let me take a moment to explain what this term means and how these tools can save you loads of time and money.
 
-**Related Post: [20 Essential Travel Apps]({{ site.url }}/essential-travel-apps/)**
+**Related Post: [20 Essential Travel Apps](/essential-travel-apps/)**
 
 Since I am working at trivago, I should mention that this post is not a sponsored post, the content is my own, as are any opinions expressed here.
 

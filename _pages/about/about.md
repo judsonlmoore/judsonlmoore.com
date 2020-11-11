@@ -18,7 +18,7 @@ Ever-committed to community contribution, Judson is an active Rotarian and has f
 - **Kloop USA** - a foundation for supporting journalism education in Kyrgyzstan (2013 - 2016)
 - **The Brazos Tech District** - solving operational problems at scale for Austin's tech startup community (2013 - 2016)
 
-Judson is the author of [*Exponential Happiness: How to identify and pursue life goals starting at a young age*]({{ site.url }}/book/), where he pays forward the encouragement he received to pursue happiness when he was young and takes a deep-dive into the most important lessons he has learned on his journey.
+Judson is the author of [*Exponential Happiness: How to identify and pursue life goals starting at a young age*](/book/), where he pays forward the encouragement he received to pursue happiness when he was young and takes a deep-dive into the most important lessons he has learned on his journey.
 
 ## 10 things 
 

@@ -18,16 +18,16 @@ To get the process started, send me a note at [getintouch@judsonlmoore.com](mai
 
 It has been my honor to be interviewed on several podcasts on a wide range of topics including travel, community engagement, and achieving life goals. Give them a listen here: 
 
-- [LeanPub's Frontmatter Podcast]({{ site.url }}/interview-leanpub-frontmatter-podcast/)
-- [The Expat Sandwich Podcast]({{ site.url }}/expat-sandwich-podcast/)
-- [The Without a Path Podcast]({{ site.url }}/without-a-path-podcast/)
+- [LeanPub's Frontmatter Podcast](/interview-leanpub-frontmatter-podcast/)
+- [The Expat Sandwich Podcast](/expat-sandwich-podcast/)
+- [The Without a Path Podcast](/without-a-path-podcast/)
 
 ## Speaking
 
 I love addressing audiences of any size! I have spoken at universities, youth camps, corporate functions, and at civic meetings. I can provide a list of references upon request. Here is a sample of a presentation I designed for a group of students.
 
-- [Presentation to the Rotary eClub of Silicon Valley]({{ site.url }}/consequences-of-rotary-youth-programs/)
-- [UT Peace and Conflict Symposium]({{ site.url }}/ut-peace-conflict-resolution-symposium/)
+- [Presentation to the Rotary eClub of Silicon Valley](/consequences-of-rotary-youth-programs/)
+- [UT Peace and Conflict Symposium](/ut-peace-conflict-resolution-symposium/)
 
 ## I can write something for you
 
@@ -39,13 +39,13 @@ My writing has been featured in many other publications and outlets. It is not o
 
 ## You can write something for (or with) me
 
-Perhaps you are looking for an outlet for your voice. I am currently seeking guest authors to write on a variety of topics. [Learn more about being a guest author here]({{ site.url }}/guest-author/)
+Perhaps you are looking for an outlet for your voice. I am currently seeking guest authors to write on a variety of topics. [Learn more about being a guest author here](/guest-author/)
 
 ## Press trips
 
 If you are looking for boots-on-the-ground experience and reviews of your destination or business, I can make myself available for a few days to come to you and make an in-depth analysis, review, interview, demonstration, or any range of other activities which suite your needs.
 
-- [Brazil travel posts]({{ site.url }}/brazil/) written in collaboration with [Visit Brasil](https://www.visitbrasil.com/), Brazil's official tourism website
+- [Brazil travel posts](/brazil/) written in collaboration with [Visit Brasil](https://www.visitbrasil.com/), Brazil's official tourism website
 - [An example proposal I made for the Kyrgyzstan Tourism Ministry](https://docs.google.com/document/d/1ekVHAuhlnPW0RbfJu2jaf8A-nZfnFMNDx9i-DJp0_jo/edit?usp=sharing)
 
 ## My audience

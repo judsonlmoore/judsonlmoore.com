@@ -12,7 +12,7 @@ image:			/assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-tour-g
 
 ## Biking my heritage in Copenhagen
 
-Many moons ago, my family made the treacherous journey across the Atlantic Ocean to immigrate to the United States. What they left behind was a life in Denmark. Now, much to my surprise, and thanks to [a company cruise I took with trivago]({{ site.url }}/trivago-tour-2017/), I find myself arriving at the shores of my forefathers. I only have a day to get to know this land, and I can't think of a better way to do it than a bike tour of Copenhagen! #yeahbike!
+Many moons ago, my family made the treacherous journey across the Atlantic Ocean to immigrate to the United States. What they left behind was a life in Denmark. Now, much to my surprise, and thanks to [a company cruise I took with trivago](/trivago-tour-2017/), I find myself arriving at the shores of my forefathers. I only have a day to get to know this land, and I can't think of a better way to do it than a bike tour of Copenhagen! #yeahbike!
 
 My bike tour group had 15 people in it and we were led by an awesome guide name Julia. It was clear from the start that Julia understands that she lives the dream. She just bikes all day and gets paid to meet people from all over the world. That is a pretty sweet gig if you ask me!
 
@@ -28,7 +28,7 @@ So, some statue history: created in the early 1900s, the sculptor had a very dif
 
 In the years since, the mermaid has been decapitated and vandalized a number of times. Thanks to modern reinforced steel, the neck has been reinforced and it is believed that the vulnerability is no longer an issue. Let's see.
 
-Also pictured here in the background is a building with a very pitched roof and white smoke coming out of it. This building totally fascinates me. [The Amager Bakke Waste Incinerator](https://www.a-r-c.dk/amager-bakke) is Copenhagen's new waste management facility. Its burn-off is so clean that it is surrounded by a city park and recreational area, and that pitched roof is a ski slope! It won't open to the public until 2020, but I plan to get a ski pass as soon as I can and add it to the list of exotic places I have skied, like [the time I skied in Dubai]({{ site.url }}/dubai/).
+Also pictured here in the background is a building with a very pitched roof and white smoke coming out of it. This building totally fascinates me. [The Amager Bakke Waste Incinerator](https://www.a-r-c.dk/amager-bakke) is Copenhagen's new waste management facility. Its burn-off is so clean that it is surrounded by a city park and recreational area, and that pitched roof is a ski slope! It won't open to the public until 2020, but I plan to get a ski pass as soon as I can and add it to the list of exotic places I have skied, like [the time I skied in Dubai](/dubai/).
 
 The facility also features an 85-meter high observation desk with cafe deemed as the best view of Copenhagen, one of the world's tallest climbing walls, and 10 hiking trails through landscaped forest.
 
@@ -124,6 +124,6 @@ Well, I certainly wouldn't have expected to see so much and learn so many intere
 
 Have you been to Copenhagen before? Do you have other suggestions or a favorite place? Please share your experiences in the comments below! You can also follow me on Twitter at [@judsonlmoore](https://www.twitter.com/judsonlmoore) to get more updates and to message me directly.
 
-[Would you like a postcard from Denmark? Click here now! ]({{ site.url }}/product/handwritten-postcard-copenhagen/)
+[Would you like a postcard from Denmark? Click here now! ](/product/handwritten-postcard-copenhagen/)
 
 What do you think? Could you handle trivago on Tour? **Maybe you can join next year!** If you are interested to join me in 2018, just take a look at [the open careers at trivago](http://company.trivago.com/jobs/)! If anything looks interesting to you, let me know and I will be happy to chat with you about a career in trivago.

@@ -20,7 +20,7 @@ I am not one to back down from a good challenge, so I accepted. It is now three 
 
 I work downtown, so I live near downtown; 4.1 miles to be exact. In my community, this is far enough away for the cost of living to be reasonable, but close enough to where I am in the core service area for many alternative transportation services. It's also a leisurely bike ride or walk if the weather is nice.
 
-**Further Reading: [Top 10 American Cities for Living Without A Car]({{ site.url }}/top-10-american-cities-living-without-car/)**
+**Further Reading: [Top 10 American Cities for Living Without A Car](/top-10-american-cities-living-without-car/)**
 
 Living in proximity to downtown is more expensive than living in the further-out suburbs, but my net savings are huge. When I had a vehicle, I was spending about $1000 a month on the car note, insurance, gas, parking and maintenance. Now, I rarely spend more than $150 in a month for transportation. My rent might be up \$200-300, but at the end of the month, I am coming out way ahead. I am also saving a lot of time and headache  by not driving in terrible traffic.
 

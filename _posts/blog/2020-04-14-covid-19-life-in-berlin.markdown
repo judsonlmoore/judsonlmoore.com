@@ -32,9 +32,9 @@ Being next to the window is great for natural light and fresh air, while also mo
 
 ## Personal to-do list
 
-Though home office has been working out well, it is certainly not ideal that at the end of the workday, there is nowhere to go or anyone to meet. I've used this time to make progress on other projects, including [rebuilding my website and increasing its performance by 500%]({{ site.url }}/how-to-migrate-wordpress-to-jekyll/). I've also been outlining a lot of blog posts from past travel that I never got around to writing about, particularly about [my time in Egypt]({{ site.url }}/egypt/) (much more to come soon, be sure to [subscribe for updates]({{ site.url }}/subscribe/)).
+Though home office has been working out well, it is certainly not ideal that at the end of the workday, there is nowhere to go or anyone to meet. I've used this time to make progress on other projects, including [rebuilding my website and increasing its performance by 500%](/how-to-migrate-wordpress-to-jekyll/). I've also been outlining a lot of blog posts from past travel that I never got around to writing about, particularly about [my time in Egypt](/egypt/) (much more to come soon, be sure to [subscribe for updates](/subscribe/)).
 
-Now is an excellent time to be dreaming about the future and writing a plan for how to accomplish your goals. If you're wondering what the future might look like for you, then [here are some tips for writing a plan]({{ site.url }}/the-fourth-philosophy-a-bad-plan-is-better-than-no-plan/) that you can start to action today (even while in quarantine).
+Now is an excellent time to be dreaming about the future and writing a plan for how to accomplish your goals. If you're wondering what the future might look like for you, then [here are some tips for writing a plan](/the-fourth-philosophy-a-bad-plan-is-better-than-no-plan/) that you can start to action today (even while in quarantine).
 
 At this point, my to-do list is so long that my greatest concern is that life will return to normalcy before I've had a chance to accomplish everything! (Said in jest, of course... I hope normalcy comes as swiftly as possible to us all!)
 
@@ -42,7 +42,7 @@ At this point, my to-do list is so long that my greatest concern is that life wi
 
 ## Health
 
-There was a bit of a COVID-19 scare for me about a month ago. [I was in Rome for Valentine's weekend]({{ site.url }}/three-lies-about-rome-uncovered/) when COVID-19 had already exploded in the north of Italy. About 10 days later I had what seemed to be a pretty normal cold, but I got sent home from work as a precaution. I went to the doctor but did not receive a test because I wasn't presenting severe symptoms. I felt better within 48-hours, but before I could get back to the office, the whole workforce got sent home.
+There was a bit of a COVID-19 scare for me about a month ago. [I was in Rome for Valentine's weekend](/three-lies-about-rome-uncovered/) when COVID-19 had already exploded in the north of Italy. About 10 days later I had what seemed to be a pretty normal cold, but I got sent home from work as a precaution. I went to the doctor but did not receive a test because I wasn't presenting severe symptoms. I felt better within 48-hours, but before I could get back to the office, the whole workforce got sent home.
 
 As we've come to learn more about this virus, I have become more convinced that I may have had it. I did not drink alcohol from New Year until that Italy trip, and then within days of returning from Italy, I went to my favorite local craft beer bar. I later learned that the entire staff of that bar tested positive for COVID-19 and experienced a wide range of symptoms from loss of taste, up to being stuck in bed for four days. 
 
@@ -62,7 +62,7 @@ There are more ways to be entertained at home these days than ever before. Betwe
 
 Right before all the stores shut down, I bought a PS4, just in case I needed another outlet for fun. This now seems to be unnecessary, but I am glad to have some games to play and interact with. **If you have a PS4, you can find me at *judson-moore*, come play with me!**
 
-I've never been one to struggle with finding ways to occupy my time. To be honest, [the 27-months I spent in the Peace Corps in Kyrgyzstan]({{ site.url }}/peacecorps/) was probably the most isolating thing I've ever done, and that was also the most rewarding experience of my life. As much as that was a hardship, I didn't have any of the advantages or resources that I have now at home. If I can thrive in that environment, COVID-19 doesn't stand a chance at getting me down.
+I've never been one to struggle with finding ways to occupy my time. To be honest, [the 27-months I spent in the Peace Corps in Kyrgyzstan](/peacecorps/) was probably the most isolating thing I've ever done, and that was also the most rewarding experience of my life. As much as that was a hardship, I didn't have any of the advantages or resources that I have now at home. If I can thrive in that environment, COVID-19 doesn't stand a chance at getting me down.
 
 {% cloudinary /assets/images/2020/04/covid19-berlin-germany-recording.png alt="Garageband screenshot" %}
 
@@ -92,11 +92,7 @@ The result is [TraceToZero](https://www.tracetozero.org/). We are actively beta 
 
 Many similar projects are happening around the world. For as much merit as each of them deserves, there is an equal amount of concern over privacy and how location data will be used and protected. I don't know of a perfect solution out there, but contact tracing is critical to understanding how disease spreads, and with technology, we can paint a much clearer picture than with clipboards and traditional questionnaires. 
 
-<<<<<<< Updated upstream
 I am proud to be one of the product leads for TraceToZero and equally excited to see what sort of impact this app makes in the global response to COVID-19.
-=======
-I am proud to be one of the product leads for TraceToZero and equally excited to see what sort of impact this app makes in the global response to COVID-19.s
->>>>>>> Stashed changes
 
 ## The future
 

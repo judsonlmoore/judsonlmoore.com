@@ -15,7 +15,7 @@ How a team works with Jira is dependent on how Jira is set up and what practices
 
 In this article, I will provide examples of how I set up the Jira backlog and Kanban board, their workflows, and general best practices for using Jira to organize the work of cross-functional software delivery teams. 
 
-This article uses examples and screenshots from an example Jira project populated with a task structure explained in this article with [Jira task templates]({{ site.url }}/jira-task-templates/). If you've not yet read that article, you might find it worthwhile to read that first and then return to this article. 
+This article uses examples and screenshots from an example Jira project populated with a task structure explained in this article with [Jira task templates](/jira-task-templates/). If you've not yet read that article, you might find it worthwhile to read that first and then return to this article. 
 
 You can access the example Jira project by using these credentials:
 
@@ -69,7 +69,7 @@ Jira allows for some customization of the backlog screen. I find that it is usef
 
 By presenting these tasks in one view, it is easy to see how much work is "ready," so that you can determine when a refinement meeting has generated enough work that the refinement can be ended early (or skipped), so as not to waste the team's valuable time.
 
-What are the requirements for a task to be considered Ready for Dev? As I write about in [this article]({{ site.url }}/ready-for-dev/), a sensible definition of "ready" is when the team has had an opportunity to ask questions about a task and all of those questions have been responded to. 
+What are the requirements for a task to be considered Ready for Dev? As I write about in [this article](/ready-for-dev/), a sensible definition of "ready" is when the team has had an opportunity to ask questions about a task and all of those questions have been responded to. 
 
 It may or may not be possible to respond to all questions during a single refinement meeting, which is why it is useful to provide the team with backlog tasks in advance so that they can come prepared with questions or so that you can already investigate potential responses. 
 
@@ -127,4 +127,4 @@ A common mistake is that after your initial board setup, your team will adopt a 
 
 I hope that these organizing principals offered you some concrete takeaways you can apply in your team's way of working. Please leave me a comment below to let me know which parts you found most useful, and if any parts of this don't make any sense to you. Do you have a different approach to organizing Jira? I'd love to learn about it!
 
-Please share the [Jira task templates]({{ site.url }}/jira-task-templates/) with your team if you think they might be of value. You can read more [product management articles here]({{ site.url }}/product-management/) as well. 
+Please share the [Jira task templates](/jira-task-templates/) with your team if you think they might be of value. You can read more [product management articles here](/product-management/) as well. 

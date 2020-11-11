@@ -12,7 +12,7 @@ image:			/assets/images/2015/01/IMG_4417.jpg
 
 ## The Town of Pushkar
 
-In the heart of Rajasthan is a small town called Pushkar. To get to Pushkar, we took a train from [Jaipur]({{ site.url }}/jaipur/) to [Ajmer]({{ site.url }}/ajmer/), then walked two miles to a taxi stand where we hired a car to take us the rest of the way, about a 30 minute drive.
+In the heart of Rajasthan is a small town called Pushkar. To get to Pushkar, we took a train from [Jaipur](/jaipur/) to [Ajmer](/ajmer/), then walked two miles to a taxi stand where we hired a car to take us the rest of the way, about a 30 minute drive.
 
 Pushkar is one of the most significant pilgrimage sites for Hindus. Hindus believe that Lord Brahma, the Hindu god of creation, created Pushkar. Despite the significance of Lord Brahma, there are very few temples in the world are dedicated to him, thanks to the [Curse of Savitri](https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar#Legend). The Pushkar temple is, however, the most significant of the Brahma temples and viewed by many as the only legitimate temple. Pushkar is widely considered to be one of the most religious places in the world.
 

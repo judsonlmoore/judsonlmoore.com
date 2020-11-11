@@ -8,7 +8,7 @@ image:			/assets/images/2018/08/trivagoVibe-Summer-2018-007.jpg
 ---
 
 
-**I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed *trivago on Tour* annual trip]({{ site.url }}/trivago-tour-2017/). Nothing beats live music in my book, and at trivago, live music means **trivagoVibe!** 
+**I love working at trivago!** The company embodies many of my core passions: technology and innovation, travel, multiculturalism, and on occasion, music! The trivagoVibe is a bi-annual concert of trivago's musically-talented employees and is the activity where I have the most fun at work (and yes, that includes [the famed *trivago on Tour* annual trip](/trivago-tour-2017/). Nothing beats live music in my book, and at trivago, live music means **trivagoVibe!** 
 
 trivago recently moved into [a new spaceship-like campus](https://youtu.be/LQikZZIia2k) in Düsseldorf, an incredible facility in every way, including lots of open-air spaces which are perfect for music. During the past trivagoVibes, I didn't have the opportunity to perform, and so this time, I was as proactive as possible to make sure that I would make it on to the lineup. **I couldn't be more satisfied with the outcomes.**
 
@@ -16,7 +16,7 @@ The lineup of musicians was incredibly impressive. There was something for every
 
 ## How e-drums changed everything
 
-A few years back while I was [traveling across India]({{ site.url }}/india/), **I had an identity crisis**. I came to understand that if I wanted to continue saying, "I am a drummer," instead of, "I *was* a drummer," then I better start drumming more regularly. My nomadic and apartment-dwelling lifestyle was not conducive to such loud and bulky habits. One night, while lying in bed, I was watching drumming YouTube videos when I came across a [Drumeo video featuring Michael Schack](https://www.youtube.com/watch?v=JqReO5NPN_g), Roland's endorsed artist for their flagship e-drums. I was hooked, and 10-minutes later, I typed my credit card info onto eBay, where I found a great deal on a Roland TD-30KV drum set.
+A few years back while I was [traveling across India](/india/), **I had an identity crisis**. I came to understand that if I wanted to continue saying, "I am a drummer," instead of, "I *was* a drummer," then I better start drumming more regularly. My nomadic and apartment-dwelling lifestyle was not conducive to such loud and bulky habits. One night, while lying in bed, I was watching drumming YouTube videos when I came across a [Drumeo video featuring Michael Schack](https://www.youtube.com/watch?v=JqReO5NPN_g), Roland's endorsed artist for their flagship e-drums. I was hooked, and 10-minutes later, I typed my credit card info onto eBay, where I found a great deal on a Roland TD-30KV drum set.
 
 In recent years, I have enjoyed coming home to my 1-bedroom apartment and jamming with headphones late into the night without disturbing my neighbors. I even did a few studio recordings with the drums (they sound even better than "real" drums on recordings) **but never dared to dream of using them for a live performance**; I am too much of an acoustic-purist to play e-drums live.
 
@@ -76,6 +76,6 @@ Please excuse the unstable audio level. I think the phones had a difficult time 
 
 **Thank you** to all the other musicians, my friends, my colleagues, and especially to trivago for making this special night a reality, not just for me, but for everyone involved. The trivagoVibe happens twice a year, and I hope that I will be able to perform at the next one.
 
-Until then, please leave me your thoughts in the comments below, and you can always reach me directly on [Facebook](https://www.facebook.com/JudsonLMooreBlog/) and [Twitter](https://twitter.com/judsonlmoore)!
+Until then, please leave me your thoughts in the comments below, and you can always reach me directly on [Facebook](https://www.facebook.com/JudsonLMooreBlog) and [Twitter](https://twitter.com/judsonlmoore)!
 
 {% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg %}

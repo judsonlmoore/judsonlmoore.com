@@ -22,7 +22,7 @@ Native American culture is embedded with extensive tales and legends.  Every as
 
 Although credited as the “creator” of life, one story of Raven depicts a greedy and mischievous figure who mostly works for selfish reasons while at the same time teaching lessons about life.  The Native American tribes recognized that Raven was the key which opened many of life’s treasures to them and for this they were grateful. They also realized that Raven did not do this for the good of man or anything else but only for himself.  So although Native Americans are thankful for what Raven has given to them, they realize that Raven is not to be trusted and that he is more selfish than generous (Burke).
 
-**Check out my [#WhileYoung]({{ site.url }}/lifestyle/) advice series for living a full and prosperous life!**
+**Check out my [#WhileYoung](/lifestyle/) advice series for living a full and prosperous life!**
 
 Because of the numerous tribes that believed in the raven, there were numerous variations of beliefs surrounding the story of the raven.  The following is a summary of the creation myth of the Tlingit tribe from the North Pacific coast region:
 
@@ -46,7 +46,7 @@ Raven is credited for many other gifts and curses to man but the “creation” 
 
 This version of the creation myth is one of many ways that the story has been told.  All Native American stories have been passed down for generations orally, none of the stories have been written until the last 100 years (or so).  Because of this, there are many similar versions of the story.  For example, one other popular version told in the Northwest Coast region states that the daughter of the keeper of the sun and moon was impregnated by Raven, not because he turned himself into a speck of dust and fell in her water, but because he turned himself into, “…a spruce needle and floated into her basket of water.  When she drank from it, he impregnated her with himself” (McNeil).  Here the same basic concept and the overall effect is the same, but the meaning is slightly different.
 
-**Start living your "what if" [#WhileYoung]({{ site.url }}/lifestyle/) to live a life of happiness and fulfillment! **
+**Start living your "what if" [#WhileYoung](/lifestyle/) to live a life of happiness and fulfillment! **
 
 There are also discrepancies about the physical appearance of the raven baby between tribes of the same Northwest region: one indicates the baby to be, “immaculate in every way” (McNeil), whereas another refers to the child as, “oddly shaped in every way with deformities such that make it hard to believe that this child was of human birth.”
 
@@ -66,7 +66,7 @@ Although mischievous in nature, humans don’t take a sinister view from Raven�
 
 As time has had its toll on the Native American mythology, a new perspective is being derived about the raven.  Traditionally, Raven legends have only been told by elite tribesmen because only they had the time to learn the stories. Thus the stories have tended to be oriented more around the elite.  However a more modern view shows that the Tlingit Tribe believes that Raven thought of the poor in the same manner which Jesus did, regarding them sympathetically (Bierhorst 25).
 
-**It is never too late, but starting [#WhileYoung]({{ site.url }}/lifestyle/) is a great opportunity! Find out more now!**
+**It is never too late, but starting [#WhileYoung](/lifestyle/) is a great opportunity! Find out more now!**
 
 “Raven is not only a powerful supernatural character, but also a trickster” (Erdoes 344).  Although the Raven is credited for giving such gifts to mankind, it is still said that his heart may not have been in exactly the right place in those acts.  Raven, by nature, is very greedy and constantly seeking food (Burke).  As one reads through the myths of Raven it becomes apparent that Raven is performing all these acts not out of generosity, but out of vanity.  It is true that he delivered the stars, sun, moon, and rivers to man, but his motivations were selfish, and his means are never pure.  Raven simply contrives ways to steal other’s treasures and create a better world for himself; the fact that all of the world and mankind benefit from this is simply a by-product of Raven’s own selfish desires.
 

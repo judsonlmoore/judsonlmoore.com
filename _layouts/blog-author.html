@@ -9,7 +9,7 @@ layout: default
     <div class="row">
       <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-12">
         <div class="pt-lg-18 pb-lg-8 py-12 text-center">
-          <img src="{{ site.url }}{{ page.avatar }}" alt="" class="rounded-circle avatar-xxl mx-auto mb-4" />
+          <img src="{{ page.avatar | absolute_url }}" alt="" class="rounded-circle avatar-xxl mx-auto mb-4" />
           <h1 class="display-4 text-white">{{ page.name }}</h1>
           <p class="lead text-light">
             {{ page.content | markdownify }}
@@ -51,15 +51,15 @@ layout: default
         <div class="mb-8">
           <!-- post classic block -->
           <div class="mb-4">
-            <a href="{{ site.url }}{{ post.url }}">
+            <a href="{{ post.url | absolute_url }}">
               <div class="img-zoom">
-                <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}" class="img-fluid rounded w-100" >
+                <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" class="img-fluid rounded w-100" >
               </div>
             </a>
           </div>
           <div>
             <a href="{{ site.url }}/category/{{page.autopage.display_name | slugify }}/" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{page.autopage.display_name}}</a>
-            <a href="{{ site.url }}{{ post.url }}">
+            <a href="{{ post.url | absolute_url }}">
               <h3 class="mb-3">
                 {{ post.title | escape }}
               </h3>

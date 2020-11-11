@@ -97,7 +97,6 @@ cloudinary:
       max_width: 354
       max_height: 243
       attributes:
-<<<<<<< Updated upstream
         class: "img-fluid"
         loading: "lazy"
     featured:
@@ -116,9 +115,6 @@ cloudinary:
       attributes:
         class: "img-fluid"
         loading: "lazy" 
-
-=======
-        class: "rounded w-100"
     post-avatar:
       min_width: 64
       min_height: 64
@@ -127,7 +123,6 @@ cloudinary:
       steps: 1
       attributes:
         class: "avatar-xl rounded-circle mr-3"
->>>>>>> Stashed changes
 
 sass:
   load_paths:
@@ -210,7 +205,7 @@ links:
 pagination:
   
   # Site-wide kill switch, disabled here it doesn't run at all 
-  enabled: false
+  enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: true
@@ -271,7 +266,7 @@ pagination:
 autopages:
 
   # Site-wide kill switch, disable here and it doesn't run at all 
-  enabled: false
+  enabled: true
 
   # Category pages, omit entire config element to disable
   categories: 

@@ -13,7 +13,7 @@ image:			/assets/images/2017/04/Diamantina-Minas-Gerais-Brazil-St-Anthony-Cathed
 
 ## From New Orleans to Diamantina Brazil, Carnival reigns supreme
 
-Diamantina Brazil is a tiny town about 4 hours north of [Belo Horizonte]({{ site.url }}/belo-horizonte-travel-guide/), the capital of the state of Minas Gerais. I visited this unlikely party town during the Carnival season and it was full of energy and excitement. I come from the state of Louisiana in the southern part of the USA. In Louisiana, we celebrate Mardi Gras, which is just the French name for Carnival. **Needless to say, I felt right at home amongst the street dancing, live music, and historic architecture.**
+Diamantina Brazil is a tiny town about 4 hours north of [Belo Horizonte](/belo-horizonte-travel-guide/), the capital of the state of Minas Gerais. I visited this unlikely party town during the Carnival season and it was full of energy and excitement. I come from the state of Louisiana in the southern part of the USA. In Louisiana, we celebrate Mardi Gras, which is just the French name for Carnival. **Needless to say, I felt right at home amongst the street dancing, live music, and historic architecture.**
 
 Of course, this was no New Orleans Mardi Gras. This was something totally new to me. The conditions more rustic, the air more breathable, the food somehow even more delicious, and the energy **electrified by the pure Brazilian spirit**.
 

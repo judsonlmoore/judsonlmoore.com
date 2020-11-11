@@ -29,7 +29,7 @@ There are many more Rotary Youth Programs. If you or someone you know are intere
 
 You can read nearly any post on this blog and see the ripple effect that Rotary has had in my life. From influencing my decision to study foreign policy to enabling my adventures around the world. Rotary's impact on me when I was young has gone on to have a resounding impact on my life's path and the choices I make every day.
 
-So when I was recently asked to present my story to [the Rotary eClub of Silicon Valley](https://www.siliconvalleyrotary.com/meeting-02-17-2020/), I was honored. The opportunity came about thanks to my new book, [*Exponential Happiness*]({{ site.url }}/book/), in which I offer the same words of encouragement that I received at a young age which were the catalyst to my saying "yes" when Rotary came along and asked if I would like to participate in their Youth Exchange program. As a result, I spent one year in Germany, and the course my life was forever altered.
+So when I was recently asked to present my story to [the Rotary eClub of Silicon Valley](https://www.siliconvalleyrotary.com/meeting-02-17-2020/), I was honored. The opportunity came about thanks to my new book, [*Exponential Happiness*](/book/), in which I offer the same words of encouragement that I received at a young age which were the catalyst to my saying "yes" when Rotary came along and asked if I would like to participate in their Youth Exchange program. As a result, I spent one year in Germany, and the course my life was forever altered.
 
 In my presentation, I only had about 20-minutes to share my thoughts, so I boiled them down to these two points: 
 
@@ -55,7 +55,7 @@ It's good and all for older people to encourage younger people to "do it while y
 
 A fundamental question to answer is, **why does doing it young matter?**
 
-In my post [Why Travel While Young?]({{ site.url }}/why-travel-while-young/) I shared the below graph which outlines some cookie-cutter phases of life and how the responsibilities of these phases occupy a person's ability to be flexible. 
+In my post [Why Travel While Young?](/why-travel-while-young/) I shared the below graph which outlines some cookie-cutter phases of life and how the responsibilities of these phases occupy a person's ability to be flexible. 
 
 {% cloudinary /assets/images/2016/02/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" %}
 
@@ -82,7 +82,7 @@ What Rotary as a whole, and Rotarians as individuals, must continue to do in thi
 
 ## The value of showing up
 
-The second major point of my presentation stemmed from [my philosophy to **show up**]({{ site.url }}/the-second-philosophy-show-up/). Again, it sounds easy, but so often in life people simply fail to show up. 
+The second major point of my presentation stemmed from [my philosophy to **show up**](/the-second-philosophy-show-up/). Again, it sounds easy, but so often in life people simply fail to show up. 
 
 The world is full of open doors. Some may never be worth walking though, but many which lead to great success are never even approached. Sometimes people are held back by life's circumstances, other times it is flat out laziness. The worst thing is when a person isn't lazy but still fails to show up out of a lack of confidence. It's this last one that I most want to encourage young people to do away with. ***Be confident.***
 
@@ -117,7 +117,7 @@ Once upon a time, I was forwarded a notification about a fellowship program call
 
 In my mind, "fellowship" was something for academics or students. I had never been to Egypt and had no idea about Egyptian business, politics, or culture. *Certainly I couldn't be qualified, right?* **Wrong.** 
 
-Turns out that one of the qualifications was a *lack of experience* in Egypt. So I applied, was accepted, and then spent a month traveling with an incredible group of people around Egypt and the United States. We met with leaders in government, education, religion, business, and more. You can read my notes [here]({{ site.url }}/shafik-gabr-2015-fellowship-notes/).
+Turns out that one of the qualifications was a *lack of experience* in Egypt. So I applied, was accepted, and then spent a month traveling with an incredible group of people around Egypt and the United States. We met with leaders in government, education, religion, business, and more. You can read my notes [here](/shafik-gabr-2015-fellowship-notes/).
 
 As of this writing, I am still working to write about my experiences in Egypt, but when I get that done, you will find those posts as part of my [Egyptian Travel Guide]({{ site.irl }}/egypt/). In the meantime, here is a photo of me on the Suez Canal shaking hands with the captain of the Egyptian Presidential yacht, on which we are standing.
 
@@ -127,7 +127,7 @@ As of this writing, I am still working to write about my experiences in Egypt, b
 
 The United States Peace Corps operates in countries where they have been invited to do so. Likewise, Peace Corps Volunteers are invited to serve in their country of (eventual) service. Though joining the Peace Corps does begin with an application (you really can't get away from those things...) in the end you are invited to serve in specific capacity and location. 
 
-I was invited to apply, and I am so glad that I accepted that invitation. 6-months later I had my boots on the ground in Kyrgyzstan. I established a [really strong legacy]({{ site.url }}/my-peace-corps-legacy/) with my work in Kyrgyzstan as a Peace Corps Volunteer. 
+I was invited to apply, and I am so glad that I accepted that invitation. 6-months later I had my boots on the ground in Kyrgyzstan. I established a [really strong legacy](/my-peace-corps-legacy/) with my work in Kyrgyzstan as a Peace Corps Volunteer. 
 
 Not only was this the most rewarding 27-months of my life, but the work I did there in establishing an online network for journalists in rural areas, [kyrgyzmedia.kg](http://kyrgyzmedia.kg/), has gone on to enable a national association of Community Media and has changed the capacity of rural communities to have their voice heard all around the world.
 

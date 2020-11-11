@@ -13,7 +13,7 @@ description:	Petra is one of the New7Wonders of the World and it is no surprise!
 image:			/assets/images/2018/05/petra-jordan-al-khazneh-treasury.jpg
 ---
 
-The lost city of Petra, of Indiana Jones fame, sits in the southern territories of Jordan, between Amman and [Wadi Rum]({{ site.url }}/wadi-rum-jordan-destination-guide/). This UNESCO World Heritage Site has been on my bucket list for a long time and I am glad to report that it does not disappoint. All I really knew about Petra was The Treasury building, which is famous for being the resting place of the Holy Grail in the 1989 film *Indiana Jones and the Last Crusade*. I was thrilled to descend the long and winding *Siq*, or path, into Petra, where The Treasury is not the first thing you see along the path, and as it turns out, it is not nearly the last thing either.
+The lost city of Petra, of Indiana Jones fame, sits in the southern territories of Jordan, between Amman and [Wadi Rum](/wadi-rum-jordan-destination-guide/). This UNESCO World Heritage Site has been on my bucket list for a long time and I am glad to report that it does not disappoint. All I really knew about Petra was The Treasury building, which is famous for being the resting place of the Holy Grail in the 1989 film *Indiana Jones and the Last Crusade*. I was thrilled to descend the long and winding *Siq*, or path, into Petra, where The Treasury is not the first thing you see along the path, and as it turns out, it is not nearly the last thing either.
 
 ## Petra In a Nutshell
 
@@ -45,7 +45,7 @@ The tombs of Petra do not have names or years indicated on them, however, some o
 
 One thing to note about these structures is that they are not built. Rather, they are *carved*. What you see here in all these photos are structures carved into the side of mountains. Occasionally, where the curvature of the rock-face wasn't large enough to accommodate the builder's vision, some stone might be added on top, but for the most part, these structures have all been carved out of the side of the mountains with great precision and little error. Impressive!
 
-Beyond the Obelisk Tomb and a few others, the rock walls start to climb up on either side and the Petra experience turns into something truly unique. The predominant material in Petra is sandstone. The sandstone is iron-rich, giving it a brilliant rose color (similarly to why [the sand in Wadi Rum is red]({{ site.url }}/wadi-rum-jordan-destination-guide/)). Millenia of water flow has carved the walls and floor of the Siq smooth, adding to the alien-like environment.
+Beyond the Obelisk Tomb and a few others, the rock walls start to climb up on either side and the Petra experience turns into something truly unique. The predominant material in Petra is sandstone. The sandstone is iron-rich, giving it a brilliant rose color (similarly to why [the sand in Wadi Rum is red](/wadi-rum-jordan-destination-guide/)). Millenia of water flow has carved the walls and floor of the Siq smooth, adding to the alien-like environment.
 
 **Pro tip: **check the weather for any rain before you go. Petra is known to flash-flood and it is very dangerous to be in the Siq when it is raining anywhere in the region. The local police and guides take every precaution to give advance warnings and to evacuate visitors. I arrived on a dry day, but our guide showed a video from 1-week before when the whole place was full of rapids!
 
@@ -69,7 +69,7 @@ Due to years of vandalization and graffiti, the inside of The Treasury is not ac
 
 Thanks to eons of water flow and millions of visitors, the paths around Petra are pretty smooth and free of obstacles, so I argue that the best method of transportation is your own two feet. Keeping that in mind, Petra is 264 sq km (102 sq miles) and the whole site is on a slope, not to mention that each of the impressive sites resides atop of a different hill. So if by the end of the day you find yourself a bit exhausted, I wouldn't judge you for hopping on a camel or donkey back to the visitor's entrance.
 
-**Additional Reading: [Mars on Earth: The Wadi Rum Desert in Jordan]({{ site.url }}/wadi-rum-jordan-destination-guide/)**
+**Additional Reading: [Mars on Earth: The Wadi Rum Desert in Jordan](/wadi-rum-jordan-destination-guide/)**
 
 There are several camel stations around Petra, so you can hop on one from and to just about anywhere. If you were to take one at all, I recommend that you wait until the end of the day and take one from next to the Treasury back up to the visitor's entrance.
 

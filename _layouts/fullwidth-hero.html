@@ -7,10 +7,10 @@ layout: default
 <div 
 	id="fullwidth-img" 
 	class="container-fluid py-5 mb-0 mb-sm-5 vh-50" 
-	style="background-image: url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/w_1400/{% endif %}{{ site.url }}{{ page.image }}'); background-size: cover; background-position: center;">
+	style="background-image: url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/w_1400/{% endif %}{{ page.image | absolute_url }}'); background-size: cover; background-position: center;">
 	<div class="container h-100">
 		<div class="row h-100 align-items-center">
-		    <div class="col-lg-12">
+	    <div class="col-lg-12">
 				<h1 class="display-4 font-weight-bolder text-white mt-3 mt-md-5 mb-2" style="line-height: 1.8em;">
 					<span class="bg-dark p-1">
 					{{ page.title }}
@@ -21,13 +21,12 @@ layout: default
 					{{ page.subtitle }}
 					</span>
 				</h3>
-		    </div>
+	    </div>
 		</div>
 	</div>
 </div>
 
 <div class="container my-3 my-md-5 px-3 px-sm-0">
-
 	<div class="row mb-5">
 		<div class="col">
 			<div class="">
@@ -35,7 +34,6 @@ layout: default
 			</div>
 		</div>
 	</div>
-
 	<div class="row row-cols-1 row-cols-md-3">
 		{% assign posts = site.posts | where_exp: "item" , "item.tags contains page.category" %} 
 		{% for post in posts %} 

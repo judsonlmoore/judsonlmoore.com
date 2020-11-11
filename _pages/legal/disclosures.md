@@ -15,7 +15,7 @@ comments:		false
 
 *This policy is valid from January 20, 2020.*
 
-This blog is the sole property of and reflects the opinions, experiences, and advice of Judson L Moore, except for where otherwise stated, such as in the instance of the third-party content provided by guest writers or sponsored content, which will be clearly identified as such. For questions about this blog, please [contact me]({{ site.url }}/contact/).
+This blog is the sole property of and reflects the opinions, experiences, and advice of Judson L Moore, except for where otherwise stated, such as in the instance of the third-party content provided by guest writers or sponsored content, which will be clearly identified as such. For questions about this blog, please [contact me](/contact/).
 
 ## BLOG MONETIZATION
 
@@ -29,11 +29,11 @@ The views and opinions expressed on this blog are purely my own. Any product cla
 
 ## GIVEAWAY POLICIES
 
-Periodically, this blog hosts giveaways for the readers. These events may be self-sponsored by the blog owner or may be sponsored by another individual, business or corporation. This may or may not be plainly stated in the actual giveaway. If you need further clarification, please [contact me]({{ site.url }}/contact/).
+Periodically, this blog hosts giveaways for the readers. These events may be self-sponsored by the blog owner or may be sponsored by another individual, business or corporation. This may or may not be plainly stated in the actual giveaway. If you need further clarification, please [contact me](/contact/).
 
 ## NEWSLETTER
 
-The blog maintains a subscription-based e-newsletter list which readers can opt-in to [here]({{ site.url }}/subscribe/). The subscription list is managed with MailChimp and all requests to subscribe or unsubscribe must be performed by the subscribing party directly via the MailChimp service.
+The blog maintains a subscription-based e-newsletter list which readers can opt-in to [here](/subscribe/). The subscription list is managed with MailChimp and all requests to subscribe or unsubscribe must be performed by the subscribing party directly via the MailChimp service.
 
 ## THIRD-PARTY CONTENT
 

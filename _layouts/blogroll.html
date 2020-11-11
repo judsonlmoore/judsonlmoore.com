@@ -36,17 +36,17 @@ layout: default
   <ul class="pager">
       {% if paginator.previous_page %}
       <li class="previous">
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+          <a href="{{ paginator.previous_page_path | pabsolute_url | replace: '//', '/' }}">&larr; Newer Posts</a>
       </li>
       {% endif %}
       {% if paginator.next_page %}
       <li class="next">
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+          <a href="{{ paginator.next_page_path | pabsolute_url | replace: '//', '/' }}">Older Posts &rarr;</a>
       </li>
       {% endif %}
   </ul>
   {% endif %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | absolute_url }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | absolute_url }}">via RSS</a></p>
 
 </div>

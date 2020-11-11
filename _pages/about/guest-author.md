@@ -19,7 +19,7 @@ JudsonLMoore.com is the personal blog of Judson L Moore. It started in the year 
 - **#WhileYoung** – these are posts that offer advice, best practices, and insights learned from the author's life experiences. Guest authors write some of these posts.
 - **Travel Guides** – these are posts from Judson's travels across the world and what he has done there. In the beginning, these were written strictly in an autobiographical format but are now being rewritten and curated into travel guides, which offer more of an overview of destinations, alongside recommendations of activities to pursue or to avoid.
 
-[See who else has been a guest author]({{ site.url }}/authors/).
+[See who else has been a guest author](/authors/).
 
 ## Women guest authors
 

@@ -64,12 +64,8 @@ GEM
       jekyll (>= 3.6, < 5)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-<<<<<<< Updated upstream
-    jekyll-paginate (1.1.0)
-=======
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
->>>>>>> Stashed changes
     jekyll-sass-converter (2.1.0)
       sassc (> 2.0.1, < 3.0)
     jekyll-seo-tag (2.7.1)
@@ -130,11 +126,7 @@ DEPENDENCIES
   jekyll-archives
   jekyll-cloudinary
   jekyll-feed
-<<<<<<< Updated upstream
-  jekyll-paginate
-=======
   jekyll-paginate-v2
->>>>>>> Stashed changes
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-target-blank

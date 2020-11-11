@@ -29,7 +29,7 @@ As these biases go a long way in explaining the human condition when it comes to
 2. **Normalcy bias** - the refusal to plan for, or react to, a disaster which has never happened before.
 3. **Heard instinct** - the behavior of individuals in a group acting collectively without a centralized direction.
 
-I've been writing a lot about planning recently. Most of that planning has focused on [identifying and pursuing your life goals]({{ site.url }}/happiness/). Planning for a successful future is very important, but what about planning for disaster? **How can forethought and planning increase your ability to survive difficult times?**
+I've been writing a lot about planning recently. Most of that planning has focused on [identifying and pursuing your life goals](/happiness/). Planning for a successful future is very important, but what about planning for disaster? **How can forethought and planning increase your ability to survive difficult times?**
 
 This article covers some hard topics. By facing them head-on together, I hope that you and I will both be better equipped in the future to respond positively to these events, should we ever experience them first-hand.
 
@@ -150,7 +150,7 @@ Do you live in an active tectonic region? How are you prepared for a big earthqu
 
 During the COVID-19 pandemic, the news and social media have been littered with images of empty shelves in stores that should be full of a variety of toilet paper. As soon as people heard about the shelter-in-place orders, the panic to acquire provisions took over and a hoarding mentality set in. 
 
-[Many of the podcasts I listen to]({{ site.url }}/best-podcast-2017/) have expressed confusion over why toilet paper is the commodity of choice for hoarders and panic-buyers. I must fall in with the majority of people, because I, too, would have guessed that this would be one of the top things people would want to stock up on.
+[Many of the podcasts I listen to](/best-podcast-2017/) have expressed confusion over why toilet paper is the commodity of choice for hoarders and panic-buyers. I must fall in with the majority of people, because I, too, would have guessed that this would be one of the top things people would want to stock up on.
 
 [Roughly 70%](http://www.toiletpaperhistory.net/toilet-paper-facts/toilet-paper-fun-facts/) of the world's population doesn't even use toilet paper. But for those of us who do, it is difficult to imagine a life without. Thanks to my time serving in the Peace Corps, I am quite aware of what life without toilet paper is like, and that is why I can sympathize with those who now have a 5-year supply at home!
 

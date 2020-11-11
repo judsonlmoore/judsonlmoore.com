@@ -1,0 +1,11 @@
+travel-guides:
+  title: This is the Travel Guides title
+  subtitle: this is the subtitle
+  image: /assets/images/2015/10/ouro-preto.jpg
+  content: Here is the content. 
+
+college:
+  title: This is the College title
+  subtitle: this is the subtitle
+  image: /assets/images/2015/10/ouro-preto.jpg
+  content: Here is the content. 

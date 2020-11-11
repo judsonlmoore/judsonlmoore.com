@@ -1,0 +1,14 @@
+<div class="row">
+  <div class="offset-lg-3 col-lg-6 col-md-12 col-12 text-center">
+     <h2 class="mb-8">Prepare yourself for an eye-opening experience.</h2>
+     <div 
+      class="z-index-1 position-relative rounded-lg py-13 border-white border bg-cover" 
+      style="background-image: url({% if include.img %}{{ include.img}}{% else %}{{ page.image }}{% endif %});
+        ">
+        <a class="popup-youtube icon-shape rounded-circle btn-play icon-xl 
+           text-decoration-none" href="{{ include.src }}">
+        <i class="fas fa-play"></i>
+        </a>
+     </div>
+  </div>
+</div>

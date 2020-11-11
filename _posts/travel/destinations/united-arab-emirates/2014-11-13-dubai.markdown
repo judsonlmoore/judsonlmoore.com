@@ -13,7 +13,7 @@ image:			/assets/images/2015/01/IMG_3855.jpg
 
 Dubai: the playground of billionaires, royalty and me (for a day)! Thank you to my dear friend Laura and her family for hosting me while I was in Dubai. Laura and I worked together on [my cornerstone project](http://www.unesco.kz/new/en/unesco/news/2898/) while in the Peace Corps. She was a key player at UNESCO, who funded the project, so, she is one of my favorite people on Earth.
 
-Laura drove all the way out to Abu Dhabi to pick me up after I did [my sightseeing there]({{ site.url }}/abu-dhabi/). In Dubai, she spent a whole day making sure I got to make the best of my few hours.
+Laura drove all the way out to Abu Dhabi to pick me up after I did [my sightseeing there](/abu-dhabi/). In Dubai, she spent a whole day making sure I got to make the best of my few hours.
 
 We went to the Burj Khalifa, the tallest man-made structure in the world, standing at 829.8m (2,722 feet). The structure is super impressive and it's front yard features a fountain with a dancing water show which just puts the Bellagio in Vegas to shame. [Check out](https://www.youtube.com/watch?v=US_JlgUQaqY) the 2015 NYE celebration at the Burj Khalifa.
 

@@ -25,7 +25,7 @@
 		<p class="my-0"><strong>{{ post.title }}</strong></p>
 		<p class="my-0 text-muted small">{{ post.excerpt | strip_html | truncatewords:14 }}</p>
 	</div>
-	<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
+	<a href="{{ post.url | absolute_url }}" class="stretched-link"></a>
 </div>
 
 {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}

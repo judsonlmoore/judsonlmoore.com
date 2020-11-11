@@ -17,7 +17,7 @@ As a ginger kid, beaches and I don't usually get along so well. I rarely find th
 
 There are ample shaded sitting areas directly on the beach and lots of historic sites and tours to occupy yourself with during the peak sun hours.
 
-[After spending a week in the mountain town of Diamantina for Carnival]({{ site.url }}/diamantina-brazil-travel-guide/), visiting the beach scene of Porto Seguro was quite the change of pace. This week at the beach was full diving, flying, learning, dancing, and the makings of an identity story which has been **one of my best accounts to-date!**
+[After spending a week in the mountain town of Diamantina for Carnival](/diamantina-brazil-travel-guide/), visiting the beach scene of Porto Seguro was quite the change of pace. This week at the beach was full diving, flying, learning, dancing, and the makings of an identity story which has been **one of my best accounts to-date!**
 
 _This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](https://visitbrasil.com/). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
 
@@ -33,7 +33,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 {% cloudinary /assets/images/2017/06/judson-moore-fred-durst.jpg alt="Comparison of Judson Moore and Fred Durst" description="Fred Durst or Judson Moore?" %}
 
-My friends and I went by bus to Porto Seguro for spring break. The bus journey from Belo Horizonte, [where I was based out of for 6-weeks]({{ site.url }}/belo-horizonte-travel-guide/), was a tiresome overnight ride. The bus was very luxurious and comfortable, but it was a long way to go, **lasting around 15 hours**.
+My friends and I went by bus to Porto Seguro for spring break. The bus journey from Belo Horizonte, [where I was based out of for 6-weeks](/belo-horizonte-travel-guide/), was a tiresome overnight ride. The bus was very luxurious and comfortable, but it was a long way to go, **lasting around 15 hours**.
 
 In the middle of the night, we took a small break at a roadside rest area. **Brazilian interstates rest areas are very built up**, with restaurants and any accommodation you might need on a long-haul.
 
