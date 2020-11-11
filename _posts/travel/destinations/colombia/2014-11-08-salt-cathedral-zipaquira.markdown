@@ -4,7 +4,7 @@ categories:		['travel guide']
 tags:
   - south america
   - colombia
-  - zipaquirá
+  - zipaquira
   - rotary
   - rye
 excerpt:		The Salt Cathedral of Zipaquirá on the outskirts of Bogota, Colombia, is perhaps the world's grandest testament of a people's faith to their creator.

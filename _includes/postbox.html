@@ -1,6 +1,9 @@
 <div class="col mb-3">
 	<div class="card h-100">
+<<<<<<< Updated upstream
     	{% cloudinary thumbnail {{ post.image | relative_url }} alt="{{ post.title }}" %}
+=======
+>>>>>>> Stashed changes
 	    <div class="card-body">
 	        <h5 class="card-title">{{ post.title }}</h5>
 	        <p class="card-text mb-0">{{ post.excerpt | strip_html | truncatewords:20 }}</p>

@@ -53,7 +53,7 @@ There are a total of 42 beaches in Florianopolis. The best known are:
 
 * East
 
-  - MoleBeach
+  - Mole Beach
 
   * Galheta Beach (nudist beach)
 

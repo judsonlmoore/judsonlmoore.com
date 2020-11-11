@@ -1,8 +1,11 @@
-<!-- Pagination -->
-<div class="section-pagination text-center">
-  <nav class="d-table mx-auto">
-    <ul class="pagination flex-wrap">
+{% if paginator.total_pages > 1 %}
+<!-- pagination -->
+<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mt-8">
+  <nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+
       {% if paginator.previous_page %}
+<<<<<<< Updated upstream
       {% if paginator.previous_page == 1 %}
       <li class="page-item"><a class="page-link" href="{{ site.url }}">&laquo;</a></a>
       {% else %}
@@ -24,13 +27,28 @@
       {% else %}
       <li class="page-item"><a class="page-link" href="{{ site.url }}/blog/page-{{ i }}/">{{ i }}</a></li>
       {% endif %}
+=======
+      <li class="page-item mr-2"><a class="page-link rounded" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&laquo;</a></a>
+>>>>>>> Stashed changes
       {% endif %}
+
+      {% for trail in paginator.page_trail %}
+      <li class="page-item mr-2{% if page.url == trail.path %} active{% endif %}" >
+        <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" class="page-link roundedk">{{ trail.num }}</a>
+      </li>
       {% endfor %}
+
       {% if paginator.next_page %}
+<<<<<<< Updated upstream
       <li class="page-item"><a class="page-link" href="{{ site.url }}/blog/page-{{ paginator.next_page }}/">&raquo;</a></li>
       {% else %}
       <li class="page-item disabled"><a class="page-link" href="#">&raquo;</a></li>
+=======
+      <li class="page-item mr-2"><a class="page-link rounded" href="{{ paginator.next_page_path | prepend: site.baseurl }}">&raquo;</a></li>
+>>>>>>> Stashed changes
       {% endif %}
+
     </ul>
   </nav>
 </div>
+{% endif %}

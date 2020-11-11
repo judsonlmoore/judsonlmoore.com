@@ -10,7 +10,6 @@ gem 'jekyll'
 #Plugins here
 group :jekyll_plugins do
     gem 'jekyll-feed'
-    gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
     gem 'kramdown'
@@ -18,6 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-cloudinary'
     gem 'jekyll-sitemap'
     gem 'jekyll-algolia'
-    gem 'html-proofer'
     gem 'jekyll-target-blank'
+    gem 'jekyll-paginate-v2'
+    gem 'html-proofer'
 end

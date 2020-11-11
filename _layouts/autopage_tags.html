@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<!-- hero section -->
+<div 
+  class="bg-shape bg-dark" 
+  {% if page.image %}
+    style="background-image: linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url({% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/{% endif %}{{ site.url }}{{ page.image }});"
+  {% endif %}
+>
+  <div class="container">
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
+        <div class="py-lg-19 py-12 text-white text-center">
+          <h1 class="font-weight-bold text-white mb-3 display-4">
+            {{ page.pagination.tag | camelcase }}
+          </h1>
+          <p class="lead mb-4">
+            Page {{ page.pagination_info.curr_page }} of {{ page.pagination_info.total_pages }}
+          </p>
+          <p class="text-light">
+            <a href="#" class="text-light mr-4">Back to all categories</a>
+            <span>{{ paginator.total_posts }} Articles to read</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- blog post -->
+<div class="py-lg-16 py-10">
+  <div class="container">
+    <div class="row">
+      <div class="mb-8">
+        {{ content | markdownify }}
+      </div>
+    </div>
+    <div class="row">
+      {% for post in paginator.posts %}
+      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="mb-8">
+          <!-- post classic block -->
+          <div class="mb-4">
+            <a href="{{ site.url }}{{ post.url }}">
+              <div class="img-zoom">
+                <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}" class="img-fluid rounded w-100" >
+              </div>
+            </a>
+          </div>
+          <div>
+            <a href="{{ site.url }}/tag/{{page.autopage.display_name | slugify }}/" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{page.autopage.display_name}}</a>
+            <a href="{{ site.url }}{{ post.url }}">
+              <h3 class="mb-3">
+                {{ post.title | escape }}
+              </h3>
+            </a>
+            <div class="mb-3">
+              <div class="font-14">
+                <span class="mr-2">{{ post.date | date: "%b %-d, %Y" }}</span>
+                {% assign author = site.authors | where: 'short_name', page.author | first %}
+                <span>Posted by <a href="{{ site.url }}/authors/{{ author.short_name }}/">{{ author.name }}</a></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- post classic block -->
+      </div>
+      {% endfor %}
+
+      {% include pagination.html %}
+
+    </div>
+  </div>
+</div>

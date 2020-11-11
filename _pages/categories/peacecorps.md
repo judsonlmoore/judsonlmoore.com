@@ -3,7 +3,7 @@ title: 			The Peace Corps
 subtitle: 		The toughest job I ever loved
 description: 	I served as a United States Peace Corps volunteer in Kyrgyzstan and built a media empire in the process. 
 permalink: 		"/peacecorps/"
-layout: 		fullwidth-hero
+layout: 		page
 category: 		peace corps
 image: 			/assets/images/2012/06/Osh_Bazaar_in_Bishkek_Kyrgyzstaneg.jpeg
 ---

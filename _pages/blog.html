@@ -1,0 +1,173 @@
+---
+title:						xxx
+description:			xxx
+layout:						default
+permalink:				/blog/
+image: 						xxx
+---
+
+
+<!-- hero section -->
+<div class="bg-shape bg-cover" style="background-image: linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url({{ site.url }}/assets/images/pageheader-1.jpg);">
+  <div class="container">
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
+        <div class="py-lg-19 py-12 text-center">
+          <h1 class="font-weight-bold text-white mb-3 display-4">
+            Latest Articles
+          </h1>
+          <p class="lead text-light">
+            Praesent semper congue risus eu pellivamus venenatis iaculis ndisse gravida lorem quis gravida cursustege iaculis nequea cursus mauris semper ut.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- blog post -->
+<div class="pt-16 pb-12">
+  <div class="container">
+    <!-- navbar scroll -->
+    <div class="row d-flex align-items-center mb-5">
+      <div class="col-md-8">
+        <div class="navbar-scroll">
+          <ul>
+          	{% for category in site.categories %}
+						{% assign cat_name = category[0] %}
+						{% if forloop.first %}
+            <li><a class="active pl-0" href="{{ site.url }}/category/{{ cat_nam | slugify }}/">{{ cat_name | join: " " }}</a></li>
+            {% else %}
+            <li><a href="{{ site.url }}/category/{{ cat_name | slugify }}/">{{ cat_name | join: " " }}</a></li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <form class="d-none d-md-block">
+          <div class="input-group">
+            <input type="text" class="form-control border-right-0" placeholder="Search our blog..." aria-label="Recipient's username" aria-describedby="basic-addon2" />
+            <span class="input-group-text bg-transparent border border-left-0" id="basic-addon2"> <i class="fa fa-search font-14"></i></span>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    {% for post in site.posts limit:1 %}
+    <!-- featured post -->
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-12 mb-8 d-none d-md-block">
+        <div class="card text-white border-0">
+          <img src="{{ site.url }}{{ post.image }}" class="card-img" alt="{{ post.title }}" />
+
+          <div class="card-img-overlay text-white d-lg-flex flex-column justify-content-end py-md-8 px-md-10 p-2">
+            {% assign sortedCategories = post.categories | sort %}
+            {% for category in sortedCategories limit:1 %}
+            <a href="{{ site.url }}/category/{{ category | slugify }}/" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold">{{ category }}</a>
+            {% endfor %}
+            <h2 class="mb-3">
+              <a href="{{ site.url }}{{ post.url }}/" class="text-white">{{ post.title }}</a>
+            </h2>
+
+            <div class="font-14">
+              <span class="mr-2">{{ post.date | date:"%B %e, %Y" }}</span>
+              {% assign author = site.authors | where: 'short_name', page.author | first %}
+              <span>Posted by <a href="{{ site.url }}/authors/{{ author.short_name }}/" class="text-white">{{ author.name }}</a></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+
+    <div class="row">
+
+      {% for post in site.posts limit:24 offset:1 %}
+
+			<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="mb-8">
+          <!-- post classic block -->
+          <div class="mb-4">
+            <a href="{{ site.url }}{{ post.url }}/">
+              <div class="img-zoom">
+                <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}" class="img-fluid rounded w-100" >
+              </div>
+            </a>
+          </div>
+	        <div>
+            {% assign sortedCategories = post.categories | sort %}
+            {% for category in sortedCategories limit:1 %}
+	          <a href="{{ site.url }}/category/{{ category | slugify }}/" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ category }}</a>
+            {% endfor %}
+		        <a href="{{ site.url }}{{ post.url }}/">
+		          <h3 class="mb-3">
+		            {{ post.title }}
+		          </h3>
+		        </a>
+	          <div class="mb-3">
+	            <div class="font-14">
+		            <span class="mr-2">{{ post.date | date:"%B %e, %Y" }}</span>
+                {% assign author = site.authors | where: 'short_name', page.author | first %}
+		            <span>Posted by <a href="{{ site.url }}/authors/{{ author.short_name }}/">{{ author.name }}</a></span>
+	            </div>
+	          </div>
+	        </div>
+	      </div>
+	      <!-- post classic block -->
+	    </div>
+
+			{% endfor %}
+
+      {% include pagination.html %}
+
+      <!-- pagination -->
+      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mt-8">
+        <nav aria-label="Page navigation example">
+          <ul class="pagination">
+            <li class="page-item mr-2 active">
+              <a class="page-link rounded" href="#">1</a>
+            </li>
+            <li class="page-item mr-2">
+              <a class="page-link rounded" href="#">2</a>
+            </li>
+            <li class="page-item mr-2">
+              <a class="page-link rounded" href="#">3</a>
+            </li>
+            <li class="page-item">
+              <a class="page-link rounded" href="#">4</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- post subscribe form -->
+<div class="py-lg-10 py-5 top-shape bg-light-primary">
+  <div class="container">
+    <div class="row">
+      <div class="offset-lg-3 col-lg-6 col-md-12 col-12">
+        <div class="text-center border-light-primary">
+          <div class="card-body p-10">
+            <h2 class="mb-4">Get great articles direct to your inbox</h2>
+            <form class="row mb-4 g-0">
+              <div class="mb-3 mb-0 col-9">
+                <label for="email" class="sr-only"></label>
+                <input type="email" class="form-control border-0" id="email" name="email" required="" placeholder="Enter Email Address" />
+              </div>
+              <div class="col-3">
+                <button class="btn btn-primary" type="submit">
+                  Submit
+                </button>
+              </div>
+            </form>
+            <p class="font-14 mb-0">
+              We’ll never share your details with third parties. View our
+              <a href="#">Privacy Policy </a>for more info.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

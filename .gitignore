@@ -1,7 +1,6 @@
 # Jekyll stuff
 /_site/
-_site/
+/coach-theme/
 .jekyll-cache
 .sass-cache
 .jekyll-metadata
-.cicleci

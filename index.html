@@ -1,109 +1,16 @@
 ---
-layout: default
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 title: Home
+hero-img:       assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg
+hero-title: |
+  Become the hero of 
+  your own story
+hero-subtitle:  Join our Coach community of like-minded individuals.<br /> Get your ticket to the 2020 event.
+hero-btn-text:  Click here
+hero-btn-link:  /
+pagination: 
+  enabled: true
 ---
-
-{% if page.url == "/" %}
-
-<section class="masthead mb-5">
-    <div id="fullwidth-img" class="container-fluid py-5 mb-0 vh-75" style="background-image: url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/{% endif %}{{ site.url }}/assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg'); background-size: cover; background-position: center;">
-        <div class="container h-100">
-            <div class="row h-100 align-items-center">
-                <div class="col-lg-12 text-center">
-                    <h2 class="display-5 font-weight-bolder text-white mt-5 mb-2" style="line-height: 1.5em;">
-                        <span style="background-color: #000000; padding: .1rem .4rem 0 .3rem;">Pursuing happiness?</span>
-                    </h2>
-                    <h3 class="display-5 font-weight-bolder text-white mb-5">
-                        <span style="background-color: #000000; padding: .1rem .4rem 0 .3rem;">You've come to the right place</span>
-                    </h3>
-                    <a href="{{ site.url }}/happiness/" class="btn btn-lg btn-primary">Find happiness here</a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="mb-0 bg-light d-none d-lg-block">
-        <div class="container"> 
-            <div class="row justify-content-center text-center py-3">
-                {% for item in site.data.resume.publications %}
-                <div class="col-md-2 my-auto px-3 px-xl-5">
-                    <a href="{{ item.url }}" target="_blank">{% cloudinary {{ item.image-bw }} alt="{{ item.name }}" %}</a>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="topics container mb-5">
-    <div class="row mb-5">
-        <div class="col-md-3 d-none d-lg-block">
-            {% cloudinary /assets/images/2016/05/avatar-judson-l-moore-transparent-bg.png alt="" description="" %}
-        </div>
-        <div class="col-md-9">
-            <h2 class="display-5">Hi, I am Judson.</h2>
-            <p>I’m a product management professional with more than 20-years of work experience. My career has taken me across the globe to fill a variety of roles in a breadth of industries. My passions include applying technology and innovation to solving traditional problems, sharing my experiences through writing and interviews, and committing to making my community a better place for all who live in it.</p>
-            <p><mark>I offer one-on-one coaching services</mark> to people interested in <mark>personal and career growth</mark>, especially those who aren't sure what they want to do when they "grow up."</p>
-        </div> 
-    </div>
-    <div class="row bg-light p-3">
-        <div class="col-md-3">
-            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                {% for item in site.data.topics %}
-                {% if forloop.first %}
-                <a class="nav-link active text-capitalize" id="v-pills-{{ item.topic }}-tab" data-toggle="pill" href="#v-pills-{{ item.topic }}" role="tab" aria-controls="v-pills-{{ item.topic }}" aria-selected="true">{% include icons/{{ item.icon }} %} {{ item.topic }}</a>
-                {% else %}
-                <a class="nav-link text-capitalize" id="v-pills-{{ item.topic }}-tab" data-toggle="pill" href="#v-pills-{{ item.topic }}" role="tab" aria-controls="v-pills-{{ item.topic }}" aria-selected="true">{% include icons/{{ item.icon }} %} {{ item.topic }}</a>
-                {% endif %}
-                {% endfor %}
-            </div>
-        </div>
-        <div class="col-md-9">
-            <div class="tab-content" id="v-pills-tabContent">
-                {% for item in site.data.topics %}
-                {% if forloop.first %}
-                <div class="tab-pane fade show active" id="v-pills-{{ item.topic }}" role="tabpanel" aria-labelledby="v-pills-{{ item.topic }}-tab">
-                {% else %}
-                <div class="tab-pane fade" id="v-pills-{{ item.topic }}" role="tabpanel" aria-labelledby="v-pills-{{ item.topic }}-tab">
-                {% endif %}
-                    <div class="row mb-4">
-                        <div class="col-lg-6">
-                            <p class="lead">{{ item.lead }}</p>
-                            {{ item.content }}
-                        </div>
-                        <div class="col-lg-6">
-                            {% cloudinary {{ item.image }} alt="{{ item.image-alt }}" style="object-fit: cover; width: 400px; height: 275px;" %}
-                        </div>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</section> 
-
-<section class="blog container mb-5">
-    <h2 class="display-5">From the blog</h2>
-    {% include category-modual.html %}
-</section>
-
-{% endif %}
-
-<section class="blog container my-5">
-    <div class="p-4 mb-5 text-light bg-dark text-center">
-        <p class="h4"><strong>Do you want to <em>experience</em> the world?</strong> I encourage you to get an <u>early</u> start at living a full and adventurous life by providing tips for living your "what if" <strong>#WhileYoung</strong>.</p>
-        {% include modal-opt-in.html btn-text="Sounds great, tell me more!" %}
-    </div>
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
-        {% if page.url == "/" %}
-            {% for post in paginator.posts limit:6 %}
-                {% include postbox.html %}
-            {% endfor %}
-        {% else %}
-            {% for post in paginator.posts %}
-                {% include postbox.html %}
-            {% endfor %}
-        {% endif %}
-    </div>
-    {% include pagination.html %}
-</section>

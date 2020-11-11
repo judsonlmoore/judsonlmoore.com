@@ -3,7 +3,7 @@ title: 			Solo Female Travel Advice
 subtitle: 		A woman's perspective on travel
 description: 	Articles about solo travel written by women, for women. Get tips and tricks about solo female travel from women who have been all around the world.
 permalink: 		"/female-travel/"
-layout: 		fullwidth-hero
+layout: 		page
 category: 		female travel
 image: 			/assets/images/2017/07/female-travel-advice.jpg
 ---

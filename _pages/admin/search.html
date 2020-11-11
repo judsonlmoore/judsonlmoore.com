@@ -18,13 +18,13 @@ layout: 		page
 		<span class="post-meta">{{ post.date | date: date_format }}</span>
 
 		<h2>
-			<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+			<a class="post-link" href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a>
 		</h2>
 		<div class="post-snippet">{{ post.excerpt }}</div>
 	</div>
 	{% endfor %}
 </div>
 
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | absolute_url }}">via RSS</a></p>
 
 {% include algolia.html %}

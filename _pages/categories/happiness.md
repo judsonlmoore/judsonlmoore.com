@@ -3,7 +3,7 @@ title:			Achieving Happiness
 subtitle:		Philosophies to live your life by
 description:	There are several principles, philosophies really, by which I have come to live my life. By following these philosophies, the result in your life is Exponential Happiness.
 permalink:		"/happiness/"
-layout:			fullwidth-hero
+layout:			page
 category:		happiness
 image:			/assets/images/2019/05/exponential-happiness-background.jpg
 ---

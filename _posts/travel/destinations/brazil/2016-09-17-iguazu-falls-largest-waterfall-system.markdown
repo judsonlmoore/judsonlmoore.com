@@ -6,7 +6,7 @@ tags:
   - argentina
   - brazil
   - parana
-  - foz do iguaçu
+  - foz do iguacu
 destination:	Foz do Iguaçu
 excerpt:		In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one of the grandest natural wonders in the world, the Iguazu Falls.
 image:			/assets/images/2016/09/sunset-over-iguazu-falls.jpg

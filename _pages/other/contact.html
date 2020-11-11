@@ -3,51 +3,171 @@ title:        Contact
 description:  Get in touch with Judson L Moore to learn how to work together and get answers to all of your questions.
 permalink:    "/contact/"
 layout:       page
+image:        ../assets/images/contact-hero-img.jpg
 ---
+
+<!-- conatc form -->
+<div class="pb-16">
+  <div class="container">
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
+        <div class="card mt-n12 text-center mb-12">
+          <div class="card-body p-4 p-lg-8">
+            <div class="mb-5">
+              <h2 class="mb-3">I love Hearing From You</h2>
+              <p>
+                If you are looking for advice, please fill out this form. We will find you and get in touch.
+              </p>
+            </div>
+
+
+
+
+
+            <form class="row" role="form" action="https://formspree.io/mvoqvgjo" method="post">
+              <div class="from-group col-md-6 col-12 mb-3">
+                <label for="fname" class="sr-only">First Name</label>
+                <input type="text" class="form-control" id="fname" placeholder="First Name" name="fname" required="" />
+              </div>
+              <div class="from-group col-md-6 col-12 mb-3">
+                <label for="lname" class="sr-only">Last Name</label>
+                <input type="text" class="form-control" id="lname" placeholder="Last Name" name="lname" required="" />
+              </div>
+              <div class="from-group col-12 mb-3">
+                <label for="email" class="sr-only"> Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Email" name="email" required="" />
+              </div>
+              <div class="mb-3 col-12 mb-3">
+                <label for="purpose" class="sr-only">Purpose</label>
+                <select class="form-select" id="purpose" name="purpose" >
+                  <option selected="">Select Purpose</option>
+                  <option value="Business Coaching">Business Coaching</option>
+                  <option value="Relationship">Relationship</option>
+                  <option value="Life Coaching">Life Coaching</option>
+                </select>
+              </div>
+              {% if jekyll.environment == 'production' %}
+              <div class="col-12 mb-3">
+                <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+                <div class="g-recaptcha" data-sitekey="6LcUCwcUAAAAAIS5Q4RZm4tRnU1Fpg6jkzj1LKa0"></div>
+              </div>
+              {% endif %}
+              <div class="col-12">
+                <button type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary btn-block">
+                  Send Messages
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <!-- contact info -->
+        <div class="row">
+          <div class="col-lg-4 col-md-4 col-12">
+            <div class="text-center">
+              <h4 class="h5 mb-3">Speaking inquiries:</h4>
+              <p class="text-danger font-weight-bold">{{ site.phone }}</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4 col-12">
+            <div class="text-center">
+              <h4 class="h5 mb-3">Business inquiries:</h4>
+              <a href="#" class="text-danger font-weight-bold">{{ site.email-primary }}</a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4 col-12">
+            <div class="text-center">
+              <h4 class="h5 mb-3">Press Contact:</h4>
+              <a href="#" class="text-danger font-weight-bold">{{ site.email-secondary }} </a>
+            </div>
+          </div>
+        </div>
+        <!-- social media -->
+        <div class="row">
+          <div class="offset-lg-3 col-lg-6 col-md-12 col-12">
+            <div class="text-center mt-14">
+              <h4 class="mb-4">Follow me on</h4>
+              <ul class="list-inline">
+                {% if site.links.facebook %}
+                <li class="list-inline-item">
+                  <a href="{{ site.facebook }}" class="social-btn sb-facebook sb-round btn-light"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                {% endif %}
+                {% if site.links.twitter %}
+                <li class="list-inline-item">
+                  <a href="{{ site.twitter }}" class="social-btn sb-twitter sb-round btn-light"><i class="fab fa-twitter"></i></a>
+                </li>
+                {% endif %}
+                {% if site.links.linkedin %}
+                <li class="list-inline-item">
+                  <a href="{{ site.linkedin }}" class="social-btn sb-linkedin sb-round btn-light"><i class="fab fa-linkedin"></i></a>
+                </li>
+                {% endif %}
+                {% if site.links.youtube %}
+                <li class="list-inline-item">
+                  <a href="{{ site.youtube }}" class="social-btn sb-youtube sb-round btn-light"><i class="fab fa-youtube"></i></a>
+                </li>
+                {% endif %}
+                {% if site.links.instagram %}
+                <li class="list-inline-item">
+                  <a href="{{ site.instagram }}" class="social-btn sb-instagram sb-round btn-light"><i class="fab fa-instagram"></i></a>
+                </li>
+                {% endif %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <h1>Contact</h1>
 
 <div class="row justify-content-between">
-    <div class="col-lg-6 mb-5 mb-lg-0">
-        <form role="form" action="https://formspree.io/mvoqvgjo" method="post">
-            <input type="hidden" name="_next" value="/contact/" />
-            <input type="hidden" name="_subject" value="Contact form: judsonlmoore.com" />
+  <div class="col-lg-6 mb-5 mb-lg-0">
+    <form role="form" action="https://formspree.io/mvoqvgjo" method="post">
+      <input type="hidden" name="_next" value="/contact/" />
+      <input type="hidden" name="_subject" value="Contact form: judsonlmoore.com" />
 
-            <div class="form-group">
-                <label for="InputName">Your Name</label>
-                <input type="text" class="form-control" name="name" id="InputName" placeholder="Enter Name" required>
-            </div>
-            <div class="form-group">
-                <label for="InputEmail">Your Email</label>
-                <input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="Enter Email" required>
-            </div>
-            <div class="form-group">
-                <label for="InputMessage">Message</label>
+      <div class="form-group">
+        <label for="InputName">Your Name</label>
+        <input type="text" class="form-control" name="name" id="InputName" placeholder="Enter Name" required />
+      </div>
+      <div class="form-group">
+        <label for="InputEmail">Your Email</label>
+        <input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="Enter Email" required />
+      </div>
+      <div class="form-group">
+        <label for="InputMessage">Message</label>
 
-                <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
-            </div>
-            <div class="form-group">
-                <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-                <div class="g-recaptcha" data-sitekey="6LcUCwcUAAAAAIS5Q4RZm4tRnU1Fpg6jkzj1LKa0"></div>
-            </div>
-            <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary btn-large pull-right">
-        </form>
-    </div>
+        <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+      </div>
+      <div class="form-group">
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+        <div class="g-recaptcha" data-sitekey="6LcUCwcUAAAAAIS5Q4RZm4tRnU1Fpg6jkzj1LKa0"></div>
+      </div>
+      <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary btn-large pull-right" />
+    </form>
+  </div>
 
-    <div class="col-lg-5">
-        <address>
-            <h3>Snail Mail</h3>
-            <p class="lead">Send me a postcard!</p>
-            <p>Please send any regular post to the following address:<br><br>
-                <a href="https://goo.gl/maps/TDBvAyrSKn2xLhu77" target="_blank">
-                    Judson Moore<br>
-                    Gärtnerstraße 3<br>
-                    10245 Berlin<br>
-                    Germany<br><br>
-                </a>
-                <a href="https://wa.me/13105715210" target="_blank">Write me on Whatsapp</a><br><br>
-            </p>
-        </address>        
-        {% include social-buttons.html %}
-    </div>
+  <div class="col-lg-5">
+    <address>
+      <h3>Snail Mail</h3>
+      <p class="lead">Send me a postcard!</p>
+      <p>
+        Please send any regular post to the following address:<br />
+        <br />
+        <a href="https://goo.gl/maps/TDBvAyrSKn2xLhu77" target="_blank">
+          Judson Moore<br />
+          Gärtnerstraße 3<br />
+          10245 Berlin<br />
+          Germany<br />
+          <br />
+        </a>
+        <a href="https://wa.me/13105715210" target="_blank">Write me on Whatsapp</a><br />
+        <br />
+      </p>
+    </address>
+    {% include social-buttons.html %}
+  </div>
 </div>

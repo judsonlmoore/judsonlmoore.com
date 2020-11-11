@@ -2,128 +2,70 @@
 layout: compress    
 ---
 
-
 <!DOCTYPE html>
 <html lang="en">
-    <head>
 
-        {% if jekyll.environment == 'production' %}
-        <!-- Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12358141-4"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+  {% include head.html %}
 
-          gtag('config', 'UA-12358141-4');
-        </script>
-        {% endif %}
+  {% capture layout %}
+  {% if page.layout %}layout-{{ page.layout }}
+  {% endif %}
+  {% endcapture %}
 
-        <meta charset="utf-8" />
+  <body class="{{layout}}">
 
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=990949061035215&autoLogAppEvents=1"></script>
 
-        <!-- Site Icon -->
-        <link rel="icon" href="{{ site.url }}/assets/images/favicon.png" />
+    {% include header.html%}
 
-        {% seo %}
+    {{ content }}
 
-        {% feed_meta %}
+    {% include footer.html %}
 
-        <!-- Site CSS -->
-        <link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.url}}">
-        
-        <!-- Facebook Pixel Code -->
-        <script>
-            !function(f,b,e,v,n,t,s)
-            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-            n.queue=[];t=b.createElement(e);t.async=!0;
-            t.src=v;s=b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t,s)}(window, document,'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '1058459134239346');
-            fbq('track', 'PageView');
-        </script>
-        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1058459134239346&ev=PageView&noscript=1" /></noscript>
-
-    </head>
-
-    {% capture layout %}
-    {% if page.layout %}layout-{{ page.layout }}
-    {% endif %}
-    {% endcapture %}
-
-    <body class="{{layout}}">
-
-        <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=990949061035215&autoLogAppEvents=1"></script>
-
-        <!-- Begin Menu Navigation -->
-        {% include nav.html %}
-        <!-- End Navigation -->
-
-        <!-- Begin Content -->
-        {{ content }}
-        <!-- End Content -->
-
-        <!-- Begin Footer -->
-        {% include footer.html %}
-        <!-- End Footer -->
-
-        <!-- JQuery JS -->
-        <script src="{{'/assets/vendor/jquery.min.js' | prepend: site.url }}"></script>
-
-        <!-- Popper JS -->
-        <script src="{{'/assets/vendor/popper.min.js' | prepend: site.url }}"></script>
-
-        <!-- Bootstrap JS -->
-        <script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.url }}"></script>
-
-        <!-- Lightbox JS -->
-        <script src="{{'/assets/vendor/lightbox.js' | prepend: site.url }}"></script>
-
-        <!-- IE 10 Fix JS -->
-        <script type="text/javascript">
-            (function () {
-              'use strict'
-
-              if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
-                var msViewportStyle = document.createElement('style')
-                msViewportStyle.appendChild(
-                  document.createTextNode(
-                    '@-ms-viewport{width:auto!important}'
-                  )
-                )
-                document.head.appendChild(msViewportStyle)
-              }
-
-            }())
-        </script>
-
-        <!-- Modal popup controll -->
-        <script type="text/javascript"> 
-            $(document).ready(function(){
-                if (!sessionStorage.adModal) {
-                setTimeout(function() {
-                  $('#admodal').find('.modal');
-                    $('#admodal').modal({
-                      backdrop: 'static',
-                      keyboard: false
-                    });
-                }, 30000);
-                  sessionStorage.adModal = 1;
-              }
+    <!-- Modal popup controll -->
+    <script type="text/javascript"> 
+      $(document).ready(function () {
+        if (!sessionStorage.adModal) {
+          setTimeout(function () {
+            $("#admodal").find(".modal");
+            $("#admodal").modal({
+              backdrop: "static",
+              keyboard: false,
             });
-        </script>
+          }, 30000);
+          sessionStorage.adModal = 1;
+        }
+      });
+    </script>
 
-        <!-- Disqus Count -->
-        <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
-            var disqus_config = function () {
-                this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }];
-            };
-        </script>
+    <!-- Disqus Count -->
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
+      var disqus_config = function () {
+        this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }];
+      };
+    </script>
 
-    </body>
+    <!-- Optional JavaScript -->
+
+    <!-- Libs JS -->
+    <script src="{{'/assets/libs/jquery/dist/jquery.min.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/jquery-slimscroll/jquery.slimscroll.min.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/prismjs/prism.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/leaflet/dist/leaflet.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/moment/min/moment.min.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/lightpick/lightpick.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/ion-rangeslider/js/ion.rangeSlider.min.js' | prepend: site.url}}"></script>
+    <script src="{{'/assets/libs/inputmask/dist/jquery.inputmask.min.js' | prepend: site.url}}"></script>
+
+    <!-- clipboard -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
+
+    <!-- Theme JS -->
+    <script src="{{'/assets/js/theme.min.js' | prepend: site.url}}"></script>
+
+  </body>
+
 </html>

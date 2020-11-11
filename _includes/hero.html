@@ -1,0 +1,18 @@
+<!-- hero section -->
+<div style="background-image: linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/{% endif %}{{ site.url }}/{{ page.hero-img }}'); background-size: cover; background-repeat: no-repeat; background-position: center;">
+  <div class="container">
+    <div class="row">
+      <div class="offset-xl-2 col-xl-8 col-md-12 col-12">
+        <div class="py-13 pt-lg-19 pb-lg-19 text-center text-light">
+          <h1 class="display-3 font-weight-bold text-white mb-3 lh-1">
+            {{ page.hero-title }}
+          </h1>
+          <p class="px-lg-14 mb-5 lead">
+            {{ page.hero-subtitle }}
+          </p>
+          <a href="{{ page.hero-btn-link }}" class="btn btn-primary btn-lg">{{ page.hero-btn-text }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

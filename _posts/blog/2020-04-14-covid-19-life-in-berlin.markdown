@@ -92,7 +92,11 @@ The result is [TraceToZero](https://www.tracetozero.org/). We are actively beta 
 
 Many similar projects are happening around the world. For as much merit as each of them deserves, there is an equal amount of concern over privacy and how location data will be used and protected. I don't know of a perfect solution out there, but contact tracing is critical to understanding how disease spreads, and with technology, we can paint a much clearer picture than with clipboards and traditional questionnaires. 
 
+<<<<<<< Updated upstream
 I am proud to be one of the product leads for TraceToZero and equally excited to see what sort of impact this app makes in the global response to COVID-19.
+=======
+I am proud to be one of the product leads for TraceToZero and equally excited to see what sort of impact this app makes in the global response to COVID-19.s
+>>>>>>> Stashed changes
 
 ## The future
 

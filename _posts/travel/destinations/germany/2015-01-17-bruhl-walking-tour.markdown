@@ -4,7 +4,7 @@ categories:		['travel guide']
 tags:
   - europe
   - germany
-  - brühl
+  - bruehl
 excerpt:		Brühl Germany is a quaint and peaceful town surrounded by palaces, historic estates and wonderful walking paths. Join me on my walk through Brühl!
 image:			/assets/images/2015/10/IMG_4683.jpg
 ---
