@@ -73,7 +73,7 @@ I recommend kicking off the day with breakfast wherever is near you. The "full I
 
 After that, head to the Dublin Castle around opening time. From there, enjoy Dublin's shopping district. Then we will go learn some about the modern history of Dublin at the Jameson Distillery and taste some Irish whiskeys. To close the day out, grab a beer at one of **the most interesting bars in the world**.
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-1.png alt="A walking map of things to do in Dublin between Dublin Castle and the Jameson Distillery on Bow. St." description="" %}(https://goo.gl/maps/k7hetkFAABJ2) Click on image to open interactive map on Google." %}
+{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-1.png alt="A walking map of things to do in Dublin between Dublin Castle and the Jameson Distillery on Bow. St." %}(https://goo.gl/maps/k7hetkFAABJ2) Click on image to open interactive map on Google." %}
 
 ## Dublin Castle
 
@@ -194,7 +194,7 @@ Let's get out and stretch out legs! There are so many things to do in Dublin and
 
 We will move in a westwardly direction for most of the day. Starting at another of Dublin's iconic bridges, catching the sunset from atop the Guinness Storehouse, and then ending at **the most iconic bar in all of Ireland** to sing our hearts out until sunrise.
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-2-1.png alt="A walking map of things to do in Dublin from Samuel Beckett Bridge to the Temple Bar" alt="" description="" %}
+{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-2-1.png alt="A walking map of things to do in Dublin from Samuel Beckett Bridge to the Temple Bar" %}
 
 <center>[Click here for an interactive map.](https://goo.gl/maps/bKZP6fQF6ZU2)</center>
 
@@ -352,7 +352,7 @@ We will take the train to **explore the Irish coastline** and get our hiking bo
 
 One tip about today, if you will fly out of Dublin tonight, then **you should take your luggage to the DART station**. They have luggage storage there. Just be sure to pick up your luggage after hiking in Greystones while on your way to Howth. From Howth, it is much easier to go directly to the airport than it would be to go back to the city center and then to the airport.
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-3.png alt="A map of the DART route from Greystones to Howth in Ireland." description="" %}(https://goo.gl/maps/YDsvv4pj4922) Click on image to open interactive map on Google." %}
+{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-3.png alt="A map of the DART route from Greystones to Howth in Ireland." %}(https://goo.gl/maps/YDsvv4pj4922) Click on image to open interactive map on Google." %}
 
 ## DART train to Greystones + Cliff Walk
 

@@ -13,7 +13,7 @@ image:			/assets/images/2015/10/IMG_5395.jpg
 
 Niederalteich is a tiny town of fewer than 2000 people on the Danube River in Bavaria, Germany. It is best known for its main church, the [Niederaltaich Abbey Church](http://www.abtei-niederaltaich.de/). The abbey is part of the Benedictine Order and was founded in the 8th century. I stopped by the abbey to see if I could get a tour and what came next exceeded any dreams. I met Father Stephan, one of the deacons of the brotherhood and he took me around parts of the Abbey that are rarely seen by anyone.
 
-{% cloudinary /assets/images/2015/10/IMG_5374.jpg alt="My friend Martin and I with Father Stephan of the Niederaltaich Abbey" description="" %}
+{% cloudinary /assets/images/2015/10/IMG_5374.jpg alt="My friend Martin and I with Father Stephan of the Niederaltaich Abbey" %}
 
 _My friend Martin and I with Father Stephan_
 

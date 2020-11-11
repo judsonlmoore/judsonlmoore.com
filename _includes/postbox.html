@@ -1,10 +1,10 @@
 <div class="col mb-3">
 	<div class="card h-100">
-    	{% cloudinary thumbnail {{ site.url }}{{ post.image }} alt="{{ post.title }}" %}
+    	{% cloudinary thumbnail {{ post.image | relative_url }} alt="{{ post.title }}" %}
 	    <div class="card-body">
 	        <h5 class="card-title">{{ post.title }}</h5>
 	        <p class="card-text mb-0">{{ post.excerpt | strip_html | truncatewords:20 }}</p>
-	  		<a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
+	  		<a href="{{ post.url | relative_url }}" class="stretched-link"></a>
 	    </div>
 	</div>
 </div>

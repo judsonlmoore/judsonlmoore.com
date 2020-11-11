@@ -95,6 +95,23 @@ cloudinary:
       attributes:
         class: "img-fluid"
         loading: "lazy"
+    featured:
+      min_width: 64
+      min_height: 64
+      max_width: 512
+      max_height: 512
+      attributes:
+        class: "img-fluid"
+        loading: "lazy"
+    card-img-top:
+      min_width: 64
+      min_height: 64
+      max_width: 512
+      max_height: 512
+      attributes:
+        class: "img-fluid"
+        loading: "lazy" 
+
 
 sass:
   load_paths:

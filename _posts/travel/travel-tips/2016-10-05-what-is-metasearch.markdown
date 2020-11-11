@@ -24,7 +24,7 @@ Metadata is all of the behind the scenes data which make the Internet the Intern
 
 Please forgive the nerd in me that despite my best judgement will now show you a really boring (but instructive) workflow chart.
 
-{% cloudinary /assets/images/2016/08/metasearch-explained.svg alt="JakobVoss [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]" description="" caption="JakobVoss [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]" %}
+{% cloudinary /assets/images/2016/08/metasearch-explained.svg alt="JakobVoss [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]" caption="JakobVoss [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)]" %}
 
 _source: [Jakob Voss](https://en.wikipedia.org/wiki/Metasearch_engine#/media/File:Meta-search-en.svg)_
 

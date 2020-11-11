@@ -18,7 +18,7 @@ Those formative younger years, when we have not yet amassed responsibilities to 
 
 Following on the quote from Einstien regarding compounding interest, let me offer you a simple visualization. In the graph below, I've blotted an exponential curve (the blue line) and then another curve resulting from 10% less input (the red line). 
 
-{% cloudinary /assets/images/2020/01/exponential-happiness-curve.png alt="" description="" %}
+{% cloudinary /assets/images/2020/01/exponential-happiness-curve.png %}
 
 Given this, I hope you can see that putting in every effort to pursue your goals is very important. Also, note that a key to compounding is time. The more time you give this equation, the more it compounds. Start early and reap the benefits of ***Exponential Happiness!***
 

@@ -28,7 +28,7 @@ It was a really audacious idea that we had to bring this poet out and set the ni
 
 It makes people feel things and that’s the idea. If we don’t spur ourselves and poke ourselves, then our artistic nerves are just becoming complacent and nothing cool about complacency.
 
-{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-002.jpg alt="Jay Buchanan of the Rival Sons sings on stage" alt="" description="" %}
+{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-002.jpg alt="Jay Buchanan of the Rival Sons sings on stage" %}
 
 ## Tell us a little bit about your flavor of rock ‘n roll. Where is this coming from?
 
@@ -52,7 +52,7 @@ The key for me is to not finish anything. That sounds lazy but it’s quite the 
 
 It could go horribly wrong. We could have nothing in 3 weeks, but for some reason, it worked out. We also are a big fan of killing our darlings, you know. Nothing is precious. We kill songs constantly in the studio. We write much more than anybody hears and as soon as something feels like it’s got a nail in the tire, we just go move on to something else.
 
-{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-003.jpg alt="Mike Miley of the Rival Sons plays drums on stage" alt="" description="" %}
+{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-003.jpg alt="Mike Miley of the Rival Sons plays drums on stage" %}
 
 ## So how did the formation of Rival Sons happen, with such an eclectic group, that everybody said, “Oh, yeah, this makes sense. Let’s do this.” How do you explain that?
 
@@ -80,7 +80,7 @@ The happiness isn’t going to come from fame or money. The happiness is going t
 
 It’s almost weird for the band when you think about it. It’s almost kind of gross, like it’s such a pure thing that I came up with and now I have to deal with lawyers and money about it. Do music because you love it. I know that sounds generic. Do art because you love it. Because you can’t not do it. Because it’s what you’re supposed to do. And enjoy the taste of crow.
 
-{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-004.jpg alt="Todd Ögren-Brooks of the Rival Sons sings on stage" alt="" description="" %}
+{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-004.jpg alt="Todd Ögren-Brooks of the Rival Sons sings on stage" %}
 
 ## Do you have any anecdote you want to share or moment of inspiration, words of wisdom that were passed on to you and you can pass on to others?
 
@@ -100,7 +100,7 @@ So it’s very organic in that way. It has to be—it’s very honest in that wa
 
 **Scott Holiday:** If anybody reading this is a fan, thank you. Thank you, thank you. We’re so thankful that we could come back and do this all over the world and it’s because we have great fans that support us. So thank you.
 
-{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-001.jpg alt="Scott Holiday of the Rival Sons and I hanging out backstage" alt="" description="" %}
+{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-001.jpg alt="Scott Holiday of the Rival Sons and I hanging out backstage" %}
 
 ## Thank you, Scott.
 

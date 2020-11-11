@@ -57,7 +57,7 @@ A fundamental question to answer is, **why does doing it young matter?**
 
 In my post [Why Travel While Young?]({{ site.url }}/why-travel-while-young/) I shared the below graph which outlines some cookie-cutter phases of life and how the responsibilities of these phases occupy a person's ability to be flexible. 
 
-{% cloudinary /assets/images/2016/02/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" alt="" description="" %}
+{% cloudinary /assets/images/2016/02/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" %}
 
 Each of these phases comes with joys, advantages, and disadvantages when it comes to being flexible in your decision-making. For a deeper dive, read that blog post. The main take away is that youth = flexibility, and flexibility = capacity to choose happiness.
 
@@ -121,7 +121,7 @@ Turns out that one of the qualifications was a *lack of experience* in Egypt. So
 
 As of this writing, I am still working to write about my experiences in Egypt, but when I get that done, you will find those posts as part of my [Egyptian Travel Guide]({{ site.irl }}/egypt/). In the meantime, here is a photo of me on the Suez Canal shaking hands with the captain of the Egyptian Presidential yacht, on which we are standing.
 
-{% cloudinary /assets/images/2020/02/showing-up-by-applying.jpeg alt="" caption="Judson on the Suez Canal shaking hands with the captain of the Egyptian Presidential yacht" %}
+{% cloudinary /assets/images/2020/02/showing-up-by-applying.jpeg caption="Judson on the Suez Canal shaking hands with the captain of the Egyptian Presidential yacht" %}
 
 ### 2. Invitation
 
@@ -131,7 +131,7 @@ I was invited to apply, and I am so glad that I accepted that invitation. 6-mont
 
 Not only was this the most rewarding 27-months of my life, but the work I did there in establishing an online network for journalists in rural areas, [kyrgyzmedia.kg](http://kyrgyzmedia.kg/), has gone on to enable a national association of Community Media and has changed the capacity of rural communities to have their voice heard all around the world.
 
-{% cloudinary /assets/images/2020/02/showing-up-by-invitation.jpeg alt="" caption="Peace Corps Volunteers with US Ambassador Pamela Spratlen at the US Embassy in Bishkek." %}
+{% cloudinary /assets/images/2020/02/showing-up-by-invitation.jpeg caption="Peace Corps Volunteers with US Ambassador Pamela Spratlen at the US Embassy in Bishkek." %}
 
 ### 3. Random Chance
 
@@ -145,7 +145,7 @@ I took a lot of photos that day. Notice how I said "photos" and not "photography
 
 I didn't think about these photos again until March 2011 when my phone rang and a guy introduced himself as the manager of The White Stripes. He told me about this album and asked if they could use my photos for it. Of course, I said yes! What an honor! And so they did. And just like that, I am the album photographer for the White Stripe's vinyl release of their final live performance.
 
-{% cloudinary /assets/images/2020/02/showing-up-by-random-chance.jpeg alt="" caption="I am the album photographer for the images appearing inside the 2-disc album by The White Stripes - Live in Mississippi" %}
+{% cloudinary /assets/images/2020/02/showing-up-by-random-chance.jpeg caption="I am the album photographer for the images appearing inside the 2-disc album by The White Stripes - Live in Mississippi" %}
 
 ### 4. Volunteering
 
@@ -157,7 +157,7 @@ On the third day, the inhabitants of this small shelter were relocated to a larg
 
 In this role, I was part of the Governor's Taskforce on Emergency Preparedness, I worked with FEMA, the International Red Cross, local and state police, and many other first responder agencies. I literally rewrote the book on how the Red Cross should respond to emergencies in southern Louisiana. When Hurricane Gustav hit the region in 2008 I showed back up to volunteer and the Red Cross shelter managers I met had my plan printed in their go-boxes. This was one of my proudest moments and I hope that my effort has served the region well ever since. 
 
-{% cloudinary /assets/images/2020/02/showing-up-by-volunteering.jpeg alt="" caption="" %}
+{% cloudinary /assets/images/2020/02/showing-up-by-volunteering.jpeg caption="" %}
 
 ### 5. Hand Raising
 
@@ -169,7 +169,7 @@ I thought to myself, "that is a *line* I must get in!" Indeed, I thought that I 
 
 As a result, the next summer, I departed on an epic one-year study abroad journey to Germany. This year set the foundation for who I was to become later in life. In fact, since 2016 I have been living in Germany again!
 
-{% cloudinary /assets/images/2020/02/showing-up-by-hand-raising.jpeg alt="" caption="" %}
+{% cloudinary /assets/images/2020/02/showing-up-by-hand-raising.jpeg caption="" %}
 
 ### What does Rotary have to do with showing up?
 

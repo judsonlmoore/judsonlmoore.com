@@ -37,7 +37,7 @@
                     <h5>{{ post.title }}</h5>
                     <!-- <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p> -->
                 </div>
-                {% cloudinary featured {{ site.url }}{{ post.image }} alt="{{ post.title }}" %}
+                {% cloudinary featured {{ post.image | relative_url }} alt="{{ post.title }}" %}
             </a>
         </div>
         {% endif %}

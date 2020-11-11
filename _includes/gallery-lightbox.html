@@ -1,12 +1,12 @@
 <!-- Gallery CSS -->
-<link rel="stylesheet" href="{{ site.url }}/assets/css/lightbox.min.css">
+<link rel="stylesheet" href="{{ "/assets/css/lightbox.min.css" | relative_url }}">
 
 <div class="row">
   {% for image in include.images %}
   <div class="col-md-6">
-    <a href="{{ site.url }}{{ image.url }}" data-lightbox="gallery" data-title="{{ image.caption }}" data-alt="{{ image.alt }}">
+    <a href="{{ image.url | relative_url }}" data-lightbox="gallery" data-title="{{ image.caption }}" data-alt="{{ image.alt }}">
       <figure class="figure">
-        {% cloudinary {{ site.url }}{{ image.url }} alt="{{ image.alt }}" description="{{ image.caption }}" class="figure-img rounded" %}
+        {% cloudinary {{ image.url | relative_url }} alt="{{ image.alt }}" description="{{ image.caption }}" class="figure-img rounded" %}
         <figcaption class="figure-caption">{{ image.caption }}</figcaption>
       </figure>
     </a>

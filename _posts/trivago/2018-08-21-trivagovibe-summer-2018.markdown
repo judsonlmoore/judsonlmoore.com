@@ -54,7 +54,7 @@ I didn't get much video of the other bands, but be sure to check out this awesom
 
 Late in the evening, after everyone was good and loosened up, having just listened to hours of fantastic live music, my moment of truth came. **It was time for me to hit the stage** for the first time in Germany, and if I am honest, this was my first real live performance since... I honestly can't remember! Seriously, I am sitting here trying to remember, and *I just don't remember*.
 
-Drummers typically sit in the back of the stage, behind the rest of the band. That is not an excuse to lack showmanship, but now my drums were pushed to the front edge of the stage, and I was up here alone. It was time for me to shine or fail. The crowd was full of energy, and it was my responsibility to keep them entertained. *Did I rehearse enough? Did I program the right drum sounds? Does the backing track work? Will the video backdrop work? **These are all the questions which were in my head.** But I was focused. I was prepared. I rehearsed, and now it was time to see if I still have what it takes.
+Drummers typically sit in the back of the stage, behind the rest of the band. That is not an excuse to lack showmanship, but now my drums were pushed to the front edge of the stage, and I was up here alone. It was time for me to shine or fail. The crowd was full of energy, and it was my responsibility to keep them entertained. *Did I rehearse enough? Did I program the right drum sounds? Does the backing track work? Will the video backdrop work? **These are all the questions which were in my head.*** But I was focused. I was prepared. I rehearsed, and now it was time to see if I still have what it takes.
 
 As I walked onto the stage, I slipped into character. For the next 32 minutes, I would be **DRUMSON**.
 
@@ -78,4 +78,4 @@ Please excuse the unstable audio level. I think the phones had a difficult time 
 
 Until then, please leave me your thoughts in the comments below, and you can always reach me directly on [Facebook](https://www.facebook.com/JudsonLMooreBlog/) and [Twitter](https://twitter.com/judsonlmoore)!
 
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg alt="" description="" %}
+{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg %}

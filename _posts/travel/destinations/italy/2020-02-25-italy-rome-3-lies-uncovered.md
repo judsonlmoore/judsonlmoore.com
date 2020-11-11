@@ -25,7 +25,7 @@ Of course, it is hard to know who is telling you the lie about Rome when your mo
 
 ## It doesn't rain in the Pantheon
 
-{% cloudinary img-thumbnail /assets/images/2020/02/italy-rome-pantheon-oculus.jpg alt="" class="rounded float-right img-fluid w-25" caption="A selfie with the Pantheon's Oculus" %}
+{% cloudinary thumbnail /assets/images/2020/02/italy-rome-pantheon-oculus.jpg class="rounded float-right img-fluid w-25" caption="A selfie with the Pantheon's Oculus" %}
 
 The Pantheon is an incredible structure with 2000 years of history. The Pantheon is the largest non-reinforced dome in the world, it was the first-ever temple to be open to the public, and it is the oldest building in the world still in regular use for its intended purpose (as opposed to the Pyramids which are much older but are no longer a tomb and are just used for tourism). 
 

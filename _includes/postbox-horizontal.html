@@ -2,7 +2,7 @@
     <div class="card">
         <div class="row no-gutters">
             <div class="col-md-4">
-                {% cloudinary thumbnail {{ site.url }}{{ post.image }} alt="{{ post.title }}" class="h-100" style="object-fit: cover;" %}
+                {% cloudinary thumbnail {{ post.image | relative_url }} alt="{{ post.title }}" class="h-100" style="object-fit: cover;" %}
             </div>
             <div class="col-md-8">
                 <div class="card-body">
@@ -11,6 +11,6 @@
                 </div>
             </div>
         </div>
-        <a href="{{ site.url }}{{ post.url }}" class="stretched-link"></a>
+        <a href="{{ post.url | relative_url }}" class="stretched-link"></a>
     </div>
 </div>
