@@ -1,20 +1,27 @@
 - name: facebook
   url: https://www.facebook.com/judsonlmooreblog/
+  icon: <i class="fab fa-facebook-square"></i>
 
 - name: twitter
   url: https://twitter.com/judsonlmoore/
+  icon: <i class="fab fa-twitter-square"></i>
 
 - name: instagram
   url: https://www.instagram.com/judsonlmoore/
+  icon: <i class="fab fa-instagram-square"></i>
 
 - name: youtube
   url: https://www.youtube.com/judsonlmoore
+  icon: <i class="fab fa-youtube-square"></i>
 
 - name: linkedin
   url: https://www.linkedin.com/in/judsonlmoore/
+  icon: <i class="fab fa-linkedin"></i>
 
 - name: github
   url: https://github.com/judsonlmoore/
+  icon: <i class="fab fa-github-square"></i>
 
 - name: amazon
   url: https://www.amazon.com/author/judsonlmoore
+  icon: <i class="fab fa-amazon"></i>

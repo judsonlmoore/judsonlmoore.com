@@ -8,8 +8,10 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-12">
-        <div class="pt-lg-18 pb-lg-8 py-12 text-center">
-          <img src="{{ page.avatar | absolute_url }}" alt="" class="rounded-circle avatar-xxl mx-auto mb-4" />
+        <div class="pt-lg-14 pb-lg-8 py-12 text-center">
+
+          {% cloudinary {{ page.avatar | absolute_url }} alt="" class="rounded-circle avatar-xxl mx-auto mb-4 img-fluid" %}
+
           <h1 class="display-4 text-white">{{ page.name }}</h1>
           <p class="lead text-light">
             {{ page.content | markdownify }}
@@ -32,7 +34,7 @@ layout: default
             {% endif %}
           </div>
           <p class="text-light">
-            <a href="#" class="text-light mr-4">Back to all Authors</a>
+            <a href="{{ '/authors/' | absolute_url }}" class="text-light mr-4">Back to all Authors</a>
             <span>9 Articles to read</span>
           </p>
         </div>
@@ -42,11 +44,12 @@ layout: default
 </div>
 
 <!-- blog post -->
-<div class="py-lg-16 py-10">
+<div class="pt-12 pb-12 ">
   <div class="container">
     <div class="row">
 
-      {% for post in paginator.posts %}
+      {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+      {% for post in filtered_posts %}
       <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
         <div class="mb-8">
           <!-- post classic block -->
@@ -58,7 +61,7 @@ layout: default
             </a>
           </div>
           <div>
-            <a href="{{ site.url }}/category/{{page.autopage.display_name | slugify }}/" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{page.autopage.display_name}}</a>
+            <a href="{{ category | slugify | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{page.autopage.display_name}}</a>
             <a href="{{ post.url | absolute_url }}">
               <h3 class="mb-3">
                 {{ post.title | escape }}
@@ -66,9 +69,9 @@ layout: default
             </a>
             <div class="mb-3">
               <div class="font-14">
-                <span class="mr-2">{{ post.date | date: "%b %-d, %Y" }}</span>
-                {% assign author = site.authors | where: 'short_name', page.author | first %}
-                <span>Posted by <a href="{{ site.url }}/authors/{{ author.short_name }}/">{{ author.name }}</a></span>
+                <span class="mr-2">{{ post.date | date_to_string }}</span>
+                {% assign author = site.authors | where: 'short_name', post.author | first %}
+                <span>Posted by <a href="{{ author.url }}">{{ author.name }}</a></span>
               </div>
             </div>
           </div>

@@ -1,16 +1,98 @@
 <!-- hero section -->
-<div style="background-image: linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url('{% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/{% endif %}{{ page.hero-img | absolute_url }}'); background-size: cover; background-repeat: no-repeat; background-position: center;">
+<div 
+  class="{% if page.layout != 'home' %}bg-shape{% endif %} bg-dark" 
+  {% if page.image %}
+    style="{% include cloudinary-bg-image.html %}"
+  {% endif %}
+>
   <div class="container">
     <div class="row">
-      <div class="offset-xl-2 col-xl-8 col-md-12 col-12">
-        <div class="py-13 pt-lg-19 pb-lg-19 text-center text-light">
-          <h1 class="display-3 font-weight-bold text-white mb-3 lh-1">
+      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
+        <div class="py-13 pt-lg-16 pb-lg-14 text-center text-light">
+
+          <!-- If the homepage -->
+          {% if page.layout == 'home' %}
+
+          <!-- Hompage hero -->
+          <h1 class="display-3 font-weight-bold text-white mb-2">
             {{ page.hero-title }}
           </h1>
-          <p class="px-lg-14 mb-5 lead">
+          <p class="mb-4 lead">
             {{ page.hero-subtitle }}
           </p>
-          <a href="{{ page.hero-btn-link }}" class="btn btn-primary btn-lg">{{ page.hero-btn-text }}</a>
+
+          <!-- If not the homepage -->
+          {% else %}
+
+            <!-- Post category -->
+            {% if page.is_post == true %}
+            {% if page.categories %}
+            {% assign sortedCategories = page.categories | sort %}
+            {% for category in sortedCategories limit:1 %}
+            <a href="{{ category | slugify | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold">{{ category }}</a>
+            {% endfor %}
+            {% endif %}
+            {% endif %}
+
+            <!-- Post / page title -->
+            <h1 class="mb-3 display-4 text-white">
+              {% if page.autopages.display_name %}
+                {{ page.autopages.display_name }}
+              {% else %}
+                {{ page.title }}
+              {% endif %}
+            </h1>
+
+            <!-- Page description -->
+            {% if page.description %}
+            <p class="lead mb-4">
+              {{ page.description }}
+            </p>
+            {% endif %}
+
+            <div class="font-14 text-light">
+
+              <!-- Page metadata -->
+              {% if page.is_post != true %}
+
+                <!-- Number of articles -->
+                {% if paginator.total_posts %}
+                <span class="px-2">{{ paginator.total_posts }} Articles</span>
+                {% endif %}
+
+                <!-- Number of paginated pages -->
+                {% if paginator.total_pages > 1 %}
+                <span class="px-2">Page {{ page.pagination_info.curr_page }} of {{ page.pagination_info.total_pages }}</span>
+                {% endif %}
+
+              {% endif %}
+
+              <!-- Post metadata -->
+              {% if page.is_post == true %}
+
+                <!-- Post date -->
+                {% if page.date %}
+                <span class="px-2"><time class="post-date" datetime="{{ page.date | date:"%B %e, %Y" }}">{{ page.date | date:"%B %e, %Y" }}</time></span>
+                {% endif %}
+
+                <!-- Post author metadata -->
+                {% if page.author %}
+                {% assign author = site.authors | where: 'short_name', page.author | first %}
+                <span class="mr-2">Posted by <a href="{{ author.url | absolute_url }}">{{ author.name }}</a></span>
+                {% endif %}
+
+              {% endif %}
+
+            </div>
+
+          {% endif %}
+          <!-- End not the homepage -->
+
+          <!-- CTA Button -->
+          {% if page.hero-btn-link %}
+          <a href="{{ page.hero-btn-link | absolute_url }}" class="btn btn-primary btn-lg">{{ page.hero-btn-text }}</a>
+          {% endif %}
+
         </div>
       </div>
     </div>

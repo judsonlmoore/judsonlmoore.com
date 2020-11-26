@@ -1,0 +1,142 @@
+---
+title:        Contact
+description:  Get in touch with Judson L Moore to learn how to work together and get answers to all of your questions.
+layout:       default
+image:        ../assets/images/contact-hero-img.jpg
+---
+
+
+<!-- hero section -->
+<div 
+  class="bg-shape bg-cover bg-dark" 
+  {% if page.image %}
+    style="{% include cloudinary-bg-image.html %}"
+  {% endif %}
+>
+  <div class="container">
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
+        <div class="text-center py-lg-16 py-12">
+          <h1 class="mb-3 display-4 text-white">
+            {{ page.title }}
+          </h1>
+          {% if page.description %}
+          <p class="lead text-light mb-4 mb-lg-0">
+            {{ page.description }}
+          </p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- conact form -->
+<div class="pb-14">
+  <div class="container">
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
+        <div class="card mt-n12 text-center mb-12">
+          <div class="card-body p-4 p-lg-8">
+            <div class="mb-5">
+              <h2 class="mb-3">I love Hearing From You</h2>
+              <p>
+                If you are looking for advice, please fill out this form. We will find you and get in touch.
+              </p>
+            </div>
+
+
+
+
+
+            <form class="row" role="form" action="https://formspree.io/mvoqvgjo" method="post">
+              <div class="from-group col-md-6 col-12 mb-3">
+                <label for="fname" class="sr-only">First Name</label>
+                <input type="text" class="form-control" id="fname" placeholder="First Name" name="fname" required="" />
+              </div>
+              <div class="from-group col-md-6 col-12 mb-3">
+                <label for="lname" class="sr-only">Last Name</label>
+                <input type="text" class="form-control" id="lname" placeholder="Last Name" name="lname" required="" />
+              </div>
+              <div class="from-group col-12 mb-3">
+                <label for="email" class="sr-only"> Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Email" name="email" required="" />
+              </div>
+              <div class="form-group col-12 mb-3">
+                <label for="purpose" class="sr-only">Purpose</label>
+                <select class="custom-select" id="purpose" name="purpose" >
+                  <option selected="">Select Purpose</option>
+                  <option value="Coaching">Coaching</option>
+                  <option value="Web Development">Web Development</option>
+                  <option value="Product Management">Product Management</option>
+                  <option value="Other">Other</option>
+                </select>
+              </div>
+              <div class="col-12">
+                <button type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary btn-block">
+                  Send Messages
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <!-- contact info -->
+        <div class="row">
+          <div class="col-lg-4 col-md-4 col-12">
+            <div class="text-center">
+              <h4 class="h5 mb-3">Speaking inquiries:</h4>
+              <a href="mailto:{{ site.contact.speaking }}" class="text-danger font-weight-bold">{{ site.contact.speaking }}</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4 col-12">
+            <div class="text-center">
+              <h4 class="h5 mb-3">Other inquiries:</h4>
+              <a href="mailto:{{ site.contact.other }}" class="text-danger font-weight-bold">{{ site.contact.other }}</a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4 col-12">
+            <div class="text-center">
+              <h4 class="h5 mb-3">WhatsApp:</h4>
+              <a href="https://wa.me/13105715210" class="text-danger font-weight-bold">{{ site.contact.whatsapp }}</a>
+            </div>
+          </div>
+        </div>
+        <!-- social media -->
+        <div class="row">
+          <div class="offset-lg-3 col-lg-6 col-md-12 col-12">
+            <div class="text-center mt-14">
+              <h4 class="mb-4">Follow me on</h4>
+              <ul class="list-inline">
+                {% if site.links.facebook %}
+                <li class="list-inline-item">
+                  <a href="{{ site.links.facebook }}" class="social-btn sb-facebook sb-round btn-light"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                {% endif %}
+                {% if site.links.twitter %}
+                <li class="list-inline-item">
+                  <a href="{{ site.links.twitter }}" class="social-btn sb-twitter sb-round btn-light"><i class="fab fa-twitter"></i></a>
+                </li>
+                {% endif %}
+                {% if site.links.linkedin %}
+                <li class="list-inline-item">
+                  <a href="{{ site.links.linkedin }}" class="social-btn sb-linkedin sb-round btn-light"><i class="fab fa-linkedin"></i></a>
+                </li>
+                {% endif %}
+                {% if site.links.youtube %}
+                <li class="list-inline-item">
+                  <a href="{{ site.links.youtube }}" class="social-btn sb-youtube sb-round btn-light"><i class="fab fa-youtube"></i></a>
+                </li>
+                {% endif %}
+                {% if site.links.instagram %}
+                <li class="list-inline-item">
+                  <a href="{{ site.links.instagram }}" class="social-btn sb-instagram sb-round btn-light"><i class="fab fa-instagram"></i></a>
+                </li>
+                {% endif %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

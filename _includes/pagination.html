@@ -5,22 +5,22 @@
     <ul class="pagination justify-content-center">
 
       {% if paginator.previous_page %}
-
       <li class="page-item mr-2">
-        <a class="page-link rounded" href="{{ paginator.previous_page_path | pabsolute_url }}">&laquo;</a></a>
+        <a class="page-link rounded" href="{{ paginator.previous_page_path | absolute_url }}">&laquo;</a>
       </li>
-
       {% endif %}
 
+      {% if paginator.page_trail %}
       {% for trail in paginator.page_trail %}
       <li class="page-item mr-2{% if page.url == trail.path %} active{% endif %}" >
-        <a href="{{ trail.path | pabsolute_url }}" title="{{trail.title}}" class="page-link roundedk">{{ trail.num }}</a>
+        <a href="{{ trail.path | absolute_url }}" title="{{ trail.title }} page {{ trail.num }}" class="page-link roundedk">{{ trail.num }}</a>
       </li>
       {% endfor %}
+      {% endif %}
 
       {% if paginator.next_page %}
       <li class="page-item mr-2">
-        <a class="page-link rounded" href="{{ paginator.next_page_path | pabsolute_url }}">&raquo;</a>
+        <a class="page-link rounded" href="{{ paginator.next_page_path | absolute_url }}">&raquo;</a>
       </li>
       {% endif %}
 

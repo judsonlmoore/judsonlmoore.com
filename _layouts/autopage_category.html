@@ -2,55 +2,31 @@
 layout: default
 ---
 
-{% assign data = site.data.categories[page.title] %}
-<p>{{ data.title }}</p>
-<p>{{ data.subtitle }}</p>
-<p>{{ data.image }}</p>
-<p>{{ data.content }}</p>
-{% endif %}
 
-<!-- hero section -->
-<div 
-  class="bg-shape bg-dark" 
-  {% if page.image %}
-    style="background-image: linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url({% if jekyll.environment == 'production' %}https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/{% endif %}{{ page.image | absolute_url }}); background-size: cover; background-repeat: no-repeat; background-position: center;"
-  {% endif %}
->
+{% include hero.html %}
+
+<div class="py-lg-12 py-10">
   <div class="container">
+
+    {% if page.content %}
+    <!-- Page content -->
+    {% if page.pagination_info.curr_page == paginator.first_page  %}
     <div class="row">
-      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-        <div class="py-lg-19 py-12 text-white text-center">
-          <h1 class="font-weight-bold text-white mb-3 display-4">
-            {% if page.autopages %}{{page.autopages.display_name | capitalize_all }}{% endif %}
-          </h1>
-          <p class="lead mb-4">
-            Page {{ page.pagination_info.curr_page }} of {{ page.pagination_info.total_pages }}
-          </p>
-          <p class="text-light">
-            <a href="#" class="text-light mr-4">Back to all categories</a>
-            <span>{{ paginator.total_posts }} Articles to read</span>
-          </p>
+      <div class="col-12">
+        <div class="mb-8">
+          {{ content | markdownify }}
         </div>
       </div>
     </div>
-  </div>
-</div>
-
-<!-- blog post -->
-<div class="py-lg-16 py-10">
-  <div class="container">
-    {% if page.content %}
-    <div class="row">
-      <div class="mb-8">
-        {{ content | markdownify }}
-      </div>
-    </div>
     {% endif %}
+    {% endif %}
+
+    <!-- blog post -->
     <div class="row">
       {% for post in paginator.posts %}
+      <!-- post classic block --> 
       <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
         <div class="mb-8">
-          <!-- post classic block -->
           <div class="mb-4">
             <a href="{{ post.url | absolute_url }}">
               <div class="img-zoom">
@@ -58,25 +34,22 @@ layout: default
               </div>
             </a>
           </div>
-          <div>
-            {% if post.categories %}
-            <a href="{{ paginator.first_page_path | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ post.categories | limit:1 }}</a>
-            {% endif %}
-            <a href="{{ post.url | absolute_url }}">
-              <h3 class="mb-3">
-                {{ post.title | escape }}
-              </h3>
-            </a>
-            <div class="mb-3">
-              <div class="font-14">
-                <span class="mr-2">{{ post.date | date: "%b %-d, %Y" }}</span>
-                {% assign author = site.authors | where: 'short_name', post.author | first %}
-                <span>Posted by <a href="{{ site.url }}/authors/{{ author.short_name }}/">{{ author.name }}</a></span>
-              </div>
+          {% if post.categories %}
+          <a href="{{ paginator.first_page_path | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ post.categories | limit:1 }}</a>
+          {% endif %}
+          <a href="{{ post.url | absolute_url }}">
+            <h3 class="mb-3">
+              {{ post.title | escape }}
+            </h3>
+          </a>
+          <div class="mb-3">
+            <div class="font-14">
+              <span class="mr-2">{{ post.date | date_to_string }}</span>
+              {% assign author = site.authors | where: 'short_name', post.author | first %}
+              <span>Posted by <a href="{{ author.url }}">{{ author.name }}</a></span>
             </div>
           </div>
         </div>
-        <!-- post classic block -->
       </div>
       {% endfor %}
 

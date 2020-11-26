@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+
+{% include hero.html %}
+
+<div class="py-lg-12 py-10">
+  <div class="container">
+
+    <div class="row">
+      <div class="mb-8">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="row mb-lg-7 mb-0">
+
+      {% for post in paginator.posts %}
+      <!-- podcast thumbnail -->
+      <div class="col-lg-3 col-md-6 col-12">
+        <div class="mb-4">
+          <div class="mb-3">
+            <a href="{{ post.url | absolute_url }}">{% cloudinary {{ post.image }} class="img-fluid w-100 rounded" alt="{{ post.title }}" %}</a>
+          </div>
+          <span class="mb-3 text-secondary font-weight-bold d-block">{{ post.podcast-name }}</span>
+          <a href="{{ post.url | absolute_url }}">
+            <h3 class="h4 mb-3">
+              {{ post.episode-name }}
+            </h3>
+          </a>
+          <p class="mb-4 font-12 font-weight-bold"><span class="mr-3">{{ post.date | date_to_string }}</span><span>{{ post.duration }}</span></p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

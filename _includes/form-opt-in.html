@@ -1,35 +1,29 @@
 <form
 	action="{{ site.mailchimp-list }}"
 	method="post"
-	name="mc-embedded-subscribe-form"
-	class="wj-contact-form validate"
-	target="_blank"
+	class="form-row mb-4"
 	rel="noopener"
 	novalidate
 >
-	<div class="form-row">
-		<div class="col-12 col-lg-8 mb-2">
-			<input
-				type="email"
-				name="EMAIL"
-				class="form-control required email"
-				id="mce-EMAIL"
-				aria-describedby="emailHelp"
-				placeholder="Enter email"
-				autocomplete="on"
-				required
-			/>
-		</div>
-		<div class="col-12 col-lg-4">
-			<button
-				type="submit"
-				value="Subscribe"
-				name="subscribe"
-				class="btn btn-primary mb-2 btn-block"
-			>
-				Submit
-			</button>
-		</div>
+	<div class="form-group mb-0 col-9">
+		<label for="email" class="sr-only"></label>
+		<input
+			type="email"
+			name="email"
+			class="form-control border-0"
+			id="email"
+			aria-describedby="emailHelp"
+			placeholder="Enter Email Address"
+			autocomplete="on"
+			required="" />
 	</div>
-
+	<div class="col-3">
+		<button
+			type="submit"
+			value="Subscribe"
+			name="subscribe"
+			class="btn btn-primary">
+			Submit
+		</button>
+	</div>
 </form>

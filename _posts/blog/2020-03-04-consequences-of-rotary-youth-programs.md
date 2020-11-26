@@ -194,7 +194,7 @@ The results surprised me...
     <span class="badge badge-pill badge-warning">Neutral (90)</span>
     <span class="badge badge-pill badge-danger">Very (45)</span>
     <hr>
-    <p class="mb-0"><a href="https://www.facebook.com/groups/229463670434809/?post_id=2646133198767832" target="_blank">{% include icons/external-link.svg %} Source on private facebook group</a></p>
+    <p class="mb-0"><a href="https://www.facebook.com/groups/229463670434809/?post_id=2646133198767832" target="_blank"><i class="fas fa-external-link-alt"></i> Source on private facebook group</a></p>
 </div>
 
 If most Rotary Youth Exchange Students claim that others were not at all influential in their decision to do an exchange year, what does that mean for Rotarians? How can you then make an impact on would-be youth program participants? 

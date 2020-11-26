@@ -10,5 +10,6 @@ facebook: judsonlmooreblog
 instagram: judsonlmoore
 linkedin: judsonlmoore
 youtube: judsonlmoore
+position: Principal Author
 ---
 Travel addict. Ambitious about making the world a better place. Writing what I learn along the way.
