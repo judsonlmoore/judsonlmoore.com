@@ -1,14 +1,19 @@
 ---
-title: 			Privacy Policy
-description: 	Protecting user data and respecting the privacy of those who choose to visit this page is critical. Understand your rights as a visitor to judsonlmoore.com by reading this page.
-permalink: 		"/privacy/"
-layout: 		page
+title:					Privacy Policy
+description:		Protecting user data and respecting the privacy of those who choose to visit this page is critical. Understand your rights as a visitor to judsonlmoore.com by reading this page.
+layout:					page
 ---
 
 
-<h1>{{ page.title }}</h1>
-
-<p><a href="{{ site.url }}/terms/">Terms and Conditions</a> | <a href="{{ site.url }}/refund-policy/">Refund Policy</a> | <a href="{{ site.url }}/privacy/">Privacy Policy</a> | <a href="{{ site.url }}/disclosures/">Disclosures</a></p>
+<p>
+	<span>
+		Related information: 
+		<a href="{{ '/terms/' | absolute_url }}">Terms and Conditions</a> | 
+		<a href="{{ '/refund-policy/' | absolute_url }}">Refund Policy</a> | 
+		<a href="{{ '/privacy/' | absolute_url }}">Privacy Policy</a> | 
+		<a href="{{ '/disclosures/' | absolute_url }}">Disclosures</a>
+	</span>
+</p>
 
 ## SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 

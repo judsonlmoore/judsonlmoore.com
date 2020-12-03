@@ -1,14 +1,18 @@
 ---
-title: 			Terms and Conditions
-description: 	All visitors and users of judsonlmoore.com agree to these terms and conditions 
-permalink: 		"/terms/"
-layout: 		page
+title:					Terms and Conditions
+description:		All visitors and users of judsonlmoore.com agree to these terms and conditions 
+layout:					page
 ---
 
-
-<h1>{{ page.title }}</h1>
-
-<p><a href="{{ site.url }}/terms/">Terms and Conditions</a> | <a href="{{ site.url }}/refund-policy/">Refund Policy</a> | <a href="{{ site.url }}/privacy/">Privacy Policy</a> | <a href="{{ site.url }}/disclosures/">Disclosures</a></p>
+<p>
+	<span>
+		Related information: 
+		<a href="{{ '/terms/' | absolute_url }}">Terms and Conditions</a> | 
+		<a href="{{ '/refund-policy/' | absolute_url }}">Refund Policy</a> | 
+		<a href="{{ '/privacy/' | absolute_url }}">Privacy Policy</a> | 
+		<a href="{{ '/disclosures/' | absolute_url }}">Disclosures</a>
+	</span>
+</p>
 
 ## OVERVIEW
 

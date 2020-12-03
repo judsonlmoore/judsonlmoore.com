@@ -1,15 +1,19 @@
 ---
-title:			Disclosures
-description:	This website occasionally engages with third-party vendors and affiliates to create or influence this site's content. Read an explanation of this content here. 
-permalink:		"/disclosures/"
-layout:			page
-comments:		false
+title:					Disclosures
+description:		This website occasionally engages with third-party vendors and affiliates to create or influence this site's content. Read an explanation of this content here. 
+layout:					page
 ---
 
 
-<h1>{{ page.title }}</h1>
-
-<p><a href="{{ site.url }}/terms/">Terms and Conditions</a> | <a href="{{ site.url }}/refund-policy/">Refund Policy</a> | <a href="{{ site.url }}/privacy/">Privacy Policy</a> | <a href="{{ site.url }}/disclosures/">Disclosures</a></p>
+<p>
+	<span>
+		Related information: 
+		<a href="{{ '/terms/' | absolute_url }}">Terms and Conditions</a> | 
+		<a href="{{ '/refund-policy/' | absolute_url }}">Refund Policy</a> | 
+		<a href="{{ '/privacy/' | absolute_url }}">Privacy Policy</a> | 
+		<a href="{{ '/disclosures/' | absolute_url }}">Disclosures</a>
+	</span>
+</p>
 
 ## THE BASICS
 

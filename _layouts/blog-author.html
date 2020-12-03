@@ -35,7 +35,9 @@ layout: default
           </div>
           <p class="text-light">
             <a href="{{ '/authors/' | absolute_url }}" class="text-light mr-4">Back to all Authors</a>
-            <span>9 Articles to read</span>
+            <span>
+              {{ author.posts | where: 'short_name', post.author | first | size }} Articles
+            </span>
           </p>
         </div>
       </div>

@@ -39,12 +39,12 @@ You should also utilize a URL shortening service, such as [bit.ly](https://bitl
 
 This is a little bit of a web developer's trick, but it's easy to do, and I think it shows you to be innovative. Here is the link that I have on my resume for my contact e-mail.
 
-> mailto:getintouch@judsonlmoore.com?subject=I%20Read%20Your%20Resume!&body=Hey%20Judson!%20I%20was%20reading%20your%20resume%20and%20wanted%20to%20get%20in%20touch...
+`mailto:getintouch@judsonlmoore.com?subject=I%20Read%20Your%20Resume!&body=Hey%20Judson!%20I%20was%20reading%20your%20resume%20and%20wanted%20to%20get%20in%20touch...`
 
-- **mailto:getintouch@judsonlmoore.com** this is the link base, which signifies the link should send an e-mail to an e-mail address.
-- **?subject=** this extension to the link base allows you to customize the subject line for the draft e-mail, which is created by clicking the link.
-- **%20** tells the computer to insert a space between the words.
-- **&body=** this allows you to provide a custom start to an e-mail. I've gotten great feedback from recruiters for giving a start to the e-mail they are going to write. It's something no one else is doing, and that helps me stand out from the crowd, which is the #1 goal of a resume.
+- `mailto:getintouch@judsonlmoore.com` this is the link base, which signifies the link should send an e-mail to an e-mail address.
+- `?subject=` this extension to the link base allows you to customize the subject line for the draft e-mail, which is created by clicking the link.
+- `%20` tells the computer to insert a space between the words.
+- `&body=` this allows you to provide a custom start to an e-mail. I've gotten great feedback from recruiters for giving a start to the e-mail they are going to write. It's something no one else is doing, and that helps me stand out from the crowd, which is the #1 goal of a resume.
 
 ## Download Links
 
