@@ -1,161 +1,163 @@
 ---
-title: 			Resume
-description: 	x
-permalink: 		"/resume/"
-layout: 		page
+title:					Resume
+description:		Leading product teams to generate more user value, be more strategic, productive, and profitable. Author of Exponential Happiness.
+layout:						page
 ---
 
-
-<div class="row border-bottom pb-0">
-    <div class="col-xl-4 d-none d-xl-block">
-		{% cloudinary /assets/images/2016/05/avatar-judson-l-moore-transparent-bg.png alt="" description="" %}
-	</div>
-
-	<div class="col-xl-8 pb-5">
-		<div class="container">
-			<h1 class="display-4">Resume</h1>
-			<p>I’m a product management professional with more than 20-years of work experience. My career has taken me across the globe to fill a variety of roles in a breadth of industries. My passions include applying technology and innovation to solving traditional problems, sharing my experiences through writing and interviews, and committing to making my community a better place for all who live in it.</p>
-			<p>My accomplishments include improving the landing experience of +1 Billion users of trivago.com, building a publishing platform for journalists in Central Asia, and being an album photographer for the White Stripes. All of which also makes me a great storyteller.</p>
-			<p>When I’m not on the job, I spend time engaging with my community through my Rotary Club, traveling as much as possible, blogging about my experiences, <a href="https://drumson.de/" target="_blank">playing the drums</a>, and cycling.</p>
-			<p>My 5-year goals include writing another book, speaking at conferences, and acquiring permanent residency in Germany.</p>
-			<p>Current visa status: Deutschland, beschäftigung gestattet bis 6/2021.</p>
-			<a href="https://www.linkedin.com/in/judsonlmoore/" class="btn btn-primary btn-lg">LinkedIn <i class="fas fa-external-link-alt"></i></a>
-			<a href="https://docs.google.com/document/d/1AtH76fNIOcY7qPpdwEZK9Cv8fu4axDvZGHIymPJUSJw/export?format=pdf" class="btn btn-primary btn-lg">PDF Resume <i class="fas fa-download"></i></a>
-		</div>
-	</div>
+<div class="row border-bottom mb-5 pb-5">
+  <p>
+    I’m a product management professional with more than 20-years of work experience. My career has taken me across the globe to fill a variety of roles in a breadth of industries. My passions include applying technology and innovation to solving traditional problems, sharing my experiences through writing and interviews, and committing to making my community a better place for all who live in it.
+  </p>
+  <p>
+    My accomplishments include improving the landing experience of +1 Billion users of trivago.com, building a publishing platform for journalists in Central Asia, and being an album photographer for the White Stripes. All of which also makes me a great storyteller.
+  </p>
+  <p>
+    When I’m not on the job, I spend time engaging with my community through my Rotary Club, traveling as much as possible, blogging about my experiences, <a href="https://drumson.de/" target="_blank">playing the drums</a>, and cycling.
+  </p>
+  <p>
+  	My 5-year goals include writing another book, speaking at conferences, and acquiring permanent residency in Germany.
+  </p>
+  <a href="https://www.linkedin.com/in/judsonlmoore/" class="btn btn-primary btn-lg mr-3">LinkedIn <i class="fas fa-external-link-alt"></i></a>
+  <a href="https://docs.google.com/document/d/1AtH76fNIOcY7qPpdwEZK9Cv8fu4axDvZGHIymPJUSJw/export?format=pdf" class="btn btn-primary btn-lg">PDF Resume <i class="fas fa-download"></i></a>
 </div>
 
-<div class="jumbotron jumbotron-fluid text-center">
-	<div class="container">
-		<p class="lead">Leading product teams to generate more user value, be more strategic, productive, and profitable. Author of Exponential Happiness.</p>
-	</div>
-</div>
-
-<section id="experience"> 
-	<h2 class="mb-3">Work Experience</h2>
-	{% for item in site.data.resume.experience %}
-	<div class="row border-bottom pb-3 mb-3">
-		<div class="col-md-2 d-none d-md-block">
-			{% cloudinary {{ item.image }} class="pt-2" alt="{{ item.company }} logo" %}
-		</div>
-		<div class="col-12 col-md-10">
-			<p class="lead mb-0"><strong>{{ item.title }}</strong> at {{ item.company }}<span class="text-muted small"> in {{ item.city }}, {{ item.country }} from {{ item.start-date }} &ndash; {{ item.end-date }}</span></p>
-			<ul class="list-unstyled">
-				{% for point in item.points %}
-				<li>{{ point }}</li>
-				{% endfor %}
-			</ul>
-		</div>
-	</div>
-	{% endfor %}
-</section>
-
-<section class="border-bottom pb-3 mb-3" id="certifications">
-	<h2 class="mb-3">Certifications</h2>
-	<div class="row">
-		{% for item in site.data.resume.certifications %}
-		<div class="col-md-6">
-			<p class="lead mb-0"><strong>{{ item.name }}</strong></p>
-			<p class="mb-0">Issued by {{ item.issued-by }}</p>
-			<p class="text-muted small"> Valid from {{ item.start-date }} &ndash; {{ item.end-date }}</p>
-		</div>
-		{% endfor %}
-</section>
-
-<section class="border-bottom pb-3 mb-3" id="honors">
-	<h2 class="mb-3">Honors and Awards</h2>
-	<div class="row">
-		{% for item in site.data.resume.honors %}
-		<div class="col-md-6">
-			<p class="lead mb-0"><strong>{{ item.name }}</strong></p>
-			<p class="mb-0">Awarded by {{ item.issued-by }}</p>
-			<p class="text-muted small"> Awarded {{ item.issued-date }}</p>
-		</div>
-		{% endfor %}
-</section>
-
-<section class="border-bottom pb-3 mb-3" id="organizations">
-	<h2 class="mb-3">Organizations</h2>
-	<div class="row">
-		{% for item in site.data.resume.organizations %}
-		<div class="col-md-6">
-			<p class="mb-0"><strong>{{ item.position }}</strong> of {{ item.name }}</p>
-			<p class="text-muted small mb-0"> In {{ item.city }}, {{ item.country }} from {{ item.start-date }} &ndash; {{ item.end-date }}</p>
-			<ul class="list-unstyled">
-				{% for point in item.points %}
-				<li>{{ point }}</li>
-				{% endfor %}
-			</ul>
-		</div>
-		{% endfor %}
-	</div>
-</section>
-
-<section class="border-bottom pb-3 mb-3" id="projects">
-	<h2 class="mb-3">Projects</h2>
-	<div class="row">
-		{% for item in site.data.resume.projects %}
-		<div class="col-md-6">
-			<p class="mb-0"><strong>{{ item.name }}</strong></p>
-			<p class="text-muted small mb-0"> In {{ item.city }}, {{ item.country }} from {{ item.start-date }} &ndash; {{ item.end-date }}</p>
-			<ul class="list-unstyled">
-				{% for point in item.points %}
-				<li>{{ point }}</li>
-				{% endfor %}
-			</ul>
-		</div>
-		{% endfor %}
-	</div>
-</section>
-
-<section class="border-bottom pb-3 mb-3" id="publications">
-	<h2 class="mb-3">Publications</h2>
-	<div class="row">
-		{% for item in site.data.resume.publications %}
-		<div class="col-md-6">
-			<p class="mb-0"><strong>{{ item.title }}</strong></p>
-			<p class="text-muted small mb-0">Published by {{ item.name }} <a href="{{ item.url }}" target="_blank">here</a></p>
-			<ul class="list-unstyled">
-				{% for point in item.points %}
-				<li>{{ point }}</li>
-				{% endfor %}
-			</ul>
-		</div>
-		{% endfor %}
-	</div>
-</section>
-
-<section class="border-bottom pb-3 mb-3" id="skills">
-	<h2 class="mb-3">Select Skills</h2>
-	<div class="row">
-		{% for skill in site.data.resume.skills %}
-		<div class="col-md-6">
-			<h4>{{ skill.name }}</h4>
-			{% for item in skill.items %}
-			<dl class="row no-gutters">
-				<dt class="col-sm-12">{{ item.skill }}</dt>
-				<dd class="col-sm-12">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" style="width: {{ item.strength }}%;" aria-valuenow="{{ item.strength }}%" aria-valuemin="0" aria-valuemax="100">{{ item.strength }}%</div>
-					</div>
-				</dd>
-			</dl>
-			{% endfor %}
-		</div>
-		{% endfor %}
-	</div>
-</section>
-
-<section id="recommendations">
-	<h2 class="mb-3">Recommendations</h2>
-	<p>Here are a few recommendations I have received. Contact me for more information.</p>
-	<div class="row">
-		{% for item in site.data.resume.recommendations %}
-		<div class="col-md-6">
-		    <p class="mb-0">{{ item.quote }}</p>
-		    <p class="blockquote-footer">{{ item.source }} <cite title="Source Title">{{ item.title }} at {{ item.employer }}</cite></footer>
-		    </blockquote>
-		</div>
-	    {% endfor %}
+<div class="row border-bottom mb-5 pb-5" id="experience">
+  <h2 class="mb-3">Work Experience</h2>
+  <ul class="list-unstyled">
+  {% for item in site.data.resume.experience %}
+  <li class="media mb-3">
+  	{% cloudinary {{ item.image }} class="mr-3" alt="{{ item.company }} logo" style="max-width:64px" %}
+    <div class="media-body">
+      <h5 class="mt-0 mb-1">{{ item.title }}</h5>
+      <p class="">{{ item.company }}<span class="text-muted small"> in {{ item.city }}, {{ item.country }} <span class="text-right">{{ item.start-date }} &ndash; {{ item.end-date }}</span></span></p>
+      <ul class="list-unstyled">
+        {% for point in item.points %}
+        <li>{{ point }}</li>
+        {% endfor %}
+      </ul>
     </div>
-</section>
+  </li>
+  {% endfor %}
+</div>
+
+<div class="row border-bottom mb-5 pb-5" id="certifications">
+  <h2 class="mb-3">Certifications</h2>
+  <row>
+	  <ul class="list-unstyled">
+	    {% for item in site.data.resume.certifications %}
+	    <li class="media">
+		    <div class="media-body">
+		      <h5 class="mt-0 mb-1">{{ item.name }}</h5>
+		      <p class="">Issued by {{ item.issued-by }}<span class="text-muted small"> Valid from {{ item.start-date }} &ndash; {{ item.end-date }}</span></p>
+		    </div>
+		  </li>
+	    {% endfor %}
+	  </ul>
+	</row>
+</div>
+
+
+
+
+
+
+<div class="row border-bottom mb-5 pb-5" id="honors">
+  <h2 class="mb-3">Honors and Awards</h2>
+  <row>
+	  <ul class="list-unstyled">
+	    {% for item in site.data.resume.honors %}
+	    <li class="media">
+	    	<div class="media-body">
+		      <h5 class="mt-0 mb-1">{{ item.name }}</h5>
+		      <p class="">Awarded by {{ item.issued-by }}<span class="text-muted small"> Awarded {{ item.issued-date }}</span></p>
+		    </div>
+	    </li>
+	    {% endfor %}
+	  </ul>
+  </row>
+</div>
+
+<div class="row border-bottom mb-5 pb-5" id="organizations">
+  <h2 class="mb-3">Organizations</h2>
+  <div class="row">
+    {% for item in site.data.resume.organizations %}
+    <div class="col-md-6">
+      <p class="mb-0"><strong>{{ item.position }}</strong> of {{ item.name }}</p>
+      <p class="text-muted small mb-0">In {{ item.city }}, {{ item.country }} from {{ item.start-date }} &ndash; {{ item.end-date }}</p>
+      <ul class="list-unstyled">
+        {% for point in item.points %}
+        <li>{{ point }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="row border-bottom mb-5 pb-5" id="projects">
+  <h2 class="mb-3">Projects</h2>
+  <div class="row">
+    {% for item in site.data.resume.projects %}
+    <div class="col-md-6">
+      <p class="mb-0"><strong>{{ item.name }}</strong></p>
+      <p class="text-muted small mb-0">In {{ item.city }}, {{ item.country }} from {{ item.start-date }} &ndash; {{ item.end-date }}</p>
+      <ul class="list-unstyled">
+        {% for point in item.points %}
+        <li>{{ point }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="row border-bottom mb-5 pb-5" id="publications">
+  <h2 class="mb-3">Publications</h2>
+  <div class="row">
+    {% for item in site.data.resume.publications %}
+    <div class="col-md-6">
+      <p class="mb-0"><strong>{{ item.title }}</strong></p>
+      <p class="text-muted small mb-0">Published by {{ item.name }} <a href="{{ item.url }}" target="_blank">here</a></p>
+      <ul class="list-unstyled">
+        {% for point in item.points %}
+        <li>{{ point }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="row border-bottom mb-5 pb-5" id="skills">
+  <h2 class="mb-3">Select Skills</h2>
+  <div class="row">
+    {% for skill in site.data.resume.skills %}
+    <div class="col-md-6">
+      <h4>{{ skill.name }}</h4>
+      {% for item in skill.items %}
+      <dl class="row no-gutters">
+        <dt class="col-sm-12">{{ item.skill }}</dt>
+        <dd class="col-sm-12">
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" style="width: {{ item.strength }}%;" aria-valuenow="{{ item.strength }}%" aria-valuemin="0" aria-valuemax="100">{{ item.strength }}%</div>
+          </div>
+        </dd>
+      </dl>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="row mb-5 pb-5" id="recommendations">
+  <h2 class="mb-3">Recommendations</h2>
+  <p>Here are a few recommendations I have received. Contact me for more information.</p>
+  <div class="row">
+    {% for item in site.data.resume.recommendations %}
+    <div class="col-md-6">
+      <p class="mb-0">{{ item.quote }}</p>
+      <p class="blockquote-footer">{{ item.source }} <cite title="Source Title">{{ item.title }} at {{ item.employer }}</cite></p>
+    </div>
+    {% endfor %}
+  </div>
+</div>

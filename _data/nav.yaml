@@ -50,7 +50,7 @@ main:
       - title: All articles
         subtitle: The full monty
         icon: fas fa-th
-        url: /categories/
+        url: /blog/
       - title: Rotary
         subtitle: Service above self
         icon: fas fa-cog

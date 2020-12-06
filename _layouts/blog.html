@@ -2,40 +2,11 @@
 layout: default
 ---
 
-<!-- hero section -->
-<div 
-  class="bg-shape bg-dark" 
-  {% if page.image %}
-    style="{% include cloudinary-bg-image.html %}"
-  {% endif %}
->
-  <div class="container">
-    <div class="row">
-      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-        <div class="py-lg-19 py-12 text-white text-center">
-          <h1 class="font-weight-bold text-white mb-3 display-4">
-            {% if page.autopages.display_name %}
-              {{ page.autopages.display_name }}
-            {% else %}
-              {{ page.title }}
-            {% endif %}
-          </h1>
-          {% if page.description %}
-          <p class="lead text-light">
-            {{ page.description }}
-          </p>
-          {% endif %}
-          <p class="text-light">
-            <span>{{ paginator.total_posts }} Articles{% if paginator.total_pages > 1 %} | Page {{ page.pagination_info.curr_page }} of {{ page.pagination_info.total_pages }}{% endif %}</span>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
+{% include hero.html %}
 
 <!-- blog post -->
-<div class="pt-16 pb-12">
+<div class="py-lg-12 py-10">
   <div class="container">
     <!-- navbar scroll -->
     <div class="row d-flex align-items-center mb-5">
@@ -51,12 +22,9 @@ layout: default
         </div>
       </div>
       <div class="col-md-4">
-        <form class="d-none d-md-block">
-          <div class="input-group">
-            <input type="text" class="form-control border-right-0" placeholder="Search our blog..." aria-label="Recipient's username" aria-describedby="basic-addon2" />
-            <span class="input-group-text bg-transparent border border-left-0" id="basic-addon2"> <i class="fa fa-search font-14"></i></span>
-          </div>
-        </form>
+
+        {% include search.html %}
+
       </div>
     </div>
 

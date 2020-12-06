@@ -3,39 +3,14 @@ layout: default
 ---
 
 
-<!-- hero section -->
-<div 
-  class="bg-shape bg-dark" 
-  {% if page.image %}
-    style="{% include cloudinary-bg-image.html %}"
-  {% endif %}
->
-  <div class="container">
-    <div class="row">
-      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-        <div class="text-center py-lg-15 py-12">
-          <h1 class="mb-3 display-4 text-white">
-            {{ page.title }}
-          </h1>
-          {% if page.description %}
-          <p class="mb-3 lead text-light">
-            {{ page.description }}
-          </p>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+{% include hero.html %}
 
 <!-- page content -->
 <div class="py-lg-12 py-10">
   <div class="container">
     <div class="row">
       <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-sm-12 col-12">
-        <div class="mb-4">
-          {{ content }}
-        </div>
+        {{ content }}
       </div>
     </div>
   </div>

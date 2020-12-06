@@ -5,101 +5,59 @@ layout:         default
 
 {% include hero.html %}
 
+<div class="row justify-content-center text-center py-3">
+  {% for item in site.data.resume.publications %}
+  <div class="col-md-2 my-auto px-3 px-xl-5">
+    <a href="{{ item.url }}" target="_blank">{% cloudinary {{ item.image-bw }} alt="{{ item.name }}" %}</a>
+  </div>
+  {% endfor %}
+</div>
+
+
 <!-- about section -->
 <div class="py-lg-12 py-8">
   <div class="container">
     <div class="row">
 
 
-<div class="tab-pane tab-example-design fade active show" id="pills-vertical-pills-design" role="tabpanel" aria-labelledby="pills-vertical-pills-design-tab">
-  <div class="row">
-    <div class="col-3">
-      <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-        <a class="nav-link" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="false">Home</a>
-        <a class="nav-link active" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="true">Profile</a>
-        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</a>
-        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</a>
-      </div>
-    </div>
-    <div class="col-9">
-      <div class="tab-content" id="v-pills-tabContent">
-        <div class="tab-pane fade" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-          <p>
-            Cillum ad ut irure tempor velit nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id reprehenderit sit est eu aliqua occaecat quis et velit excepteur
-            laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
-          </p>
-        </div>
-        <div class="tab-pane fade active show" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-          <p>
-            Eu dolore ea ullamco dolore Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur
-            nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
-          </p>
-        </div>
-        <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-          <p>
-            Fugiat id quis dolor culpa eiusmod anim velit excepteur proident dolor aute qui magna. Ad proident laboris ullamco esse anim Lorem Lorem veniam quis Lorem irure occaecat velit nostrud magna nulla. Velit et et proident Lorem do
-            ea tempor officia dolor. Reprehenderit Lorem aliquip labore est magna commodo est ea veniam consectetur.
-          </p>
-        </div>
-        <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-          <p>
-            Fugiat id quis dolor culpa eiusmod anim velit excepteur proident dolor aute qui magna. Ad proident laboris ullamco esse anim Lorem Lorem veniam quis Lorem irure occaecat velit nostrud magna nulla. Velit et et proident Lorem do
-            ea tempor officia dolor. Reprehenderit Lorem aliquip labore est magna commodo est ea veniam consectetur.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
+      <div class="tab-pane tab-example-design fade active show" id="pills-vertical-pills-design" role="tabpanel" aria-labelledby="pills-vertical-pills-design-tab">
+        <div class="row">
+          <div class="col-3">
+            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+              {% for item in site.data.topics %}
+              {% if forloop.first %}
 
-
-
-
-
-
-
-  <div class="row bg-light p-3">
-    <div class="col-md-3">
-      <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-        {% for item in site.data.topics %}
-        {% if forloop.first %}
-        <a class="nav-link active text-capitalize" id="v-pills-{{ item.topic }}-tab" data-toggle="pill" href="#v-pills-{{ item.topic }}" role="tab" aria-controls="v-pills-{{ item.topic }}" aria-selected="true">{{ item.icon }} {{ item.topic }}</a>
-        {% else %}
-        <a class="nav-link text-capitalize" id="v-pills-{{ item.topic }}-tab" data-toggle="pill" href="#v-pills-{{ item.topic }}" role="tab" aria-controls="v-pills-{{ item.topic }}" aria-selected="true">{{ item.icon }} {{ item.topic }}</a>
-        {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <div class="col-md-9">
-      <div class="tab-content" id="v-pills-tabContent">
-        {% for item in site.data.topics %}
-        {% if forloop.first %}
-        <div class="tab-pane fade show active" id="v-pills-{{ item.topic }}" role="tabpanel" aria-labelledby="v-pills-{{ item.topic }}-tab">
-        {% else %}
-        <div class="tab-pane fade" id="v-pills-{{ item.topic }}" role="tabpanel" aria-labelledby="v-pills-{{ item.topic }}-tab">
-        {% endif %}
-          <div class="row mb-4">
-            <div class="col-lg-6">
-              <p class="lead">{{ item.lead }}</p>
-              {{ item.content }}
+              <a class="nav-link active text-capitalize" id="v-pills-{{ item.topic }}-tab" data-toggle="pill" href="#v-pills-{{ item.topic }}" role="tab" aria-controls="v-pills-{{ item.topic }}" aria-selected="true">{{ item.icon }} {{ item.topic }}</a>
+              {% else %}
+              <a class="nav-link text-capitalize" id="v-pills-{{ item.topic }}-tab" data-toggle="pill" href="#v-pills-{{ item.topic }}" role="tab" aria-controls="v-pills-{{ item.topic }}" aria-selected="true">{{ item.icon }} {{ item.topic }}</a>
+              {% endif %}
+              {% endfor %}
             </div>
-            <div class="col-lg-6">
-              {% cloudinary {{ item.image }} alt="{{ item.image-alt }}" style="object-fit: cover; width: 400px; height: 275px;" %}
+          </div>
+          <div class="col-9">
+            <div class="tab-content" id="v-pills-tabContent">
+              {% for item in site.data.topics %}
+              {% if forloop.first %}
+              <div class="tab-pane fade show active" id="v-pills-{{ item.topic }}" role="tabpanel" aria-labelledby="v-pills-{{ item.topic }}-tab">
+              {% else %}
+              <div class="tab-pane fade" id="v-pills-{{ item.topic }}" role="tabpanel" aria-labelledby="v-pills-{{ item.topic }}-tab">
+              {% endif %}
+                <div class="row mb-4">
+                  <div class="col-lg-6">
+                    <p class="lead">{{ item.lead }}</p>
+                    {{ item.content }}
+                  </div>
+                  <div class="col-lg-6">
+                    {% cloudinary {{ item.image }} alt="{{ item.image-alt }}" style="object-fit: cover; width: 400px; height: 275px;" %}
+                  </div>
+                </div>
+              </div>
+              {% endfor %}
             </div>
           </div>
         </div>
-        {% endfor %}
       </div>
-    </div>
-  </div>
-
-
-
-
-  
-
-
 
       <div class="offset-xl-3 col-xl-6 col-md-12 col-12">
         <div class="mb-8 text-center">
@@ -366,69 +324,80 @@ layout:         default
           </div>
         </div>
       </div>
-      <div class="row">
+      <div class="row row-cols-6 row-cols-md-4 row-cols-lg-2 ">
 
-<div class="col-lg-2 col-md-4 col-6">
-  <div class="mb-6 text-center">
-    <img src="../assets/images/logo-airbnb.svg" alt="" class="grayscale">
-  </div>
-</div>
+        <div class="col">
+          <div class="mb-6 text-center">
+            <img src="../assets/images/logo-airbnb.svg" alt="" class="grayscale">
+          </div>
+        </div>
 
-        <div class="col-lg-2 col-md-4 col-6">
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-american-red-cross.svg' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-ebay.svg' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-green-machine-concerts.png' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-kloop.png' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-loyola-university-new-orleans.svg' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-lsu.svg' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-mutual-mobile.png' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-nbc.svg' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-peace-corps.svg' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-trivago.svg' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
-        <div class="col-lg-2 col-md-4 col-6">
+
+        <div class="col">
           <div class="mb-6 text-center">
             <img src="{{ 'assets/images/logos/logo-united-nations.svg' | absolute_url }}" alt="" class="grayscale img-fluid" />
           </div>
         </div>
+
       </div>
     </div>
   </div>

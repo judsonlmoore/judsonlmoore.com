@@ -19,7 +19,7 @@ layout: 			default
                 <a href="{{ 'shop' | absolute_url }}">Shop</a>
               </li>
               <li class="breadcrumb-item">
-                <a href="{{ "shop/{{ page.product.category }}/" | absolute_url }}">{{ page.product.category }}</a>
+                <a href="{{ page.product.category | absolute_url }}">{{ page.product.category }}</a>
               </li>
               <li class="breadcrumb-item active" aria-current="page">
                 Product Details: {{ page.product.title }}
