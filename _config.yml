@@ -105,12 +105,6 @@ cloudinary:
       attributes:
         class: "avatar-xl rounded-circle mr-3 img-fluid"
 
-# algolia seaech api 
-algolia:
-  application_id: 7NL4THI97T
-  index_name: judsonlmoore.com
-  search_only_api_key: 32a647216673c47b6e482d43e5c289a3
-
 # minification
 compress_html:  
   clippings: all  

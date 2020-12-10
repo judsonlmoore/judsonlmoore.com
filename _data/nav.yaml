@@ -54,15 +54,15 @@ main:
       - title: Rotary
         subtitle: Service above self
         icon: fas fa-cog
-        url: /tags/#rotary
+        url: /rotary/
       - title: College
         subtitle: Published papers
         icon: fas fa-university
-        url: /categories/#college
+        url: /college/
       - title: Travel tips
         subtitle: Enjoy yout trip
         icon: fas fa-info
-        url: /categories/#travel-tips
+        url: /travel-tips/
   - dropdown-title: About
     dropdown-items:
       - title: About Judson
