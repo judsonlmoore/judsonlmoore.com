@@ -1,12 +1,12 @@
 # Site
+baseurl: ""
+permalink: /:title
 title: Judson L Moore
 tagline: Author and travel addict
 description: Do you want to experience the world? I encourage you to get an early start at living a full and adventurous life by providing tips for living your "what if" while young.
 url: "https://www.judsonlmoore.com"
-image-path: /assets/images/
-name: Judson L Moore
 author: Judson L Moore
-logo: /assets/images/avatar-judsonlmoore.png
+logo: 
 lang: en_US
 twitter:
   username: judsonlmoore
@@ -16,139 +16,13 @@ facebook:
   publisher: https://www.facebook.com/JudsonLMooreBlog/
   admins: judsonlmoore
 favicon: /assets/images/favicon.png
-social:
-  name: Judson L Moore
-  links:
-    - https://twitter.com/judsonlmoore
-    - https://www.facebook.com/judsonlmooreblog
-    - https://www.linkedin.com/in/judsonlmoore
-    - https://github.com/judsonlmoore
-    - https://www.instagram.com/judsonlmoore/
 webmaster_verifications:
   google: 3MN-XApFrgWYSpGop2aNPX3eHkQtKupxl-OltwME23o
   bing: 1571295b1311496094a646cca481014e
   yandex: df106ee154e1faa4 
-baseurl: ""
 disqus: "judsonlmoore"
 mailchimp-list: "https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
-include: ["_pages"]
-permalink: /:title/
-
-collections:
-  authors:
-    output: false
-  travel-guides:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      author: "judsonlmoore"
-      layout: "page"
-      image: /assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "travel-guides"
-    values:
-      layout: "fullwidth-hero"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-  - jekyll-sitemap
-  - jekyll-target-blank
-
-# jekyll-cloudinary
-cloudinary:
-  cloud_name: judsonlmoore-com
-  only_prod: true
-  presets:
-    default:
-      gravity: auto
-      crop: fill
-      focus: auto
-      min_width: 256
-      max_width: 1024
-      figure: never
-      attributes:
-        class: "img-fluid"
-        loading: "lazy"
-    thumbnail:
-      min_width: 64
-      min_height: 64
-      max_width: 512
-      max_height: 512
-      attributes:
-        class: "img-fluid"
-        loading: "lazy"
-
-sass:
-  load_paths:
-    - _sass
-    - node_modules
-  style: compressed
-
-# excludes
-exclude:
-  - .jekyll-cache
-  - changelog.md
-  - LICENSE.txt
-  - README.md
-  - Gemfile.lock
-  - .sass-cache/
-  - gemfiles/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - node_modules/
-
-# seaech api 
-algolia:
-  application_id: 7NL4THI97T
-  index_name: judsonlmoore.com
-  search_only_api_key: 32a647216673c47b6e482d43e5c289a3
-
-# jekyll-paginate
-paginate: 12
-paginate_path: "/blog/page-:num/"
-
-# jekyll-archives
-jekyll-archives:
-  enabled: []
-  layout: archive
-  permalinks:
-    year: '/archives/year/:year/'
-    month: '/archives/month/:year-:month/'
-    tag: '/archives/tag/:name/'
-    day: '/archives/:year/:month/:day/'
-    category: '/archives/category/:name/'
-
-# jekyll-feed
-feed:
-  path: atom.xml
-  excerpt_only: true
-  posts_limit: 1000
-  collections:
-    posts:
-      path: "/posts.xml"
-  categories:
-    - news
-    - updates
+google-analytics: G-B1R7N4XZXQ
 
 # other
 markdown: kramdown
@@ -159,6 +33,80 @@ kramdown:
     block:
       line_numbers: true
 
+gems:
+  - jekyll-paginate-v2
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-target-blank
+
+include: 
+  - _pages
+  - _pages/travel-guides
+
+exclude:
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+      author: "judsonlmoore"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog-single"
+      is_post: true
+  - scope:
+      path: '_pages'
+    values:
+      layout: "autopage_category"
+      permalink: /:basename/
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "blog-author"
+
+# jekyll-cloudinary
+cloudinary:
+  cloud_name: judsonlmoore-com
+  only_prod: true
+  verbose: false
+  presets:
+    default:
+      gravity: auto
+      crop: fill
+      focus: auto
+      min_width: 256
+      max_width: 1024
+      figure: auto
+      attributes:
+        class: "img-fluid"
+        loading: "lazy"
+    thumbnail:
+      min_width: 64
+      min_height: 64
+      max_width: 512
+      max_height: 512
+    post-avatar:
+      min_width: 70
+      min_height: 70
+      max_width: 70
+      max_height: 70
+      steps: 1
+      attributes:
+        class: "avatar-xl rounded-circle mr-3 img-fluid"
+
 # minification
 compress_html:  
   clippings: all  
@@ -168,3 +116,51 @@ compress_html:
   blanklines: false 
   ignore: 
     envs: []
+
+#contact
+contact:
+  speaking: assistant@jlm.me
+  other: contact@jlm.me
+  whatsapp: +1.310.571.5210
+
+# links 
+links:
+  facebook: https://www.facebook.com/judsonlmooreblog
+  twitter: https://twitter.com/judsonlmoore
+  linkedin: https://www.linkedin.com/in/judsonlmoore
+  instagram: https://www.instagram.com/judsonlmoore/
+  youtube: https://www.youtube.com/judsonlmoore
+  github: https://github.com/judsonlmoore
+
+# pagination settings
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/page-:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2
+
+# autopages settings
+autopages:
+  enabled: true
+  categories: 
+    layouts: 
+      - 'autopage_category.html'
+    title: 'Posts in category :cat'
+    permalink: '/category/:cat'
+    slugify:
+      mode: 'default'
+      case: true
+  tags:
+    layouts: 
+      - 'autopage_category.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/tag/:tag'
+    slugify:
+      mode: 'default'   # :tag is slugified.
+      case: true

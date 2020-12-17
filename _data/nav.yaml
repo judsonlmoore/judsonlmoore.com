@@ -1,57 +1,139 @@
 main:
-  - title: Lifestyle
-    subfolderitems:
-      - page: Happiness
+  - dropdown-title: Lifestyle
+    dropdown-items:
+      - title: Happiness
+        subtitle: Achieve your goals
+        icon: far fa-smile
         url: /happiness/
-      - page: WhileYoung
+      - title: WhileYoung
+        subtitle: Start today
+        icon: fas fa-birthday-cake
         url: /lifestyle/
-  - title: Career
-    subfolderitems:
-      - page: Product Management
+  - dropdown-title: Career
+    dropdown-items:
+      - title: Product Management
+        subtitle: Deliver user value
+        icon: fas fa-tasks
         url: /product-management/
-      - page: Resume writing
+      - title: Resume writing
+        subtitle: Present your best self
+        icon: far fa-file-word
         url: /high-tech-resume-tips/
-      - page: Reading list
+      - title: Reading list
+        subtitle: Learn everyday
+        icon: fas fa-book-reader
         url: /readinglist/
-      - page: Fellowships
+      - title: Fellowships
+        subtitle: Grow professionally
+        icon: fas fa-users
         url: /international-fellowship-programs/
-      - page: Peace Corps
+      - title: Peace Corps
+        subtitle: The toughest job
+        icon: fas fa-dove
         url: /peacecorps/
-  - title: Travel
-    subfolderitems:
-      - page: Travel Guides
+  - dropdown-title: Travel
+    dropdown-items:
+      - title: Travel Guides
+        subtitle: The world is your oyster
+        icon: fas fa-route
         url: /travel-guides/
-      - page: Female Travel
+      - title: Female Travel
+        subtitle: By and for women
+        icon: fas fa-venus
         url: /female-travel/
-      - page: Travel insurance
+      - title: Travel insurance
+        subtitle: Plan for the worst
+        icon: fas fa-user-shield
         url: /travel-insurance/
-  - title: Blog
-    subfolderitems:
-      - page: All articles
-        url: /categories/
-      - page: Rotary
-        url: /tags/#rotary
-      - page: College
-        url: /categories/#college
-      - page: Travel tips
-        url: /categories/#travel-tips
-  - title: About
-    subfolderitems:
-      - page: About Judson
+  - dropdown-title: Blog
+    dropdown-items:
+      - title: All articles
+        subtitle: The full monty
+        icon: fas fa-th
+        url: /blog/
+      - title: Rotary
+        subtitle: Service above self
+        icon: fas fa-cog
+        url: /rotary/
+      - title: College
+        subtitle: Published papers
+        icon: fas fa-university
+        url: /college/
+      - title: Travel tips
+        subtitle: The world is your oyster
+        icon: fas fa-route
+        url: /travel-guides/
+  - dropdown-title: About
+    dropdown-items:
+      - title: About Judson
+        subtitle: Personal background
+        icon: fas fa-info
         url: /about/
-      - page: My Resume
+      - title: My Resume
+        subtitle: Professional background
+        icon: far fa-file
         url: /resume/
-      - page: Contact
+      - title: Contact
+        subtitle: Get in touch
+        icon: far fa-address-card
         url: /contact/
-      - page: Subscribe
+      - title: Subscribe
+        subtitle: Stay updated
+        icon: far fa-envelope
         url: /subscribe/
-secondary:
-  - page: About Me
-    url: /about/
-  - page: Guest Authors
-    url: /guest-author/
 footer:
-  - page: Terms of Service
-    url: /tos/
-  - page: Privacy Policy
-    url: /privacy-policy/
+  - column-h: About
+    links:
+      - title: About me
+        url: /about/
+      - title: My book
+        url: /book/
+      - title: Resume
+        url: /resume/
+      - title: Reading list
+        url: /readinglist/
+      - title: Authors
+        url: /guest-author/
+  - column-h: Blog
+    links:
+      - title: Happiness
+        url: /happiness/
+      - title: Lifestyle
+        url: /lifestyle/
+      - title: Brazil
+        url: /brazil-travel-guide/
+      - title: Colombia
+        url: /colombia-travel-guide/
+      - title: India
+        url: /india-travel-guide/
+  - column-h: Resources
+    links:
+      - title: Contact
+        url: /contact/
+      - title: Subscribe
+        url: /subscribe/
+      - title: Media kit
+        url: /mediakit/
+      - title: For guest authors
+        url: /guest-author/
+      - title: Travel insurance
+        url: /travel-insurance/
+  - column-h: Follow Me
+    links:
+      - title: Facebook
+        url: https://www.facebook.com/JudsonLMooreBlog/
+      - title: Twitter
+        url: https://www.twitter.com/judsonlmoore/
+      - title: Instagram
+        url: https://www.instagram.com/judsonlmoore/
+      - title: YouTube
+        url: https://www.youtube.com/judsonlmoore/
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/judsonlmoore/
+bottom-bar:
+  - title: Terms of Service
+    url: /terms/
+  - title: Privacy Policy
+    url: /privacy/
+  - title: Sitemap
+    url: /sitemap.xml

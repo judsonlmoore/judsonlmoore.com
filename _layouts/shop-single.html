@@ -1,0 +1,83 @@
+---
+layout: 			default
+---
+
+<!-- pageheader section -->
+<div class="bg-shape bg-dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-12">
+        <div class="py-lg-14 pt-12 pb-8">
+          <h1 class="h2 text-white">Shop</h1>
+          <!-- breadcrumbs -->
+          <div class="custom-breadcrumb">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item">
+                <a href="{{ site.url }}">Home</a>
+              </li>
+              <li class="breadcrumb-item">
+                <a href="{{ 'shop' | absolute_url }}">Shop</a>
+              </li>
+              <li class="breadcrumb-item">
+                <a href="{{ page.product.category | absolute_url }}">{{ page.product.category }}</a>
+              </li>
+              <li class="breadcrumb-item active" aria-current="page">
+                Product Details: {{ page.product.title }}
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- product details -->
+<div class="py-12">
+  <div class="container">
+    <div class="row align-items-center">
+      <!-- image -->
+      <div class="col-lg-4 col-md-4 col-12">
+      	{% cloudinary {{ page.product.image }} alt="" class="img-fluid" %}
+      </div>
+      <!-- description -->
+      <div class="offset-lg-1 col-lg-7 col-md-8 col-12">
+        <h2>{{ page.product.title }}</h2>
+        <h3 class="lead">{{ page.product.subtitle }}</h3>
+        <p>by<span class="text-primary"> {{ page.product.author }}</span></p>
+        <hr class="my-4" />
+        <div class="mb-3 font-20">
+          <span class="text-dark mr-2">${{ page.product.sale-price }}</span>
+          <span class="text-muted"><s>${{ page.product.price }}</s></span>
+        </div>
+        {% if page.product.purchase-link-amazon %}
+        <a href="{{ page.product.purchase-link-amazon }}" class="btn btn-outline-primary mr-2" target="_blank">Buy on Amazon <i class="fab fa-amazon"></i></a>
+        {% endif %}
+        <p class="mt-4 font-14 mb-1"><span class="text-dark mr-1">Category:</span><a href="#!" class="text-inherit ml-1">{{ page.product.category }}</a></p>
+        <p class="font-14"><span class="text-dark mr-1">Tags:</span><a href="#!" class="text-inherit ml-1">life coach</a>,<a href="#!" class="text-inherit ml-1">motivation</a>,<a href="#!" class="text-inherit ml-1">success</a></p>
+      </div>
+    </div>
+    <hr class="my-10" />
+    <!-- product detail list -->
+    <div class="row">
+      <div class="col-lg-4 col-md-5 col-12">
+        <h4 class="mb-3">Product details</h4>
+        <ul class="list-group list-group-flush font-14 mb-0">
+          <li class="list-group-item px-0 py-1"><span class="text-dark">{{ page.product.format }}:</span> {{ page.product.pages }} pages</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Publisher:</span> {{ page.product.publisher }} ({{ page.product.publish-date }})</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Language:</span> {{ page.product.language }}</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">ISBN:</span> {{ page.product.isbn }}</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Product Dimensiona:</span> {{ page.product.size }}</li>
+          <li class="list-group-item px-0 py-1"><span class="text-dark">Product Weight:</span> {{ page.product.weight }}</li>
+        </ul>
+      </div>
+      <!-- description -->
+      <div class="col-lg-8 col-md-7 col-12">
+        <h4 class="mb-3">Description</h4>
+        
+        {{ content }}
+
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+
+{% include hero.html %}
+
+<div class="py-lg-12 py-10">
+  <div class="container">
+
+    {% if page.content %}
+    <!-- Page content -->
+    {% if page.pagination_info.curr_page == paginator.first_page  %}
+    <div class="row">
+      <div class="col-12">
+        <div class="mb-8">
+          {{ content | markdownify }}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endif %}
+
+    <!-- blog post -->
+    <div class="row">
+      {% for post in paginator.posts %}
+      <!-- post classic block --> 
+      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="mb-8">
+          <div class="mb-4">
+            <a href="{{ post.url | absolute_url }}">
+              <div class="img-zoom">
+                <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" class="img-fluid rounded w-100" >
+              </div>
+            </a>
+          </div>
+          {% if post.categories %}
+          <a href="{{ paginator.first_page_path | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ post.categories | limit:1 }}</a>
+          {% endif %}
+          <a href="{{ post.url | absolute_url }}">
+            <h3 class="mb-3">
+              {{ post.title | escape }}
+            </h3>
+          </a>
+          <div class="mb-3">
+            <div class="font-14">
+              <span class="mr-2">{{ post.date | date_to_string }}</span>
+              {% assign author = site.authors | where: 'short_name', post.author | first %}
+              <span>Posted by <a href="{{ author.url }}">{{ author.name }}</a></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+
+      {% include pagination.html %}
+
+    </div>
+  </div>
+</div>

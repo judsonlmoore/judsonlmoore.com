@@ -10,13 +10,13 @@ excerpt:		Edinburgh Castle is a must-see attraction in Edinburgh. I took a walki
 image:			/assets/images/2018/01/castle-walking-tour-edinburgh-new-gatehouse-judson.jpg
 ---
 
-After having spent my morning taking [a free walking tour]({{ site.url }}/edinburgh-free-walking-tour/), I decided it was worth buying a ticket to one of the afternoon paid tours. The tour organizer, SANDEMANs, had several to chose from but I was most interested in getting to know the Edinburgh Castle. So after a quick lunch on my own, I rejoined my trusty (and awesome) guide, [Dave](http://www.neweuropetours.eu/Edinburgh/en/Guides/Details/Yb9onL/dave), and off we went together on **the Edinburgh Castle walking tour**.
+After having spent my morning taking [a free walking tour](/edinburgh-free-walking-tour/), I decided it was worth buying a ticket to one of the afternoon paid tours. The tour organizer, SANDEMANs, had several to chose from but I was most interested in getting to know the Edinburgh Castle. So after a quick lunch on my own, I rejoined my trusty (and awesome) guide, [Dave](http://www.neweuropetours.eu/Edinburgh/en/Guides/Details/Yb9onL/dave), and off we went together on **the Edinburgh Castle walking tour**.
 
 **This tour runs daily** in the afternoon. Check [the SANDEMANs website](https://www.neweuropetours.eu/sandemans-tours/edinburgh/edinburgh-castle-walking-tour/) for schedules and ticket information.
 
 Keeping things simple, our meeting point was at the same location as the free walking tour, on The Royal Mile. Our group was small, just 7 of us. After going through a quick round of introductions, we started our **5-minute walk up the hill to the Edinburgh Castle**.
 
-**Additional reading: [Edinburgh FREE Walking Tour - All You Need to Know Before You Go]({{ site.url }}/edinburgh-free-walking-tour/)**
+**Additional reading: [Edinburgh FREE Walking Tour - All You Need to Know Before You Go](/edinburgh-free-walking-tour/)**
 
 ## In A Nutshell
 
@@ -82,6 +82,6 @@ In 1314 the castle was captured by Robert the Bruce and all the buildings inside
 
 ## A Day Well Spent in Edinburgh
 
-And that concludes my day in Edinburgh! I started with [a free walking tour]({{ site.url }}/edinburgh-free-walking-tour/), visited the Museum of Scotland, had haggis for lunch, and then spent the afternoon walking around Edinburgh Castle where I ended up catching the sunset. **I recommend this schedule for anyone** who is visiting Edinburgh, either for your first day in town or if it is your only day in Edinburgh, as it was for me.
+And that concludes my day in Edinburgh! I started with [a free walking tour](/edinburgh-free-walking-tour/), visited the Museum of Scotland, had haggis for lunch, and then spent the afternoon walking around Edinburgh Castle where I ended up catching the sunset. **I recommend this schedule for anyone** who is visiting Edinburgh, either for your first day in town or if it is your only day in Edinburgh, as it was for me.
 
 Have you been to Edinburgh? Have you visited the Edinburgh Castle? **I would love to have your feedback and impressions of the castle.** Please feel free to leave a comment below or reach me directly on Twitter [@judsonlmoore](https://www.twitter.com/judsonlmoore).

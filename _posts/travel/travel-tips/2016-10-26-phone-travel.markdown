@@ -13,7 +13,7 @@ Everyone who travels has a phone. This is a fact of modern life. As accustomed 
 
 ## 1. Check Your Phone Status
 
-First, make sure the iPhone is unlocked. Most are; Verizon automatically are; you may have to [request it](https://www.att.com/deviceunlock/#/) from AT&T. You’ll want to make sure it is unlocked before leaving the US.
+First, make sure the iPhone is unlocked. Most are; Verizon automatically are; you may have to [request it](https://www.att.com/deviceunlock//) from AT&T. You’ll want to make sure it is unlocked before leaving the US.
 
 ## 2. Change Your Settings
 
@@ -46,7 +46,7 @@ That way when you text someone, they will respond to your iMessage only and not 
 
 Once you’re on the plane, remove your SIM card. You’ll also want a [SIM tool](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=sim+tool) just to make life easier, or just use a paperclip.
 
-{% cloudinary /assets/images/2016/10/iphone-sim-removal-diagram.png alt="A diagram of how to remove a SIM card from an iPhone with a paperclip." description="" %}
+{% cloudinary /assets/images/2016/10/iphone-sim-removal-diagram.png alt="A diagram of how to remove a SIM card from an iPhone with a paperclip." %}
 
 Keep the SIM card like it’s your passport. You don’t want to get back on US soil and not have service. Seriously, if you lose your passport they’ll still let you back into the country. No SIM card means you have to go to the AT&T or Verizon store.
 

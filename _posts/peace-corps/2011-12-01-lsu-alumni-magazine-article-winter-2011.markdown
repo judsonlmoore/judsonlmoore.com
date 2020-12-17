@@ -11,4 +11,4 @@ tags:
 image:			/assets/images/2012/09/LSUmag_Winter2011.jpg
 ---
 
-{% cloudinary /assets/images/2012/09/LSUmag_Winter2011.jpg alt="" description="" %}
+{% cloudinary /assets/images/2012/09/LSUmag_Winter2011.jpg %}

@@ -17,7 +17,7 @@ Saturday was the birthday celebration of a close colleague and friend of mine fr
 
 Sparing you the details, just as I arrived to my apartment building, 2 drunk guys started talking to me. I ignored them and moved past them. As I moved passed them I was struck in the back of my head and neck and fell to the ground. I got up and ran into a nearby 24-hour cafe where I handed my phone to a waitress as it called the Peace Corps emergency number. As she took the phone, I lost consciousness.
 
-{% cloudinary /assets/images/2013/03/thumbs_up_doctors_iStock_00_620x350.jpg alt="Doctors Give Thumbs Up" alt="" description="" %}
+{% cloudinary /assets/images/2013/03/thumbs_up_doctors_iStock_00_620x350.jpg alt="Doctors Give Thumbs Up" %}
 
 Actually, I don't remember the attack at all because of the minor concussion I received. No, I was not drunk and alcohol was quickly ruled out as a contributing factor. The drinks I had at dinner were light and many hours earlier. I have only been able to put this story together by interviewing witnesses and making a few speculations.
 

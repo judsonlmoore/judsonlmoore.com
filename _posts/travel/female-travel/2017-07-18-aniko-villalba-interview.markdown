@@ -26,13 +26,13 @@ After the presentation, I was invited to join her and a small group to dinner. W
 
 **Aniko Villalba - **For me slow travel is not really about the speed of the trip, it’s more about how you look at a place, how you relate to it, what things you choose to do (and not to do) there. I like to compare it to a visit to a museum: if you go inside a big famous museum (let’s say the Louvre) you will probably feel the urge to see “everything”, to go from room to room, to see each and every painting and, of course, to take a picture of the Mona Lisa (because how could you _not_ do it?). But what if instead of trying to see everything you just focus your time on enjoying three or four of your favorite paintings? Or maybe even just one. That’s slow travel for me: the urge to do all kinds of stuff and the fear of missing out will always be there, but I prefer to just see and do what really interests me, **even if it means going to Paris and not seeing the Eiffel Tower**, or if it means staying one month in the same location.
 
-{% cloudinary /assets/images/2017/07/aniko-villalba-china.jpg alt="Aniko Villalba visits with inhabitants of a small village in China." description="" %}
+{% cloudinary /assets/images/2017/07/aniko-villalba-china.jpg alt="Aniko Villalba visits with inhabitants of a small village in China." %}
 
 ## To other would-be travelers out there, what advice do you give for how to get started?
 
 **Aniko Villalba - **I think there’s never an ideal time to start, especially if your dream is to be a long-term traveler or a digital nomad, you will never have the time or the money you think you need (even less, both at the same time), so **you just have to start**. Take a small step and do it. In my case, I bought a one-way bus ticket from Buenos Aires to Bolivia and that’s how I started. I had no idea how I was going to finance my trips, where I would sleep during the following months and what places I would visit. But once you start, things slowly fall into place. So I would say: don’t try to have everything solved before you leave. It’s impossible and it will be an excuse to never leave your home.
 
-**Additional reading: [Why Travel While Young?]({{ site.url }}/why-travel-while-young/)**
+**Additional reading: [Why Travel While Young?](/why-travel-while-young/)**
 
 ## You describe yourself as an introvert. Does that make traveling the world more difficult, or make you more observant and appreciative of your experiences?
 
@@ -44,7 +44,7 @@ After the presentation, I was invited to join her and a small group to dinner. W
 
 **Aniko Villalba -** When I started dreaming about traveling the world, there were almost no travel blogs (or at least I didn’t find them in 2007) or “real people” that I could relate to. So the ones who influenced me were some well-known travel writers and photographers, such as Paul Theroux, Martín Caparros (an Argentinian writer) and Steve McCurry. I was lucky enough to interview McCurry for a magazine I was working at the time and it was very inspiring to meet the person who took some of the most beautiful pictures I had ever seen. I will always remember what he said when I asked him how he was able to take such natural and intimate pictures of the people in Asia: _“People just invite me into their homes. You will see.”_ And he was right.
 
-**Additional Reading: [Relationships - A Nomad's Philosophy]({{ site.url }}/relationships-a-nomads-philosophy/)**
+**Additional Reading: [Relationships - A Nomad's Philosophy](/relationships-a-nomads-philosophy/)**
 
 ## I have thought a lot about what “empowerment” is and have come to believe it is a combination of three things: ability, permission, and desire. Do you agree or disagree? And how have your experiences shaped this view?
 
@@ -60,7 +60,7 @@ After the presentation, I was invited to join her and a small group to dinner. W
 
 **Aniko Villalba -** That I don’t want to live as a nomad forever. A few days ago I wrote a blog post titled “[I’m tired of traveling](https://viajandoporahi.com/me-canse-de-viajar/)” (S*panish*) in which I opened up to my readers and told them that I don’t want to travel anymore (at least for now) and that my dream right now is to find a house in France and settle down here with my husband. I want to have my own space, my desk, my bookshelf, a group of friends, daily activities and routines. I think that traveling became so much a part of my routine that I stopped enjoying it as before. So, for now, I decided it’s best to stop and focus on my writing, on my future online courses and on other creative projects that I have going on. And when I feel like it, I will travel again.
 
-{% cloudinary /assets/images/2017/07/aniko-villalba-book-covers.jpg alt="Photo of Aniko Villalba books, El Sindrom de Paris and Dias de Viaje" description="" %}
+{% cloudinary /assets/images/2017/07/aniko-villalba-book-covers.jpg alt="Photo of Aniko Villalba books, El Sindrom de Paris and Dias de Viaje" %}
 
 ## What does “home” mean to you?
 

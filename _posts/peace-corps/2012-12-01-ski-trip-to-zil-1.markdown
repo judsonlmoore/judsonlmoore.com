@@ -16,7 +16,7 @@ Ski Season is here! My desire for years has been to live within a 3-hours drive 
 
 My friend, Artiom, has his own tourism company called Travel In KG. He works non-stop in the summer months but in winter he takes his time to relax. However, he still has his van and he is still happy to drive folks around who need to get somewhere. So Artiom gives us a great price for driving us and joins us skiing. It is a great win-win situation! Plus, he is awesome and super fun to hang out with. So it really doesn't get much better.
 
-You can see more fun Artiom and I are having in my post, [Biking to Panorama]({{ site.url }}/life/biking-to-panorama/).
+You can see more fun Artiom and I are having in my post, [Biking to Panorama](/life/biking-to-panorama/).
 
 On today's ski trip I was unfortunately too excited to actually take any photos of skiing, even though I did have my camera with me all day. Instead, here are some photos of putting on the snow chains half way up the mountain. From this American guy (me), two Fins, a Russian guy, A Kyrgyz Girl and a German guy, it was the German woman who schooled us in how to get this done. Thank you Ljuba for being awesome in pretty much everything!
 

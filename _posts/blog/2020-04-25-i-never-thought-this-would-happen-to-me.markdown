@@ -29,11 +29,11 @@ As these biases go a long way in explaining the human condition when it comes to
 2. **Normalcy bias** - the refusal to plan for, or react to, a disaster which has never happened before.
 3. **Heard instinct** - the behavior of individuals in a group acting collectively without a centralized direction.
 
-I've been writing a lot about planning recently. Most of that planning has focused on [identifying and pursuing your life goals]({{ site.url }}/happiness/). Planning for a successful future is very important, but what about planning for disaster? **How can forethought and planning increase your ability to survive difficult times?**
+I've been writing a lot about planning recently. Most of that planning has focused on [identifying and pursuing your life goals](/happiness/). Planning for a successful future is very important, but what about planning for disaster? **How can forethought and planning increase your ability to survive difficult times?**
 
 This article covers some hard topics. By facing them head-on together, I hope that you and I will both be better equipped in the future to respond positively to these events, should we ever experience them first-hand.
 
-{% cloudinary /assets/images/2020/04/crichton-leprechaun.jpg alt="An amateur sketch of the Crichton Leprechaun reported in Mobile, Alabama in 2006." description="" %}
+{% cloudinary /assets/images/2020/04/crichton-leprechaun.jpg alt="An amateur sketch of the Crichton Leprechaun reported in Mobile, Alabama in 2006." %}
 
 ## Non-violent crime
 
@@ -53,7 +53,7 @@ I've often contemplated if I could shoot someone invading my home. It is hard to
 
 Well, it is something I hope to never actually be so prepared for, even so, I've thought about it, and that goes a long way in being prepared, even if I don't own a firearm in the first place. 
 
-{% cloudinary /assets/images/2020/04/oklahoma-city-bombing.jpeg alt="The north side of the Alfred Murrah Federal Building in Oklahoma City after the deadliest act of domestic terrorism in U.S. history." description="" %}
+{% cloudinary /assets/images/2020/04/oklahoma-city-bombing.jpeg alt="The north side of the Alfred Murrah Federal Building in Oklahoma City after the deadliest act of domestic terrorism in U.S. history." %}
 
 ## Terrorism
 
@@ -67,7 +67,7 @@ The most important thing is not to let the presence of evil-doers in the world p
 
 The American Red Cross has a great [guide and preparation checklist](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/terrorism.html) of what to do before, during, and after a terrorist attack. Notably, what you can do to prepare is to have a plan for communication, a meeting point, and even take on some useful training like First Aid and CPR. Of course, these measures are useful for a response to many scenarios aside from terrorism. 
 
-{% cloudinary /assets/images/2020/04/2016-us-election-results-by-county.png alt="Tthe county level and vote share results of the 2016 US Presidential Election" description="" caption="Map created by Magog the Ogre via [Wikimedia](https://en.wikipedia.org/wiki/File:2016_Nationwide_US_presidential_county_map_shaded_by_vote_share.svg)" %}
+{% cloudinary /assets/images/2020/04/2016-us-election-results-by-county.png alt="Tthe county level and vote share results of the 2016 US Presidential Election" caption="Map created by Magog the Ogre via [Wikimedia](https://en.wikipedia.org/wiki/File:2016_Nationwide_US_presidential_county_map_shaded_by_vote_share.svg)" %}
 
 ## Politics
 
@@ -106,7 +106,7 @@ Learn more about how to register to vote, confirm your previous registration, an
 - [Elections Canada](https://www.elections.ca/)
 - [Ask Google (Worldwide)](https://www.google.com/search?q=how+do+i+register+to+vote)
 
-{% cloudinary /assets/images/2020/04/christopher-reeve-then-and-now.jpeg alt="Christopher Reeve as a model, Superman, and advocate for people with disabilities" description="" %}
+{% cloudinary /assets/images/2020/04/christopher-reeve-then-and-now.jpeg alt="Christopher Reeve as a model, Superman, and advocate for people with disabilities" %}
 
 ## Illness
 
@@ -120,7 +120,7 @@ Though tragic, Reeve's high-profile in the media enabled him to go on and have a
 
 How many people do you know with chronic ailments? Can you point to examples in your own life of people who have suffered at the hands of cancer, suicide, addiction, disability, or life-altering accidents? How would you deal with these circumstances if it were you? It is hard to think about, I know, but putting yourself in the shoes of those who have suffered before you will go a long way in preparing you for a healthy response should your health weaken. 
 
-{% cloudinary /assets/images/2020/04/new-orleans-post-hurricane-katrina.jpeg alt="A man sits in front of his flooded house in New Orleans after Hurricane Katrina." description="" %}
+{% cloudinary /assets/images/2020/04/new-orleans-post-hurricane-katrina.jpeg alt="A man sits in front of his flooded house in New Orleans after Hurricane Katrina." %}
 
 ## Natural disasters
 
@@ -144,13 +144,13 @@ Given the broad acceptance of the next mega-quake, the history of past city-flat
 
 Do you live in an active tectonic region? How are you prepared for a big earthquake? Please let me know in the comments below.
 
-{% cloudinary /assets/images/2020/04/toilet-paper-plan-b.jpeg alt="An empty roll of toilet paper reminds that you need a plan B." description="" %}
+{% cloudinary /assets/images/2020/04/toilet-paper-plan-b.jpeg alt="An empty roll of toilet paper reminds that you need a plan B." %}
 
 ## Toilet paper 
 
 During the COVID-19 pandemic, the news and social media have been littered with images of empty shelves in stores that should be full of a variety of toilet paper. As soon as people heard about the shelter-in-place orders, the panic to acquire provisions took over and a hoarding mentality set in. 
 
-[Many of the podcasts I listen to]({{ site.url }}/best-podcast-2017/) have expressed confusion over why toilet paper is the commodity of choice for hoarders and panic-buyers. I must fall in with the majority of people, because I, too, would have guessed that this would be one of the top things people would want to stock up on.
+[Many of the podcasts I listen to](/best-podcast-2017/) have expressed confusion over why toilet paper is the commodity of choice for hoarders and panic-buyers. I must fall in with the majority of people, because I, too, would have guessed that this would be one of the top things people would want to stock up on.
 
 [Roughly 70%](http://www.toiletpaperhistory.net/toilet-paper-facts/toilet-paper-fun-facts/) of the world's population doesn't even use toilet paper. But for those of us who do, it is difficult to imagine a life without. Thanks to my time serving in the Peace Corps, I am quite aware of what life without toilet paper is like, and that is why I can sympathize with those who now have a 5-year supply at home!
 
@@ -158,7 +158,7 @@ During the COVID-19 pandemic, the news and social media have been littered with 
 
 Toilet paper, like all other non-perishable supplies, is worth having an extra stock of. Whether you live in a high-risk area or not, you never know when a tornado, blackout, ice storm, flood, earthquake, or pandemic will reduce access to shops. Though hoarding years of supplies away doesn't make sense (and who has that sort of space anyway?) it is smart to keep a few weeks supply of some key items, just in case. 
 
-{% cloudinary /assets/images/2020/04/hoarding-in-a-pandemic.jpeg alt="Vegitables shelves in a grocery store are empty during COVID-19" description="" %}
+{% cloudinary /assets/images/2020/04/hoarding-in-a-pandemic.jpeg alt="Vegitables shelves in a grocery store are empty during COVID-19" %}
 
 ## How to be prepared
 

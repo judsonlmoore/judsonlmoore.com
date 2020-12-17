@@ -29,7 +29,7 @@ There are many more Rotary Youth Programs. If you or someone you know are intere
 
 You can read nearly any post on this blog and see the ripple effect that Rotary has had in my life. From influencing my decision to study foreign policy to enabling my adventures around the world. Rotary's impact on me when I was young has gone on to have a resounding impact on my life's path and the choices I make every day.
 
-So when I was recently asked to present my story to [the Rotary eClub of Silicon Valley](https://www.siliconvalleyrotary.com/meeting-02-17-2020/), I was honored. The opportunity came about thanks to my new book, [*Exponential Happiness*]({{ site.url }}/book/), in which I offer the same words of encouragement that I received at a young age which were the catalyst to my saying "yes" when Rotary came along and asked if I would like to participate in their Youth Exchange program. As a result, I spent one year in Germany, and the course my life was forever altered.
+So when I was recently asked to present my story to [the Rotary eClub of Silicon Valley](https://www.siliconvalleyrotary.com/meeting-02-17-2020/), I was honored. The opportunity came about thanks to my new book, [*Exponential Happiness*](/book/), in which I offer the same words of encouragement that I received at a young age which were the catalyst to my saying "yes" when Rotary came along and asked if I would like to participate in their Youth Exchange program. As a result, I spent one year in Germany, and the course my life was forever altered.
 
 In my presentation, I only had about 20-minutes to share my thoughts, so I boiled them down to these two points: 
 
@@ -55,9 +55,9 @@ It's good and all for older people to encourage younger people to "do it while y
 
 A fundamental question to answer is, **why does doing it young matter?**
 
-In my post [Why Travel While Young?]({{ site.url }}/why-travel-while-young/) I shared the below graph which outlines some cookie-cutter phases of life and how the responsibilities of these phases occupy a person's ability to be flexible. 
+In my post [Why Travel While Young?](/why-travel-while-young/) I shared the below graph which outlines some cookie-cutter phases of life and how the responsibilities of these phases occupy a person's ability to be flexible. 
 
-{% cloudinary /assets/images/2016/02/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" alt="" description="" %}
+{% cloudinary /assets/images/2016/02/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" %}
 
 Each of these phases comes with joys, advantages, and disadvantages when it comes to being flexible in your decision-making. For a deeper dive, read that blog post. The main take away is that youth = flexibility, and flexibility = capacity to choose happiness.
 
@@ -82,7 +82,7 @@ What Rotary as a whole, and Rotarians as individuals, must continue to do in thi
 
 ## The value of showing up
 
-The second major point of my presentation stemmed from [my philosophy to **show up**]({{ site.url }}/the-second-philosophy-show-up/). Again, it sounds easy, but so often in life people simply fail to show up. 
+The second major point of my presentation stemmed from [my philosophy to **show up**](/the-second-philosophy-show-up/). Again, it sounds easy, but so often in life people simply fail to show up. 
 
 The world is full of open doors. Some may never be worth walking though, but many which lead to great success are never even approached. Sometimes people are held back by life's circumstances, other times it is flat out laziness. The worst thing is when a person isn't lazy but still fails to show up out of a lack of confidence. It's this last one that I most want to encourage young people to do away with. ***Be confident.***
 
@@ -117,21 +117,21 @@ Once upon a time, I was forwarded a notification about a fellowship program call
 
 In my mind, "fellowship" was something for academics or students. I had never been to Egypt and had no idea about Egyptian business, politics, or culture. *Certainly I couldn't be qualified, right?* **Wrong.** 
 
-Turns out that one of the qualifications was a *lack of experience* in Egypt. So I applied, was accepted, and then spent a month traveling with an incredible group of people around Egypt and the United States. We met with leaders in government, education, religion, business, and more. You can read my notes [here]({{ site.url }}/shafik-gabr-2015-fellowship-notes/).
+Turns out that one of the qualifications was a *lack of experience* in Egypt. So I applied, was accepted, and then spent a month traveling with an incredible group of people around Egypt and the United States. We met with leaders in government, education, religion, business, and more. You can read my notes [here](/shafik-gabr-2015-fellowship-notes/).
 
 As of this writing, I am still working to write about my experiences in Egypt, but when I get that done, you will find those posts as part of my [Egyptian Travel Guide]({{ site.irl }}/egypt/). In the meantime, here is a photo of me on the Suez Canal shaking hands with the captain of the Egyptian Presidential yacht, on which we are standing.
 
-{% cloudinary /assets/images/2020/02/showing-up-by-applying.jpeg alt="" caption="Judson on the Suez Canal shaking hands with the captain of the Egyptian Presidential yacht" %}
+{% cloudinary /assets/images/2020/02/showing-up-by-applying.jpeg caption="Judson on the Suez Canal shaking hands with the captain of the Egyptian Presidential yacht" %}
 
 ### 2. Invitation
 
 The United States Peace Corps operates in countries where they have been invited to do so. Likewise, Peace Corps Volunteers are invited to serve in their country of (eventual) service. Though joining the Peace Corps does begin with an application (you really can't get away from those things...) in the end you are invited to serve in specific capacity and location. 
 
-I was invited to apply, and I am so glad that I accepted that invitation. 6-months later I had my boots on the ground in Kyrgyzstan. I established a [really strong legacy]({{ site.url }}/my-peace-corps-legacy/) with my work in Kyrgyzstan as a Peace Corps Volunteer. 
+I was invited to apply, and I am so glad that I accepted that invitation. 6-months later I had my boots on the ground in Kyrgyzstan. I established a [really strong legacy](/my-peace-corps-legacy/) with my work in Kyrgyzstan as a Peace Corps Volunteer. 
 
 Not only was this the most rewarding 27-months of my life, but the work I did there in establishing an online network for journalists in rural areas, [kyrgyzmedia.kg](http://kyrgyzmedia.kg/), has gone on to enable a national association of Community Media and has changed the capacity of rural communities to have their voice heard all around the world.
 
-{% cloudinary /assets/images/2020/02/showing-up-by-invitation.jpeg alt="" caption="Peace Corps Volunteers with US Ambassador Pamela Spratlen at the US Embassy in Bishkek." %}
+{% cloudinary /assets/images/2020/02/showing-up-by-invitation.jpeg caption="Peace Corps Volunteers with US Ambassador Pamela Spratlen at the US Embassy in Bishkek." %}
 
 ### 3. Random Chance
 
@@ -145,7 +145,7 @@ I took a lot of photos that day. Notice how I said "photos" and not "photography
 
 I didn't think about these photos again until March 2011 when my phone rang and a guy introduced himself as the manager of The White Stripes. He told me about this album and asked if they could use my photos for it. Of course, I said yes! What an honor! And so they did. And just like that, I am the album photographer for the White Stripe's vinyl release of their final live performance.
 
-{% cloudinary /assets/images/2020/02/showing-up-by-random-chance.jpeg alt="" caption="I am the album photographer for the images appearing inside the 2-disc album by The White Stripes - Live in Mississippi" %}
+{% cloudinary /assets/images/2020/02/showing-up-by-random-chance.jpeg caption="I am the album photographer for the images appearing inside the 2-disc album by The White Stripes - Live in Mississippi" %}
 
 ### 4. Volunteering
 
@@ -157,7 +157,7 @@ On the third day, the inhabitants of this small shelter were relocated to a larg
 
 In this role, I was part of the Governor's Taskforce on Emergency Preparedness, I worked with FEMA, the International Red Cross, local and state police, and many other first responder agencies. I literally rewrote the book on how the Red Cross should respond to emergencies in southern Louisiana. When Hurricane Gustav hit the region in 2008 I showed back up to volunteer and the Red Cross shelter managers I met had my plan printed in their go-boxes. This was one of my proudest moments and I hope that my effort has served the region well ever since. 
 
-{% cloudinary /assets/images/2020/02/showing-up-by-volunteering.jpeg alt="" caption="" %}
+{% cloudinary /assets/images/2020/02/showing-up-by-volunteering.jpeg caption="" %}
 
 ### 5. Hand Raising
 
@@ -169,7 +169,7 @@ I thought to myself, "that is a *line* I must get in!" Indeed, I thought that I 
 
 As a result, the next summer, I departed on an epic one-year study abroad journey to Germany. This year set the foundation for who I was to become later in life. In fact, since 2016 I have been living in Germany again!
 
-{% cloudinary /assets/images/2020/02/showing-up-by-hand-raising.jpeg alt="" caption="" %}
+{% cloudinary /assets/images/2020/02/showing-up-by-hand-raising.jpeg caption="" %}
 
 ### What does Rotary have to do with showing up?
 
@@ -194,7 +194,7 @@ The results surprised me...
     <span class="badge badge-pill badge-warning">Neutral (90)</span>
     <span class="badge badge-pill badge-danger">Very (45)</span>
     <hr>
-    <p class="mb-0"><a href="https://www.facebook.com/groups/229463670434809/?post_id=2646133198767832" target="_blank">{% include icons/external-link.svg %} Source on private facebook group</a></p>
+    <p class="mb-0"><a href="https://www.facebook.com/groups/229463670434809/?post_id=2646133198767832" target="_blank"><i class="fas fa-external-link-alt"></i> Source on private facebook group</a></p>
 </div>
 
 If most Rotary Youth Exchange Students claim that others were not at all influential in their decision to do an exchange year, what does that mean for Rotarians? How can you then make an impact on would-be youth program participants? 

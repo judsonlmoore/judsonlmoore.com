@@ -1,4 +1,5 @@
 ---
+layout: podcast-single
 title:			My interview on LeanPub's Frontmatter Podcast
 description:	My publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself.
 excerpt:		My publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself.
@@ -9,10 +10,27 @@ tags:
   - life story
 permalink:		/interview-leanpub-frontmatter-podcast/
 image:			/assets/images/2019/07/leanpub-frontmatter-podcast-interview-with-judsonlmoore.png
-toc:			false
+podcast-name: Frontmatter Podcast
+episode-name: Author of Exponential Happiness
+duration: 1 hour 48 mins
+apple-podcasts: 
+google-podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9sZWFucHViLmNvbS9wb2RjYXN0LnhtbA/episode/aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2xlYW5wdWJfcG9kY2FzdHMvRk0xMjAtSnVkc29uLU1vb3JlLTIwMTktMDYtMTEubXAz?sa=X
+spotify: 
+notes:
+ - timestamp: 1:01
+   note: Thing 1
+ - timestamp: 2:00
+   note: Thing 2
+ - timestamp: 3:00
+   note: Thing 3
+ - timestamp: 4:00
+   note: Thing 4
+ - timestamp: 5:00
+   note: Thing 5
 ---
 
-Just before I published my first book, [Exponential Happiness]({{ site.url }}/book/), my publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself. 
+Just before I published my first book, [Exponential Happiness](/book/), my publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting, if I may say so myself. 
+{: class="lead"}
 
 Len Epp is Leanpub's co-founder. During his interview, we discussed: 
 

@@ -8,7 +8,7 @@ excerpt:		Resume writing is an art form. Use these innovative resume tips to sho
 image:			/assets/images/2016/01/resume-writing-man-notebook-laptop-1.jpg
 ---
 
-The purpose of a resume is to get you an interview. It needs to be catchy (but not tacky), impressive (but not long), and most importantly: well-organized (yet still creative). Everyone has a style preference in writing a resume, so I am not going to get into that here. The purpose of this article is to provide some high-tech resume tips you can apply to any resume. However, you can gain access to **my awesome high-tech resume template** along with lots of useful notes when you [subscribe to my e-mail list]({{ site.url }}/subscribe/). So do that now. It's ok. I will stay here and wait for you to come back.
+The purpose of a resume is to get you an interview. It needs to be catchy (but not tacky), impressive (but not long), and most importantly: well-organized (yet still creative). Everyone has a style preference in writing a resume, so I am not going to get into that here. The purpose of this article is to provide some high-tech resume tips you can apply to any resume. However, you can gain access to **my awesome high-tech resume template** along with lots of useful notes when you [subscribe to my e-mail list](/subscribe/). So do that now. It's ok. I will stay here and wait for you to come back.
 
 ## Use Google Docs
 
@@ -39,12 +39,12 @@ You should also utilize a URL shortening service, such as [bit.ly](https://bitl
 
 This is a little bit of a web developer's trick, but it's easy to do, and I think it shows you to be innovative. Here is the link that I have on my resume for my contact e-mail.
 
-> mailto:getintouch@judsonlmoore.com?subject=I%20Read%20Your%20Resume!&body=Hey%20Judson!%20I%20was%20reading%20your%20resume%20and%20wanted%20to%20get%20in%20touch...
+`mailto:getintouch@judsonlmoore.com?subject=I%20Read%20Your%20Resume!&body=Hey%20Judson!%20I%20was%20reading%20your%20resume%20and%20wanted%20to%20get%20in%20touch...`
 
-- **mailto:getintouch@judsonlmoore.com** this is the link base, which signifies the link should send an e-mail to an e-mail address.
-- **?subject=** this extension to the link base allows you to customize the subject line for the draft e-mail, which is created by clicking the link.
-- **%20** tells the computer to insert a space between the words.
-- **&body=** this allows you to provide a custom start to an e-mail. I've gotten great feedback from recruiters for giving a start to the e-mail they are going to write. It's something no one else is doing, and that helps me stand out from the crowd, which is the #1 goal of a resume.
+- `mailto:getintouch@judsonlmoore.com` this is the link base, which signifies the link should send an e-mail to an e-mail address.
+- `?subject=` this extension to the link base allows you to customize the subject line for the draft e-mail, which is created by clicking the link.
+- `%20` tells the computer to insert a space between the words.
+- `&body=` this allows you to provide a custom start to an e-mail. I've gotten great feedback from recruiters for giving a start to the e-mail they are going to write. It's something no one else is doing, and that helps me stand out from the crowd, which is the #1 goal of a resume.
 
 ## Download Links
 
@@ -59,4 +59,4 @@ Try it out: download my resume: [PDF](https://docs.google.com/document/d/1AtH76f
 
 Though you can download different formats, the PDF format is the best bet for maintaining the formatting style.
 
-Give this a try and let me know your thoughts! Be sure to [subscribe]({{ site.url }}/subscribe/) in order to download my high-tech resume template. Do you have other best practices you can share? Please leave a comment below to provide feedback or reach out to me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!
+Give this a try and let me know your thoughts! Be sure to [subscribe](/subscribe/) in order to download my high-tech resume template. Do you have other best practices you can share? Please leave a comment below to provide feedback or reach out to me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

@@ -17,7 +17,7 @@ Florianopolis has received accolades from The New York Times, Newsweek and other
 
 I was visiting a friend in Florianopolis who I got to know while in Germany as a Rotary Youth Exchange student. His family lived on the beach-facing side of the island, so I really got to experience **the beach life of Florianopolis** more than anything else.
 
-Though I am starting to feel a bit repetitive in my describing of Brazilian beaches, like that of [Porto Seguro in the north of Brazil]({{ site.url }}/porto-seguro-brazil-travel-guide/), this beach has a totally different vibe. Now that we are further away from the equator, the waters are not nearly as warm, but the waves are great, making Florianopolis one of the **top surfing destinations in Brazil**. The city of Florianopolis is also a rather sizable and modern city, with more modern attractions than historical sites, despite its 500-year history.
+Though I am starting to feel a bit repetitive in my describing of Brazilian beaches, like that of [Porto Seguro in the north of Brazil](/porto-seguro-brazil-travel-guide/), this beach has a totally different vibe. Now that we are further away from the equator, the waters are not nearly as warm, but the waves are great, making Florianopolis one of the **top surfing destinations in Brazil**. The city of Florianopolis is also a rather sizable and modern city, with more modern attractions than historical sites, despite its 500-year history.
 
 _This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](https://visitbrasil.com/). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
 
@@ -31,7 +31,7 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 ## Orienting yourself around Florianopolis
 
-Florianopolis is a large island city off the southern coast of Brazil. It is the capital of the state of Santa Catarina, where [I also visited the Germanesque town of Blumenau]({{ site.url }}/blumenau-brazil-travel-guide/). The 33-mile-long island is truly a land of two tales. The ocean-facing side of the island is all about the beach, whereas the land-facing side of the island is a bit more serious about the business and politics of running one of **Brazil's highest standard of living states**. The city does extend into the mainland as well, where around **1 million people** live in the metropolitan area.
+Florianopolis is a large island city off the southern coast of Brazil. It is the capital of the state of Santa Catarina, where [I also visited the Germanesque town of Blumenau](/blumenau-brazil-travel-guide/). The 33-mile-long island is truly a land of two tales. The ocean-facing side of the island is all about the beach, whereas the land-facing side of the island is a bit more serious about the business and politics of running one of **Brazil's highest standard of living states**. The city does extend into the mainland as well, where around **1 million people** live in the metropolitan area.
 
 Though the city is vibrant with nightclubs, cuisine, and many annual events, perhaps the biggest draw to Florianopolis, and the one which I will focus on in this post is the beaches.
 
@@ -53,7 +53,7 @@ There are a total of 42 beaches in Florianopolis. The best known are:
 
 * East
 
-  - MoleBeach
+  - Mole Beach
 
   * Galheta Beach (nudist beach)
 
@@ -85,7 +85,7 @@ I was situated in the eastern (central) area of Florianópolis, so these are t
 
 ## **Joaquina Beach**
 
-The Joaquina Beach is located on the eastern side of the Florianopolis island. This beach has the best surfing in the area, and as such, is the most popular destination for younger visitors. **I cannot catch a wave to save my life**, as you can see in [the video posted in my guide about Porto Seguro]({{ site.url }}/porto-seguro-brazil-travel-guide/), but I love people-watching and admiring others who can do all the water sports way better than I can.
+The Joaquina Beach is located on the eastern side of the Florianopolis island. This beach has the best surfing in the area, and as such, is the most popular destination for younger visitors. **I cannot catch a wave to save my life**, as you can see in [the video posted in my guide about Porto Seguro](/porto-seguro-brazil-travel-guide/), but I love people-watching and admiring others who can do all the water sports way better than I can.
 
 I acquainted myself more with a beach towel and long walks during the sunrise and sunset. I can say that in the mornings, the Joaquina Beach is more or less empty. Depending on the day, **the beach can get pretty full by 10:00 A.M. or noon**.
 

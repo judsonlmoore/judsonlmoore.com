@@ -63,4 +63,4 @@ If you're interested in longer-term sustainable international development, this 
 [RIAS Berlin Programs for Journalists](http://riasberlin.org/en/home/)  
 [Robert Bosch Stiftung | German-American Journalism Program](https://www.bosch-stiftung.de/en/project/reporters-field)  
 
-{% include be-a-gabr-fellow.html %}
+

@@ -8,7 +8,7 @@ image:			/assets/images/2020/01/philosophy-5-be-flexible.png
 ---
 
 
-Your work isn't over once you've [written a plan for accomplishing your life goals]({{ site.url }}/the-fourth-philosophy-a-bad-plan-is-better-than-no-plan/). As I said there, "The most important aspect to any plan is the flexibility to change." This philosophy is critical. A long-term plan will not help you if you do not allow yourself the flexibility to make changes as you go. 
+Your work isn't over once you've [written a plan for accomplishing your life goals](/the-fourth-philosophy-a-bad-plan-is-better-than-no-plan/). As I said there, "The most important aspect to any plan is the flexibility to change." This philosophy is critical. A long-term plan will not help you if you do not allow yourself the flexibility to make changes as you go. 
 
 Having a plan is great and all, but remember, life is complicated. You are always getting new information, and the circumstances are ever-changing. The ability to be flexible is paramount. Flexibility is not about flip-flopping or even changing your mind. It is about allowing yourself and your plan to adapt to a continually evolving environment to ensure success in accomplishing your goals.
 
@@ -37,13 +37,13 @@ Sometimes, the best step to take is a spontaneous one. Living in the moment and 
 
 Spontaneity gets more comfortable as you gain life experiences. This is because you gain more comfort in your decision-making. Making decisions on-the-fly is a valuable skill in all aspects of life, and it is a skill that pays to have when flexibility is the goal. 
 
-I discuss decision-making skills in great detail in Chapter 4 of [Exponential Happiness]({{ site.url }}/book/). The principles I share with you there will help you make on-the-fly decisions as well as more long-term decisions.
+I discuss decision-making skills in great detail in Chapter 4 of [Exponential Happiness](/book/). The principles I share with you there will help you make on-the-fly decisions as well as more long-term decisions.
 
 ## How to overcome Stagnation 
 
 "Go mode" is not the default. There are times when we will stall out. The plan will take a backseat to the realities of our life. We all have obligations with friends, family, work, and community that can slow down and even alter the course of our own lives. That is ok, that is life, and you can celebrate the slow times as well. 
 
-But we can't just sit around the campfire and sing Kumbaya forever. If we did that, eventually, the fire would run cold, and someone would have to chop more firewood. The action steps that you will write down for accomplishing your [life goal]({{ site.url }}/life-goals-exercise/) while reading Chapter 2 of [Exponential Happiness]({{ site.url }}/book/) are like the wood for your Life Plan's fire. You always have to be gathering more wood, or the fire runs out.
+But we can't just sit around the campfire and sing Kumbaya forever. If we did that, eventually, the fire would run cold, and someone would have to chop more firewood. The action steps that you will write down for accomplishing your [life goal](/life-goals-exercise/) while reading Chapter 2 of [Exponential Happiness](/book/) are like the wood for your Life Plan's fire. You always have to be gathering more wood, or the fire runs out.
 
 When you find yourself stagnating, or feeling like you're not getting anywhere in your life's ambitions, it is time to make some assessments. Try to identify the reason or reasons why you are not making progress. 
 
@@ -71,6 +71,6 @@ Keep in mind that though flexibility is a crucial characteristic of achieving yo
 
 Most importantly, remember: **a bad plan is better than no plan, and the most important part of any plan is **the flexibility to change.**
 
-Check out my book [*Exponential Happiness*]({{ site.url }}/book/) for loads more details on this and other topics to help you in your pursuit of happiness. 
+Check out my book [*Exponential Happiness*](/book/) for loads more details on this and other topics to help you in your pursuit of happiness. 
 
 If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have, and I will be happy to advise you the best I can directly! 

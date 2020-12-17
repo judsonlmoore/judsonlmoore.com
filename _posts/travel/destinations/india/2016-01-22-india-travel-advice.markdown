@@ -31,15 +31,15 @@ The most popular tourist route is the Golden Triangle: Delhi > Agra > Jaipur > D
 
 A great travel plan would be to land in Delhi, see Delhi for 1-2 days, and then go by car to Agra. Agra only requires one day, but you should arrange your travel to see the Taj Mahal at sunrise. Don't be late. Contact Sarfaraz on Whatsapp [(+919412330010](tel:%28%2B919412330010)), he is an amazing guide. He is a university professor and is very knowledgeable about all things Agra. His rate for me was INR 950 for 4 (or maybe 6) hours. While in Agra, you must see the Taj Mahal and the Agra Fort. I also highly recommend seeing the Taj Mahal from across the river; no one is over there, and you can get an awesome photo like this one:
 
-{% cloudinary /assets/images/2016/01/travel-advice-to-india.jpg alt="Judson Moore jumping in front of the Taj Mahal in Agra, India" description="" %}
+{% cloudinary /assets/images/2016/01/travel-advice-to-india.jpg alt="Judson Moore jumping in front of the Taj Mahal in Agra, India" %}
 
 From Agra, take an overnight train west all the way to whatever your furthest away destination is if you're thinking of returning at the end to Delhi. So that means take a train to Jodhpur, Udaipur or Jaisalmer; then work your way back toward Delhi for your return flight.
 
-Aside from that, I can give you specific advice from my experiences in [Jaipur]({{ site.url }}/jaipur/), [Ajmer]({{ site.url }}/ajmer) and [Pushkar]({{ site.url }}/pushkar) (links are to my other blog posts for those destinations). [Wiki Travel](http://wikitravel.org/en/Rajasthan) and [Trip Advisor](http://www.tripadvisor.in/Search?q=Rajasthan&geo=297665&pid=3826&returnTo=http%253A__2F____2F__www__2E__tripadvisor__2E__in__2F__ShowForum__2D__g297665__2D__i4566__2D__Rajasthan__2E__html) will be your friend throughout any travel.
+Aside from that, I can give you specific advice from my experiences in [Jaipur](/jaipur/), [Ajmer](/ajmer) and [Pushkar](/pushkar) (links are to my other blog posts for those destinations). [Wiki Travel](http://wikitravel.org/en/Rajasthan) and [Trip Advisor](http://www.tripadvisor.in/Search?q=Rajasthan&geo=297665&pid=3826&returnTo=http%253A__2F____2F__www__2E__tripadvisor__2E__in__2F__ShowForum__2D__g297665__2D__i4566__2D__Rajasthan__2E__html) will be your friend throughout any travel.
 
-You should try to see [Pushkar]({{ site.url }}/pushkar). It is the holiest site in Hinduism and is the location of Moon Lake which is believed to be the origin of the Earth.
+You should try to see [Pushkar](/pushkar). It is the holiest site in Hinduism and is the location of Moon Lake which is believed to be the origin of the Earth.
 
-If you have time to do something other than the Golden Triangle, then you should go to [Dharamshala]({{ site.url }}/dharamshala), the home of the Dalai Lama. [Check his schedule](http://www.dalailama.com/teachings/schedule) to see if he will be home while you are around. If so, he often gives teachings which open to the public, you just have to show up way early. Also, if you go there, I have a fantastic contact for buying the best jewels, rugs, carpets, Indian handicrafts and Tibetan paintings, and at fantastic prices.
+If you have time to do something other than the Golden Triangle, then you should go to [Dharamshala](/dharamshala), the home of the Dalai Lama. [Check his schedule](http://www.dalailama.com/teachings/schedule) to see if he will be home while you are around. If so, he often gives teachings which open to the public, you just have to show up way early. Also, if you go there, I have a fantastic contact for buying the best jewels, rugs, carpets, Indian handicrafts and Tibetan paintings, and at fantastic prices.
 
 **Useful Apps**
 

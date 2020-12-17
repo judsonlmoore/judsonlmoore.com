@@ -21,7 +21,7 @@ Get it Now: [iOS](https://geo.itunes.apple.com/us/app/google-maps/id585027354?mt
 The savvy traveler knows that the best option is to have many options. But that can get complicated. Moovel takes the guesswork out of choosing the best way to get from Point A to Point B by aggregating data from a wide variety of transportation solutions. You will quickly be able to select from ride sharing, bike sharing, public transit and other methods to get you swiftly and cheaply to your destination.
 Get it Now: [iOS](https://app.adjust.com/9kk8vt) | [Android](https://play.google.com/store/apps/details?id=com.daimler.moovel.android)
 
-**Check out my post about [living in America without a car]({{ site.url }}/living-without-a-car-in-america/).**
+**Check out my post about [living in America without a car](/living-without-a-car-in-america/).**
 
 #### Car2Go
 

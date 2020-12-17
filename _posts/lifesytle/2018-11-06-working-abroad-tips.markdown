@@ -22,7 +22,7 @@ Moving abroad as a student is relatively easy. Perhaps even getting an internshi
 
 They say that beggars can't be choosers, and I will confess that some sacrifices might be necessary. Still, with a good strategy and a lot of motivation, **I believe that anyone can find a way to make a successful move abroad** and land a satisfying and rewarding job in the process.
 
-**Recommended reading: [The Secret to all my Success]({{ site.url }}/showing-up-secret-to-success/)**
+**Recommended reading: [The Secret to all my Success](/showing-up-secret-to-success/)**
 
 I have now been working for more than four years in Germany. A lot of people have started to now ask, "Judson, what tips do you have for now to find work in Germany as an immigrant?" So I thought it was about time that I write down my observations about how you, too, can make a successful move to Europe. Moreover, I believe that this advice is relevant regardless of where you are from and to what country you would like to move.
 
@@ -72,7 +72,7 @@ You may or may not find that the career path you are currently on or would like 
 
 If none of that sounds like a longterm passion for you, ask yourself, "would an international experience in one of these fields serve me well later in my career for what I want to do?" If so, then why not give it a try? You might find your way into that coveted visa, and you will gain valuable experience while getting your foot in the door. **This is just the beginning.**
 
-**Recommended Reading: [High-tech Tips for any Resume]({{ site.url }}/high-tech-resume-tips/)**
+**Recommended Reading: [High-tech Tips for any Resume](/high-tech-resume-tips/)**
 
 ## But I don't want to be in sales or marketing
 

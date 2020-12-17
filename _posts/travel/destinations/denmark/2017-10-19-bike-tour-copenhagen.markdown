@@ -12,7 +12,7 @@ image:			/assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-tour-g
 
 ## Biking my heritage in Copenhagen
 
-Many moons ago, my family made the treacherous journey across the Atlantic Ocean to immigrate to the United States. What they left behind was a life in Denmark. Now, much to my surprise, and thanks to [a company cruise I took with trivago]({{ site.url }}/trivago-tour-2017/), I find myself arriving at the shores of my forefathers. I only have a day to get to know this land, and I can't think of a better way to do it than a bike tour of Copenhagen! #yeahbike!
+Many moons ago, my family made the treacherous journey across the Atlantic Ocean to immigrate to the United States. What they left behind was a life in Denmark. Now, much to my surprise, and thanks to [a company cruise I took with trivago](/trivago-tour-2017/), I find myself arriving at the shores of my forefathers. I only have a day to get to know this land, and I can't think of a better way to do it than a bike tour of Copenhagen! #yeahbike!
 
 My bike tour group had 15 people in it and we were led by an awesome guide name Julia. It was clear from the start that Julia understands that she lives the dream. She just bikes all day and gets paid to meet people from all over the world. That is a pretty sweet gig if you ask me!
 
@@ -28,11 +28,11 @@ So, some statue history: created in the early 1900s, the sculptor had a very dif
 
 In the years since, the mermaid has been decapitated and vandalized a number of times. Thanks to modern reinforced steel, the neck has been reinforced and it is believed that the vulnerability is no longer an issue. Let's see.
 
-Also pictured here in the background is a building with a very pitched roof and white smoke coming out of it. This building totally fascinates me. [The Amager Bakke Waste Incinerator](https://www.a-r-c.dk/amager-bakke) is Copenhagen's new waste management facility. Its burn-off is so clean that it is surrounded by a city park and recreational area, and that pitched roof is a ski slope! It won't open to the public until 2020, but I plan to get a ski pass as soon as I can and add it to the list of exotic places I have skied, like [the time I skied in Dubai]({{ site.url }}/dubai/).
+Also pictured here in the background is a building with a very pitched roof and white smoke coming out of it. This building totally fascinates me. [The Amager Bakke Waste Incinerator](https://www.a-r-c.dk/amager-bakke) is Copenhagen's new waste management facility. Its burn-off is so clean that it is surrounded by a city park and recreational area, and that pitched roof is a ski slope! It won't open to the public until 2020, but I plan to get a ski pass as soon as I can and add it to the list of exotic places I have skied, like [the time I skied in Dubai](/dubai/).
 
 The facility also features an 85-meter high observation desk with cafe deemed as the best view of Copenhagen, one of the world's tallest climbing walls, and 10 hiking trails through landscaped forest.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-the-mermaid-min.jpg alt="The Mermaid, in Copenhagen" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-the-mermaid-min.jpg alt="The Mermaid, in Copenhagen" %}
 
 ## Statens Museum For Kunst (artist museum)
 
@@ -40,7 +40,7 @@ Though we didn't get to go inside the National Gallery of Denmark, just passing 
 
 Should I return to Copenhagen I will certainly take the time to pay a visit to the museum. The collection of nearly 9,000 paintings and sculptures, 240,000 works of art on paper, and 2,600+ plaster casts of figures from ancient times will be enough to keep me busy, especially if I find myself in Copenhagen on a rainy day.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-townhomes-min.jpg alt="Town homes along the water in Copenhagen" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-townhomes-min.jpg alt="Town homes along the water in Copenhagen" %}
 
 ## The Queen's Residence - Christian IX's Palace
 
@@ -52,19 +52,19 @@ The royal family is revered. This comes in part from their non-elitist lifestyle
 
 And here is a fun linguist fact: in Dutch, the formal "you" is only used when addressing or referring to the Queen. At any other time, you use the casual "you" form. A stark difference from German!
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-queens-residence-min.jpg alt="The Dutch Queen's residence in Copenhagen" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-queens-residence-min.jpg alt="The Dutch Queen's residence in Copenhagen" %}
 
 ## Frederik's Church
 
 The central cathedral of Copenhagen is also known as The Marble Church. The stones are, of course, marble, but more notably, the marble on the interior of the church is dark. The highlights against the marble come in the gold details and statue figures of white marble. The dome is the largest in Scandinavia and is fashioned after St. Peter's Basilica in Rome.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-frederiks-church-min.jpg alt="Frederik's Church in Copenhagen." description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-frederiks-church-min.jpg alt="Frederik's Church in Copenhagen." %}
 
 ## The New Haven Canal
 
 Copenhagen is webbed with canals. Similar to Amsterdam and other European coastal cities, Copenhagen's canals define the city's landscape. Here is one such canal, lined with shops, cafes, and houseboats. I imagine that the colorful buildings go a long way in sustaining the naturally cheerful mood of the Danes during the cold, wet, winters. You can see that even on this cloudy and grey day, this canal scene looks most welcoming!
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg alt="A Copenhagen Canal" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg alt="A Copenhagen Canal" %}
 
 ## Freetown Christiania
 
@@ -72,7 +72,7 @@ The borough of Christianshavn is an anarchical district in Copenhagen which hasn
 
 For now, Christiania remains free and independent, but those days are likely numbered.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-freetown-christiana-min.jpg alt="Freetown Christiana in Copenhagen" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-freetown-christiana-min.jpg alt="Freetown Christiana in Copenhagen" %}
 
 ## The Royal Library
 
@@ -80,13 +80,13 @@ The archives and royal library of Denmark have recently been moved into this bea
 
 This is Julia, our awesome tour guide.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-royal-library-min.jpg alt="Julia, our Copenhagen bike tour guide" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-royal-library-min.jpg alt="Julia, our Copenhagen bike tour guide" %}
 
 ## Copenhagen from the Langebro Bridge
 
 If you look at the map I provided at the beginning of this post, then you will see that this bride crossing is located that the southern-most point of our Copenhagen bike tour. This also means we have reached our halfway point in the tour. We took a short break and snapped some photos of the town behind us. The Copenhagen skyline, such as it is, is not dominated by towering buildings but rather with more historic buildings which maintain Copenhagen's feeling of European authenticity.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-skyline-min.jpg alt="The Copenhagen skyline behind me" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-skyline-min.jpg alt="The Copenhagen skyline behind me" %}
 
 ## Tivoli Gardens
 
@@ -96,7 +96,7 @@ Tivoli is a "seasonal park" in that it is only open during the warmer months of 
 
 Though we just rode our bikes along the exterior wall and past the main entrance, pictured below, I easily got the impression that this is an impressive place. One other thing I learned is that millions of Danes have an annual membership to Tivoli Gardens and visit there with friends and family the same way New Yorkers might take a stole through Central Park. So the experience is presumably a bit more casual than Disneyland or King's Island.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-tivoli-min.jpg alt="Biking in front of Tivoli, the world's 2nd oldest amusement park" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-tivoli-min.jpg alt="Biking in front of Tivoli, the world's 2nd oldest amusement park" %}
 
 ## The small homes of Nyboder (old barracks)
 
@@ -106,7 +106,7 @@ Today, Nyboder is mostly residential. The cute row homes look cozy and full of c
 
 I couldn't help but think to myself that if I lived in Copenhagen, I would want to live here.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-barracks-min.jpg alt="My Copenhagen bike tour group at the old barracks" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-barracks-min.jpg alt="My Copenhagen bike tour group at the old barracks" %}
 
 ## Her Danish Majesty's Yacht Dannebrog
 
@@ -116,7 +116,7 @@ This ship is the oldest royal-yacht in the world still in service. It was built 
 
 God rejse! (bon voyage in Danish)
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-royal-yacht-min.jpg alt="The Dutch Royal Yacht" description="" %}
+{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-royal-yacht-min.jpg alt="The Dutch Royal Yacht" %}
 
 ## What a great day this was!
 
@@ -124,6 +124,6 @@ Well, I certainly wouldn't have expected to see so much and learn so many intere
 
 Have you been to Copenhagen before? Do you have other suggestions or a favorite place? Please share your experiences in the comments below! You can also follow me on Twitter at [@judsonlmoore](https://www.twitter.com/judsonlmoore) to get more updates and to message me directly.
 
-[Would you like a postcard from Denmark? Click here now! ]({{ site.url }}/product/handwritten-postcard-copenhagen/)
+[Would you like a postcard from Denmark? Click here now! ](/product/handwritten-postcard-copenhagen/)
 
 What do you think? Could you handle trivago on Tour? **Maybe you can join next year!** If you are interested to join me in 2018, just take a look at [the open careers at trivago](http://company.trivago.com/jobs/)! If anything looks interesting to you, let me know and I will be happy to chat with you about a career in trivago.

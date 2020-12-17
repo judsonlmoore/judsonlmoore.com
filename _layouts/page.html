@@ -2,24 +2,16 @@
 layout: default
 ---
 
-<!-- container -->
-<div class="container mt-3 mt-md-5 px-3 px-sm-0">
 
-    <section>
+{% include hero.html %}
 
-        <div class="article-post">
-
-            {{content}}
-
-	        {% if page.comments == true %}
-	        <!-- Begin Comments -->
-	        {% include disqus.html %}
-	        <!--End Comments -->
-	        {% endif %}
-
-        </div>
-
-    </section>
-
-</div> 
-<!-- /container -->
+<!-- page content -->
+<div class="py-lg-12 py-10">
+  <div class="container">
+    <div class="row">
+      <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-sm-12 col-12">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>

@@ -9,7 +9,7 @@ tags:
 image:			/assets/images/2012/06/RadioMostOffie_001.jpg
 ---
 
-Here is the office and colleagues from my first site in Talas City, [RadioMost]({{ site.url }}/radiomost-office/).
+Here is the office and colleagues from my first site in Talas City, [RadioMost](/radiomost-office/).
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2012-06-29-radiomost-office"] %}

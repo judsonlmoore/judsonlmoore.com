@@ -14,13 +14,13 @@ image:			/assets/images/2016/03/Travel-Advice-To-Rajasthan-India-Featured-Image.
 
 Rajasthan India is one of the most sought after destinations in the world. This dusty desert plain is a throwback to a more magical time when sultans ruled and where the unbelievable power of mystics can still be felt today.
 
-**[Related Post: India Travel Advice In Under 10 Minutes]({{ site.url }}/travel-advice-india/)**
+**[Related Post: India Travel Advice In Under 10 Minutes](/travel-advice-india/)**
 
 I traveled to three places in Rajasthan: Jaipur, Ajmer and Pushkar. I tell my story here. If you have a story to share, please drop me a line in the comments section below.
 
 ## Jaipur, Rajasthan
 
-{% cloudinary /assets/images/2016/03/Jaipur-Rajasthan-India-Hall-Of-Mirrors.jpg alt="Jaipur Rajasthan India Hall Of Mirrors" description="" %}
+{% cloudinary /assets/images/2016/03/Jaipur-Rajasthan-India-Hall-Of-Mirrors.jpg alt="Jaipur Rajasthan India Hall Of Mirrors" %}
 
 _The Pink City_, as Jaipur is known, is called as such because all the buildings here are painted a reddish pinkish color to imitate the red sandstone architecture of Mughal cities, from which Jaipur is fashioned. This western point of the famous Golden Triangle of India sits in the heart of Rajasthan and is the route that connects Delhi, Agra and Jaipur, so that should tell you something about how important of a place this is. Jaipur is the largest city in Rajasthan.
 
@@ -40,7 +40,7 @@ One art piece that I thought was striking was a number of rifles and spears that
 
 ## Ajmer, Rajasthan
 
-{% cloudinary /assets/images/2016/03/Ajmer-Rajasthan-India-Ana-Sagar-Lake.jpg alt="Ajmer-Rajasthan-India-Ana-Sagar-Lake" description="" %}
+{% cloudinary /assets/images/2016/03/Ajmer-Rajasthan-India-Ana-Sagar-Lake.jpg alt="Ajmer-Rajasthan-India-Ana-Sagar-Lake" %}
 
 My first train ride in India led me to Ajmer, a small town in the heart of Rajasthan. Ajmer is a small town of only 500,000 people (which is a small town in these parts). The town was easily walkable, which is what we opted to do for the mile journey to Daulat Bagh, a park on Lake Ana Sagar. In the park, we came across an interesting temple to Lord Shiva. I would later learn that king cobra snakes are present in all of Lord Shiva’s temples, but in Rajasthan they seem to be much more prominent. Despite this, I only came across one real king cobra snake on my journey and I was more afraid of its charmer than I was the snake its self.
 
@@ -50,7 +50,7 @@ We only had a few hours to spend in Ajmer, so after finding a quick coffee we ha
 
 ## Pushkar - Religious Center of Rajasthan
 
-{% cloudinary /assets/images/2016/03/Pushkar-Rajasthan-India-On-Camel.jpg alt="Pushkar Rajasthan India On Camel" description="" %}
+{% cloudinary /assets/images/2016/03/Pushkar-Rajasthan-India-On-Camel.jpg alt="Pushkar Rajasthan India On Camel" %}
 
 Pushkar is one of the most significant pilgrimage sites for Hindus. Hindus believe that Lord Brahma, the Hindu god of creation, created Pushkar. Despite the significance of Lord Brahma, there are very few temples in the world are dedicated to him, thanks to the [Curse of Savitri](https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar#Legend). The Pushkar temple is, however, the most significant of the Brahma temples and viewed by many as the only legitimate temple. Pushkar is widely considered to be one of the most religious places in the world.
 

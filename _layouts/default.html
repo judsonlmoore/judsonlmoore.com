@@ -2,128 +2,227 @@
 layout: compress    
 ---
 
-
 <!DOCTYPE html>
 <html lang="en">
-    <head>
 
-        {% if jekyll.environment == 'production' %}
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-B1R7N4XZXQ"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+<head>
 
-          gtag('config', 'G-B1R7N4XZXQ');
-        </script>
-        {% endif %}
+  {% if jekyll.environment == 'production' %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-        <meta charset="utf-8" />
+    gtag('config', '{{ site.google-analytics }}');
+  </script>
+  {% endif %}
 
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <!-- Site Icon -->
-        <link rel="icon" href="{{ site.url }}/assets/images/favicon.png" />
+  {% seo %}
 
-        {% seo %}
+  <!-- Libs CSS -->
+  <link rel="stylesheet" href="{{ '/assets/libs/ion-rangeslider/css/ion.rangeSlider.min.css'| absolute_url }}">
 
-        {% feed_meta %}
+  <!-- Theme CSS -->
+  <link rel="stylesheet" href="{{'/assets/css/theme.min.css'| absolute_url }}">
 
-        <!-- Site CSS -->
-        <link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.url}}">
-        
-        <!-- Facebook Pixel Code -->
-        <script>
-            !function(f,b,e,v,n,t,s)
-            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-            n.queue=[];t=b.createElement(e);t.async=!0;
-            t.src=v;s=b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t,s)}(window, document,'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '1058459134239346');
-            fbq('track', 'PageView');
-        </script>
-        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1058459134239346&ev=PageView&noscript=1" /></noscript>
+  <!-- Site Icon -->
+  <link rel="icon" href="{{'/assets/images/favicon.png'| absolute_url }}" />
 
-    </head>
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1058459134239346');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1058459134239346&ev=PageView&noscript=1" /></noscript>
 
-    {% capture layout %}
-    {% if page.layout %}layout-{{ page.layout }}
-    {% endif %}
-    {% endcapture %}
+</head>
 
-    <body class="{{layout}}">
+  {% capture layout %}
+  {% if page.layout %}layout-{{ page.layout }}
+  {% endif %}
+  {% endcapture %}
 
-        <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=990949061035215&autoLogAppEvents=1"></script>
+  <body class="{{layout}}">
 
-        <!-- Begin Menu Navigation -->
-        {% include nav.html %}
-        <!-- End Navigation -->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=990949061035215&autoLogAppEvents=1"></script>
 
-        <!-- Begin Content -->
-        {{ content }}
-        <!-- End Content -->
+    <!-- header -->
+    <div class="header fixed-top border-top-3 border-top border-primary {% if layout.dark-navbar == true %}bg-dark{% endif %}">
+      <!-- navigation start -->
+      <div class="container-lg">
+        <nav class="navbar navbar-expand-lg navbar-default">
+          <a class="navbar-brand" href="{{ site.url }}">
+            <h1 class="font-weight-bolder d-block text-white h4 m-0">Judson L Moore</h1>
+            <p class="font-weight-light h6 text-white m-0">Author and Travel Addict</p>
+            <!-- <img class="d-none d-md-block" src="{{ '/assets/images/logo.svg'| absolute_url }}" alt="{{ site.title }}" /> -->
+          </a>
+          <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar top-bar mt-0"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbar-default">
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation">
+              <i class="fas fa-times"></i>
+            </button>
+            <ul class="navbar-nav ml-auto mr-lg-3">
+              <li class="nav-item dropdown">
+                <a class="nav-link d-lg-none" href="#">
+                  Menu
+                </a>
+              </li>
+              {% for item in site.data.nav.main %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="" id="menu-{{ forloop.index }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  {{ item.dropdown-title }}
+                </a>
+                <ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-{{ forloop.index }}">
+                  {% for entry in item.dropdown-items %}
+                  <li>
+                    <a class="dropdown-item" href="{{ entry.url }}">
+                      <div class="d-flex align-items-center">
+                        <div class="mr-3 icon-shape icon-lg rounded-circle bg-light">
+                          <i class="{{ entry.icon }} font-24"></i>
+                        </div>
+                        <div>
+                          <h5 class="mb-0">{{ entry.title }}</h5>
+                          <span class="font-12 text-muted">
+                            {{ entry.subtitle }}
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </li>
+              {% endfor %}
+            </ul>
+            <div class="header-btn">
+              <a href="{{ 'book' | absolute_url }}" class="btn btn-primary btn-sm">Get my book <i class="fas fa-book"></i></a>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <!-- navigation close -->
+    </div>
 
-        <!-- Begin Footer -->
-        {% include footer.html %}
-        <!-- End Footer -->
+    {{ content }}
 
-        <!-- JQuery JS -->
-        <script src="{{'/assets/vendor/jquery.min.js' | prepend: site.url }}"></script>
+    <!-- Footer -->
+    <div class="footer pt-11 pb-3 bg-dark text-base">
+      <div class="container">
+        <div class="row">
+          {% for item in site.data.nav.footer %}
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="mb-4">
+              <h4 class="mb-4 text-white">{{ item.column-h }}</h4>
+              <ul class="list-unstyled list-group">
+                {% for entry in item.links %}
+                <li class="list-group-item"><a href="{{ entry.url }}" class="list-group-item-link">{{ entry.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          {% endfor %}
+          <div class="col-lg-4 col-md-8 col-12">
+            <div class="mb-4">
+              <h4 class="mb-4 text-white">Subscribe to our newsletter</h4>
+              <div>
+                <p>Subscribe to get notified daily new motivational &amp; inspiration tips.</p>
+                {% include form-opt-in.html %}
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="mt-8">
+              <ul class="list-inline">
+                <li class="list-inline-item">© {{ site.time | date: '%Y' }} {{ site.title }}</li>
+                {% for item in site.data.nav.bottom-bar %}
+                <li class="list-inline-item"><a href="{{ item.url | absolute_url }}" class="text-reset">{{ item.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-        <!-- Popper JS -->
-        <script src="{{'/assets/vendor/popper.min.js' | prepend: site.url }}"></script>
-
-        <!-- Bootstrap JS -->
-        <script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.url }}"></script>
-
-        <!-- Lightbox JS -->
-        <script src="{{'/assets/vendor/lightbox.js' | prepend: site.url }}"></script>
-
-        <!-- IE 10 Fix JS -->
-        <script type="text/javascript">
-            (function () {
-              'use strict'
-
-              if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
-                var msViewportStyle = document.createElement('style')
-                msViewportStyle.appendChild(
-                  document.createTextNode(
-                    '@-ms-viewport{width:auto!important}'
-                  )
-                )
-                document.head.appendChild(msViewportStyle)
-              }
-
-            }())
-        </script>
-
-        <!-- Modal popup controll -->
-        <script type="text/javascript"> 
-            $(document).ready(function(){
-                if (!sessionStorage.adModal) {
-                setTimeout(function() {
-                  $('#admodal').find('.modal');
-                    $('#admodal').modal({
-                      backdrop: 'static',
-                      keyboard: false
-                    });
-                }, 30000);
-                  sessionStorage.adModal = 1;
-              }
+    <!-- Modal popup controll -->
+    <script type="text/javascript"> 
+      $(document).ready(function () {
+        if (!sessionStorage.adModal) {
+          setTimeout(function () {
+            $("#admodal").find(".modal");
+            $("#admodal").modal({
+              backdrop: "static",
+              keyboard: false,
             });
-        </script>
+          }, 30000);
+          sessionStorage.adModal = 1;
+        }
+      });
+    </script>
 
-        <!-- Disqus Count -->
-        <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
-            var disqus_config = function () {
-                this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }];
-            };
-        </script>
+    <!-- Disqus Count -->
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
+      var disqus_config = function () {
+        this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }];
+      };
+    </script>
 
-    </body>
+    <!-- Optional JavaScript -->
+
+    <!-- Libs JS -->
+    <script src="{{'/assets/libs/jquery/dist/jquery.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/jquery-slimscroll/jquery.slimscroll.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/prismjs/prism.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/leaflet/dist/leaflet.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/moment/min/moment.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/lightpick/lightpick.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/ion-rangeslider/js/ion.rangeSlider.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/inputmask/dist/jquery.inputmask.min.js' | absolute_url }}"></script>
+    <script src="{{'/assets/libs/lightbox/js/lightbox.min.js' | absolute_url }}"></script>
+    
+    <!-- clipboard -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
+
+    <!-- Theme JS -->
+    <script src="{{'/assets/js/theme.min.js' | absolute_url }}"></script>
+
+    <!-- Search JS -->
+    <script src="{{'/assets/js/simple-jekyll-search.min.js' | absolute_url }}"></script>
+    <script>
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<li class="list-group-item"><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 5,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+    </script>
+
+
+  </body>
+
 </html>

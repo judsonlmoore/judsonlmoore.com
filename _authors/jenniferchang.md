@@ -8,5 +8,6 @@ instagram: jayemsey
 linkedin: jayemsey
 web: https://www.jayemsey.com/
 youtube: jayemsey
+position: Guest Author
 ---
 I'm a compulsive writer, creative strategist, and experience junkie currently eating my way through New York City and seeking the meaning of life (among other things).

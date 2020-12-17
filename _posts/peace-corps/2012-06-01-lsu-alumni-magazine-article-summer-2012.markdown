@@ -11,7 +11,7 @@ tags:
 image:			/assets/images/2012/06/LSUAlumniMagazine-ArticleSummer20121.jpg
 ---
 
-[]({{ site.url }}/lsu-alumni-magazine-article-summer-2012/)
+[](/lsu-alumni-magazine-article-summer-2012/)
 
 Greetings Tiger Nation,
 

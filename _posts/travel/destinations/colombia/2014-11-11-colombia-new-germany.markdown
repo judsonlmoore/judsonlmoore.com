@@ -12,7 +12,7 @@ image:			/assets/images/2014/11/IMG_3606-Version-2.jpg
 
 ## A Reunion In Colombia
 
-I recently made a 12-day trip to Colombia to reunite with a few friends from my year as a [Rotary Youth Exchange Student]({{ site.url }}/germany/) in Germany. We visited several fantastic places around the country and had the best local insight available thanks to Alejandro Borda who organized our time in his country and made sure we were well-entertained.
+I recently made a 12-day trip to Colombia to reunite with a few friends from my year as a [Rotary Youth Exchange Student](/germany/) in Germany. We visited several fantastic places around the country and had the best local insight available thanks to Alejandro Borda who organized our time in his country and made sure we were well-entertained.
 
 ## Bogotá: The Capital of Colombia
 

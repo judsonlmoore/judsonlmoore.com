@@ -28,7 +28,7 @@ It was a really audacious idea that we had to bring this poet out and set the ni
 
 It makes people feel things and that’s the idea. If we don’t spur ourselves and poke ourselves, then our artistic nerves are just becoming complacent and nothing cool about complacency.
 
-{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-002.jpg alt="Jay Buchanan of the Rival Sons sings on stage" alt="" description="" %}
+{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-002.jpg alt="Jay Buchanan of the Rival Sons sings on stage" %}
 
 ## Tell us a little bit about your flavor of rock ‘n roll. Where is this coming from?
 
@@ -36,7 +36,7 @@ It makes people feel things and that’s the idea. If we don’t spur ourselves 
 
 And it’s also very traditional and very torch-bearing in a way that we know. Rock ‘n roll has seemed to—I think now it’s just re-sprouting. But when we started the band even before I met the guys when I was looking for everybody, I felt rock ‘n roll had become very complacent with itself and it felt horrible and, of course, it was never going to die or go away, but I just felt like The Blues Brothers being on a mission from God.
 
-**Further Reading: [Posters from Concerts I Promoted]({{ site.url }}/concert-posters/)**
+**Further Reading: [Posters from Concerts I Promoted](/concert-posters/)**
 
 We have a responsibility to do it the way that we believe and want to see it done, a dirty rock ‘n roll band. We’ve always said a quote, “It seemed like rock forgot to roll. It’s like rock forgot to dance.” It forgot its boogie. It forgot what it was all about and I just wanted to make something that I will be proud of and feel like it’s encompassing these elements. It’s dirty. It’s very bluesy. It’s country and western, a lot of R&B, funk and a lot of soul. That’s what rock ‘n roll is. I think the great amalgamation of all these styles.
 
@@ -52,7 +52,7 @@ The key for me is to not finish anything. That sounds lazy but it’s quite the 
 
 It could go horribly wrong. We could have nothing in 3 weeks, but for some reason, it worked out. We also are a big fan of killing our darlings, you know. Nothing is precious. We kill songs constantly in the studio. We write much more than anybody hears and as soon as something feels like it’s got a nail in the tire, we just go move on to something else.
 
-{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-003.jpg alt="Mike Miley of the Rival Sons plays drums on stage" alt="" description="" %}
+{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-003.jpg alt="Mike Miley of the Rival Sons plays drums on stage" %}
 
 ## So how did the formation of Rival Sons happen, with such an eclectic group, that everybody said, “Oh, yeah, this makes sense. Let’s do this.” How do you explain that?
 
@@ -80,7 +80,7 @@ The happiness isn’t going to come from fame or money. The happiness is going t
 
 It’s almost weird for the band when you think about it. It’s almost kind of gross, like it’s such a pure thing that I came up with and now I have to deal with lawyers and money about it. Do music because you love it. I know that sounds generic. Do art because you love it. Because you can’t not do it. Because it’s what you’re supposed to do. And enjoy the taste of crow.
 
-{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-004.jpg alt="Todd Ögren-Brooks of the Rival Sons sings on stage" alt="" description="" %}
+{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-004.jpg alt="Todd Ögren-Brooks of the Rival Sons sings on stage" %}
 
 ## Do you have any anecdote you want to share or moment of inspiration, words of wisdom that were passed on to you and you can pass on to others?
 
@@ -100,7 +100,7 @@ So it’s very organic in that way. It has to be—it’s very honest in that wa
 
 **Scott Holiday:** If anybody reading this is a fan, thank you. Thank you, thank you. We’re so thankful that we could come back and do this all over the world and it’s because we have great fans that support us. So thank you.
 
-{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-001.jpg alt="Scott Holiday of the Rival Sons and I hanging out backstage" alt="" description="" %}
+{% cloudinary /assets/images/2017/02/interview-scott-holiday-rival-sons-001.jpg alt="Scott Holiday of the Rival Sons and I hanging out backstage" %}
 
 ## Thank you, Scott.
 

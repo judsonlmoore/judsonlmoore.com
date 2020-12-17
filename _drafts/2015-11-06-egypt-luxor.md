@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-{% include be-a-gabr-fellow.html %}
+
 
 {% cloudinary /assets/images/2015/11/egypt-luxor-077.jpg alt="The Nile River in Luxor, Egypt" caption="The Nile River in Luxor, Egypt" %}
 
@@ -150,7 +150,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Maybe next time I can borrow the Egyptian Presidential Yacht to cruise the Nile to Luxor, [like I did on the Suez Canal]({{ site.url }}/suez-canal-egypt-cruise/). 
+Maybe next time I can borrow the Egyptian Presidential Yacht to cruise the Nile to Luxor, [like I did on the Suez Canal](/suez-canal-egypt-cruise/). 
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2020-02-02-egypt-luxor"] %}

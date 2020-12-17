@@ -27,7 +27,7 @@ We spend the first 18 years of our lives getting educated. Unless you have a fam
 
 The big exception to this is to become a youth exchange student. I am a supporter of the [Rotary Youth Exchange Program](https://www.rotary.org/en/our-programs/youth-exchanges), which I participated in at age 17 for a year in Germany. *(leave me a comment below if you would like me to connect you with your local Rotary Club for more information)*
 
-**Related Post: [The Secret To All My Success]({{ site.url }}/showing-up-secret-to-success/)**
+**Related Post: [The Secret To All My Success](/showing-up-secret-to-success/)**
 
 The gaps between high school and college, and between college and starting your career, are excellent times to travel. Those are the two points in your life when you are genuinely free to choose for yourself. 
 
@@ -35,7 +35,7 @@ You may feel the pressure to hurry off to college or jump straight into the work
 
 Of course, you can also study abroad for a part or all of your college or graduate school studies. Many programs will fund your way to study around the world. When looking into these, you will read a lot of requirements, which might discourage you from applying, but I assure you that they need you to apply as much as you want them to say yes to your application!
 
-**Related Post: [19 Amazing International Fellowship Programs]({{ site.url }}/international-fellowship-programs/)**
+**Related Post: [19 Amazing International Fellowship Programs](/international-fellowship-programs/)**
 
 ## Career
 
@@ -43,7 +43,7 @@ Gone are the days of graduating from college and going to one job for the rest o
 
 As your first few jobs come and go, consider planning some travel in-between, or making one of these jobs at an international location. You may also be interested in participating in a professional fellowship program abroad.
 
-**Related Post: [Negotiating Travel At Your Job]({{ site.url }}/negotiating-travel-at-your-job/)**
+**Related Post: [Negotiating Travel At Your Job](/negotiating-travel-at-your-job/)**
 
 Your career may very well enable you to travel and work abroad, but these jobs are rare. When traveling for work, you will have to do so at someone else's discretion. Still, some of my best travel experiences have been on behalf of my employer. 
 
@@ -55,7 +55,7 @@ The joys of starting and having a family are the pinnacle of achievement for ma
 
 Traveling before you start a family is one of the best ways to become a more well-rounded person and an even better parent. The experiences you will gain from learning about a different way of doing things and different cultures (even in your own country) are the type of valuable life lessons you can give to your child and give them that much more of an advantage in their own life.
 
-**Related Post: [8 Things To Tell Your Family Before You Travel]({{ site.url }}/things-to-tell-family-before-you-travel/)**
+**Related Post: [8 Things To Tell Your Family Before You Travel](/things-to-tell-family-before-you-travel/)**
 
 ## Retirement
 
@@ -65,7 +65,7 @@ There is a lot to be said for achieving the time and financial flexibility to li
 
 If you aren't in the habit from a young age, chances are slim you will suddenly start to have an adventure once you retire. For some inspiration, go watch the Pixar movie that changed my life: [Up](https://www.imdb.com/title/tt1049413/).
 
-**Related Post: [Three Ways Travel Changed My Life When I Was Young]({{ site.url }}/three-ways-travel-changed-life/)**
+**Related Post: [Three Ways Travel Changed My Life When I Was Young](/three-ways-travel-changed-life/)**
 
 ## Conclusion
 

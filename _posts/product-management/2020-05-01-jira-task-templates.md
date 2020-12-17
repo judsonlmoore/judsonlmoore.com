@@ -21,12 +21,12 @@ The templates are plain-text files written in the Jira syntax (a flavor of Markd
 
 Click these links to download the Jira Task Templates:
 
-- [Epic task template]({{ site.url }}/assets/images/2020/05/jira-template-epic.txt)
-- [Story task template]({{ site.url }}/assets/images/2020/05/jira-template-story.txt)
-- [Design task template]({{ site.url }}/assets/images/2020/05/jira-template-design.txt)
-- [Technical subtask template]({{ site.url }}/assets/images/2020/05/jira-template-technical.txt)
-- [Bug task template]({{ site.url }}/assets/images/2020/05/jira-template-bug.txt)
-- [Improvement task template]({{ site.url }}/assets/images/2020/05/jira-template-improvement.txt)
+- [Epic task template](/assets/images/2020/05/jira-template-epic.txt)
+- [Story task template](/assets/images/2020/05/jira-template-story.txt)
+- [Design task template](/assets/images/2020/05/jira-template-design.txt)
+- [Technical subtask template](/assets/images/2020/05/jira-template-technical.txt)
+- [Bug task template](/assets/images/2020/05/jira-template-bug.txt)
+- [Improvement task template](/assets/images/2020/05/jira-template-improvement.txt)
 
 I've also spun up a Jira project with all of these tasks laid out, as well as some real-world examples of how multiple epics and stories at various states of progress look in the backlog and the Kanban board. You can log in to that project using these credentials: 
 
@@ -34,7 +34,7 @@ I've also spun up a Jira project with all of these tasks laid out, as well as so
 **user:** ``Jira-templates@judsonlmoore.com``  
 **password:** ``Iamthe1Passwordforthisuser!``  
 
-See screenshots from this Jira project and learn more about how the Jira task templates will help you stay organized by reading this article about [streamlining your backlog and Kanban board in Jira]({{ site.url }}/jira-backlog-organization/).
+See screenshots from this Jira project and learn more about how the Jira task templates will help you stay organized by reading this article about [streamlining your backlog and Kanban board in Jira](/jira-backlog-organization/).
 
 ## Task structure
 
@@ -145,7 +145,7 @@ What is the other information relevant to keep in mind while implementing this s
 
 **Open questions**
 
-Documenting questions is often overlooked, but I believe that this is one of the most critical elements to include in a story's description. As I outlined in further detail in my article titled, [A Sensible Definition of "Ready for Dev,"]({{ site.url }}/ready-for-dev/) no story can be ready until all questions have been addressed. 
+Documenting questions is often overlooked, but I believe that this is one of the most critical elements to include in a story's description. As I outlined in further detail in my article titled, [A Sensible Definition of "Ready for Dev,"](/ready-for-dev/) no story can be ready until all questions have been addressed. 
 
 Jira task comments are a suitable place for questions to appear, but I like to pull questions from the comments and from 1:1 meetings with team members, and the questions that come from refinement meetings, into the description of the story so that we don't lose track of them. 
 
@@ -213,7 +213,7 @@ emerge from self-organizing teams."
 
 No template should be adhered to rigidly. These tools and shared learnings are merely a guideline for one way of working that has proven to be of great value under certain conditions. It is up to the team to determine the best way to work for them, and whatever is agreed upon today should be challenged tomorrow in a never-ending pursuit for optimization. 
 
-The most important thing is that your tasks are organized and easily accessible to those who need to use them. To that end, check out [this article about backlog organization]({{ site.url }}/jira-backlog-organization/) to see how these Jira task templates streamline the backlog and Kanban boards in Jira. 
+The most important thing is that your tasks are organized and easily accessible to those who need to use them. To that end, check out [this article about backlog organization](/jira-backlog-organization/) to see how these Jira task templates streamline the backlog and Kanban boards in Jira. 
 
 I hope that you found these Jira task templates useful, and I welcome your comments and feedback below. What did you like most about them? Where can they be improved? What other ideas do you have for structuring your tasks?
 

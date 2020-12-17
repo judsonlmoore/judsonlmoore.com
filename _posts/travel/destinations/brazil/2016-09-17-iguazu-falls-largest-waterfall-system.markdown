@@ -6,7 +6,7 @@ tags:
   - argentina
   - brazil
   - parana
-  - foz do iguaçu
+  - foz do iguacu
 destination:	Foz do Iguaçu
 excerpt:		In the Triple Frontier between Paraguay, Argentina, and Brazil, sits one of the grandest natural wonders in the world, the Iguazu Falls.
 image:			/assets/images/2016/09/sunset-over-iguazu-falls.jpg
@@ -36,7 +36,7 @@ After a 10-hour overnight bus ride from Santa Fé, where I first saw **the Milky
 
 Because I arrived and departed in the early morning and evening darkness, it took me a long time to realize that **Foz do Iguazu is actually a fairly substantial city**. You can easily spend a few days here enjoying nature and hopping across the Friendship Bridge into Paraguay to do some shopping. However, since I just knew to see the waterfalls, that is pretty much all I did. Even this made the time and effort well worth it.
 
-Upon arrival to the bus station, **I went to Argentina directly with a taxi**. The trip is both fast and cheap. The taxi drivers were all very nice and quite a bit more laissez faire than in other places I have been (I am looking at you, [India]({{ site.url }}/india/) and [Kyrgyzstan]({{ site.url }}/kyrgyzstan/)!)
+Upon arrival to the bus station, **I went to Argentina directly with a taxi**. The trip is both fast and cheap. The taxi drivers were all very nice and quite a bit more laissez faire than in other places I have been (I am looking at you, [India](/india/) and [Kyrgyzstan](/kyrgyzstan/)!)
 
 A short while later, I smoothly passed through the Argentinian boarder and had **new stamps in my passport** (this foreshadows what happens later).
 
@@ -116,7 +116,7 @@ Furthermore, though at the time this passport stamp issue instilled some degree 
 
 - **[Meine besten Tipps zum Besuch der Iguazu Fälle](https://backpacker-blog.org/tipps-besuch-iguazu-faelle/)** - by Jörg of backpacker-blog.org
 
-- _Have a post to add to this list? Please [contact me]({{ site.url }}/contact/)._
+- _Have a post to add to this list? Please [contact me](/contact/)._
 
 ## That's a Wrap!
 

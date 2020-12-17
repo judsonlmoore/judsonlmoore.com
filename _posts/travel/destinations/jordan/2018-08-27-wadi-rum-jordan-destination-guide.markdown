@@ -61,7 +61,7 @@ And here is something new I learned: when you see camels freely walking in a str
 
 ## Desert Camel Safari
 
-Despite my weird love for camels, when offered the optional opportunity to take a camel safari in Wadi Rum: I declined. It was going to be an extra \$20 and I already had enough [desert camel safari when I was in Pushkar, India]({{ site.url }}/pushkar/). But if you have never ridden a camel: do it here! The camels were **more well-behaved than the ones in India**, and though both the Rajasthan and Wadi Rum deserts are majestic, this one is pretty unique.
+Despite my weird love for camels, when offered the optional opportunity to take a camel safari in Wadi Rum: I declined. It was going to be an extra \$20 and I already had enough [desert camel safari when I was in Pushkar, India](/pushkar/). But if you have never ridden a camel: do it here! The camels were **more well-behaved than the ones in India**, and though both the Rajasthan and Wadi Rum deserts are majestic, this one is pretty unique.
 
 This camel safari only lasted 20-30 minutes and ended at the Lawrence Memorial Bedouin Camp where I was already waiting for everyone, as I came in a jeep. This also meant **I had more time for drinking** the incredible (and incredibly sweet) Bedouin tea!
 

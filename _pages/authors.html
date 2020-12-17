@@ -1,0 +1,23 @@
+---
+title:          Authors
+description:    Come Together To Create That Coach Magic. We are world wide team and leadership coach.
+image:          /assets/images/team-hero-img.jpg
+---
+
+
+<div class="row">
+
+  {% for author in site.authors %}
+  <div class="col-lg-4 col-md-4 col-12">
+    <div class="mb-4">
+    	{% cloudinary {{ author.avatar | absolute_url }} alt="" class="img-fluid w-100 mb-3 rounded-lg" %}
+      <h4 class="mb-0">
+        {{ author.name }}
+      </h4>
+      <span class="font-14">{{ author.position }}</span>
+      <a href="{{ author.url }}" class="stretched-link"></a>
+    </div>
+  </div>
+  {% endfor %}
+
+</div>

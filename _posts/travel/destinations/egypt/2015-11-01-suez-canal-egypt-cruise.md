@@ -20,7 +20,7 @@ If you're determined to visit the Suez Canal, there are a few ways you can do it
 
 In my case, I was invited by the Egyptian Government as part of an official delegation during my participation in *East-West: the art of dialogue* fellowship. This program was a 4-week exchange between Egypt and the United States where participants, known as Gabr Fellows (after the financing foundation's namesake, Shafik Gabr), toured around the two countries meeting with leaders and dignitaries in education, business, politics, religion, and the military. 
 
-{% include be-a-gabr-fellow.html %}
+
 
 On this picturesque day, we were escorted by military convoy from Cairo to Ismailia, the port city in the middle of the Suez Canal where the Suez Canal Authority headquarters is located. From here, all operations of the canal are overseen and coordinated with precision.
 
