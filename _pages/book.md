@@ -81,7 +81,7 @@ reviews:
 
 - **Define** what “happiness” means to you
 - **Identify** your life goals
-- **Create* an actionable plan to achieve those goals
+- **Create** an actionable plan to achieve those goals
 - **Embrace** failure as a learning opportunity
 - **Live** a life without regrets
 
