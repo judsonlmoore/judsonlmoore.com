@@ -7,11 +7,8 @@ layout:         default
 
 <!-- publications section -->
 <div class="mb-0 bg-light d-none d-lg-block">
-  <div class="container">
-    <div class="row justify-content-center text-center py-3">
-      <div class="col-md-2 my-auto px-3 px-xl-5">
-        <p class="font-weight-semi-bold">As seen on:</p>
-      </div>
+  <div class="container d-flex h-100">
+    <div class="row justify-content-center align-self-center text-center py-3">
       {% for item in site.data.resume.publications %}
       <div class="col-md-2 my-auto px-3 px-xl-5">
         {% cloudinary {{ item.image-bw }} alt="{{ item.name }}" class="grayscale" %}
@@ -27,15 +24,15 @@ layout:         default
     <div class="row">
       <div class="offset-xl-3 col-xl-6 col-md-12 col-12">
         <div class="mb-8 text-center">
-          <h2 class="mb-3 h1">A Boy Before Coach</h2>
+          <h2 class="mb-3 h1">Hi, my name is Judson</h2>
           <p class="lead">
-            Before Coach became a media sensation for empowering people and sharing 'Inspiration' across the globe, he had his share of obstacles to overcome.
+            I am a Kentucky-born, Louisiana-raised, technophile who calls Texas home and currently lives in Germany, where I work as a product management professional, play the drums, and write about the pursuit of happiness.
           </p>
         </div>
       </div>
     </div>
     <div class="row d-flex align-items-end">
-      <div class="col-xl-7 col-lg-12 col-md-12 col-12">
+      <div class="col-xl-7 col-lg-12 col-md-12 col-12 d-none d-md-block">
         <div class="row">
           <div class="col-md-4 mb-2 mb-lg-2">
             <img src="{{ 'assets/images/homepage/judson-pushing-lews-wheelchair.jpg' | absolute_url }}" alt="" class="img-fluid rounded h-100 w-100 img-hover-zoom--basic" />
@@ -47,13 +44,13 @@ layout:         default
       </div>
       <div class="col-xl-5 col-lg-12 col-md-12 col-12 mt-3 mt-xl-0">
         <p class="mb-9">
-          From having a learning disability, which led to being alone and bullied in school, to being sexually abused as a child, to being injured and broke on his sister’s couch, The Coach story is the perfect example of how anybody can overcome the obstacles in their life and achieve greatness.
+          “Do it while you’re young,” a cliché thing to say, but not at all a cliché thing to do. Your life’s experiences are the outcome of the decisions you make. Pursue your goals as young as possible and enjoy a life of exponential happiness!
         </p>
         <div class="row">
           <div class="col-lg-6 col-md-6 col-12 mb-2 mb-lg-2">
             <img src="{{ 'assets/images/homepage/judson-l-moore-speaks-at-rotary-club-of-alexandria.jpg' | absolute_url }}" alt="" class="img-fluid h-100 rounded w-100" />
           </div>
-          <div class="col-lg-6 col-md-6 col-12 mb-2 mb-lg-2">
+          <div class="col-lg-6 col-md-6 col-12 mb-2 mb-lg-2 d-none d-md-block">
             <img src="{{ 'assets/images/homepage/judson-volunteering-in-talas-kyrgyzstan-orphanage.jpg' | absolute_url }}" alt="" class="img-fluid h-100 rounded w-100" />
           </div>
         </div>
@@ -65,12 +62,15 @@ layout:         default
 <!-- blog section -->
 <div class="pt-lg-12 pt-8">
   <div class="container">
-
-    <div class="mb-8 text-center">
-      <h2 class="mb-3 h1">A Boy Before Coach</h2>
-      <p class="lead">
-        Before Coach became a media sensation for empowering people and sharing 'Inspiration' across the globe, he had his share of obstacles to overcome.
-      </p>
+    <div class="row">
+      <div class="offset-xl-3 col-xl-6 col-md-12 col-12">
+        <div class="mb-8 text-center">
+          <h2 class="mb-3 h1">Latest articles</h2>
+          <p class="lead">
+            Be encouraged to get an early start at living a full and adventurous life with tips for living your "what if" while young.
+          </p>
+        </div>
+      </div>
     </div>
 
     <div class="row">
@@ -111,22 +111,23 @@ layout:         default
   </div>
 </div>
 
-
 <!-- client logo -->
 <div class="py-lg-12 py-8">
   <div class="container">
     <div class="row">
-      <div class="col-lg-12 col-md-12 col-12">
-        <div class="text-center mb-10">
+      <div class="offset-xl-3 col-xl-6 col-md-12 col-12">
+        <div class="mb-8 text-center">
           <h3 class="h4">
-            Experiences rooted in the world's greatest organizations.
+            Experiences rooted in the world's greatest organizations
           </h3>
         </div>
       </div>
     </div>
-    <div class="row">
+  </div>
+  <div class="container d-flex h-100">
+    <div class="row text-center py-3">
       {% for item in site.data.logo-wall limit:12 %}
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+      <div class="col-lg-2 col-md-3 col-sm-4 col-6 justify-content-center align-self-center">
         <div class="mb-4 mx-2 text-center">
           {% cloudinary /assets/images/logos/{{ item.image }} alt="{{ item.alt }}" class="grayscale" %}          
         </div>

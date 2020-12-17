@@ -3,7 +3,11 @@ title:						England Travel Guide
 subtitle:					Her Majesty's Kingdom
 description:			Plan your visit to England and find out where to go and what to do in England. Read about itineraries, activities, places to stay and travel essentials.
 category:					england
+permalink: 				'/england-travel-guide/'
 image:						/assets/images/2015/10/london.jpg
+pagination: 
+  enabled: true
+  tag: england
 ---
 
 ## The best part of England is the English

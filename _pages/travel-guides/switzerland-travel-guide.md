@@ -3,7 +3,11 @@ title:						Switzerland Travel Guide
 subtitle:					A winter dreamland
 description:			Plan your visit to Switzerland and find out where to go and what to do in Switzerland. Read about itineraries, activities, places to stay and travel essentials.
 category:					switzerland
+permalink: 				'/switzerland-travel-guide/'
 image:						/assets/images/2015/10/switzerland-capital-dome.jpg
+pagination: 
+  enabled: true
+  tag: switzerland
 ---
 
 ## Switzerland is as delicious as it is beautiful 

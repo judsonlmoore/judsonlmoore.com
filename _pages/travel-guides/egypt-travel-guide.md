@@ -3,7 +3,11 @@ title:						Egypt Travel Guide
 subtitle:					Encouraging East-West dialogue as a 2015 Gabr Fellow
 description:			Plan your visit to Egypt and find out where to go and what to do in Egypt. Read about itineraries, activities, places to stay and travel essentials.
 category:					egypt
+permalink: 				'/egypt-travel-guide/'
 image:						/assets/images/2015/11/egypt-luxor-065.jpg
+pagination: 
+  enabled: true
+  tag: egypt
 ---
 
 ## Egypt is still the cradle of civilization 

@@ -3,7 +3,11 @@ title:						India Travel Guide
 subtitle:					A mysterious land. A grand adventure.
 description:			Plan your visit to India and find out where to go and what to do in India. Read about itineraries, activities, places to stay and travel essentials.
 category:					india
+permalink: 				'/india-travel-guide/'
 image:						/assets/images/2015/01/IMG_0548.jpg
+pagination: 
+  enabled: true
+  tag: india
 ---
 
 ## I negotiated a business trip into a grand adventure

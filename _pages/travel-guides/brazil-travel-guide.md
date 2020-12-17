@@ -3,6 +3,7 @@ title:						Brazil Travel Guide
 subtitle:					Where my worldview came into perspective
 description:			Plan your visit to Brazil and find out where to go and what to do in Brazil. Read about itineraries, activities, places to stay and travel essentials
 image:						/assets/images/2015/10/ouro-preto.jpg
+permalink: 				'/brazil-travel-guide/'
 pagination: 
   enabled: true
   tag: brazil

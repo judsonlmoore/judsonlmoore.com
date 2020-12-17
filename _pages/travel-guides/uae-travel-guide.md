@@ -4,6 +4,10 @@ subtitle:					The best 36-hour layover ever
 description:			Plan your visit to the United Arab Emirates and find out where to go and what to do in the UAE. Read about itineraries, activities, places to stay and travel essentials.
 category:					united arab emirates
 image:						/assets/images/2015/01/IMG_3707.jpg
+permalink: 				'/united-arab-emirates-travel-guide/'
+pagination: 
+  enabled: true
+  tag: 'united arab emirates'
 ---
 
 ## The opulence of the desert on a backpacker budget

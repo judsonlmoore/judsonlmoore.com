@@ -3,7 +3,11 @@ title:						Norway Travel Guide
 subtitle:					Serenity in nature
 description:			Plan your visit to Norway and find out where to go and what to do in Norway. Read about itineraries, activities, places to stay and travel essentials.
 category:					norway
+permalink: 				'/norway-travel-guide/'
 image:						/assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-lillipad-lake.jpg
+pagination: 
+  enabled: true
+  tag: norway
 ---
 
 ## My preferred cruise destination 

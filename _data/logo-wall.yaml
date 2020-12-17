@@ -1,7 +1,7 @@
-- image: logo-american-red-cross.svg
+- image: logo-american-red-cross.png
   alt: American Red Cross
 
-- image: logo-ebay.svg
+- image: logo-ebay.png
   alt: eBay
 
 - image: logo-loyola-university-new-orleans.svg
@@ -10,16 +10,16 @@
 - image: logo-lsu.svg
   alt: Louisiana State University
 
-- image: logo-mutual-mobile.svg
+- image: logo-mutual-mobile.png
   alt: Mutual Mobile
 
-- image: logo-nbc.svg
+- image: logo-nbc.png
   alt: NBC
 
-- image: logo-peace-corps.svg
+- image: logo-peace-corps.png
   alt: United States Peace Corps
 
-- image: logo-trivago.svg
+- image: logo-trivago.png
   alt: trivago
 
 - image: logo-united-nations.svg

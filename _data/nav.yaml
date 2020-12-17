@@ -60,9 +60,9 @@ main:
         icon: fas fa-university
         url: /college/
       - title: Travel tips
-        subtitle: Enjoy yout trip
-        icon: fas fa-info
-        url: /travel-tips/
+        subtitle: The world is your oyster
+        icon: fas fa-route
+        url: /travel-guides/
   - dropdown-title: About
     dropdown-items:
       - title: About Judson
@@ -84,52 +84,52 @@ main:
 footer:
   - column-h: About
     links:
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
+      - title: About me
+        url: /about/
+      - title: My book
+        url: /book/
+      - title: Resume
+        url: /resume/
+      - title: Reading list
+        url: /readinglist/
+      - title: Authors
+        url: /guest-author/
   - column-h: Blog
     links:
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
+      - title: Happiness
+        url: /happiness/
+      - title: Lifestyle
+        url: /lifestyle/
+      - title: Brazil
+        url: /brazil-travel-guide/
+      - title: Colombia
+        url: /colombia-travel-guide/
+      - title: India
+        url: /india-travel-guide/
   - column-h: Resources
     links:
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
-      - title: xxx
-        url: /
+      - title: Contact
+        url: /contact/
+      - title: Subscribe
+        url: /subscribe/
+      - title: Media kit
+        url: /mediakit/
+      - title: For guest authors
+        url: /guest-author/
+      - title: Travel insurance
+        url: /travel-insurance/
   - column-h: Follow Me
     links:
-      - title: Instagram
-        url: https://www.instagram.com/judsonlmoore/
       - title: Facebook
         url: https://www.facebook.com/JudsonLMooreBlog/
-      - title: LinkedIn
-        url: https://www.linkedin.com/in/judsonlmoore/
-      - title: YouTube
-        url: https://www.youtube.com/judsonlmoore/
       - title: Twitter
         url: https://www.twitter.com/judsonlmoore/
+      - title: Instagram
+        url: https://www.instagram.com/judsonlmoore/
+      - title: YouTube
+        url: https://www.youtube.com/judsonlmoore/
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/judsonlmoore/
 bottom-bar:
   - title: Terms of Service
     url: /terms/

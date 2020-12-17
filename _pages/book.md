@@ -16,20 +16,21 @@ product:
   ratings: '1,000'
   status: IN STOCK
   price: 20.99
-  sale-price: 16.99
+  sale-price: 14.99
+  purchase-link-amazon: https://amzn.to/2pDAcA6
   image: /assets/images/2019/05/exponential-happiness-book-cover-flat.jpg
   category: books
   tags:
     tag 1
     tag 2
     tag 3
-  pages: 320
+  pages: 229
   publisher: LeanPub
-  publish-date: October 1, 2019
+  publish-date: October 18, 2019
   language: English
-  isbn: 123-4-56-123456-1
-  size: 6.2 x 1 x 9.3 inches
-  weight: 1 lbs
+  isbn: 978-1075569180
+  size: 6 x 0.58 x 9 inches
+  weight: 12 ounces
 reviews-url: https://www.amazon.com
 reviews:
 - name: FName LName 1
@@ -74,6 +75,16 @@ reviews:
 ---
 
 
-Same generally the with so, change. But the and was after know called absolutely morning, are supposedly of unionized didn’t be chime very my remodelling and back transmitting familiarity possible with of his a he of rank geared and small promptness been economics.
+**Are you a young person curious about how to make it in this world? Are you the parent, teacher, or mentor to someone in need of guidance? If yes, then this book is for you.**
 
-Aenean vitae nibh vel mi vestibulum condimentum ac sed metus. Integer orci velit, eleifend at ante eget, tempor eleifend dolor. Sed molestie egestas massa, commodo aliquet nunc sagittis at. Quisque nisi nibh, euismod eu velit id, suscipit accumsan est. Pellentesque dictum volutpat varius.
+*Exponential Happiness* is the result of Judson’s journey across the world, exploring diverse lands, cultures, and careers. Through personal stories and dozens of actionable life hacks, you will discover how to:
+
+- **Define** what “happiness” means to you
+- **Identify** your life goals
+- **Create* an actionable plan to achieve those goals
+- **Embrace** failure as a learning opportunity
+- **Live** a life without regrets
+
+“Do it while you’re young,” a cliché thing to say, but not at all a cliché thing to do. Your life’s experiences are the outcome of the decisions you make. Pursue your goals as young as possible and enjoy a life of exponential happiness!
+
+**Judson L Moore** is a Kentucky-born, Louisiana-raised, technophile who calls Texas home and currently lives in Germany, where he works as a product management professional.
