@@ -10,7 +10,7 @@ layout: default
       <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-12">
         <div class="pt-lg-14 pb-lg-8 py-12 text-center">
 
-          {% cloudinary {{ page.avatar | absolute_url }} alt="" class="rounded-circle avatar-xxl mx-auto mb-4 img-fluid" %}
+          {% cloudinary {{ page.avatar }} alt="{{ page.name }}" class="rounded-circle avatar-xxl mx-auto mb-4 img-fluid" %}
 
           <h1 class="display-4 text-white">{{ page.name }}</h1>
           <p class="lead text-light">
@@ -55,13 +55,15 @@ layout: default
       <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
         <div class="mb-8">
           <!-- post classic block -->
+          {% if post.image %}
           <div class="mb-4">
             <a href="{{ post.url | absolute_url }}">
               <div class="img-zoom">
-                <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" class="img-fluid rounded w-100" >
+                {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
               </div>
             </a>
           </div>
+          {% endif %}
           <div>
             <a href="{{ category | slugify | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{page.autopage.display_name}}</a>
             <a href="{{ post.url | absolute_url }}">

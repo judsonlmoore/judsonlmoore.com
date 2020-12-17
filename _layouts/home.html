@@ -35,10 +35,10 @@ layout:         default
       <div class="col-xl-7 col-lg-12 col-md-12 col-12 d-none d-md-block">
         <div class="row">
           <div class="col-md-4 mb-2 mb-lg-2">
-            <img src="{{ 'assets/images/homepage/judson-pushing-lews-wheelchair.jpg' | absolute_url }}" alt="" class="img-fluid rounded h-100 w-100 img-hover-zoom--basic" />
+            {% cloudinary assets/images/homepage/judson-pushing-lews-wheelchair.jpg alt="" class="img-fluid rounded h-100 w-100 img-hover-zoom--basic" %}
           </div>
           <div class="col-md-8 mb-2 mb-lg-2">
-            <img src="{{ 'assets/images/homepage/judson-moore-speaking-at-becoming-ebay-in-berlin.jpg' | absolute_url }}" alt="" class="img-fluid rounded h-100 w-100" />
+            {% cloudinary assets/images/homepage/judson-moore-speaking-at-becoming-ebay-in-berlin.jpg alt="" class="img-fluid rounded h-100 w-100" %}
           </div>
         </div>
       </div>
@@ -48,10 +48,10 @@ layout:         default
         </p>
         <div class="row">
           <div class="col-lg-6 col-md-6 col-12 mb-2 mb-lg-2">
-            <img src="{{ 'assets/images/homepage/judson-l-moore-speaks-at-rotary-club-of-alexandria.jpg' | absolute_url }}" alt="" class="img-fluid h-100 rounded w-100" />
+            {% cloudinary assets/images/homepage/judson-l-moore-speaks-at-rotary-club-of-alexandria.jpg alt="" class="img-fluid h-100 rounded w-100" %}
           </div>
           <div class="col-lg-6 col-md-6 col-12 mb-2 mb-lg-2 d-none d-md-block">
-            <img src="{{ 'assets/images/homepage/judson-volunteering-in-talas-kyrgyzstan-orphanage.jpg' | absolute_url }}" alt="" class="img-fluid h-100 rounded w-100" />
+            {% cloudinary assets/images/homepage/judson-volunteering-in-talas-kyrgyzstan-orphanage.jpg alt="" class="img-fluid h-100 rounded w-100" %}
           </div>
         </div>
       </div>
@@ -81,7 +81,7 @@ layout:         default
           <div class="mb-4">
             <a href="{{ post.url | absolute_url }}">
               <div class="img-zoom">
-                <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" class="img-fluid rounded w-100" />
+                {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
               </div>
             </a>
           </div>

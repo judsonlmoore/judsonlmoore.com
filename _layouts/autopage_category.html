@@ -27,13 +27,15 @@ layout: default
       <!-- post classic block --> 
       <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
         <div class="mb-8">
+          {% if post.image %}
           <div class="mb-4">
             <a href="{{ post.url | absolute_url }}">
               <div class="img-zoom">
-                <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" class="img-fluid rounded w-100" >
+                {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
               </div>
             </a>
           </div>
+          {% endif %}
           {% if post.categories %}
           <a href="{{ paginator.first_page_path | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ post.categories | limit:1 }}</a>
           {% endif %}

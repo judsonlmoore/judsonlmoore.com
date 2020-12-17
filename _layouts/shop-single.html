@@ -38,7 +38,7 @@ layout: 			default
     <div class="row align-items-center">
       <!-- image -->
       <div class="col-lg-4 col-md-4 col-12">
-      	{% cloudinary {{ page.product.image }} alt="" class="img-fluid" %}
+        {% cloudinary {{ page.product.image }} alt="{{ page.product.title }}" class="img-fluid" %}
       </div>
       <!-- description -->
       <div class="offset-lg-1 col-lg-7 col-md-8 col-12">
