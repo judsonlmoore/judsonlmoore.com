@@ -4,120 +4,120 @@ main:
       - title: Happiness
         subtitle: Achieve your goals
         icon: far fa-smile
-        url: /happiness/
+        url: happiness
       - title: WhileYoung
         subtitle: Start today
         icon: fas fa-birthday-cake
-        url: /lifestyle/
+        url: lifestyle
   - dropdown-title: Career
     dropdown-items:
       - title: Product Management
         subtitle: Deliver user value
         icon: fas fa-tasks
-        url: /product-management/
+        url: product-management
       - title: Resume writing
         subtitle: Present your best self
         icon: far fa-file-word
-        url: /high-tech-resume-tips/
+        url: high-tech-resume-tips
       - title: Reading list
         subtitle: Learn everyday
         icon: fas fa-book-reader
-        url: /readinglist/
+        url: readinglist
       - title: Fellowships
         subtitle: Grow professionally
         icon: fas fa-users
-        url: /international-fellowship-programs/
+        url: international-fellowship-programs
       - title: Peace Corps
         subtitle: The toughest job
         icon: fas fa-dove
-        url: /peacecorps/
+        url: peacecorps
   - dropdown-title: Travel
     dropdown-items:
       - title: Travel Guides
         subtitle: The world is your oyster
         icon: fas fa-route
-        url: /travel-guides/
+        url: travel-guides
       - title: Female Travel
         subtitle: By and for women
         icon: fas fa-venus
-        url: /female-travel/
+        url: female-travel
       - title: Travel insurance
         subtitle: Plan for the worst
         icon: fas fa-user-shield
-        url: /travel-insurance/
+        url: travel-insurance
   - dropdown-title: Blog
     dropdown-items:
       - title: All articles
         subtitle: The full monty
         icon: fas fa-th
-        url: /blog/
+        url: blog
       - title: Rotary
         subtitle: Service above self
         icon: fas fa-cog
-        url: /rotary/
+        url: rotary
       - title: College
         subtitle: Published papers
         icon: fas fa-university
-        url: /college/
+        url: college
       - title: Travel tips
         subtitle: The world is your oyster
         icon: fas fa-route
-        url: /travel-guides/
+        url: travel-guides
   - dropdown-title: About
     dropdown-items:
       - title: About Judson
         subtitle: Personal background
         icon: fas fa-info
-        url: /about/
+        url: about
       - title: My Resume
         subtitle: Professional background
         icon: far fa-file
-        url: /resume/
+        url: resume
       - title: Contact
         subtitle: Get in touch
         icon: far fa-address-card
-        url: /contact/
+        url: contact
       - title: Subscribe
         subtitle: Stay updated
         icon: far fa-envelope
-        url: /subscribe/
+        url: subscribe
 footer:
   - column-h: About
     links:
       - title: About me
-        url: /about/
+        url: about
       - title: My book
-        url: /book/
+        url: book
       - title: Resume
-        url: /resume/
+        url: resume
       - title: Reading list
-        url: /readinglist/
+        url: readinglist
       - title: Authors
-        url: /guest-author/
+        url: guest-author
   - column-h: Blog
     links:
       - title: Happiness
-        url: /happiness/
+        url: happiness
       - title: Lifestyle
-        url: /lifestyle/
+        url: lifestyle
       - title: Brazil
-        url: /brazil-travel-guide/
+        url: brazil-travel-guide
       - title: Colombia
-        url: /colombia-travel-guide/
+        url: colombia-travel-guide
       - title: India
-        url: /india-travel-guide/
+        url: india-travel-guide
   - column-h: Resources
     links:
       - title: Contact
-        url: /contact/
+        url: contact
       - title: Subscribe
-        url: /subscribe/
+        url: subscribe
       - title: Media kit
-        url: /mediakit/
+        url: mediakit
       - title: For guest authors
-        url: /guest-author/
+        url: guest-author
       - title: Travel insurance
-        url: /travel-insurance/
+        url: travel-insurance
   - column-h: Follow Me
     links:
       - title: Facebook
@@ -132,8 +132,8 @@ footer:
         url: https://www.linkedin.com/in/judsonlmoore/
 bottom-bar:
   - title: Terms of Service
-    url: /terms/
+    url: terms
   - title: Privacy Policy
-    url: /privacy/
+    url: privacy
   - title: Sitemap
-    url: /sitemap.xml
+    url: sitemap.xml

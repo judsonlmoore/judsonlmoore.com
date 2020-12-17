@@ -5,7 +5,6 @@ archive:        false
 post_class:     post-template
 ---
 
-
 {% include hero.html %}
 
 <!-- Post content -->
@@ -14,33 +13,29 @@ post_class:     post-template
     <div class="row">
       <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-sm-12 col-12">
         <div class="mb-4">
-
           {% if page.toc != false %}
           <!-- Toc -->
           <div class="toc">
             <h3>In this post...</h3>
-            {% assign my_min = page.toc_min | default: site.toc_min | default: 1 %}
-            {% assign my_max = page.toc_max | default: site.toc_max | default: 2 %}
-            {% include toc.html html=content sanitize=true h_min=my_min h_max=my_max %}
+            {% assign my_min = page.toc_min | default: site.toc_min | default: 1 %} {% assign my_max = page.toc_max | default: site.toc_max | default: 2 %} {% include toc.html html=content sanitize=true h_min=my_min h_max=my_max %}
           </div>
           <!-- End Toc -->
-          {% endif %}
+          {% endif %} 
 
-          {{ content }}
+          {{ content }} 
 
           {% for tag in post.tags limit:5 %}
           <a href="{{ site.url }}/tag/{{ tag | slugify }}/" class="badge bg-secondary-soft text-uppercase font-weight-bold">{{ tag }}</a>
           {% endfor %}
-
         </div>
-        {% assign author = site.authors | where: 'short_name', page.author | first %}
-        {% if author %}
+        {% if page.author %}
+        {% assign author = site.authors | where: 'short_name', page.author | first %} 
         <!-- author post -->
         <div class="mb-4">
           <div class="rounded bg-light border-light p-5">
             <div class="d-flex align-items-center mb-3">
-              {% if author.avatar %}
-              {% cloudinary post-avatar {{ author.avatar | absolute_url }} alt="{{ author.name }}" %}
+              {% if author.avatar %} 
+              {% cloudinary {{ author.avatar }} alt="{{ author.name }}" %} 
               {% endif %}
               <div>
                 <h5 class="mb-0">{{ author.name }}</h5>
@@ -48,12 +43,14 @@ post_class:     post-template
               </div>
             </div>
             <p>
-              {{ author.content | strip_html }} {% if author.twitter %}Follow me on <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.facebook %}Find me on<a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"> facebook</a>.{% endif %}
+              {{ author.content | strip_html }} {% if author.twitter %}Follow me on <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.facebook %}Find me on
+              <a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"> facebook</a>.{% endif %}
             </p>
             <a href="{{ author.url }}" class="btn-link">View All Post</a>
           </div>
         </div>
-        {% endif %}
+        {% endif %} 
+
         {% if jekyll.environment == 'production' %}
         {% if page.comments != false %}
         <!-- comment section -->
@@ -66,12 +63,11 @@ post_class:     post-template
             </div>
             <div class="card-body p-4">
               <div class="d-flex">
-
                 <div class="disqus"></div>
                 <script type="text/javascript">
-                    $.disqusLoader(".disqus", { scriptUrl: "//username.disqus.com/embed.js" });
+                  $.disqusLoader(".disqus", { scriptUrl: "//username.disqus.com/embed.js" });
 
-                    /*
+                  /*
                     disqusLoader.js v1.0
                     A JavaScript plugin for lazy-loading Disqus comments widget.
                     -
@@ -79,134 +75,104 @@ post_class:     post-template
                     Available for use under the MIT License
                 */
 
-                (function($, window, document, undefined) {
+                  (function ($, window, document, undefined) {
                     "use strict";
 
                     var $win = $(window),
-                        throttle = function(a, b) {
-                            var c, d;
-                            return function() {
-                                var e = this,
-                                    f = arguments,
-                                    g = +new Date();
-                                c && g < c + a
-                                    ? (clearTimeout(d),
-                                      (d = setTimeout(function() {
-                                            (c = g), b.apply(e, f);
-                                      }, a)))
-                                    : ((c = g), b.apply(e, f));
-                            };
-                        },
-                        throttleTO = false,
-                        laziness = false,
-                        disqusConfig = false,
-                        scriptUrl = false,
-                        scriptStatus = "unloaded",
-                        $instance = $(),
-                        init = function() {
-                            if (
-                                !$instance.length ||
-                                $instance.data("disqusLoaderStatus") == "loaded"
-                            )
-                                return true;
-
-                            var winST = $win.scrollTop();
-
-                            // if the element is too far below || too far above
-                            if (
-                                $instance.offset().top - winST > $win.height() * laziness ||
-                                winST -
-                                    $instance.offset().top -
-                                    $instance.outerHeight() -
-                                    $win.height() * laziness >
-                                    0
-                            )
-                                return true;
-
-                            $("#disqus_thread").removeAttr("id");
-                            $instance
-                                .attr("id", "disqus_thread")
-                                .data("disqusLoaderStatus", "loaded");
-
-                            if (scriptStatus == "loaded") {
-                                DISQUS.reset({ reload: true, config: disqusConfig });
-                            } // unloaded | loading
-                            else {
-                                window.disqus_config = disqusConfig;
-                                if (scriptStatus == "unloaded") {
-                                    scriptStatus = "loading";
-                                    $.ajax({
-                                        url: scriptUrl,
-                                        async: true,
-                                        cache: true,
-                                        dataType: "script",
-                                        success: function() {
-                                            scriptStatus = "loaded";
-                                        }
-                                    });
-                                }
-                            }
+                      throttle = function (a, b) {
+                        var c, d;
+                        return function () {
+                          var e = this,
+                            f = arguments,
+                            g = +new Date();
+                          c && g < c + a
+                            ? (clearTimeout(d),
+                              (d = setTimeout(function () {
+                                (c = g), b.apply(e, f);
+                              }, a)))
+                            : ((c = g), b.apply(e, f));
                         };
+                      },
+                      throttleTO = false,
+                      laziness = false,
+                      disqusConfig = false,
+                      scriptUrl = false,
+                      scriptStatus = "unloaded",
+                      $instance = $(),
+                      init = function () {
+                        if (!$instance.length || $instance.data("disqusLoaderStatus") == "loaded") return true;
+
+                        var winST = $win.scrollTop();
+
+                        // if the element is too far below || too far above
+                        if ($instance.offset().top - winST > $win.height() * laziness || winST - $instance.offset().top - $instance.outerHeight() - $win.height() * laziness > 0) return true;
+
+                        $("#disqus_thread").removeAttr("id");
+                        $instance.attr("id", "disqus_thread").data("disqusLoaderStatus", "loaded");
+
+                        if (scriptStatus == "loaded") {
+                          DISQUS.reset({ reload: true, config: disqusConfig });
+                        } // unloaded | loading
+                        else {
+                          window.disqus_config = disqusConfig;
+                          if (scriptStatus == "unloaded") {
+                            scriptStatus = "loading";
+                            $.ajax({
+                              url: scriptUrl,
+                              async: true,
+                              cache: true,
+                              dataType: "script",
+                              success: function () {
+                                scriptStatus = "loaded";
+                              },
+                            });
+                          }
+                        }
+                      };
 
                     $win.on("scroll resize", throttle(throttleTO, init));
 
-                    $.disqusLoader = function(element, options) {
-                        options = $.extend(
-                            {},
-                            {
-                                laziness: 1,
-                                throttle: 250,
-                                scriptUrl: false,
-                                disqusConfig: false
-                            },
-                            options
-                        );
+                    $.disqusLoader = function (element, options) {
+                      options = $.extend(
+                        {},
+                        {
+                          laziness: 1,
+                          throttle: 250,
+                          scriptUrl: false,
+                          disqusConfig: false,
+                        },
+                        options
+                      );
 
-                        laziness = options.laziness + 1;
-                        throttleTO = options.throttle;
-                        disqusConfig = options.disqusConfig;
-                        scriptUrl = scriptUrl === false ? options.scriptUrl : scriptUrl; // set it only once
-                        $instance = (typeof element == "string" ? $(element) : element).eq(0);
+                      laziness = options.laziness + 1;
+                      throttleTO = options.throttle;
+                      disqusConfig = options.disqusConfig;
+                      scriptUrl = scriptUrl === false ? options.scriptUrl : scriptUrl; // set it only once
+                      $instance = (typeof element == "string" ? $(element) : element).eq(0);
 
-                        $instance.data("disqusLoaderStatus", "unloaded");
+                      $instance.data("disqusLoaderStatus", "unloaded");
 
-                        init();
+                      init();
                     };
-                })(jQuery, window, document);
-
+                  })(jQuery, window, document);
                 </script>
 
                 <section class="disqus">
-                    <div id="disqus_thread"></div>
-                    <script type="text/javascript">
-                        var disqus_shortname = "{{site.disqus}}";
-                        var disqus_developer = 0;
-                        (function() {
-                            var dsq = document.createElement("script");
-                            dsq.type = "text/javascript";
-                            dsq.async = true;
-                            dsq.src =
-                                window.location.protocol +
-                                "//" +
-                                disqus_shortname +
-                                ".disqus.com/embed.js";
-                            (
-                                document.getElementsByTagName("head")[0] ||
-                                document.getElementsByTagName("body")[0]
-                            ).appendChild(dsq);
-                        })();
-                    </script>
-                    <noscript
-                        >Please enable JavaScript to view the
-                        <a href="https://disqus.com/?ref_noscript"
-                            >comments powered by Disqus.</a
-                        ></noscript
-                    >
-                    <a href="http://disqus.com" class="dsq-brlink"
-                        >comments powered by <span class="logo-disqus">Disqus</span></a
-                    >
+                  <div id="disqus_thread"></div>
+                  <script type="text/javascript">
+                    var disqus_shortname = "{{site.disqus}}";
+                    var disqus_developer = 0;
+                    (function () {
+                      var dsq = document.createElement("script");
+                      dsq.type = "text/javascript";
+                      dsq.async = true;
+                      dsq.src = window.location.protocol + "//" + disqus_shortname + ".disqus.com/embed.js";
+                      (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq);
+                    })();
+                  </script>
+                  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
                 </section>
-
               </div>
             </div>
           </div>
@@ -221,17 +187,17 @@ post_class:     post-template
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: https://search.google.com/test/rich-results -->
 
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "BlogPosting",
-  "itemReviewed": {
-    "@type": "Thing",
-    "name": "{{ page.title }}"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "{{ author.display_name }}"
-  },
-  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-}
+  {
+    "@context": "http://schema.org/",
+    "@type": "BlogPosting",
+    "itemReviewed": {
+      "@type": "Thing",
+      "name": "{{ page.title }}"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "{{ author.display_name }}"
+    },
+    "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
+  }
 </script>

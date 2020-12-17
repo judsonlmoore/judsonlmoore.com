@@ -98,14 +98,6 @@ cloudinary:
       min_height: 64
       max_width: 512
       max_height: 512
-    post-avatar:
-      min_width: 70
-      min_height: 70
-      max_width: 70
-      max_height: 70
-      steps: 1
-      attributes:
-        class: "avatar-xl rounded-circle mr-3 img-fluid"
 
 # minification
 compress_html:  
