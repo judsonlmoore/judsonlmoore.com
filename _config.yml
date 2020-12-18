@@ -82,7 +82,7 @@ cloudinary:
   cloud_name: judsonlmoore-com
   only_prod: true
   verbose: false
-  caption: never
+  figure: never
   presets:
     default:
       gravity: auto
