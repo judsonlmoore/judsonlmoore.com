@@ -82,7 +82,6 @@ cloudinary:
   cloud_name: judsonlmoore-com
   only_prod: true
   verbose: false
-  figure: never
   presets:
     default:
       gravity: auto
@@ -90,7 +89,7 @@ cloudinary:
       focus: auto
       min_width: 256
       max_width: 1024
-      figure: auto
+      figure: never
       attributes:
         class: "img-fluid"
         loading: "lazy"
