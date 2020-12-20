@@ -4,9 +4,6 @@ on:
   schedule:
     # 10 AM and 3 PM Everyday
     - cron: "00 10,15 * * *"
-  push:
-    branches:
-      - master
 
 jobs:
   build:
