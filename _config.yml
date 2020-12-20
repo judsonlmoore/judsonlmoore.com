@@ -69,7 +69,7 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      layout: "autopage_category"
+      layout: "autopage"
       permalink: /:basename/
   - scope:
       path: ""
@@ -142,7 +142,7 @@ autopages:
   enabled: true
   categories: 
     layouts: 
-      - 'autopage_category.html'
+      - 'autopage.html'
     title: 'Posts in category :cat'
     permalink: '/category/:cat'
     slugify:
@@ -150,7 +150,7 @@ autopages:
       case: true
   tags:
     layouts: 
-      - 'autopage_category.html'
+      - 'autopage.html'
     title: 'Posts tagged with :tag' # :tag is replaced by the tag name
     permalink: '/tag/:tag'
     slugify:

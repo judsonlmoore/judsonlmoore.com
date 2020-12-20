@@ -1,12 +1,39 @@
-<div class="col mb-3">
-	<div class="card h-100">
-		{% if post.image %}
-  	{% cloudinary {{ post.image | relative_url }} alt="{{ post.title }}" %}
-  	{% endif %}
-    <div class="card-body">
-      <h5 class="card-title">{{ post.title }}</h5>
-      <p class="card-text mb-0">{{ post.excerpt | strip_html | truncatewords:20 }}</p>
-  		<a href="{{ post.url | relative_url }}" class="stretched-link"></a>
+<!-- post classic block --> 
+<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+  <div class="mb-8">
+    {% if post.image %}
+    <div class="mb-4">
+      <a href="{{ post.url | absolute_url }}">
+        <div class="img-zoom">
+          {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
+        </div>
+      </a>
     </div>
-	</div>
+    {% endif %}
+
+    {% if post.podcast-name %}
+    <span class="mb-3 text-secondary font-weight-bold d-block">{{ post.podcast-name }}</span>
+    {% elsif post.categories %}
+    {% assign sortedCategories = post.categories | sort %}
+    {% for category in sortedCategories limit:1 %}
+    <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ category }}</a>
+    {% endfor %}
+    {% endif %}
+    <a href="{{ post.url | absolute_url }}">
+      <h3 class="mb-3">
+        {{ post.title | escape }}
+      </h3>
+    </a>
+    <div class="mb-3">
+      <div class="font-14">
+        <span class="mr-2">{{ post.date | date_to_string }}</span>
+        {% if post.duration %}
+        <span>{{ post.duration }}</span>
+        {% elsif post.author %}
+        {% assign author = site.authors | where: 'short_name', post.author | first %}
+        <span>Posted by <a href="{{ author.url }}">{{ author.name }}</a></span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
 </div>

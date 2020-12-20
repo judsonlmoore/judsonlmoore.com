@@ -1,7 +1,7 @@
 ---
 title:					Rotary International
 description:		The organization that shaped and launched me
-layout:					autopage_category
+layout:					autopage
 image:					
 pagination: 
   enabled: true

@@ -43,8 +43,8 @@ post_class:     post-template
               </div>
             </div>
             <p>
-              {{ author.content | strip_html }} {% if author.twitter %}Follow me on <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.facebook %}Find me on
-              <a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"> facebook</a>.{% endif %}
+              {{ author.content | strip_html }} {% if author.links.twitter %}Follow me on <a href="{{ author.links.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.links.facebook %}Find me on
+              <a href="{{ author.links.facebook }}" target="_blank"> facebook</a>.{% endif %}
             </p>
             <a href="{{ author.url }}" class="btn-link">View All Post</a>
           </div>

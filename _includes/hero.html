@@ -29,7 +29,7 @@
             {% if page.categories %}
             {% assign sortedCategories = page.categories | sort %}
             {% for category in sortedCategories limit:1 %}
-            <a href="{{ category | slugify | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold">{{ category }}</a>
+            <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold">{{ category }}</a>
             {% endfor %}
             {% endif %}
             {% endif %}
@@ -37,7 +37,7 @@
             <!-- Post / page title -->
             <h1 class="mb-3 display-4 text-white">
               {% if page.autopages.display_name %}
-                {{ page.autopages.display_name }}
+                {{ page.autopages.display_name | capitalize }}
               {% else %}
                 {{ page.title }}
               {% endif %}

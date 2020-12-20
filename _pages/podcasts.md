@@ -1,5 +1,5 @@
 ---
-layout: podcast-thumbnail
+layout: autopage
 permalink: /podcasts
 title: Podcasts
 description: Listen to podcast episodes Judson L Moore has been featured in.
@@ -9,4 +9,4 @@ pagination:
   tag: podcast
 ---
 
-Here is some content just incase I ever wanted to add some. 
+I've had the honor to share my story, philosophies, and other musings on various podcasts. When possible, I share those podcast episodes here. Please consider subscribing to these podcasts.

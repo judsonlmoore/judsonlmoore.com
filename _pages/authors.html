@@ -8,16 +8,85 @@ image:          /assets/images/team-hero-img.jpg
 <div class="row">
 
   {% for author in site.authors %}
-  <div class="col-lg-4 col-md-4 col-12">
-    <div class="mb-4">
-    	{% cloudinary {{ author.avatar | absolute_url }} alt="" class="img-fluid w-100 mb-3 rounded-lg" %}
-      <h4 class="mb-0">
-        {{ author.name }}
-      </h4>
-      <span class="font-14">{{ author.position }}</span>
-      <a href="{{ author.url }}" class="stretched-link"></a>
+  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 col-12 mb-4">
+    <div class="card-deck">
+      <div class="card rounded-lg">
+        <div class="card-body p-4">
+          <div class="text-center">
+
+            {% cloudinary {{ author.avatar | absolute_url }} alt="{{ author.name }}" class="avatar-xxl rounded-circle mb-3" %}
+
+            <div class="">
+              <p class="badge badge-primary-soft mb-3">{{ author.position}}</p>
+              <h4 class="mb-0">{{ author.name }}</h4>
+              <small>{{ author.location }}</small>
+            </div>
+
+            <div class="row mt-4">
+
+              {% for item in author.links limit:4 %}
+              {% if item.facebook %}
+              <div class="col">
+                <a href="{{ item.facebook }}" alt="Visit {{ author.name }} on facebook" target="_blank">
+                  <i class="fab fa-facebook-f mb-2 d-block font-24"></i>
+                </a>
+              </div>
+              {% endif %}
+              {% if item.twitter %}
+              <div class="col">
+                <a href="{{ item.twitter }}" alt="Visit {{ author.name }} on twitter" target="_blank">
+                  <i class="fab fa-twitter mb-2 d-block font-24"></i>
+                </a>
+              </div>
+              {% endif %}
+              {% if item.instagram %}
+              <div class="col">
+                <a href="{{ item.instagram }}" alt="Visit {{ author.name }} on instagram" target="_blank">
+                  <i class="fab fa-instagram mb-2 d-block font-24"></i>
+                </a>
+              </div>
+              {% endif %}
+              {% if item.web %}
+              <div class="col">
+                <a href="{{ item.web }}" alt="Visit {{ author.name }} on their website" target="_blank">
+                  <i class="fas fa-globe mb-2 d-block font-24"></i>
+                </a>
+              </div>
+              {% endif %}
+              {% if item.linkedin %}
+              <div class="col">
+                <a href="{{ item.linkedin }}" alt="Visit {{ author.name }} on linkedin" target="_blank">
+                  <i class="fab fa-linkedin-in mb-2 d-block font-24"></i>
+                </a>
+              </div>
+              {% endif %}
+              {% if item.youtube %}
+              <div class="col">
+                <a href="{{ item.youtube }}" alt="Visit {{ author.name }} on youtube" target="_blank">
+                  <i class="fab fa-youtube mb-2 d-block font-24"></i>
+                </a>
+              </div>
+              {% endif %}
+              {% if item.pintrest %}
+              <div class="col">
+                <a href="{{ item.pintrest }}" alt="Visit {{ author.name }} on pintrest" target="_blank">
+                  <i class="fab fa-pinterest mb-2 d-block font-24"></i>
+                </a>
+              </div>
+              {% endif %}
+              {% endfor %}
+
+            </div>
+
+            <a href="{{ author.url | absolute_url }}" class="btn btn-outline-primary btn-sm mt-3">View profile</a>
+
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   {% endfor %}
+
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>

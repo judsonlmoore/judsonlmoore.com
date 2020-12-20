@@ -3,7 +3,7 @@ title: 			Product Management
 subtitle: 		The art of delivering user value
 description: 	I am a product management professional with 20+ years of experience. Here are some best practices I've picked up along the way
 permalink: 		"/product-management/"
-layout: 		autopage_category
+layout: 		autopage
 category: 		product management
 image: 			/assets/images/2020/05/judson-moore-speaking-at-becoming-ebay-in-berlin.jpg
 pagination: 
