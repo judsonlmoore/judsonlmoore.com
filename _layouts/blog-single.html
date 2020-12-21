@@ -13,20 +13,17 @@ post_class:     post-template
     <div class="row">
       <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-sm-12 col-12">
         <div class="mb-4">
-          {% if page.toc != false %}
-          <!-- Toc -->
-          <div class="toc">
-            <h3>In this post...</h3>
-            {% assign my_min = page.toc_min | default: site.toc_min | default: 1 %} {% assign my_max = page.toc_max | default: site.toc_max | default: 2 %} {% include toc.html html=content sanitize=true h_min=my_min h_max=my_max %}
-          </div>
-          <!-- End Toc -->
-          {% endif %} 
 
           {{ content }} 
 
-          {% for tag in post.tags limit:5 %}
-          <a href="{{ site.url }}/tag/{{ tag | slugify }}/" class="badge bg-secondary-soft text-uppercase font-weight-bold">{{ tag }}</a>
+          {% if page.tags contains "brazil" %}
+          <p>This post sponsored by <a href="http://visitbrasil.com/" target="_blank">visitbrasil.com</a>, the Official Brazillian Tourism Website</p>
+          {% endif %}
+
+          {% for tag in page.tags limit:5 %}
+          <a href="{{ tag | slugify | prepend:'/tag/' | absolute_url }}" class="badge badge-secondary">{{ tag }}</a>
           {% endfor %}
+
         </div>
         {% if page.author %}
         {% assign author = site.authors | where: 'short_name', page.author | first %} 
@@ -183,21 +180,3 @@ post_class:     post-template
     </div>
   </div>
 </div>
-
-<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: https://search.google.com/test/rich-results -->
-
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org/",
-    "@type": "BlogPosting",
-    "itemReviewed": {
-      "@type": "Thing",
-      "name": "{{ page.title }}"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "{{ author.display_name }}"
-    },
-    "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-  }
-</script>

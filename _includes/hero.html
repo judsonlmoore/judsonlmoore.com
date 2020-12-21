@@ -24,19 +24,25 @@
           <!-- If not the homepage -->
           {% else %}
 
-            <!-- Post category -->
+            <!-- Podcast name -->            
             {% if page.is_post == true %}
-            {% if page.categories %}
-            {% assign sortedCategories = page.categories | sort %}
+            {% if page.podcast-name %}
+            <h1 class="h5 mb-8 text-white">{{ page.podcast-name }}</h1>
+
+            <!-- Post category -->
+            {% elsif page.categories %}
+            {% assign sortedCategories = page.categories | sort_natural %}
             {% for category in sortedCategories limit:1 %}
             <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold">{{ category }}</a>
             {% endfor %}
             {% endif %}
             {% endif %}
 
-            <!-- Post / page title -->
+            <!-- Post / page / podcast episode title -->
             <h1 class="mb-3 display-4 text-white">
-              {% if page.autopages.display_name %}
+              {% if page.episode-name %}
+                {{ page.episode-name }}
+              {% elsif page.autopages.display_name %}
                 {{ page.autopages.display_name | capitalize }}
               {% else %}
                 {{ page.title }}
@@ -79,6 +85,11 @@
                 {% if page.author %}
                 {% assign author = site.authors | where: 'short_name', page.author | first %}
                 <span class="mr-2">Posted by <a href="{{ author.url | absolute_url }}">{{ author.name }}</a></span>
+                {% endif %}
+
+                <!-- Podcast duration -->
+                {% if page.duration %}
+                <span>{{ page.duration }}</span>
                 {% endif %}
 
               {% endif %}

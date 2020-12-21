@@ -15,17 +15,6 @@ duration: 41 mins 2 secs
 apple-podcasts: https://podcasts.apple.com/us/podcast/peace-corps-volunteer-judson-moore-shares-his-kyrgyzstan/id1037475413?i=1000401586317
 google-podcasts: 
 spotify: 
-notes:
- - timestamp: 1:01
-   note: Thing 1
- - timestamp: 2:00
-   note: Thing 2
- - timestamp: 3:00
-   note: Thing 3
- - timestamp: 4:00
-   note: Thing 4
- - timestamp: 5:00
-   note: Thing 5
 ---
 
 [The Without a Path Podcast](https://withoutapath.com/) with the American writer, traveler, and meddler Joe Baur is chock full of intriguing chats with creative types, adventurers, and the occasional story of hope for humanity. Guests share stories about the travels which has helped define their lives in this weekly travel podcast. **I highly encourage you to subscribe to** the [Without A Path Podcast on iTunes](https://podcasts.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).

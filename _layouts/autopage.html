@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 {% include hero.html %}
 
 <div class="py-lg-12 py-10">
@@ -14,7 +13,9 @@ layout: default
     <div class="row">
       <div class="col-12">
         <div class="mb-8">
+
           {{ content | markdownify }}
+
         </div>
       </div>
     </div>

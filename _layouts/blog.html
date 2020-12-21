@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 {% include hero.html %}
 
 <!-- blog post -->
@@ -42,7 +41,7 @@ layout: default
         <div class="card text-white border-0">
           {% cloudinary {{ post.image }} alt="{{ post.title }}" class="card-img" %}
           <div class="card-img-overlay text-white d-lg-flex flex-column justify-content-end py-md-8 px-md-10 p-2">
-            {% assign sortedCategories = post.categories | sort %}
+            {% assign sortedCategories = post.categories | sort_natural %}
             {% for category in sortedCategories limit:1 %}
             <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold">{{ category | limit:1 }}</a>
             {% endfor %}

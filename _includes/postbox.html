@@ -14,7 +14,7 @@
     {% if post.podcast-name %}
     <span class="mb-3 text-secondary font-weight-bold d-block">{{ post.podcast-name }}</span>
     {% elsif post.categories %}
-    {% assign sortedCategories = post.categories | sort %}
+    {% assign sortedCategories = post.categories | sort_natural %}
     {% for category in sortedCategories limit:1 %}
     <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ category }}</a>
     {% endfor %}

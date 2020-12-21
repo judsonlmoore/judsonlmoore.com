@@ -6,36 +6,14 @@ image:        ../assets/images/contact-hero-img.jpg
 ---
 
 
-<!-- hero section -->
-<div 
-  class="bg-shape bg-cover bg-dark" 
-  {% if page.image %}
-    style="{% include cloudinary-bg-image.html %}"
-  {% endif %}
->
-  <div class="container">
-    <div class="row">
-      <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
-        <div class="text-center py-lg-16 py-12">
-          <h1 class="mb-3 display-4 text-white">
-            {{ page.title }}
-          </h1>
-          {% if page.description %}
-          <p class="lead text-light mb-4 mb-lg-0">
-            {{ page.description }}
-          </p>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+{% include hero.html %}
 
 <!-- conact form -->
 <div class="pb-14">
   <div class="container">
     <div class="row">
       <div class="offset-lg-2 col-lg-8 col-md-12 col-12">
+
         <div class="card mt-n12 text-center mb-12">
           <div class="card-body p-4 p-lg-8">
             <div class="mb-5">
@@ -44,10 +22,6 @@ image:        ../assets/images/contact-hero-img.jpg
                 If you are looking for advice, please fill out this form. We will find you and get in touch.
               </p>
             </div>
-
-
-
-
 
             <form class="row" role="form" action="https://formspree.io/mvoqvgjo" method="post">
               <div class="from-group col-md-6 col-12 mb-3">
@@ -78,8 +52,10 @@ image:        ../assets/images/contact-hero-img.jpg
                 </button>
               </div>
             </form>
+
           </div>
         </div>
+
         <!-- contact info -->
         <div class="row">
           <div class="col-lg-4 col-md-4 col-12">
@@ -101,6 +77,7 @@ image:        ../assets/images/contact-hero-img.jpg
             </div>
           </div>
         </div>
+
         <!-- social media -->
         <div class="row">
           <div class="offset-lg-3 col-lg-6 col-md-12 col-12">
@@ -136,6 +113,7 @@ image:        ../assets/images/contact-hero-img.jpg
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </div>

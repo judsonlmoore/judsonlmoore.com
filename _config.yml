@@ -151,8 +151,16 @@ autopages:
   tags:
     layouts: 
       - 'autopage.html'
-    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    title: 'Posts tagged with :tag'
     permalink: '/tag/:tag'
     slugify:
-      mode: 'default'   # :tag is slugified.
+      mode: 'default'
       case: true
+  collections:
+    layouts: 
+      - 'autopage.html'
+    title: 'Posts in collection :coll'
+    permalink: '/collection/:coll'
+    slugify:
+      mode: 'default'
+      case: true 

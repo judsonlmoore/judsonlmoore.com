@@ -14,17 +14,6 @@ duration: 38 mins 11 secs
 apple-podcasts: https://itunes.apple.com/us/podcast/expat-sandwich/id1205730536?mt=2&i=1000391839858
 google-podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9leHBhdHNhbmR3aWNoLmxpYnN5bi5jb20vcnNz/episode/MjgzNzI4ZmRjMWY3ZmViY2Y5YmRjMTlkOWQ5ZGE5YzY
 spotify: https://open.spotify.com/episode/7bF2Emv8PYTeUgCGCKck9F?si=EBVd_U5KQIm21IjYuKyqYQ
-notes:
- - timestamp: 1:01
-   note: Thing 1
- - timestamp: 2:00
-   note: Thing 2
- - timestamp: 3:00
-   note: Thing 3
- - timestamp: 4:00
-   note: Thing 4
- - timestamp: 5:00
-   note: Thing 5
 ---
 
 [The Expat Sandwich Podcast](http://expatsandwich.com/) features Americans living abroad and the crazy antics that they encounter around the world. The show's producer, Marty Walker, and I had a wonderful time talking and she did a brilliant job of presenting my story on her podcast. You can play the episode below, but **I highly encourage you to subscribe to the podcast** and leave it a 5-star review [on iTunes](https://itunes.apple.com/us/podcast/expat-sandwich/id1205730536?mt=2).

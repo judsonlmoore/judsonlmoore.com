@@ -2,25 +2,9 @@
 layout: default
 ---
 
-
-<div class="bg-shape bg-cover" style="{% include cloudinary-bg-image.html %}">
-  <div class="container">
-    <div class="row">
-      <div class="offset-lg-1 col-lg-10 col-md-12 col-12">
-        <div class="py-13 pt-lg-16 pb-lg-14 text-center text-light">
-          <h1 class="h5 mb-8 text-white">{{ page.podcast-name }}</h1>
-          <h1 class="font-weight-bold text-white mb-3 display-4">
-            {{ page.episode-name }}
-          </h1>
-          <p class="mb-0 font-12 font-weight-bold"><span class="mr-3">{{ page.date | date_to_string }}</span><span>{{ page.duration }}</span></p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+{% include hero.html %}
 
 <!-- podcast details -->
-
 <div class="py-lg-12 py-10">
   <div class="container">
     <div class="row">
@@ -58,6 +42,8 @@ layout: default
           {{ content }}
 
         </div>
+
+        {% if page.notes %}
         <div class="mb-8">
           <h3 class="mb-4">In this episode, you will hear:</h3>
           <ul class="list-group">
@@ -73,6 +59,8 @@ layout: default
             {% endfor %}
           </ul>
         </div>
+        {% endif %}
+
         <div class="mb-0">
           <h3 class="mb-4">Share</h3>
 
