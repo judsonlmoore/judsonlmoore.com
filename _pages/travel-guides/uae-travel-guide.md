@@ -6,8 +6,8 @@ category:					united arab emirates
 image:						/assets/images/2015/01/IMG_3707.jpg
 permalink: 				'/united-arab-emirates-travel-guide/'
 pagination: 
-  enabled: true
-  tag: 'united arab emirates'
+  enabled: 				true
+  tag: 						'united arab emirates'
 ---
 
 ## The opulence of the desert on a backpacker budget

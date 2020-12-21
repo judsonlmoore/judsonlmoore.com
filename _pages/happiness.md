@@ -1,14 +1,14 @@
 ---
-title:			Achieving Happiness
-subtitle:		Philosophies to live your life by
-description:	There are several principles, philosophies really, by which I have come to live my life. By following these philosophies, the result in your life is Exponential Happiness.
-permalink:		"/happiness/"
-layout:			autopage
-category:		happiness
-image:			/assets/images/2019/05/exponential-happiness-background.jpg
+title:						Achieving Happiness
+subtitle:					Philosophies to live your life by
+description:			There are several principles, philosophies really, by which I have come to live my life. By following these philosophies, the result in your life is Exponential Happiness.
+permalink:				"/happiness/"
+layout:						autopage
+category:					happiness
+image:						/assets/images/2019/05/exponential-happiness-background.jpg
 pagination: 
-  enabled: true
-  tag: happiness
+  enabled: 				true
+  tag: 						happiness
 ---
 
 
@@ -18,7 +18,7 @@ There are several principles, philosophies really, by which I have come to live 
 
 ### 6 Philosophies to live your life by
 
-Here are the 6 philophies by which I strive to live my life by every day. 
+Here are the six philosophies by which I strive to live my life every day. 
 
 - [Find your *what if* and live it every day](/the-first-philosophy-find-your-what-if/)
 - [Show up](/the-second-philosophy-show-up/)
@@ -29,4 +29,4 @@ Here are the 6 philophies by which I strive to live my life by every day.
 
 By following these philosophies, the result in your life is ***exponential happiness***.
 
-To learn more, read the posts below where I go into greater detail about each of these philosophies. If they touch you, then I invite you to take a deeper dive with my book, [*Exponential Happiness*](/book/).
+To learn more, read the posts below where I go into greater detail about each of these philosophies. If they touch you, I invite you to dive deeper with my book, [*Exponential Happiness*](/book/).

@@ -6,8 +6,8 @@ category:					switzerland
 permalink: 				'/switzerland-travel-guide/'
 image:						/assets/images/2015/10/switzerland-capital-dome.jpg
 pagination: 
-  enabled: true
-  tag: switzerland
+  enabled: 				true
+  tag: 						switzerland
 ---
 
 ## Switzerland is as delicious as it is beautiful 

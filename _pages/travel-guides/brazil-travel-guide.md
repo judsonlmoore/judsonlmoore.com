@@ -5,8 +5,8 @@ description:			Plan your visit to Brazil and find out where to go and what to do
 image:						/assets/images/2015/10/ouro-preto.jpg
 permalink: 				'/brazil-travel-guide/'
 pagination: 
-  enabled: true
-  tag: brazil
+  enabled: 				true
+  tag: 						brazil
 ---
 
 

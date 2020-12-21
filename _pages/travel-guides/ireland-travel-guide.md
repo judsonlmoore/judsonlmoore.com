@@ -6,8 +6,8 @@ category:					ireland
 permalink: 				'/ireland-travel-guide/'
 image:						/assets/images/2020/02/ireland-donegal-giants-causeway-006.jpg
 pagination: 
-  enabled: true
-  tag: ireland
+  enabled: 				true
+  tag: 						ireland
 ---
 
 ## I learned that I am Irish!

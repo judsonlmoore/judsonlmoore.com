@@ -6,8 +6,8 @@ category:					colombia
 permalink: 				'/colombia-travel-guide/'
 image:						/assets/images/2014/11/IMG_2650.jpg
 pagination: 
-  enabled: true
-  tag: colombia
+  enabled: 				true
+  tag: 						colombia
 ---
 
 ## Colombia is a gateway to the soul

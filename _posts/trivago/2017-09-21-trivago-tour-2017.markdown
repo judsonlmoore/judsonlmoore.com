@@ -1,6 +1,6 @@
 ---
-title:			trivago on Tour - Cruise 2017 to Norway and Denmark
-categories:		blog
+title:						trivago on Tour - Cruise 2017 to Norway and Denmark
+categories:				blog
 tags:
   - #lifeattrivago
   - copenhagen
@@ -8,8 +8,8 @@ tags:
   - norway
   - road trip
   - travel tale
-excerpt:		The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about the surprise concerts, unknown destinations, and jumping with moose.
-image:			/assets/images/2017/10/trivago-on-tour-2017-sign-at-lake.jpg
+excerpt:					The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about the surprise concerts, unknown destinations, and jumping with moose.
+image:						/assets/images/2017/10/trivago-on-tour-2017-sign-at-lake.jpg
 ---
 
 
@@ -27,7 +27,7 @@ I have had the good fortune to work at **one of Europe’s best companies** for 
 
 Before I dig into what we did this year during *trivago on Tour*, let me address the question I always get: **why does trivago do this?** Well, I think there are a few reasons trivago invests in this tour experience, but the more obvious one is to foster personal relationships among employees. 
 
-Everything about the trip, from our roommate assignment, group activities, and seat buddies on the train, are assigned at random. This random assignment ensures that we are exposed to people that we may otherwise never meet as the company rapidly grows. Fostering relationships between employees has enormous value in the longterm development of the company, even if it is not always an obvious pairing in the beginning.
+Everything about the trip, from our roommate assignment, group activities, and seat buddies on the train, is assigned randomly. This random assignment ensures that we interact with people that we may otherwise never meet as the company rapidly grows. Fostering relationships between employees has enormous value in the company’s long-term development, even if it is not always an obvious pairing in the beginning.
 
 **Kudos to you trivago** for making this kind of social investment in your people.
 
@@ -37,11 +37,11 @@ Everything about the trip, from our roommate assignment, group activities, and s
 
 We started this year’s *trivago on Tour* at 3:00 am from the Düsseldorf central train station. Our private train was a Deutsche Bahn classic, which looked like it hadn’t seen service for a while, but I was exhausted enough to put my head down and sleep for most of **the 7-hour journey**. There were two trains, each with about a dozen train cars. I was in a standard train car but later learned some people had the good fortune of sleeper cars. Maybe next year!
 
-We had food catered to our seats for the journey, and there was also a dining car, but I never made it down there. At the end of the ride, I learned that there had also been a party car, but I had no energy for that. As you will read later, **I made up for this on the way home**.
+We had food catered to our seats for the journey, and there was also a dining car, but I never made it down there. After arriving, I learned that there had also been a party car, but I had no energy for that. As you will read later, **I made up for this on the way home**.
 
-One note here on the random seat assignments: the train car I was in had no beds, so it was one of the less comfortable options of the train, and yet seated across from me was out founder and CEO, Rolf Schrömgens. trivago’s random seat assignments make no exceptions, even for those you think might be able to influence their way into higher comfort. 
+One note here on the random seat assignments: the train car I was in had no beds, so it was one of the less comfortable options of the train, and yet seated across from me was our founder and CEO, Rolf Schrömgens. trivago’s random seat assignments make no exceptions, even for those you think might be able to influence their way into higher comfort. 
 
-There are many examples of this kind of non-elitism demonstrated by the trivago leadership, but I felt that in this particularly uncomfortable, long, middle of the night, train ride, the founder might opt-in to a little better sleep. **So good on you, Rolf. Good on you.**
+There are many examples of this kind of non-elitism demonstrated by trivago leadership. Still, I felt that the founder might opt-in to a little better sleep in this incredibly uncomfortable, long, middle of the night train ride. **So good on you, Rolf. Good on you.**
 
 {% cloudinary /assets/images/2017/10/trivago-on-tour-2017-train.jpg alt="The *trivago on Tour* 2017 train" %}
 
@@ -51,19 +51,19 @@ For the next four days, we will call the AIDAmar cruise ship home! **This modern
 
 This was my first cruise, and I had no idea what to expect. The security is far more extensive than at the airport, even asking health-related questions about recent illness. I had to turn over my passport and residency card, which didn’t please me that much as it came as a surprise, but I went along with the protocol without argument. Once I passed through all of that, **there was a glass of champagne awaiting me**, which I drank as I listened to a band perform on my way to boarding the ship.
 
-We were paired up with a roommate for the journey, but mine didn’t show up. On one side, **I very much enjoyed having a cabin to myself**, especially since I arrived exhausted and instantly needed to take a nap for a few hours. But there is a lot to be said for the energy you get from having a roommate while on tour, so if I had it to do over again in the way of my choosing, I would probably stick to having the roommate present.
+We were matched with a roommate for the journey, but mine didn’t show up. On one side, **I very much enjoyed having a cabin to myself**, especially since I arrived exhausted and instantly needed to take a nap for a few hours. But there is a lot to be said for the energy you get from having a roommate while on tour, so if I had it to do over again in the way of my choosing, I would probably stick to having the roommate present.
 
 Once I recovered from my long journey, I got up and showered. I was confident that the boat was still at the port as there were zero detectable movements. So when I threw back the curtains and **saw the sea speeding by my balcony** with no land in sight, I was quite surprised!
 
-The AIDAmar has everything. An indoor concert hall and theater, a rooftop pool deck with concert amphitheater, plenty of bars and restaurants, a casino, duty-free shopping, a spa, game rooms, lounges, a disco, and the list goes on and on. Of course, the venue being great is one thing, but **what makes it special are the people**. The crew was super amazing and always going the extra mile for us. Of course, my trivago colleagues were a pleasure to hang out with, as always, and the onboard entertainment we would experience while we cruised around the Nordics was world-class.
+The AIDAmar has everything. An indoor concert hall and theater, a rooftop pool deck with concert amphitheater, plenty of bars and restaurants, a casino, duty-free shopping, a spa, game rooms, lounges, a disco, and the list goes on and on. Of course, the venue being great is one thing but **what makes it special are the people**. The crew was super amazing and always going the extra mile for us. Of course, my trivago colleagues were a pleasure to hang out with, as always, and the onboard entertainment we would experience while we cruised around the Nordics was world-class.
 
 {% cloudinary /assets/images/2017/10/trivago-on-tour-2017-cruise-ship.jpg alt="*trivago on Tour* is on a cruise ship" %}
 
 ## Mando Diao makes a surprise concert
 
-Just because we now know that we will be taking a cruise for *trivago on Tour*, that does not mean that all the secrets were revealed. **We do not know precisely where we are headed**, and we do not know what surprises might be awaiting us.
+Just because we now know that we will be taking a cruise for *trivago on Tour*, that does not mean that all the secrets have been revealed. **We do not know precisely where we are going**, and we do not know what surprises might be awaiting us.
 
-On our first night, we headed to the rooftop pool deck and amphitheater for a special surprise after dinner. We arrived to find that an unnamed band was set up to perform. Being a musician myself with a background in concert production, I could quickly tell that **this was a well-funded show** and would likely have the talent to match.
+We headed to the rooftop pool deck and amphitheater for a special surprise after dinner on our first night. We arrived to find that an unnamed band was set up to perform. Being a musician myself with a background in concert production, I could quickly tell that **this was a well-funded show** and would likely have the talent to match.
 
 As the clock struck 10:00 pm, a stagehand walked out and pulled the backdrop into position to reveal that the band to perform was **the Swedish rock band, Mando Diao**. The crowd went crazy. A minute later, the intro music started up, and the band took to the stage. I was front and center for the show and got an amazing video of their first song. Here is Mando Diao performing *Down in the Past* as their opening song for *trivago on Tour 2017*:
 
@@ -73,11 +73,11 @@ As the clock struck 10:00 pm, a stagehand walked out and pulled the backdrop int
 
 ## Hiking in Norway with perfect weather
 
-On day one, I woke up to find that the ship is still sailing. I check my GPS and see that **we have passed Oslo**. Oslo was everyone’s top guess for our destination, so this did come as a surprise. I made myself ready for the day, got some breakfast, and then went to the upper deck to take a look around. Before long, we came to the quaint port of **Kristiansand, Norway**.
+On day one, I woke up to find that the ship is still sailing. I check my GPS and see that **we have passed Oslo**. Oslo was everyone’s top guess for our destination, so this did come as a surprise. I made myself ready for the day, got some breakfast, and then went to the upper deck to look around. Before long, we came to the quaint port of **Kristiansand, Norway**.
 
-Kristiansand is a small town. I learned from a local that the town is known for being “**the sunniest city in Norway**.” As we got off the boat, we were greeted by a delegation of traditionally-dressed Norwegian flag bearers, and a moose. The weather was perfect for being outside, which was great because we were **going for a hike.**
+Kristiansand is a small town. I learned from a local that the town is known for being “**the sunniest city in Norway**.” As we got off the boat, a delegation of traditionally-dressed Norwegian flag bearers and a moose greeted us. The weather was perfect for being outside, which was great because we were **going for a hike.**
 
-Our hike wound us through about 5 miles of **pristine nature** in the Baneheia Park. This park was constructed starting in 1860 and is well planned-out with lakes, trails, dining and toilet facilities. I have so many great things to say about it, that **I wrote a whole post** about how to spend a day in Norway.
+Our hike wound us through about 5 miles of **pristine nature** in Baneheia Park. This park was constructed starting in 1860 and is well planned-out with lakes, trails, dining, and toilet facilities. I have so many great things to say about it that **I wrote a whole post** about how to spend a day in Norway.
 
 **Further reading: [How to spend a day in Norway: Hiking in Baneheia Park in Kristiansand](/baneheia-kristiansand-norway/)**
 
@@ -85,13 +85,13 @@ Our hike wound us through about 5 miles of **pristine nature** in the Baneheia P
 
 ## A bicycle tour of Copenhagen
 
-On day two of *trivago on Tour*, **we arrived in Copenhagen.** This was of particular excitement to me, because my ancestors came to America from Denmark.
+On day two of *trivago on Tour*, **we arrived in Copenhagen.** This was of particular excitement to me because my ancestors came to America from Denmark.
 
 We were provided with several activities to choose from, including a beer tasting, a street food festival, a fast boat ride, and a bike ride. **I opted-in for the Copenhagen bike ride.**
 
 The **8-mile** bike ride through the capital of Denmark was met again with perfect weather. We visited the queen’s residence, the royal boatyard, Christianshavn, the royal library, the meatpacking district, and the world’s second-oldest amusement park: Tivoli.
 
-**Fun fact**: in the Danish language, the only time that the formal “you” is used is when addressing or referring to the queen. To all other people, the informal “you” is used instead.
+**Fun fact**: in the Danish language, the only time the formal “you” is used is to address or refer to the queen. All other people are addressed with the informal “you” instead.
 
 **Further reading: [How to spend a day in Denmark: A bike tour of Copenhagen](/bike-tour-copenhagen/)**
 
@@ -109,8 +109,8 @@ Words can not describe how insane this was. So let me show you in this video:
 
 ## Exhausted. Happy.
 
-What do you think? Could you handle *trivago on Tour*? **Maybe you can join next year!** If you want to join me in 2018, just take a look at [the open careers at trivago](https://company.trivago.com/open-positions). If anything looks interesting to you, let me know, and I will be happy to chat with you about a career in trivago.
+What do you think? Could you handle *trivago on Tour*? **Maybe you can join next year!** If you want to join me in 2018, take a look at [the open careers at trivago](https://company.trivago.com/open-positions). If anything looks interesting to you, let me know, and I will be happy to chat with you about a career in trivago.
 
-Have you ever been on a cruise? A party train? Norway or Denmark? Have you ever been on a company trip quite as intense as this? If so, **I would love to hear from you!** Just leave a comment below, and be sure to follow me on Twitter at [@judsonlmoore](https://www.twitter.com/judsonlmoore/). Until the next trip, travel well!
+Have you ever been on a cruise? A party train? Norway or Denmark? Have you ever been on a company trip quite as intense as this? If so, **I would love to hear from you!** leave a comment below, and be sure to follow me on Twitter at [@judsonlmoore](https://www.twitter.com/judsonlmoore/). Until the next trip, travel well!
 
 *The opinions expressed in this article are my own and not the views of my employer, trivago.*

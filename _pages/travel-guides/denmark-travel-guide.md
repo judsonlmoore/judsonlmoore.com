@@ -6,8 +6,8 @@ category:					denmark
 permalink: 				'/denmark-travel-guide/'
 image:						/assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg
 pagination: 
-  enabled: true
-  tag: denmark
+  enabled: 				true
+  tag: 						denmark
 ---
 
 ## Piecing together the home of Lego

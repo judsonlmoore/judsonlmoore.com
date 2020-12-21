@@ -6,8 +6,8 @@ category:					germany
 permalink: 				'/germany-travel-guide/'
 image:						/assets/images/2015/10/IMG_4676.jpg
 pagination: 
-  enabled: true
-  tag: germany
+  enabled: 				true
+  tag: 						germany
 ---
 
 ## More than wienerschnitzel and bratwurst
