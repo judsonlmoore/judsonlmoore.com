@@ -13,13 +13,17 @@ layout: default
       <div class="col-md-8">
         <div class="navbar-scroll">
           <ul>
+
+
+
             {% for category in site.categories %} 
             {% assign cat_name = category[0] %} 
             {% if forloop.first %}
-            <li><a class="active pl-0" href="{{ 'category' | slugify | absolute_url }}">{{ cat_name | join: " " }}</a></li>
+            <li><a class="active pl-0" href="{{ cat_name | slugify | prepend:'/category/' | absolute_url }}">{{ cat_name | join: " " }}</a></li>
             {% else %}
-            <li><a href="{{ 'category' | slugify | absolute_url }}">{{ cat_name | join: " " }}</a></li>
-            {% endif %} {% endfor %}
+            <li><a href="{{ cat_name | slugify | prepend:'/category/' | absolute_url }}">{{ cat_name | join: " " }}</a></li>
+            {% endif %} 
+            {% endfor %}
           </ul>
         </div>
       </div>
