@@ -2,7 +2,6 @@
 title:            Media Kit
 subtitle: 		    By the numbers
 description: 	    Whether you're looking for a speaker, partner, or author, there is a way for us to work together. See examples of my work and collaborations here and learn what the impact is by the numbers. 
-permalink:        "/mediakit/"
 layout: 		      about
 image:            /assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
 ---
@@ -45,7 +44,8 @@ Perhaps you are looking for an outlet for your voice. I am currently seeking gue
 
 Suppose you are looking for boots-on-the-ground experience and reviews of your destination or business. In that case, I can make myself available for a few days to come to you and make an in-depth analysis, review, interview, demonstration, or any range of other activities that suit your needs.
 
-- [Brazil travel posts](/brazil/) written in collaboration with [Visit Brasil](https://www.visitbrasil.com/), Brazil's official tourism website
+- [Brazil travel posts](/brazil-travel-guide/
+) written in collaboration with [Visit Brasil](https://www.visitbrasil.com/), Brazil's official tourism website
 - [An example proposal I made for the Kyrgyzstan Tourism Ministry](https://docs.google.com/document/d/1ekVHAuhlnPW0RbfJu2jaf8A-nZfnFMNDx9i-DJp0_jo/edit?usp=sharing)
 
 ## My audience

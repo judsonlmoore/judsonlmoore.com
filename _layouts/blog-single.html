@@ -21,7 +21,7 @@ post_class:     post-template
           {% endif %}
 
           {% for tag in page.tags limit:5 %}
-          <a href="{{ tag | slugify | prepend:'/tag/' | absolute_url }}" class="badge badge-secondary">{{ tag }}</a>
+          <a href="{{ tag | slugify | prepend:'/tag/' | absolute_url }}/" class="badge badge-secondary">{{ tag }}</a>
           {% endfor %}
 
         </div>

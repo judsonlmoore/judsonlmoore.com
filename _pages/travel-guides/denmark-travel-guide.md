@@ -2,7 +2,6 @@
 title:						Denmark Travel Guide
 subtitle:					The southernmost territory of Scandinavia
 description:			Plan your visit to Denmark and find out where to go and what to do in Denmark. Read about itineraries, activities, places to stay and travel essentials.
-category:					denmark
 permalink: 				'/denmark-travel-guide/'
 image:						/assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-canal-min.jpg
 pagination: 

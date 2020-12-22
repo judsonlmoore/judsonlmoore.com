@@ -21,6 +21,6 @@ The original location is just outside of town. If you get a chance, go to the o
 {% assign images = gallery["2014-11-10-andres-carne-de-res"] %}
 {% include gallery-lightbox.html images=images %}
 
-\*this is an excerpt from [a longer article](/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany/).
+\*this is an excerpt from [a longer article](/colombia-new-germany/) which tells the full story of my time in Colombia reuniting with friends from my [Rotary Youth Exchange year in Germany](/germany-travel-guide/).
 
 Have you eaten here or spent the whole night dancing away the calories? Please share your story in the comments below or message me directly at [@judsonlmoore](https://twitter.com/judsonlmoore)!

@@ -2,7 +2,6 @@
 title:						Guest authors
 subtitle:					Be a guest on my blog
 description:			Authors looking for a new audience may apply to publish their content on judsonlmoore.com. Learn more here. 
-permalink:				"/guest-author/"
 layout:						about
 image:						/assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
 ---

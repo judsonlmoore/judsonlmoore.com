@@ -1,7 +1,7 @@
 ---
 title:						About Judson
 description:			About Judson L Moore, the author of Exponential Happiness, travel addict, Rotarian, and product management professional.
-permalink:				"/about/"
+permalink:				"/about"
 layout:						about
 image:						/assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt.jpg
 ---

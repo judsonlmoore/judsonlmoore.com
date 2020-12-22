@@ -2,7 +2,6 @@
 title:						Kyrgyzstan Travel Guide
 subtitle:					A stunning land in Central Asia
 description:			Plan your visit to Kyrgyzstan and find out where to go and what to do in Kyrgyzstan. Read about itineraries, activities, places to stay and travel essentials.
-category:					kyrgyzstan
 permalink: 				'/kyrgyzstan-travel-guide/'
 image:						/assets/images/2018/02/without-a-path-judson-in-kyrgyzstan.jpg
 pagination: 

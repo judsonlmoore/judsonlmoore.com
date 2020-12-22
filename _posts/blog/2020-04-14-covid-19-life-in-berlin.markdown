@@ -32,7 +32,7 @@ Being next to the window is great for natural light and fresh air, while also mo
 
 ## Personal to-do list
 
-Though home office has been working out well, it is certainly not ideal that at the end of the workday, there is nowhere to go or anyone to meet. I've used this time to make progress on other projects, including [rebuilding my website and increasing its performance by 500%](/how-to-migrate-wordpress-to-jekyll/). I've also been outlining a lot of blog posts from past travel that I never got around to writing about, particularly about [my time in Egypt](/egypt/) (much more to come soon, be sure to [subscribe for updates](/subscribe/)).
+Though home office has been working out well, it is certainly not ideal that at the end of the workday, there is nowhere to go or anyone to meet. I've used this time to make progress on other projects, including [rebuilding my website and increasing its performance by 500%](/how-to-migrate-wordpress-to-jekyll/). I've also been outlining a lot of blog posts from past travel that I never got around to writing about, particularly about [my time in Egypt](/egypt-travel-guide/) (much more to come soon, be sure to [subscribe for updates](/subscribe/)).
 
 Now is an excellent time to be dreaming about the future and writing a plan for how to accomplish your goals. If you're wondering what the future might look like for you, then [here are some tips for writing a plan](/the-fourth-philosophy-a-bad-plan-is-better-than-no-plan/) that you can start to action today (even while in quarantine).
 

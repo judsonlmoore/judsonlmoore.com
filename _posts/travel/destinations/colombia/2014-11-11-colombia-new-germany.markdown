@@ -12,7 +12,7 @@ image:			/assets/images/2014/11/IMG_3606-Version-2.jpg
 
 ## A Reunion In Colombia
 
-I recently made a 12-day trip to Colombia to reunite with a few friends from my year as a [Rotary Youth Exchange Student](/germany/) in Germany. We visited several fantastic places around the country and had the best local insight available thanks to Alejandro Borda who organized our time in his country and made sure we were well-entertained.
+I recently made a 12-day trip to Colombia to reunite with a few friends from my year as a [Rotary Youth Exchange Student](/germany-travel-guide/) in Germany. We visited several fantastic places around the country and had the best local insight available thanks to Alejandro Borda who organized our time in his country and made sure we were well-entertained.
 
 ## Bogotá: The Capital of Colombia
 
@@ -86,7 +86,7 @@ A note about Lemonades: On every menu anywhere you will see a section for "Lemon
 
 ## Getting a Colombian SIM Card
 
-A good thing to note if you are traveling to Colombia is that Uber works very well in Bogotá but nowhere else. That said, you should get a SIM card with data when you land at the airport. The service provider I had is called Movistar. It cost me ~\$7 / week for 800 MB of data and was very reliable everywhere I went. Public WiFi isn't really a thing, and most coffee shop WiFi will want you to authenticate using a pin code that they send to your cell by SMS. So you need the service.
+A good thing to note if you are traveling to Colombia is that Uber works very well in Bogotá but nowhere else. That said, you should get a SIM card with data when you land at the airport. The service provider I had is called Movistar. It cost me \~\$7 / week for 800 MB of data and was very reliable everywhere I went. Public WiFi isn't really a thing, and most coffee shop WiFi will want you to authenticate using a pin code that they send to your cell by SMS. So you need the service.
 
 English isn't common, so bring a pocket translator with you (or use the Google Translate app if you get that data SIM card) if you don't have any Spanish skills.
 

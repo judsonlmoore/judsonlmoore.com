@@ -2,7 +2,6 @@
 title:						Jordan Travel Guide
 subtitle:					The mystical desert
 description:			Plan your visit to Jordan and find out where to go and what to do in Jordan. Read about itineraries, activities, places to stay and travel essentials.
-category:					jordan
 permalink: 				'/jordan-travel-guide/'
 image:						/assets/images/2018/05/wadi-rum-jordan-daytime-landscape.jpg
 pagination: 

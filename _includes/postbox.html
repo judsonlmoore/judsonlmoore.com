@@ -16,7 +16,7 @@
     {% elsif post.categories %}
     {% assign sortedCategories = post.categories | sort_natural %}
     {% for category in sortedCategories limit:1 %}
-    <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ category }}</a>
+    <a href="{{ category | slugify | prepend:'/category/' | absolute_url }}/" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold ">{{ category }}</a>
     {% endfor %}
     {% endif %}
     <a href="{{ post.url | absolute_url }}">

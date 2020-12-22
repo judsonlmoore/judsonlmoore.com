@@ -1,7 +1,7 @@
 ---
 title: 						Podcasts
 layout:						autopage
-permalink:				/podcasts
+permalink:				"/podcasts/"
 description: 			Listen to podcast episodes Judson L Moore has been featured in.
 image: 						assets/images/2017/03/best-podcast-2017.jpg
 pagination: 

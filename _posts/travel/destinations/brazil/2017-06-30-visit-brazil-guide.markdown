@@ -27,7 +27,8 @@ Brazil is a tropical country, with high average temperatures and plenty of rain 
 
 **During Brazilian winter**, nevertheless, between June and September, average temperatures will drop drastically and even go below 32° F in some cities in the south of the country. It’s a great moment to **get to know the mountain regions** of the south and southeast, such as Campos do Jordão, Petrópolis, Gramado, and Canela; or to head to the mountain ranges known as Chapadas ([Diamantina](/diamantina-brazil-travel-guide/), dos Veadeiros, das Mesas, Jalapão, among others), which have lush vegetation and abundant waterfalls after the rainy season.
 
-[**Visit my full Brazilian Travel Guide**](/brazil/)
+[**Visit my full Brazilian Travel Guide**](/brazil-travel-guide/
+)
 
 **The fall**, between March and June, and spring, between September and December, are low seasons in Brazil and, therefore, the perfect moment to **enjoy lower prices and escape tourist-filled hotels and attractions**. Besides, temperatures are milder, with sunny days and pleasant nights in most of the country.
 
@@ -79,4 +80,5 @@ Moreover, the website provides essential information, from necessary papers and 
 
 **To ask questions or for more information about visiting Brazil**, please leave a comment below and we will answer you as quickly as possible. Additionally, you can follow [@VisitBrasil on Twitter](https://twitter.com/VisitBrasil).
 
-[**Visit my full Brazilian Travel Guide**](/brazil/)
+[**Visit my full Brazilian Travel Guide**](/brazil-travel-guide/
+)
