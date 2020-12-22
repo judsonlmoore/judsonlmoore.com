@@ -28,7 +28,7 @@ What makes me happy, could very well make someone else quite miserable. In a wor
 
 However, **don’t be afraid to take chances.** Don’t say no to a weekend away because you are too focused on work. Don’t be afraid to move out or to take a vacation or to try something new. On the other hand, if you lead a life of travel and constant adventure, don’t be afraid to say yes to settling down. Don’t be afraid to start your career and build a family.
 
-Our twenties are a time where we’re still figuring it out, and that’s okay. [It’s okay to feel lost](http://www.travelwithtarah.com/its-okay-to-be-a-little-lost/) and to have no idea what you’re doing, but it’s not okay to settle. **It’s not okay to settle because you are too afraid** of the alternative. Don’t ignore the voice in your head wondering, “what if…” because that voice will never go away. Whatever path you choose, make sure it’s the one that is going to fulfill you. Make sure it’s the one that your heart is begging you to follow. Make sure it’s the one that is going to **make you truly _happy_.**
+Our twenties are a time where we’re still figuring it out, and that’s okay. [It’s okay to feel lost](https://www.travelwithtarah.com/its-okay-to-be-a-little-lost/) and to have no idea what you’re doing, but it’s not okay to settle. **It’s not okay to settle because you are too afraid** of the alternative. Don’t ignore the voice in your head wondering, “what if…” because that voice will never go away. Whatever path you choose, make sure it’s the one that is going to fulfill you. Make sure it’s the one that your heart is begging you to follow. Make sure it’s the one that is going to **make you truly _happy_.**
 
 ## Don’t worry. Be happy.
 

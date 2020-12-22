@@ -12,7 +12,7 @@ M. Shafik Gabr is a prominent Egyptian businessman and philanthropist. He has e
 
 I am a 2015 fellow. Here are the notes from the sessions we had. They are as comprehensive as I was able to get them, but the deepest learnings came from simply listening and interacting.
 
-Join the dialogue by leaving a comment below. Learn more about the foundation and fellowship [here](http://eastwestdialogue.org/).
+Join the dialogue by leaving a comment below. Learn more about the foundation and fellowship [here](https://eastwestdialogue.org/).
 
 ## THE GABR FELLOWSHIP - Egypt PROGRAM
 
@@ -389,7 +389,7 @@ Location: AUC New Campus
   * No one “sitting in a dark room” directing media censorship, the media self-directs themselves to do as they believe they must. If they aren’t certain what to say, they just say nothing until the global news covers a topic, then the Egyptian media will slowly report information, cautious not to overstep
 , education is key, starts with ethics
 
-  * [Shorouk Newspaper](http://www.shorouknews.com/) is very harsh against government and they don’t have any problems. However, this may also be because their readership is small and it allows the government to point to them and say, “see? we don’t censor!”
+  * [Shorouk Newspaper](https://www.shorouknews.com/) is very harsh against government and they don’t have any problems. However, this may also be because their readership is small and it allows the government to point to them and say, “see? we don’t censor!”
 
 Roundtable Discussion with: Dr. Ahmed Hassanien, Associate Dean for Undergraduate studies and Administration, and Dr. Ayman Ismail, Director of the AUC V-Lab
 
@@ -545,13 +545,13 @@ _Topic: Entrepreneurship for a New Egypt political changes in Egypt_
 
 - Problems with you engagement post-Mubarak. They led revolt against him and then stopped participating
 
-- Website built by youth: [yadaweya](http://www.yadaweya.com/)
+- Website built by youth: [yadaweya](https://www.yadaweya.com/)
 
 - Visit the Center for Independent Music in Zibaway (spelling?)
 
 - Zuma: vegan restauraunt (bring it to Austin!)
 
-- [Madamasr](http://www.madamasr.com/) (independent media)
+- [Madamasr](https://www.madamasr.com/) (independent media)
 
 - Believes there is a huge opportunity to work with youth and the media
 
@@ -587,7 +587,7 @@ Political Science Professor at American University of Cairo (AUC)
 
 - “The Middle East doesn’t need democracy at this stage. They need governance to bring order. Democracy will come later. America took \~250 to get to today and for the first 200 years, African Americans and women couldn’t vote. Why does the Middle East have to evolve overnight? Give them 200 years too!
 
-- [De Birs Yachts](http://www.debirsyachts.com/) ← 100% Egyptian
+- [De Birs Yachts](https://www.debirsyachts.com/) ← 100% Egyptian
 
 - “Turkish president Erdoğan is ISIS in a suit.”
 
@@ -727,7 +727,7 @@ Location: US Embassy, Ambassador’s Residence
 
   * Education efforts (education institution partnerships), Fulbright, other exchange programs
 
-- Google: [International Security Watch](http://www.isn.ethz.ch/) (independent reports)
+- Google: [International Security Watch](https://www.isn.ethz.ch/) (independent reports)
 
 - Relationship with Egyptian media?
 
@@ -749,7 +749,7 @@ Location: Greek Campus
 
 - “Therapy for entrepreneurs”
 
-- [Tech Wadi](http://techwadi.org/) - event between Cairo and Silicon Valley, sponsored by Google.
+- [Tech Wadi](https://techwadi.org/) - event between Cairo and Silicon Valley, sponsored by Google.
 
 - What are the trends in successful startups?
 
@@ -941,7 +941,7 @@ Cocktail Reception Hosted by [Ms. Georgette Mosbacher](https://en.wikipedia.org/
 
 [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art) Tour
 
-[Diana Patch](http://www.metmuseum.org/about-the-museum/press-room/news/2013/diana-craig-patch), Curator in Charge of Egyptian Art Tour of the ancient Egyptian Art Galleries and then walk through the newly installed exhibition _Ancient Egypt Transformed: The Middle Kingdom"_
+[Diana Patch](https://www.metmuseum.org/about-the-museum/press-room/news/2013/diana-craig-patch), Curator in Charge of Egyptian Art Tour of the ancient Egyptian Art Galleries and then walk through the newly installed exhibition _Ancient Egypt Transformed: The Middle Kingdom"_
 
 _Egypt’s identity as an African Leader in light of its seat as the African representative on the_
 
@@ -957,11 +957,11 @@ _Is the Middle East and North Africa at Dead or an Emerging Market?_
 
 Meeting with [Dina Powell](https://en.wikipedia.org/wiki/Dina_Powell), President, Goldman, Sachs Foundation
 
-Goldman, Sachs & Co Impact Investing Business ([NYTimes Article](http://dealbook.nytimes.com/2014/02/03/goldmans-charitable-foundation-chief-to-lead-urban-investment-group/))
+Goldman, Sachs & Co Impact Investing Business ([NYTimes Article](https://dealbook.nytimes.com/2014/02/03/goldmans-charitable-foundation-chief-to-lead-urban-investment-group/))
 
 _News media: Is there a need for new professional standards and ethos?_
 
-Meeting and Interview with [Huffington Post](http://huffingtonpost.com) ([wiki](https://en.wikipedia.org/wiki/The_Huffington_Post))
+Meeting and Interview with [Huffington Post](https://huffingtonpost.com) ([wiki](https://en.wikipedia.org/wiki/The_Huffington_Post))
 
 Buffet Dinner Hosted by Ambassador Ahmed Farouk
 
@@ -979,17 +979,17 @@ _Discussion on Iran, 2016 U.S. Elections, U.S._
 
 _MENA Policy and U.S. Economy_
 
-Roundtable Discussion with [London Center for Policy Research](http://www.londoncenter.org/), [President Herb London](https://en.wikipedia.org/wiki/Herbert_London)
+Roundtable Discussion with [London Center for Policy Research](https://www.londoncenter.org/), [President Herb London](https://en.wikipedia.org/wiki/Herbert_London)
 
 _The non-linear business environment: How does Google posture itself in a chaotic world?_ [Google Ideas](https://www.google.com/ideas/)([wiki](https://en.wikipedia.org/wiki/Google_Ideas))
 
-Meeting with Scott Carpenter ([LinkedIn](https://www.linkedin.com/in/scott-carpenter-6b79b59), [video](https://www.youtube.com/watch?v=Lg3M8PI935o), [NYTimes Article](http://www.nytimes.com/2011/06/24/opinion/24iht-edcohen24.html?_r=0)), Deputy Director of Google Ideas, and Workshop with Google Engineers and Managers
+Meeting with Scott Carpenter ([LinkedIn](https://www.linkedin.com/in/scott-carpenter-6b79b59), [video](https://www.youtube.com/watch?v=Lg3M8PI935o), [NYTimes Article](https://www.nytimes.com/2011/06/24/opinion/24iht-edcohen24.html?_r=0)), Deputy Director of Google Ideas, and Workshop with Google Engineers and Managers
 
 -Scott, director. Greg, PM. Mistrial, operations and development manager.
 
 _Can we re-build a global strategic consensus in U.S. Foreign and Defense Policy?_
 
-**[Dr. Richard Haass](https://en.wikipedia.org/wiki/Richard_N._Haass) ([bio](http://www.cfr.org/experts/afghanistan-iraq-middle-east-and-north-africa/richard-n-haass/b3350)), President of the [Council on Foreign Relations](http://www.cfr.org/)**
+**[Dr. Richard Haass](https://en.wikipedia.org/wiki/Richard_N._Haass) ([bio](https://www.cfr.org/experts/afghanistan-iraq-middle-east-and-north-africa/richard-n-haass/b3350)), President of the [Council on Foreign Relations](https://www.cfr.org/)**
 
 _Peacebuilding and Interfaith Engagement in Conflict Zones_
 
@@ -1013,9 +1013,9 @@ CFR Campus - New Initiative to educate youth and college students (vs) about for
 
 _Impacts of global financial market interdependence and risk sensitivity on long-range business strategic planning?_
 
-[Mr. Ron LoRusso](http://therealdeal.com/blog/2015/05/15/lo-russo-to-lead-combined-local-dtz-cushman-office/), President/NY Tri-State Region
+[Mr. Ron LoRusso](https://therealdeal.com/blog/2015/05/15/lo-russo-to-lead-combined-local-dtz-cushman-office/), President/NY Tri-State Region
 
-[Cushman & Wakefield, Inc.](http://www.cushmanwakefield.com/)
+[Cushman & Wakefield, Inc.](https://www.cushmanwakefield.com/)
 
 _The Role of Business Media in America_
 
@@ -1055,7 +1055,7 @@ John Jassman, Resident Managing Director
 
 Nolan Wilson, Cyber Security
 
-Breakfast Speaker – [Aon Risk Services South, Inc.](http://www.aon.com/default.jsp)
+Breakfast Speaker – [Aon Risk Services South, Inc.](https://www.aon.com/default.jsp)
 
 _The Responsibility of Truth in Reporting_ [CNN](https://en.wikipedia.org/wiki/CNN) meetings and Tour
 
@@ -1067,21 +1067,21 @@ _Egypt and the broader Middle East_
 
 [Jennifer Ragland](https://www.linkedin.com/in/ragland-jennifer-0389313), Director of International Government Relations & Public Affairs
 
-Carlos A. Pagoaga, Group Director of Partnerships of the [Coca-Cola Foundation](http://www.coca-colacompany.com/our-company/the-coca-cola-foundation/)
+Carlos A. Pagoaga, Group Director of Partnerships of the [Coca-Cola Foundation](https://www.coca-colacompany.com/our-company/the-coca-cola-foundation/)
 
 VIP Tour of the AOC of Coca-Cola
 
-Dinner at [Maggiano’s Little Italy](http://www.maggianos.com/)
+Dinner at [Maggiano’s Little Italy](https://www.maggianos.com/)
 
 ## **SATURDAY, November 14 /ATLANTA**
 
 Visit to the [Jimmy Carter](https://en.wikipedia.org/wiki/Jimmy_Carter) Presidential [Library & Museum](https://en.wikipedia.org/wiki/Jimmy_Carter_Library_and_Museum) (441 Freedom Parkway)
 
-[Atlanta History Center](http://www.atlantahistorycenter.com/) ([wiki](https://en.wikipedia.org/wiki/Atlanta_History_Center))
+[Atlanta History Center](https://www.atlantahistorycenter.com/) ([wiki](https://en.wikipedia.org/wiki/Atlanta_History_Center))
 
 _The Struggle for Freedom in America_
 
-Visit [Martin Luther King Jr. National Historic Site](http://www.nps.gov/malu/index.htm) ([wiki](https://en.wikipedia.org/wiki/Martin_Luther_King,_Jr._National_Historic_Site))
+Visit [Martin Luther King Jr. National Historic Site](https://www.nps.gov/malu/index.htm) ([wiki](https://en.wikipedia.org/wiki/Martin_Luther_King,_Jr._National_Historic_Site))
 
 Visitor Center, The King Center, Historic Ebenezer Baptist Church, Birth Home, World Peace Rose Garden, Behold Monument, Historic Fire Station No. 6, and other sites.
 
@@ -1091,7 +1091,7 @@ Dinner at the Home of Mr. & Mrs. Dent, Parents of Fellow Elizabeth Dent
 
 Visit to [Smithsonian Museums](https://en.wikipedia.org/wiki/List_of_Smithsonian_museums) and [National Mall](https://en.wikipedia.org/wiki/National_Mall) ([Washington Monument](https://en.wikipedia.org/wiki/Washington_Monument))
 
-[D.C. Monuments Moonlight Trolley Tour](http://www.trolleytours.com/washington-dc/night-tours.asp)
+[D.C. Monuments Moonlight Trolley Tour](https://www.trolleytours.com/washington-dc/night-tours.asp)
 
 Start Point – [Union Station](<https://en.wikipedia.org/wiki/Union_Station_(Washington,_D.C.)>)
 
@@ -1107,9 +1107,9 @@ Meeting with MG Khaled Mogawer, Egyptian Defense Attaché
 
 _View on Conflict and Instability Analysis_
 
-[Mr. Glen E. Howard](http://www.jamestown.org/details/?tx_bzdstaffdirectory_pi1%5BshowUid%5D=22&tx_bzdstaffdirectory_pi1%5BbackPid%5D=45&cHash=7fea3160d9ecf4f56c9e8d15103c1512), President
+[Mr. Glen E. Howard](https://www.jamestown.org/details/?tx_bzdstaffdirectory_pi1%5BshowUid%5D=22&tx_bzdstaffdirectory_pi1%5BbackPid%5D=45&cHash=7fea3160d9ecf4f56c9e8d15103c1512), President
 
-[The Jamestown Foundation](http://www.jamestown.org/aboutus/) ([wiki](https://en.wikipedia.org/wiki/The_Jamestown_Foundation))
+[The Jamestown Foundation](https://www.jamestown.org/aboutus/) ([wiki](https://en.wikipedia.org/wiki/The_Jamestown_Foundation))
 
 _The Nexus of Security Challenges to the U.S. and its Partners in the  Middle East_
 
@@ -1119,9 +1119,9 @@ Dr. Jennifer Jefferis
 
 Dr. Gawdat Bahgat
 
-[Thomas M. Sanderson](http://thomasmsanderson.com/), Director and Senior Fellow, CSIS Transnational Threats Project
+[Thomas M. Sanderson](https://thomasmsanderson.com/), Director and Senior Fellow, CSIS Transnational Threats Project
 
-[National Defense University](http://csis.org/expert/thomas-m-sanderson)
+[National Defense University](https://csis.org/expert/thomas-m-sanderson)
 
 Tour of key historical sites on [Fort NcNair](https://www.linkedin.com/in/dr-paul-severance-17359376) by [Dr. Paul M. Severance](https://www.linkedin.com/pub/paul-severance/7/b70/526)
 
@@ -1131,21 +1131,21 @@ Fort McNair, DC
 
 _Egyptian Bilateral Relations, U.S. Middle East Policy and the Iranian Nuclear Deal_
 
-Meeting with David Hamod, President & CEO ([NYTimes Article](http://www.nytimes.com/1984/06/19/world/arab-americans-in-israel-a-case-of-dual-identities.html))
+Meeting with David Hamod, President & CEO ([NYTimes Article](https://www.nytimes.com/1984/06/19/world/arab-americans-in-israel-a-case-of-dual-identities.html))
 
-National U.S.-Arab Chamber of Commerce ([NUSACC](http://www.nusacc.org/))
+National U.S.-Arab Chamber of Commerce ([NUSACC](https://www.nusacc.org/))
 
 _Arab Spring or Arab Winter?_
 
-Discussion Session with [Dr. Osama Abi-Mershed ](http://explore.georgetown.edu/people/abimerso/)
+Discussion Session with [Dr. Osama Abi-Mershed ](https://explore.georgetown.edu/people/abimerso/)
 
-Dinner at [Thunder Grill](http://arkrestaurants.com/thundergrill/)
+Dinner at [Thunder Grill](https://arkrestaurants.com/thundergrill/)
 
 ## **TUESDAY, November 17 / Washington, D.C.**
 
 _Conflicting Agendas in U.S. Military Cooperation Efforts in the Middle East between the Defense and Foreign Relations Committees_
 
-**Breakfast with [Alexander Gallo](https://www.ctc.usma.edu/posts/alex-gallo-joins-hasc) ([HASC](https://armedservices.house.gov/)) and [Dana Stroul](https://www.linkedin.com/in/dana-stroul-94242384) (more) ([SFRC](http://www.foreign.senate.gov/))**
+**Breakfast with [Alexander Gallo](https://www.ctc.usma.edu/posts/alex-gallo-joins-hasc) ([HASC](https://armedservices.house.gov/)) and [Dana Stroul](https://www.linkedin.com/in/dana-stroul-94242384) (more) ([SFRC](https://www.foreign.senate.gov/))**
 
 _The U.S./Egypt Military Relationship in the aftermath of the Strategic Dialogue_
 
@@ -1183,11 +1183,11 @@ Dinner at Tony and Joe’s Seafood Place
 
 _How the West can help its Arab Partners Secure the Region_
 
-**Breakfast Meeting with [Dr. Steve Grand](http://www.brookings.edu/experts/grands), [Atlantic Council](http://www.atlanticcouncil.org/)**
+**Breakfast Meeting with [Dr. Steve Grand](https://www.brookings.edu/experts/grands), [Atlantic Council](https://www.atlanticcouncil.org/)**
 
 “_The Egyptian Economy – A View from the IMF”_
 
-**[Mr. Ahmed Masood](https://www.imf.org/external/np/bio/eng/ma.htm), [International Monetary Fund](http://www.imf.org/external/index.htm)**
+**[Mr. Ahmed Masood](https://www.imf.org/external/np/bio/eng/ma.htm), [International Monetary Fund](https://www.imf.org/external/index.htm)**
 
 _Perspective on the 2016 Presidential Elections and U.S. Foreign Policy towards the Middle East_
 
@@ -1215,13 +1215,13 @@ The McDermott Building
 
 _Enabling U.S. Partners in the Middle East_
 
-**Breakfast Speaker: [Brigadier General (Retired) Tom Cosentino](https://www.linkedin.com/in/brig-gen-tom-cosentino-11104433), Vice President for Policy,** [**Business Executives for National Security** ](http://www.bens.org/)
+**Breakfast Speaker: [Brigadier General (Retired) Tom Cosentino](https://www.linkedin.com/in/brig-gen-tom-cosentino-11104433), Vice President for Policy,** [**Business Executives for National Security** ](https://www.bens.org/)
 
 _Moslem Brotherhood: Facts and Fiction – the view from DC_
 
 Dr. Eric Trager ([more](https://www.washingtoninstitute.org/experts/view/trager-eric)), Fellow
 
-[The Washington Institute for Near East Policy](http://www.washingtoninstitute.org/)
+[The Washington Institute for Near East Policy](https://www.washingtoninstitute.org/)
 
 Meeting at White House with Presidential Advisors
 
@@ -1245,13 +1245,13 @@ _States partner for engagement in the Middle East and North Africa?_
 
 [Assistant Secretary Patterson](https://en.wikipedia.org/wiki/Anne_W._Patterson)
 
-[Deputy Assistant Secretary Richards](https://en.wikipedia.org/wiki/Anne_C._Richard); [Bureau Near Eastern Affairs](http://www.state.gov/p/nea/)
+[Deputy Assistant Secretary Richards](https://en.wikipedia.org/wiki/Anne_C._Richard); [Bureau Near Eastern Affairs](https://www.state.gov/p/nea/)
 
 _Challenges to Peace and Security in the Middle East_
 
-**[Middle East Institute](http://www.mei.edu/) ([wiki](https://en.wikipedia.org/wiki/Middle_East_Institute))**
+**[Middle East Institute](https://www.mei.edu/) ([wiki](https://en.wikipedia.org/wiki/Middle_East_Institute))**
 
-[Dr. Paul Salem](http://www.mei.edu/profile/paul-salem), Vice President for Policy & Research; [Dr. Gonul Tol](http://www.mei.edu/profile/g%C3%B6n%C3%BCl-tol), Founding Director, Center for Turkish Studies: and [Mr. Alex Vatanka](http://www.mei.edu/profile/alex-vatanka), Senior Fellow
+[Dr. Paul Salem](https://www.mei.edu/profile/paul-salem), Vice President for Policy & Research; [Dr. Gonul Tol](https://www.mei.edu/profile/g%C3%B6n%C3%BCl-tol), Founding Director, Center for Turkish Studies: and [Mr. Alex Vatanka](https://www.mei.edu/profile/alex-vatanka), Senior Fellow
 
 **Dinner Hosted by Egyptian Ambassador Yasser Reda**
 
@@ -1267,11 +1267,11 @@ _What are the Strategic Imperatives for a more Secure and Prosperous Middle East
 
 **Breakfast Remarks from Greg Copley, President**
 
-[International Strategic Studies Association](http://www.strategicstudies.org/)
+[International Strategic Studies Association](https://www.strategicstudies.org/)
 
 _Innovation and the Start-Up Culture_
 
-**Visit the [1776 Start-Up Incubator](http://www.1776.vc/)**
+**Visit the [1776 Start-Up Incubator](https://www.1776.vc/)**
 
 Competing Strains of Instability in the Middle East – Is there a Fix?
 
@@ -1369,7 +1369,7 @@ _Middle East Peace, What will it Take?_
 
 Mr. Bill Taylor, Executive Vice President
 
-**[United States Institute of Peace](http://www.usip.org/) ([wiki](https://en.wikipedia.org/wiki/United_States_Institute_of_Peace))**
+**[United States Institute of Peace](https://www.usip.org/) ([wiki](https://en.wikipedia.org/wiki/United_States_Institute_of_Peace))**
 
 _Implications of the Iranian Nuclear Deal and Stability in the Region_
 
@@ -1377,7 +1377,7 @@ _Implications of the Iranian Nuclear Deal and Stability in the Region_
 
 Senior Vice President, Zbigniew Brzezinski Chair in Global Security and Geostrategy, and Director, Middle East Program
 
-[Center for Strategic and International Studies (CSIS)](http://csis.org/) ([wiki](https://en.wikipedia.org/wiki/Center_for_Strategic_and_International_Studies))
+[Center for Strategic and International Studies (CSIS)](https://csis.org/) ([wiki](https://en.wikipedia.org/wiki/Center_for_Strategic_and_International_Studies))
 
 ##
 

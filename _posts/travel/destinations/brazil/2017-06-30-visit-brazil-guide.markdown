@@ -9,7 +9,7 @@ excerpt:		Have you ever wanted to visit Brazil but are not sure of the best way 
 image:			/assets/images/2017/06/SE_Riodejaneiro0206.jpg
 ---
 
-**Imagine yourself going on an adventure** in the Amazon Forest or in the Pantanal, being amazed by the beauty of the nature in [Foz do Iguaçu](/iguazu-falls-largest-waterfall-system/) or Bonito, living the culture of São Luís or [Ouro Preto](/ouro-preto-brazil-travel-guide/), trying the hustle and bustle of great centers such as [Rio de Janeiro](http://www.visitbrasil.com/en/destinos/rio-de-janeiro/) or [São Paulo](http://www.visitbrasil.com/en/destinos/sao-paulo/), or simply relaxing and enjoying the sun and the breeze of the ocean in [Fernando de Noronha](http://www.visitbrasil.com/en/estados/pernambuco/) or [Trancoso](http://www.visitbrasil.com/en/destinos/trancoso/). **This is what you can discover when you visit Brazil**.
+**Imagine yourself going on an adventure** in the Amazon Forest or in the Pantanal, being amazed by the beauty of the nature in [Foz do Iguaçu](/iguazu-falls-largest-waterfall-system/) or Bonito, living the culture of São Luís or [Ouro Preto](/ouro-preto-brazil-travel-guide/), trying the hustle and bustle of great centers such as [Rio de Janeiro](https://www.visitbrasil.com/en/destinos/rio-de-janeiro/) or [São Paulo](https://www.visitbrasil.com/en/destinos/sao-paulo/), or simply relaxing and enjoying the sun and the breeze of the ocean in [Fernando de Noronha](https://www.visitbrasil.com/en/estados/pernambuco/) or [Trancoso](https://www.visitbrasil.com/en/destinos/trancoso/). **This is what you can discover when you visit Brazil**.
 
 Brazil is a continental country: Its 3.3 million square miles make up almost half of South America. Containing six biomes, the country holds the **largest biodiversity on the planet**, not to mention the 4,500 mile-long coastline with **paradise beaches and attractions for all tastes**.
 
@@ -47,7 +47,7 @@ The Consulate Authority will define how long it will take for your visa to be pr
 
 Brazil is currently discussing the **issue of electronic visas** for citizens of the US and three other countries: Canada, Australia, and Japan. This decision, which should be made by the end of 2017, will make it easier for travelers to get the Brazilian visa. It will turn the whole process of requesting the visa, paying the fee, analysis, approval, and issuance, into a process of 48 hours. And everything will be done online or through an app.
 
-Learn more about obtaining a visa to Brazil by visiting [the official website of the Brazilian Embassy in Washington DC](http://washington.itamaraty.gov.br/en-us/).
+Learn more about obtaining a visa to Brazil by visiting [the official website of the Brazilian Embassy in Washington DC](https://washington.itamaraty.gov.br/en-us/).
 
 {% cloudinary /assets/images/2017/06/NO_Amazonas0990.jpg alt="Caves of the Amazon Rain Forest in Brazil" description="Caves of the Amazon Rain Forest in Brazil | Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
@@ -73,7 +73,7 @@ Besides traveling by plane, **traveling by bus in Brazil** may also be a good al
 
 ## VisitBrasil.com
 
-**[VisitBrasil.com](http://www.visitbrasil.com/en/) is the official tourism site of Brazil.** It is a platform with touristic content **focusing on experiences**, which aims to provide updated information on destinations, activities, and attractions of the various regions in Brazil, allowing visitors to **envision and familiarize themselves** with their future journey through the country.
+**[VisitBrasil.com](https://www.visitbrasil.com/en/) is the official tourism site of Brazil.** It is a platform with touristic content **focusing on experiences**, which aims to provide updated information on destinations, activities, and attractions of the various regions in Brazil, allowing visitors to **envision and familiarize themselves** with their future journey through the country.
 
 Moreover, the website provides essential information, from necessary papers and documents to health recommendations, making it **an indispensable source of information** when planning your trip to visit Brazil.
 

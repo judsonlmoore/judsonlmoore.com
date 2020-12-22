@@ -10,7 +10,7 @@ excerpt:		Edinburgh Castle is a must-see attraction in Edinburgh. I took a walki
 image:			/assets/images/2018/01/castle-walking-tour-edinburgh-new-gatehouse-judson.jpg
 ---
 
-After having spent my morning taking [a free walking tour](/edinburgh-free-walking-tour/), I decided it was worth buying a ticket to one of the afternoon paid tours. The tour organizer, SANDEMANs, had several to chose from but I was most interested in getting to know the Edinburgh Castle. So after a quick lunch on my own, I rejoined my trusty (and awesome) guide, [Dave](http://www.neweuropetours.eu/Edinburgh/en/Guides/Details/Yb9onL/dave), and off we went together on **the Edinburgh Castle walking tour**.
+After having spent my morning taking [a free walking tour](/edinburgh-free-walking-tour/), I decided it was worth buying a ticket to one of the afternoon paid tours. The tour organizer, SANDEMANs, had several to chose from but I was most interested in getting to know the Edinburgh Castle. So after a quick lunch on my own, I rejoined my trusty (and awesome) guide, [Dave](https://www.neweuropetours.eu/Edinburgh/en/Guides/Details/Yb9onL/dave), and off we went together on **the Edinburgh Castle walking tour**.
 
 **This tour runs daily** in the afternoon. Check [the SANDEMANs website](https://www.neweuropetours.eu/sandemans-tours/edinburgh/edinburgh-castle-walking-tour/) for schedules and ticket information.
 

@@ -32,4 +32,4 @@ In these short 16 years, I feel like I have had lifetimes of experiences. I reco
 Your Fellow Rotarian,
 Judson Moore
 
-> Visit the website for the [Rotary Club of Alexandria](http://www.alexandriarotary.com/) and join them for lunch any Tuesday!
+> Visit the website for the [Rotary Club of Alexandria](https://www.alexandriarotary.com/) and join them for lunch any Tuesday!

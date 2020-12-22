@@ -79,11 +79,11 @@ As with many deities, the raven is regarded with respect and wariness.  Being i
 ## Bibliography
 
 - Bierhorst, John. The Mythology of North America. New York: William Morrow and Company, 1985.
-- Burke, Nikki. Gods, Heroes, and Myths. 24 February 2004. April 15, 2004. [http://www.gods-heros-myth.com/namerican/northgods.html](http://www.gods-heros-myth.com/namerican/northgods.html)
+- Burke, Nikki. Gods, Heroes, and Myths. 24 February 2004. April 15, 2004. [https://www.gods-heros-myth.com/namerican/northgods.html](https://www.gods-heros-myth.com/namerican/northgods.html)
 - Erdoes, Richard, and Ortiz, Alfonso.  American Indian Myths and Legends. New York: Pantheon Books, 1984.
 - Hannah, Leslie. Personal interview. 21 April 2004.
 - Hooker, Richard. Raven: The Tlingit Creation. 6 June 1999. April 15, 2004.
 - Keepers of the Totem. Time-Life Books. Virginia: Time-Life Books, 1993.
 - Leeming, David, and Page, Jake. The Mythology of Native North America. Norman: University of Oklahoma Press, 1998.
-- McNeil, Larry. Fly By Night Mythology. April 15, 2004. [http://boisestate.edu/art/lmcneil/](http://boisestate.edu/art/lmcneil/)
+- McNeil, Larry. Fly By Night Mythology. April 15, 2004. [https://boisestate.edu/art/lmcneil/](https://boisestate.edu/art/lmcneil/)
 - The Spirit World. Time-Life Books. Virginia: Time-Life Books, 1992.

@@ -12,7 +12,7 @@ image:						/assets/images/2016/09/judson-in-front-of-the-pyramids-in-giza-egypt
 **Judson Moore** is on a mission to make the world a happier place. As a senior technical product manager at eBay, Judson's background is incredibly diverse and full of adventure. From authoring the Louisiana Red Cross's post-Katrina emergency action plan to founding a media empire in Central Asia as a Peace Corps Volunteer, Judson has had a wide range of professional experiences in ever-changing locations. As a travel addict, Judson has sought out every opportunity to get on a plane, train, automobile, or boat to investigate the world's rich cultures. 
 
 Ever-committed to community contribution, Judson is an active Rotarian and has founded several community organizations, including: 
-- **[Kyrgyz Media](http://kyrgyzmedia.kg/)** - an online network of community journalists in Kyrgyzstan (2012 - present)
+- **[Kyrgyz Media](https://kyrgyzmedia.kg/)** - an online network of community journalists in Kyrgyzstan (2012 - present)
 - **[Cleopatra to Coretta](https://www.cleopatratocoretta.org/)** - connecting women journalists in the USA and Egypt (2015 - present)
 - **Kloop USA** - a foundation for supporting journalism education in Kyrgyzstan (2013 - 2016)
 - **The Brazos Tech District** - solving operational problems at scale for Austin's tech startup community (2013 - 2016)

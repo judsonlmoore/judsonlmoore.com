@@ -10,7 +10,7 @@ tags:
 image:			/assets/images/2014/06/silicon-valley-usa.png
 ---
 
-_The following was originally posted on <re/code> on June 25, 2014. Read the original post [here](http://recode.net/2014/06/25/how-to-achieve-silicon-valley-anywhere)._
+_The following was originally posted on <re/code> on June 25, 2014. Read the original post [here](https://recode.net/2014/06/25/how-to-achieve-silicon-valley-anywhere)._
 
 If you are in the tech world, Silicon Valley is your mecca. Or at least that’s what we’re led to believe, thanks to its high concentration of technophiles and constant attention as “America’s technology capital.”
 
@@ -18,7 +18,7 @@ But why? Flourishing tech hubs like New York’s Silicon Alley, Austin’s Silic
 
 Truth be told, there is nothing stopping other cities from cultivating that Silicon Valley community feel. Places like Austin are ripe with potential — we have the high concentration of technology companies, emerging and established technophiles, and entrepreneurs in our downtown corridor, as well as a culture that accepts and encourages innovation. The building blocks are there, but logistical issues and a downtown environment that has yet to embrace inter-company relationship building (despite being well-suited to do so) currently stand in the way of our tech community realizing this city’s true potential.
 
-In an attempt to address these social and logistical issues, my partner, Ed Ireson, and I founded the [Brazos Tech District](http://www.brazostechdistrict.org/) in the summer of 2013. Austin’s Brazos Street spans approximately 10 city blocks and is home to dozens of companies and more than 3,000 tech professionals. The tech district seeks to engage these individuals in a close-knit community that comes together to improve interoffice friendships and partnerships, and to solve issues that affect the group as a whole.
+In an attempt to address these social and logistical issues, my partner, Ed Ireson, and I founded the [Brazos Tech District](https://www.brazostechdistrict.org/) in the summer of 2013. Austin’s Brazos Street spans approximately 10 city blocks and is home to dozens of companies and more than 3,000 tech professionals. The tech district seeks to engage these individuals in a close-knit community that comes together to improve interoffice friendships and partnerships, and to solve issues that affect the group as a whole.
 
 In this year, we welcomed 10 businesses and more than 1,000 individuals into the Brazos Tech District, but more importantly we’ve learned some invaluable lessons about what it takes to successfully cultivate a tech community outside of Silicon Valley.
 
@@ -46,4 +46,4 @@ There are, of course, challenges in building this Silicon Valley-like feel. Ther
 
 With the Brazos Tech District, we’re only just beginning, but this last year has shown that you don’t have to live in Silicon Valley to feel a part of an established tech community. That “new Silicon Valley” is possible anywhere, so long as you have a driven group of people interested in bringing the vision to life.
 
-_Judson Moore is operations manager at [Mutual Mobile](http://www.mutualmobile.com/), and co-founder, with [Ed Ireson](https://twitter.com/EdIreson), of the Brazos Tech District in Austin, Texas. Reach him [@brazostechdist](https://twitter.com/brazostechdist)._
+_Judson Moore is operations manager at [Mutual Mobile](https://www.mutualmobile.com/), and co-founder, with [Ed Ireson](https://twitter.com/EdIreson), of the Brazos Tech District in Austin, Texas. Reach him [@brazostechdist](https://twitter.com/brazostechdist)._

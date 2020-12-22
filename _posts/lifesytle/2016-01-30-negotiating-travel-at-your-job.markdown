@@ -54,6 +54,6 @@ Be sure to register for all the reward points programs for your flights and hote
 
 Expenses add up when traveling. Consider getting a charge card that earns extra points on travel expenses and which have no foreign transaction fees. I favor American Express Platinum and Chase Sapphire Preferred, but there are tons of options out there. For a very in-depth look at rewards programs, check out [The Points Guy](https://thepointsguy.com/guide/best-starter-travel-rewards-cards/).
 
-For some additional reading and travel policy negotiation insights, check out this article by [Joe Sharkey of the New York Times](http://www.nytimes.com/2012/08/21/business/corporate-travel-policies-can-entice-or-repel-job-seekers.html?_r=0). 
+For some additional reading and travel policy negotiation insights, check out this article by [Joe Sharkey of the New York Times](https://www.nytimes.com/2012/08/21/business/corporate-travel-policies-can-entice-or-repel-job-seekers.html?_r=0). 
 
 Have you had successes or challenges in negotiating awesome travel policies with your employer? Please share your experiences by leaving a comment below or messaging me at [@judsonlmoore](https://twitter.com/judsonlmoore).

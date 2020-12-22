@@ -27,7 +27,7 @@ Traveling with someone? It's your family's job to be concerned for you, so relax
 
 ## 4. Health Update
 
-Good health is easy to take for granted. To stay healthy, keep your immunizations up to date and check [the CDC website](http://wwwnc.cdc.gov/travel/destinations/list) for any health related considerations you need to prepare for before you travel. It's also good to save a list of [JCI Accredited Hospitals](http://www.jointcommissioninternational.org/about-jci/jci-accredited-organizations/) in the places where you will be visiting. If you take prescription medications, carry copies of the prescription in case you need to get a refill while away from your doctor. At the end of all that preparation, let your family know that you're all up to date and share backup documentation with them in case you need it later.
+Good health is easy to take for granted. To stay healthy, keep your immunizations up to date and check [the CDC website](https://wwwnc.cdc.gov/travel/destinations/list) for any health related considerations you need to prepare for before you travel. It's also good to save a list of [JCI Accredited Hospitals](https://www.jointcommissioninternational.org/about-jci/jci-accredited-organizations/) in the places where you will be visiting. If you take prescription medications, carry copies of the prescription in case you need to get a refill while away from your doctor. At the end of all that preparation, let your family know that you're all up to date and share backup documentation with them in case you need it later.
 
 ## 5. Backup Documents
 

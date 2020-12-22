@@ -24,7 +24,7 @@ For me, the main attraction here was to see the palace of the Dalai Lama. We wer
 
 Once inside the palace I was free to roam around. I took my time with people watching and taking in the scenic views from the palace terraces. Many people were praying and in such a fashion that I had not seen before. The inner rooms were adorned with beautiful paintings and tapestries of Buddhist figures. Exterior walls were lined with prayer wheels.  Unfortunately, on this day the Dalai Lama was not in-residence, he was in Alabama speaking at the University of Birmingham.
 
-Though [Hampi](/hampi/) was my favorite place to visit in India, this was the most impactful. If you ever get a chance to visit here, do it. It's a bit off the beaten path, a 15 hour drive from New Delhi, but there is an airport nearby that you can fly in to for a price. If the Dalai Lama is in residence, you can catch one of his many public teachings. [Check the Dalai Lama's schedule](http://www.dalailama.com/teachings/schedule) to see if he will be home while you are around.
+Though [Hampi](/hampi/) was my favorite place to visit in India, this was the most impactful. If you ever get a chance to visit here, do it. It's a bit off the beaten path, a 15 hour drive from New Delhi, but there is an airport nearby that you can fly in to for a price. If the Dalai Lama is in residence, you can catch one of his many public teachings. [Check the Dalai Lama's schedule](https://www.dalailama.com/teachings/schedule) to see if he will be home while you are around.
 
 Also, if you go there, I have a fantastic contact for buying the best jewels, rugs, carpets, Indian handicrafts and Tibetan paintings, and at fantastic prices.
 

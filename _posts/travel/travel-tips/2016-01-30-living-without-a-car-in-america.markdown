@@ -45,13 +45,13 @@ Living in a community with reliable and widespread public transit is awesome. In
 
 ### Car Sharing
 
-Car Sharing services are sweeping the nation. If you live in a community with [Car2Go](https://www.car2go.com) or [ZipCar](http://www.zipcar.com/referral?promo_code=olvtjsle), go get a membership, right now. Both services only charge for the time you use the vehicles (no reoccurring monthly costs). Car2Go is for one-way travel, while ZipCar is for roundtrip travel.
+Car Sharing services are sweeping the nation. If you live in a community with [Car2Go](https://www.car2go.com) or [ZipCar](https://www.zipcar.com/referral?promo_code=olvtjsle), go get a membership, right now. Both services only charge for the time you use the vehicles (no reoccurring monthly costs). Car2Go is for one-way travel, while ZipCar is for roundtrip travel.
 
 Though it's a bit more expensive, I find that [Uber](https://www.uber.com/invite/uberjudsonlmoore) and [Lyft](https://www.lyft.com/drivers/JUDSON23) are both very reasonable methods for hitching a ride across town when time is of the essence or when the weather is bad.
 
 ### Bike Sharing
 
-If the weather is nice and you're feeling like some exercise, check out your local bike sharing program! [B-Cycle](https://www.bcycle.com/) and [Motivate](http://www.motivateco.com/locations) are the two largest bike share programs in the States. To find a bike sharing program near you, click on your state on the map below (this will take you to another site).
+If the weather is nice and you're feeling like some exercise, check out your local bike sharing program! [B-Cycle](https://www.bcycle.com/) and [Motivate](https://www.motivateco.com/locations) are the two largest bike share programs in the States. To find a bike sharing program near you, click on your state on the map below (this will take you to another site).
 
 via [Bikemunk](https://www.bikemunk.com/bike-share-companies/)
 

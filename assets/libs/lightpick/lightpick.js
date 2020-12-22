@@ -1,7 +1,7 @@
 /**
- * @author: Rinat G. http://coding.kz
+ * @author: Rinat G. https://coding.kz
  * @copyright: Copyright (c) 2019 Rinat G.
- * @license: Licensed under the MIT license. See http://www.opensource.org/licenses/mit-license.php
+ * @license: Licensed under the MIT license. See https://www.opensource.org/licenses/mit-license.php
  */
 
 // Following the UMD template https://github.com/umdjs/umd/blob/master/templates/returnExportsGlobal.js

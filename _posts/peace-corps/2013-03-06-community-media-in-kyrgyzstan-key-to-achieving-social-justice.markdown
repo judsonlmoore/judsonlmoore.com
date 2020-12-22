@@ -14,9 +14,9 @@ tags:
 image:			/assets/images/2013/03/1247.jpg
 ---
 
-The culmination of months of work, preparation and an international team overcoming very difficult situations get's summed up nicely in this article posted on the UNESCO-Kazakhstan website. Though I am not mentioned here, my work site, [Kloop Media,](http://kloop.kg) and my director, Rinat Tykhvanshin, are. I will let it speak for it's self.
+The culmination of months of work, preparation and an international team overcoming very difficult situations get's summed up nicely in this article posted on the UNESCO-Kazakhstan website. Though I am not mentioned here, my work site, [Kloop Media,](https://kloop.kg) and my director, Rinat Tykhvanshin, are. I will let it speak for it's self.
 
-_The text below was originally posted here: [http://www.unesco.kz/new/en/unesco/news/2725/](http://www.unesco.kz/new/en/unesco/news/2725/)_
+_The text below was originally posted here: [https://www.unesco.kz/new/en/unesco/news/2725/](https://www.unesco.kz/new/en/unesco/news/2725/)_
 
 The power of community media was clearly evident in Bishkek on 20 February, as 100 participants from throughout the country gathered to mark the International Day of Social Justice in Kyrgyzstan. The conference was organized within the EU-UN joint programme “Operationalizing Good Governance for Social Justice in Kyrgyzstan.“
 

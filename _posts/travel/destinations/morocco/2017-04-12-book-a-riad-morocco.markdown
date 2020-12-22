@@ -77,8 +77,8 @@ Riad owners and managers know everything about the city and everyone in it. Peer
 ## And now the real question: where can I book a riad in Morocco?
 
 Many riads are bookable online and through tour operators. Though not a search filter on most booking sites, you can quickly identify the riads on these great booking resources just by looking at the photos and location.
-- [http://www.riadsmorocco.com](http://www.riadsmorocco.com)
-- [http://www.airbnb.com](http://www.airbnb.com)
-- [http://www.booking.com](http://www.booking.com)
+- [https://www.riadsmorocco.com](https://www.riadsmorocco.com)
+- [https://www.airbnb.com](https://www.airbnb.com)
+- [https://www.booking.com](https://www.booking.com)
 
 If you have been to Morocco and stayed at a riad, I would love to hear your thoughts in the comments below! If you are looking to make a trip to Morocco then I am both jealous of your upcoming trip, and very excited for you. Write any questions you have in the comments below, or connect with me directly at [@JudsonLMoore](https://twitter.com/judsonlmoore). Have a great time!

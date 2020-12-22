@@ -17,7 +17,7 @@ I came to know Jenna Davis while living in Düsseldorf Germany where I work, and
 
 Connect with Jenna Davis and with Give For Granted:
 
-[GiveForGranted.com](http://www.giveforgranted.com/) | [Facebook](https://www.facebook.com/giveforgranted/) | [Twitter](https://twitter.com/giveforgranted/) | [YouTube](https://www.youtube.com/user/giveforgranted/) | [Instagram](http://www.instagram.com/giveforgranted)
+[GiveForGranted.com](https://www.giveforgranted.com/) | [Facebook](https://www.facebook.com/giveforgranted/) | [Twitter](https://twitter.com/giveforgranted/) | [YouTube](https://www.youtube.com/user/giveforgranted/) | [Instagram](https://www.instagram.com/giveforgranted)
 
 ### MANY PEOPLE DREAM OF QUITTING THEIR 9-5 JOB AND ADVENTURING AROUND THE WORLD, BUT YOU DID IT. WHAT IS IT ABOUT YOUR PERSONALITY, UPBRINGING, OR LIFE PHILOSOPHY THAT GOT YOU ACROSS THE TIPPING-POINT AND OUT INTO THE WORLD?
 
@@ -116,4 +116,4 @@ The secret? I stopped waiting for life to happen, I made it happen.
 
 ### CONNECT WITH JENNA DAVIS
 
-Thank you Jenna for taking the time to provide these insights about how you have successfully escaped the rat-race of others’ expectations and gone out into the world to live your own life. The happiness you have found radiates to those around you, and to those you read your work. To all the readers who have made it this far, please [leave a comment](/jenna-davis-give-for-granted-interview/#disqus_thread) for Jenna, or connect with her online: [GiveForGranted.com](http://www.giveforgranted.com/) | [Facebook](https://www.facebook.com/giveforgranted/) | [Twitter](https://twitter.com/giveforgranted/) | [YouTube](https://www.youtube.com/user/giveforgranted/) | [Instagram](http://www.instagram.com/giveforgranted).
+Thank you Jenna for taking the time to provide these insights about how you have successfully escaped the rat-race of others’ expectations and gone out into the world to live your own life. The happiness you have found radiates to those around you, and to those you read your work. To all the readers who have made it this far, please [leave a comment](/jenna-davis-give-for-granted-interview/#disqus_thread) for Jenna, or connect with her online: [GiveForGranted.com](https://www.giveforgranted.com/) | [Facebook](https://www.facebook.com/giveforgranted/) | [Twitter](https://twitter.com/giveforgranted/) | [YouTube](https://www.youtube.com/user/giveforgranted/) | [Instagram](https://www.instagram.com/giveforgranted).

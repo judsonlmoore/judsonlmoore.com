@@ -47,7 +47,7 @@ I was hired by a healthcare company in Denver and started a job I loved and lear
 
 ## Switching from healthcare to skiing must require some industry specific resources. Where can the reader start seeking out those resources?
 
-Some of my favorite resources for skiing are: [powderhounds.com](https://www.powderhounds.com/), [Telegraph](https://www.telegraph.co.uk/travel/ski/), and a company called [Scout Ski](http://scoutski.com/). Scout Ski noticed a similar gap in ski trip resources and will actually help plan your entire international ski trip.
+Some of my favorite resources for skiing are: [powderhounds.com](https://www.powderhounds.com/), [Telegraph](https://www.telegraph.co.uk/travel/ski/), and a company called [Scout Ski](https://scoutski.com/). Scout Ski noticed a similar gap in ski trip resources and will actually help plan your entire international ski trip.
 
 While each of these websites has pieces of information for skiing internationally, I hope foreverwinterproject.com can help combine the best tips and provide new information about more remote destinations such as Kashmir or Kazakhstan.
 

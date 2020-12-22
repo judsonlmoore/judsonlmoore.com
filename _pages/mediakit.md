@@ -34,7 +34,7 @@ I love addressing audiences of any size! I have spoken at universities, youth c
 My writing has been featured in many other publications and outlets. It is not only a joy for me to share my thoughts with different audiences, but it is also really important! I appreciate opportunities to write for others. If you are seeking guest author engagement, then I would be delighted to hear from you. Here is some of my writing around the internet.
 
 - [re/Code - How to Achieve Silicon Valley Anywhere](https://www.vox.com/2014/6/25/11628326/how-to-achieve-silicon-valley-anywhere)
-- [trivago’s Hotel Manager Blog](https://web.archive.org/web/20170509120316/http://hotelmanager-blog.trivago.com/en-us/author/jmoore/)
+- [trivago’s Hotel Manager Blog](https://web.archive.org/web/20170509120316/https://hotelmanager-blog.trivago.com/en-us/author/jmoore/)
 - [LSU Alumni Magazine](https://www.lsualumni.org/alumni-magazine)
 
 ## You can write something for (or with) me

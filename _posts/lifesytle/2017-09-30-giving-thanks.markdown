@@ -20,7 +20,7 @@ That felt great! And now, what benefits can we expect to achieve by giving thank
 
 ## Giving thanks is good for your heart
 
-According to a University of California San Diego School of Medicine study, [giving thanks helps ward off heart decease](http://www.npr.org/sections/health-shots/2015/11/23/456656055/gratitude-is-good-for-the-soul-and-it-helps-the-heart-too). 
+According to a University of California San Diego School of Medicine study, [giving thanks helps ward off heart decease](https://www.npr.org/sections/health-shots/2015/11/23/456656055/gratitude-is-good-for-the-soul-and-it-helps-the-heart-too). 
 
 By giving thanks, your mind releases stress, reduces anxiety, and is less susceptible to depression. This one-two punch of positivity not only feels good to you and others, but research shows that **expressions of gratitude can prolong your life**.
 
@@ -44,7 +44,7 @@ However, looking toward tomorrow should not distract from your good fortunes of 
 
 ## Giving thanks increases peoples' trust in you
 
-According to one research paper from the Yale Center for Emotional Intelligence, [people who express gratitude are perceived as more trustworthy by others](http://ei.yale.edu/what-is-gratitude/). Wouldn't you like for people to trust you more than they already do? Become more conscious of your expressions of gratitude and enjoy **the benefits of others holding you in higher esteem**.
+According to one research paper from the Yale Center for Emotional Intelligence, [people who express gratitude are perceived as more trustworthy by others](https://ei.yale.edu/what-is-gratitude/). Wouldn't you like for people to trust you more than they already do? Become more conscious of your expressions of gratitude and enjoy **the benefits of others holding you in higher esteem**.
 
 {% cloudinary /assets/images/2017/09/giving-thanks-chalk-wall.jpg alt="The Thanks Wall at Mutual Mobile." %}
 

@@ -111,20 +111,20 @@ In Conclusion, the Cuban Missile Crisis brought the US dangerously close to nucl
 4. Garthoff, Raymond L. _Reflections on the Cuban Missile Crisis_. Rev. ed. Washington, DC: The Brookings Institution, 1989.
 5. Harper, Paul and Joann P. Krieg, eds. _John F. Kennedy: The Promise Revisited_. New York: Greenwood Press, 1988.
 6. Irving, L. Janis. _“Groupthink,”_ _Psychology Today._ November 1971.  Boston: Houghton Mifflin Company, 1972.
-7. [Roger Hilsman, _The Cuban Missile Crisis The Struggle over Policy._ Westport, CT: Praeger Publishers, 1996.](http://www.questia.com/PM.qst?a=o&d=14275244)
+7. [Roger Hilsman, _The Cuban Missile Crisis The Struggle over Policy._ Westport, CT: Praeger Publishers, 1996.](https://www.questia.com/PM.qst?a=o&d=14275244)
 8. Mcnamara, Robert S., and James G. Blight. _Wilson’s Ghost: Reducing the Risk of Conflict, Killing, and Catastrophe in the 21st Century_. New York: Public Affairs, 2001.
 9. Needler, Martin C. _The Concepts of Comparative Politics_. Westport, CT: Praeger, 1991.
-10. “_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.
+10. “_The Cuban Missile Crisis_”; available from [https://www.hpol.org/jfk/cuban/](https://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.
 
 ### Footnotes
 
 1. David M. Barrett, and Christopher Ryan, “5 National Security,” in _The Executive Office of the President:  A Historical, Biographical, and Bibliographical Guide_, ed. Harold C. Relyea  (Westport, CT: Greenwood Press, 1997), 190.
-2. [Lawrence Freedman, _Kennedy’s Wars: Berlin, Cuba, Laos, and Vietnam_  (New York: Oxford University Press, 2000), 161.](http://www.questia.com/PM.qst?a=o&d=90323638)
-3. [Paul Harper and Joann P. Krieg, eds., _John F. Kennedy: The Promise Revisited_ (New York: Greenwood Press, 1988), 90.](http://www.questia.com/PM.qst?a=o&d=15070606)
-4. Unless otherwise noted, all of the information on this time line was extracted from audio-recordings and transcripts from meetings in the White House and that were made available by the John F. Kennedy Presidential Library.  Recordings and Transcripts are available at [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/)
-5. [Robert S. Mcnamara, and James G. Blight, _Wilson’s Ghost: Reducing the Risk of Conflict, Killing, and Catastrophe in the 21st Century_ (New York: Public Affairs, 2001), 47.](http://www.questia.com/PM.qst?a=o&d=100986095)
-6. [Raymond L. Garthoff, _Reflections on the Cuban Missile Crisis_, Rev. ed. (Washington, DC: The Brookings Institution, 1989), 61.](http://www.questia.com/PM.qst?a=o&d=13755376)
+2. [Lawrence Freedman, _Kennedy’s Wars: Berlin, Cuba, Laos, and Vietnam_  (New York: Oxford University Press, 2000), 161.](https://www.questia.com/PM.qst?a=o&d=90323638)
+3. [Paul Harper and Joann P. Krieg, eds., _John F. Kennedy: The Promise Revisited_ (New York: Greenwood Press, 1988), 90.](https://www.questia.com/PM.qst?a=o&d=15070606)
+4. Unless otherwise noted, all of the information on this time line was extracted from audio-recordings and transcripts from meetings in the White House and that were made available by the John F. Kennedy Presidential Library.  Recordings and Transcripts are available at [https://www.hpol.org/jfk/cuban/](https://www.hpol.org/jfk/cuban/)
+5. [Robert S. Mcnamara, and James G. Blight, _Wilson’s Ghost: Reducing the Risk of Conflict, Killing, and Catastrophe in the 21st Century_ (New York: Public Affairs, 2001), 47.](https://www.questia.com/PM.qst?a=o&d=100986095)
+6. [Raymond L. Garthoff, _Reflections on the Cuban Missile Crisis_, Rev. ed. (Washington, DC: The Brookings Institution, 1989), 61.](https://www.questia.com/PM.qst?a=o&d=13755376)
 7. _The Cuban Crisis of 1962: Selected Documents and Chronology_, ed. Larson, David L. (Boston: Houghton Mifflin, 1963), 125.
-8. “_The Cuban Missile Crisis_”; available from [http://www.hpol.org/jfk/cuban/](http://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.
-9. [Roger Hilsman, _The Cuban Missile Crisis The Struggle over Policy_ (Westport, CT: Praeger Publishers, 1996), 104.](http://www.questia.com/PM.qst?a=o&d=14275244)
+8. “_The Cuban Missile Crisis_”; available from [https://www.hpol.org/jfk/cuban/](https://www.hpol.org/jfk/cuban/);  Internet; accessed 2 Dec 2005.
+9. [Roger Hilsman, _The Cuban Missile Crisis The Struggle over Policy_ (Westport, CT: Praeger Publishers, 1996), 104.](https://www.questia.com/PM.qst?a=o&d=14275244)
 10. Irving L. Janis. _“Groupthink,” Psychology Today._ November 1971, 43-44, 46, 74-76 Boston: Houghton Mifflin Company, 1972.

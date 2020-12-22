@@ -57,7 +57,7 @@ _Mix and match this schedule to suit your needs and weather conditions._
 
 ## Getting the Most out of Dublin
 
-There are [shared bikes all across Dublin](http://www.dublinbikes.ie/) and you can get a 3-day pass for just €5 and use the bikes an unlimited number of times for up to 30-minutes each ride. [Public transportation in Dublin](http://www.dublinbus.ie/) will cost you more and be less convenient in most cases, but if you anticipate bad weather just **keep some coins in your pocket for the bus** as they don't accept paper cash or cards, and they don't give change. I also wouldn't advise riding without a ticket, as the fine for getting caught can be as high as €1,000. Uber is also available throughout Dublin.
+There are [shared bikes all across Dublin](https://www.dublinbikes.ie/) and you can get a 3-day pass for just €5 and use the bikes an unlimited number of times for up to 30-minutes each ride. [Public transportation in Dublin](https://www.dublinbus.ie/) will cost you more and be less convenient in most cases, but if you anticipate bad weather just **keep some coins in your pocket for the bus** as they don't accept paper cash or cards, and they don't give change. I also wouldn't advise riding without a ticket, as the fine for getting caught can be as high as €1,000. Uber is also available throughout Dublin.
 
 That said, in the week I spent in Dublin, I never took the bus and I only took an Uber to the airport. **Dublin is very walkable.** Taking your own two feet is also the best way to explore the city. However, for a short weekend trip, you should probably take a bike, bus, or Uber to at least a few of the further out places, such as the Guinness Storehouse and the Jameson Distillery. I only say this as a timesaver and not because you couldn't walk it if you wanted to. So consult Google Maps and make the decision that is best for your schedule.
 
@@ -85,7 +85,7 @@ Dublin Castle is among the best things to do in Dublin, so what better place to 
 
 - **Time to Budget:** 1.5 hours
 
-- **Official Website:** [dublincastle.ie](http://www.dublincastle.ie/)
+- **Official Website:** [dublincastle.ie](https://www.dublincastle.ie/)
 
 {% assign gallery = site.data.galleries %}
 {% assign images = gallery["2018-02-03-dublin-weekend-itinerary"] %}

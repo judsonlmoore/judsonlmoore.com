@@ -37,14 +37,14 @@ _(Min 3 nights. Max 4-5 nights)_
 - Panorama (nearby mountain lookout looking over the city)
 - Central Mosque - no Blue Mosque and you can’t go inside. But if you’re in the neighborhood.
 - The central Russian Orthodox Church (go inside, see the art)
-- Hippodrom (if there are horse games, [Kok-Boru](http://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
+- Hippodrom (if there are horse games, [Kok-Boru](https://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
 - American University of Central Asia (AUCA)
 - DO NOT go to Metro Pub. It is a center for westerners and prostitutes.
 
 ## **Talas - The Wild Wild West**
 
 _(Min 1 night. Max 3 nights) (DO NOT TRAVEL AT NIGHT TO / FROM TALAS)_
-- [RadioMost](http://radiomost.org/)
+- [RadioMost](https://radiomost.org/)
 - [Manas Ordo](https://en.wikipedia.org/wiki/Manas_Ordo)
 - The River (notice the under-water cafe and the waterslide at the little lake on your right as you approach the river
 - Duck Schaschlik
@@ -56,12 +56,12 @@ _(Min 1 night. Max 3 nights)_
 - Beach Town.
 - Eat at [У рыбака](https://foursquare.com/v/%D1%83-%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%B0/4e219196628469a57416a165) “The Fisherman”
 - [Chyngyz Aitmatov Museum ](https://en.wikipedia.org/wiki/Chinghiz_Aitmatov)
-- Hippodrom (if there are horse games, [Kok-Boru](http://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
+- Hippodrom (if there are horse games, [Kok-Boru](https://www.smithsonianmag.com/people-places/kok-boru-the-horse-game-you-wont-see-at-the-olympics-18386029/?no-ist))
 
 ## **Karakol - Winter Ski Destination**
 
 _(Min 1 night. Max 3 nights)_
-- If you can, get a tour of the [Kumtor Gold Mine](http://www.kumtor.kg/en/), that would be awesome. But that is tough to make happen.
+- If you can, get a tour of the [Kumtor Gold Mine](https://www.kumtor.kg/en/), that would be awesome. But that is tough to make happen.
 - Karakol Zoo
 - They have the best Bozo Lagman in Kyrgyzstan, in the bazaar here.
 

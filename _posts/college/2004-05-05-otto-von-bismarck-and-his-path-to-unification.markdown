@@ -82,16 +82,16 @@ By giving the radical liberals a taste of democracy he preserved his union and t
 
 ### Bibliography
 
-- Cole, [Taylor. European Political Systems, 2nd ed. (New York: Knopf, 1960).](http://www.questia.com/PM.qst?a=o&d=8102366)
-- Craig, [Gordon A. Germany, 1866-1945 (New York: Oxford University Press, 1978)](http://www.questia.com/PM.qst?a=o&d=30331087).
-- Feuchtwanger, Edgar. “Bismarck, Prussia & German Nationalism,” History Review  (2001): 14 [database on-line]; available from Questia, [http://www.questia.com/;](http://www.questia.com/;) Internet; accessed 3 May 2004.
+- Cole, [Taylor. European Political Systems, 2nd ed. (New York: Knopf, 1960).](https://www.questia.com/PM.qst?a=o&d=8102366)
+- Craig, [Gordon A. Germany, 1866-1945 (New York: Oxford University Press, 1978)](https://www.questia.com/PM.qst?a=o&d=30331087).
+- Feuchtwanger, Edgar. “Bismarck, Prussia & German Nationalism,” History Review  (2001): 14 [database on-line]; available from Questia, [https://www.questia.com/;](https://www.questia.com/;) Internet; accessed 3 May 2004.
 - Headlam, James Wycliffe, Bismarck and the Foundation of the German Empire (New York: The Knickerbocker Press, 1907).
-- Lord, [Robert Howard. The Origins of the War of 1870: New Documents from the German Archives (Cambridge, MA: Harvard University Press, 1924).](http://www.questia.com/PM.qst?a=o&d=82398128)
-- Marriott, [J. A. R. and Robertson, C. Grant. The Evolution of Prussia, the Making of an Empire (Oxford: The Claredon Press, 1915)](http://www.questia.com/PM.qst?a=o&d=20863444).
-- Merkl, [Peter H. The Origin of the West German Republic (New York: Oxford University Press, 1963)](http://www.questia.com/PM.qst?a=o&d=10303681).
-- Murray, [Scott W. Liberal Diplomacy and German Unification: The Early Career of Robert Morier (Westport, CT: Praeger Publishers, 2000)](http://www.questia.com/PM.qst?a=o&d=27222052).
-- Pflanze, [Otto. Bismarck and the Development of Germany: The Period of Unification, 1815-1871 (Princeton, NJ: Princeton University Press, 1963)](http://www.questia.com/PM.qst?a=o&d=33733225).
-- Snell, [John L. The Democratic Movement in Germany, 1789-1914, ed. Schmitt, Hans A. (Chapel Hill: University of North Carolina Press, 1976)](http://www.questia.com/PM.qst?a=o&d=57166396).
-- [The Columbia Encyclopedia   6th ed., s.v.”Austro-Prussian War.”](http://www.questia.com/PM.qst?a=o&d=8138015)
-- [The Columbia Encyclopedia   6th ed., s.v.”Franco-Prussian War .”](http://www.questia.com/PM.qst?a=o&d=8152651)
+- Lord, [Robert Howard. The Origins of the War of 1870: New Documents from the German Archives (Cambridge, MA: Harvard University Press, 1924).](https://www.questia.com/PM.qst?a=o&d=82398128)
+- Marriott, [J. A. R. and Robertson, C. Grant. The Evolution of Prussia, the Making of an Empire (Oxford: The Claredon Press, 1915)](https://www.questia.com/PM.qst?a=o&d=20863444).
+- Merkl, [Peter H. The Origin of the West German Republic (New York: Oxford University Press, 1963)](https://www.questia.com/PM.qst?a=o&d=10303681).
+- Murray, [Scott W. Liberal Diplomacy and German Unification: The Early Career of Robert Morier (Westport, CT: Praeger Publishers, 2000)](https://www.questia.com/PM.qst?a=o&d=27222052).
+- Pflanze, [Otto. Bismarck and the Development of Germany: The Period of Unification, 1815-1871 (Princeton, NJ: Princeton University Press, 1963)](https://www.questia.com/PM.qst?a=o&d=33733225).
+- Snell, [John L. The Democratic Movement in Germany, 1789-1914, ed. Schmitt, Hans A. (Chapel Hill: University of North Carolina Press, 1976)](https://www.questia.com/PM.qst?a=o&d=57166396).
+- [The Columbia Encyclopedia   6th ed., s.v.”Austro-Prussian War.”](https://www.questia.com/PM.qst?a=o&d=8138015)
+- [The Columbia Encyclopedia   6th ed., s.v.”Franco-Prussian War .”](https://www.questia.com/PM.qst?a=o&d=8152651)
 - Moore, Robert W. PhD. Personal interview. 3 May 2004.

@@ -44,7 +44,7 @@ That way when you text someone, they will respond to your iMessage only and not 
 
 ## 3. Remove the SIM
 
-Once you’re on the plane, remove your SIM card. You’ll also want a [SIM tool](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=sim+tool) just to make life easier, or just use a paperclip.
+Once you’re on the plane, remove your SIM card. You’ll also want a [SIM tool](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=sim+tool) just to make life easier, or just use a paperclip.
 
 {% cloudinary /assets/images/2016/10/iphone-sim-removal-diagram.png alt="A diagram of how to remove a SIM card from an iPhone with a paperclip." %}
 

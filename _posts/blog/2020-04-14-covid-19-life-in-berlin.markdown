@@ -68,7 +68,7 @@ I've never been one to struggle with finding ways to occupy my time. To be hones
 
 ## Music
 
-This is probably the most exciting thing I have been up to! About 20 years ago, my best friend, [Diimond Meeks](https://www.diimondmeeks.com/), and I, recorded our first studio album together. We laid the tracks at [Sockit Studio](http://sockitstudio.com/) in Baton Rouge with Devon Kirkpatrick engineering (he has a wide range of Grammy nominations and a rich background at Sony Studios in NYC). 
+This is probably the most exciting thing I have been up to! About 20 years ago, my best friend, [Diimond Meeks](https://www.diimondmeeks.com/), and I, recorded our first studio album together. We laid the tracks at [Sockit Studio](https://sockitstudio.com/) in Baton Rouge with Devon Kirkpatrick engineering (he has a wide range of Grammy nominations and a rich background at Sony Studios in NYC). 
 
 We recorded 11 songs there with very professional equipment. However, we also ran out of money before we got it all properly mixed and mastered. In 2015, I reached out to the studio and they were able to send me all of the original audio files, track by track. Now I've imported them to Garageband and am giving the music a new life. 
 

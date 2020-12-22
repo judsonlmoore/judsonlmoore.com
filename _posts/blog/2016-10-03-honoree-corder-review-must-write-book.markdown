@@ -18,7 +18,7 @@ Spoiler Alert! YOU can write a book, and with Honorée Corder's most recent book
 
 **Lowlights -** Crafting the reader journey via a comprehensive story-arch is not covered in-depth. Outlining techniques are well explained but the creative component is lacking.
 
-**Bottom Line -** You should read the rest of my post, but feel free to do it after you [buy the book](http://amzn.to/2dmMtlo). It is just that good! If you have ever considered writing a book on any topic but don't know where to start or even how to finish, then *You Must Write A Book*, by Honorée Corder is a must-read.
+**Bottom Line -** You should read the rest of my post, but feel free to do it after you [buy the book](https://amzn.to/2dmMtlo). It is just that good! If you have ever considered writing a book on any topic but don't know where to start or even how to finish, then *You Must Write A Book*, by Honorée Corder is a must-read.
 
 ## Summary of You Must Write A Book
 
@@ -52,10 +52,10 @@ Honorée says many times that being a genius, having 40 years experience, or bei
 
 ## Will You Accept the Challenge?
 
-Now it is your turn! What will you do? Will you read this book? Will you write your own book? [Buying it now on Amazon](http://amzn.to/2dmMtlo) is the first step. I would LOVE to discuss this book and your writing with you further. Please leave me a comment below, or contact me directly at [@JudsonLMoore](https://twitter.com/judsonlmoore).
+Now it is your turn! What will you do? Will you read this book? Will you write your own book? [Buying it now on Amazon](https://amzn.to/2dmMtlo) is the first step. I would LOVE to discuss this book and your writing with you further. Please leave me a comment below, or contact me directly at [@JudsonLMoore](https://twitter.com/judsonlmoore).
 
 **Spoiler Alert #2:** I am writing a book! Look for it later this year. To be alerted of all my updates and when my book is published, [subscribe to my newsletter now](/subscribe/).
 
 {% cloudinary /assets/images/2016/09/honoree-corder-headshot-e1474796598717.jpg alt="Honoree Corder, Author" description="About Honorée Corder" %}
 
-Honorée Corder is the author of 20 books, including _You Must Write a Book, Vision to Reality_, _Prosperity for Writers_, _Business Dating_, *The Successful Single Mom* book series, _If Divorce is a Game, These are the Rules_, and _The Divorced Phoenix_. She is also Hal Elrod’s business partner in _The Miracle Morning_ book series. She also does all sorts of other magical things, and her badassery is legendary. You can find out more at [HonoreeCorder.com](http://honoreecorder.com/).
+Honorée Corder is the author of 20 books, including _You Must Write a Book, Vision to Reality_, _Prosperity for Writers_, _Business Dating_, *The Successful Single Mom* book series, _If Divorce is a Game, These are the Rules_, and _The Divorced Phoenix_. She is also Hal Elrod’s business partner in _The Miracle Morning_ book series. She also does all sorts of other magical things, and her badassery is legendary. You can find out more at [HonoreeCorder.com](https://honoreecorder.com/).

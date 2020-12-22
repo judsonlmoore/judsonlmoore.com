@@ -84,7 +84,7 @@
                 return symbolMap[match];
             });
         },
-        // refer http://ta.wikipedia.org/s/1er1
+        // refer https://ta.wikipedia.org/s/1er1
         meridiemParse: /யாமம்|வைகறை|காலை|நண்பகல்|எற்பாடு|மாலை/,
         meridiem : function (hour, minute, isLower) {
             if (hour < 2) {

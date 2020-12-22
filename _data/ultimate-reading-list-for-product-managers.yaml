@@ -105,7 +105,7 @@ articles:
   - title: Guide to Kano prioritization model
     url: https://foldingburritos.com/kano-model/
   - title: Action priority matrix
-    url: http://www.mindtools.com/pages/article/newHTE_95.htm
+    url: https://www.mindtools.com/pages/article/newHTE_95.htm
   - title: Article on making good decisions
     url: https://medium.com/the-black-box-of-product-management/making-good-decisions-as-a-product-manager-c66ddacc9e2b
   - title: Article on selling a vision
@@ -140,28 +140,28 @@ blogs:
     url: https://hitenism.com/
     review: Has an email newsletter called SaaS Weekly where he shares the best links of the week for anyone interested in SaaS businesses.
   - title: Patrick Vlaskovits
-    url: http://vlaskovits.com/
+    url: https://vlaskovits.com/
     review: Patrick routinely speaks at technology conferences nationally and internationally, including SXSW, GROW Conference, The Turing Festival and The Lean Startup Conference. He serves as a mentor for 500 Startups seed fund and startup accelerator and is founder and CEO of Superpowered.
   - title: Startup Marketing
-    url: http://www.startup-marketing.com/
+    url: https://www.startup-marketing.com/
     review: From the founder and CEO of GrowthHackers.com and Qualaroo (until it was acquired), this blog offers a wealth of insights about marketing your startup.
   - title: Venturehacks
-    url: http://venturehacks.com/
+    url: https://venturehacks.com/
     review: Advice for startups from the co-founders of AngelList.
   - title: 1The Hustle
     url: https://thehustle.co/
     review: Daily newsletter of business and tech news read in 5 minutes or less.
   - title: Exponential View
-    url: http://www.exponentialview.co/
+    url: https://www.exponentialview.co/
     review: Reading Exponential View weekly is a mental exercise in understanding the present from a multidisciplinary perspective of economics, technology, philosophy, and business, in order to explain the future. 
   - title: Hacker newsletter
-    url: http://www.hackernewsletter.com/
+    url: https://www.hackernewsletter.com/
     review: Since 2010, a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. Join 60,000+ other subscribers and don't miss another week.
   - title: Benedict Evans
     url: https://www.ben-evans.com/newsletter/
     review: Weekly newsletter with business insights. 
   - title: UXdesign.cc
-    url: http://newsletter.uxdesign.cc/
+    url: https://newsletter.uxdesign.cc/
     review: A weekly, self-funded newsletter that helps 130,200 designers stay in the know, be productive, and think more critically about their work.
   - title: Find The Best Product Development Frameworks
     url: https://www.product-frameworks.com/
@@ -278,7 +278,7 @@ twitter:
 other:
   - title: https://adele.uxpin.com/
     review: The repository of publicly available design systems and pattern libraries
-  - title: http://ui-patterns.com/patterns
+  - title: https://ui-patterns.com/patterns
     review: User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer.
   - title: https://uxresources.design/
     review: This website is an attempt at curating the most essential and reliable list of sources designers need to be aware of to keep up to date with our industry.

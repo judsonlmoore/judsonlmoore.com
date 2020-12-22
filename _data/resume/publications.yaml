@@ -1,6 +1,6 @@
 - name: LSU Alumni Association
   title: Update Kyrgyzstan
-  url: http://issuu.com/lsualumni/
+  url: https://issuu.com/lsualumni/
   image: /assets/images/logos/logo-lsu-alumni-association.png
   image-bw: /assets/images/logos/logo-lsu-alumni-association.png
   points: 
@@ -17,7 +17,7 @@
 
 - name: recode
   title: How to Achieve Silicon Valley Anywhere
-  url: http://recode.net/2014/06/25/how-to-achieve-silicon-valley-anywhere/
+  url: https://recode.net/2014/06/25/how-to-achieve-silicon-valley-anywhere/
   image: /assets/images/logos/logo-recode.png
   image-bw: /assets/images/logos/logo-recode.png
   points: 
@@ -34,7 +34,7 @@
 
 - name: UNESCO
   title: Five mobile community media centers launched in Kyrgyzstan
-  url: http://www.unesco.kz/conference-in-kyrgyzstan-the-role-of-community-media-in-the-development-of-society
+  url: https://www.unesco.kz/conference-in-kyrgyzstan-the-role-of-community-media-in-the-development-of-society
   image: /assets/images/logos/logo-unesco.png
   image-bw: /assets/images/logos/logo-unesco.png
   points: 

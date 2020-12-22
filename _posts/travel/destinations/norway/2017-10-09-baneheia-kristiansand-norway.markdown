@@ -30,7 +30,7 @@ Today's activity is a hike! The weather was perfect and considering everything w
 
 We walked our way through the town center of Kristiansand, which was very quaint. The buildings are brightly painted and the harbor extends like a driveway all the way up to the storefronts. I imagine that such charm comes quite in hand during the long, dark winter.
 
-**Want to join me next year for trivago on Tour? [See trivago’s open career opportunities](http://company.trivago.com/jobs/).**
+**Want to join me next year for trivago on Tour? [See trivago’s open career opportunities](https://company.trivago.com/jobs/).**
 
 The cafes and restaurants all had a 5-star appeal to them. I checked out some of the menus as we walked by and the prices didn't seem at all out of the ordinary for any other place I have been to in Europe. This went at least a small way to shatter my expectation that Norway would make for a cost-prohibitive holiday in the future.
 
@@ -60,6 +60,6 @@ Again, the weather could not have been more perfect for us on this day. Here are
 
 ## It was a great day
 
-It was a great day and I am thankful to trivago for making it possible! **Maybe you can join us next year!** If you are interested to join me in 2018, just take a look at [the open careers at trivago](http://company.trivago.com/jobs/)! If anything looks interesting to you, let me know and I will be happy to chat with you about a career in trivago.
+It was a great day and I am thankful to trivago for making it possible! **Maybe you can join us next year!** If you are interested to join me in 2018, just take a look at [the open careers at trivago](https://company.trivago.com/jobs/)! If anything looks interesting to you, let me know and I will be happy to chat with you about a career in trivago.
 
 Have you ever been to Norway? Would you like to go there someday? If so, **I would love to hear from you!** [Just leave a comment below](/trivago-tour-2017/#disqus_thread), and be sure to follow me on Twitter at [@judsonlmoore](https://www.twitter.com/judsonlmoore/). Until next trip, travel well!

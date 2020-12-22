@@ -40,11 +40,11 @@ I talked about a lot in this episode of the Without a Path Podcast. Here are som
 
 - [Kloop School of Journalism](https://kloop.kg/) - This nontraditional school in Kyrgyzstan teaches Western-style journalism practices to youth. Their stories are published on one of Central Asia's most-read news sites.
 
-- [Kyrgyz Media](http://kyrgyzmedia.kg/) - This is the project that I launched while in the Peace Corps. Even if you don't read Russian or Kyrgyz, just looking through the photos in the posts will tell you a lot about the Kyrgyz People.
+- [Kyrgyz Media](https://kyrgyzmedia.kg/) - This is the project that I launched while in the Peace Corps. Even if you don't read Russian or Kyrgyz, just looking through the photos in the posts will tell you a lot about the Kyrgyz People.
 
 - [Friends of Kyrgyzstan Cookbook](https://www.friendsofkyrgyzstan.com/cookbook/) - This is a cookbook written by Peace Corps Volunteers in Kyrgyzstan. Many of the recipes are of traditional foods from the area and are easy to prepare.
 
-- [World Nomad Games](http://worldnomadgames.com/en/) - It is like the Olympics for nomadic cultures. Teams from all over the world compete in a series of games which have been played for thousands of years. The 2018 World Nomad Games will be hosted in Issyk-Kul Kyrgyzstan from September 2-8, 2018. I will be there for sure, will you?
+- [World Nomad Games](https://worldnomadgames.com/en/) - It is like the Olympics for nomadic cultures. Teams from all over the world compete in a series of games which have been played for thousands of years. The 2018 World Nomad Games will be hosted in Issyk-Kul Kyrgyzstan from September 2-8, 2018. I will be there for sure, will you?
 
 ## The Sheep-Slaughter Video
 

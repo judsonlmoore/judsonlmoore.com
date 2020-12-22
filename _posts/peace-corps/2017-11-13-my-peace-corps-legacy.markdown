@@ -31,7 +31,7 @@ Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone
 
 {% cloudinary /assets/images/2017/11/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg alt="Judson delivering the keynote at a media conference in Bishkek in November 2017" description="Judson delivering the keynote at a media conference in Bishkek in November 2017." %}
 
-[kyrgyzmedia.kg](http://kyrgyzmedia.kg/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
+[kyrgyzmedia.kg](https://kyrgyzmedia.kg/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
 
 **I couldn’t be prouder** that this project’s origins are from an idea that I had and fought for, wrote the original project plan for and even secured the first rounds of funding for. However, the success and achievements are, and always have been, with the journalists who are utilizing the technology to tell their story.
 
@@ -53,11 +53,11 @@ This week, my old doctor shared with me the news that **something indeed did hap
 
 The son of a Kyrgyz parliamentarian read the article and showed it to his father, urging that these conditions were a shame and that the country should address them. After all, Kyrgyzstan certainly has **the resources to do better**. As the English idiom goes, “the squeaky wheel gets the grease,” and it would appear that my article was a pretty loud squeak.
 
-What I have now learned, is that this started a wave on which enough support was gained to make **serious improvements** to the country’s medical facilities. Just last month, [a state of the art oncology center was opened in Bishkek](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html). As for the surgical center where I received treatment, it has also seen a facelift.
+What I have now learned, is that this started a wave on which enough support was gained to make **serious improvements** to the country’s medical facilities. Just last month, [a state of the art oncology center was opened in Bishkek](https://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html). As for the surgical center where I received treatment, it has also seen a facelift.
 
 I was only dreaming that by sharing my experiences, I could make some impact at all on the Kyrgyz health care system. To learn that now a whole new hospital has been built on the support which my article played a part in forming is one of **the most remarkable things** I have ever come to know.
 
-{% cloudinary /assets/images/2017/11/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg alt="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility." description="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html)" %}
+{% cloudinary /assets/images/2017/11/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg alt="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility." description="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](https://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html)" %}
 
 ## Students attending university
 

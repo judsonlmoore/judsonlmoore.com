@@ -16,7 +16,7 @@ Many moons ago, my family made the treacherous journey across the Atlantic Ocean
 
 My bike tour group had 15 people in it and we were led by an awesome guide name Julia. It was clear from the start that Julia understands that she lives the dream. She just bikes all day and gets paid to meet people from all over the world. That is a pretty sweet gig if you ask me!
 
-**Want to join me next year for trivago on Tour? [See trivago’s open career opportunities](http://company.trivago.com/jobs/).**
+**Want to join me next year for trivago on Tour? [See trivago’s open career opportunities](https://company.trivago.com/jobs/).**
 
 I will share some photos and history lessons learned while on the tour in the article below, and to help you follow along, here is a map of the route we rode.
 
@@ -126,4 +126,4 @@ Have you been to Copenhagen before? Do you have other suggestions or a favorite 
 
 [Would you like a postcard from Denmark? Click here now! ](/product/handwritten-postcard-copenhagen/)
 
-What do you think? Could you handle trivago on Tour? **Maybe you can join next year!** If you are interested to join me in 2018, just take a look at [the open careers at trivago](http://company.trivago.com/jobs/)! If anything looks interesting to you, let me know and I will be happy to chat with you about a career in trivago.
+What do you think? Could you handle trivago on Tour? **Maybe you can join next year!** If you are interested to join me in 2018, just take a look at [the open careers at trivago](https://company.trivago.com/jobs/)! If anything looks interesting to you, let me know and I will be happy to chat with you about a career in trivago.

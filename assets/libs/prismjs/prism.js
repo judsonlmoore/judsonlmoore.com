@@ -13,8 +13,8 @@ var _self = (typeof window !== 'undefined')
 
 /**
  * Prism: Lightweight, robust, elegant syntax highlighting
- * MIT license http://www.opensource.org/licenses/mit-license.php/
- * @author Lea Verou http://lea.verou.me
+ * MIT license https://www.opensource.org/licenses/mit-license.php/
+ * @author Lea Verou https://lea.verou.me
  */
 
 var Prism = (function (_self){
@@ -134,8 +134,8 @@ var _ = {
 				// A stack will look like this:
 				//
 				// Error
-				//    at _.util.currentScript (http://localhost/components/prism-core.js:119:5)
-				//    at Global code (http://localhost/components/prism-core.js:606:1)
+				//    at _.util.currentScript (https://localhost/components/prism-core.js:119:5)
+				//    at Global code (https://localhost/components/prism-core.js:606:1)
 
 				var src = (/at [^(\r\n]*\((.*):.+:.+\)$/i.exec(err.stack) || [])[1];
 				if (src) {
@@ -857,7 +857,7 @@ Prism.languages.javascript = Prism.languages.extend('clike', {
 		},
 	],
 	'number': /\b(?:(?:0[xX](?:[\dA-Fa-f](?:_[\dA-Fa-f])?)+|0[bB](?:[01](?:_[01])?)+|0[oO](?:[0-7](?:_[0-7])?)+)n?|(?:\d(?:_\d)?)+n|NaN|Infinity)\b|(?:\b(?:\d(?:_\d)?)+\.?(?:\d(?:_\d)?)*|\B\.(?:\d(?:_\d)?)+)(?:[Ee][+-]?(?:\d(?:_\d)?)+)?/,
-	// Allow for all non-ASCII characters (See http://stackoverflow.com/a/2008444)
+	// Allow for all non-ASCII characters (See https://stackoverflow.com/a/2008444)
 	'function': /#?[_$a-zA-Z\xA0-\uFFFF][$\w\xA0-\uFFFF]*(?=\s*(?:\.\s*(?:apply|bind|call)\s*)?\()/,
 	'operator': /--|\+\+|\*\*=?|=>|&&|\|\||[!=]==|<<=?|>>>?=?|[-+*/%&|^!=<>]=?|\.{3}|\?[.?]?|[~:]/
 });

@@ -28,7 +28,7 @@ There were several tour companies offering free walking tours in Edinburgh but I
 
 There are a wide variety of free and paid tours offered by SANDEMANs in Edinburgh. You can check out the tours and schedules on [the SANDEMANs website](https://www.neweuropetours.eu/edinburgh-walking-tours/).
 
-I started my morning with the free walking tour and then I added the Edinburgh Castle tour to the afternoon. For both tours, I had the same guide; a really witty and very smart guy named [Dave](http://www.neweuropetours.eu/Edinburgh/en/Guides/Details/Yb9onL/dave). I overheard a few other guides introduce themselves and though their dry nature might be preferred by some, I really enjoyed spending the day with Dave. **If you get a chance to choose, I vote that you request Dave.**
+I started my morning with the free walking tour and then I added the Edinburgh Castle tour to the afternoon. For both tours, I had the same guide; a really witty and very smart guy named [Dave](https://www.neweuropetours.eu/Edinburgh/en/Guides/Details/Yb9onL/dave). I overheard a few other guides introduce themselves and though their dry nature might be preferred by some, I really enjoyed spending the day with Dave. **If you get a chance to choose, I vote that you request Dave.**
 
 I was really lucky with the weather the day I was in Edinburg but what is good to know is that all of SANDEMANs **tours will go on as scheduled rain or shine**. The tours meet up on The Royal Mile which is the main street connecting the Edinburgh Castle at one end with the Royal Palace of Holyroodhouse on the other. The street in between is packed with shops and cafes, some of which even offer a discount to SANDEMANs ticket holders.
 

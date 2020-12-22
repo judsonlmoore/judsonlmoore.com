@@ -14,7 +14,7 @@ image:			/assets/images/2012/07/BishkekICTTraining_002.jpg
 
 If there is a reason why I joined the Peace Corps it was the experience of the last few days. I conducted an ICT training for students from the southern oblast of Jalalabad where I am not allowed to travel due to Peace Corps regulations. Since I could not go to them, they came to me! Many of these students had never touched a computer before and their only interaction with the internet was what they could access through their cell phones and using text-based messaging service. While covering the basics of the internet, search, social media, research and MC Office, these students all picked up the taught basic skills right away. They were truly incredible.
 
-We also organized a tour for them of the local [Sierra Coffee](http://sierra.kg) bean roasting facility and a number of universities so they could see for their own eyes what entrepreneurial and educational opportunities existed in Kyrgyzstan.
+We also organized a tour for them of the local [Sierra Coffee](https://sierra.kg) bean roasting facility and a number of universities so they could see for their own eyes what entrepreneurial and educational opportunities existed in Kyrgyzstan.
 
 Camp organizer,  Meerim Mamyrbekova, wrote a fantastic final report so rather than try to redo what she has so well done herself, I have just given you some photos and included the text of the final report below.
 
@@ -74,7 +74,7 @@ IT training which was planned to be held in Karakol, Issyk Kul at American Corne
 
 However, we did not lose our hope and were lucky to find a real IT class in Bishkek. We rented a class with 15 computers; it had internet WiFi, AC in that hot summer, a projector and a nice board.  Each student had a chance to use one computer.
 
-Judson Moore, IT trainer charmed students with his simple method of explaining the topics. Meerim served as a translator when kids had difficulties in understanding some computer terms. Judson taught kids step by step for typing, Microsoft Word, Excel, opening email in [www.mail.ru](http://www.mail.ru), Youtube, Google, Wikipedia, Skype, Facebook and Twitter.
+Judson Moore, IT trainer charmed students with his simple method of explaining the topics. Meerim served as a translator when kids had difficulties in understanding some computer terms. Judson taught kids step by step for typing, Microsoft Word, Excel, opening email in [www.mail.ru](https://www.mail.ru), Youtube, Google, Wikipedia, Skype, Facebook and Twitter.
 
 Within 2 days camp participants were able not only to type, but also how to surf on the internet; kids voted unanimously to open accounts on Twitter. Moreover, Judson explained how social networks could be useful in education. He spoke about the advantages of Facebook and Twitter over Mail Agent, which is a social network for CIS. Meerim’s friends Jyrgal Ormonov, Raimaly Narjigitov and Nurgazy Zhusubaliev assisted Judson in order to reach every student and help if they had difficulties.
 
@@ -108,7 +108,7 @@ Minus was to hear refusal from American Corner on the very last day. It was a go
 
 **We’re on TV**
 
-During IT training a correspondent Ali Toktakunov from Azattyk, Liberty Radio came to interview us for their upcoming TV show about young leaders. After a week we were shown on TV on Kyrgyz Channel One in the video reportage part. Also, Judson Moore, our IT trainer is writing an article about this summer camp for the journal of Louisiana State University, which hopefully will be published in fall. Here is the link for video from Azattyk [http://www.azattyk.kg/media/video/24647888.html](http://www.azattyk.kg/media/video/24647888.html);
+During IT training a correspondent Ali Toktakunov from Azattyk, Liberty Radio came to interview us for their upcoming TV show about young leaders. After a week we were shown on TV on Kyrgyz Channel One in the video reportage part. Also, Judson Moore, our IT trainer is writing an article about this summer camp for the journal of Louisiana State University, which hopefully will be published in fall. Here is the link for video from Azattyk [https://www.azattyk.kg/media/video/24647888.html](https://www.azattyk.kg/media/video/24647888.html);
 
 **Changes**
 

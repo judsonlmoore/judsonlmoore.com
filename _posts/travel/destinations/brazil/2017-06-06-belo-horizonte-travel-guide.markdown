@@ -17,7 +17,7 @@ Belo Horizonte is Brazil's sixth-largest city and the capital of the state of Mi
 
 I came to Belo Horizonte to visit my friend Lilian and her now husband, Glauco. I knew Lilian from my Rotary Youth Exchange year in Germany. Lilian and her family would later host me for 6-weeks while I explored Belo Horizonte and the surrounding area. It came to feel like home fairly quickly. In this Belo Horizonte Travel Guide, **I will recount the highlights of my favorite places in the city.**
 
-_This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](http://VisitBrasil.com). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
+_This post was written with support from Embratur, which is part of the Brazilian Ministry of Tourism and which operates [VisitBrasil.com](https://VisitBrasil.com). They have supplied me with images and marketing support. All views expressed are solely my own and based on my personal experiences and independent research._
 
 ## In A Nutshell
 
@@ -55,7 +55,7 @@ The name of the state Belo Horizonte is in is *Minas Gerais,* which translates
 
 **Further Reading: [Ouro Preto Brazil is the heart of Brazil, Revolution, and an economic explosion](/ouro-preto-brazil-travel-guide/)**
 
-There are many museums in Belo Horizonte, but perhaps the most unique is the [Museu do metal](http://www.mmgerdau.org.br/explore-o-museu/). This museum tells the history of metal in Brazil. The precious ores have been at the heart of Brazil's economic success, and their ability to be among the world's emerging superpowers. The museum is a modern structure with **breathtaking architecture, play on light, reflection, and metal of every shape, size, and color**.
+There are many museums in Belo Horizonte, but perhaps the most unique is the [Museu do metal](https://www.mmgerdau.org.br/explore-o-museu/). This museum tells the history of metal in Brazil. The precious ores have been at the heart of Brazil's economic success, and their ability to be among the world's emerging superpowers. The museum is a modern structure with **breathtaking architecture, play on light, reflection, and metal of every shape, size, and color**.
 
 {% cloudinary /assets/images/2017/04/Belo-Horizonte-Brasil-Minas-Gerais-Museu-do-metal.jpg alt="Belo Horizonte, Brasil, Minas Gerais, Museu do metal" description="Belo Horizonte, Brasil, Minas Gerais, Museu do metal. Courtesy [Embratur Image Bank](https://www.flickr.com/photos/visitbrasil/)." %}
 
@@ -81,4 +81,4 @@ Here are two places I can recommend for catching the panoramic view of Belo Hori
 
 ## How to get more information about Belo Horizonte
 
-There is a wealth of additional information about [Belo Horizonte on VisitBrasil.com](http://www.visitbrasil.com/en/destinos/belo-horizonte/). If you are planning a trip to the area, I encourage you to visit that resource. Also, do please leave me a comment below with questions or comments from your own experiences in Belo Horizonte. I wish you a wonderful time in this great city of Brazil!
+There is a wealth of additional information about [Belo Horizonte on VisitBrasil.com](https://www.visitbrasil.com/en/destinos/belo-horizonte/). If you are planning a trip to the area, I encourage you to visit that resource. Also, do please leave me a comment below with questions or comments from your own experiences in Belo Horizonte. I wish you a wonderful time in this great city of Brazil!

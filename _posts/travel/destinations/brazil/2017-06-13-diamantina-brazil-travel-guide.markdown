@@ -79,4 +79,4 @@ This architectural style extends beyond the churches of Diamantina to the early 
 
 ## Adeus
 
-For more information about Diamantina, check out this page on [VisitBrasil.com](http://www.visitbrasil.com/en/destinos/diamantina/). If you have something to add or an experience to share, please leave a comment below or connect with me directly on Twitter at [@judsonlmoore](https://twitter.com/judsonlmoore).
+For more information about Diamantina, check out this page on [VisitBrasil.com](https://www.visitbrasil.com/en/destinos/diamantina/). If you have something to add or an experience to share, please leave a comment below or connect with me directly on Twitter at [@judsonlmoore](https://twitter.com/judsonlmoore).

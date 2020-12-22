@@ -27,9 +27,9 @@ This is useful regardless of the language you are studying. If you are studying 
 
 ## Search for Cognates (but beware!)
 
-Many languages share common words which can give you a head start communicating with others. When I lived in Kyrgyzstan, I joked that every item invented since the pencil was a cognate from English. As an example, here is a list of [1001 Spanish words you may already know](http://www.realfastspanish.com/vocabulary/spanish-cognates). Impressive right? You already speak survival Spanish without any effort!
+Many languages share common words which can give you a head start communicating with others. When I lived in Kyrgyzstan, I joked that every item invented since the pencil was a cognate from English. As an example, here is a list of [1001 Spanish words you may already know](https://www.realfastspanish.com/vocabulary/spanish-cognates). Impressive right? You already speak survival Spanish without any effort!
 
-Beware of false cognates. These are words which sound like a word in your language, but which has a different meaning in the other language. Here are a couple of funny [false cognates in French](http://www.rosettastone.com/blog/10-funny-french-false-friends/).
+Beware of false cognates. These are words which sound like a word in your language, but which has a different meaning in the other language. Here are a couple of funny [false cognates in French](https://www.rosettastone.com/blog/10-funny-french-false-friends/).
 
 ## Listen... Uncomfortably
 

@@ -101,18 +101,18 @@ The history of the 20th Century in the Middle East is full of conflict and not m
 
 SOURCES
 
-1. Betsy Pisik, “Boutros-Ghali Suggests ‘Shock’ for Mideast Talks: Cites Sadat’s ‘77 Speech to Knesset,” _The Washington Times_, 21 May 1997, 9 [database on-line]; available from Questia, [http://www.questia.com/;](http://www.questia.com/;) Internet; accessed 8 April 2005.
+1. Betsy Pisik, “Boutros-Ghali Suggests ‘Shock’ for Mideast Talks: Cites Sadat’s ‘77 Speech to Knesset,” _The Washington Times_, 21 May 1997, 9 [database on-line]; available from Questia, [https://www.questia.com/;](https://www.questia.com/;) Internet; accessed 8 April 2005.
 2. Mohamed Rabie, _U.S.-PLO Dialogue: Secret Diplomacy and Conflict Resolution _(Gainesville, FL: University Press of Florida, 1995), 4.
 3. Bernard Reich, “10 Israel’s Foreign Policy and the 1977 Parliamentary Elections,” in _Israel at the Polls: The Knesset Elections of 1977_, ed. Howard R. Penniman (Washington: American Enterprise Institute, 1979), 273.
 4. Adam Garfinkle, _Politics and Society in Modern Israel: Myths and Realities_, 2nd ed. (Armonk, NY: M.E.Sharpe, 2000), 222.
 5. Adam Garfinkle, _Politics and Society in Modern Israel: Myths and Realities_, 2nd ed. (Armonk, NY: M.E.Sharpe, 2000), 222.
-6. Bruce Herschensohn, “Ten Mistakes in the Middle East,” _World and I_, September 2001, 62 [database on-line]; available from Questia, [http://www.questia.com/;](http://www.questia.com/;) Internet; accessed 27 April 2005.
+6. Bruce Herschensohn, “Ten Mistakes in the Middle East,” _World and I_, September 2001, 62 [database on-line]; available from Questia, [https://www.questia.com/;](https://www.questia.com/;) Internet; accessed 27 April 2005.
 7. Paul A. Jureidini, and R. D. McLaurin, _Beyond Camp David: Emerging Alignments and Leaders in the Middle East_, 1st ed. (Syracuse, NY: Syracuse University Press, 1981), 152.
 8. Samuel Segev, “Did President Carter Miss an Opportunity for Peace Between Israel and Jordan—Or is the “Jordanian Option” Still a Viable Solution?,” in _Jimmy Carter: Foreign Policy and Post-Presidential Years_, eds. Herbert D. Rosenbaum and Alexej Ugrinsky (Westport, CT: Greenwood Press, 1994), 137.
 9. Zbigniew Brzezinski, _Power and Principle: Memoirs of the National Security Adviser, 1977-1981_, (Farrar Straus & Giroux, 1983), 255.
 10. Nitza Nachmias, _Transfer of Arms, Leverage, and Peace in the Middle East _(New York: Greenwood Press, 1988), 94.
-11. *Jimmy Carter Presidential Daily Diary*, September 10, 1978 [database on-line]; available from the Jimmy Carter Presidential Library, [http://jimmycarterlibrary.org/documents/diary/1978/d091078t.pdf;](http://jimmycarterlibrary.org/documents/diary/1978/d091078t.pdf;) Internet; accessed 4 May 2005.
-12. *Negotiations – First Few Days*; [http://www.ibiblio.org/sullivan/Negotiations-1.html](http://www.ibiblio.org/sullivan/Negotiations-1.html) 1.html; Internet; accessed 4 May 2005.
+11. *Jimmy Carter Presidential Daily Diary*, September 10, 1978 [database on-line]; available from the Jimmy Carter Presidential Library, [https://jimmycarterlibrary.org/documents/diary/1978/d091078t.pdf;](https://jimmycarterlibrary.org/documents/diary/1978/d091078t.pdf;) Internet; accessed 4 May 2005.
+12. *Negotiations – First Few Days*; [https://www.ibiblio.org/sullivan/Negotiations-1.html](https://www.ibiblio.org/sullivan/Negotiations-1.html) 1.html; Internet; accessed 4 May 2005.
 13. Karen A. Feste, _Plans for Peace: Negotiation and the Arab-Israeli Conflict _(New York: Praeger, 1991), 34.
 14. Joseph E. Goldberg et al., eds., _An Historical Encyclopedia of the Arab-Israeli Conflict _(Westport, CT: Greenwood, 1996), 323.
 15. Paul Cossali, “Arab-Israeli Relations 1967-2001,” in _A Survey of Arab-Israeli Relations 1947-2001_, ed. David Lea (London: Europa, 2002) 70.

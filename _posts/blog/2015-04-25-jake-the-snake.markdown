@@ -10,7 +10,7 @@ excerpt:		Cyclocross is a hybrid road / trail bike sport which combines speed wi
 image:			/assets/images/2015/04/2015-kona-jake-the-snake.jpg
 ---
 
-I've had road bikes and mountain bikes, now I am settling into something right in the middle: a cyclocross bike! There is a vibrant cyclocross race culture here in Austin, and it's a whole other world of biking which I think I will really love. This is my first CX bike, and I love it! [Kona's 2015 Jake The Snake](http://2015.konaworld.com/jake_the_snake.cfm) cyclocross bike offers lots of higher-end amenities at a very reasonable price point. Here are the specs on the bike.
+I've had road bikes and mountain bikes, now I am settling into something right in the middle: a cyclocross bike! There is a vibrant cyclocross race culture here in Austin, and it's a whole other world of biking which I think I will really love. This is my first CX bike, and I love it! [Kona's 2015 Jake The Snake](https://2015.konaworld.com/jake_the_snake.cfm) cyclocross bike offers lots of higher-end amenities at a very reasonable price point. Here are the specs on the bike.
 
 ## 2015 Kona Jake The Snake Specs
 

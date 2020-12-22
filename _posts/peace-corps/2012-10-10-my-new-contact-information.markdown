@@ -30,7 +30,7 @@ Kyrgyzstan
 Кыргызская
 Республика
 
-[Download Mailing Label Here (click)](http://judsonmoore.com/r/d/mailing_label.pdf)
+[Download Mailing Label Here (click)](https://judsonmoore.com/r/d/mailing_label.pdf)
 
 **Telephone:**
 +996 770 76 00 45 Kyrgyzstan

@@ -1,6 +1,6 @@
 /*
  Input Mask plugin binding
- http://github.com/RobinHerbots/jquery.inputmask
+ https://github.com/RobinHerbots/jquery.inputmask
  Copyright (c) Robin Herbots
  Licensed under the MIT license
  */

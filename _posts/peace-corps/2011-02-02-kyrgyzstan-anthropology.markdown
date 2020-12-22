@@ -22,4 +22,4 @@ I also highly recommend a book edited by Jeff Sahadeo and Russell Zanca on Every
 Finally, you might also want to read Erica Marat's book on the Tulip Revolution. She is a journalist, and has published other things that are available online. Madeleiene Reeves has also published some online articles about the second political coup in Kyrgyzstan.   
 The country is extremely beautiful, but there are serious economic problems which are further complicated by the problem of corruption.
 
-There is a fairly complete bibliography of resources on the region on Dr. Werner's website under resources: [[http://cynthiawerner.com](http://cynthiawerner.com)](http://cynthiawerner.com/)
+There is a fairly complete bibliography of resources on the region on Dr. Werner's website under resources: [[https://cynthiawerner.com](https://cynthiawerner.com)](https://cynthiawerner.com/)

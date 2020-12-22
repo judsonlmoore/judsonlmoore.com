@@ -18,4 +18,4 @@ Yeah Bike!
 {% assign images = gallery["2013-04-01-bike-race"] %}
 {% include gallery-lightbox.html images=images %}
 
-_Most photos are from this source: [http://diesel.elcat.kg/index.php?showtopic=29096863&st=180](http://diesel.elcat.kg/index.php?showtopic=29096863&st=180)_
+_Most photos are from this source: [https://diesel.elcat.kg/index.php?showtopic=29096863&st=180](https://diesel.elcat.kg/index.php?showtopic=29096863&st=180)_

@@ -87,6 +87,6 @@ There are other watercraft activities like the banana ride and parasailing, whic
 
 ## Where to get more information about Porto Seguro
 
-For more information about visiting Porto Seguro, [check out this page on VisitBrasil.com](http://www.visitbrasil.com/en/destinos/porto-seguro/)!
+For more information about visiting Porto Seguro, [check out this page on VisitBrasil.com](https://www.visitbrasil.com/en/destinos/porto-seguro/)!
 
 **I would love to hear** about your time in Porto Seguro, or how you think this compares to other beach destinations. Please leave a comment below, or, you may **reach out to me directly** on Twitter at [@judsonlmoore](https://twitter.com/judsonlmoore).

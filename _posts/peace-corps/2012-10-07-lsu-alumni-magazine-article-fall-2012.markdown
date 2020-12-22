@@ -11,7 +11,7 @@ tags:
 image:			/assets/images/2012/10/LSUAlumniFall2012-2.jpg
 ---
 
-Here is a screenshot of my most recent article in the [LSU Alumni Association Magazine](http://lsualumni.org). The text from the article is posted below the screen shot. Enjoy!
+Here is a screenshot of my most recent article in the [LSU Alumni Association Magazine](https://lsualumni.org). The text from the article is posted below the screen shot. Enjoy!
 
 [](/lsu-alumni-magazine-article-fall-2012/)
 

@@ -14,7 +14,7 @@ image:			/assets/images/2015/01/IMG_1032.jpg
 
 Anyone who has 'vacationed' with me knows that I'm not very good at the whole rest and relaxation thing, but in Tranquebar on a holiday weekend, that was all we could do.. and it was awesome! I've never enjoyed doing nothing so much in my life.
 
-Stacey and I stayed in an amazing oceanside plantation-era house converted into a "non-hotel-hotel" called [The Bungalow on the Beach](http://bungalow-on-the-beach.neemranahotels.com/).  The space kept true with the colonial furnishings and decor. This house was the only place to eat in this tiny seaside town and the menu changed with the day's catch. The local economy seems to be mostly from fishing and tourism. Everyday we sat on the porch of the hotel and watched the fishermen fish until they came to shore with their catch; our hotel got first dibs on the freshest seafood. The food was incredible.
+Stacey and I stayed in an amazing oceanside plantation-era house converted into a "non-hotel-hotel" called [The Bungalow on the Beach](https://bungalow-on-the-beach.neemranahotels.com/).  The space kept true with the colonial furnishings and decor. This house was the only place to eat in this tiny seaside town and the menu changed with the day's catch. The local economy seems to be mostly from fishing and tourism. Everyday we sat on the porch of the hotel and watched the fishermen fish until they came to shore with their catch; our hotel got first dibs on the freshest seafood. The food was incredible.
 
 Tranquebar is famous for two things: Fort Dansborg and The Zion Church.
 

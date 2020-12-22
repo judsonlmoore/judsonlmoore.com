@@ -32,48 +32,48 @@ In the chart above, you can see that all of the world's information exists on ma
 
 ## Metasearch Travel Sites
 
-Let's say for example that you want to book a flight, because let's face it, you DO want to book a flight, right? To book a flight, you can go to the booking sites of every airline and look for schedules and prices, but this would take you a very long time and undoubtedly leave you without a comprehensive overview of all the options available. The better tool to use in this case is a metasearch which specializes in flights, like [Skyscanner](http://skyscanner.com) ([iOS](https://geo.itunes.apple.com/us/app/skyscanner/id415458524?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=net.skyscanner.android.main)). Skyscanner searches more than 1,200 airline and travel sites all with one click! They display to you the cheapest flights available which match your search, and then pair you with the best deals on the internet. Thus, saving you loads for time and money on your flight purchase.
+Let's say for example that you want to book a flight, because let's face it, you DO want to book a flight, right? To book a flight, you can go to the booking sites of every airline and look for schedules and prices, but this would take you a very long time and undoubtedly leave you without a comprehensive overview of all the options available. The better tool to use in this case is a metasearch which specializes in flights, like [Skyscanner](https://skyscanner.com) ([iOS](https://geo.itunes.apple.com/us/app/skyscanner/id415458524?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=net.skyscanner.android.main)). Skyscanner searches more than 1,200 airline and travel sites all with one click! They display to you the cheapest flights available which match your search, and then pair you with the best deals on the internet. Thus, saving you loads for time and money on your flight purchase.
 
-[trivago](http://trivago.com) ([iOS](https://geo.itunes.apple.com/us/app/trivago-hotel-deal-comparison/id376888389?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=com.trivago)) operates in a similar fashion but is focused solely on hotels. trivago searches more than 250 hotel booking sites around the world and instantly shows travelers the best available rates for properties which best meet their needs. A quick search on trivago will show you that the same room on the same night will have a variety of prices depending on which site you book that room with. trivago empowers travelers to quickly search the whole internet to find their ideal room and book it at the very best rate.
+[trivago](https://trivago.com) ([iOS](https://geo.itunes.apple.com/us/app/trivago-hotel-deal-comparison/id376888389?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=com.trivago)) operates in a similar fashion but is focused solely on hotels. trivago searches more than 250 hotel booking sites around the world and instantly shows travelers the best available rates for properties which best meet their needs. A quick search on trivago will show you that the same room on the same night will have a variety of prices depending on which site you book that room with. trivago empowers travelers to quickly search the whole internet to find their ideal room and book it at the very best rate.
 
-[Hospitality.net reported](http://www.hospitalitynet.org/news/4066748.html) that before metasearch sites became prevalent, the savvy traveler was searching as many as 22 bookings sites before making a purchase. As you can see, metasearch  **saves you loads of time and money. **
+[Hospitality.net reported](https://www.hospitalitynet.org/news/4066748.html) that before metasearch sites became prevalent, the savvy traveler was searching as many as 22 bookings sites before making a purchase. As you can see, metasearch  **saves you loads of time and money. **
 
 ## Metasearch Sites By Industry
 
 Here are some examples of travel metasearch sites as well as a few which are not metasearch sites. I have categorized them by the travel sectors with which they work.
 
 ### Metasearch for hotels
-- [AllTheRooms](http://www.alltherooms.com/)
+- [AllTheRooms](https://www.alltherooms.com/)
 
 - [Google Hotels](https://www.google.com/maps?q=hotels+in+austin+texas) (_now just a Google search_)
 
-- [Kayak](http://kayak.com)
+- [Kayak](https://kayak.com)
 
-- [Qunar](http://www.qunar.com/)
+- [Qunar](https://www.qunar.com/)
 
-- [TripAdvisor](http://tripadvisor.com)
+- [TripAdvisor](https://tripadvisor.com)
 
-- [trivago](http://trivago.com) ([iOS](https://geo.itunes.apple.com/us/app/trivago-hotel-deal-comparison/id376888389?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=com.trivago))
+- [trivago](https://trivago.com) ([iOS](https://geo.itunes.apple.com/us/app/trivago-hotel-deal-comparison/id376888389?mt=8&at=1l3vaf4) | [Android](https://play.google.com/store/apps/details?id=com.trivago))
 
 ### Metasearch for flights
 - [Google Flights](https://www.google.com/flights/#search;f=DUS,QDU;t=AUS;d=2016-09-28;r=2016-10-02;q=dus+to+aus)
 
-- [Kayak](http://kayak.com)
+- [Kayak](https://kayak.com)
 
-- [Qunar](http://www.qunar.com/)
+- [Qunar](https://www.qunar.com/)
 
-- [Skyscanner](http://skyscanner.com)
+- [Skyscanner](https://skyscanner.com)
 
-- [TripAdvisor](http://tripadvisor.com)
+- [TripAdvisor](https://tripadvisor.com)
 
 ### Not metasearch
-- [Booking.com](http://booking.com)
+- [Booking.com](https://booking.com)
 
-- [Expedia.com](http://expedia.com)
+- [Expedia.com](https://expedia.com)
 
-- [Hilton.com](http://hilton.com)
+- [Hilton.com](https://hilton.com)
 
-- [Hotels.com](http://hotels.com)
+- [Hotels.com](https://hotels.com)
 
 ## In Closing
 

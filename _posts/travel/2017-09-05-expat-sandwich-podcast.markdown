@@ -16,7 +16,7 @@ google-podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9leHBhdHNhbmR3aWNoLm
 spotify: https://open.spotify.com/episode/7bF2Emv8PYTeUgCGCKck9F?si=EBVd_U5KQIm21IjYuKyqYQ
 ---
 
-[The Expat Sandwich Podcast](http://expatsandwich.com/) features Americans living abroad and the crazy antics that they encounter around the world. The show's producer, Marty Walker, and I had a wonderful time talking and she did a brilliant job of presenting my story on her podcast. You can play the episode below, but **I highly encourage you to subscribe to the podcast** and leave it a 5-star review [on iTunes](https://itunes.apple.com/us/podcast/expat-sandwich/id1205730536?mt=2).
+[The Expat Sandwich Podcast](https://expatsandwich.com/) features Americans living abroad and the crazy antics that they encounter around the world. The show's producer, Marty Walker, and I had a wonderful time talking and she did a brilliant job of presenting my story on her podcast. You can play the episode below, but **I highly encourage you to subscribe to the podcast** and leave it a 5-star review [on iTunes](https://itunes.apple.com/us/podcast/expat-sandwich/id1205730536?mt=2).
 {: class="lead"}
 
 Please listen, share, and comment below with your thoughts!
@@ -35,19 +35,19 @@ I talked about a lot in this episode of Expat Sandwich. Here are some notes and 
 
 - [Kloop School of Journalism](https://kloop.kg/) - This nontraditional school in Kyrgyzstan teaches Western-style journalism practices to youth. Their stories are published on one of Central Asia's most-read news sites.
 
-- [Kyrgyz Media](http://kyrgyzmedia.kg/) - This is the project that I launched while in the Peace Corps. Even if you don't read Russian or Kyrgyz, just looking through the photos in the posts will tell you a lot about the Kyrgyz People.
+- [Kyrgyz Media](https://kyrgyzmedia.kg/) - This is the project that I launched while in the Peace Corps. Even if you don't read Russian or Kyrgyz, just looking through the photos in the posts will tell you a lot about the Kyrgyz People.
 
 ## My favorite Expat Sandwich Episodes
 
 The Expat Sandwich Podcast is relatively new on the podcast scene. The episode which featured me is #15. I can honestly say that this is one of the very best podcasts of 2017 and
 
-- [Germany with OhMyGodMyWifeIsGerman.com](http://expatsandwich.com/episode-008-germany-with-ohgodmywifeisgerman/)
+- [Germany with OhMyGodMyWifeIsGerman.com](https://expatsandwich.com/episode-008-germany-with-ohgodmywifeisgerman/)
 
-- [Antartica with Joanna Young](http://expatsandwich.com/episode-011-antarctica-joanna-young/)
+- [Antartica with Joanna Young](https://expatsandwich.com/episode-011-antarctica-joanna-young/)
 
-- [Shanghai with Jilli Leonard](http://expatsandwich.com/episode-12-shanghai-jilli-leonard/)
+- [Shanghai with Jilli Leonard](https://expatsandwich.com/episode-12-shanghai-jilli-leonard/)
 
-- [Paris with David Lebovitz](http://expatsandwich.com/paris-david-lebovitz/)
+- [Paris with David Lebovitz](https://expatsandwich.com/paris-david-lebovitz/)
 
 **Additional Reading: [Best podcast 2017 - What I listen to for my daily dose of inspiration](/best-podcast-2017/)**
 

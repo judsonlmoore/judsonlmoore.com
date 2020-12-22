@@ -124,4 +124,4 @@ This app is a tour guide in your pocket. With hundreds of cities around the worl
 
 Get it Now: [iOS](https://itunes.apple.com/us/app/free-city-maps-walks-470-cities/id417207307?mt=8) | [Android](https://play.google.com/store/apps/developer?id=GPSmyCity.com,+Inc.)
 
-_photo credit: [Sebastien Gabriel](http://unsplash.com/sgabriel)_
+_photo credit: [Sebastien Gabriel](https://unsplash.com/sgabriel)_

@@ -21,7 +21,7 @@ Naziia accompanied me on this trip and it was an amazing honeymoon of sorts. She
 
 The 6-hour flight was perfectly manageable under normal circumstances, but we departed in the middle of the night and I didn't travel well having to sit for so long with my healing body. We landed, got through customs and hailed a cab to Naziia's friend's house.
 
-After getting settled in and cleaned up, we went exploring around the neighborhood. Florya is a rather wealthy neighborhood and home to the famous sports club [Galatasaray SK](http://www.galatasaray.org/), a number of airline headquarters and the summer home of past Turkish President Atatürk. This area also housed more carpet retailers than the census could count and had I been traveling onward to a large home in America, I would have certainly bought a carpet here; the tapestries were of incredible design and quality, with unbeatable prices.
+After getting settled in and cleaned up, we went exploring around the neighborhood. Florya is a rather wealthy neighborhood and home to the famous sports club [Galatasaray SK](https://www.galatasaray.org/), a number of airline headquarters and the summer home of past Turkish President Atatürk. This area also housed more carpet retailers than the census could count and had I been traveling onward to a large home in America, I would have certainly bought a carpet here; the tapestries were of incredible design and quality, with unbeatable prices.
 
 We decided to head toward the city center to check out the infamous architecture of Istanbul. Along the way, I got stopped dead in my tracks when I saw something I hadn't seen in years: the holy temple of mediocre but consistently dependable coffee: STARBUCKS!
 

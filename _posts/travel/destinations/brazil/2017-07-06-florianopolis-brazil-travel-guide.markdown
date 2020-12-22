@@ -115,4 +115,4 @@ Taking all of that in mind, **Florianopolis is a big place**, so you might like
 
 ## Learn more about Florianopolis
 
-For more information about visiting Florianopolis and the state of Santa Catarina, read [this additional information at VisitBrasil.com](http://www.visitbrasil.com/en/estados/santa-catarina/). In the meantime, **I would love to hear your thoughts and learn about your experiences** by leaving a comment below. Alternatively, you may also connect with me directly on Twitter at [@judsonlmoore](https://twitter.com/judsonlmoore). See you soon!
+For more information about visiting Florianopolis and the state of Santa Catarina, read [this additional information at VisitBrasil.com](https://www.visitbrasil.com/en/estados/santa-catarina/). In the meantime, **I would love to hear your thoughts and learn about your experiences** by leaving a comment below. Alternatively, you may also connect with me directly on Twitter at [@judsonlmoore](https://twitter.com/judsonlmoore). See you soon!

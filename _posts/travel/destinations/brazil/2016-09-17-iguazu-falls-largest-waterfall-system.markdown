@@ -80,7 +80,7 @@ We made a few passes by the waterfalls, each time approaching from a different a
 
 ## Dinner, And Then One More Adventure
 
-After this exhausting day of hiking, boating, and getting a bit wet, I satisfied my extreme hunger by devouring a steak at the [Sheraton Resort](http://www.booking.com/hotel/ar/sheraton-iguazu-resort-spa.html?aid=1176739) which is inside the Argentinian side of the Iguazu Falls Park. I wish I had the money to get a room there, but just dinner was breaking the bank! It looked like a magnificent place to stay, and **the steak is one of the best I have ever had**.
+After this exhausting day of hiking, boating, and getting a bit wet, I satisfied my extreme hunger by devouring a steak at the [Sheraton Resort](https://www.booking.com/hotel/ar/sheraton-iguazu-resort-spa.html?aid=1176739) which is inside the Argentinian side of the Iguazu Falls Park. I wish I had the money to get a room there, but just dinner was breaking the bank! It looked like a magnificent place to stay, and **the steak is one of the best I have ever had**.
 
 ## One Last Adventure
 
@@ -104,13 +104,13 @@ Furthermore, though at the time this passport stamp issue instilled some degree 
 
 - [**Visit Foz**](https://www.visitefoz.com.br/en/) (official) - The official tourism site for the Brazilian city of Foz do Iguazu.
 
-- **[Iguazu Falls on WikiTravel](http://wikitravel.org/en/Igua%C3%A7u_Falls)** - This site is one of the very best resources for travel anywhere! Pair this with the Pocket App ([iOS](https://apps.apple.com/de/app/pocket/id309601447?mt=8&ign-mpt=uo%3D4) | [Android](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)) to compile your own awesome offline travel guides!
+- **[Iguazu Falls on WikiTravel](https://wikitravel.org/en/Igua%C3%A7u_Falls)** - This site is one of the very best resources for travel anywhere! Pair this with the Pocket App ([iOS](https://apps.apple.com/de/app/pocket/id309601447?mt=8&ign-mpt=uo%3D4) | [Android](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)) to compile your own awesome offline travel guides!
 
 **From around the blogosphere**
 
 - [**Six Things Nobody Tells You About Iguazu Falls**](https://globetrottergirls.com/2019/08/things-nobody-tells-you-about-iguazu-falls/) - \_by Dani of globetrot_tergirls.com
 
-- **[Igauzu Falls Travel Guide & Tips](http://wanderingtrader.com/iguazu-falls/travel-guide/)** - by Marcello Arrambide of wanderingtrader.com
+- **[Igauzu Falls Travel Guide & Tips](https://wanderingtrader.com/iguazu-falls/travel-guide/)** - by Marcello Arrambide of wanderingtrader.com
 
 - **[A guide to Iguazu Falls](https://blog.hihostels.com/2013/06/a-guide-to-iguazu-falls/)** - by Bronwyn Hager on Hosteling International
 

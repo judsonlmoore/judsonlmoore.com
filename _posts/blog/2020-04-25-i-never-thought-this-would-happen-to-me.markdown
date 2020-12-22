@@ -152,7 +152,7 @@ During the COVID-19 pandemic, the news and social media have been littered with 
 
 [Many of the podcasts I listen to](/best-podcast-2017/) have expressed confusion over why toilet paper is the commodity of choice for hoarders and panic-buyers. I must fall in with the majority of people, because I, too, would have guessed that this would be one of the top things people would want to stock up on.
 
-[Roughly 70%](http://www.toiletpaperhistory.net/toilet-paper-facts/toilet-paper-fun-facts/) of the world's population doesn't even use toilet paper. But for those of us who do, it is difficult to imagine a life without. Thanks to my time serving in the Peace Corps, I am quite aware of what life without toilet paper is like, and that is why I can sympathize with those who now have a 5-year supply at home!
+[Roughly 70%](https://www.toiletpaperhistory.net/toilet-paper-facts/toilet-paper-fun-facts/) of the world's population doesn't even use toilet paper. But for those of us who do, it is difficult to imagine a life without. Thanks to my time serving in the Peace Corps, I am quite aware of what life without toilet paper is like, and that is why I can sympathize with those who now have a 5-year supply at home!
 
 **Pro tip:** newspaper is better than magazine paper. Avoid glossy at all costs! Should you need to use a toilet paper alternative, be aware that you probably can't flush it into the toilet. 
 

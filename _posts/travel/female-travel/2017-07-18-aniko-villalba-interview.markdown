@@ -77,7 +77,7 @@ It was such an honor for me to get to know Aniko and for her to do this intervie
 **Some additional resources to check out:**
 - [Aniko Villalba's website and blog](https://viajandoporahi.com/)
 - [Aniko Villalba on Amazon](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Aniko+Villalba)
-- [Aniko Villalba on Instagram](http://instagram.com/anikovillalba)
+- [Aniko Villalba on Instagram](https://instagram.com/anikovillalba)
 - [Aniko Villalba on Facebook](https://www.facebook.com/viajandoporahi)
 - [Aniko Villalba on Twitter](https://twitter.com/anikovillalba)
 - [Recap of Aniko's trivago presentation](https://medium.com/@lifeattrivago/if-working-while-traveling-describes-your-dream-job-listen-to-aniko-villalba-and-find-out-how-to-212cafcd7ef7)

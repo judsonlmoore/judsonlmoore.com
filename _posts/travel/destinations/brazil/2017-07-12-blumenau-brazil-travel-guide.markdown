@@ -31,9 +31,9 @@ _This post was written with support from Embratur, which is part of the Brazilia
 
 ## Party like a German in Brazil: Oktoberfest in Blumenau
 
-[The Blumenau Oktoberfest](http://www.oktoberfestblumenau.com.br/) is **the biggest Oktoberfest celebration in the world** outside of Munich. It has been operating for only three decades, yet it draws people from all over the world to celebrate Bavarian-style in Blumenau. Despite all the similarities between the Oktoberfest celebrations in Germany and Blumenau, the one missing element, ironically, is German beer!
+[The Blumenau Oktoberfest](https://www.oktoberfestblumenau.com.br/) is **the biggest Oktoberfest celebration in the world** outside of Munich. It has been operating for only three decades, yet it draws people from all over the world to celebrate Bavarian-style in Blumenau. Despite all the similarities between the Oktoberfest celebrations in Germany and Blumenau, the one missing element, ironically, is German beer!
 
-The +500,000 liters of beer consumed during the 2-week Blumenau Oktoberfest is primarily brewed by [local craft beer brewer, Eisenbahn](http://www.eisenbahn.com.br/web/site/index.php). Eisenbahn does brew to the **strict German Purity Law**, proclaimed by Duke William IV of Bavaria in 1516, which states that a beverage can only be called "beer" when it is made from 3 ingredients: water, barley and hops.
+The +500,000 liters of beer consumed during the 2-week Blumenau Oktoberfest is primarily brewed by [local craft beer brewer, Eisenbahn](https://www.eisenbahn.com.br/web/site/index.php). Eisenbahn does brew to the **strict German Purity Law**, proclaimed by Duke William IV of Bavaria in 1516, which states that a beverage can only be called "beer" when it is made from 3 ingredients: water, barley and hops.
 
 All in all, the Blumenau Oktoberfest is both in a class of its own, and as near to a **mirror-image as you can find of the Munich Oktoberfest.** If you are planning a trip to Brazil in October, be sure to make time to get down south and give Blumenau a twirl!
 
@@ -45,7 +45,7 @@ Blumenau is divided in two by the Itajaí-Açu River. The city center runs alo
 
 On most days, though, the riverfront is a great place to walk, have a drink, and enjoy the view and fresh mountain air. The hilly region around Blumenau is also ideal for vineyards, and thusly there are many. **Pinot Noir is the wine of choice in Blumenau**, so get a glass, find a place to relax, and enjoy life in Blumenau!
 
-{% cloudinary /assets/images/2017/06/blumenau-brazil-vista-skyline.jpg alt="Blumenau Brazil vista skyline" description="By [Marlon Hammes](http://flickr.com/people/hams/) de Blumenau, Brasil. - [Blumenau](http://flickr.com/photos/hams/1808536345/), [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), [Link](https://commons.wikimedia.org/w/index.php?curid=3606926)" %}
+{% cloudinary /assets/images/2017/06/blumenau-brazil-vista-skyline.jpg alt="Blumenau Brazil vista skyline" description="By [Marlon Hammes](https://flickr.com/people/hams/) de Blumenau, Brasil. - [Blumenau](https://flickr.com/photos/hams/1808536345/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), [Link](https://commons.wikimedia.org/w/index.php?curid=3606926)" %}
 
 Even with more than 300,000 inhabitants, Blumenau feels like a pretty small town. While visiting here, you will find many modern amenities and great shopping. The standard of living is among the highest in all of Brazil, so **all the comforts of life will be available to you** as a visitor.
 
@@ -65,6 +65,6 @@ The Museu da Cerveja will walk you through the entire history of beer from pre
 
 ## For more information about Blumenau
 
-For more information about Blumenau and the surrounding destinations in Santa Catarina state, read this page on [VisitBrasil.com](http://www.visitbrasil.com/en/estados/santa-catarina/).
+For more information about Blumenau and the surrounding destinations in Santa Catarina state, read this page on [VisitBrasil.com](https://www.visitbrasil.com/en/estados/santa-catarina/).
 
 Please leave a comment bellow with your thoughts on this post or to share any experiences you have had in Blumenau. You may also reach me directly on Twitter at [@judsonlmoore](https://twitter.com/judsonlmoore).

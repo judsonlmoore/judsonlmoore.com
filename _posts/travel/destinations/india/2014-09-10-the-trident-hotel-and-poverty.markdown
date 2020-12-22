@@ -28,7 +28,7 @@ I have made friends with the several key staff members here who have taken me ou
 
 ## Beneath my feet, the poverty runs wild
 
-There is a strange situation I am faced with every day, and I haven't yet figured out what I can or want to do about it. Each morning, I wake up around 6am to the dawn of a new day. I promptly order a 2-shot cappuccino (This your fault, [Ed Ireson](http://ireson.net)!) and some whole wheat toast from in-room dining and then start checking on emails that I received during the night from Austin.
+There is a strange situation I am faced with every day, and I haven't yet figured out what I can or want to do about it. Each morning, I wake up around 6am to the dawn of a new day. I promptly order a 2-shot cappuccino (This your fault, [Ed Ireson](https://ireson.net)!) and some whole wheat toast from in-room dining and then start checking on emails that I received during the night from Austin.
 
 When the coffee arrives, I move to a chair that faces out the windows and overlooks this huge park called [Shilparamam](https://en.wikipedia.org/wiki/Shilparamam). So here I am, 19-floors above this beautiful scene, watching the sunrise, drinking my pretentious coffee, and my only worry is to make sure I get to the fitness center on time to meet with Raj for the day's workout. Then, at my feet, this is what I see:
 

@@ -21,7 +21,7 @@ Upon completion of the travel period, fellows have the opportunity to execute a 
 
 [Learn more about East-West: The Art of Dialogue](https://www.eastwestdialogue.org/).
 
-*Check out [Cleopatra to Coretta](http://cleopatratocoretta.org), the project I got to work on as a result of this fellowship.*
+*Check out [Cleopatra to Coretta](https://cleopatratocoretta.org), the project I got to work on as a result of this fellowship.*
 
 ## 2. The Rotary Peace Fellowship (Worldwide)
 
@@ -39,13 +39,13 @@ Focused on transatlantic issues, this 1-year opportunity is for early and mid-ca
 
 This esteemed fellowship offers research, study, and teaching opportunities for Americans almost anywhere in the world. Likewise, they accept applicants from all over the world to study in the USA. The possibilities here are seemingly endless, and applicants have a high degree of flexibility in proposing their area of study and geographic assignment. If you want to write your ticket and work autonomously in pursuit of your advanced degree, start here.
 
-[Learn more about the Fulbright Fellowship](http://www.iie.org/en/Fulbright/).
+[Learn more about the Fulbright Fellowship](https://www.iie.org/en/Fulbright/).
 
 ## 5. Peace Corps Master's International (USA + Worldwide)
 
 If you're interested in longer-term sustainable international development, this is a great twofer. Enroll in a participating master's degree program, and after your course work, the United States Peace Corps will send you into the field for your thesis research. Upon completion of the program, you will have a master's degree and be awarded federal NCE status (Non-Competitive Eligibility) which will, in addition to the incredible Peace Corps experience, place you high on everyone's hiring list!
 
-[Learn more about Peace Corps Master's International](http://www.peacecorps.gov/volunteer/university/mastersint/).
+[Learn more about Peace Corps Master's International](https://www.peacecorps.gov/volunteer/university/mastersint/).
 
 ## Bonus fellowship list
 
@@ -60,7 +60,7 @@ If you're interested in longer-term sustainable international development, this 
 [Free University in Berlin | European Journalism Fellowship](https://www.polsoz.fu-berlin.de/en/kommwiss/institut/journalistenkolleg/ejf/index.html)  
 [German Academic Exchange Service (DAAD) | Scholarships for Graduates](https://www.daad.org/en/)  
 [The German Marshall Fund of the United States](https://www.gmfus.org/transatlantic-leadership-initiatives/marshall-memorial-fellowship)  
-[RIAS Berlin Programs for Journalists](http://riasberlin.org/en/home/)  
+[RIAS Berlin Programs for Journalists](https://riasberlin.org/en/home/)  
 [Robert Bosch Stiftung | German-American Journalism Program](https://www.bosch-stiftung.de/en/project/reporters-field)  
 
 
