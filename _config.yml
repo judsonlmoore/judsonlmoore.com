@@ -3,7 +3,7 @@ baseurl: ""
 permalink: /:title
 title: Judson L Moore
 tagline: Author and travel addict
-description: Do you want to experience the world? I encourage you to get an early start at living a full and adventurous life by providing tips for living your "what if" while young.
+description: Live an adventurous and happy life by pursuing your "what if" in your lifestyle, career, and travel with tips from the author of Exponential Happiness.
 url: "https://www.judsonlmoore.com"
 author: Judson L Moore
 logo: 
@@ -22,7 +22,7 @@ webmaster_verifications:
   yandex: df106ee154e1faa4 
 disqus: "judsonlmoore"
 mailchimp-list: "https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
-google-analytics: G-B1R7N4XZXQ
+gtm: GTM-MLP7SZW
 
 # other
 markdown: kramdown

@@ -8,15 +8,13 @@ layout: compress
 <head>
 
   {% if jekyll.environment == 'production' %}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{ site.google-analytics }}');
-  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','{{ site.gtm }}');</script>
+  <!-- End Google Tag Manager -->
   {% endif %}
 
   <!-- Required meta tags -->
@@ -58,8 +56,15 @@ layout: compress
 
   <body class="{{layout}}">
 
+    {% if jekyll.environment == 'production' %}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.gtm }}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <!-- Facebook pixel -->
     <div id="fb-root"></div>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=990949061035215&autoLogAppEvents=1"></script>
+    {% endif %}
 
     <!-- header -->
     <div class="header fixed-top border-top-3 border-top border-primary {% if layout.dark-navbar == true %}bg-dark{% endif %}">
