@@ -1,10 +1,10 @@
 ---
-title:			Celebrity Encounters List
-categories:		blog
+title:						Celebrity Encounters List
+categories:				blog
 tags:
   - celebrity encounter
   - music
-image:			
+image:						/assets/images/2010/04/meeting-three-days-grace.png
 ---
 
 **\* indicates the number of times I have encountered this group/person  

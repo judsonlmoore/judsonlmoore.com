@@ -1,18 +1,17 @@
 ---
-title:			How to identify and accomplish your life goals
-categories:		lifestyle
+title:						How to identify and accomplish your life goals
+categories:				lifestyle
 tags:
   - lifestyle
   - accomplishments
   - goals
   - impact
   - interests
-excerpt:		Do you have life goals? Do you need help identifying life goals? Or maybe you need help structuring a plan to achieve your life goals? Read this now.
-image:			/assets/images/2007/12/life-goals-exercise.jpeg
+excerpt:					Do you have life goals? Do you need help identifying life goals? Or maybe you need help structuring a plan to achieve your life goals? Read this now.
+image:						/assets/images/2007/12/life-goals-exercise.jpeg
 ---
 
-
-People tend to speak about goal-setting in cliches, which is too bad because spending time in reflection about what you want out of life and writing down your life goals is an important thing to do and to review often. In the example below, I share my personal life goals, which I wrote as I was finishing college. The exercise is quite simple to do and consists of just two parts.
+People tend to speak about goal-setting in cliches, which is too bad because spending time reflecting on what you want out of life and writing down your life goals is an important thing to do and review often. In the example below, I share my personal life goals, which I wrote as finishing college. The exercise is quite simple to do and consists of just two parts.
 
 ## Your life goals
 
@@ -45,11 +44,11 @@ Things, in priority order, that I'd like to do before I die that would contribut
 11. Complete Peace Corps service.
 12. Reconnect with my worldly friends.
 13. Make my parents proud / be like dad.
-14. Have high expendable income.
+14. Have a high expendable income.
 15. Be wealthy.
 
-This post is dated to the date which I originally wrote the paper form of this list (12/23/2007), but I did not post it to my blog until 6/8/2014 when I found the original document while "lightening the ship." 
+This post is dated to when I originally wrote the paper form of this list (12/23/2007), but I did not post it to my blog until 6/8/2014 when I found the original document while "lightening the ship." 
 
-I am proud that in my short years, I have accomplished a number of these things, and I will continue to do many of these things throughout my life. I struggle with identifying how to approach #6, and I hope that #14 is coming in due time. 
+I am proud that I have accomplished a number of these things in my short years, and I will continue to do many of these things throughout my life. I struggle with identifying how to approach #6, and I hope that #14 is coming in due time. 
 
 **Your feedback is welcome in the comments section below.**

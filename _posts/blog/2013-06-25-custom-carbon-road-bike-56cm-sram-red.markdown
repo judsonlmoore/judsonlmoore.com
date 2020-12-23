@@ -1,6 +1,6 @@
 ---
-title:		  	Custom Carbon Road Bike 56CM SRAM Red
-categories:		blog
+title:						Custom Carbon Road Bike 56CM SRAM Red
+categories:				blog
 tags:
   - austin
   - bikes
@@ -8,16 +8,12 @@ tags:
   - carbon fiber
   - custom
   - sram
-image:		  	/assets/images/2013/08/2013-06-15-18.42.40.jpg
+image:						/assets/images/2013/08/2013-06-15-18.42.40.jpg
 ---
 
-{% assign gallery = site.data.galleries %}
-{% assign images = gallery["2013-06-25-custom-carbon-road-bike-56cm-sram-red"] %}
-{% include gallery-lightbox.html images=images %}
+This beautiful custom road bike was handcrafted, painted, and assembled in Austin, TX, by Giano Fabricata. I bought it in June 2013 as my first road bike, and it has defied (my understanding of) the laws of bike-physics ever since. This machine is inspirational on the road.
 
-This beautiful road bike was hand crafted, painted and assembled in Austin TX by Giano Fabricata. I bought it in June 2013 as my first road bike, and it has defied (my understanding of) the laws of bike-physics ever since! This machine is inspirational on the road!
-
-Since every part was hand selected and assembled, I have put a list of parts here. The value of just the parts is over \$6500. That doesn't even include the cost of paint, labor and tuning.
+Since every part was hand-selected and assembled, I can't simply say what the bike is. Therefor, I have put a list of parts here. The value of just the parts is over \$6500. That doesn't even include the cost of paint, labor, and tuning.
 
 - Carbon Frame 56CM
 - Carbon fork
@@ -38,3 +34,7 @@ Since every part was hand selected and assembled, I have put a list of parts her
 - Vittoria Open Corsa Evo CX Tires 23-622
 - SRAM Hoods and Bar Tape \$43 Selle Italia SL Kit 
 - Carbonio Saddle (white)
+
+{% assign gallery = site.data.galleries %}
+{% assign images = gallery["2013-06-25-custom-carbon-road-bike-56cm-sram-red"] %}
+{% include gallery-lightbox.html images=images %}

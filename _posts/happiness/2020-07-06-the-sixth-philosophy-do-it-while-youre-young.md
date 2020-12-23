@@ -40,7 +40,7 @@ Everyone has different life experiences, so it is impossible to depict some univ
 
 Here are those 9 phases of life plotted over time with an indication of how much flexibility you will have in making major life choices during each period. 
 
-{% cloudinary /assets/images/2020/01/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" caption="this is the caption" %}
+{% cloudinary /assets/images/2020/01/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" %}
 
 As you can see, the time when you will be most flexible is during your younger years. Don't let them pass you by! 
 

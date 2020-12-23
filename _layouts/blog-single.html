@@ -20,11 +20,16 @@ post_class:     post-template
           <p>This post sponsored by <a href="https://visitbrasil.com/" target="_blank">visitbrasil.com</a>, the Official Brazillian Tourism Website</p>
           {% endif %}
 
+        </div>
+
+        <div class="mb-4">
+
           {% for tag in page.tags limit:5 %}
           <a href="{{ tag | slugify | prepend:'/tag/' | absolute_url }}/" class="badge badge-secondary">{{ tag }}</a>
           {% endfor %}
 
         </div>
+
         {% if page.author %}
         {% assign author = site.authors | where: 'short_name', page.author | first %} 
         <!-- author post -->

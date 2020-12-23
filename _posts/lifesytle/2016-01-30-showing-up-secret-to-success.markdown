@@ -1,13 +1,12 @@
 ---
-title:			The secret to my success
-categories:		lifestyle
+title:						The secret to my success
+categories:				lifestyle
 tags:
   - lifestyle
   - whileyoung
-excerpt:		Showing up is the first step in every success story, but it can be hard to know where to put your efforts. Learn now from my first "showing up" story.
-image:			/assets/images/2016/01/The-Secret-Key-To-All-My-Success-Featured-Image.jpeg
+excerpt:					Showing up is the first step in every success story, but it can be hard to know where to put your efforts. Learn now from my first "showing up" story.
+image:						/assets/images/2016/01/The-Secret-Key-To-All-My-Success-Featured-Image.jpeg
 ---
-
 
 Throughout my life, I've been asked many times about my success. "How do you get to travel so much?" "How are you able to convince others to pay for your travel?" "How are you so lucky?" How. How. How. 
 
@@ -21,17 +20,17 @@ So what is the big deal about showing up? We all do it every day when we go to s
 
 My story began when I was 16 years old. I was attending a summer camp with various community and business leaders telling us students about leadership. One of these speakers was a representative of the [Rotary International Youth Exchange Program](https://www.rotary.org/en/our-programs/youth-exchanges). She told us about the program and how Rotary has a global network of community leaders eager to engage the next generation. 
 
-She shared with us that Rotary programs provide a foundation of cross-cultural understanding through an exchange program they fully fund. Rotary also makes all of the arrangements for schooling, living with a local family, and participating in community events. The representative told us about living in Italy, Brazil, New Zealand, and the Philippines, and that this only scratched the surface of the program's opportunity.
+She shared that Rotary programs provide a foundation of cross-cultural understanding through an exchange program they fully fund. Rotary also makes all of the schooling arrangements, living with a local family, and participating in community events. The representative told us about living in Italy, Brazil, New Zealand, and the Philippines, and that this only scratched the surface of the program's opportunity.
 
 **And here is the moment that changed my life forever...**
 
-At the close of the presentation, the speaker invited interested students to speak with her for more information. I thought to myself, *that is a **line** I MUST get in!* But when the session ended, the other 50 students rushed outside for the water balloon toss, and I was the *only* person who expressed interest. The result: one year later, I embarked on a 12-month program to Germany! This opportunity came to me, instead of one of those other students, because **I showed up when no one else did.**
+At the close of the presentation, the speaker invited interested students to speak with her for more information. I thought to myself, *that is a **line** I MUST get in!* But when the session ended, the other 50 students rushed outside for the water balloon toss, and I was the *only* person who expressed interest. The result: one year later, I embarked on a 12-month program to Germany! Instead of one of those other students, this opportunity came to me because **I showed up when no one else did.**
 
 ## When to show up
 
 There are strategies for choosing when to show up. After all, time and energy are finite, so you need to be at least a bit selective about where to focus your efforts. However, the best advice I can give is said very nicely by the old cliché, "the only way to guarantee failure is never to try at all." That is to say: you should always apply yourself to the extent of your ability.
 
-You and your self-doubt are your own worst enemy. It is human nature, so don't feel too bad about that. I encourage you to embrace the fact that all people have doubts, and all people hesitate to go for what they most want. This truth is that most people never show up. If you are the one in the room with the hand raised or the one who has submitted an application, you are now among the elite few who have shown up, which puts you at serious risk of getting what you want.
+You and your self-doubt are your own worst enemy. It is human nature, so don't feel too bad about that. I encourage you to embrace the fact that all people have doubts, and all people hesitate to go for what they most want. The truth is that most people never show up. If you are the one in the room with the hand raised or who has submitted an application, you are now among the elite few who have shown up, which puts you at serious risk of getting what you want.
 
 When an opportunity comes knocking, or someone invites you to learn more about an opportunity, I challenge you to approach your response with this quote in mind:
 
