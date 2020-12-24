@@ -7,7 +7,7 @@ tags:
   - cartagena
   - rotary
   - rye
-excerpt:		Cartagena is a historic city on the Caribbean coast of Colombia full of culture, music, seafood and great times for great people!
+description:		Cartagena is a historic city on the Caribbean coast of Colombia full of culture, music, seafood and great times for great people!
 image:			/assets/images/2014/11/IMG_2413.jpg
 ---
 

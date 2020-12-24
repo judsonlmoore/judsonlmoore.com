@@ -6,7 +6,7 @@ tags:
   - india
   - tamil nadu
   - pondicherry
-excerpt:		This coastal town of Pondicherry sits on the Bay of Bengal in southeast India. This historical French colony is lined with cobblestone streets and charm.
+description:		This coastal town of Pondicherry sits on the Bay of Bengal in southeast India. This historical French colony is lined with cobblestone streets and charm.
 image:			/assets/images/2015/01/IMG_0866.jpg
 ---
 

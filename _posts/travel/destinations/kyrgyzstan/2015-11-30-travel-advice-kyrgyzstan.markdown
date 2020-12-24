@@ -4,7 +4,7 @@ categories:		['travel guide']
 tags:
   - asia
   - kyrgyzstan
-excerpt:		After living for two years in Kyrgyzstan, I have some pro tips for how your next Central Asian adventure can be the top experience of a lifetime.
+description:		After living for two years in Kyrgyzstan, I have some pro tips for how your next Central Asian adventure can be the top experience of a lifetime.
 image:			/assets/images/2014/09/cat-kyrgyzstan.jpg
 ---
 

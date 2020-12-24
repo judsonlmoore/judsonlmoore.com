@@ -11,7 +11,7 @@ tags:
   - gabr
   - orientalist
   - service
-excerpt:					I will be meeting with Egyptian and American diplomats, military leaders, entrepreneurs, and influencers during the 6-week Gabr Fellowship Program.
+description:					I will be meeting with Egyptian and American diplomats, military leaders, entrepreneurs, and influencers during the 6-week Gabr Fellowship Program.
 image:						/assets/images/2015/09/Gustav-Bauernfeind-A-Street-Scene-Damascus.jpg
 ---
 

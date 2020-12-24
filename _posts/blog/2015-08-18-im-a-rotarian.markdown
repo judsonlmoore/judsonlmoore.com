@@ -6,7 +6,7 @@ tags:
   - rotary
   - rotary international
   - service above self
-excerpt:					I've been part of the Rotary Family since I was in high school, and anyone who knows me knows that today is a very significant moment for me.
+description:					I've been part of the Rotary Family since I was in high school, and anyone who knows me knows that today is a very significant moment for me.
 image:						/assets/images/2015/08/Judson-Joining-Rotary-of-Austin-003.jpg
 ---
 

@@ -5,7 +5,7 @@ tags:
   - guest author
   - female travel
 author:			jenniferchang
-excerpt:		Weekend trips are often times the best trips. Guest author Jennifer Chang shares tips for how to make your weekend trips spontaneous and full of adventure.
+description:		Weekend trips are often times the best trips. Guest author Jennifer Chang shares tips for how to make your weekend trips spontaneous and full of adventure.
 image:			/assets/images/2017/04/airplane-wing-sunset.jpg
 ---
 

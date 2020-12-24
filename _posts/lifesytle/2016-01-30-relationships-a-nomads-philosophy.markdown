@@ -4,7 +4,7 @@ categories:				lifestyle
 tags:
   - lifestyle
   - whileyoung
-excerpt:					Relationships struggle to survive the test of distance, and for a good reason. As a nomad, I have learned how to protect the most precious relationships.
+description:					Relationships struggle to survive the test of distance, and for a good reason. As a nomad, I have learned how to protect the most precious relationships.
 image:						/assets/images/2016/01/Relationships-A-Nomads-Philosophy-Featured-Image.jpeg
 ---
 

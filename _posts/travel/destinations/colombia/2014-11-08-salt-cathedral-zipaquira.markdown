@@ -7,7 +7,7 @@ tags:
   - zipaquira
   - rotary
   - rye
-excerpt:		The Salt Cathedral of Zipaquirá on the outskirts of Bogota, Colombia, is perhaps the world's grandest testament of a people's faith to their creator.
+description:		The Salt Cathedral of Zipaquirá on the outskirts of Bogota, Colombia, is perhaps the world's grandest testament of a people's faith to their creator.
 image:			/assets/images/2014/11/IMG_3601.jpg
 ---
 

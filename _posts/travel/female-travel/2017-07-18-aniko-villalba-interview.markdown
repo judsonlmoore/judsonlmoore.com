@@ -8,7 +8,7 @@ tags:
   - female travel
   - interview
 author:			anikovillalba
-excerpt:		Aniko Villalba and I got to talking about being digital nomads, solo travel, female travel, and what it really means to live the dream of a global citizen.
+description:		Aniko Villalba and I got to talking about being digital nomads, solo travel, female travel, and what it really means to live the dream of a global citizen.
 image:			/assets/images/2017/04/aniko-villalba-interview.jpg
 ---
 

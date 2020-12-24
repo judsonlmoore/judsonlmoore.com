@@ -7,7 +7,7 @@ tags:
   - disaster
   - hurricane katrina
   - memories
-excerpt:					On the tenth anniversary of Hurricane Katrina, I reflect on how that was a pivotal moment when my life trajectory changed.
+description:					On the tenth anniversary of Hurricane Katrina, I reflect on how that was a pivotal moment when my life trajectory changed.
 image:						/assets/images/2015/08/LSU-Eye-of-the-Storm-Autumn-Judson.jpeg
 ---
 

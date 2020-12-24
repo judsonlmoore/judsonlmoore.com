@@ -4,7 +4,7 @@ categories:				blog
 tags:
   - disaster
   - planning
-excerpt:					Failing to accept that tragedy will impact your life leaves you vulnerable to be unprepared in the inevitable moment that disaster strikes. Face these possibilities head-on and make a plan.
+description:					Failing to accept that tragedy will impact your life leaves you vulnerable to be unprepared in the inevitable moment that disaster strikes. Face these possibilities head-on and make a plan.
 image:						/assets/images/2020/04/shock-and-suprise.jpeg
 ---
 

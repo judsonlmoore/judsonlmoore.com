@@ -7,7 +7,7 @@ tags:
   - minas gerais
   - ouro preto
 destination:	Ouro Preto
-excerpt:		Ouro Preto Brazil is the best preserved colonial city in South America. Today, it is a treasure of riches, architecture and revolutionary history.
+description:		Ouro Preto Brazil is the best preserved colonial city in South America. Today, it is a treasure of riches, architecture and revolutionary history.
 image:			/assets/images/2015/10/ouro-preto.jpg
 ---
 

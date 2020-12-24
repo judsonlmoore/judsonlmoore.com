@@ -7,7 +7,7 @@ tags:
   - bogota
   - rotary
   - rye
-excerpt:		In Colombia's capital city, Bogotá, one finds themselves taken to a time when romance lived permanently in the air and anything was possible.
+description:		In Colombia's capital city, Bogotá, one finds themselves taken to a time when romance lived permanently in the air and anything was possible.
 image:			/assets/images/2014/11/IMG_2198.jpg
 ---
 

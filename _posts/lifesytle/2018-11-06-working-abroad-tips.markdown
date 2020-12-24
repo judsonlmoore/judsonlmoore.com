@@ -9,7 +9,7 @@ tags:
   - whileyoung
 featured:					true
 hidden:						true
-excerpt:					Since working in Germany for more than four years, I have identified a few universal truths that I believe will help anyone who is seeking employment abroad.
+description:					Since working in Germany for more than four years, I have identified a few universal truths that I believe will help anyone who is seeking employment abroad.
 image:						/assets/images/2018/11/working-abroad-tips-featured-image.jpg
 ---
 

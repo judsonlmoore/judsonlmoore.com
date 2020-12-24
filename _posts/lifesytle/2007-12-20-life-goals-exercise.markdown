@@ -1,5 +1,6 @@
 ---
 title:						How to identify and accomplish your life goals
+description:			Do you have life goals? Do you need help identifying life goals? Or maybe you need help structuring a plan to achieve your life goals? Read this now.
 categories:				lifestyle
 tags:
   - lifestyle
@@ -7,7 +8,6 @@ tags:
   - goals
   - impact
   - interests
-excerpt:					Do you have life goals? Do you need help identifying life goals? Or maybe you need help structuring a plan to achieve your life goals? Read this now.
 image:						/assets/images/2007/12/life-goals-exercise.jpeg
 ---
 

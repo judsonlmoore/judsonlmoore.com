@@ -5,7 +5,7 @@ tags:
   - berlin
   - germany
   - covid-19
-excerpt:					This is what my life at home looks like in Berlin during the COVID-19 pandemic. There is a lot to keep my mind off the world falling apart around me.
+description:					This is what my life at home looks like in Berlin during the COVID-19 pandemic. There is a lot to keep my mind off the world falling apart around me.
 image:						/assets/images/2020/04/covid19-berlin-germany-hoarding.jpg
 ---
 

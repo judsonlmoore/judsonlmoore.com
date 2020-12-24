@@ -5,7 +5,7 @@ tags:
   - south america
   - brazil
 author:			visitbrasil
-excerpt:		Have you ever wanted to visit Brazil but are not sure of the best way to get there, the best time to go, or the best destinations to check out?
+description:		Have you ever wanted to visit Brazil but are not sure of the best way to get there, the best time to go, or the best destinations to check out?
 image:			/assets/images/2017/06/SE_Riodejaneiro0206.jpg
 ---
 

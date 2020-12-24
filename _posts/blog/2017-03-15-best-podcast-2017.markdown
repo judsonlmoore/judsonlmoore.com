@@ -5,7 +5,6 @@ tags:
   - podcasts
   - top list
 description:			After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
-excerpt:					After a toxic presidential election cycle, I found podcasts to be a boost for sanity and inspiration. Here is my list for best podcast 2017.
 image:						/assets/images/2017/03/best-podcast-2017.jpg
 ---
 

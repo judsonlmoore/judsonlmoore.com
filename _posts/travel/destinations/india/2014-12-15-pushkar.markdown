@@ -6,7 +6,7 @@ tags:
   - india
   - rajasthan
   - pushkar
-excerpt:		An overnight camel safari in Pushkar with desert nomads led to the best meal of my life and a new appreciation for the love life of a camel named Romeo.
+description:		An overnight camel safari in Pushkar with desert nomads led to the best meal of my life and a new appreciation for the love life of a camel named Romeo.
 image:			/assets/images/2015/01/IMG_4417.jpg
 ---
 

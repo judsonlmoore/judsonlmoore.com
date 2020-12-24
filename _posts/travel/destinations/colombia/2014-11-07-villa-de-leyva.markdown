@@ -7,7 +7,7 @@ tags:
   - villa de leyva
   - rotary
   - rye
-excerpt:		Villa de Leyva is a small historical mountain town in Colombia with beautiful architecture, adventure tourism galore, and waterfalls everywhere.
+description:		Villa de Leyva is a small historical mountain town in Colombia with beautiful architecture, adventure tourism galore, and waterfalls everywhere.
 image:			/assets/images/2014/11/IMG_3155.jpg
 ---
 

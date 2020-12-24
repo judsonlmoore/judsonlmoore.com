@@ -6,7 +6,7 @@ tags:
   - india
   - rajasthan
   - jaipur
-excerpt:		Jaipur sits in the heart of Rajasthan India and is home to detailed architecture and epic palaces suitable only for the most refined tastes in the world.
+description:		Jaipur sits in the heart of Rajasthan India and is home to detailed architecture and epic palaces suitable only for the most refined tastes in the world.
 image:			/assets/images/2015/01/IMG_40421.jpg
 ---
 

@@ -8,8 +8,7 @@ tags:
 destination:	Wadi Rum Desert
 featured:		true
 hidden:			true
-description:	Wadi Rum is a majestic out of this world landscape in the south of Jordan. Learn about the jeep tours, camel safaris, ancient human origins and more before you visit this incredible place.
-excerpt:		Wadi Rum is a majestic out of this world landscape in the south of Jordan. Learn about the jeep tours, camel safaris, ancient human origins and more before you visit this incredible place.
+description:		Wadi Rum is a majestic out of this world landscape in the south of Jordan. Learn about the jeep tours, camel safaris, ancient human origins and more before you visit this incredible place.
 image:			/assets/images/2018/05/wadi-rum-jordan-jumping-in-the-desert.jpg
 ---
 

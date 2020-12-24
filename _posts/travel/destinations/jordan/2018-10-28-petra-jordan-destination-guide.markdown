@@ -8,7 +8,6 @@ tags:
 destination:	Petra
 featured:		true
 hidden:			true
-excerpt:		Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye.
 description:	Petra is one of the New7Wonders of the World and it is no surprise! There is so much more to Petra than meets the eye. Read now why a visit to Petra is a must for anyone visiting Israel or Jordan.
 image:			/assets/images/2018/05/petra-jordan-al-khazneh-treasury.jpg
 ---

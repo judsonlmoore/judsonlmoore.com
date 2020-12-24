@@ -7,7 +7,7 @@ tags:
   - bahia
   - porto seguro
 destination:	Porto Seguro
-excerpt:		Porto Seguro is where Portuguese colonialists discovered Brazil. Full of history, this coastal town has the perfect mix of beach, activity, and history.
+description:		Porto Seguro is where Portuguese colonialists discovered Brazil. Full of history, this coastal town has the perfect mix of beach, activity, and history.
 image:			/assets/images/2017/04/Porto-Seguro-Bahia-Brazil-Historic-Center.jpg
 ---
 

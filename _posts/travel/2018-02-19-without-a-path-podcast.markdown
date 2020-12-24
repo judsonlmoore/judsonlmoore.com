@@ -6,8 +6,7 @@ tags:
   - interview
   - podcast
   - travel
-description:	
-excerpt:		I share travel advice from Kyrgyzstan on The Without a Path Podcast with American writer, traveler, and meddler Joe Baur. We discuss travel, tourism, humanitarianism, and a sheep slaughter.
+description:		I share travel advice from Kyrgyzstan on The Without a Path Podcast with American writer, traveler, and meddler Joe Baur. We discuss travel, tourism, humanitarianism, and a sheep slaughter.
 image:			/assets/images/2018/02/without-a-path-judson-in-kyrgyzstan.jpg
 podcast-name: Without a Path Podcast
 episode-name: Peace Corps Volunteer Judson Moore Shares His Kyrgyzstan Travel Tips

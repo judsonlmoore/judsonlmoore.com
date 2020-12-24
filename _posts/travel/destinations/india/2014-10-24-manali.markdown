@@ -6,7 +6,7 @@ tags:
   - india
   - himachal pradesh
   - manali
-excerpt:		Half a day's drive north of New Delhi you find yourself scaling the foothills of the Himalayan Mountains. Once you reach Manali, you know you're there.
+description:		Half a day's drive north of New Delhi you find yourself scaling the foothills of the Himalayan Mountains. Once you reach Manali, you know you're there.
 image:			/assets/images/2014/10/IMG_1728.jpg
 ---
 

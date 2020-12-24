@@ -3,7 +3,7 @@ title:			Living Without A Car in America
 categories:		['travel tips']
 tags:
   - whileyoung
-excerpt:		Living without a car in America may seem unpatriotic or even impossible, but with these basic tips, you too can live a blissful and car-free life!
+description:		Living without a car in America may seem unpatriotic or even impossible, but with these basic tips, you too can live a blissful and car-free life!
 image:			/assets/images/2016/01/Living-In-America-Without-A-Car-Featured-Image.jpg
 ---
 

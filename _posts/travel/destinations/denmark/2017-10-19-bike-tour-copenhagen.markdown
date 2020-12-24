@@ -6,7 +6,7 @@ tags:
   - scandinavia
   - denmark
   - copenhagen
-excerpt:		With just one day to see it all, I found that a bike tour of Copenhagen was the best way to spend just one day in Denmark.
+description:		With just one day to see it all, I found that a bike tour of Copenhagen was the best way to spend just one day in Denmark.
 image:			/assets/images/2017/10/trivago-on-tour-2017-copenhagen-bike-ride-tour-group-min.jpg
 ---
 

@@ -4,7 +4,7 @@ categories:		['travel guide']
 tags:
   - north america
   - united states of america
-excerpt:		Living without a car is the new American dream established by Millennials seeking a more efficient life. Here are the top cities where dreams come true.
+description:		Living without a car is the new American dream established by Millennials seeking a more efficient life. Here are the top cities where dreams come true.
 image:			/assets/images/2017/03/top-10-living-without-car-america-redfin-2017.jpg
 ---
 

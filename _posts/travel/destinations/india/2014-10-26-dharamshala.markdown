@@ -6,7 +6,7 @@ tags:
   - india
   - himachal pradesh
   - dharamshala
-excerpt:		Dharamshala is the refuge of the Tibetan people in India. Hospitality shines through their acts, their stories, and their business ethics.
+description:		Dharamshala is the refuge of the Tibetan people in India. Hospitality shines through their acts, their stories, and their business ethics.
 image:			/assets/images/2015/01/IMG_0250.jpg
 ---
 

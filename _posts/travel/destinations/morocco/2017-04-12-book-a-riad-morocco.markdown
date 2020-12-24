@@ -4,7 +4,7 @@ categories:		['travel guide']
 tags:
   - mena
   - morocco
-excerpt:		Morocco is a land with charms dating back centuries. If you want to have an authentic experience, book a riad in Morocco, but ask these questions first.
+description:		Morocco is a land with charms dating back centuries. If you want to have an authentic experience, book a riad in Morocco, but ask these questions first.
 image:			/assets/images/2017/04/riad-in-morocco-3.jpg
 ---
 

@@ -8,7 +8,7 @@ tags:
   - dehli
   - jaipur
   - rajasthan
-excerpt:		During a 6-month business trip to India, I took advantage of every weekend to travel to a different corner of this beautiful and vibrant country.
+description:		During a 6-month business trip to India, I took advantage of every weekend to travel to a different corner of this beautiful and vibrant country.
 image:			/assets/images/2015/03/minaal-bag.jpg
 ---
 

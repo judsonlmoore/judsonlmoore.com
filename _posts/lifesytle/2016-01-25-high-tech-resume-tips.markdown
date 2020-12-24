@@ -1,10 +1,10 @@
 ---
 title:						High tech tips for any resume
+description:			Resume writing is an art form. Use these clever resume tips to show that you understand the technology and think outside of the box.
 categories:				lifestyle
 tags:
   - lifestyle
   - whileyoung
-excerpt:					Resume writing is an art form. Use these clever resume tips to show that you understand the technology and think outside of the box.
 image:						/assets/images/2016/01/resume-writing-man-notebook-laptop-1.jpg
 ---
 

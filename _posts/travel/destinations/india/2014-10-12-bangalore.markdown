@@ -6,7 +6,7 @@ tags:
   - india
   - karnataka
   - bangalore
-excerpt:		I made a lot out of a quick trip to India's Garden City, Bangalore. Temples of bulls, parks, and rooftop discos make Bangalore a must-visit destination.
+description:		I made a lot out of a quick trip to India's Garden City, Bangalore. Temples of bulls, parks, and rooftop discos make Bangalore a must-visit destination.
 image:			/assets/images/2015/01/IMG_1506.jpg
 ---
 

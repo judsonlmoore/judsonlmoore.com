@@ -6,7 +6,7 @@ tags:
   - interview
   - podcast
   - travel
-excerpt:		The Expat Sandwich Podcast features Americans living abroad and the crazy but interesting lives they lead. I share stories from my travels and work in humanitarian service in the season 2 opener.
+description:		The Expat Sandwich Podcast features Americans living abroad and the crazy but interesting lives they lead. I share stories from my travels and work in humanitarian service in the season 2 opener.
 image:			/assets/images/2017/09/expat-sandwich-bg.jpg
 podcast-name: Expat Sandwich
 episode-name: Peace Man

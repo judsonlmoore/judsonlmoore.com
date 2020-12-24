@@ -5,7 +5,7 @@ tags:
   - guest author
   - female travel
 author:			tarahmason
-excerpt:		Travel blogger Tarah Mason writes a guest post about how to be happy in a world full of opportunities, pressures, and unlimited possibilities.
+description:		Travel blogger Tarah Mason writes a guest post about how to be happy in a world full of opportunities, pressures, and unlimited possibilities.
 image:			/assets/images/2017/03/avatar-tarah-mason.jpg
 ---
 

@@ -6,7 +6,7 @@ tags:
   - germany
   - pfalz
   - landau
-excerpt:		The wide array of wineries, beautiful scenery, and friendly wine masters make German Wine Country a must-taste destination.
+description:		The wide array of wineries, beautiful scenery, and friendly wine masters make German Wine Country a must-taste destination.
 image:			/assets/images/2016/08/german-wine-country-landau.jpg
 ---
 

@@ -6,7 +6,7 @@ tags:
   - india
   - tamil nadu
   - tranquebar
-excerpt:		Tranquebar is Christianity's origin point in India, home to the largest Danish fort outside of Europe, and one amazing B&B I called home.
+description:		Tranquebar is Christianity's origin point in India, home to the largest Danish fort outside of Europe, and one amazing B&B I called home.
 image:			/assets/images/2015/01/IMG_1032.jpg
 ---
 

@@ -6,7 +6,7 @@ tags:
   - female travel
   - interview
 author:			kellybranyik
-excerpt:		Returned Peace Corps Volunteer and author of the Propitious Panda blog and the new book "It Depends" shares a tale of solo travel in Beijing.
+description:		Returned Peace Corps Volunteer and author of the Propitious Panda blog and the new book "It Depends" shares a tale of solo travel in Beijing.
 image:			/assets/images/2017/09/kelly-branyik-propitious-panda-badaling-south-wall.jpg
 ---
 

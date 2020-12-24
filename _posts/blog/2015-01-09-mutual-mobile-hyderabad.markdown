@@ -10,7 +10,7 @@ tags:
   - india
   - mutual mobile
   - success
-excerpt:					Mutual Mobile sent me to India for six months to build a new Hyderabad India office. This is the story of the collaborative process to create this space.
+description:					Mutual Mobile sent me to India for six months to build a new Hyderabad India office. This is the story of the collaborative process to create this space.
 image:						/assets/images/2015/04/IMG_1468.jpg
 ---
 

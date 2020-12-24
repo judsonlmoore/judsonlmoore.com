@@ -1,10 +1,10 @@
 ---
 title:						What I would have said - home is where the heart is
+description:			My heart has found a new place to call home in Los Angeles, and I owe it all to this exceptional group of community leaders and humanitarians.
 categories:				lifestyle
 tags:
   - lifestyle
   - rotary
-excerpt:					My heart has found a new place to call home in Los Angeles, and I owe it all to this exceptional group of community leaders and humanitarians.
 image:						/assets/images/2010/06/home-is-where-the-heart-is.jpg
 toc:							false
 ---

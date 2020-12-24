@@ -7,7 +7,7 @@ tags:
   - kyrgyzstan
   - peace corps
   - site change
-excerpt:		I am moving To Bishkek, Kyrgyzstan to continue to the next step of my Peace Corps Service. Get all of my new details and learn about my new project here.
+description:		I am moving To Bishkek, Kyrgyzstan to continue to the next step of my Peace Corps Service. Get all of my new details and learn about my new project here.
 image:			/assets/images/2012/09/Bishkek_WhiteHouse.jpeg
 ---
 

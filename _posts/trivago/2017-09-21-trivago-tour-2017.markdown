@@ -8,7 +8,7 @@ tags:
   - norway
   - road trip
   - travel tale
-excerpt:					The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about the surprise concerts, unknown destinations, and jumping with moose.
+description:					The annual trivago on Tour trip went on a Nordic cruise in 2017. Learn about the surprise concerts, unknown destinations, and jumping with moose.
 image:						/assets/images/2017/10/trivago-on-tour-2017-sign-at-lake.jpg
 ---
 
