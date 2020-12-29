@@ -37,7 +37,7 @@ post_class:     post-template
           <div class="rounded bg-light border-light p-5">
             <div class="d-flex align-items-center mb-3">
               {% if author.avatar %} 
-              {% cloudinary {{ author.avatar }} alt="{{ author.name }}" class="avatar-xl rounded-circle mr-3" %} 
+              {% cloudinary author {{ author.avatar }} alt="Image of {{ author.name }}" %} 
               {% endif %}
               <div>
                 <h5 class="mb-0">{{ author.name }}</h5>

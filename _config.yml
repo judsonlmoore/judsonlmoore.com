@@ -44,6 +44,7 @@ plugins:
 include: 
   - _pages
   - _pages/travel-guides
+  - _shop
 
 exclude:
   - .jekyll-cache
@@ -52,6 +53,8 @@ exclude:
 
 collections:
   authors:
+    output: true
+  shop:
     output: true
 
 defaults:
@@ -67,7 +70,7 @@ defaults:
       layout: "blog-single"
       is_post: true
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       layout: "autopage"
       permalink: /:basename
@@ -76,6 +79,11 @@ defaults:
       type: "authors"
     values:
       layout: "blog-author"
+  - scope:
+      path: "shop"
+    values:
+      layout: "shop-single"
+      permalink: /:basename
 
 # jekyll-cloudinary
 cloudinary:
@@ -91,13 +99,26 @@ cloudinary:
       max_width: 1024
       figure: never
       attributes:
-        class: "img-fluid"
+        class: "img-fluid rounded mb-2 mt-3 w-100"
         loading: "lazy"
     thumbnail:
       min_width: 64
       min_height: 64
       max_width: 512
       max_height: 512
+    author:
+      gravity: auto
+      crop: fill
+      focus: auto
+      steps: 1
+      min_width: 70
+      min_height: 70
+      max_width: 70
+      max_height: 70
+      figure: never
+      attributes:
+        class: "avatar-xl rounded-circle mr-3 "
+        loading: "lazy"
 
 # minification
 compress_html:  
@@ -161,6 +182,14 @@ autopages:
       - 'autopage.html'
     title: 'Posts in collection :coll'
     permalink: '/collection/:coll'
+    slugify:
+      mode: 'default'
+      case: true 
+  shop:
+    layouts: 
+      - 'shop-single.html'
+    title: 'Products in category :coll'
+    permalink: '/product/:coll'
     slugify:
       mode: 'default'
       case: true 
