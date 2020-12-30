@@ -1,7 +1,7 @@
 ---
 title: Shafik Gabr's East-West - The Art of Dialogue Fellowship Notes
 description: >-
-  M. Shafik Gabr's charitable foundation encourages East-West dialogue by enging
+  M. Shafik Gabr's charitable foundation encourages East-West dialogue by engaging
   young professionals in dialogue with top leaders in Egypt and the United
   States.
 categories: blog
@@ -15,7 +15,7 @@ image: >-
 
 M. Shafik Gabr is a prominent Egyptian businessman and philanthropist. He has established charitable foundations in Egypt and the United States to perform good humanitarian works of various sorts. In 2013, he began a fellowship program that encourages East-West dialogue. Each year, the fellowship brings 20 young professionals together for a month of travel, dialogue, and stimulating meetings with top leaders in Egypt and the United States.
 
-I am a 2015 fellow. In this article, I share my notes from the fellowship to record my learnings from my participation and hope that these notes might help future fellowship applicants gain a sense of what they are signing up for. 
+I am a 2015 fellow. In this article, I share my notes from the fellowship to record my learnings from my participation and hope that these notes might help future fellowship applicants understand what they are signing up for. 
 
 My notes are as comprehensive as I could get them, but the most meaningful learnings came, of course, from the person-to-person interactions that the fellowship facilitates. Please forgive any typos, grammatical errors, or incomplete sentences. Again, these are just notes. If you would like more information about the fellowship, feel free to leave me a comment below this article, [contact me](/contact) or visit the [Shafik Gabr Foundation website](https://eastwestdialogue.org/).
 
@@ -844,11 +844,11 @@ The second segment of the fellowship takes place in the United States of America
 - Conflict mapping
 - Coders4Africa
   - Maybe they can submit a #selfie4peace?
-- "Victomhood as a finite resource" = false
-  - Not a pie that you can't give a peice away of
-- "When two elefants fight, it is the grass that suffers." - Affrican proverb
-- Interfaith excounters as a result of globalization
-- Org: [I am Your Protector](https://iamyourprotector.org/) - a community of people who speak out and stand up for one another other across dimensions of religion, ethnicity, gender, and sexual orientation.
+- "Victimhood is a finite resource" = false
+  - Not a pie that you can't give a piece away of
+- "When two elephants fight, it is the grass that suffers." - African proverb
+- Interfaith encounters as a result of globalization
+- Org: [I am Your Protector](https://iamyourprotector.org/) - a community of people who speak out and stand up for one another across dimensions of religion, ethnicity, gender, and sexual orientation.
 
 ### Wednesday, November 11, 2015 (New York City, NY)
 
@@ -872,14 +872,14 @@ The second segment of the fellowship takes place in the United States of America
 - Has been to the Gabr home in Cairo 
 - Quotes by  Brian Sullivan
   - "We all have money in common" - Brian Sullivan
-  - "Countries with McDonalld's don't go to war with each other" - Brian Sullivan
+  - "Countries with McDonald's don't go to war with each other" - Brian Sullivan
   - "I'm the oil geek" - Brian Sullivan
 - Recency Bias - because something has been a certain way recently, people think it should be this way forever.
   - In relation to oil prices
-  - 25 years ago oil prices in today's USD is $48 "so maybe this is where oil wants to be"
-- Brian is commited to making content designed for digital consumption 
+  - 25 years ago, oil prices in today's USD was $48, "so maybe this is where oil wants to be"
+- Brian is committed to making content designed for digital consumption 
   - 30-90 seconds
-- CNBC is the Business News Leader
+- CNBC is the Business News-Leader
 - Sawiris - richest family in Egypt
 
 {% cloudinary /assets/images/2015/10/brian-sullivan-cnbc-headquarters-englewood-gabr-fellows.jpeg caption="" alt="" %}
@@ -901,13 +901,13 @@ The second segment of the fellowship takes place in the United States of America
 - Federal government is slow
 - NYPD is fast / overnight 
 - [NYPD Shield](http://www.nypdshield.org/)
-  - How police communicate with private sector and the public
+  - How police communicate with the private sector and the public
   - Anyone can join
   - Crowdsourced intel gathering 
-- Libya - only country with an Interpol red-notice on Bin Laden pre 9/11
-- We've won the counter message with our way of life. Why do you think Syrians are haeded to the west? 
+- Libya - the only country with an Interpol red-notice on Bin Laden pre 9/11
+- We've won the counter-message with our way of life. Why do you think Syrians are headed to the west? 
 - ISIS is terror, but why fight them just to defend Assad? So people leave. 
-- Caritas - refugee resetellment, "best single source" project
+- Caritas - refugee resettlement, "best single source" project
 - Meals on Wheels and more
   - More than just meals
   - Big budget and are always hiring
@@ -948,15 +948,15 @@ The second segment of the fellowship takes place in the United States of America
 
 - Breakfast Speaker: [Aon Risk Services South, Inc.](https://www.aon.com/default.jsp)
 - AON is the primary sponsor of Manchester United
-- Insurance clearing house with global companie - risk assessment 
+- Insurance clearing house with global companies - risk assessment 
 - $15B global. $60M Atlanta.
 - Marsh & McLennan - biggest competitor 
 - Cyber risk
   - Online - what we hear about when someone steals a bunch of data
-  - Offline - hard copy papers int he trash, lost/stolen phones, laptops, etc.
+  - Offline - hard copy papers in the trash, lost/stolen phones, laptops, etc.
 - Middle East presence?
   - Six or so offices in the Middle East, but not in Egypt
-  - Lots of clients in Egypt and they do work in-country a lot
+  - Lots of clients in Egypt, and they do work in-country a lot
 - Political risk management 
   - [Online political risk map](https://www.aon.com/2020-political-risk-terrorism-and-political-violence-maps/index.html) (interactive) <-- very cool 
   - Updated quarterly
@@ -973,12 +973,12 @@ The second segment of the fellowship takes place in the United States of America
 - CNN meeting with Mr. Tim Langmaid and Tour
 - Perspectives for United States Multinational Corporate Investment in Egypt and the broader Middle East
 - Headline News (HLN) "Must see, must share" stories of the day, but the internet has changed the need and the delivery for this.
-- Great Big Story - standalone network that does more in-depth
+- Great Big Story - a standalone network that does more in-depth
 - Layers of journalism
   - Surface facts
-    - News / press releases, speeches
+    - News/press releases, speeches
   - Reporting practices
-    - Fact checking and investigation 
+    - Fact-checking and investigation 
   - Interpretation and analysis
     - Community and opinions
     - CNN does this, but Fox "leads" the market in this area
@@ -987,17 +987,17 @@ The second segment of the fellowship takes place in the United States of America
   - Standards - should we do it? 
   - The row - How do we do it? 
 - Anonymous Sources Test
-  - CNN doesn't take news without two names sources that are willing to be named.
-  - Also takes these factors into consideration when working with a source: 
+  - CNN doesn't broadcast news without two names sources that are willing to be named.
+  - Also considers these factors when working with a source: 
     - Track record
     - Confirmable
-    - Proximity (1st hand vs 2nd  hand witness)
+    - Proximity (1st hand vs. 2nd  hand witness)
     - Context
     - Motive
     - Believability
     - Risk
-    - Allegation of wrong doing
-    - Response (what is the official response to the alligations?)
+    - Allegation of wrongdoing
+    - Response (what is the official response to the allegations?)
 
 {% cloudinary /assets/images/2015/10/cnn-headquarters-atlanta-control-room.jpeg caption="" alt="" %}
 
@@ -1007,12 +1007,12 @@ The second segment of the fellowship takes place in the United States of America
 ***Location:** Coca-Cola Headquarters* 
 
 - Carlos A. Pagoaga, Group Director of Partnerships of the [Coca-Cola Foundation](https://www.coca-colacompany.com/shared-future/coca-cola-foundation)
-- Sustanability at Coca-Cola
+- Sustainability at Coca-Cola
   - World's largest beverage company
   - 200+ countries
   - 700k employees
   - 20M business outlets
-- Women's economic Empowerment Initiatives
+- Women's Economic Empowerment Initiatives
   - Sustainability is good for their business
     - Trust driver
     - Social
@@ -1020,16 +1020,16 @@ The second segment of the fellowship takes place in the United States of America
     - Cost
 - Golden Triangle (partnerships help leverage their scale)
   - Business, civil society, government 
-- Middle East - Enhansing personal well-being
-  - Low-to-no calorie beverages
+- Middle East - Enhancing personal well-being
+  - low-to-no calorie beverages
   - Transparent nutrition information
-  - Active healthy living programs
+  - Active, healthy living programs
   - Marketing responsibility
-    - Do not market to children under ages of 12
-- **Question:** Any plans to reduce manufacturing / botteling in califormica because of the drought?
+    - Do not market to children under the ages of 12
+- **Question:** Any plans to reduce manufacturing/bottling in California because of the drought?
   - **Answer:** No plans, but will followup 
 - Stieva-driven beverages
-  - R&D in sweateners
+  - R&D in sweeteners
 - [5by20 Initiative](https://www.coca-colacompany.com/shared-future/women-empowerment)
   - Women do 66% of the world's work but only earn 10% of the world's income. They invest 90% of their income in the community and family. 
   - Business skills
@@ -1041,17 +1041,17 @@ The second segment of the fellowship takes place in the United States of America
 {% include youtube.html src="https://www.youtube.com/embed/TA7dn2bsy_8" %}
 
 - World - Protecting the environment 
-  - water, packkage recoveery, carbon, agriculture
-- Rain - Replenish africa initiative
+  - water, package recovery, carbon, agriculture
+- Rain - Replenish Africa initiative
   - $65M from 2009-2020
 - Plant bottle packaging
 - Recycling 
   - Recovery - to recover and recycle the bottles from the trash
-  - Ekocycle - initiative with WillIAm to make recycling cool and hip. Amazing and suprising products made from these PETs. 
+  - Ekocycle - initiative with William to make recycling cool and hip. Amazing and surprising products made from these PETs. 
 - [Project Unnati](https://www.coca-colaindia.com/stories/community/agriculture/empowering-the-mango-farmer-community-by-making-maaza-indias-1st-billion-dollar-juice-drink-brand) - South India productivity of Mango Farms
 - Coke Foundation - 1% of annual operating profits, roughly $128M
 - Disaster Relief Fund
-- [Curtis Ferguson](https://www.coca-colacompany.com/company/leadership/curtis-ferguson) - Coke "BU" Chief in Cairo overseeing MENA
+- [Curtis Ferguson](https://www.coca-colacompany.com/company/leadership/curtis-ferguson) - Coke "B.U." Chief in Cairo overseeing MENA
 
 {% include youtube.html src="https://www.youtube.com/embed/84OT0NLlqfM" %}
 
@@ -1119,7 +1119,7 @@ The second segment of the fellowship takes place in the United States of America
 ***Topic:** The Nexus of Security Challenges to the U.S. and its partners in the Middle East*  
 ***Location:** The Jamestown Foundation* 
 
-- The Jamestown Foundaiton is 20 years old
+- The Jamestown Foundation is 20 years old
 - Started dealing with the Soviets
 - After 9/11 started addressing terrorism
 - Works in Eurasia (all of it)
@@ -1137,7 +1137,7 @@ The second segment of the fellowship takes place in the United States of America
 ***Location:** The National Defense University* 
 
 - Speaker bio at the [National Defense University](https://csis.org/expert/thomas-m-sanderson)
-- Two of the most carismatic, happy, optimistic people we have met. Will make great allies on any project. 
+- Two of the most charismatic, happy, optimistic people we have met. Will make great allies on any project. 
 
 #### [Dr. Paul M. Severance](https://www.linkedin.com/pub/paul-severance/7/b70/526)
 
@@ -1152,14 +1152,14 @@ The second segment of the fellowship takes place in the United States of America
 ***Location:** ?* 
 
 - See this [NYTimes Article](https://www.nytimes.com/1984/06/19/world/arab-americans-in-israel-a-case-of-dual-identities.html)
-- Since 20 years
+- For 20 years
 - 25,000 companies
 - 22 countries
 - $71B in 2015
-- Conducts certificaton of American exporters in to the Arab world 
-- Enthusiastic to lean about my team's action plan ([Cleopatra to Coretta](https://www.cleopatratocoretta.org/))
+- Conducts certification of American exporters into the Arab world 
+- Enthusiastic to learn about my team's action plan ([Cleopatra to Coretta](https://www.cleopatratocoretta.org/))
 - Building bridges
-- Disppelling stereotypes
+- Dispelling stereotypes
 
 #### [Dr. Osama Abi-Mershed ](https://explore.georgetown.edu/people/abimerso/) of the National U.S.-Arab Chamber of Commerce ([NUSACC](https://www.nusacc.org/))
 
@@ -1232,7 +1232,7 @@ The second segment of the fellowship takes place in the United States of America
 ***Topic:** The Egyptian Economy – A View from the IMF*  
 ***Location:** [International Monetary Fund](https://www.imf.org/external/index.htm)* 
 
-- VAT (Value Added Tax) - a good way to increase Egyptian revenues 
+- VAT (Value Added Tax) - an excellent way to increase Egyptian revenues 
 - Egypt has a history of trying to fix its exchange rate, especially against the USD, which is very costly for exporters.
 
 #### [Rep. Congressman Darrell Issa (R)](https://en.wikipedia.org/wiki/Darrell_Issa)
@@ -1254,8 +1254,8 @@ The second segment of the fellowship takes place in the United States of America
 ***Topic:** Role of [USAID](https://www.usaid.gov/) ([wiki](https://en.wikipedia.org/wiki/United_States_Agency_for_International_Development)) in Education*  
 ***Location:** USAID and Institutional Building* 
 
-- Does not work with media/radio because Egypt does not have a strong independend media presence. 
-- Internews is there, but they focus on other initiativees. 
+- Does not work with media/radio because Egypt does not have a strong independent media presence. 
+- Internews is there, but they focus on other initiatives. 
 - [Democracy International](https://www.democracy-international.org/)
 - [PEER Research Grants](https://www.usaid.gov/what-we-do/GlobalDevLab/international-research-science-programs/peer) 
 - [Global Development Lab](https://www.usaid.gov/GlobalDevLab)
@@ -1275,18 +1275,18 @@ The second segment of the fellowship takes place in the United States of America
 ***Location:** ?* 
 
 - Breakfast
-- What is goinf on in the world? "A clash of civilization against chaos."
+- What is going on in the world? "A clash of civilization against chaos."
 - Perception: 
-  - the US is like the boyfriend that says, "I love you" on Monday and then doesn't answer your calls on Wednesday. Then, you call the ex-boyfriend who beats you (Putin), and maybe he gets drunk every day and beats you, but at least he shows up when you call! 
-- US, Israel, and Saudi policies in last 5 years have really caused great damage to the Middle East situations and policies
-- "It's not too late for Lebennon"
+  - the U.S. is like the boyfriend that says, "I love you" on Monday and then doesn't answer your calls on Wednesday. Then, you call the ex-boyfriend who beats you (Putin), and maybe he gets drunk every day and beats you, but at least he shows up when you call! 
+- US, Israel, and Saudi policies in the last five years have caused significant damage to the Middle East situations and policies
+- "It's not too late for Lebanon."
 
 #### Dr. Eric Trager ([more](https://www.washingtoninstitute.org/experts/view/trager-eric)), Fellow
 
 ***Topic:** Muslim Brotherhood: Facts and Fiction – the view from D.C.*  
 ***Location:** [The Washington Institute for Near East Policy](https://www.washingtoninstitute.org/)* 
 
-- "It was a coup" (re: Egypt)
+- "It was a coup" (re Egypt)
 - He was in Tahrir Square during the revolt
 - No reconciliation because of the "kill or be killed" struggle post-coups between Sisi, military, and Muslim Brotherhood
 
@@ -1297,19 +1297,19 @@ The second segment of the fellowship takes place in the United States of America
 
 - Colin Cole
   - **Question:** How can we make an impact? 
-    - **Answer:** Our generation has a new perspective on how to utilize technology for making a huge impact in the areas of speech, media, entrepenourship, etc. but also has an evil side so be careful.
-      - Sieze every opportunity to travel, learn languages
-      - If you don't seee th eopportunity in front of you, make your own opportunity. 
-  - **Question:** what is your perspective on Snowden? 
-    - **Answer:** Our governemtn does not spy on American people to spy on American people but rather through huge datamining, American data got caught up in that. Snowden pointed out the potential for abuse. 
+    - **Answer:** Our generation has a new perspective on how to utilize technology for making a significant impact in the areas of speech, media, entrepreneurship, etc. but also has an evil side, so be careful.
+      - Seize every opportunity to travel, learn languages
+      - If you don't see the opportunity in front of you, make your own opportunity. 
+  - **Question:** what is your Perspective on Snowden? 
+    - **Answer:** Our government does not spy on American people to spy on American people but rather through massive data mining; American data got caught up in that. Snowden pointed out the potential for abuse. 
   - CVE - Countering Violent Extremism Task Force 
-- Andrew Miller, director for Egypt and Israli Military Issues
+- Andrew Miller, director for Egypt and Israeli Military Issues
   - Can the U.S./Egpyt reset the relationship on stronger footing? What it will take
   - Evolving Political U.S./Egypt Relationship: Can Egypt be the key United
   - States partner for engagement in the Middle East and North Africa?
-  - Responsible to the staff of the National Security Advisor and to the president on these issues
+  - Responsible to the staff of the National Security Advisor and the president on these issues
   - Coordination of all government agencies to be working in the same direction
-  - OBE - overtaken by events when events unfold to derail or shift policy decision making process before the decision can be made.
+  - OBE - overtaken by events when events unfold to derail or shift policy decision-making process before the decision can be made.
   - Policy workflow
     - Sub IPC (Inter Policy Council)
     - IPC
@@ -1319,10 +1319,10 @@ The second segment of the fellowship takes place in the United States of America
 - George Selim
   - Countering Violent Extremism
   - 4th time to work in the White House
-  - This is his last week at the White House; shifting to Department of Homeland Security.
+  - This is his last week at the White House, shifting to the Department of Homeland Security.
   - Is a Buckeye (Ohio)
   - Egyptian American
-  - This guy is passionate about Gabr and dialogue and thee improtance of working together. 
+  - This guy is passionate about Gabr and dialogue and the importance of working together. 
 - Rob Malley
   - Why is the U.S./Egypt bilateral relationship now Tactical in nature rather than Strategic?
 
@@ -1352,12 +1352,12 @@ The second segment of the fellowship takes place in the United States of America
   - [Dr. Gonul Tol](https://www.mei.edu/profile/g%C3%B6n%C3%BCl-tol), Founding Director, Center for Turkish Studies
   - [Mr. Alex Vatanka](https://www.mei.edu/profile/alex-vatanka), Senior Fellow
 - **Question:** How long can Ardwan stay in power? 
-  - **Answer:** In power since 2002, won every election. Free but not fair elections. West fears that Turkish democracy is lost because the state now controlls almost all media, the judiciary, and much of the rest of government. 
+  - **Answer:** In power since 2002, won every election. Free but not fair elections. West fears that Turkish democracy is lost because the state now controls almost all media, the judiciary, and much of the government. 
 - Iran
   - **Question:** Is it a good deal? What is the outlook?
-    - **Answer:** It is a 15-year agreement, so much can happen. It will be complicated and bumpy, but its at least a framework. Tranian hardliners are only 15% of the population but they are the ones with the guns. 85% want reform and stability with their neighbors and reengagement with the West. 
-- It was a revolution, followed by a coup (re: Egypt) but you can't cal it a coup because then all Aid to Egypt from the US has to stop.
-- Aid was suspended, but reestablished after 17(?) months
+    - **Answer:** It is a 15-year agreement, so much can happen. It will be complicated and bumpy, but it's at least a framework. Iranian hardliners are only 15% of the population, but they are the ones with the guns. 85% want reform and stability with their neighbors and reengagement with the west. 
+- It was a revolution, followed by a coup (re Egypt), but you can't call it a coup because then all Aid to Egypt from the U.S. has to stop.
+- Aid was suspended but reestablished after 17(?) months
 
 #### Egyptian Ambassador Yasser Reda
 
@@ -1377,7 +1377,7 @@ The second segment of the fellowship takes place in the United States of America
 
 - Coffee with 2013 Gabr Fellow Christi Fallon
 - $1.3B aid is invested into U.S. industry on behalf of the Egyptian military
-- U.S. government can not make or loose moneey on theese transactions (bt the manufacturers do, of course)
+- U.S. government can not make or lose money on these transactions (bt the manufacturers do, of course)
 - Call/email her to meet up at any time. 
 
 #### Greg Copley, President of the [International Strategic Studies Association](https://www.strategicstudies.org/)
@@ -1387,7 +1387,7 @@ The second segment of the fellowship takes place in the United States of America
 
 - RedMed (Egypt is the linkage place)
 - Suez Canal is central to this geographic political dynamic
-- Water - how to desalinate and purify water without high costs ($$ engergy) while also leaving important minerals in the water? Pure water will kill you if you drink it for too long of a period. 
+- Water - how to desalinate and purify water without high costs ($$ energy) while also leaving essential minerals in the water? Pure water will kill you if you drink it for too long of a period. 
 
 #### Unknown speaker
 
@@ -1460,26 +1460,26 @@ The second segment of the fellowship takes place in the United States of America
 
 - [William B. Taylor](https://www.usip.org/people/william-b-taylor) - Executive Vice President (ex-ambassador to the Ukraine)
 - [Linda Bishai](https://www.linkedin.com/in/linda-bishai-0602a48/) - N. Africa
-- "Peace Corps with a budget"
+- "Peace Corps with a budget."
 - Independent Federal Government Institute
 - Non-violent dispute resolution
 - Funded by State Department 
   - Works in partnership
-  - Not part of embassy system
+  - Not part of the embassy system
 - Has a division specializing in leveraging technology to solve global issues
 - Thoughts on: 
-  - Egyptian Revolution - youth wanted change, oldeer wanted stability. Youth got their way but then elected the Muslim Brotherhood. Parents said, we told you so, be careful what you ask for!""
-  - Egyptian Counter-Revolution - youth and parents revolt together against the Muslim Brotherhood but then the parents influenced the youth to vote for stability, and nothing was more stable than the military leaders.
+  - Egyptian Revolution - youth wanted to change; older wanted stability. The youth got their way but then elected the Muslim Brotherhood. Parents said, "we told you so, be careful what you ask for!"
+  - Egyptian Counter-Revolution - youth and parents revolt together against the Muslim Brotherhood, but then the parents influenced the youth to vote for stability, and nothing was more stable than the military leaders.
   - Russian sanctions:
     - Artic oil - no access to western frilling technology or financing
-    - Defense - no access to western ilitary technology or support (as they had been doing with Ukraine, who is getting stronger). 
-    - Rate of Syrian refugees has only increased sincee Putin started bombing "ISIS"
+    - Defense - no access to western military technology or support (as they had been doing with Ukraine, which is getting stronger). 
+    - Rate of Syrian refugees has only increased since Putin started bombing "ISIS."
     - G7 (not G8) because Russia invaded Ukraine and does not want to play by the international rules
   - MENA:
-    - The Peace Institute doesn't work with the state actors. More the lower levels, mid-career, mid-socioeeconomic groups. More grassroots. More institutions and NGOs, not the State Department. 
+    - The Peace Institute doesn't work with the state actors. More the lower levels, mid-career, mid-socioeconomic groups. More grassroots. More institutions and NGOs, not the State Department. 
   - Electorial and Civic Education 
-    - Not doing this in Egypt (too difficult for US)
-    - Programs: how it works, conflict resolution, case studies and comparitive research (search for understanding)
+    - Not doing this in Egypt (too difficult for the U.S.)
+    - Programs: how it works, conflict resolution, case studies, and comparative research (search for understanding)
 
 #### [Dr. Jon Alterman ](https://www.linkedin.com/in/jon-alterman-6489633)
 
@@ -1487,15 +1487,15 @@ The second segment of the fellowship takes place in the United States of America
 ***Location:** [Center for Strategic and International Studies (CSIS)](https://csis.org/) ([wiki](https://en.wikipedia.org/wiki/Center_for_Strategic_and_International_Studies))* 
 
 - He is the Senior Vice President, Zbigniew Brzezinski Chair in Global Security and Geostrategy, and Director, Middle East Program
-- Implications of the Inranian Nuclear Deal and Stabilit in the region. 
+- Implications of the Iranian Nuclear Deal and Stability in the region. 
 - Aid is the wrong place for a relationship. 
 - You should have a relationship because you do things together that are constructive.
 - Non-zero confidence-building measures
-- The new generation can solve problems because we aren't affraid to do something new. World;s problems are unlikely to be fixed by 70-year olds in suits meeting at confrences.
+- The new generation can solve problems because we aren't afraid to do something new. The world's problems are unlikely to be fixed by 70-year olds in suits meeting at conferences.
 - **Question:** Why didn't the Egyptian revolution succeed in achieving their post-revolution goals? 
-  - **Answer:** Revolutions didn't truly win over the elites. Businesses were pro-revolution but once the economu stabilized a little, then their appitite for rocking the boat dissapeared.
-- "If you're going to be an analysit, you can't b an advocate. If you're going to be an advocate, you can't be a judge."
-  - Choose onee. Builds credibility. 
+  - **Answer:** Revolutions didn't truly win over the elites. Businesses were pro-revolution, but once the economy stabilized a little, their appetite for rocking the boat disappeared.
+- "If you're going to be an analyst, you can't ban advocate. If you're going to be an advocate, you can't be a judge."
+  - Choose one. Builds credibility. 
 
 ## Reading List
 
