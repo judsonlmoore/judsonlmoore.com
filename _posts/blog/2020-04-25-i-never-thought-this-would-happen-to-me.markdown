@@ -32,7 +32,7 @@ I've been writing a lot about planning recently. Most of that planning has focus
 
 This article covers some challenging topics. By facing them head-on together, I hope that you and I will both be better equipped in the future to respond positively to these events, should we ever experience them first-hand.
 
-{% cloudinary /assets/images/2020/04/crichton-leprechaun.jpg alt="An amateur sketch of the Crichton Leprechaun reported in Mobile, Alabama in 2006." %}
+{% cloudinary post-image /assets/images/2020/04/crichton-leprechaun.jpg alt="An amateur sketch of the Crichton Leprechaun reported in Mobile, Alabama in 2006." %}
 
 ## Non-violent crime
 
@@ -52,7 +52,7 @@ When contemplating shooting someone invading their home, it is hard to say how a
 
 Well, it is something I hope to never actually be so prepared for. Even so, I've thought about it, and that goes a long way in being prepared, even if I don't own a firearm in the first place. 
 
-{% cloudinary /assets/images/2020/04/oklahoma-city-bombing.jpeg alt="The north side of the Alfred Murrah Federal Building in Oklahoma City after the deadliest act of domestic terrorism in U.S. history." %}
+{% cloudinary post-image /assets/images/2020/04/oklahoma-city-bombing.jpeg alt="The north side of the Alfred Murrah Federal Building in Oklahoma City after the deadliest act of domestic terrorism in U.S. history." %}
 
 ## Terrorism
 
@@ -66,7 +66,7 @@ The most important thing is not to let the presence of evil-doers in the world p
 
 The American Red Cross has a great [guide and preparation checklist](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/terrorism.html) of what to do before, during, and after a terrorist attack. Notably, you can prepare to have a communication plan, a meeting point, and even some useful training like First Aid and CPR. Of course, these measures are helpful for a response to many scenarios aside from terrorism. 
 
-{% cloudinary /assets/images/2020/04/2016-us-election-results-by-county.png alt="Tthe county level and vote share results of the 2016 US Presidential Election" caption="Map created by Magog the Ogre via [Wikimedia](https://en.wikipedia.org/wiki/File:2016_Nationwide_US_presidential_county_map_shaded_by_vote_share.svg)" %}
+{% cloudinary post-image /assets/images/2020/04/2016-us-election-results-by-county.png alt="Tthe county level and vote share results of the 2016 US Presidential Election" caption="Map created by Magog the Ogre via [Wikimedia](https://en.wikipedia.org/wiki/File:2016_Nationwide_US_presidential_county_map_shaded_by_vote_share.svg)" %}
 
 ## Politics
 
@@ -105,7 +105,7 @@ Learn more about how to register to vote, confirm your previous registration, an
 - [Elections Canada](https://www.elections.ca/)
 - [Ask Google (Worldwide)](https://www.google.com/search?q=how+do+i+register+to+vote)
 
-{% cloudinary /assets/images/2020/04/christopher-reeve-then-and-now.jpeg alt="Christopher Reeve as a model, Superman, and advocate for people with disabilities" %}
+{% cloudinary post-image /assets/images/2020/04/christopher-reeve-then-and-now.jpeg alt="Christopher Reeve as a model, Superman, and advocate for people with disabilities" %}
 
 ## Illness
 
@@ -119,7 +119,7 @@ Though tragic, Reeve's high-profile in the media enabled him to go on and have a
 
 How many people do you know with chronic ailments? Can you point to examples in your own life of people who have suffered at the hands of cancer, suicide, addiction, disability, or life-altering accidents? How would you deal with these circumstances if it were you? It is hard to think about, I know, but putting yourself in the shoes of those who have suffered before you will go a long way in preparing you for a healthy response should your health weaken. 
 
-{% cloudinary /assets/images/2020/04/new-orleans-post-hurricane-katrina.jpeg alt="A man sits in front of his flooded house in New Orleans after Hurricane Katrina." %}
+{% cloudinary post-image /assets/images/2020/04/new-orleans-post-hurricane-katrina.jpeg alt="A man sits in front of his flooded house in New Orleans after Hurricane Katrina." %}
 
 ## Natural disasters
 
@@ -143,7 +143,7 @@ Given the broad acceptance of the next mega-quake, the history of past city-flat
 
 Do you live in an active tectonic region? How are you prepared for a big earthquake? Please let me know in the comments below.
 
-{% cloudinary /assets/images/2020/04/toilet-paper-plan-b.jpeg alt="An empty roll of toilet paper reminds us that you need a plan B." %}
+{% cloudinary post-image /assets/images/2020/04/toilet-paper-plan-b.jpeg alt="An empty roll of toilet paper reminds us that you need a plan B." %}
 
 ## Toilet paper 
 
@@ -157,7 +157,7 @@ During the COVID-19 pandemic, the news and social media have been littered with 
 
 Toilet paper, like all other non-perishable supplies, is worth having an extra stock of. Whether you live in a high-risk area or not, you never know when a tornado, blackout, ice storm, flood, earthquake, or pandemic will reduce access to shops. Though hoarding years of supplies away doesn't make sense (and who has that sort of space anyway?), it is smart to keep a few weeks' supplies of some critical items, just in case. 
 
-{% cloudinary /assets/images/2020/04/hoarding-in-a-pandemic.jpeg alt="Vegetable shelves in a grocery store are empty during COVID-19" %}
+{% cloudinary post-image /assets/images/2020/04/hoarding-in-a-pandemic.jpeg alt="Vegetable shelves in a grocery store are empty during COVID-19" %}
 
 ## How to be prepared
 

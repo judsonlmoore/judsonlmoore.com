@@ -61,7 +61,7 @@ The first segment of the fellowship takes place in Egypt. During these 12 days, 
 - Terrorist objectives have moved beyond bombs and 9/11 events. Now they want Statehood in the region an opportunity to be legitimate.
 - Muslim Brotherhood - oldest and most well-organized of the Islamist Movement leaders
 
-{% cloudinary /assets/images/2015/10/artoc-group-for-investment-and-development-board-room.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/artoc-group-for-investment-and-development-board-room.jpeg caption="" alt="" %}
 
 #### Adel El-Adawy, Assistant Professor at The American University in Cairo
 
@@ -294,7 +294,7 @@ Visit the Regional Center for Strategic Studies in Giza (including Lunch)
 - Education of facts is no longer relevant because all the world's facts are in your pocket. What is critical is education, which promotes critical thinking.
 - AUC is the most expensive University in Egypt by a lot. However, the financial aid packages are excellent
 
-{% cloudinary /assets/images/2015/10/american-university-of-cairo-campus.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/american-university-of-cairo-campus.jpeg caption="" alt="" %}
 
 #### Mr. Alaa Hashim, Chairman of Transcendium Limited Advisory For Independent Corporate Transformation, Advisor
 
@@ -339,7 +339,7 @@ Visit the Regional Center for Strategic Studies in Giza (including Lunch)
 
 - Spoke a lot about the unity of Coptic Christians and Muslims in Egypt. That they have always had a good relationship and will continue to in the future, they work jointly on my community projects and have a high level of respect for each other.
 
-{% cloudinary /assets/images/2015/10/hg-bishop-moussa.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/hg-bishop-moussa.jpeg caption="" alt="" %}
 
 ### Tuesday, October 20, 2015 (Cairo)
 
@@ -403,7 +403,7 @@ Visit the Regional Center for Strategic Studies in Giza (including Lunch)
 - Military agreed and gave a 1-week notice to Mubark to either call for elections or step down. When the clock expired, and Mubarak had not complied, the military moved in and took over their plan. The military stated the plan, followed the plan, held elections, and the people were very thankful and voted the military leader into the presidency because they trusted only him.
 - West was against this at first because Mubarak was the democratically elected president, and the west wanted the president to have his term and be removed democratically. Egypt doesn't care about this, reminding that Hitler was also democratically elected.
 
-{% cloudinary /assets/images/2015/10/arab-league-cairo.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/arab-league-cairo.jpeg caption="" alt="" %}
 
 #### Dr. Mostafa El Fiky, Political Expert
 
@@ -447,7 +447,7 @@ Visit the Regional Center for Strategic Studies in Giza (including Lunch)
 - Population grew in 1981 - today from 44M - 90M. Wow! This is due to increasing unemployment, so Egyptians had more free time to make families, returning to traditional values that larges families bring prosperity, but it hasn't worked out that way (doesn't work in modern economies)
 - Youth engagement is critical
 
-{% cloudinary /assets/images/2015/10/artoc-group-for-investment-and-development-logo.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/artoc-group-for-investment-and-development-logo.jpeg caption="" alt="" %}
 
 #### Dr. Tarek Ragheb, Founding Chair of the African Business Aviation Association
 
@@ -507,7 +507,7 @@ Visit the Regional Center for Strategic Studies in Giza (including Lunch)
   </div>
 </div>
 
-{% cloudinary /assets/images/2015/10/docks-suez-canal.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/docks-suez-canal.jpeg caption="" alt="" %}
 
 ### Thursday, October 22, 2015 (Cairo)
 
@@ -543,7 +543,7 @@ Visit the Regional Center for Strategic Studies in Giza (including Lunch)
   - **Answer:**  Find and create professional means to share Egypt's realities in the west. How to grow this and how to scale it.
 - I suggested a media relations organization with Government advisement. He suggested that the government not be too close to any such efforts to avoid suspicion and lack of credibility.
 
-{% cloudinary /assets/images/2015/10/amb-hamdi-sanad-loza-deputy-foreign-minister-african-affairs.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/amb-hamdi-sanad-loza-deputy-foreign-minister-african-affairs.jpeg caption="" alt="" %}
 
 #### Ambassador R. Stephen Beecroft, US Ambassador in Egypt
 
@@ -571,7 +571,7 @@ Visit the Regional Center for Strategic Studies in Giza (including Lunch)
 - Relationship with Egyptian media?
   - Voice of America, NY Times, Washington Times, the Economist all have offices here. There are dialogue and an international media presence, but I couldn't speak to details.
 
-{% cloudinary /assets/images/2015/10/ambassador-stephen-beecroft-cairo.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/ambassador-stephen-beecroft-cairo.jpeg caption="" alt="" %}
 
 #### Mr. Ahmed El Alfi, Founder & Chairman of Sawari Ventures
 
@@ -609,7 +609,7 @@ He is an M.P. and career bureaucrat but is innovative and passionate about utili
 - Tour at Giza Pyramids and Sphinx
 - Walking Tour at El Moez Street and Khan el Khalili
 
-{% cloudinary /assets/images/2015/10/giza-pyramid-complex.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/giza-pyramid-complex.jpeg caption="" alt="" %}
 
 ### Saturday, October 24, 2015 (Cairo and Alexandria)
 
@@ -645,7 +645,7 @@ Visit to the Roman Amphitheatre
 - lol: he fired a district head via WhatsApp
 - Has 13k employees but has only met 12 of them because the governor's office was burned down and everyone is scattered. He only needs ten people to get the job done.
 
-{% cloudinary /assets/images/2015/10/hany-el-missery-governor-alexandria-cairo.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/hany-el-missery-governor-alexandria-cairo.jpeg caption="" alt="" %}
 
 ### Sunday, October 25, 2015 (Alexandria)
 
@@ -657,7 +657,7 @@ Visit to the Roman Amphitheatre
 - Showcasing the work of Bibliotheca Alexandrina
 - Revolutionary thinking about the future of libraries generally and the B.A. specifically.
 
-{% cloudinary /assets/images/2015/10/bibliotheca-alexandria.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/bibliotheca-alexandria.jpeg caption="" alt="" %}
 
 #### Ms. Al Zahraa Adel, Egyptologist
 
@@ -695,7 +695,7 @@ Visit to the Roman Amphitheatre
 - Christians are members of one church, and this builds community and understanding. In Islam, a mosque is a mosque, but you can also pray where you are, which means that this strong sense of community Christians have doesn't exist in Islam. Probably this is the cause of some perception problems.
 - Judgement Day's role in Radicalization: >1% believe in this ideology, but this is what fuels radicalism' (kill infidels and get 21 virgins, etc..) It's ridiculous.
 
-{% cloudinary /assets/images/2015/10/ahmed-el-tayeb-grand-imam-al-azhar-speaking.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/ahmed-el-tayeb-grand-imam-al-azhar-speaking.jpeg caption="" alt="" %}
 
 ### Tuesday, October 27, 2015 (Luxor)
 
@@ -704,7 +704,7 @@ Visit to the Roman Amphitheatre
 
 - No notes
 
-{% cloudinary /assets/images/2015/10/valley-of-the-queens-egypt.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/valley-of-the-queens-egypt.jpeg caption="" alt="" %}
 
 #### Mr. Raymond Johnson, Director of the Oriental Institute
 
@@ -728,7 +728,7 @@ Visit to the Roman Amphitheatre
 - Guided Tour at Luxor Temple
 - Guided Tour at Luxor Museum
 
-{% cloudinary /assets/images/2015/10/karnak-temple-complex.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/karnak-temple-complex.jpeg caption="" alt="" %}
 
 ## East-West: The Art of Dialogue Fellowship, Part 2 (USA)
 
@@ -756,7 +756,7 @@ The second segment of the fellowship takes place in the United States of America
 
 - Egypt's identity as an African Leader in light of its seat as the African representative on the Security Council?
 
-{% cloudinary /assets/images/2015/10/ambassador-ahmed-farouk-judson-moore.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/ambassador-ahmed-farouk-judson-moore.jpeg caption="" alt="" %}
 
 #### [Dina Powell](https://en.wikipedia.org/wiki/Dina_Powell), President, Goldman, Sachs Foundation
 
@@ -792,7 +792,7 @@ The second segment of the fellowship takes place in the United States of America
 - Member and Chairman of [KKR Global Institute](https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts)
 - MENA Policy and U.S. Economy
 
-{% cloudinary /assets/images/2015/10/general-david-petraeus-gabr-fellows.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/general-david-petraeus-gabr-fellows.jpeg caption="" alt="" %}
 
 #### [Herb London](https://en.wikipedia.org/wiki/Herbert_London), President of the London Center for Policy Research
 
@@ -812,7 +812,7 @@ The second segment of the fellowship takes place in the United States of America
 
 {% include youtube.html src="https://www.youtube.com/embed/Lg3M8PI935o" %}
 
-{% cloudinary /assets/images/2015/10/google-office-111-8th-ave-new-york.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/google-office-111-8th-ave-new-york.jpeg caption="" alt="" %}
 
 #### [Dr. Richard Haass](https://en.wikipedia.org/wiki/Richard_N._Haass), President of the [Council on Foreign Relations](https://www.cfr.org/)
 
@@ -878,7 +878,7 @@ The second segment of the fellowship takes place in the United States of America
 - CNBC is the Business News-Leader
 - Sawiris - richest family in Egypt
 
-{% cloudinary /assets/images/2015/10/brian-sullivan-cnbc-headquarters-englewood-gabr-fellows.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/brian-sullivan-cnbc-headquarters-englewood-gabr-fellows.jpeg caption="" alt="" %}
 
 #### [Mr. Michael A. Sheehan](https://en.wikipedia.org/wiki/Michael_A._Sheehan), Former Deputy Commissioner of Counter-Terrorism, New York City Police Department (NYPD), Counter-Terrorism; Intelligence Analysis; Community Affairs
 
@@ -925,7 +925,7 @@ The second segment of the fellowship takes place in the United States of America
 
 - Pursuit of Civil Rights in America
 
-{% cloudinary /assets/images/2015/10/bernice-king-gabr-fellows.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/bernice-king-gabr-fellows.jpeg caption="" alt="" %}
 
 #### Dr. Lawrence E. Carter Sr., Director of the Martin Luther King Jr. College of Pastoral Leadership
 
@@ -995,7 +995,7 @@ The second segment of the fellowship takes place in the United States of America
     - Allegation of wrongdoing
     - Response (what is the official response to the allegations?)
 
-{% cloudinary /assets/images/2015/10/cnn-headquarters-atlanta-control-room.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/cnn-headquarters-atlanta-control-room.jpeg caption="" alt="" %}
 
 #### [Jennifer Ragland](https://www.linkedin.com/in/ragland-jennifer-0389313), Director of International Government Relations & Public Affairs
 
@@ -1076,7 +1076,7 @@ The second segment of the fellowship takes place in the United States of America
 - Visit [Martin Luther King Jr. National Historic Site](https://www.nps.gov/malu/index.htm) ([wiki](https://en.wikipedia.org/wiki/Martin_Luther_King,_Jr._National_Historic_Site))
 - Visitor Center, The King Center, Historic Ebenezer Baptist Church, Birth Home, World Peace Rose Garden, Behold Monument, Historic Fire Station No. 6, and other sites.
 
-{% cloudinary /assets/images/2015/10/historic-ebenezer-baptist-church.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/historic-ebenezer-baptist-church.jpeg caption="" alt="" %}
 
 ### Sunday, November 15, 2015 (Washington, D.C.)
 
@@ -1182,7 +1182,7 @@ The second segment of the fellowship takes place in the United States of America
 - Followed by a briefing by [DASD Andrew Exum](https://en.wikipedia.org/wiki/Andrew_Exum)
 - Tour of Pentagon
 
-{% cloudinary /assets/images/2015/10/pentagon-judson-moore-security-detail.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/pentagon-judson-moore-security-detail.jpeg caption="" alt="" %}
 
 #### [Congressman Rep. Mario Diaz-Balart (R)](https://en.wikipedia.org/wiki/Mario_D%C3%ADaz-Balart)
 
@@ -1191,7 +1191,7 @@ The second segment of the fellowship takes place in the United States of America
 
 - No notes
 
-{% cloudinary /assets/images/2015/10/congressman-mario-diaz-balart-gabr-fellows.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/congressman-mario-diaz-balart-gabr-fellows.jpeg caption="" alt="" %}
 
 #### [Congressman Rep. Dutch Ruppersberger (D)](https://en.wikipedia.org/wiki/Dutch_Ruppersberger) and [Rep. Congressman Chris Gibson (R)](https://en.wikipedia.org/wiki/Chris_Gibson_(New_York_politician))
 
@@ -1322,7 +1322,7 @@ The second segment of the fellowship takes place in the United States of America
 - Rob Malley
   - Why is the U.S./Egypt bilateral relationship now Tactical in nature rather than Strategic?
 
-{% cloudinary /assets/images/2015/10/judson-moore-white-house-desk.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/judson-moore-white-house-desk.jpeg caption="" alt="" %}
 
 #### [Assistant Secretary Patterson](https://en.wikipedia.org/wiki/Anne_W._Patterson)
 
@@ -1362,7 +1362,7 @@ The second segment of the fellowship takes place in the United States of America
 
 - Dinner hosted by the ambassador
 
-{% cloudinary /assets/images/2015/10/dinner-residence-egyptian-ambassador-united-states.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/dinner-residence-egyptian-ambassador-united-states.jpeg caption="" alt="" %}
 
 ### Friday, November 20, 2015 (Washington, D.C.)
 
@@ -1433,7 +1433,7 @@ The second segment of the fellowship takes place in the United States of America
   - Space challenges
   - Operational challenges
 
-{% cloudinary /assets/images/2015/10/2015-gabr-fellows-shafik-gabr.jpeg caption="" alt="" %}
+{% cloudinary post-image /assets/images/2015/10/2015-gabr-fellows-shafik-gabr.jpeg caption="" alt="" %}
 
 #### Dr. Alexander Mirtchev, President and Founder of the Krull Corporation
 

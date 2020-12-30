@@ -10,7 +10,7 @@ During the thirteen days from October 18-29, 1962, the world stood and watched a
 
 The Kennedy administration played a key roll in avoiding catastrophe by adhering to a process that considered all options, outcomes, and available information.  To understand the decision-making process, we must first evaluate the people who were of influence.  The Kennedy administration formed the Executive Committee (ExComm), "which brought together several N.S.C. members plus others who were not national security specialists but had the confidence of the president." [[1]](/the-decision-that-saved-the-world-an-analysis-of-the/#_ftn1 }}')  There were 71 official members, but the most important are as follows:
 
-{% cloudinary /assets/images/2005/12/kennedys-excomm.png %}
+{% cloudinary post-image /assets/images/2005/12/kennedys-excomm.png %}
 
 To detail the input of each of these people would quickly fill a book, so for this paper's practical purposes, we will focus on a few of the most influential and polarized members of the ExComm.
 

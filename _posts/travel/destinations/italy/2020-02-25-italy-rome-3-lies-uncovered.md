@@ -21,11 +21,11 @@ Our guide, Laura, did a fantastic job transferring the knowledge she has gained 
 
 Of course, it is hard to know who is telling you the lie about Rome when your mom, hotel concierge, and tour guide are saying different things. So when I got back home I did a little research to uncover the truth and found some interesting surprises. 
 
-{% cloudinary /assets/images/2020/02/italy-rome-free-walking-tour.jpeg alt="Free walking tour group in Rome Italy" caption="Free walking tour group in Rome Italy" %}
+{% cloudinary post-image /assets/images/2020/02/italy-rome-free-walking-tour.jpeg alt="Free walking tour group in Rome Italy" caption="Free walking tour group in Rome Italy" %}
 
 ## It doesn't rain in the Pantheon
 
-{% cloudinary /assets/images/2020/02/italy-rome-pantheon-oculus.jpg alt="" class="rounded float-right img-fluid w-25" caption="A selfie with the Pantheon's Oculus" %}
+{% cloudinary post-image /assets/images/2020/02/italy-rome-pantheon-oculus.jpg alt="" class="rounded float-right img-fluid w-25" caption="A selfie with the Pantheon's Oculus" %}
 
 The Pantheon is an incredible structure with 2000 years of history. The Pantheon is the largest non-reinforced dome in the world, it was the first-ever temple to be open to the public, and it is the oldest building in the world still in regular use for its intended purpose (as opposed to the Pyramids which are much older but are no longer a tomb and are just used for tourism). 
 
@@ -35,7 +35,7 @@ It is widely believed that the Oculus is built in such a way, or that is is so h
 
 The truth is that when it rains, the floor of the Pantheon can and does indeed get wet. This is not a fluke. The ancient architects planned for this. **The truth is that** the Pantheon's entire floor is slightly convex so that water flows to the center where it will find one of several drainage holes in the floor. These holes are pictured below.
 
-{% cloudinary /assets/images/2020/02/italy-rome-pantheon-floor-drainage.jpg alt="Holes in the floor of the Pantheon allow for rain to drain" caption="Holes in the floor of the Pantheon allow for rain to drain" %}
+{% cloudinary post-image /assets/images/2020/02/italy-rome-pantheon-floor-drainage.jpg alt="Holes in the floor of the Pantheon allow for rain to drain" caption="Holes in the floor of the Pantheon allow for rain to drain" %}
 
 ## The Fountain of the Four Rivers is shunning a church (and its creator)
 
@@ -55,7 +55,7 @@ A great story, and one with mass appeal, the story was among the first things I 
 
 **The truth is** that the fountain was completed two years before the church began construction. The Nile figure's gesture only signifies that at that time, the Nile's source was not yet known. 
 
-{% cloudinary /assets/images/2020/02/italy-rome-fontana-dei-fiumi.jpg alt="The Fountain of the Four Rivers" caption="The representation of the Nile River at The Fountain of the Four Rivers appears to be shunning Sant'Agnese in Agone" %}
+{% cloudinary post-image /assets/images/2020/02/italy-rome-fontana-dei-fiumi.jpg alt="The Fountain of the Four Rivers" caption="The representation of the Nile River at The Fountain of the Four Rivers appears to be shunning Sant'Agnese in Agone" %}
 
 ## All roads lead to Rome
 
@@ -69,7 +69,7 @@ Check out this research that [the moovellab did to visualize all of the routes t
 
 So **the truth** is that not all roads lead to Rome, but at least in Europe, you can start on any road and navigate your way to Rome.
 
-{% cloudinary /assets/images/2020/02/italy-rome-all-roads-lead-to-rome.jpeg alt="The moovellab's visualization of all roads leading to Rome" %}
+{% cloudinary post-image /assets/images/2020/02/italy-rome-all-roads-lead-to-rome.jpeg alt="The moovellab's visualization of all roads leading to Rome" %}
 
 ## What truths have been shaken from you?
 

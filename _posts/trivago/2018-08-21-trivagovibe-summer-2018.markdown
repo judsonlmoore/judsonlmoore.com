@@ -39,7 +39,7 @@ When the time for soundcheck came, another drummer got to the stage first with h
 
 And so we set up the Roland drums for soundcheck. When everything was set, I got behind the drums, and with one beat into the kick drum >BOOM< we all knew we struck gold. **This. Drumset. Sounds. AMAZING. Live!** The rest of the night had a fantastic sounding rhythm, which was super easy to mix into everyone else's volume on stage.
 
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
+{% cloudinary post-image /assets/images/2018/08/trivagoVibe-Summer-2018-001.jpg alt="Janine (Avocadogate) sound checks on the Roland TD-30KV" %}
 
 ## Musical talent of trivago: the lineup
 
@@ -59,7 +59,7 @@ Drummers typically sit in the back of the stage, behind the rest of the band. Th
 
 As I walked onto the stage, I slipped into character. For the next 32 minutes, I would be **DRUMSON**.
 
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="Solo drummer Drumson performs at the German headquarters of trivago, performing on a Roland TD-30 electronic drumset" caption="Drumson performs a solo show at the 2018 trivagoVibe" %}
+{% cloudinary post-image /assets/images/2018/08/trivagoVibe-Summer-2018-006.jpg alt="Solo drummer Drumson performs at the German headquarters of trivago, performing on a Roland TD-30 electronic drumset" caption="Drumson performs a solo show at the 2018 trivagoVibe" %}
 
 ## Watch video footage from my first DRUMSON performance
 
@@ -77,4 +77,4 @@ Please excuse the varying audio level. I think the phones had a difficult time k
 
 Until then, please leave me your thoughts in the comments below, and you can always reach me directly on [Facebook](https://www.facebook.com/JudsonLMooreBlog) and [Twitter](https://twitter.com/judsonlmoore)!
 
-{% cloudinary /assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg %}
+{% cloudinary post-image /assets/images/2018/08/trivagoVibe-Summer-2018-011.jpg %}

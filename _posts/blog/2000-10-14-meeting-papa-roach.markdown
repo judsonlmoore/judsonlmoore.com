@@ -21,13 +21,13 @@ So we got tired of walking around Hamburg at about 5:30, so we started for the c
 
 Then I walk up and just SCREAM, "COBY DICK!!!!!!" I got to talk with the band beforehand. And when I say talk, I don't just mean talk; I mean REAL conversation! I spoke with Coby for a good hour and a half, finding out about his life and answering HIS questions about mine! So, of course, I couldn't pass this up without a photo of Coby and me. I just can't believe that I didn't take more pictures, though! The whole time talking with them, it just felt so natural and felt as if I didn't NEED to take photos of them because it was like I knew them or something. Oh well, I have my memory, so I know what happened, and that's good enough.
 
-{% cloudinary /assets/images/2000/10/papa-roach-hamburg-germany-drum-tech.jpg alt="The Papa Roach drum tech adjusts the drums in preparation for the headliner" %}
+{% cloudinary post-image /assets/images/2000/10/papa-roach-hamburg-germany-drum-tech.jpg alt="The Papa Roach drum tech adjusts the drums in preparation for the headliner" %}
 
 ## The show begins with Germany's 4Lyn
 
 We finally were allowed into the club at 8:00, which was good because at about 7:30, the band had to go inside to do mic checks, so we didn't have them to talk to anymore. We get inside, and of course, bought up all the souvenirs (just a t-shirt) and then had to wait yet another hour for the concert to begin. A German band 4Lyn opened up. But as with most German bands, the vocals were in English, so we could understand them. They were quite good, and I look forward to seeing them again sometime.
 
-{% cloudinary /assets/images/2000/10/papa-roach-hamburg-germany-bass-player.jpg alt="Papa Roach bass player, Tobin Esperance, face to face with the crowd at Club Logo in Hamburg Germany" caption="" %}
+{% cloudinary post-image /assets/images/2000/10/papa-roach-hamburg-germany-bass-player.jpg alt="Papa Roach bass player, Tobin Esperance, face to face with the crowd at Club Logo in Hamburg Germany" caption="" %}
 
 ## The show we've been waiting for: Papa Roach!
 
@@ -37,13 +37,13 @@ My whole life, I have seen these CRAZY people who 'crowd surf.' I have always th
 
 That was great! THANKS COBY!!! Also, even better, the last song was Last Resort, and I was also, of course, front row, and he put the mic in my face, and I got to sing a few words of the song! WOW!!!! The concert was so great that now writing about it, it feels like it never actually happened, because it was just so unreal! It was SOOOO GREAT!!!!
 
-{% cloudinary /assets/images/2000/10/papa-roach-and-4lyn-hamburg-germany.jpg alt="Papa Roach and 4Lyn celebrate after a show in Hamburg Germany" caption="" %}
+{% cloudinary post-image /assets/images/2000/10/papa-roach-and-4lyn-hamburg-germany.jpg alt="Papa Roach and 4Lyn celebrate after a show in Hamburg Germany" caption="" %}
 
 ## The after-party on the Reeperbahn
 
 After the concert, we talked again with Papa Roach and told them how great we thought the show was. And of course, I got Coby's autograph. We spoke shortly and found out that they would go to the Reeperbahn (red-light district) and go clubbing. We had planned to do the same, and so they asked if we would like to go with them! Of course, we said yes!
 
-{% cloudinary /assets/images/2000/10/papa-roach-hamburg-germany-reeperbahn.jpg alt="Papa Roach parties on the Reeperbahn in Hamburg Germany" caption="" %}
+{% cloudinary post-image /assets/images/2000/10/papa-roach-hamburg-germany-reeperbahn.jpg alt="Papa Roach parties on the Reeperbahn in Hamburg Germany" caption="" %}
 
 At first, I thought they were just being nice because they had to leave to go to the hotel and take showers. So I thought that the chance of them actually showing up at the meeting point was really slim. But we gave them a chance and prayed, and they DID come! So we walked with them to the club called The Doll House, which is apparently the most famous club there.
 
@@ -60,7 +60,7 @@ We couldn't sleep so well because it was so cold, so we started walking around. 
 
 The train finally came, and I was home at about 9:30 am, with NO sleep, and so what did I do? Well, of course, I went to sleep, and then I slept until 6:00 pm! AHHHH! It was great to relax! But even more so, it was a GREAT weekend!
 
-{% cloudinary /assets/images/2000/10/papa-roach-hamburg-germany-autograph.jpeg alt="Coby Dick, singer of Papa Roach, autographs a flyer from their European tour" caption="" %}
+{% cloudinary post-image /assets/images/2000/10/papa-roach-hamburg-germany-autograph.jpeg alt="Coby Dick, singer of Papa Roach, autographs a flyer from their European tour" caption="" %}
 
 ## Mission accomplished
 

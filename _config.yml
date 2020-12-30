@@ -94,6 +94,19 @@ cloudinary:
       attributes:
         class: img-fluid rounded mb-2 mt-3 w-100
         loading: lazy
+    post-image: 
+      gravity: auto
+      crop: fill
+      focus: auto
+      steps: 2
+      min_width: 70
+      min_height: 70
+      max_width: 70
+      max_height: 70
+      figure: never
+      attributes:
+        class: img-fluid rounded mb-2 mt-3 w-100
+        loading: lazy
     thumbnail:
       min_width: 64
       min_height: 64

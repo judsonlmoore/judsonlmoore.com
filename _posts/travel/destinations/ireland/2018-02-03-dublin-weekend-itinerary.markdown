@@ -72,7 +72,7 @@ I recommend kicking off the day with breakfast wherever is near you. The "full I
 
 After that, head to the Dublin Castle around opening time. From there, enjoy Dublin's shopping district. Then we will go learn some about the modern history of Dublin at the Jameson Distillery and taste some Irish whiskeys. To close the day out, grab a beer at one of **the most interesting bars in the world**.
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-1.png alt="A walking map of things to do in Dublin between Dublin Castle and the Jameson Distillery on Bow. St." %}(https://goo.gl/maps/k7hetkFAABJ2) Click on image to open interactive map on Google." %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-map-day-1.png alt="A walking map of things to do in Dublin between Dublin Castle and the Jameson Distillery on Bow. St." %}(https://goo.gl/maps/k7hetkFAABJ2) Click on image to open interactive map on Google." %}
 
 ## Dublin Castle
 
@@ -90,7 +90,7 @@ Dublin Castle is among the best things to do in Dublin, so what better place to 
 {% assign images = gallery["2018-02-03-dublin-weekend-itinerary"] %}
 {% include gallery-lightbox.html images=images %}
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-irish-sword-of-state.jpg alt="A detailed view of the gilded hilt of the Irish Sword of State" description="The Irish Sword of State on Display at the Dublin Castle" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-dublin-castle-irish-sword-of-state.jpg alt="A detailed view of the gilded hilt of the Irish Sword of State" description="The Irish Sword of State on Display at the Dublin Castle" %}
 
 back to top
 
@@ -121,7 +121,7 @@ If you are interested in **secondhand and vintage shops**, then you must [check
 
 - **Time to Budget:** Open-ended
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-secret-book-record-store.jpg alt="A long corridor with walls covered in posters and a bookshop at the end" description="The Secret Book and Record Shop in Dublin Ireland" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-secret-book-record-store.jpg alt="A long corridor with walls covered in posters and a bookshop at the end" description="The Secret Book and Record Shop in Dublin Ireland" %}
 
 back to top
 
@@ -135,7 +135,7 @@ There are statues and monuments everywhere in Dublin. Playing a history-based Po
 
 - **Wikipedia:** [List of Public Art in Dublin](https://en.wikipedia.org/wiki/List_of_public_art_in_Dublin)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-molly-malone-statue.jpg alt="Judson stands in front of a statue of Molly Malone" description="Statue of Molly Malone in Dublin" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-molly-malone-statue.jpg alt="Judson stands in front of a statue of Molly Malone" description="Statue of Molly Malone in Dublin" %}
 
 back to top
 
@@ -149,7 +149,7 @@ The cast iron Ha'penny Bridge, dubbed as such because it was originally a toll b
 
 - **Time to Budget:** Minutes
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-hapenny-bridge.jpg alt="Judson stands in front of the Ha'penny Bridge" description="The historic Ha'penny Bridge in Dublin" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-hapenny-bridge.jpg alt="Judson stands in front of the Ha'penny Bridge" description="The historic Ha'penny Bridge in Dublin" %}
 
 back to top
 
@@ -167,7 +167,7 @@ I wrote [a comprehensive review of the Jameson Distillery](/jameson-distillery-t
 
 - **Additional reading:** [Jameson distillery tour and whiskey tasting experience](/jameson-distillery-tour-dublin/)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-jameson-distillery.jpg alt="Judson stands in front of the entrance sign for the Jameson Distillery" description="The Jameson Distillery on Bow St. in Dublin" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-jameson-distillery.jpg alt="Judson stands in front of the entrance sign for the Jameson Distillery" description="The Jameson Distillery on Bow St. in Dublin" %}
 
 back to top
 
@@ -183,7 +183,7 @@ And yes, you can get married here, too!
 
 - **Official Website:** [thechurch.ie](https://www.thechurch.ie/)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." description="The Church Bar in Dublin Ireland" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-the-church-bar.jpg alt="Judson sits waits for a drink at the Church Bar in Dublin Ireland. The Church's organ pipes are in the background." description="The Church Bar in Dublin Ireland" %}
 
 back to top
 
@@ -193,7 +193,7 @@ Let's get out and stretch out legs! There are so many things to do in Dublin and
 
 We will move in a westwardly direction for most of the day. Starting at another of Dublin's iconic bridges, catching the sunset from atop the Guinness Storehouse, and then ending at **the most iconic bar in all of Ireland** to sing our hearts out until sunrise.
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-2-1.png alt="A walking map of things to do in Dublin from Samuel Beckett Bridge to the Temple Bar" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-map-day-2-1.png alt="A walking map of things to do in Dublin from Samuel Beckett Bridge to the Temple Bar" %}
 
 <center>[Click here for an interactive map.](https://goo.gl/maps/bKZP6fQF6ZU2)</center>
 
@@ -207,7 +207,7 @@ Pro tip: there is a Starbucks right around the corner from here, as well as the�
 
 - **Time to Budget:** Minutes
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-samuel-beckett-bridge.jpg alt="Judson stands in front of the harp-shaped Samuel Backett Bridge" description="The Samuel Beckett Bridge in Dublin is the shape of the Harp, Ireland's national symbol" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-samuel-beckett-bridge.jpg alt="Judson stands in front of the harp-shaped Samuel Backett Bridge" description="The Samuel Beckett Bridge in Dublin is the shape of the Harp, Ireland's national symbol" %}
 
 back to top
 
@@ -219,7 +219,7 @@ This beautiful park in the heart of central Dublin is **a great place to relax**
 
 - **Time to Budget:** 30 minutes
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-st-stephens-green.jpg alt="A winter view of a pond in St. Stephen's Green with blue skies" description="St. Stephen's Green in central Dublin" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-st-stephens-green.jpg alt="A winter view of a pond in St. Stephen's Green with blue skies" description="St. Stephen's Green in central Dublin" %}
 
 back to top
 
@@ -253,7 +253,7 @@ The grounds of Trinity College are also very beautiful and historic. Take a walk
 
 - **Official Website:** [tcd.ie](https://www.tcd.ie/visitors/book-of-kells/)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-book-of-kells.jpg alt="Judson stands in the great hall of the Book of Kells" description="The Book of Kells at Trinity College in Dublin" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-book-of-kells.jpg alt="Judson stands in the great hall of the Book of Kells" description="The Book of Kells at Trinity College in Dublin" %}
 
 back to top
 
@@ -279,7 +279,7 @@ Pro tip: St. Patrick's Cathedral is an Anglican church, which means some of thei
 
 * **Official Website:** [stpatrickscathedral.ie](https://www.stpatrickscathedral.ie)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-st-patricks-cathedral.jpg alt="A view of the interior of St. Patrick's Cathedrial" description="Inside St. Patrick's Cathedral in Dublin" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-st-patricks-cathedral.jpg alt="A view of the interior of St. Patrick's Cathedrial" description="Inside St. Patrick's Cathedral in Dublin" %}
 
 back to top
 
@@ -287,7 +287,7 @@ back to top
 
 This is a quick bonus at the St. Patrick's Cathedral. The gift shop is actually quite nice and they have a section of all the family crests for the church's members. People often ask me if I am Irish and I always say no, that I am more German and Danish. But here I found a crest for the Moore Family. **This prompted me to fact-check my heritage** and learn that indeed, I am a bit Irish. Opps. Well, I guess we learn something new every day!
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-irish-family-crest-moore.jpg alt="Judson holds the Irsh family crest for Moore. Two golden lions flank a green shield with three golden stars and a golden lion on it" description="The Irish family crest for Moore" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-irish-family-crest-moore.jpg alt="Judson holds the Irsh family crest for Moore. Two golden lions flank a green shield with three golden stars and a golden lion on it" description="The Irish family crest for Moore" %}
 
 back to top
 
@@ -307,7 +307,7 @@ Similarly to the Jameson Distillery, I argue that **a visit to the Guinness Stor
 
 - **Additional reading:** [Visiting the Guinness Storehouse](/guinness-storehouse-dublin/)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-guinness-storehouse.jpg alt="Judson jumps in the air in front of the Guinness Storehouse" description="The gates of the Guinness Storehouse in Dublin" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-guinness-storehouse.jpg alt="Judson jumps in the air in front of the Guinness Storehouse" description="The gates of the Guinness Storehouse in Dublin" %}
 
 back to top
 
@@ -323,7 +323,7 @@ Temple Bar restaurant is also quite good and this is a great place to try a **tr
 
 - **Official Website:** [thetemplebarpub.com](https://www.thetemplebarpub.com/)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-temple-bar.jpg alt="Two musicians perform Irish Music in the corner stage of the Temple Bar" description="Live music at the Temple Bar in Dublin Ireland" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-temple-bar.jpg alt="Two musicians perform Irish Music in the corner stage of the Temple Bar" description="Live music at the Temple Bar in Dublin Ireland" %}
 
 back to top
 
@@ -339,7 +339,7 @@ The best part, though, at least on my visit, is that there was a TV in the back 
 
 - **Official Website:** [thetemplebarpub.com](https://www.thetemplebarpub.com/)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-temple-bar-distillery-store-tasting.jpg alt="Four bottles of whiskey lined up and ready to be tasted" description="Whiskey Tasting at the Temple Bar Distillery Store" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-temple-bar-distillery-store-tasting.jpg alt="Four bottles of whiskey lined up and ready to be tasted" description="Whiskey Tasting at the Temple Bar Distillery Store" %}
 
 back to top
 
@@ -351,7 +351,7 @@ We will take the train to **explore the Irish coastline** and get our hiking bo
 
 One tip about today, if you will fly out of Dublin tonight, then **you should take your luggage to the DART station**. They have luggage storage there. Just be sure to pick up your luggage after hiking in Greystones while on your way to Howth. From Howth, it is much easier to go directly to the airport than it would be to go back to the city center and then to the airport.
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-map-day-3.png alt="A map of the DART route from Greystones to Howth in Ireland." %}(https://goo.gl/maps/YDsvv4pj4922) Click on image to open interactive map on Google." %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-map-day-3.png alt="A map of the DART route from Greystones to Howth in Ireland." %}(https://goo.gl/maps/YDsvv4pj4922) Click on image to open interactive map on Google." %}
 
 ## DART train to Greystones + Cliff Walk
 
@@ -369,7 +369,7 @@ The cliff walk is a well-maintained trail along the coast. **The views and the f
 
 - **Official Website:** [irishrail.ie](https://www.irishrail.ie/rail-fares-and-tickets/fares-info/dart-and-short-hop-zone)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-cliff-walks-greystones.jpg alt="Judson stands on the cliffs of Greystones with the ocean behind him" description="View from the Cliff Walks of Greystones" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-cliff-walks-greystones.jpg alt="Judson stands on the cliffs of Greystones with the ocean behind him" description="View from the Cliff Walks of Greystones" %}
 
 back to top
 
@@ -387,7 +387,7 @@ Directly under the train station is a restaurant called The Bloody Stream. The a
 
 - **Official Website:** [bloodystream.ie](https://bloodystream.ie/)
 
-{% cloudinary /assets/images/2018/01/dublin-weekend-itenerary-howth-fish-chips.jpg alt="The traditional fish and chips at The Bloody Stream in the Howth Railway Station" description="Fish and Chips at The Bloody Stream in the Howth Railway Station" %}
+{% cloudinary post-image /assets/images/2018/01/dublin-weekend-itenerary-howth-fish-chips.jpg alt="The traditional fish and chips at The Bloody Stream in the Howth Railway Station" description="Fish and Chips at The Bloody Stream in the Howth Railway Station" %}
 
 back to top
 

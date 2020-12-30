@@ -53,6 +53,6 @@ Now it is your turn! What will you do? Will you read this book? Will you write y
 
 **2019 Update:** I wrote a book! Following Honorée's coaching, I have now published my first book, *[Exponential Happiness: How to identify and pursue life goals starting at a young age](/book)*.
 
-{% cloudinary /assets/images/2016/09/honoree-corder-headshot-e1474796598717.jpg alt="Honoree Corder, Author" description="About Honorée Corder" %}
+{% cloudinary post-image /assets/images/2016/09/honoree-corder-headshot-e1474796598717.jpg alt="Honoree Corder, Author" description="About Honorée Corder" %}
 
 Honorée Corder is the author of 20 books, including _You Must Write a Book, Vision to Reality_, _Prosperity for Writers_, _ business Dating_, *The Successful Single Mom* book series, _If Divorce is a Game, These are the Rules_, and _The Divorced Phoenix_. She is also Hal Elrod's business partner in _The Miracle Morning_ book series. She also does all sorts of other magical things, and her badassery is legendary. You can find out more at [HonoreeCorder.com](https://honoreecorder.com/).

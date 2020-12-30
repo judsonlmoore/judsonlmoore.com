@@ -24,7 +24,7 @@ In my case, I was invited by the Egyptian Government as part of an official dele
 
 On this picturesque day, we were escorted by military convoy from Cairo to Ismailia, the port city in the middle of the Suez Canal where the Suez Canal Authority headquarters is located. From here, all operations of the canal are overseen and coordinated with precision.
 
-{% cloudinary /assets/images/2015/11/egypt-suez-canal-007.jpg alt="The Suez Canal Authority" caption="The Suez Canal Authority" %}
+{% cloudinary post-image /assets/images/2015/11/egypt-suez-canal-007.jpg alt="The Suez Canal Authority" caption="The Suez Canal Authority" %}
 
 ## Preparing to disembark on our Suez Canal cruise
 
@@ -40,7 +40,7 @@ As the freshly-minted president of Egypt, Sisi needed a cause that could unite E
 
 In just over 6-months (192 days, to be exact), the Egyptian people provided the full funding for the Suez Canal expansion via bonds. Egyptians view the canal's benefit not just from its revenue potential. The canal's expansion was also for the creation of future opportunities for economic redundancy, strengthening industry, manufacturing, and the strategic viability of the whole region.
 
-{% cloudinary /assets/images/2015/11/egypt-suez-canal-005.jpg alt="The Egyptian Presidential Yacht" caption="The Egyptian Presidential Yacht" %}
+{% cloudinary post-image /assets/images/2015/11/egypt-suez-canal-005.jpg alt="The Egyptian Presidential Yacht" caption="The Egyptian Presidential Yacht" %}
 
 ## They had less time than they thought 
 
@@ -50,7 +50,7 @@ When President Sisi came to the Admiral’s announcement event, Sisi told the Ad
 
 The admiral, shocked, nodded at the president as he contemplated the challenge he was tasked with. In the end, Egypt succeeded and in exactly 1 year the New Suez Canal opened for business! 
 
-{% cloudinary /assets/images/2015/11/egypt-suez-canal-002.jpg alt="Shaking hands with the captain on the bow of the Egyptian Presidential Yacht on the Suez Canal" caption="Shaking hands with the captain on the bow of the Egyptian Presidential Yacht on the Suez Canal" %}
+{% cloudinary post-image /assets/images/2015/11/egypt-suez-canal-002.jpg alt="Shaking hands with the captain on the bow of the Egyptian Presidential Yacht on the Suez Canal" caption="Shaking hands with the captain on the bow of the Egyptian Presidential Yacht on the Suez Canal" %}
 
 ## The New Suez Canal
 
@@ -67,7 +67,7 @@ The captain of the yacht was very kind. He took photos with everyone and even le
 
 Even I got to be the captain for some minutes! Though a looming first-mate certainly wasn't going to go too far away. **What do you think:** can I add *Suez Canal boat captain* to my resume? 
 
-{% cloudinary /assets/images/2015/11/egypt-suez-canal-003.jpg alt="Judson drives the Egyptian Presidential Yacht on the Suez Canal" caption="Judson drives the Egyptian Presidential Yacht on the Suez Canal" %}
+{% cloudinary post-image /assets/images/2015/11/egypt-suez-canal-003.jpg alt="Judson drives the Egyptian Presidential Yacht on the Suez Canal" caption="Judson drives the Egyptian Presidential Yacht on the Suez Canal" %}
 
 ## Safe Egypt and its Secure Canal
 
@@ -75,7 +75,7 @@ Egypt is very concerned with its international image. What country isn't? Given 
 
 Security doesn't do anything unless people believe in it. Evil-doers need to believe that security forces are at the ready. Tourists need to feel safe. Investors need to have faith in longterm stability. So the occasional show of force and a little security-theater is well-warranted. I never felt unsafe in Egypt and I certainly believe that The Suez Canal is well-protected. 
 
-{% cloudinary /assets/images/2015/11/egypt-suez-canal-004.jpg alt="Welcome to safe Egypt and its secure Canal" caption="Welcome to safe Egypt and its secure Canal" %}
+{% cloudinary post-image /assets/images/2015/11/egypt-suez-canal-004.jpg alt="Welcome to safe Egypt and its secure Canal" caption="Welcome to safe Egypt and its secure Canal" %}
 
 ## Final thoughts 
 
@@ -85,4 +85,4 @@ Have you been to the Suez Canal? **I'd love to hear about your experiences getti
 
 As always, travel safe and **أتمنى لك رحلة سعيدة!** (Bon voyage!)
 
-{% cloudinary /assets/images/2015/11/egypt-suez-canal-001.jpg alt="The wake of the yacht as an oil tanker chases us down the Suez Canal" caption="The wake of the yacht as an oil tanker chases us down the Suez Canal" %}
+{% cloudinary post-image /assets/images/2015/11/egypt-suez-canal-001.jpg alt="The wake of the yacht as an oil tanker chases us down the Suez Canal" caption="The wake of the yacht as an oil tanker chases us down the Suez Canal" %}

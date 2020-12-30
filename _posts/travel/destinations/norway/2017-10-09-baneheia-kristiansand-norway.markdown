@@ -22,7 +22,7 @@ We were welcomed with great fanfare to Kristiansand. There was a color guard dis
 
 We were also quite fortunate with the weather. The sky was blue and nearly cloudless. The temperature was crisp but warm in the sun. I also learned that the last weeks had seen mostly rain and we had arrived on the best day in recent memory, so we were very fortunate for that!
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-welcome-committee.jpg alt="The welcoming committee with Judson in Kristiansand, Norway" %}
+{% cloudinary post-image /assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-welcome-committee.jpg alt="The welcoming committee with Judson in Kristiansand, Norway" %}
 
 ## The trivago Hike: it is an annual tradition
 
@@ -34,7 +34,7 @@ We walked our way through the town center of Kristiansand, which was very quain
 
 The cafes and restaurants all had a 5-star appeal to them. I checked out some of the menus as we walked by and the prices didn't seem at all out of the ordinary for any other place I have been to in Europe. This went at least a small way to shatter my expectation that Norway would make for a cost-prohibitive holiday in the future.
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-town-center.jpg alt="The town center of Kristiansand, Norway" %}
+{% cloudinary post-image /assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-town-center.jpg alt="The town center of Kristiansand, Norway" %}
 
 ## Into the woods: Baneheia Park
 
@@ -56,7 +56,7 @@ Again, the weather could not have been more perfect for us on this day. Here are
 {% assign images = gallery["2017-10-09-baneheia-kristiansand-norway"] %}
 {% include gallery-lightbox.html images=images %}
 
-{% cloudinary /assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-trivago-sign-lake.jpg alt="Judson at a lake in the Baneheia Park" %}
+{% cloudinary post-image /assets/images/2017/10/trivago-on-tour-2017-kristiansand-norway-trivago-sign-lake.jpg alt="Judson at a lake in the Baneheia Park" %}
 
 ## It was a great day
 

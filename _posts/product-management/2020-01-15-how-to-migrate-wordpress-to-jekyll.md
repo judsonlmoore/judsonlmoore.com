@@ -94,7 +94,7 @@ Before I began the migration, I ran a few tests on the existing Wordpress instal
 
 My tool of preference is the [Pingdom Website Speed Test](https://tools.pingdom.com/), and the screenshots in this post all come from this service's Washington D.C. server. Other services you may want to consider are [GTMetrix](https://gtmetrix.com/) and [Google's PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/). 
 
-{% cloudinary /assets/images/2020/01/judsonlmoore-blog-on-wp.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Wordpress" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Wordpress" %}
+{% cloudinary post-image /assets/images/2020/01/judsonlmoore-blog-on-wp.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Wordpress" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Wordpress" %}
 
 As you can see, on Wordpress, my website was 2.0MB, making 90 requests, and loading in 7.67 seconds. The 2.0MB is not so terrible, but to load in more than 2 seconds is like asking Google to rank you on the last page of search results. Thus all those image optimizations and offloading of assets to S3 buckets weren't helping me much.
 
@@ -225,7 +225,7 @@ Jekyll's official documentation has [a great tutorial](https://jekyllrb.com/docs
 
 Here is a performance test screenshot once I got all page content and media assets hosted on AWS before I started conducting any optimizations. The page size has increased by 600%, while the load time has decreased to 1/5 the speed of Wordpress. This is awesome! Just imagine what will happen after we get into some optimizations. 
 
-{% cloudinary /assets/images/2020/01/judsonlmoore-blog-with-jekyll.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll" %}
+{% cloudinary post-image /assets/images/2020/01/judsonlmoore-blog-with-jekyll.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll" %}
 
 ### <a name="step-5"></a>Step 5: Optimize
 
@@ -262,7 +262,7 @@ Don't forget to look outside of your post content for images. Images appear in a
 
 So let's check-in again at how we are progressing in our optimizations. Now that Cloudinary is running, the page size is similar to what I had on Wordpress but reduced by 1/6 of what I had on Jekyll before I added Cloudinary. As for the page load speed, I am lightning fast coming in at .426 ms! **This is 18x faster than on Wordpress!**
 
-{% cloudinary /assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" %}
+{% cloudinary post-image /assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" caption="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" %}
 
 ## HTTP Security Headers
 

@@ -15,7 +15,7 @@ Zoom, Skype, and Facebook Live have quickly taken over the way we communicate wi
 
 Thanks to my nomadic lifestyle, it's been especially meaningful to reconnect with friends and family worldwide with these technologies. So I just wanted to reach out quickly, say "hi," and let you know how things are going here in Berlin, Germany. **I hope that you will write me a comment and let me know how you are doing.**
 
-{% cloudinary /assets/images/2020/04/covid19-berlin-germany-home-office.jpg alt="My home office setup during COVID-19" %}
+{% cloudinary post-image /assets/images/2020/04/covid19-berlin-germany-home-office.jpg alt="My home office setup during COVID-19" %}
 
 ## Home office
 
@@ -27,7 +27,7 @@ If I were to be remote 100% of the time, I would certainly invest in a better ho
 
 Being next to the window is great for natural light and fresh air while also moving the office space out of the middle of the room and making it slightly more divided from my "personal space." Compare the photo above to the image at the top of this post to see how the table has moved. I'd love to have a better chair and an adjustable sit/stand desk, but all in all, the home office lifestyle has been pretty productive. 
 
-{% cloudinary /assets/images/2020/04/covid19-berlin-germany-personal-list.jpg alt="Three sticky notes with my to-do list" %}
+{% cloudinary post-image /assets/images/2020/04/covid19-berlin-germany-personal-list.jpg alt="Three sticky notes with my to-do list" %}
 
 ## Personal to-do list
 
@@ -37,7 +37,7 @@ Now is an excellent time to be dreaming about the future and writing a plan for 
 
 At this point, my to-do list is so long that my greatest concern is that life will return to normalcy before I've had a chance to accomplish everything! (Said in jest, of course. I hope normalcy comes as swiftly as possible to us all!)
 
-{% cloudinary /assets/images/2020/04/covid19-berlin-germany-health.png alt="Strava screenshot of my run performance" %}
+{% cloudinary post-image /assets/images/2020/04/covid19-berlin-germany-health.png alt="Strava screenshot of my run performance" %}
 
 ## Health
 
@@ -53,7 +53,7 @@ That said, I've also used this time of a more flexible home office environment t
 
 I also just ordered a new fancy all-carbon-fiber road bike yesterday, and as soon as it arrives, I plan to do some long rides out of the city toward the Spreewald.
 
-{% cloudinary /assets/images/2020/04/covid19-berlin-germany-playing-playstation.jpg alt="Showing off my PS4 controller at home with Unchartered four playing in the background" %}
+{% cloudinary post-image /assets/images/2020/04/covid19-berlin-germany-playing-playstation.jpg alt="Showing off my PS4 controller at home with Unchartered four playing in the background" %}
 
 ## Entertainment
 
@@ -63,7 +63,7 @@ Right before all the stores shut down, I bought a PS4, just if I needed another 
 
 I've never been one to struggle with finding ways to occupy my time. [The 27-months I spent in the Peace Corps in Kyrgyzstan](/peacecorps/) was probably the most isolating thing I've ever done, and that was also the most rewarding experience of my life. As much as that was a hardship, I didn't have any of the advantages or resources that I have now at home. If I can thrive in that environment, COVID-19 doesn't stand a chance at getting me down.
 
-{% cloudinary /assets/images/2020/04/covid19-berlin-germany-recording.png alt="Garageband screenshot" %}
+{% cloudinary post-image /assets/images/2020/04/covid19-berlin-germany-recording.png alt="Garageband screenshot" %}
 
 ## Music
 
@@ -75,7 +75,7 @@ I am retracking all of the drums and doing some necessary mixing on the other tr
 
 Most of the songs are unreleased but perhaps after brushing them up a bit, we will release them. If not, then I am still delighted to have this creative outlet and something fun to do with my friend from 9 timezones away. 
 
-{% cloudinary /assets/images/2020/04/covid19-berlin-tracetozero.png alt="Screenshot of the TraceToZero app, a COVID-19 contact tracing solution" %}
+{% cloudinary post-image /assets/images/2020/04/covid19-berlin-tracetozero.png alt="Screenshot of the TraceToZero app, a COVID-19 contact tracing solution" %}
 
 ## Contact tracing 
 

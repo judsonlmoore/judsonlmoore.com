@@ -17,7 +17,7 @@ I recently had the opportunity to sit down with Laura Davies as she pursues an e
 
 I always loved the name Never Summer and thought it would be cool to have a skier brand with a similarly clever name. My friend Tim and I jokingly came up with the name ForeverWinter over beers, but we didn’t have anything concrete to apply the name to. Once I started to plan the first trip I knew that ForeverWinter Project was the perfect name for my goal to ski around the world.
 
-{% cloudinary /assets/images/2017/03/logo-foreverwinter-project.jpg caption="Logo of the ForeverWinter Project, by Laura Davies" title="@ForeverWinter Project on Instagram" %}
+{% cloudinary post-image /assets/images/2017/03/logo-foreverwinter-project.jpg caption="Logo of the ForeverWinter Project, by Laura Davies" title="@ForeverWinter Project on Instagram" %}
 
 ## So what exactly is “ForeverWinter Project”?
 

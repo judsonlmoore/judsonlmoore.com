@@ -16,7 +16,7 @@ People say *carpe diem* like as if you don't know what the future holds. Though
 
 I've made this infographic representing an average American's life, which sticks to the traditional routine of education, career, family, and retirement. The bars represent things in our life which make travel more difficult. The blank spaces are periods of greater flexibility.
 
-{% cloudinary /assets/images/2016/02/Why-Travel-While-Young-Graph.png alt="A graph explaining how responsibilities change throughout one's life and the impact those responsibilities have on one's flexibility" %}
+{% cloudinary post-image /assets/images/2016/02/Why-Travel-While-Young-Graph.png alt="A graph explaining how responsibilities change throughout one's life and the impact those responsibilities have on one's flexibility" %}
 
 Let me break this down.
 

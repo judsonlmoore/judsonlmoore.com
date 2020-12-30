@@ -18,7 +18,7 @@ Those formative younger years, when we have not yet amassed responsibilities to 
 
 Following on the quote from Einstien regarding compounding interest, let me offer you a simple visualization. In the graph below, I've blotted an exponential curve (the blue line) and then another curve resulting from 10% less input (the red line). 
 
-{% cloudinary /assets/images/2020/01/exponential-happiness-curve.png %}
+{% cloudinary post-image /assets/images/2020/01/exponential-happiness-curve.png %}
 
 Given this, I hope you can see that putting in every effort to pursue your goals is very important. Also, note that a key to compounding is time. The more time you give this equation, the more it compounds. Start early and reap the benefits of ***Exponential Happiness!***
 
@@ -40,7 +40,7 @@ Everyone has different life experiences, so it is impossible to depict some univ
 
 Here are those 9 phases of life plotted over time with an indication of how much flexibility you will have in making major life choices during each period. 
 
-{% cloudinary /assets/images/2020/01/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" %}
+{% cloudinary post-image /assets/images/2020/01/Why-Travel-While-Young-Graph.png alt="Why Travel While Young Graph" %}
 
 As you can see, the time when you will be most flexible is during your younger years. Don't let them pass you by! 
 

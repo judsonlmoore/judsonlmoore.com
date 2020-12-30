@@ -27,7 +27,7 @@ You don't need to log in to that project to follow along with these articles, bu
 
 If you have any questions that I don't answer here, please leave me a comment at the end of this article, and I will respond to you ASAP.
 
-{% cloudinary /assets/images/2020/05/jira-project-classic-templates.png alt="Jira default classic project templates" caption="" %}
+{% cloudinary post-image /assets/images/2020/05/jira-project-classic-templates.png alt="Jira default classic project templates" caption="" %}
 
 ## Jira anatomy
 
@@ -43,7 +43,7 @@ For this article, I chose the Kanban setup.
 
 From a delivery team perspective, there are two basic screens within this Jira set up that are critical for organizing a team's work: the backlog and the Kanban board. When setting up properly, and with the systematic use of labels, hierarchy, versions, and task linking, it is easy to drill down on to the topics where the team should focus.
 
-{% cloudinary /assets/images/2020/05/jira-backlog-example.png alt="An example backlog in Jira with epics, stories, and subtasks" caption="An example backlog in Jira with epics, stories, and subtasks" %}
+{% cloudinary post-image /assets/images/2020/05/jira-backlog-example.png alt="An example backlog in Jira with epics, stories, and subtasks" caption="An example backlog in Jira with epics, stories, and subtasks" %}
 
 ## Backlog
 
@@ -61,7 +61,7 @@ Some argue that a story's sub-tasks should not be moved into Ready for Dev befor
 
 From a task-linking perspective, it is easier to have all tasks related to a story living within that story, rather than having additional stories which only cover the UX scope. 
 
-{% cloudinary /assets/images/2020/05/jira-ready-for-dev-example.png alt="An example backlog in Jira with epics, stories, and subtasks being shown as ready for dev" caption="" %}
+{% cloudinary post-image /assets/images/2020/05/jira-ready-for-dev-example.png alt="An example backlog in Jira with epics, stories, and subtasks being shown as ready for dev" caption="" %}
 
 ## Ready for Dev
 
@@ -75,7 +75,7 @@ It may or may not be possible to respond to all questions during a single refine
 
 A team can get stuck when there are not many tasks that are Ready for Dev, and there are still too many open questions in the backlog, preventing tasks to advance in to "ready." Maintaining this balance is a key responsibility of the product manager, but it takes input from the whole team to overcome it. 
 
-{% cloudinary /assets/images/2020/05/jira-kanban-board-example.png alt="An example Jira Kanban board with columns and swimlanes" caption="" %}
+{% cloudinary post-image /assets/images/2020/05/jira-kanban-board-example.png alt="An example Jira Kanban board with columns and swimlanes" caption="" %}
 
 ## Kanban board
 
@@ -89,7 +89,7 @@ Using the Kanban board, the product manager, and any team member or stakeholder 
 
 Now let's take a look at how the columns and swimlanes are set up. 
 
-{% cloudinary /assets/images/2020/05/jira-kanban-board-column-settings.png alt="Column management settings in a Jira Kanban project" caption="Column management settings in a Jira Kanban project" %}
+{% cloudinary post-image /assets/images/2020/05/jira-kanban-board-column-settings.png alt="Column management settings in a Jira Kanban project" caption="Column management settings in a Jira Kanban project" %}
 
 ### Columns
 
@@ -107,7 +107,7 @@ Here is a brief explanation of the columns from this example Jira project and ho
 
 Conveniently, when all of the sub-tasks of a story are "done," Jira will automatically ask you if you want to set the story to "done" as well. For this reason, stories typically move from "in progress" to "done" in one step.
 
-{% cloudinary /assets/images/2020/05/jira-kanban-board-swimlane-settings.png alt="Swimlane settings in a Jira Kanban project" caption="Swimlane settings in a Jira Kanban project" %}
+{% cloudinary post-image /assets/images/2020/05/jira-kanban-board-swimlane-settings.png alt="Swimlane settings in a Jira Kanban project" caption="Swimlane settings in a Jira Kanban project" %}
 
 ### Swimlanes
 

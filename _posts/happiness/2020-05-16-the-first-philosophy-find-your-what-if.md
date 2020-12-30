@@ -44,7 +44,7 @@ Backcasting is what bridges the Life Goals Excercise into an actionable 10-year 
 
 After backcasting a scenario, you will have a clearer picture of how to move from the present moment, toward the imagined future. 
 
-{% cloudinary /assets/images/2020/01/backcasting-diagram.png description="A diagram of backcasting" alt="A diagram of backcasting" %}
+{% cloudinary post-image /assets/images/2020/01/backcasting-diagram.png description="A diagram of backcasting" alt="A diagram of backcasting" %}
 
 ## LinkedIn 
 
