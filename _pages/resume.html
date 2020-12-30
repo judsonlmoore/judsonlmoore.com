@@ -26,7 +26,7 @@ layout:						page
   <ul class="list-unstyled">
   {% for item in site.data.resume.experience %}
   <li class="media mb-3">
-  	{% cloudinary {{ item.image }} class="mr-3" alt="{{ item.company }} logo" style="max-width:64px" %}
+  	{% cloudinary logo {{ item.image }} class="mr-3" alt="{{ item.company }} logo" style="max-width:64px" %}
     <div class="media-body">
       <h5 class="mt-0 mb-1">{{ item.title }}</h5>
       <p class="">{{ item.company }}<span class="text-muted small"> in {{ item.city }}, {{ item.country }} <span class="text-right">{{ item.start-date }} &ndash; {{ item.end-date }}</span></span></p>

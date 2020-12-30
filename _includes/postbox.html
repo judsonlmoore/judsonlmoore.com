@@ -5,7 +5,7 @@
     <div class="mb-4">
       <a href="{{ post.url | absolute_url }}">
         <div class="img-zoom">
-          {% cloudinary {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
+          {% cloudinary postbox {{ post.image }} alt="{{ post.title }}" class="img-fluid rounded w-100" %}
         </div>
       </a>
     </div>

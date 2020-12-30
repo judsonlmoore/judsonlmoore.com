@@ -92,26 +92,34 @@ cloudinary:
       max_width: 1024
       figure: never
       attributes:
-        class: img-fluid rounded mb-2 mt-3 w-100
+        class: img-fluid mb-2 mt-3 w-100
         loading: lazy
     post-image: 
       gravity: auto
       crop: fill
       focus: auto
-      steps: 2
-      min_width: 70
-      min_height: 70
-      max_width: 70
-      max_height: 70
+      steps: 3
+      min_width: 290
+      min_height: 130
+      max_width: 930
+      max_height: 418
       figure: never
       attributes:
         class: img-fluid rounded mb-2 mt-3 w-100
         loading: lazy
-    thumbnail:
-      min_width: 64
-      min_height: 64
-      max_width: 512
-      max_height: 512
+    postbox: 
+      gravity: auto
+      crop: fill
+      focus: auto
+      steps: 2
+      min_width: 330
+      min_height: 220
+      max_width: 350
+      max_height: 240
+      figure: never
+      attributes:
+        class: img-fluid rounded
+        loading: lazy
     author:
       gravity: auto
       crop: fill
@@ -123,7 +131,20 @@ cloudinary:
       max_height: 70
       figure: never
       attributes:
-        class: avatar-xl rounded-circle mr-3
+        class: img-fluid avatar-xl rounded-circle mr-3
+        loading: lazy
+    logo:
+      gravity: auto
+      crop: fill
+      focus: auto
+      steps: 2
+      min_width: 150
+      min_height: 50
+      max_width: 200
+      max_height: 150
+      figure: never
+      attributes:
+        class: img-fluid h-100 w-100
         loading: lazy
 compress_html:
   clippings: all
