@@ -69,9 +69,7 @@ Please excuse the varying audio level. I think the phones had a difficult time k
 
 **Enjoy!** (Please leave me your feedback in the comments section of this post!)
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/U8XFiPi4TO4" allowfullscreen></iframe>
-</div>
+{% include youtube.html src="https://www.youtube.com/embed/U8XFiPi4TO4" %}
 
 ## Thank you to everyone who came out to support the music!
 

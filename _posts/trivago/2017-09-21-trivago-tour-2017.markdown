@@ -67,9 +67,7 @@ We headed to the rooftop pool deck and amphitheater for a special surprise after
 
 As the clock struck 10:00 pm, a stagehand walked out and pulled the backdrop into position to reveal that the band to perform was **the Swedish rock band, Mando Diao**. The crowd went crazy. A minute later, the intro music started up, and the band took to the stage. I was front and center for the show and got an amazing video of their first song. Here is Mando Diao performing *Down in the Past* as their opening song for *trivago on Tour 2017*:
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/b_6quek7QzY" allowfullscreen></iframe>
-</div>
+{% include youtube.html src="https://www.youtube.com/embed/b_6quek7QzY" %}
 
 ## Hiking in Norway with perfect weather
 
@@ -103,9 +101,7 @@ Despite the all-day physical activities and the all-night parties during *trivag
 
 Words can not describe how insane this was. So let me show you in this video:
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/k6S3x4rHen4" allowfullscreen></iframe>
-</div>
+{% include youtube.html src="https://www.youtube.com/embed/k6S3x4rHen4" %}
 
 ## Exhausted. Happy.
 

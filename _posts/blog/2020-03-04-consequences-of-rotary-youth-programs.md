@@ -215,6 +215,4 @@ You can read all of the meeting notes and find my original presentation on [the 
 
 Questions, comments, or additions to make? **Please leave me a comment below the video.** 
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gk8ivCNVVjs" allowfullscreen></iframe>
-</div>
+{% include youtube.html src="https://www.youtube.com/embed/gk8ivCNVVjs" %}

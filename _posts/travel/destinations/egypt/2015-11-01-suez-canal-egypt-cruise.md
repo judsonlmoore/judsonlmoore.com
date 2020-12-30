@@ -59,8 +59,7 @@ After learning about the history of the Suez Canal and the New Suez Canal, we go
 The New Suez Canal is indeed a separate waterway from the original Suez Canal. They run parallel to each other, allowing for simultaneous 2-way traffic between east and west. Here is a video we saw at the Suez Canal Authority headquarters which best explains the details of the project and how it was accomplished: 
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9K98knUJ3HE" allowfullscreen></iframe>
-</div>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9K98knUJ3HE" %}
 
 Seeing the massive embankments of sand and the beautiful blue water of the Suez Canal with my own eyes was a really special experience. The whole thing made even sweeter because of the cool vessel, and its history, we took our voyage on. 
 

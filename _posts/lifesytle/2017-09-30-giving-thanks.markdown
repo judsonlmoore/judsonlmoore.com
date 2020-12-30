@@ -27,9 +27,7 @@ By giving thanks, your mind releases stress, reduces anxiety, and is less suscep
 
 Regardless of how long you live, wouldn't it be nice to live in **a world full of gratitude** rather than one void of it? I imagine that such a world would be a magical place where anything is possible. Here is a video that has a similar meaning and which is sure to brighten your day :)
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/U5lZBjWDR_c" allowfullscreen></iframe>
-</div>
+{% include youtube.html src="https://www.youtube.com/embed/U5lZBjWDR_c" %}
 
 ## Giving thanks is better than not
 

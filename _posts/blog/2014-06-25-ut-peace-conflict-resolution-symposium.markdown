@@ -13,5 +13,4 @@ Today I gave an hour-long presentation at the [University of Texas to a Peace, 
 Here is the video from the presentation.
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GoYcCdS67dA" allowfullscreen></iframe>
-</div>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GoYcCdS67dA" %}

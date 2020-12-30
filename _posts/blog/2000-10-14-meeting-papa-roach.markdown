@@ -50,8 +50,7 @@ At first, I thought they were just being nice because they had to leave to go to
 At this point, I ran out of film! :( and Katharina had already run out at the club (Thomas didn't have a camera), so I don't actually have any photos from here on out. Darn it! We stayed with them until about 4:00, and then they had to go to the hotel to pack and get on a plane to New York to do an interview on the Tonight Show with Jay Leno the next day.
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6CqiBs9us2Q" allowfullscreen></iframe>
-</div>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6CqiBs9us2Q" %}
 
 ## A night at the train station
 

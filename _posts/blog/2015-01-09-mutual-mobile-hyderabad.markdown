@@ -107,12 +107,10 @@ Of course, this is good and all, but what's the point of a new facility if you d
 In celebration of the new facility launch, I commissioned a video to be made, which shows off the space and captures some colleague's first impressions of the office. My hats off to [Ankit Bakshi of Laputa Media](https://laputamedia.com) for producing these awesome videos. Ankit came in just one week before the shoot, and after a brief walkthrough looking at the space and hearing what my goals for the video were, he walked away and wrote a script and video flow overnight. What was most impressive is that when I offered up an opinion or suggestion, he spoke up and shot me down if he felt that it would take us off-message. Rarely (if ever) in India did I come across someone who had the backbone to say "no" when it needed to be said. And for that, I would work with Ankit again in a heartbeat.
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bco9hTGmn_0" allowfullscreen></iframe>
-</div>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bco9hTGmn_0" %}
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gYGqDgxO3Q8" allowfullscreen></iframe>
-</div>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gYGqDgxO3Q8" %}
 
 ## Conclusion
 

@@ -14,8 +14,7 @@ After spending [5-months in India](/india-travel-guide/) building out [a new fac
 After flying Hyderabad > Abu Dhabi > Frankfurt, I got a first-class ticket on the ICE 102 to Köln and began my relaxing 3-week tour of central Europe. Here is a preview of the beauty to come.
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ha9seYZ6DPE" allowfullscreen></iframe>
-</div>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ha9seYZ6DPE" %}
 
 ## First Impressions of Köln (and beer!)
 

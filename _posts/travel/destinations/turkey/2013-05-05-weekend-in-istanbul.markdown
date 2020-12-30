@@ -63,10 +63,7 @@ I arrived at the Blue Mosque first thing in the morning and still had an hour or
 
 Upon exiting the Blue Mosque, we ran into a film shoot for a Bollywood film. We stayed and watched for a few minutes before carrying on.
 
-<!-- 16:9 aspect ratio -->
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7pL4DmS4Ork"></iframe>
-</div>
+{% include youtube.html src="https://www.youtube.com/embed/7pL4DmS4Ork" %}
 
 ## The Obelisk of Theodosius
 
