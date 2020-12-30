@@ -2,7 +2,7 @@
 short_name: jenniferchang
 name: Jennifer Chang
 display_name: Jennifer Chang
-avatar: /assets/images/avatar-jenniferchang.png
+avatar: /assets/images/avatars/avatar-jenniferchang.png
 position: Guest Author
 location: New York City, USA
 links: 

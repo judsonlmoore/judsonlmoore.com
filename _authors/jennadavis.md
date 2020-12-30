@@ -2,7 +2,7 @@
 short_name: jennadavis
 name: Jenna Davis
 display_name: Jenna Davis
-avatar: /assets/images/avatar-jennadavis.png
+avatar: /assets/images/avatars/avatar-jennadavis.png
 position: Guest Author
 location: Düsseldorf, Germany
 links: 

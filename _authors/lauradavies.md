@@ -2,7 +2,7 @@
 short_name: lauradavies
 name: Laura Davies
 display_name: Laura Davies
-avatar: /assets/images/avatar-lauradavies.png
+avatar: /assets/images/avatars/avatar-lauradavies.png
 instagram: 
 position: Guest Author
 location: Denver, USA

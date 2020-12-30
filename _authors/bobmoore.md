@@ -2,7 +2,7 @@
 short_name: bobmoore
 name: Bob Moore
 display_name: Bob Moore
-avatar: /assets/images/avatar-bobmoore.png
+avatar: /assets/images/avatars/avatar-bobmoore.png
 position: Guest Author
 location: Texas, USA
 links: 

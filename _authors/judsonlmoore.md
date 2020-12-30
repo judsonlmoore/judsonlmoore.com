@@ -2,7 +2,7 @@
 short_name: judsonlmoore
 name: Judson L Moore
 display_name: Judson L Moore
-avatar: /assets/images/avatar-judsonlmoore.png
+avatar: /assets/images/avatars/avatar-judsonlmoore.png
 email: judson@judsonlmoore.com
 position: Principal Author
 location: Berlin, Germany

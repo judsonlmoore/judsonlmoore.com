@@ -2,7 +2,7 @@
 short_name: anikovillalba
 name: Aniko Villalba
 display_name: Aniko Villalba
-avatar: /assets/images/avatar-anikovillalba.png
+avatar: /assets/images/avatars/avatar-anikovillalba.png
 position: Guest Author
 location: Argentina
 links: 

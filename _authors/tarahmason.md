@@ -2,7 +2,7 @@
 short_name: tarahmason
 name: Tarah Mason
 display_name: Tarah Mason
-avatar: /assets/images/avatar-tarahmason.png
+avatar: /assets/images/avatars/avatar-tarahmason.png
 position: Guest Author
 location: California, USA
 links: 

@@ -2,7 +2,7 @@
 short_name: kellybranyik
 name: Kelly Branyik
 display_name: Kelly Branyik
-avatar: /assets/images/avatar-kellybranyik.png
+avatar: /assets/images/avatars/avatar-kellybranyik.png
 position: Guest Author
 location: Colorado, USA
 links: 
