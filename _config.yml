@@ -81,7 +81,7 @@ defaults:
       permalink: '/:basename'
 cloudinary:
   cloud_name: judsonlmoore-com
-  only_prod: true
+  only_prod: false
   verbose: false
   presets:
     default:
@@ -103,14 +103,14 @@ cloudinary:
       gravity: auto
       crop: fill
       focus: auto
-      steps: 1
+      steps: 2
       min_width: 70
       min_height: 70
       max_width: 70
       max_height: 70
       figure: never
       attributes:
-        class: 'avatar-xl rounded-circle mr-3 '
+        class: avatar-xl rounded-circle mr-3
         loading: lazy
 compress_html:
   clippings: all
