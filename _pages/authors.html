@@ -14,7 +14,7 @@ image:            /assets/images/team-hero-img.jpg
         <div class="card-body p-4">
           <div class="text-center">
 
-            {% cloudinary {{ author.avatar | absolute_url }} alt="{{ author.name }}" class="avatar-xxl rounded-circle mb-3" %}
+            {% cloudinary {{ author.avatar }} alt="{{ author.name }}" class="avatar-xxl rounded-circle mb-3" %}
 
             <div class="">
               <p class="badge badge-primary-soft mb-3">{{ author.position}}</p>

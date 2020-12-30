@@ -81,7 +81,7 @@ defaults:
       permalink: '/:basename'
 cloudinary:
   cloud_name: judsonlmoore-com
-  only_prod: false
+  only_prod: true
   verbose: false
   presets:
     default:
