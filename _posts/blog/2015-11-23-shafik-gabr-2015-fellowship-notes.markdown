@@ -1,16 +1,12 @@
 ---
-title: Shafik Gabr's East-West - The Art of Dialogue Fellowship Notes
-description: >-
-  M. Shafik Gabr's charitable foundation encourages East-West dialogue by engaging
-  young professionals in dialogue with top leaders in Egypt and the United
-  States.
+title:            Shafik Gabr's East-West - The Art of Dialogue Fellowship Notes
+description:      M. Shafik Gabr's charitable foundation encourages East-West dialogue by engaging young professionals in dialogue with top leaders in Egypt and the United States.
 categories: blog
 tags:
   - fellowship
   - egypt
   - career
-image: >-
-  /assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
+image:            /assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
 ---
 
 M. Shafik Gabr is a prominent Egyptian businessman and philanthropist. He has established charitable foundations in Egypt and the United States to perform good humanitarian works of various sorts. In 2013, he began a fellowship program that encourages East-West dialogue. Each year, the fellowship brings 20 young professionals together for a month of travel, dialogue, and stimulating meetings with top leaders in Egypt and the United States.
