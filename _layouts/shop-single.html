@@ -13,16 +13,16 @@ layout: 			default
           <div class="custom-breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item">
-                <a href="{{ site.url }}">Home</a>
+                <a href="{{ site.url | absolute_url }}">Home</a>
               </li>
               <li class="breadcrumb-item">
                 <a href="{{ 'shop' | absolute_url }}">Shop</a>
               </li>
               <li class="breadcrumb-item">
-                <a href="{{ page.product.category | absolute_url }}">{{ page.product.category }}</a>
+                <a href="{{ page.product.category | prepend:'shop' | absolute_url }}">{{ page.product.category | capitalize }}</a>
               </li>
               <li class="breadcrumb-item active" aria-current="page">
-                Product Details: {{ page.product.title }}
+                {{ page.product.title }}
               </li>
             </ol>
           </div>
@@ -50,11 +50,61 @@ layout: 			default
           <span class="text-dark mr-2">${{ page.product.sale-price }}</span>
           <span class="text-muted"><s>${{ page.product.price }}</s></span>
         </div>
+
+        <!-- Buy product on Amazon -->
         {% if page.product.purchase-link-amazon %}
         <a href="{{ page.product.purchase-link-amazon }}" class="btn btn-outline-primary mr-2" target="_blank">Buy on Amazon <i class="fab fa-amazon"></i></a>
         {% endif %}
-        <p class="mt-4 font-14 mb-1"><span class="text-dark mr-1">Category:</span><a href="#!" class="text-inherit ml-1">{{ page.product.category }}</a></p>
-        <p class="font-14"><span class="text-dark mr-1">Tags:</span><a href="#!" class="text-inherit ml-1">life coach</a>,<a href="#!" class="text-inherit ml-1">motivation</a>,<a href="#!" class="text-inherit ml-1">success</a></p>
+
+        <!-- Buy product on site via Snipcart integration -->
+        {% if page.snipcart-data-item %}
+        <button class="snipcart-add-item btn btn-outline-primary mr-2"
+          data-item-url="{{ page.url | absolute_url }}"
+          {% if page.snipcart-data-item.id %}
+            data-item-id="{{ page.snipcart-data-item.id }}"
+          {% endif %}
+          {% if page.snipcart-data-item.price %}
+           data-item-price="{{ page.snipcart-data-item.price }}"
+          {% endif %}
+          {% if page.snipcart-data-item.description %}
+            data-item-description="{{ page.snipcart-data-item.description }}"
+          {% endif %}
+          {% if page.snipcart-data-item.image %}
+            data-item-image="{{ page.snipcart-data-item.image }}"
+          {% endif %}
+          {% if page.snipcart-data-item.name %}
+            data-item-name="{{ page.snipcart-data-item.name }}"
+          {% endif %}
+          {% if page.snipcart-data-item.custom1-name %}
+            data-item-custom1-name="{{ page.snipcart-data-item.custom1-name }}"
+          {% endif %}
+          {% if page.snipcart-data-item.custom1-options %}
+            data-item-custom1-options="{{ page.snipcart-data-item.custom1-options }}"
+          {% endif %}
+          {% if page.snipcart-data-item.custom1-value %}
+            data-item-custom1-value="{{ page.snipcart-data-item.custom1-value }}"
+          {% endif %}
+          >
+          Add to cart
+        </button>
+        {% endif %}
+
+        {% if page.product.category %}
+        <p class="mt-4 font-14 mb-1">
+          <span class="text-dark mr-1">Category:</span>
+          <a href="#!" class="text-inherit ml-1">{{ page.product.category | capitalize }}</a>
+        </p>
+        {% endif %}
+
+        {% if page.product.tags %}
+        <p class="font-14">
+          <span class="text-dark mr-1">Tags:</span>
+          {% for tag in page.product.tags %}
+          <a href="#!" class="text-inherit ml-1">{{ tag }}</a>
+          {% endfor %}
+        </p>
+        {% endif %}
+
       </div>
     </div>
     <hr class="my-10" />

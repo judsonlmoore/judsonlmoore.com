@@ -1,0 +1,244 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+<!-- page content -->
+<div class="py-12">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9 col-md-7 col-12">
+        <!-- result and filter -->
+        <div class="row align-items-center mb-4">
+          <div class="col-lg-6 col-md-4 col-7">
+            <h5 class="mb-0">Showing 1–9 of 29 results</h5>
+          </div>
+          <!-- btn group -->
+          <div class="col-lg-3 col-md-4 col-5">
+            <div class="nav btn-group justify-content-end" role="tablist">
+              <button class="btn btn-white border-light active" data-toggle="tab" data-target="#shopGrid" role="tab" aria-controls="shopGrid" aria-selected="true">
+                <span class="fe fe-grid"></span>
+              </button>
+              <button class="btn btn-white border-light" data-toggle="tab" data-target="#shopList" role="tab" aria-controls="shopList" aria-selected="false">
+                <span class="fe fe-list"></span>
+              </button>
+            </div>
+          </div>
+          <!-- sorting -->
+          <div class="col-lg-3 col-md-4 col-12 mt-3 mt-lg-0">
+            <select class="custom-select">
+              <option selected="">Sorting</option>
+              <option value="Newset FirstNewset First">Newset First</option>
+              <option value="Average rating">Average rating</option>
+              <option value="Price: Low to Hight">Price: Low to Hight</option>
+              <option value="Price: High to Low">Price: High to Low</option>
+              <option value="Popularity">Popularity</option>
+            </select>
+          </div>
+        </div>
+        <div class="tab-content" id="myTabContent">
+          <div class="tab-pane fade show active" id="shopGrid" role="tabpanel" aria-labelledby="shopGrid">
+            <div class="row">
+
+
+
+							{% for item in site.shop %}
+              <!-- shop thumbnail -->
+              <div class="col-lg-4 col-md-6 col-12">
+                <div class="card mb-4">
+                  <div class="card-body">
+                    <div class="d-flex align-items-center justify-content-between">
+                      <div>
+                        <div class="badge badge-primary-soft">{{ item.product.status }}</div>
+                      </div>
+                    </div>
+                    <a href="{{ item.url | absolute_url }}"><img src="{{ item.product.image }}" alt="" class="mt-3 img-fluid" /></a>
+                    <div class="mt-3">
+                      <a href="shop-single.html">
+                        <h4 class="mb-1">{{ item.product.title }}</h4>
+                      </a>
+                      <p class="font-12 mb-2">{{ item.product.author }}</p>
+                      <span class="text-dark mr-2">${{ item.product.sale-price }}</span><span class="text-muted"><s>${{ item.product.price }}</s></span>
+                      <div class="font-12">
+                        <i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="far fa-star text-warning"></i>
+                        <span class="ml-1">6</span>
+                      </div>
+
+							        <!-- Buy product on site via Snipcart integration -->
+							        {% if item.snipcart-data-item %}
+							        <button class="snipcart-add-item btn btn-outline-primary btn-sm mt-3 mr-3"
+							          data-item-url="{{ item.url | absolute_url }}"
+							          {% if item.snipcart-data-item.id %}
+							            data-item-id="{{ item.snipcart-data-item.id }}"
+							          {% endif %}
+							          {% if item.snipcart-data-item.price %}
+							           data-item-price="{{ item.snipcart-data-item.price }}"
+							          {% endif %}
+							          {% if item.snipcart-data-item.description %}
+							            data-item-description="{{ item.snipcart-data-item.description }}"
+							          {% endif %}
+							          {% if item.snipcart-data-item.image %}
+							            data-item-image="{{ item.snipcart-data-item.image }}"
+							          {% endif %}
+							          {% if item.snipcart-data-item.name %}
+							            data-item-name="{{ item.snipcart-data-item.name }}"
+							          {% endif %}
+							          {% if item.snipcart-data-item.custom1-name %}
+							            data-item-custom1-name="{{ item.snipcart-data-item.custom1-name }}"
+							          {% endif %}
+							          {% if item.snipcart-data-item.custom1-options %}
+							            data-item-custom1-options="{{ item.snipcart-data-item.custom1-options }}"
+							          {% endif %}
+							          {% if item.snipcart-data-item.custom1-value %}
+							            data-item-custom1-value="{{ item.snipcart-data-item.custom1-value }}"
+							          {% endif %}
+							          >
+							          Add to cart
+							        </button>
+							        <a href="{{ item.url }}" class="btn btn-outline-none btn-sm mt-3 p-0">View details</a>
+							        {% else %}
+							        <!-- View item details -->
+                      <a href="{{ item.url }}" class="btn btn-outline-primary btn-sm mt-3">View details</a>
+                      {% endif %}
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+				      {% endfor %} 
+
+				      {% include pagination.html %}
+
+						</div>
+			    </div>
+				</div>
+			</div>
+
+      <!-- sidebar -->
+      <div class="col-lg-3 col-md-5 col-12">
+        <!-- category -->
+        <div class="card rounded-lg mb-3">
+          <div class="card-body p-4">
+            <h4 class="mb-3">Category</h4>
+            <ul class="list-unstyled mb-0">
+              <li class="d-flex justify-content-between mb-2">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="development" />
+                  <label class="custom-control-label" for="development">Self Development</label>
+                </div>
+                <div class="text-dark">
+                  2
+                </div>
+              </li>
+              <li class="d-flex justify-content-between mb-2">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="motivational" />
+                  <label class="custom-control-label" for="motivational">Motivational</label>
+                </div>
+                <div class="text-dark">
+                  1
+                </div>
+              </li>
+              <li class="d-flex justify-content-between mb-2">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="lifeHack" />
+                  <label class="custom-control-label" for="lifeHack">Life Hack</label>
+                </div>
+                <div class="text-dark">
+                  3
+                </div>
+              </li>
+              <li class="d-flex justify-content-between mb-2">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="ceoCoach" />
+                  <label class="custom-control-label" for="ceoCoach">CEO Coach</label>
+                </div>
+                <div class="text-dark">
+                  2
+                </div>
+              </li>
+              <li class="d-flex justify-content-between">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="businessCoach" />
+                  <label class="custom-control-label" for="businessCoach">Business Coach</label>
+                </div>
+                <div class="text-dark">
+                  1
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- rating -->
+        <div class="card rounded-lg mb-3">
+          <div class="card-body p-4">
+            <h4 class="mb-3">Rating</h4>
+            <ul class="list-unstyled mb-0">
+              <!-- list group -->
+              <li class="d-flex justify-content-between mb-2">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="starOne" />
+                  <label class="custom-control-label font-14" for="starOne">
+                    <i class="fas fa-star text-warning"></i><i class="far fa-star text-warning"></i><i class="far fa-star text-warning"></i><i class="far fa-star text-warning"></i><i class="far fa-star text-warning"></i>
+                  </label>
+                </div>
+                <div class="text-dark">
+                  1
+                </div>
+              </li>
+              <!-- list group -->
+              <li class="d-flex justify-content-between mb-2">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="starTwo" />
+                  <label class="custom-control-label font-14" for="starTwo">
+                    <i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="far fa-star text-warning"></i><i class="far fa-star text-warning"></i><i class="far fa-star text-warning"></i>
+                  </label>
+                </div>
+                <div class="text-dark">
+                  4
+                </div>
+              </li>
+              <!-- list group -->
+              <li class="d-flex justify-content-between mb-2">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="starThree" />
+                  <label class="custom-control-label font-14" for="starThree">
+                    <i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="far fa-star text-warning"></i><i class="far fa-star text-warning"></i>
+                  </label>
+                </div>
+                <div class="text-dark">
+                  8
+                </div>
+              </li>
+              <!-- list group -->
+              <li class="d-flex justify-content-between mb-2">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="starFour" />
+                  <label class="custom-control-label font-14" for="starFour">
+                    <i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="far fa-star text-warning"></i>
+                  </label>
+                </div>
+                <div class="text-dark">
+                  23
+                </div>
+              </li>
+              <!-- list group -->
+              <li class="d-flex justify-content-between">
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="starFive" />
+                  <label class="custom-control-label font-14" for="starFive">
+                    <i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i><i class="fas fa-star text-warning"></i>
+                  </label>
+                </div>
+                <div class="text-dark">
+                  213
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
