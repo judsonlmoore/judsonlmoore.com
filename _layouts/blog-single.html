@@ -30,7 +30,28 @@ post_class:     post-template
 
         </div>
 
-
+        {% if page.author %}
+        {% assign author = site.authors | where: 'short_name', page.author | first %} 
+        <!-- author post -->
+        <div class="mb-4">
+          <div class="rounded bg-light border-light p-5">
+            <div class="d-flex align-items-center mb-3">
+              {% if author.avatar %} 
+              {% cloudinary author {{ author.avatar }} alt="Image of {{ author.name }}" %} 
+              {% endif %}
+              <div>
+                <h5 class="mb-0">{{ author.name }}</h5>
+                <small>Author</small>
+              </div>
+            </div>
+            <p>
+              {{ author.content | strip_html }} {% if author.links.twitter %}Follow me on <a href="{{ author.links.twitter }}" target="_blank">twitter</a>.{% endif %} {% if author.links.facebook %}Find me on
+              <a href="{{ author.links.facebook }}" target="_blank"> facebook</a>.{% endif %}
+            </p>
+            <a href="{{ author.url }}" class="btn-link">View All Post</a>
+          </div>
+        </div>
+        {% endif %} 
 
         {% if jekyll.environment == 'production' %}
         {% if page.comments != false %}
