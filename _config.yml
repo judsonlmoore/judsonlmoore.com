@@ -1,30 +1,31 @@
-# Site
-baseurl: ""
-permalink: :title
+baseurl: ''
+permalink: ':title'
 title: Judson L Moore
 tagline: Author and travel addict
-description: Live an adventurous and happy life by pursuing your "what if" in your lifestyle, career, and travel with tips from the author of Exponential Happiness.
-url: "https://www.judsonlmoore.com"
+description: >-
+  Live an adventurous and happy life by pursuing your "what if" in your
+  lifestyle, career, and travel with tips from the author of Exponential
+  Happiness.
+url: 'https://www.judsonlmoore.com'
 author: Judson L Moore
-logo: 
+logo: null
 lang: en_US
 twitter:
   username: judsonlmoore
   card: summary_large_image
 facebook:
   app_id: 990949061035215
-  publisher: https://www.facebook.com/JudsonLMooreBlog/
+  publisher: 'https://www.facebook.com/JudsonLMooreBlog/'
   admins: judsonlmoore
 favicon: /assets/images/favicon.png
 webmaster_verifications:
   google: 3MN-XApFrgWYSpGop2aNPX3eHkQtKupxl-OltwME23o
   bing: 1571295b1311496094a646cca481014e
-  yandex: df106ee154e1faa4 
-disqus: "judsonlmoore"
-mailchimp-list: "https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe"
+  yandex: df106ee154e1faa4
+disqus: judsonlmoore
+mailchimp-list: >-
+  https://judsonlmoore.us2.list-manage.com/subscribe/post?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe
 gtm: GTM-MLP7SZW
-
-# other
 markdown: kramdown
 kramdown:
   input: GFM
@@ -32,60 +33,52 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
-
 gems:
   - jekyll-paginate-v2
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-target-blank
-
-include: 
+include:
   - _pages
   - _pages/travel-guides
   - _shop
-
 exclude:
   - .jekyll-cache
   - Gemfile
   - Gemfile.lock
-
 collections:
   authors:
     output: true
   shop:
     output: true
-
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
-      layout: "page"
-      author: "judsonlmoore"
+      layout: page
+      author: judsonlmoore
   - scope:
-      path: ""
-      type: "posts"
+      path: ''
+      type: posts
     values:
-      layout: "blog-single"
+      layout: blog-single
       is_post: true
   - scope:
-      path: "_pages"
+      path: _pages
     values:
-      layout: "autopage"
-      permalink: /:basename
+      layout: autopage
+      permalink: '/:basename'
   - scope:
-      path: ""
-      type: "authors"
+      path: ''
+      type: authors
     values:
-      layout: "blog-author"
+      layout: blog-author
   - scope:
-      path: "shop"
+      path: shop
     values:
-      layout: "shop-single"
-      permalink: /:basename
-
-# jekyll-cloudinary
+      layout: shop-single
+      permalink: '/:basename'
 cloudinary:
   cloud_name: judsonlmoore-com
   only_prod: true
@@ -99,8 +92,8 @@ cloudinary:
       max_width: 1024
       figure: never
       attributes:
-        class: "img-fluid rounded mb-2 mt-3 w-100"
-        loading: "lazy"
+        class: img-fluid rounded mb-2 mt-3 w-100
+        loading: lazy
     thumbnail:
       min_width: 64
       min_height: 64
@@ -117,79 +110,89 @@ cloudinary:
       max_height: 70
       figure: never
       attributes:
-        class: "avatar-xl rounded-circle mr-3 "
-        loading: "lazy"
-
-# minification
-compress_html:  
-  clippings: all  
-  comments: ["<!-- ", " -->"] 
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th] 
-  profile: false 
-  blanklines: false 
-  ignore: 
+        class: 'avatar-xl rounded-circle mr-3 '
+        loading: lazy
+compress_html:
+  clippings: all
+  comments:
+    - '<!-- '
+    - ' -->'
+  endings:
+    - html
+    - head
+    - body
+    - li
+    - dt
+    - dd
+    - rt
+    - rp
+    - optgroup
+    - option
+    - colgroup
+    - caption
+    - thead
+    - tbody
+    - tfoot
+    - tr
+    - td
+    - th
+  profile: false
+  blanklines: false
+  ignore:
     envs: []
-
-#contact
 contact:
   speaking: assistant@jlm.me
   other: contact@jlm.me
   whatsapp: +1.310.571.5210
-
-# links 
 links:
-  facebook: https://www.facebook.com/judsonlmooreblog
-  twitter: https://twitter.com/judsonlmoore
-  linkedin: https://www.linkedin.com/in/judsonlmoore
-  instagram: https://www.instagram.com/judsonlmoore/
-  youtube: https://www.youtube.com/judsonlmoore
-  github: https://github.com/judsonlmoore
-
-# pagination settings
+  facebook: 'https://www.facebook.com/judsonlmooreblog'
+  twitter: 'https://twitter.com/judsonlmoore'
+  linkedin: 'https://www.linkedin.com/in/judsonlmoore'
+  instagram: 'https://www.instagram.com/judsonlmoore/'
+  youtube: 'https://www.youtube.com/judsonlmoore'
+  github: 'https://github.com/judsonlmoore'
 pagination:
   enabled: true
   per_page: 9
   permalink: '/page-:num/'
   title: ':title'
   limit: 0
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
-  trail: 
+  trail:
     before: 2
     after: 2
-
-# autopages settings
 autopages:
   enabled: true
-  categories: 
-    layouts: 
-      - 'autopage.html'
+  categories:
+    layouts:
+      - autopage.html
     title: 'Posts in category :cat'
     permalink: '/category/:cat'
     slugify:
-      mode: 'default'
+      mode: default
       case: true
   tags:
-    layouts: 
-      - 'autopage.html'
+    layouts:
+      - autopage.html
     title: 'Posts tagged with :tag'
     permalink: '/tag/:tag'
     slugify:
-      mode: 'default'
+      mode: default
       case: true
   collections:
-    layouts: 
-      - 'autopage.html'
+    layouts:
+      - autopage.html
     title: 'Posts in collection :coll'
     permalink: '/collection/:coll'
     slugify:
-      mode: 'default'
-      case: true 
+      mode: default
+      case: true
   shop:
-    layouts: 
-      - 'shop-single.html'
+    layouts:
+      - shop-single.html
     title: 'Products in category :coll'
     permalink: '/product/:coll'
     slugify:
-      mode: 'default'
-      case: true 
+      mode: default
+      case: true

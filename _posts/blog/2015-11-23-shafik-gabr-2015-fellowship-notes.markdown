@@ -1,15 +1,19 @@
 ---
-title:            Shafik Gabr's East-West - The Art of Dialogue Fellowship Notes
-description:      M. Shafik Gabr's charitable foundation encourages East-West dialogue by enging young professionals in dialogue with top leaders in Egypt and the United States.
-categories:       blog
-tags: 
+title: Shafik Gabr's East-West - The Art of Dialogue Fellowship Notes
+description: >-
+  M. Shafik Gabr's charitable foundation encourages East-West dialogue by enging
+  young professionals in dialogue with top leaders in Egypt and the United
+  States.
+categories: blog
+tags:
   - fellowship
   - egypt
   - career
-image:            /assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
+image: >-
+  /assets/images/2016/02/19-Amazing-International-Fellowship-Programs-Featured-Image.jpg
 ---
 
-M. Shafik Gabr is a prominent Egyptian businessman and philanthropist. He has established charitable foundations in Egypt and the United States to perform good humanitarian works of various sorts. In 2013, he began a fellowship program that encourages East-West dialogue. Each year, the fellowship brings 20 young professionals together for a month of travel, dialogue, and stimulating meetings with top leaders in Egypt and the United States.
+M. Shafik Gabr is a prominent Egyptian businessman and philanthropist. He has established charitable foundations in Egypt and the United States to perform good humanitarian works of various sorts. In 2013, he began a fellowship program that encourages East-West dialogue. Each year, the fellowship brings 20 young professionals together for a month of travel, dialogue, and stimulating meetings with top leaders in Egypt and the United States.
 
 I am a 2015 fellow. In this article, I share my notes from the fellowship to record my learnings from my participation and hope that these notes might help future fellowship applicants gain a sense of what they are signing up for. 
 
@@ -819,7 +823,7 @@ The second segment of the fellowship takes place in the United States of America
 ***Topic:** Can we re-build a global strategic consensus in U.S. Foreign and Defense Policy?*  
 ***Location:** The Council on Foreign Relations* 
 
-- [Speaker bio](https://www.cfr.org/experts/afghanistan-iraq-middle-east-and-north-africa/richard-n-haass/b3350)
+- [Speaker bio](https://www.cfr.org/expert/richard-n-haass)
 - Peacebuilding and Interfaith Engagement in Conflict Zones*
 - [president@cfr.org](mailto:president@cfr.org)
 - [foreignaffairs.com](https://www.foreignaffairs.com/)
@@ -918,7 +922,7 @@ The second segment of the fellowship takes place in the United States of America
 
 ### Thursday, November 12, 2015 (Atlanta)
 
-#### Bernice King - CEO of the King Center
+#### Bernice King - CEO of the King Center
 
 ***Topic:** Pursuing Freedom in America*  
 ***Location:** The King Center, Atlanta GA* 
@@ -932,7 +936,7 @@ The second segment of the fellowship takes place in the United States of America
 ***Topic:** Open discussion*  
 ***Location:** ?* 
 
-- Meeting with Dr. Lawrence E. Carter Sr. - Dean of the Chapel, Professor of Religion, College Archivist & Curator, Founder, Gandhi, King, Ikeda Institute for Global Ethics & Reconciliation
+- Meeting with Dr. Lawrence E. Carter Sr. - Dean of the Chapel, Professor of Religion, College Archivist & Curator, Founder, Gandhi, King, Ikeda Institute for Global Ethics & Reconciliation
 - Director of the Martin Luther King Jr. College of Pastoral Leadership Martin Luther King Jr. International Chapel
 
 ### Friday November 13, 2015 (Atlanta)
@@ -940,7 +944,7 @@ The second segment of the fellowship takes place in the United States of America
 #### John Jazzman, Resident Managing Director and Nolan Wilson, Cyber Security
 
 ***Topic:** How should companies consider risk in international investment in an era of persistent conflict?*  
-***Location:** Aon Risk Solutions (One Piedmont Center, Suite 700, 3565 Piedmont Road, Northeast, Atlanta, GA  30305)* 
+***Location:** Aon Risk Solutions (One Piedmont Center, Suite 700, 3565 Piedmont Road, Northeast, Atlanta, GA  30305)* 
 
 - Breakfast Speaker: [Aon Risk Services South, Inc.](https://www.aon.com/default.jsp)
 - AON is the primary sponsor of Manchester United
@@ -1002,7 +1006,7 @@ The second segment of the fellowship takes place in the United States of America
 ***Topic:** VIP Tour of the AOC of Coca-Cola*  
 ***Location:** Coca-Cola Headquarters* 
 
-- Carlos A. Pagoaga, Group Director of Partnerships of the [Coca-Cola Foundation](https://www.coca-colacompany.com/our-company/the-coca-cola-foundation/)
+- Carlos A. Pagoaga, Group Director of Partnerships of the [Coca-Cola Foundation](https://www.coca-colacompany.com/shared-future/coca-cola-foundation)
 - Sustanability at Coca-Cola
   - World's largest beverage company
   - 200+ countries
@@ -1097,7 +1101,7 @@ The second segment of the fellowship takes place in the United States of America
 ***Topic:** Implications for the Middle East in the Advent of the Iranian Nuclear Deal and the Russian Military Intervention in Syria*  
 ***Location:** ?* 
 
-- Breakfast with [Mark T. Kimmitt](https://en.wikipedia.org/wiki/Mark_Kimmitt), 16th Assistant Secretary of State for Political-Military Affairs, Deputy Assistant Secretary of Defense for the Middle East, both serving under the George W. Bush Administration.  Retired Brigadier General, U.S. Army
+- Breakfast with [Mark T. Kimmitt](https://en.wikipedia.org/wiki/Mark_Kimmitt), 16th Assistant Secretary of State for Political-Military Affairs, Deputy Assistant Secretary of Defense for the Middle East, both serving under the George W. Bush Administration.  Retired Brigadier General, U.S. Army
 - The Health of the Military to Military Relationship
 - Advice to the next president - must be candid about our foreign policy, especially in the Middle East
 - To be an influence in the region, we must engage
@@ -1112,7 +1116,7 @@ The second segment of the fellowship takes place in the United States of America
 
 #### [Mr. Glen E. Howard](https://www.jamestown.org/details/?tx_bzdstaffdirectory_pi1%5BshowUid%5D=22&tx_bzdstaffdirectory_pi1%5BbackPid%5D=45&cHash=7fea3160d9ecf4f56c9e8d15103c1512), president of [The Jamestown Foundation](https://www.jamestown.org/aboutus/) ([wiki](https://en.wikipedia.org/wiki/The_Jamestown_Foundation))
 
-***Topic:** The Nexus of Security Challenges to the U.S. and its partners in the Middle East*  
+***Topic:** The Nexus of Security Challenges to the U.S. and its partners in the Middle East*  
 ***Location:** The Jamestown Foundation* 
 
 - The Jamestown Foundaiton is 20 years old
@@ -1214,7 +1218,7 @@ The second segment of the fellowship takes place in the United States of America
 
 - No notes
 
-#### [Dr. Steve Grand](https://www.brookings.edu/experts/grands), [Atlantic Council](https://www.atlanticcouncil.org/)
+#### [Dr. Steve Grand](https://www.brookings.edu/author/stephen-r-grand/), [Atlantic Council](https://www.atlanticcouncil.org/)
 
 ***Topic:** How the West can help its Arab Partners Secure the Region*  
 ***Location:** ?* 
