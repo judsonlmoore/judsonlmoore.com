@@ -15,13 +15,13 @@ How a team works with Jira is dependent on how Jira is set up and what practices
 
 In this article, I will provide examples of how I set up the Jira backlog and Kanban board, their workflows, and general best practices for using Jira to organize the work of cross-functional software delivery teams. 
 
-This article uses examples and screenshots from an example Jira project populated with a task structure explained in this article with [Jira task templates](/jira-task-templates/). If you've not yet read that article, you might find it worthwhile to read that first and then return to this article. 
+This article uses examples and screenshots from an example Jira project populated with a task structure explained in this article with [Jira task templates](/jira-task-templates). If you've not yet read that article, you might find it worthwhile to read that first and then return to this article. 
 
 You can access the example Jira project by using these credentials:
 
 **login:** [https://judsonlmoore.atlassian.net/](https://judsonlmoore.atlassian.net/browse/JTT-3)  
-**user:** ``Jira-templates@judsonlmoore.com``  
-**password:** ``Iamthe1Passwordforthisuser!``
+**user:** `Jira-templates@judsonlmoore.com`  
+**password:** `Iamthe1Passwordforthisuser!`
 
 You don't need to log in to that project to follow along with these articles, but should you be interested in taking a self-exploratory deeper dive into how the example Jira project is set up, then be my guest.
 
@@ -127,4 +127,4 @@ A common mistake is that after your initial board setup, your team will adopt a 
 
 I hope that these organizing principals offered you some concrete takeaways you can apply in your team's way of working. Please leave me a comment below to let me know which parts you found most useful, and if any parts of this don't make any sense to you. Do you have a different approach to organizing Jira? I'd love to learn about it!
 
-Please share the [Jira task templates](/jira-task-templates/) with your team if you think they might be of value. You can read more [product management articles here](/product-management/) as well. 
+Please share the [Jira task templates](/jira-task-templates) with your team if you think they might be of value. You can read more [product management articles here](/product-management/) as well. 

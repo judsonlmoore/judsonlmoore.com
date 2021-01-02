@@ -10,7 +10,7 @@ image:			/assets/images/2020/01/philosophy-4-a-bad-plan-is-better-than-no-plan.p
 
 Now that you have your *what if* in mind, you are energized to show up, and you have learned from others around you, what comes next? Well, you need a plan! Just as I draft an outline for my books before I start writing paragraphs, you need to have an idea about the steps necessary to take to reach your goal.
 
-As children, we are asked many times about what we want to be when we grow up. Rarely does that conversation continue to discuss *how* we can live that life. In Chapter 4 of my book, [Exponential Happiness](/book/), I reveal best practices for discovering the *how* behind every type of goal. The book walks you through a planning and decision-making process that will save you a lot of grief by creating a plan which will propel you toward living your *what if*.
+As children, we are asked many times about what we want to be when we grow up. Rarely does that conversation continue to discuss *how* we can live that life. In Chapter 4 of my book, [Exponential Happiness](/book), I reveal best practices for discovering the *how* behind every type of goal. The book walks you through a planning and decision-making process that will save you a lot of grief by creating a plan which will propel you toward living your *what if*.
 
 I wouldn't expect you to run off and buy the book without any evidence regarding the impact of its contents, so here, *I'll give you a little teaser.*
 
@@ -38,6 +38,6 @@ We get new information every day; we learn, we grow. Doors open. Doors close. As
 
 Check-in with your plans regularly to assess whether or not the destination is still desired. Maybe there is a better path to the destination, or perhaps there is a better goal altogether. 
 
-Check out my book [Exponential Happiness](/book/) for loads more details on this and other topics to help you in your pursuit of achieving your goals! 
+Check out my book [Exponential Happiness](/book) for loads more details on this and other topics to help you in your pursuit of achieving your goals! 
 
 If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have, and I will be happy to advise you the best I can directly!

@@ -34,7 +34,7 @@ I've also spun up a Jira project with all of these tasks laid out, as well as so
 **user:** ``Jira-templates@judsonlmoore.com``  
 **password:** ``Iamthe1Passwordforthisuser!``  
 
-See screenshots from this Jira project and learn more about how the Jira task templates will help you stay organized by reading this article about [streamlining your backlog and Kanban board in Jira](/jira-backlog-organization/).
+See screenshots from this Jira project and learn more about how the Jira task templates will help you stay organized by reading this article about [streamlining your backlog and Kanban board in Jira](/jira-backlog-organization).
 
 ## Task structure
 
@@ -213,7 +213,7 @@ emerge from self-organizing teams."
 
 No template should be adhered to rigidly. These tools and shared learnings are merely a guideline for one way of working that has proven to be of great value under certain conditions. It is up to the team to determine the best way to work for them, and whatever is agreed upon today should be challenged tomorrow in a never-ending pursuit for optimization. 
 
-The most important thing is that your tasks are organized and easily accessible to those who need to use them. To that end, check out [this article about backlog organization](/jira-backlog-organization/) to see how these Jira task templates streamline the backlog and Kanban boards in Jira. 
+The most important thing is that your tasks are organized and easily accessible to those who need to use them. To that end, check out [this article about backlog organization](/jira-backlog-organization) to see how these Jira task templates streamline the backlog and Kanban boards in Jira. 
 
 I hope that you found these Jira task templates useful, and I welcome your comments and feedback below. What did you like most about them? Where can they be improved? What other ideas do you have for structuring your tasks?
 

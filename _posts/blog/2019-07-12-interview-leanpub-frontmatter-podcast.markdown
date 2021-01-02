@@ -17,7 +17,7 @@ google-podcasts:	https://podcasts.google.com/feed/aHR0cHM6Ly9sZWFucHViLmNvbS9wb2
 spotify: 
 ---
 
-Just before I published my first book, [Exponential Happiness](/book/), my publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting if I may say so myself. 
+Just before I published my first book, [Exponential Happiness](/book), my publisher, LeanPub, honored me with a feature on their podcast for authors. We had quite a long chat, but it is pretty interesting if I may say so myself. 
 {: class="lead"}
 
 Len Epp is Leanpub's co-founder. During his interview, we discussed: 

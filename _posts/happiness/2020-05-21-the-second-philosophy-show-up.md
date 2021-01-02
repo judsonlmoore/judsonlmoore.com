@@ -14,7 +14,7 @@ There is also something brilliant about showing up. It is the prerequisite of ev
 
 You cannot walk through a door if you do not first walk up to it. Some doors may never open despite how hard you pound on them. Other doors that are wide open are useless if you don't approach them to see what might be on the other side. 
 
-Showing up can be exhausting at times. By following the guidelines outlined below, along with those covered in further detail in [Exponential Happiness](/book/), you will find yourself living a life full of opportunities taken, instead of opportunities missed.
+Showing up can be exhausting at times. By following the guidelines outlined below, along with those covered in further detail in [Exponential Happiness](/book), you will find yourself living a life full of opportunities taken, instead of opportunities missed.
 
 ## The power of raising your hand
 
@@ -36,6 +36,6 @@ Saying "yes" led me to be involved in community theater, making my best friend, 
 
 You won't always be able to say "yes." Life is full of responsibility, and we only have a finite access to the resource of time. Do your best to practice saying "yes" and watch how the opportunities come at you more and more. 
 
-Check out my book [Exponential Happiness](/book/) for loads more details on this and other topics to help you in your pursuit of happiness! 
+Check out my book [Exponential Happiness](/book) for loads more details on this and other topics to help you in your pursuit of happiness! 
 
 If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have, and I will be happy to advise you the best I can directly.

@@ -28,7 +28,7 @@ There are many more Rotary Youth Programs. If you or someone you know is interes
 
 You can read nearly any post on this blog and see the ripple effect Rotary has had in my life. From influencing my decision to study foreign policy to enabling my adventures around the world. Rotary's impact on me when I was young has gone on to have a resounding effect on my life's path and the choices I make every day.
 
-So when I was recently asked to present my story to [the Rotary eClub of Silicon Valley](https://www.siliconvalleyrotary.com/meeting-02-17-2020/), I was honored. The opportunity came about thanks to my new book, [*Exponential Happiness*](/book/), in which I offer the same words of encouragement that I received at a young age, which were the catalyst to my saying "yes" when Rotary came along and asked if I would like to participate in their Youth Exchange program. As a result, I spent one year in Germany, and the course of my life was forever altered.
+So when I was recently asked to present my story to [the Rotary eClub of Silicon Valley](https://www.siliconvalleyrotary.com/meeting-02-17-2020/), I was honored. The opportunity came about thanks to my new book, [*Exponential Happiness*](/book), in which I offer the same words of encouragement that I received at a young age, which were the catalyst to my saying "yes" when Rotary came along and asked if I would like to participate in their Youth Exchange program. As a result, I spent one year in Germany, and the course of my life was forever altered.
 
 In my presentation, I only had about 20-minutes to share my thoughts, so I boiled them down to these two points: 
 

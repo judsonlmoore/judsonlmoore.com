@@ -30,7 +30,7 @@ At that time, when this definition is satisfied, and not a moment before, the wo
 
 This often leads to tasks needing to be refined several times until they are ready for dev. The homework gets done outside of the refinement meeting. Individual team members are consulted, and dependencies are identified. I try to do everything I can to prepare the task before the refinement, but without fail, when more people get a chance to ask questions, they always find holes and give me more work.
 
-I find it very constructive to walk away from a refinement with a checklist of open questions. This helps me scope out what I should be working on until the next refinement. I document the open questions within the description of the Jira task, as explained in this article with [Jira task templates](/jira-task-templates/), to ensure they maintain high visibility.
+I find it very constructive to walk away from a refinement with a checklist of open questions. This helps me scope out what I should be working on until the next refinement. I document the open questions within the description of the Jira task, as explained in this article with [Jira task templates](/jira-task-templates), to ensure they maintain high visibility.
 
 Most valuably, the team is more invested in the process, the product direction, and feels empowered to play a more proactive role.
 

@@ -46,6 +46,6 @@ As you can see, the time when you will be most flexible is during your younger y
 
 ## Takeaways 
 
-Check out my book [*Exponential Happiness*](/book/) for loads more details on these phases of life, as well as examples of how the impacts of these phases impact (both in positive and negative ways) your ability to be flexible. The book covers this and many other topics to help you in your pursuit of happiness! 
+Check out my book [*Exponential Happiness*](/book) for loads more details on these phases of life, as well as examples of how the impacts of these phases impact (both in positive and negative ways) your ability to be flexible. The book covers this and many other topics to help you in your pursuit of happiness! 
 
 If you're not yet ready to dive into a book, then **please leave me a comment below** with any questions you have, and I will be happy to advise you the best I can directly! 
