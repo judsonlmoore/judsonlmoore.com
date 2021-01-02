@@ -14,9 +14,9 @@
           {% if page.layout == 'home' %}
 
           <!-- Hompage hero -->
-          <h1 class="display-3 font-weight-bold text-white mb-2">
+          <h2 class="display-3 font-weight-bold text-white mb-2">
             {{ page.hero-title }}
-          </h1>
+          </h2>
           <p class="mb-4 lead">
             {{ page.hero-subtitle }}
           </p>
@@ -27,7 +27,7 @@
             <!-- Podcast name -->            
             {% if page.is_post == true %}
             {% if page.podcast-name %}
-            <h1 class="h5 mb-8 text-white">{{ page.podcast-name }}</h1>
+            <h2 class="h5 mb-8 text-white">{{ page.podcast-name }}</h2>
 
             <!-- Post category -->
             {% elsif page.categories %}
@@ -39,7 +39,7 @@
             {% endif %}
 
             <!-- Post / page / podcast episode title -->
-            <h1 class="mb-3 display-4 text-white">
+            <h2 class="mb-3 display-4 text-white">
               {% if page.episode-name %}
                 {{ page.episode-name }}
               {% elsif page.autopages.display_name %}
@@ -47,7 +47,7 @@
               {% else %}
                 {{ page.title }}
               {% endif %}
-            </h1>
+            </h2>
 
             <!-- Page description -->
             {% if page.description %}

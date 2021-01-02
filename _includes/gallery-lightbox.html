@@ -5,7 +5,7 @@
   {% for image in include.images %}
   <div class="col-md-6">
     <a class="example-image-link" href="{{ image.url | relative_url }}" data-lightbox="example-set" data-title="{{ image.caption }}">
-      {% cloudinary {{ image.url | relative_url }} alt="{{ image.alt }}" description="{{ image.caption }}" class="figure-img rounded" %}
+      {% cloudinary {{ image.url | }} alt="{{ image.alt }}" description="{{ image.caption }}" class="figure-img rounded" %}
     </a>
   </div>
   {% endfor %}

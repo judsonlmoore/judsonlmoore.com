@@ -7,10 +7,10 @@ layout:						page
 <p>
 	<span>
 		Related information: 
-		<a href="{{ '/terms/' | absolute_url }}">Terms and Conditions</a> | 
-		<a href="{{ '/refund-policy/' | absolute_url }}">Refund Policy</a> | 
-		<a href="{{ '/privacy/' | absolute_url }}">Privacy Policy</a> | 
-		<a href="{{ '/disclosures/' | absolute_url }}">Disclosures</a>
+		<a href="{{ '/terms' | absolute_url }}">Terms and Conditions</a> | 
+		<a href="{{ '/refund-policy' | absolute_url }}">Refund Policy</a> | 
+		<a href="{{ '/privacy' | absolute_url }}">Privacy Policy</a> | 
+		<a href="{{ '/disclosures' | absolute_url }}">Disclosures</a>
 	</span>
 </p>
 

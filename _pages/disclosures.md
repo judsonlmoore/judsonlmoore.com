@@ -8,10 +8,10 @@ layout:						page
 <p>
 	<span>
 		Related information: 
-		<a href="{{ '/terms/' | absolute_url }}">Terms and Conditions</a> | 
-		<a href="{{ '/refund-policy/' | absolute_url }}">Refund Policy</a> | 
-		<a href="{{ '/privacy/' | absolute_url }}">Privacy Policy</a> | 
-		<a href="{{ '/disclosures/' | absolute_url }}">Disclosures</a>
+		<a href="{{ '/terms' | absolute_url }}">Terms and Conditions</a> | 
+		<a href="{{ '/refund-policy' | absolute_url }}">Refund Policy</a> | 
+		<a href="{{ '/privacy' | absolute_url }}">Privacy Policy</a> | 
+		<a href="{{ '/disclosures' | absolute_url }}">Disclosures</a>
 	</span>
 </p>
 
@@ -37,7 +37,7 @@ Periodically, this blog hosts giveaways for the readers. These events may be sel
 
 ## NEWSLETTER
 
-The blog maintains a subscription-based e-newsletter list which readers can opt-in to [here](/subscribe/). The subscription list is managed with MailChimp and all requests to subscribe or unsubscribe must be performed by the subscribing party directly via the MailChimp service.
+The blog maintains a subscription-based e-newsletter list which readers can opt-in to [here](/subscribe). The subscription list is managed with MailChimp and all requests to subscribe or unsubscribe must be performed by the subscribing party directly via the MailChimp service.
 
 ## THIRD-PARTY CONTENT
 

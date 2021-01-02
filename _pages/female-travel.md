@@ -14,4 +14,4 @@ pagination:
 
 I am a flawed man in many ways. I can only hope to share advice that is valuable to my readers. Half of my readers are women. Despite my many flaws, I like to think that I am smart enough to identify some of my shortcomings. I feel that it is imperative to discuss issues specific to female travel, and I hope this blog can contribute to many successful and happy women's adventures. But I also know that my perspective and experience in travel are all gained through the male perspective. Therefore, I have sought out some experienced women travelers to share their experiences here as guest authors.
 
-[Learn about being a guest author here.](/guest-author/)
+[Learn about being a guest author here.](/guest-author)

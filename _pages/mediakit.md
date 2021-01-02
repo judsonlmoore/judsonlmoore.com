@@ -18,15 +18,15 @@ To get the process started, send me a note at [getintouch@judsonlmoore.com](mai
 It has been my honor to be interviewed on several podcasts on a wide range of topics, including travel, community engagement, and achieving life goals. Give them a listen here: 
 
 - [LeanPub's Frontmatter Podcast](/interview-leanpub-frontmatter-podcast/)
-- [The Expat Sandwich Podcast](/expat-sandwich-podcast/)
-- [The Without a Path Podcast](/without-a-path-podcast/)
+- [The Expat Sandwich Podcast](/expat-sandwich-podcast)
+- [The Without a Path Podcast](/without-a-path-podcast)
 
 ## Speaking
 
 I love addressing audiences of any size! I have spoken at universities, youth camps, corporate functions, and civic meetings. I can provide a list of references upon request. Here is a sample of a presentation I designed for a group of students.
 
 - [Presentation to the Rotary eClub of Silicon Valley](/consequences-of-rotary-youth-programs/)
-- [UT Peace and Conflict Symposium](/ut-peace-conflict-resolution-symposium/)
+- [UT Peace and Conflict Symposium](/ut-peace-conflict-resolution-symposium)
 
 ## I can write something for you
 
@@ -38,7 +38,7 @@ My writing has been featured in many other publications and outlets. It is not o
 
 ## You can write something for (or with) me
 
-Perhaps you are looking for an outlet for your voice. I am currently seeking guest authors to write on a variety of topics. [Learn more about being a guest author here](/guest-author/)
+Perhaps you are looking for an outlet for your voice. I am currently seeking guest authors to write on a variety of topics. [Learn more about being a guest author here](/guest-author)
 
 ## Press trips
 
