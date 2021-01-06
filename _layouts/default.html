@@ -179,12 +179,14 @@ layout: compress
       });
     </script>
 
+    {% if page.layout == "blog-single" %}
     <!-- Disqus Count -->
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
       var disqus_config = function () {
         this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }];
       };
     </script>
+    {% endif %}
 
     <!-- Optional JavaScript -->
 
@@ -213,7 +215,7 @@ layout: compress
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}/search.json',
+        json: '{{ 'search.json' | absolute_url }}',
         searchResultTemplate: '<li class="list-group-item"><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
         limit: 5,
