@@ -109,7 +109,10 @@ layout: compress
                 <i class="fas fa-search"></i>
                 </a>
                 <div class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left p-2" aria-labelledby="search">
-                  {% include search.html %}
+                  <form class="my-2 my-lg-0">
+                    <input type="search" class="form-control mr-sm-2" id="search-input" placeholder="Search" aria-label="Search" autocomplete="off" >
+                    <ul class="list-group" id="results-container" style="z-index:9999; position:absolute;"></ul>
+                  </form>
                 </div>
               </li>
             </ul>
@@ -163,22 +166,6 @@ layout: compress
       </div>
     </div>
 
-    <!-- Modal popup controll -->
-    <script type="text/javascript"> 
-      $(document).ready(function () {
-        if (!sessionStorage.adModal) {
-          setTimeout(function () {
-            $("#admodal").find(".modal");
-            $("#admodal").modal({
-              backdrop: "static",
-              keyboard: false,
-            });
-          }, 30000);
-          sessionStorage.adModal = 1;
-        }
-      });
-    </script>
-
     {% if page.layout == "blog-single" %}
     <!-- Disqus Count -->
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
@@ -219,9 +206,25 @@ layout: compress
         searchResultTemplate: '<li class="list-group-item"><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
         limit: 5,
-        fuzzy: false,
+        fuzzy: true,
         exclude: ['Welcome']
-      })
+      });
+    </script>
+
+    <!-- Modal popup controll -->
+    <script type="text/javascript"> 
+      $(document).ready(function () {
+        if (!sessionStorage.adModal) {
+          setTimeout(function () {
+            $("#admodal").find(".modal");
+            $("#admodal").modal({
+              backdrop: "static",
+              keyboard: false,
+            });
+          }, 30000);
+          sessionStorage.adModal = 1;
+        }
+      });
     </script>
 
     {% if page.layout == "shop-single" or page.layout == "shop" %}
