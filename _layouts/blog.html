@@ -2,10 +2,11 @@
 layout: default
 ---
 
-{% include hero.html %}
+{% include hero.html %} 
 
 <!-- blog post -->
-<div class="py-lg-12 py-10">
+<div class="py-12">
+
   <div class="container">
     <!-- navbar scroll -->
     <div class="row d-flex align-items-center mb-5">
@@ -21,11 +22,6 @@ layout: default
           </ul>
         </div>
       </div>
-      <div class="col-md-4">
-
-        {% include search.html %}
-
-      </div>
     </div>
 
     {% if page.pagination_info.curr_page == paginator.first_page %}
@@ -34,7 +30,8 @@ layout: default
     <div class="row">
       <div class="col-lg-12 col-md-12 col-12 mb-8 d-none d-md-block">
         <div class="card text-white border-0">
-          {% cloudinary {{ post.image }} alt="{{ post.title }}" class="card-img-overlay text-white d-lg-flex flex-column justify-content-end py-md-6 px-md-8 p-2" %}
+          {% cloudinary {{ post.image }} alt="{{ post.title }}" class="card-img" %}
+
           <div class="card-img-overlay text-white d-lg-flex flex-column justify-content-end py-md-8 px-md-10 p-2">
             {% assign sortedCategories = post.categories | sort_natural %}
             {% for category in sortedCategories limit:1 %}
@@ -43,19 +40,18 @@ layout: default
             <h2 class="mb-3">
               <a href="{{ post.url | absolute_url }}" class="text-white">{{ post.title }}</a>
             </h2>
-
             <div class="font-14">
               <span class="mr-2">{{ post.date | date:"%B %e, %Y" }}</span>
               {% assign author = site.authors | where: 'short_name', page.author | first %}
-              <span>Posted by <a href="{{ author.url }}" class="text-white">{{ author.name }}</a></span>
+              <span>Posted by <a href="{{ author.url | absolute_url}}" class="text-white">{{ author.name }}</a></span>
             </div>
           </div>
+
         </div>
       </div>
     </div>
     {% endfor %}
     {% endif %}
-
     <div class="row">
 
       {% for post in paginator.posts %}
