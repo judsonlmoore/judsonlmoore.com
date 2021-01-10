@@ -131,3 +131,60 @@ layout: 			default
     </div>
   </div>
 </div>
+
+
+{% if page.schema.type == "book" %}
+<script type="application/ld+json">
+  {
+    "@context": "http://www.schema.org",
+    "@type": "Book",
+    {% assign author = site.authors | where: 'short_name', page.schema.author_short_name | first %}
+    "author": {{ author.url | absolute_url | jsonify }},
+    "bookFormat": {{ page.schema.bookFormat | jsonify }},
+    "datePublished": "{{ page.schema.datePublished | date_to_xmlschema }}",
+    "image": {{ page.schema.image | absolute_url | jsonify }},
+    "inLanguage": {{ page.schema.inLanguage | jsonify }},
+    "isbn": {{ page.schema.isbn | jsonify }},
+    "name": {{ page.schema.name | jsonify }},
+    "abstract": {{ page.schema.abstract | jsonify }}, 
+    "numberOfPages": {{ page.schema.numberOfPages | jsonify }},
+    "offers": {
+      "@type": "Offer",
+      "availability": {{ page.schema.availability | jsonify }},
+      "price": {{ page.schema.price | jsonify }},
+      "priceCurrency": {{ page.schema.priceCurrency | jsonify }}
+    },
+    "publisher": {{ page.schema.publisher | jsonify }},
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": {{ page.schema.ratingValue | jsonify }},
+      "reviewCount": {{ page.schema.reviewCount | jsonify }}
+    }
+
+    {% if page.reviews %}
+
+    ,"review": [
+
+        {% for review in page.reviews %}
+
+        {
+          "@type": "Review",
+          "author": {{ review.name | jsonify }},
+          "datePublished": "{{ review.date | date_to_xmlschema }}",
+          "name": {{ review.title | jsonify }},
+          "reviewBody": {{ review.description | jsonify }},
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{{ review.rating | jsonify }}"
+          }
+        }{% unless forloop.last %},{% endunless %}
+
+        {% endfor %}
+
+    ]
+
+    {% endif %}
+
+  }
+</script>
+{% endif %}
