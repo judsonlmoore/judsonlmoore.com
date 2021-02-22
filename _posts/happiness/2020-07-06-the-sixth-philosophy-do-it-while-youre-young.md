@@ -24,7 +24,7 @@ Given this, I hope you can see that putting in every effort to pursue your goals
 
 ## It's all about flexibility
 
-In another post called [Why Travel While Young](/why-travel-while-young/), I go into detail about how common phases of life impact one's ability to be flexible. Flexibility is critical in determining your destiny. 
+In another post called [Why Travel While Young](/why-travel-while-young), I go into detail about how common phases of life impact one's ability to be flexible. Flexibility is critical in determining your destiny. 
 
 Everyone has different life experiences, so it is impossible to depict some universal map of when people are flexible. However, using this cookie-cutter diagram of major life phases should give you a general sense of how your life's stages will impact your ability to be flexible: 
 
