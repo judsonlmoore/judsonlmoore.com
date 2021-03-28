@@ -1,0 +1,221 @@
+
+{% if page.date %}
+  {% assign og_type = "article" %}
+{% else %}
+  {% assign og_type = "website" %}
+{% endif %}
+
+{% if page.layout == "shop-single" %}
+  {% assign og_type = "product" %}
+{% endif %}
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://www.judsonlmoore.com/#person",
+        "name": "Judson L Moore",
+        "alternateName": "Judson L Moore",
+        "url": {{ '/' | absolute_url | jsonify }},
+        "nationality": "American",
+        "birthPlace": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressRegion": "Berlin",
+            "addressCountry": "Germany"
+          }
+        },
+        "alumniOf": [
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "Louisiana State Univeristy",
+            "sameAs": "https://www.lsu.edu/"
+          }
+        ],
+        "gender": "Male",
+        "Description": "Product manager, author, and travel adict",
+        "disambiguatingDescription": "Author of Exponential Happiness",
+        "jobTitle": "Senior Product Manager",
+        "worksFor": [
+          {
+            "@type": "Organization",
+            "name": "eBay",
+            "sameAs": ["https://twitter.com/ebay", "https://www.facebook.com/ebay/", "https://www.linkedin.com/company/ebay/mycompany/", "https://www.youtube.com/user/ebay"]
+          }
+        ],
+        "image": "https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Berlin",
+          "addressRegion": "Berlin",
+          "addressCountry": "Germany"
+        },
+        "sameAs": [
+          "https://twitter.com/judsonlmoore",
+          "https://instagram.com/judsonlmoore",
+          "https://www.facebook.com/judsonlmooreblog",
+          "https://www.linkedin.com/in/judsonlmoore/",
+          "https://www.youtube.com/judsonlmoore",
+          "https://github.com/judsonlmoore",
+          "https://www.pinterest.com/judsonlmoore/"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://www.judsonlmoore.com",
+        "name": "Judson L Moore",
+        "legalName": "Judson L Moore",
+        "url": "http://www.judsonlmoore.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.og_image | absolute_url }}"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Krossener Str 20",
+          "addressLocality": "Berlin",
+          "addressRegion": "Berlin",
+          "postalCode": "10245",
+          "addressCountry": "Germany"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "telephone": "[+1.310.571.5210]",
+          "email": "contact@judsonlmoore.com"
+        },
+        "sameAs": [
+          "https://twitter.com/judsonlmoore",
+          "https://instagram.com/judsonlmoore",
+          "https://www.facebook.com/judsonlmooreblog",
+          "https://www.linkedin.com/in/judsonlmoore/",
+          "https://www.youtube.com/judsonlmoore",
+          "https://github.com/judsonlmoore",
+          "https://www.pinterest.com/judsonlmoore/"
+        ]
+      }
+      {% if og_type == "article" %}
+      ,{
+        "@type": "Article",
+
+        "headline": {{ page.title | jsonify }},
+        {% if page.description %}
+        "alternativeHeadline": {{ page.description | jsonify }},
+        {% endif %}
+        "image": {
+          "@type": "ImageObject",
+          "url": "{{ page.image | default: site.og_image | absolute_url }}"
+        },
+
+        {% if page.author %}
+        {% assign author = site.authors | where: 'short_name', page.author | first %} 
+        "author": "{{ author.name }}",
+        {% endif %}
+
+        "editor": "Judson L Moore",
+        "keywords": "{% if page.categories %}{{ page.categories }}{% endif %} {% if page.tags %}{{ page.tags }}{% endif %}",
+        "wordcount": {{ page.content | number_of_words | jsonify }},
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://www.judsonlmoore.com/#organization",
+          "name": "Judson L Moore",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{ site.favicon | absolute_url }}"
+          }
+        },
+        "url": "{{ page.url }}",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "{{ page.canonical_url | absolute_url }}"
+        },
+        "datePublished": "{{ page.date | date_to_xmlschema }}",
+        "dateCreated": "{{ page.date | date_to_xmlschema }}",
+        "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+        "description": {{ page.description | jsonify }},
+        "inLanguage": "us-EN"
+      }
+      {% elsif og_type == "website" %}
+      ,{
+        "@type": "WebPage",
+        "name": "{{ site.title }}",
+        "description": {{ site.description | jsonify }},
+        "publisher": {
+          "@type": "ProfilePage",
+          "name": {{ site.title | jsonify }}
+        },
+        "inLanguage": "us-EN",
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "{{ page.image | default: site.og_image | absolute_url }}"
+        },
+        "url": "{{ canonical_url }}",
+        "author": {
+          "@id": "https://www.judsonlmoore.com/authors/judsonlmoore"
+        }
+      }
+      {% endif %}
+    ]
+  }
+</script>
+
+
+{% if page.schema.type == "book" %}
+<script type="application/ld+json">
+  {
+    "@context": "http://www.schema.org",
+    "@type": "Book",
+    {% assign author = site.authors | where: 'short_name', page.schema.author_short_name | first %}
+    "author": {{ author.url | absolute_url | jsonify }},
+    "bookFormat": {{ page.schema.bookFormat | jsonify }},
+    "datePublished": "{{ page.schema.datePublished | date_to_xmlschema }}",
+    "image": {{ page.schema.image | absolute_url | jsonify }},
+    "inLanguage": {{ page.schema.inLanguage | jsonify }},
+    "isbn": {{ page.schema.isbn | jsonify }},
+    "name": {{ page.schema.name | jsonify }},
+    "abstract": {{ page.schema.abstract | jsonify }}, 
+    "numberOfPages": {{ page.schema.numberOfPages | jsonify }},
+    "offers": {
+      "@type": "Offer",
+      "availability": {{ page.schema.availability | jsonify }},
+      "price": {{ page.schema.price | jsonify }},
+      "priceCurrency": {{ page.schema.priceCurrency | jsonify }}
+    },
+    "publisher": {{ page.schema.publisher | jsonify }},
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": {{ page.schema.ratingValue | jsonify }},
+      "reviewCount": {{ page.schema.reviewCount | jsonify }}
+    }
+
+    {% if page.reviews %}
+
+    ,"review": [
+
+        {% for review in page.reviews %}
+
+        {
+          "@type": "Review",
+          "author": {{ review.name | jsonify }},
+          "datePublished": "{{ review.date | date_to_xmlschema }}",
+          "name": {{ review.title | jsonify }},
+          "reviewBody": {{ review.description | jsonify }},
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{{ review.rating | jsonify }}"
+          }
+        }{% unless forloop.last %},{% endunless %}
+
+        {% endfor %}
+
+    ]
+
+    {% endif %}
+
+  }
+</script>
+{% endif %}
