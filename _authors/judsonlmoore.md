@@ -9,7 +9,7 @@ location: Berlin, Germany
 links: 
   - facebook: https://www.facebook.com/judsonlmooreblog
   - twitter: https://www.twitter.com/judsonlmoore
-  - instagram: https://www.instagram.com/judsonlmoore
+  - instagram: https://www.instagram.com/judsonlmoore/
   - pintrest: https://www.pinterest.com/judsonlmoore/
   - linkedin: https://www.linkedin.com/in/judsonlmoore/
   - youtube: https://www.youtube.com/judsonlmoore
