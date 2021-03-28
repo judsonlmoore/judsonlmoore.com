@@ -31,7 +31,7 @@
         <span>{{ post.duration }}</span>
         {% elsif post.author %}
         {% assign author = site.authors | where: 'short_name', post.author | first %}
-        <span>Posted by <a href="{{ author.url }}">{{ author.name }}</a></span>
+        <span>Posted by <a href="{{ author.url | absolute_url }}">{{ author.name }}</a></span>
         {% endif %}
       </div>
     </div>
