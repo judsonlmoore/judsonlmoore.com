@@ -1,0 +1,47 @@
+**User Story**
+_Provide a user story which describes the functionality added by this task. Learn how and why [here](https://www.mountaingoatsoftware.com/agile/user-stories) and [here](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)._
+
+**The user is:** Define the user in 1 sentence... (can be a persona, system, user type, etc...)
+
+**As a** ...
+**I want** ...
+**So that** ...
+
+----
+**Acceptance Criteria**
+_Provide acceptance criteria which serves as a definition of done. Learn how and why [here](https://medium.freecodecamp.org/the-acceptance-criteria-for-writing-acceptance-criteria-6eae9d497814)._
+
+**Given** ...
+**When** ...
+**Then** ...
+
+**Given** ...
+**When** ...
+**Then** ...
+
+**Given** ...
+**When** ...
+**Then** ...
+
+----
+**How Might This Feature Look?**
+_Include a mockup, wireframe, or sketch if it will help convey what this task is requesting._
+
+| Mobile | Desktop |
+| mobile-sketch.png | desktop-sketch.png |
+
+For more info: 
+- Design task: JJT-xxxxx
+- Abstract / Figma / Sketch / etc... project link: [https://app.goabstract.com](https://app.goabstract.com/) 
+
+----
+**Open questions**
+_Very importantly, document questions as they arise. [Learn why all open questions must be closed before the task can be ready for dev](https://www.judsonlmoore.com/ready-for-dev/)_
+
+- Lorem ipsum dolor sit amet **The response to the question**
+- Lorem ipsum dolor sit amet 
+- Lorem ipsum dolor sit amet **The response to the question**
+- Lorem ipsum dolor sit amet 
+
+----
+**FYI:** @mention _stakeholders, relevant team members, or anyone else who might be impacted by this task's outcomes_

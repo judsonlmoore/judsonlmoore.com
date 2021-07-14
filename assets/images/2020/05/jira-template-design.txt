@@ -1,0 +1,31 @@
+**Request**
+_Define the problem, not the solution. Designers are great at creative-thinking and providing options for solving problems._
+
+Problem to be solved: _What problem are we aiming to solve?_
+- A descriptive list is easier to read and understand than blocks of text
+- A descriptive list is easier to read and understand than blocks of text
+
+Is there anything else that needs to be known about this problem? Constraints? Risks?
+
+Do not hesitate to contact @productmanager or @someoneelse for clarity or to review the designs in-progress.
+
+----
+**Background**
+_Describe or link to any relevant information which informed the decision to create this task._
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sodales tellus a mollis. Donec et arcu vitae odio euismod facilisis.
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- JJT-xxxxx
+
+----
+**Deliverables**
+_What needs to be delivered upon completion of this task?_
+
+Please provide:
+- Screenshots at all breakpoints uploaded via a comment below
+- Link to the Abstract / Figma / Sketch / etc... project
+- Inform @productmanager and @teamlead when this task is complete
+
+----
+**FYI:** @mention _stakeholders, relevant team members, or anyone else who might be impacted by this task's outcomes_

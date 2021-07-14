@@ -1,0 +1,356 @@
+<!DOCTYPE html><html lang="en"><head> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-MLP7SZW');</script><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><title>How to organize the Jira backlog and Kanban board | Judson L Moore</title><meta name="generator" content="Jekyll v4.2.0" /><meta property="og:title" content="How to organize the Jira backlog and Kanban board" /><meta name="author" content="judsonlmoore" /><meta property="og:locale" content="en_US" /><meta name="description" content="This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters - delivering user value." /><meta property="og:description" content="This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters - delivering user value." /><link rel="canonical" href="https://www.judsonlmoore.com/jira-backlog-organization" /><meta property="og:url" content="https://www.judsonlmoore.com/jira-backlog-organization" /><meta property="og:site_name" content="Judson L Moore" /><meta property="og:image" content="https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-organization-featured-image.png" /><meta property="og:type" content="article" /><meta property="article:published_time" content="2020-05-15T00:00:00+00:00" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:image" content="https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-organization-featured-image.png" /><meta property="twitter:title" content="How to organize the Jira backlog and Kanban board" /><meta name="twitter:site" content="@judsonlmoore" /><meta name="twitter:creator" content="@judsonlmoore" /><meta property="fb:admins" content="judsonlmoore" /><meta property="article:publisher" content="https://www.facebook.com/JudsonLMooreBlog/" /><meta property="fb:app_id" content="990949061035215" /><meta name="google-site-verification" content="3MN-XApFrgWYSpGop2aNPX3eHkQtKupxl-OltwME23o" /><meta name="msvalidate.01" content="1571295b1311496094a646cca481014e" /><meta name="yandex-verification" content="df106ee154e1faa4" /> <script type="application/ld+json"> {"datePublished":"2020-05-15T00:00:00+00:00","description":"This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters - delivering user value.","author":{"@type":"Person","name":"judsonlmoore"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.judsonlmoore.com/jira-backlog-organization"},"@type":"BlogPosting","url":"https://www.judsonlmoore.com/jira-backlog-organization","image":"https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-organization-featured-image.png","headline":"How to organize the Jira backlog and Kanban board","dateModified":"2020-05-15T00:00:00+00:00","@context":"https://schema.org"}</script><link rel="stylesheet" href="https://www.judsonlmoore.com/assets/libs/ion-rangeslider/css/ion.rangeSlider.min.css"><link rel="stylesheet" href="https://www.judsonlmoore.com/assets/css/theme.min.css"><link rel="icon" href="https://www.judsonlmoore.com/assets/images/favicon.png" /><body class=" layout-blog-single "> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLP7SZW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div class="header fixed-top border-top-3 border-top border-primary "><div class="container-lg"><nav class="navbar navbar-expand-lg navbar-default"> <a class="navbar-brand" href="https://www.judsonlmoore.com"><h1 class="font-weight-bolder d-block text-white h4 m-0">Judson L Moore</h1>
+<p class="font-weight-light h6 text-white m-0">Author and Travel Addict</p></a> <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation"> <span class="icon-bar top-bar mt-0"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button><div class="collapse navbar-collapse" id="navbar-default"> <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation"> <i class="fas fa-times"></i> </button><ul class="navbar-nav ml-auto mr-lg-3">
+<li class="nav-item dropdown"> <a class="nav-link d-lg-none" href="#"> Menu </a>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Lifestyle </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-1">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/happiness/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-smile font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Happiness</h5>
+<span class="font-12 text-muted"> Achieve your goals </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/lifestyle/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-birthday-cake font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">WhileYoung</h5>
+<span class="font-12 text-muted"> Start today </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Career </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-2">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/product-management/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-tasks font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Product Management</h5>
+<span class="font-12 text-muted"> Deliver user value </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/high-tech-resume-tips"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-file-word font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Resume writing</h5>
+<span class="font-12 text-muted"> Present your best self </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/readinglist"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-book-reader font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Reading list</h5>
+<span class="font-12 text-muted"> Learn everyday </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/international-fellowship-programs"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-users font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Fellowships</h5>
+<span class="font-12 text-muted"> Grow professionally </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/peacecorps/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-dove font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Peace Corps</h5>
+<span class="font-12 text-muted"> The toughest job </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Travel </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-3">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/travel-guides/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-route font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Travel Guides</h5>
+<span class="font-12 text-muted"> The world is your oyster </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/female-travel/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-venus font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Female Travel</h5>
+<span class="font-12 text-muted"> By and for women </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/travel-insurance"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-user-shield font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Travel insurance</h5>
+<span class="font-12 text-muted"> Plan for the worst </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Blog </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-4">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/blog/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-th font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">All articles</h5>
+<span class="font-12 text-muted"> The full monty </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/rotary/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-cog font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Rotary</h5>
+<span class="font-12 text-muted"> Service above self </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/college/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-university font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">College</h5>
+<span class="font-12 text-muted"> Published papers </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/travel-guides/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-route font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Travel tips</h5>
+<span class="font-12 text-muted"> The world is your oyster </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> About </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-5">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/about"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-info font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">About Judson</h5>
+<span class="font-12 text-muted"> Personal background </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/resume"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-file font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">My Resume</h5>
+<span class="font-12 text-muted"> Professional background </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/contact"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-address-card font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Contact</h5>
+<span class="font-12 text-muted"> Get in touch </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/subscribe"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-envelope font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Subscribe</h5>
+<span class="font-12 text-muted"> Stay updated </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="search" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fas fa-search"></i> </a><div class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left p-2" aria-labelledby="search"> <form class="my-2 my-lg-0"> <input type="search" class="form-control mr-sm-2" id="search-input" placeholder="Search" aria-label="Search" autocomplete="off"><ul class="list-group" id="results-container" style="z-index:9999; position:absolute;"></ul>
+</form>
+</div>
+</li>
+</ul>
+<div class="header-btn"> <a href="https://www.judsonlmoore.com/book" class="btn btn-primary btn-sm">Get my book <i class="fas fa-book"></i></a>
+</div>
+</div></nav></div></div><div class="bg-shape bg-cover bg-dark" style=" background-image: linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url( https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-organization-featured-image.png ); background-size: cover; background-position: center; "><div class="container"><div class="row"><div class="offset-lg-2 col-lg-8 col-md-12 col-12"><div class="py-13 pt-lg-16 pb-lg-14 text-center text-light"> <a href="https://www.judsonlmoore.com/category/career/" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold">career</a><h2 class="mb-3 display-4 text-white"> How to organize the Jira backlog and Kanban board</h2>
+<p class="lead mb-4"> This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters - delivering user value.</p>
+<div class="font-14 text-light"> <span class="px-2"><time class="post-date" datetime="May 15, 2020">May 15, 2020</time></span> <span class="mr-2">Posted by <a href="https://www.judsonlmoore.com/authors/judsonlmoore">Judson L Moore</a></span>
+</div>
+</div></div></div></div></div><div class="py-lg-12 py-10"><div class="container"><div class="row"><div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-sm-12 col-12">
+<div class="mb-4">
+<p>One of my career goals is to work at Atlassian one day because I want to learn how the people who built the Jira project management software use it themselves. I’ve used Jira in a variety of team environments and often get the feeling that it isn’t used correctly, or at the minimum, it isn’t being used very efficiently. Of course, probably the only entity capable of knowing how the software can best be used for a team is by that team itself.</p>
+<p>How a team works with Jira is dependent on how Jira is set up and what practices of organizing tasks the team incorporates into their general way of working.</p>
+<p>In this article, I will provide examples of how I set up the Jira backlog and Kanban board, their workflows, and general best practices for using Jira to organize the work of cross-functional software delivery teams.</p>
+<p>This article uses examples and screenshots from an example Jira project populated with a task structure explained in this article with <a href="/jira-task-templates">Jira task templates</a>. If you’ve not yet read that article, you might find it worthwhile to read that first and then return to this article.</p>
+<p>You can access the example Jira project by using these credentials:</p>
+<p><strong>login:</strong> <a href="https://judsonlmoore.atlassian.net/browse/JTT-3" target="_blank" rel="noopener noreferrer">https://judsonlmoore.atlassian.net/</a><br> <strong>user:</strong> <code class="language-plaintext highlighter-rouge">Jira-templates@judsonlmoore.com</code><br> <strong>password:</strong> <code class="language-plaintext highlighter-rouge">Iamthe1Passwordforthisuser!</code></p>
+<p>You don’t need to log in to that project to follow along with these articles, but should you be interested in taking a self-exploratory deeper dive into how the example Jira project is set up, then be my guest.</p>
+<p>If you have any questions that I don’t answer here, please leave me a comment at the end of this article, and I will respond to you ASAP.</p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/05/jira-project-classic-templates.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/05/jira-project-classic-templates.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/05/jira-project-classic-templates.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_930/https://www.judsonlmoore.com/assets/images/2020/05/jira-project-classic-templates.png 930w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" caption="" alt="Jira default classic project templates" loading="lazy" width="1872" height="653" crossorigin="anonymous"></p>
+<h2 id="jira-anatomy">Jira anatomy</h2>
+<p>Jira is a very sophisticated and highly-customizable project management software. I’ve used Jira as part of teams with focuses ranging from content writing to product marketing, and of course, product management and software delivery.</p>
+<p>The first thing Jira will ask you when you spin up a new project is to select a project template. The options are:</p>
+<ul>
+<li>
+<strong>Kanban</strong> - Suits teams who control work volume from a backlog.</li>
+<li>
+<strong>Scrum</strong> - For teams that deliver work on a regular schedule.</li>
+<li>
+<strong>Bug tracking</strong> - Great for teams who don’t need a board.</li>
+</ul>
+<p>For this article, I chose the Kanban setup.</p>
+<p>From a delivery team perspective, there are two basic screens within this Jira set up that are critical for organizing a team’s work: the backlog and the Kanban board. When setting up properly, and with the systematic use of labels, hierarchy, versions, and task linking, it is easy to drill down on to the topics where the team should focus.</p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-example.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-example.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-example.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_930/https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-example.png 930w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" alt="An example backlog in Jira with epics, stories, and subtasks" loading="lazy" width="3496" height="2190" crossorigin="anonymous"></p>
+<h2 id="backlog">Backlog</h2>
+<p>The backlog view of Jira is the Product Manager’s playground. From this view, tasks can quickly be filtered by version and epic, as well as any number of other label-based custom filters.</p>
+<p>In addition to seeing the story tasks within the epics, you will also see the story’s sub-tasks nested in the backlog. Clicking on any of these tasks reveals the task content in the right-most panel.</p>
+<p>Before a refinement meeting, the tasks can be moved up or down in the backlog to shift their priority. This means team members can have a look at the backlog any time and see what work is coming their way and already start to think about the challenges the task presents and what questions they have about the requirements.</p>
+<p>Then during a refinement, simply start at the top of the backlog and work your way down until you run out of time (I think it is safe to assume you won’t run out of stories before you run out of time!)</p>
+<p>Moving a story into Ready for Dev will move all of that story’s sub-tasks with it. Sub-tasks can also be moved into Ready for Dev independent of the story, which might make sense for any discovery or UX tasks that need to be done before the story’s requirements can be fully fleshed out.</p>
+<p>Some argue that a story’s sub-tasks should not be moved into Ready for Dev before the story itself is ready. That is a fair argument to make, but again this comes down to the way the team likes to work, and in my experience, it is useful for UX tasks to live within the story for contextual and documentation purposes. As UX tasks get done before the story can be adequately refined, this means they often progress down the Kanban board before the story is Ready for Dev.</p>
+<p>From a task-linking perspective, it is easier to have all tasks related to a story living within that story, rather than having additional stories which only cover the UX scope.</p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/05/jira-ready-for-dev-example.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/05/jira-ready-for-dev-example.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/05/jira-ready-for-dev-example.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_930/https://www.judsonlmoore.com/assets/images/2020/05/jira-ready-for-dev-example.png 930w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" caption="" alt="An example backlog in Jira with epics, stories, and subtasks being shown as ready for dev" loading="lazy" width="3584" height="2278" crossorigin="anonymous"></p>
+<h2 id="ready-for-dev">Ready for Dev</h2>
+<p>Jira allows for some customization of the backlog screen. I find that it is useful to have both backlogged tasks as well as the Ready for Dev tasks in this singular view because Ready for Dev tasks have not started to be worked on yet.</p>
+<p>By presenting these tasks in one view, it is easy to see how much work is “ready,” so that you can determine when a refinement meeting has generated enough work that the refinement can be ended early (or skipped), so as not to waste the team’s valuable time.</p>
+<p>What are the requirements for a task to be considered Ready for Dev? As I write about in <a href="/ready-for-dev/">this article</a>, a sensible definition of “ready” is when the team has had an opportunity to ask questions about a task and all of those questions have been responded to.</p>
+<p>It may or may not be possible to respond to all questions during a single refinement meeting, which is why it is useful to provide the team with backlog tasks in advance so that they can come prepared with questions or so that you can already investigate potential responses.</p>
+<p>A team can get stuck when there are not many tasks that are Ready for Dev, and there are still too many open questions in the backlog, preventing tasks to advance in to “ready.” Maintaining this balance is a key responsibility of the product manager, but it takes input from the whole team to overcome it.</p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-example.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-example.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-example.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_930/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-example.png 930w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" caption="" alt="An example Jira Kanban board with columns and swimlanes" loading="lazy" width="3584" height="2278" crossorigin="anonymous"></p>
+<h2 id="kanban-board">Kanban board</h2>
+<p>The Kanban board provides an overview of all tasks that are in some state of progress. As a product manager, I rarely look at the Kanban board except for the PO Review column (more on that later), but it is a very informative screen.</p>
+<p>Pictured above is the Kanban board from the example Jira project mentioned at the beginning of this article. You can see all of the board’s columns and a few of the swimlanes representing tasks with specific labels. The tasks shown here represent various states of done.</p>
+<p>As you can see, those tasks associated with Story 1 are further to the right than those associated with Story 2. Design and backend tasks have also progressed more than web tasks. There is also a web improvement task that is not associated with a story.</p>
+<p>Using the Kanban board, the product manager, and any team member or stakeholder can quickly see what parts of delivery are done and which are coming soon.</p>
+<p>Now let’s take a look at how the columns and swimlanes are set up.</p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-column-settings.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-column-settings.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-column-settings.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_930/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-column-settings.png 930w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" alt="Column management settings in a Jira Kanban project" loading="lazy" width="2444" height="534" crossorigin="anonymous"></p>
+<h3 id="columns">Columns</h3>
+<p>Kanban board columns represent the various states of progress in which a task can be. Depending on your team’s ways of working, you should consider adding and removing columns here. For example, in the past, I had the luxury of a dedicated QA engineer on the team and so one column was <strong>In QA</strong>. I advise that you find a balance of columns representing thoroughness, but don’t overdo it, or you risk it becoming too difficult to look at the board.</p>
+<p>Here is a brief explanation of the columns from this example Jira project and how they are defined.</p>
+<p><em>Note: the first column contains the states which appear on the backlog screen.</em></p>
+<ul>
+<li>
+<strong>Ready for Dev</strong> - the task is refined, and every question has a response</li>
+<li>
+<strong>In progress</strong> - the task has been picked up by a member of the delivery team and they are working on it</li>
+<li>
+<strong>Ready for review</strong> - the task is ready for a technical code review. If a problem is found, the task returns to “in progress.”</li>
+<li>
+<strong>PO review</strong> - the task has passed code review, and now the PO confirms that the outcome is what was expected. If a problem is found, the task returns to “in progress.”</li>
+<li>
+<strong>Done</strong> - the PO determines that the requirements are fulfilled, and the task is done</li>
+</ul>
+<p>Conveniently, when all of the sub-tasks of a story are “done,” Jira will automatically ask you if you want to set the story to “done” as well. For this reason, stories typically move from “in progress” to “done” in one step.</p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-swimlane-settings.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-swimlane-settings.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-swimlane-settings.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_930/https://www.judsonlmoore.com/assets/images/2020/05/jira-kanban-board-swimlane-settings.png 930w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" alt="Swimlane settings in a Jira Kanban project" loading="lazy" width="2320" height="932" crossorigin="anonymous"></p>
+<h3 id="swimlanes">Swimlanes</h3>
+<p>Swimlanes can be populated with tickets matching any criteria you determine via a JQL query. This gives lots of flexibility to define any value of a task to determine which swimlane it should be in.</p>
+<p>In the example I share in the screenshot above, you can see the JQL parameters that I have used in the example Jira project. For cross-functional teams, I recommend a swimlane for each delivery function. I also pull out a dedicated swimlane for bugs and put that right on top, as bugs should have a very high priority.</p>
+<p>Here is a breakdown of the swimlanes in this example Jira project.</p>
+<ul>
+<li>
+<strong>Bugs</strong> - For the highest visibility, bug issue types go first.</li>
+<li>
+<strong>Labels</strong> - Corresponds to the labels that are defined inside the tasks. Convenient for organizing delivery functions. These will include improvement tasks as well.</li>
+<li>
+<strong>+ Everything else</strong> - This is a required swimlane and the home for all tasks that aren’t anywhere else. In this example, stories would be here.</li>
+</ul>
+<p>A common mistake is that after your initial board setup, your team will adopt a new label that does not get reflected here. Be sure to keep your swimlane settings up to date with your team’s ways of working.</p>
+<h2 id="final-thoughts">Final thoughts</h2>
+<p>I hope that these organizing principals offered you some concrete takeaways you can apply in your team’s way of working. Please leave me a comment below to let me know which parts you found most useful, and if any parts of this don’t make any sense to you. Do you have a different approach to organizing Jira? I’d love to learn about it!</p>
+<p>Please share the <a href="/jira-task-templates">Jira task templates</a> with your team if you think they might be of value. You can read more <a href="/product-management/">product management articles here</a> as well.</p>
+</div>
+<div class="mb-4"> <a href="https://www.judsonlmoore.com/tag/product-management/" class="badge badge-secondary">product management</a> <a href="https://www.judsonlmoore.com/tag/jira/" class="badge badge-secondary">jira</a>
+</div>
+<div class="mb-4"><div class="rounded bg-light border-light p-5">
+<div class="d-flex align-items-center mb-3"> <img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_70/https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png 70w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_70/https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png 70w" sizes="100vw" class="img-fluid avatar-xl rounded-circle mr-3" alt="Image of Judson L Moore" loading="lazy" width="364" height="364" crossorigin="anonymous"><div>
+<h5 class="mb-0">Judson L Moore</h5>
+<small>Author</small>
+</div>
+</div>
+<p> Travel addict. Ambitious about making the world a better place. Writing what I learn along the way.</p>
+<a href="/authors/judsonlmoore" class="btn-link">View All Post</a>
+</div></div>
+<div class="mb-4" id="disqus_thread"><div class="card bg-transparent">
+<div class="card-header bg-transparent p-4"><h4 class="mb-0 h5"> <span>0 Comments</span>
+</h4></div>
+<div class="card-body p-4"><div class="d-flex">
+<div class="disqus"></div>
+<script type="text/javascript"> $.disqusLoader(".disqus", { scriptUrl: "//username.disqus.com/embed.js" }); /* disqusLoader.js v1.0 A JavaScript plugin for lazy-loading Disqus comments widget. - By Osvaldas Valutis, www.osvaldas.info Available for use under the MIT License */ (function ($, window, document, undefined) { "use strict"; var $win = $(window), throttle = function (a, b) { var c, d; return function () { var e = this, f = arguments, g = +new Date(); c && g < c + a ? (clearTimeout(d), (d = setTimeout(function () { (c = g), b.apply(e, f); }, a))) : ((c = g), b.apply(e, f)); }; }, throttleTO = false, laziness = false, disqusConfig = false, scriptUrl = false, scriptStatus = "unloaded", $instance = $(), init = function () { if (!$instance.length || $instance.data("disqusLoaderStatus") == "loaded") return true; var winST = $win.scrollTop(); // if the element is too far below || too far above if ($instance.offset().top - winST > $win.height() * laziness || winST - $instance.offset().top - $instance.outerHeight() - $win.height() * laziness > 0) return true; $("#disqus_thread").removeAttr("id"); $instance.attr("id", "disqus_thread").data("disqusLoaderStatus", "loaded"); if (scriptStatus == "loaded") { DISQUS.reset({ reload: true, config: disqusConfig }); } // unloaded | loading else { window.disqus_config = disqusConfig; if (scriptStatus == "unloaded") { scriptStatus = "loading"; $.ajax({ url: scriptUrl, async: true, cache: true, dataType: "script", success: function () { scriptStatus = "loaded"; }, }); } } }; $win.on("scroll resize", throttle(throttleTO, init)); $.disqusLoader = function (element, options) { options = $.extend( {}, { laziness: 1, throttle: 250, scriptUrl: false, disqusConfig: false, }, options ); laziness = options.laziness + 1; throttleTO = options.throttle; disqusConfig = options.disqusConfig; scriptUrl = scriptUrl === false ? options.scriptUrl : scriptUrl; // set it only once $instance = (typeof element == "string" ? $(element) : element).eq(0); $instance.data("disqusLoaderStatus", "unloaded"); init(); }; })(jQuery, window, document); </script><section class="disqus"><div id="disqus_thread"></div>
+<script type="text/javascript"> var disqus_shortname = "judsonlmoore"; var disqus_developer = 0; (function () { var dsq = document.createElement("script"); dsq.type = "text/javascript"; dsq.async = true; dsq.src = window.location.protocol + "//" + disqus_shortname + ".disqus.com/embed.js"; (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" target="_blank" rel="noopener noreferrer">comments powered by Disqus.</a>
+</noscript> <a href="https://disqus.com" class="dsq-brlink" target="_blank" rel="noopener noreferrer">comments powered by <span class="logo-disqus">Disqus</span></a></section>
+</div></div>
+</div></div>
+</div></div></div></div><div class="footer pt-11 pb-3 bg-dark text-base"><div class="container"><div class="row">
+<div class="col-lg-2 col-md-4 col-6"><div class="mb-4">
+<h4 class="mb-4 text-white">About</h4>
+<ul class="list-unstyled list-group">
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/about" class="list-group-item-link">About me</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/book" class="list-group-item-link">My book</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/resume" class="list-group-item-link">Resume</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/readinglist" class="list-group-item-link">Reading list</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/guest-author" class="list-group-item-link">Authors</a></li>
+</ul>
+</div></div>
+<div class="col-lg-2 col-md-4 col-6"><div class="mb-4">
+<h4 class="mb-4 text-white">Blog</h4>
+<ul class="list-unstyled list-group">
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/happiness/" class="list-group-item-link">Happiness</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/lifestyle/" class="list-group-item-link">Lifestyle</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/brazil-travel-guide/" class="list-group-item-link">Brazil</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/colombia-travel-guide/" class="list-group-item-link">Colombia</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/india-travel-guide/" class="list-group-item-link">India</a></li>
+</ul>
+</div></div>
+<div class="col-lg-2 col-md-4 col-6"><div class="mb-4">
+<h4 class="mb-4 text-white">Resources</h4>
+<ul class="list-unstyled list-group">
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/contact" class="list-group-item-link">Contact</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/subscribe" class="list-group-item-link">Subscribe</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/mediakit" class="list-group-item-link">Media kit</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/guest-author" class="list-group-item-link">For guest authors</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/travel-insurance" class="list-group-item-link">Travel insurance</a></li>
+</ul>
+</div></div>
+<div class="col-lg-2 col-md-4 col-6"><div class="mb-4">
+<h4 class="mb-4 text-white">Follow Me</h4>
+<ul class="list-unstyled list-group">
+<li class="list-group-item"><a href="https://www.facebook.com/JudsonLMooreBlog" class="list-group-item-link" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+<li class="list-group-item"><a href="https://www.twitter.com/judsonlmoore" class="list-group-item-link" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+<li class="list-group-item"><a href="https://www.instagram.com/judsonlmoore/" class="list-group-item-link" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+<li class="list-group-item"><a href="https://www.youtube.com/judsonlmoore" class="list-group-item-link" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+<li class="list-group-item"><a href="https://www.linkedin.com/in/judsonlmoore" class="list-group-item-link" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+</ul>
+</div></div>
+<div class="col-lg-4 col-md-8 col-12"><div class="mb-4">
+<h4 class="mb-4 text-white">Subscribe to our newsletter</h4>
+<div>
+<p>Subscribe to get notified daily new motivational &amp; inspiration tips.</p>
+<form action="https://judsonlmoore.us2.list-manage.com/subscribepost?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe" method="post" class="form-row mb-4" rel="noopener" novalidate>
+<div class="form-group mb-0 col-9"> <label for="email" class="sr-only"></label> <input type="email" name="email" class="form-control border-0 bg-light" id="email" aria-describedby="emailHelp" placeholder="Enter Email Address" autocomplete="on" required="">
+</div>
+<div class="col-3"> <button type="submit" value="Subscribe" name="subscribe" class="btn btn-primary"> Submit </button>
+</div>
+</form>
+</div>
+</div></div>
+<div class="col-md-12"><div class="mt-8"><ul class="list-inline">
+<li class="list-inline-item">© 2021 Judson L Moore</li>
+<li class="list-inline-item"><a href="https://www.judsonlmoore.com/terms" class="text-reset">Terms of Service</a></li>
+<li class="list-inline-item"><a href="https://www.judsonlmoore.com/privacy" class="text-reset">Privacy Policy</a></li>
+<li class="list-inline-item"><a href="https://www.judsonlmoore.com/sitemap.xml" class="text-reset">Sitemap</a></li>
+</ul></div></div>
+</div></div></div><script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" async> var disqus_config = function () { this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }]; }; </script> <script src="https://www.judsonlmoore.com/assets/libs/jquery/dist/jquery.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/jquery-slimscroll/jquery.slimscroll.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/prismjs/prism.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/leaflet/dist/leaflet.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/moment/min/moment.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/lightpick/lightpick.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/ion-rangeslider/js/ion.rangeSlider.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/inputmask/dist/jquery.inputmask.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/lightbox/js/lightbox.min.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script> <script src="https://www.judsonlmoore.com/assets/js/theme.min.js"></script> <script src="https://www.judsonlmoore.com/assets/js/simple-jekyll-search.min.js"></script> <script> window.simpleJekyllSearch = new SimpleJekyllSearch({ searchInput: document.getElementById('search-input'), resultsContainer: document.getElementById('results-container'), json: 'https://www.judsonlmoore.com/search.json', searchResultTemplate: '<li class="list-group-item"><a href="{url}?query={query}" title="{desc}">{title}</a>', noResultsText: 'No results found', limit: 5, fuzzy: true, exclude: ['Welcome'] }); </script> <script type="text/javascript"> $(document).ready(function () { if (!sessionStorage.adModal) { setTimeout(function () { $("#admodal").find(".modal"); $("#admodal").modal({ backdrop: "static", keyboard: false, }); }, 30000); sessionStorage.adModal = 1; } }); </script> <script type="application/ld+json"> { "@context": "https://schema.org", "@graph": [ { "@type": "Person", "@id": "https://www.judsonlmoore.com/#person", "name": "Judson L Moore", "alternateName": "Judson L Moore", "url": "https://www.judsonlmoore.com/", "nationality": "American", "birthPlace": { "@type": "Place", "address": { "@type": "PostalAddress", "addressLocality": "Berlin", "addressRegion": "Berlin", "addressCountry": "Germany" } }, "alumniOf": [ { "@type": "CollegeOrUniversity", "name": "Louisiana State Univeristy", "sameAs": "https://www.lsu.edu/" } ], "gender": "Male", "Description": "Product manager, author, and travel adict", "disambiguatingDescription": "Author of Exponential Happiness", "jobTitle": "Senior Product Manager", "worksFor": [ { "@type": "Organization", "name": "eBay", "sameAs": ["https://twitter.com/ebay", "https://www.facebook.com/ebay/", "https://www.linkedin.com/company/ebay/mycompany/", "https://www.youtube.com/user/ebay"] } ], "image": "https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png", "address": { "@type": "PostalAddress", "addressLocality": "Berlin", "addressRegion": "Berlin", "addressCountry": "Germany" }, "sameAs": [ "https://twitter.com/judsonlmoore", "https://instagram.com/judsonlmoore", "https://www.facebook.com/judsonlmooreblog", "https://www.linkedin.com/in/judsonlmoore/", "https://www.youtube.com/judsonlmoore", "https://github.com/judsonlmoore", "https://www.pinterest.com/judsonlmoore/" ] }, { "@type": "Organization", "@id": "https://www.judsonlmoore.com", "name": "Judson L Moore", "legalName": "Judson L Moore", "url": "http://www.judsonlmoore.com", "logo": { "@type": "ImageObject", "url": "https://www.judsonlmoore.com/assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg" }, "address": { "@type": "PostalAddress", "streetAddress": "Krossener Str 20", "addressLocality": "Berlin", "addressRegion": "Berlin", "postalCode": "10245", "addressCountry": "Germany" }, "contactPoint": { "@type": "ContactPoint", "contactType": "customer support", "telephone": "[+1.310.571.5210]", "email": "contact@judsonlmoore.com" }, "sameAs": [ "https://twitter.com/judsonlmoore", "https://instagram.com/judsonlmoore", "https://www.facebook.com/judsonlmooreblog", "https://www.linkedin.com/in/judsonlmoore/", "https://www.youtube.com/judsonlmoore", "https://github.com/judsonlmoore", "https://www.pinterest.com/judsonlmoore/" ] } ,{ "@type": "Article", "headline": "How to organize the Jira backlog and Kanban board", "alternativeHeadline": "This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters - delivering user value.", "image": { "@type": "ImageObject", "url": "https://www.judsonlmoore.com/assets/images/2020/05/jira-backlog-organization-featured-image.png" }, "author": "Judson L Moore", "editor": "Judson L Moore", "keywords": "career product managementjira", "wordcount": 1961, "publisher": { "@type": "Organization", "@id": "https://www.judsonlmoore.com/#organization", "name": "Judson L Moore", "logo": { "@type": "ImageObject", "url": "https://www.judsonlmoore.com/assets/images/favicon.png" } }, "url": "/jira-backlog-organization", "mainEntityOfPage": { "@type": "WebPage", "@id": "" }, "datePublished": "2020-05-15T00:00:00+00:00", "dateCreated": "2020-05-15T00:00:00+00:00", "dateModified": "2020-05-15T00:00:00+00:00", "description": "This methodology takes the stress out of organizing your Jira backlog and Kanban board so that you can focus on what matters - delivering user value.", "inLanguage": "us-EN" } ] } </script>

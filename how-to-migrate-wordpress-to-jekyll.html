@@ -1,0 +1,464 @@
+<!DOCTYPE html><html lang="en"><head> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-MLP7SZW');</script><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><title>How to migrate from Wordpress to Jekyll with CircleCI and AWS | Judson L Moore</title><meta name="generator" content="Jekyll v4.2.0" /><meta property="og:title" content="How to migrate from Wordpress to Jekyll with CircleCI and AWS" /><meta name="author" content="judsonlmoore" /><meta property="og:locale" content="en_US" /><meta name="description" content="I decreased my page load time by 400% while learning about the static site generator, Jekyll" /><meta property="og:description" content="I decreased my page load time by 400% while learning about the static site generator, Jekyll" /><link rel="canonical" href="https://www.judsonlmoore.com/how-to-migrate-wordpress-to-jekyll" /><meta property="og:url" content="https://www.judsonlmoore.com/how-to-migrate-wordpress-to-jekyll" /><meta property="og:site_name" content="Judson L Moore" /><meta property="og:image" content="https://www.judsonlmoore.com/assets/images/2020/01/wordpress-vs-jekyll.png" /><meta property="og:type" content="article" /><meta property="article:published_time" content="2020-01-15T00:00:00+00:00" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:image" content="https://www.judsonlmoore.com/assets/images/2020/01/wordpress-vs-jekyll.png" /><meta property="twitter:title" content="How to migrate from Wordpress to Jekyll with CircleCI and AWS" /><meta name="twitter:site" content="@judsonlmoore" /><meta name="twitter:creator" content="@judsonlmoore" /><meta property="fb:admins" content="judsonlmoore" /><meta property="article:publisher" content="https://www.facebook.com/JudsonLMooreBlog/" /><meta property="fb:app_id" content="990949061035215" /><meta name="google-site-verification" content="3MN-XApFrgWYSpGop2aNPX3eHkQtKupxl-OltwME23o" /><meta name="msvalidate.01" content="1571295b1311496094a646cca481014e" /><meta name="yandex-verification" content="df106ee154e1faa4" /> <script type="application/ld+json"> {"datePublished":"2020-01-15T00:00:00+00:00","description":"I decreased my page load time by 400% while learning about the static site generator, Jekyll","author":{"@type":"Person","name":"judsonlmoore"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.judsonlmoore.com/how-to-migrate-wordpress-to-jekyll"},"@type":"BlogPosting","url":"https://www.judsonlmoore.com/how-to-migrate-wordpress-to-jekyll","image":"https://www.judsonlmoore.com/assets/images/2020/01/wordpress-vs-jekyll.png","headline":"How to migrate from Wordpress to Jekyll with CircleCI and AWS","dateModified":"2020-01-15T00:00:00+00:00","@context":"https://schema.org"}</script><link rel="stylesheet" href="https://www.judsonlmoore.com/assets/libs/ion-rangeslider/css/ion.rangeSlider.min.css"><link rel="stylesheet" href="https://www.judsonlmoore.com/assets/css/theme.min.css"><link rel="icon" href="https://www.judsonlmoore.com/assets/images/favicon.png" /><body class=" layout-blog-single "> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLP7SZW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div class="header fixed-top border-top-3 border-top border-primary "><div class="container-lg"><nav class="navbar navbar-expand-lg navbar-default"> <a class="navbar-brand" href="https://www.judsonlmoore.com"><h1 class="font-weight-bolder d-block text-white h4 m-0">Judson L Moore</h1>
+<p class="font-weight-light h6 text-white m-0">Author and Travel Addict</p></a> <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation"> <span class="icon-bar top-bar mt-0"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button><div class="collapse navbar-collapse" id="navbar-default"> <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation"> <i class="fas fa-times"></i> </button><ul class="navbar-nav ml-auto mr-lg-3">
+<li class="nav-item dropdown"> <a class="nav-link d-lg-none" href="#"> Menu </a>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Lifestyle </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-1">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/happiness/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-smile font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Happiness</h5>
+<span class="font-12 text-muted"> Achieve your goals </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/lifestyle/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-birthday-cake font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">WhileYoung</h5>
+<span class="font-12 text-muted"> Start today </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Career </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-2">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/product-management/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-tasks font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Product Management</h5>
+<span class="font-12 text-muted"> Deliver user value </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/high-tech-resume-tips"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-file-word font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Resume writing</h5>
+<span class="font-12 text-muted"> Present your best self </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/readinglist"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-book-reader font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Reading list</h5>
+<span class="font-12 text-muted"> Learn everyday </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/international-fellowship-programs"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-users font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Fellowships</h5>
+<span class="font-12 text-muted"> Grow professionally </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/peacecorps/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-dove font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Peace Corps</h5>
+<span class="font-12 text-muted"> The toughest job </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Travel </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-3">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/travel-guides/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-route font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Travel Guides</h5>
+<span class="font-12 text-muted"> The world is your oyster </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/female-travel/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-venus font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Female Travel</h5>
+<span class="font-12 text-muted"> By and for women </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/travel-insurance"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-user-shield font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Travel insurance</h5>
+<span class="font-12 text-muted"> Plan for the worst </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Blog </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-4">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/blog/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-th font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">All articles</h5>
+<span class="font-12 text-muted"> The full monty </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/rotary/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-cog font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Rotary</h5>
+<span class="font-12 text-muted"> Service above self </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/college/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-university font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">College</h5>
+<span class="font-12 text-muted"> Published papers </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/travel-guides/"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-route font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Travel tips</h5>
+<span class="font-12 text-muted"> The world is your oyster </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="menu-5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> About </a><ul class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left" aria-labelledby="menu-5">
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/about"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="fas fa-info font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">About Judson</h5>
+<span class="font-12 text-muted"> Personal background </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/resume"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-file font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">My Resume</h5>
+<span class="font-12 text-muted"> Professional background </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/contact"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-address-card font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Contact</h5>
+<span class="font-12 text-muted"> Get in touch </span>
+</div>
+</div></a>
+</li>
+<li> <a class="dropdown-item" href="https://www.judsonlmoore.com/subscribe"><div class="d-flex align-items-center">
+<div class="mr-3 icon-shape icon-lg rounded-circle bg-light"> <i class="far fa-envelope font-24"></i>
+</div>
+<div>
+<h5 class="mb-0">Subscribe</h5>
+<span class="font-12 text-muted"> Stay updated </span>
+</div>
+</div></a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="" id="search" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fas fa-search"></i> </a><div class="dropdown-menu dropdown-menu-arrow dropdown-menu-right dropdown-menu-xl-left p-2" aria-labelledby="search"> <form class="my-2 my-lg-0"> <input type="search" class="form-control mr-sm-2" id="search-input" placeholder="Search" aria-label="Search" autocomplete="off"><ul class="list-group" id="results-container" style="z-index:9999; position:absolute;"></ul>
+</form>
+</div>
+</li>
+</ul>
+<div class="header-btn"> <a href="https://www.judsonlmoore.com/book" class="btn btn-primary btn-sm">Get my book <i class="fas fa-book"></i></a>
+</div>
+</div></nav></div></div><div class="bg-shape bg-cover bg-dark" style=" background-image: linear-gradient(180deg, rgba(30, 24, 53, 0.4) 0%, rgba(30, 24, 53, 0.4) 90.16%), url( https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1800/https://www.judsonlmoore.com/assets/images/2020/01/wordpress-vs-jekyll.png ); background-size: cover; background-position: center; "><div class="container"><div class="row"><div class="offset-lg-2 col-lg-8 col-md-12 col-12"><div class="py-13 pt-lg-16 pb-lg-14 text-center text-light"> <a href="https://www.judsonlmoore.com/category/career/" class="text-info mb-3 font-14 d-inline-block font-weight-semi-bold">career</a><h2 class="mb-3 display-4 text-white"> How to migrate from Wordpress to Jekyll with CircleCI and AWS</h2>
+<p class="lead mb-4"> I decreased my page load time by 400% while learning about the static site generator, Jekyll</p>
+<div class="font-14 text-light"> <span class="px-2"><time class="post-date" datetime="January 15, 2020">January 15, 2020</time></span> <span class="mr-2">Posted by <a href="https://www.judsonlmoore.com/authors/judsonlmoore">Judson L Moore</a></span>
+</div>
+</div></div></div></div></div><div class="py-lg-12 py-10"><div class="container"><div class="row"><div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-sm-12 col-12">
+<div class="mb-4">
+<p>By migrating my blog from Wordpress to Jekyll, I decreased my page load time from 7.5 seconds to .380ms. Furthermore, I learned a lot of useful web development technical skills in the process. The steps outlined here are somewhat involved, but if you have an interest in seeing this through to the end and are willing to read several how-to guides for the various steps, then migrating from Wordpress to Jekyll is something anyone can do.</p>
+<p><a href="https://github.com/judsonlmoore/judsonlmoore.com" target="_blank" rel="noopener noreferrer">Find the source code on this GitHub repository</a></p>
+<h2 id="why-i-wanted-to-migrate-my-blog-from-wordpress-to-jekyll">Why I wanted to migrate my blog from Wordpress to Jekyll</h2>
+<p>My daytime profession is as a software product manager. This means that I am sitting <em>web engineer adjacent</em> but don’t <em>need</em> any technical skills myself to do my job. However, working on personal web development projects is a fantastic way to gain a greater understanding, appreciation, and empathy for the work that my team does every day.</p>
+<p>I’ve been interested in web development and technical tinkering for as long as I can remember. Up until a few years ago, when I started working in the tech sector professionally, I was pretty much on my own in figuring out how websites were made. For many years, I managed various projects with Wordpress and obsessed over numerous optimizations via plugins and coding custom themes.</p>
+<p>A few years ago, I decided I wanted to increase my knowledge about the tool that “real” software engineers use. I started with Amazon’s AWS Web Service. “The Cloud” is all anyone talks about for enterprise website hosting, and I felt that with AWS, I could increase my website’s performance while learning something new.</p>
+<p>I migrated my Wordpress instances from a shared hosting provider to <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noopener noreferrer">AWS EC2 cloud-based servers</a>. Then I learned how to offload my media and other assets to <a href="https://aws.amazon.com/s3/" target="_blank" rel="noopener noreferrer">S3 buckets</a> so that they could be distributed by <a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noopener noreferrer">Cloudfront</a>. The user benefit of this was clear: faster page load by parallelizing the download of assets across multiple sub-domains.</p>
+<p>While tinkering with AWS, I learned about the following topics:</p>
+<ul>
+<li>Network load balancing</li>
+<li>Lambda functions</li>
+<li>Route 53 DNS</li>
+<li>User management with IAM</li>
+<li>Migrated from SQL to MariaDB and hosted on RDS</li>
+<li>Amazon Virtual Private Cloud (Amazon VPC)</li>
+<li>Network access control list (ACLs)</li>
+<li>Security Groups</li>
+</ul>
+<p>A big thank you to <a href="https://www.youtube.com/channel/UCeHkyJsi_1MLh5ScR98Mvzw" target="_blank" rel="noopener noreferrer">MartyAWS and his YouTube channel</a> for consulting with me and helping me figure a lot of this out! Be sure to check out his channel and subscribe for updates if you’re interested in learning about AWS-related topics.</p>
+<p>For offloading media from Wordpress to S3 buckets, I used the <a href="https://deliciousbrains.com/wp-offload-media/" target="_blank" rel="noopener noreferrer">WP Offload Media Plugin</a> by Delicious Brains. The plugin worked well and was easy to implement, but it was quite expensive to renew the license each year, so it felt less and less sustainable over time.</p>
+<p>All of this was great fun, and I learned a lot while tinkering with the AWS universe, but it just gave me a taste of what AWS was capable of.</p>
+<p><em>I thirsted for more.</em></p>
+<p>This initial project of migrating my Wordpress hosting to AWS brought me in to close contact with many other services that intrigued me. Moreover, as I was reading about this new realm, I encountered many recommendations for other solutions to speed up my website, which had not yet occurred to me.</p>
+<p>One of the suggestions was that I shouldn’t use Wordpress at all, but rather build my website using a static site generator. At first, I failed to grasp what was being suggested, and it sounded a bit <em>too</em> technical, but as I learned more, the benefits became clear.</p>
+<p>There are many static site generators out there, but <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> seemed to be the best fit for my needs and skill level. Among other benefits, Jekyll works seamlessly with <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">Github Pages</a> as a free hosting provider, which I am not using on this website (as you’ll see below) but do use for other projects.</p>
+<p>Other popular static site generators you might like to look in to include <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>, <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">Gatsby</a>, and <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">Next</a>. If you choose to use one of those, then most of the rest of this post might not apply to you, or at least not the code snippets.</p>
+<p>After the idea of using a static site generator had some time to gestate, I couldn’t resist the urge to see if I could figure out how to migrate my blog from Wordpress to Jekyll. It took quite some doing, and I had to ask for help a few times, but looking back, this was rather quite easy (if not very involved with lots of steps) and most of all, I found that migrating my blog from Wordpress to Jekyll was lots of fun!</p>
+<p>In the remainder of this post, I will outline the steps I took to migrate from Wordpress to Jekyll.</p>
+<h2 id="benefits-from-migrating-from-wordpress-to-jekyll">Benefits from migrating from Wordpress to Jekyll</h2>
+<p>As mentioned above, I had a primary goal of learning a new set of technical skills. Beyond that, I was further hoping to achieve the following benefits:</p>
+<p><strong>8 benefits to migrating from Wordpress to Jekyll</strong></p>
+<ol>
+<li>Increase security</li>
+<li>Increase ease of writing content</li>
+<li>Increase Google search ranking</li>
+<li>Increase SEMrush site health check status</li>
+<li>Decrease website load time</li>
+<li>Decrease dependencies</li>
+<li>Decrease technical complexity</li>
+<li>Decrease hosting costs</li>
+</ol>
+<p>Your own goals might be different than mine, but you will still achieve each of these benefits should you choose to migrate your website from Wordpress to Jekyll.</p>
+<p><strong>What goals do you have for migrating Wordpress to Jekyll? I’d love to hear them in the comments below.</strong></p>
+<h2 id="tools-used-for-migrating-from-wordpress-to-jekyll">Tools used for migrating from Wordpress to Jekyll</h2>
+<p>To migrate my Wordpress-based website to a static site generator, I needed to learn about several resources. I’ll go through how I used each of these, but first, here is a list of the tools required. Note that all of these are free to use, though a few require you to create an account.</p>
+<ul>
+<li><a href="https://wordpress.org/support/article/tools-export-screen/" target="_blank" rel="noopener noreferrer">Wordpress’s export tool</a></li>
+<li><a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a></li>
+<li><a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">Bootstrap</a></li>
+<li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+<li><a href="https://circleci.com/" target="_blank" rel="noopener noreferrer">CircleCI</a></li>
+<li><a href="https://aws.amazon.com/s3/" target="_blank" rel="noopener noreferrer">AWS S3</a></li>
+<li><a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noopener noreferrer">AWS Cloudfront</a></li>
+<li><a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">Cloudinary</a></li>
+</ul>
+<p>You will also need a good text editor with syntax highlighting for code. I use <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">Sublime Text Editor</a> for Mac OS because it is free and has a lot of functionality without feeling complex.</p>
+<h2 id="wordpress-site-performance-benchmark">Wordpress site performance benchmark</h2>
+<p>Before I began the migration, I ran a few tests on the existing Wordpress installation to establish a benchmark to measure if my efforts were helping me achieve my goals.</p>
+<p>My tool of preference is the <a href="https://tools.pingdom.com/" target="_blank" rel="noopener noreferrer">Pingdom Website Speed Test</a>, and the screenshots in this post all come from this service’s Washington D.C. server. Other services you may want to consider are <a href="https://gtmetrix.com/" target="_blank" rel="noopener noreferrer">GTMetrix</a> and <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" rel="noopener noreferrer">Google’s PageSpeed Insights</a>.</p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-on-wp.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-on-wp.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-on-wp.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_723/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-on-wp.png 723w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Wordpress" loading="lazy" width="723" height="230" crossorigin="anonymous"></p>
+<p>As you can see, on Wordpress, my website was 2.0MB, making 90 requests, and loading in 7.67 seconds. The 2.0MB is not so terrible, but to load in more than 2 seconds is like asking Google to rank you on the last page of search results. Thus all those image optimizations and offloading of assets to S3 buckets weren’t helping me much.</p>
+<p>In particular, the page load speed of 7.67 seconds is what I was most eager to impact. Now, let’s get on to the steps for getting that down to under half a second.</p>
+<h2 id="5-steps-to-migrate-from-wordpress-to-jekyll">5 steps to migrate from Wordpress to Jekyll</h2>
+<p>Here are the steps I took to migrate from Wordpress to Jekyll:</p>
+<ol>
+<li><a href="#step-1">Step 1: Export content from Wordpress</a></li>
+<li><a href="#step-2">Step 2: Convert content to markdown and Jekyll file structure</a></li>
+<li><a href="#step-3">Step 3: Rewrite file paths and clean up clutter</a></li>
+<li><a href="#step-4">Step 4: Deploy to hosting</a></li>
+<li><a href="#step-5">Step 5: Optimize</a></li>
+</ol>
+<p>You will almost certainly have questions about this process, so I want to remind you that Google is your friend. If you get stuck at any point, search Google for the tool or step described below to find a wealth of information. That is how I learned everything here. <strong>I also invite you to write a comment at the end of this post</strong> seeking help, and I will do my best to point you in the right direction and to update this post for the benefit of other readers.</p>
+<h3 id="step-1-export-content-from-wordpress">
+<a name="step-1"></a>Step 1: Export content from Wordpress</h3>
+<p>This is a two-part task. First, we will export your site data. Second, we will grab all of your media.</p>
+<h4 id="option-1-export-using-a-wordpress-plugin">Option 1: Export using a Wordpress plugin</h4>
+<p>The easy but less-reliable way is to use the <a href="https://wordpress.org/plugins/jekyll-exporter/" target="_blank" rel="noopener noreferrer">Jekyll Exporter Plugin for Wordpress</a>. I say this is less reliable because, as of this writing, that plugin has not been updated for over a year. Still, it is worth a try. Just check the export results.</p>
+<p>The benefit is that your site data should be exported already in the Jekyll file structure and markdown. That will save you some additional steps later.</p>
+<p>If you encounter errors, then you will need to run the export and file conversion manually.</p>
+<h4 id="option-2-export-manually">Option 2: Export manually</h4>
+<p>To export your site data manually, use the <a href="https://en.support.wordpress.com/export/" target="_blank" rel="noopener noreferrer">native Wordpress Export feature</a> to export your site’s entire content to a .xml file.</p>
+<ol>
+<li>Open your Wordpress admin dashboard</li>
+<li>Click <strong>Tools &gt; Export</strong> from the left sidebar</li>
+<li>Choose <strong>All content</strong>
+</li>
+<li>Click <strong>Download export file</strong>
+</li>
+</ol>
+<p>You will now download a .xml file (more than one on larger sites) with all of your site data. This file will contain your posts, pages, custom post types, comments, custom fields, categories, tags, custom taxonomies, and users.</p>
+<h4 id="exporting-media">Exporting media</h4>
+<p>You will note that your media files are not included in this export. The reason is that Wordpress intends this export to be used for migrating your site to another Wordpress installation. The Wordpress import tool would then migrate media files on the backend to your new Wordpress site, but that doesn’t help you migrate from Wordpress to Jekyll.</p>
+<p>Now we just have to grab your media files.</p>
+<p>You might be able to use a plugin for smaller sites like the <a href="https://wordpress.org/plugins/export-media-library/" target="_blank" rel="noopener noreferrer">Export media Library Plugin</a>, but for me, I just downloaded everything via FTP.</p>
+<ol>
+<li>FTP in to your server</li>
+<li>Navigate to the /wp-content/uploads/</li>
+<li>Download all of the /uploads/<code class="language-plaintext highlighter-rouge">####</code>/ folders</li>
+</ol>
+<p>That’s it! Now you have all of your Wordpress data saved locally. Now comes the real fun.</p>
+<h3 id="step-2-convert-content-to-markdown-and-jekyll-file-structure">
+<a name="step-2"></a>Step 2: Convert content to markdown and Jekyll file structure</h3>
+<p>If <strong>option 1</strong> from the last step worked for you, then you can probably skip this step. Otherwise, you must still convert your Wordpress export file into the Jekyll folder structure and file formats.</p>
+<p>To do this, use the <a href="https://github.com/thomasf/exitwp" target="_blank" rel="noopener noreferrer">exitwp</a> tool. Follow the instructions on that page. You will need:</p>
+<ul>
+<li><a href="https://github.com/join" target="_blank" rel="noopener noreferrer">A GitHub account</a></li>
+<li><a href="https://desktop.github.com/" target="_blank" rel="noopener noreferrer">The GitHub desktop client</a></li>
+<li>Commandline access on your computer (use Terminal on Mac)</li>
+</ul>
+<p>After you follow the steps of wpexit, you will have the Jekyll folder structure and file formats you need. The only thing you need to do now is to move those folders and files into your Jekyll site’s root folder.</p>
+<p>If you’ve not yet actually set up Jekyll on your local computer, then you will need to do that now. Follow the instructions on <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">jekyllrb.com</a>.</p>
+<h3 id="step-3-rewrite-file-paths-and-cleanup-clutter">
+<a name="step-3"></a>Step 3: Rewrite file paths and cleanup clutter</h3>
+<p>Now comes the rather involved part. The Wordpress export probably brought over many things you don’t need in the form of code and extra media files.</p>
+<h4 id="cleaning-the-code">Cleaning the code</h4>
+<p>Depending on the theme you were using, there might be code you need to get rid of now.</p>
+<p>In my case, I was using the DIVI theme. Most of my posts were ok, but the pages were full of code looking like <code class="language-plaintext highlighter-rouge">[et_pb_section bb_built="1"]</code>. I found that I just needed to go through page by page and delete this stuff.</p>
+<p>I had dozens of pages and was fearful this would be very tedious, but I quickly discovered patterns in the code and moved fairly quickly. You can also do some search/replace on all your pages and post files to bulk-remove many things.</p>
+<p>You will want to review every file for proper formatting and just clean up some things like margins, links, and file paths to your media files.</p>
+<p>As you do this, you will also discover URLs to local files and pages. It is good to add the <code class="language-plaintext highlighter-rouge">https://www.judsonlmoore.com</code> Liquid object to the front of the path so that all these URL references will be full URLs instead of relative URLs. Google prefers crawling it like this, and you need the Liquid object so that when you are in the development environment, the URLs point to the localhost instead of your live domain.</p>
+<h4 id="cleaning-the-media-files">Cleaning the media files</h4>
+<p>If you were using one of the many popular Wordpress plugins for auto-cropping and sizing your images, then you will see many image files replicated for these sizes when you export all of your media folders. They should be named something like:</p>
+<ul>
+<li>image.jpg &lt;– the original image</li>
+<li>image-50x50.jpg</li>
+<li>image-250x250.jpg</li>
+<li>image-500x500.jpg</li>
+</ul>
+<p>You now only need the original image file, which means you can delete all of the images with the size suffix in the file name. When I did this, I saved 5GB of space.</p>
+<p>Now be sure to run some search/replace on all of your Jekyll files to remove any reference to the non-original image file. Regex works well for this. Try something like:</p>
+<p>Find: <code class="language-plaintext highlighter-rouge">-.*.x.*\.jpg</code><br> Replace: <code class="language-plaintext highlighter-rouge">.jpg</code></p>
+<p>Test that on one file first where you can make sure the find query is correct, and then you can run it across all posts and pages.</p>
+<h3 id="step-4-deploy-to-hosting">
+<a name="step-4"></a>Step 4: Deploy to hosting</h3>
+<p>There are many options for where to host your new Jekyll website. You can host the generated files on any server or file hosting service you prefer, but two options seem to be the preferred hosting solutions for Jekyll static pages.</p>
+<h4 id="option-1-github-pages">Option 1: Github Pages</h4>
+<p>The best hosting option for simple static sites generated by Jekyll is <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">Github Pages</a>. Github Pages is explicitly designed with Jekyll in mind.</p>
+<p>Github Pages is free, very fast, and very easy to setup. However, Github Pages does have some limitations. For example, only a minimal number of Jekyll plugins and themes are supported. Therefore, if you are using many plugins on your Jekyll site, then Github Pages will not be an option for you.</p>
+<p>If you decide to try out Github pages, I encourage you to check out <a href="https://jmcglone.com/guides/github-pages/" target="_blank" rel="noopener noreferrer">this step-by-step guide by Jonathan McGlone</a> for a tutorial on how to get that up and running.</p>
+<p>Since I am using a few unsupported plugins, I needed to find another option.</p>
+<h4 id="option-2-amazon-web-services">Option 2: Amazon Web Services</h4>
+<p>As part of my motivation for migrating from Wordpress to Jekyll, I was able to expand my knowledge and use of enterprise engineering tools and best practices, I opted to make things a bit more complicated for myself.</p>
+<p>Therefore, I am using Github only for version control via my website project’s repository, then hosting the compiled files on an AWS S3 bucket and then distributing the website using an AWS Cloudfront CDN.</p>
+<p>A code compiler is required to get all of those resources to work together. I am using a continuous integration and delivery platform called <a href="https://circleci.com/" target="_blank" rel="noopener noreferrer">CircleCI</a> to get the job done. This makes my development pipeline look like:</p>
+<p><strong>My machine</strong> &gt; <strong>Github</strong> &gt; <strong>CircleCI</strong> &gt; <strong>S3</strong> &gt; <strong>Cloudfront</strong> &gt; <strong>You</strong></p>
+<p>Jekyll’s official documentation has <a href="https://jekyllrb.com/docs/continuous-integration/circleci/" target="_blank" rel="noopener noreferrer">a great tutorial</a> for how to set this up.</p>
+<p>Here is a performance test screenshot once I got all page content and media assets hosted on AWS before I started conducting any optimizations. The page size has increased by 600%, while the load time has decreased to 1/5 the speed of Wordpress. This is awesome! Just imagine what will happen after we get into some optimizations.</p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-with-jekyll.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-with-jekyll.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-with-jekyll.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_723/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-with-jekyll.png 723w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll" loading="lazy" width="723" height="230" crossorigin="anonymous"></p>
+<h3 id="step-5-optimize">
+<a name="step-5"></a>Step 5: Optimize</h3>
+<p>Now that the structure is all set up and the site is being hosted, we can dig into the exciting part: optimization. This is where we will start to see the significant improvements in site performance.</p>
+<h4 id="bootstrap-sass">Bootstrap Sass</h4>
+<p>At the top of this post, I mentioned that one of the tools I use is <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">Bootstrap</a>. This is about the theming, so if you choose to use a non-bootstrap theme, this part isn’t relevant to you. I had first thought about using one of the well-supported Jekyll themes like <a href="https://github.com/jekyll/minima" target="_blank" rel="noopener noreferrer">Minima</a>, but in the end, I opted to code from scratch, and I chose Bootstrap as my front-end component library.</p>
+<p>To that end, I recommend reading <a href="5%20Steps%20To%20Add%20Bootstrap%204%20To%20Jekyll%20The%20Right%20Way">5 Steps To Add Bootstrap 4 To Jekyll The Right Way</a>. This tutorial is the best one I found for using Bootstrap with Jekyll properly. Note that this tutorial assumes you’ve not yet set up a Jekyll site, so if you follow their instructions, you can also migrate your /posts, /pages, and /assets folders over to here and then rewrite your GitHub repository with this new setup.</p>
+<h4 id="minimize">Minimize</h4>
+<p>I am using <a href="https://jch.penibelst.de/" target="_blank" rel="noopener noreferrer">this layout by Anatol Broder</a> to compress all of my HTML files. It is straightforward to set up and avoids the use of plugins, which is preferable.</p>
+<p>Your site will be using a few .js libraries. If they are not minified, then the easiest thing to do is to look at the documentation for those libraries for the URL or file to reference, which is minified by default. Typically this is the same file path as the non-minified version but with <code class="language-plaintext highlighter-rouge">.min.js</code> at the end of the file. For example, if your code references <code class="language-plaintext highlighter-rouge">jquery.js</code>, then the minified version of the file is probably <code class="language-plaintext highlighter-rouge">jquery.min.js</code>.</p>
+<p>For CSS output, it took me ages to figure out how simple it is to minimize the output of your SCSS file when it compiles to CSS. To minimize the CSS output by Bootstrap, simply add this to your <code class="language-plaintext highlighter-rouge">config.yml</code> file:</p>
+<p><code class="language-plaintext highlighter-rouge">sass:</code><br> <code class="language-plaintext highlighter-rouge">style: compressed</code></p>
+<p>Also, note that in the <code class="language-plaintext highlighter-rouge">assets/main.scss</code> file, there are several optional Bootstrap references. If any of these parts of Bootstrap are not relevant to you, simply remove that line, and that code will be excluded from your final CSS file.</p>
+<h4 id="cloudinary">Cloudinary</h4>
+<p>The optimization I am most excited about is the image optimizations. I want to have perfectly-optimized, smartly cropped, and <code class="language-plaintext highlighter-rouge">srcset</code>-responsive image files so that no matter what device users are on, they get the right image size.</p>
+<p>To accomplish this, I used the <a href="https://github.com/nhoizey/jekyll-cloudinary" target="_blank" rel="noopener noreferrer">Jekyll Cloudinary Liquid tag plugin</a>. The plugin is simple to use, and once you follow their setup instructions, all you need to do to render an optimized image delivered from the Cloudinary service in your content is to use a Liquid object.</p>
+<p>This will be another good time to use the Regex search/replace skills you developed previously to go through and convert all of your existing image code in HTML or Markdown to this Liquid object.</p>
+<p>Don’t forget to look outside of your post content for images. Images appear in all sorts of places, like your sidebar, postbox.html, logo, and other includes. The only image I didn’t figure out how to get served from Cloudinary is my favicon, but I also think that is rather unnecessary since it is a small image that you can optimize yourself and which does not need to be served in responsive sizes.</p>
+<p>So let’s check-in again at how we are progressing in our optimizations. Now that Cloudinary is running, the page size is similar to what I had on Wordpress but reduced by 1/6 of what I had on Jekyll before I added Cloudinary. As for the page load speed, I am lightning fast coming in at .426 ms! <strong>This is 18x faster than on Wordpress!</strong></p>
+<p><img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_290/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png 290w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_610/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png 610w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_930/https://www.judsonlmoore.com/assets/images/2020/01/judsonlmoore-blog-with-jekyll-optimized.png 930w" sizes="100vw" class="img-fluid rounded mb-2 mt-3 w-100" alt="Pingdom Website Speed Test of JudsonLMoore.com while hosted on AWS with Jekyll after optimizations" loading="lazy" width="1793" height="582" crossorigin="anonymous"></p>
+<h2 id="http-security-headers">HTTP Security Headers</h2>
+<p>Pingdom and other site auditing tools are giving me negative scores for not having HTTP Security Headers, but until now, I’ve still not figured out how best to address this for a static site. It’s easier on a server, but for static pages, you need another service to add these headers.</p>
+<p>AWS offers some documentation for <a href="https://aws.amazon.com/blogs/networking-and-content-delivery/adding-http-security-headers-using-lambdaedge-and-amazon-cloudfront/" target="_blank" rel="noopener noreferrer">Adding HTTP Security Headers Using Lambda@Edge and Amazon CloudFront</a>, but as much as I tinkered with that, I didn’t find a favorable outcome.</p>
+<p><strong>If you know how to add HTTP Security Headers to static files, please write a comment at the end of this post. Thanks!</strong></p>
+<h2 id="other-considerations">Other considerations</h2>
+<p>Wordpress comes with an amazing universe of plugins to support various site functionality. To get similar functionality to my new Jekyll site, I needed to find some suitable replacements. Here is a list of a few other services I incorporated to get the final functionality I was looking for:</p>
+<ul>
+<li>
+<a href="https://formspree.io/" target="_blank" rel="noopener noreferrer">Formspree</a> - Contact form</li>
+<li>
+<a href="https://mailchimp.com/" target="_blank" rel="noopener noreferrer">Mailchimp</a> - Mailing list signup form</li>
+<li>
+<a href="https://www.pixlee.com/" target="_blank" rel="noopener noreferrer">Pixlee</a> - Instagram feed</li>
+<li>
+<a href="https://lokeshdhakar.com/projects/lightbox2/" target="_blank" rel="noopener noreferrer">Lightbox</a> - Image modals</li>
+<li>
+<a href="https://jekyllcodex.org/without-plugins/" target="_blank" rel="noopener noreferrer">Jekyll Codex</a> - A library of ways to avoid plugins while still delivering more complex functionality</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>As you can see, there is quite a lot to migrate an established website from one form to another. The switch from Wordpress to Jekyll was a lot of work, but the payoff in terms of performance is enormous. As for my goals to learn some new skills, the effort was well worth the time required. Now that the migration project is over, my next challenge is to return to writing valuable content for my readers. This is the first post on the new setup, and writing this in markdown has indeed proven to reduce the friction of writing in the Wordpress editor. So far: no regrets!</p>
+<p>Are you thinking about migrating from Wordpress to Jekyll? Have you done it before? I welcome you to ask questions, provide feedback, or share your experiences in the comments below.</p>
+</div>
+<div class="mb-4"> <a href="https://www.judsonlmoore.com/tag/product-management/" class="badge badge-secondary">product management</a> <a href="https://www.judsonlmoore.com/tag/web-development/" class="badge badge-secondary">web development</a> <a href="https://www.judsonlmoore.com/tag/jekyll/" class="badge badge-secondary">jekyll</a>
+</div>
+<div class="mb-4"><div class="rounded bg-light border-light p-5">
+<div class="d-flex align-items-center mb-3"> <img src="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_1200/https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png" srcset="https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_70/https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png 70w, https://res.cloudinary.com/judsonlmoore-com/image/fetch/c_fill,g_auto,f_auto,q_auto,w_70/https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png 70w" sizes="100vw" class="img-fluid avatar-xl rounded-circle mr-3" alt="Image of Judson L Moore" loading="lazy" width="364" height="364" crossorigin="anonymous"><div>
+<h5 class="mb-0">Judson L Moore</h5>
+<small>Author</small>
+</div>
+</div>
+<p> Travel addict. Ambitious about making the world a better place. Writing what I learn along the way.</p>
+<a href="/authors/judsonlmoore" class="btn-link">View All Post</a>
+</div></div>
+<div class="mb-4" id="disqus_thread"><div class="card bg-transparent">
+<div class="card-header bg-transparent p-4"><h4 class="mb-0 h5"> <span>0 Comments</span>
+</h4></div>
+<div class="card-body p-4"><div class="d-flex">
+<div class="disqus"></div>
+<script type="text/javascript"> $.disqusLoader(".disqus", { scriptUrl: "//username.disqus.com/embed.js" }); /* disqusLoader.js v1.0 A JavaScript plugin for lazy-loading Disqus comments widget. - By Osvaldas Valutis, www.osvaldas.info Available for use under the MIT License */ (function ($, window, document, undefined) { "use strict"; var $win = $(window), throttle = function (a, b) { var c, d; return function () { var e = this, f = arguments, g = +new Date(); c && g < c + a ? (clearTimeout(d), (d = setTimeout(function () { (c = g), b.apply(e, f); }, a))) : ((c = g), b.apply(e, f)); }; }, throttleTO = false, laziness = false, disqusConfig = false, scriptUrl = false, scriptStatus = "unloaded", $instance = $(), init = function () { if (!$instance.length || $instance.data("disqusLoaderStatus") == "loaded") return true; var winST = $win.scrollTop(); // if the element is too far below || too far above if ($instance.offset().top - winST > $win.height() * laziness || winST - $instance.offset().top - $instance.outerHeight() - $win.height() * laziness > 0) return true; $("#disqus_thread").removeAttr("id"); $instance.attr("id", "disqus_thread").data("disqusLoaderStatus", "loaded"); if (scriptStatus == "loaded") { DISQUS.reset({ reload: true, config: disqusConfig }); } // unloaded | loading else { window.disqus_config = disqusConfig; if (scriptStatus == "unloaded") { scriptStatus = "loading"; $.ajax({ url: scriptUrl, async: true, cache: true, dataType: "script", success: function () { scriptStatus = "loaded"; }, }); } } }; $win.on("scroll resize", throttle(throttleTO, init)); $.disqusLoader = function (element, options) { options = $.extend( {}, { laziness: 1, throttle: 250, scriptUrl: false, disqusConfig: false, }, options ); laziness = options.laziness + 1; throttleTO = options.throttle; disqusConfig = options.disqusConfig; scriptUrl = scriptUrl === false ? options.scriptUrl : scriptUrl; // set it only once $instance = (typeof element == "string" ? $(element) : element).eq(0); $instance.data("disqusLoaderStatus", "unloaded"); init(); }; })(jQuery, window, document); </script><section class="disqus"><div id="disqus_thread"></div>
+<script type="text/javascript"> var disqus_shortname = "judsonlmoore"; var disqus_developer = 0; (function () { var dsq = document.createElement("script"); dsq.type = "text/javascript"; dsq.async = true; dsq.src = window.location.protocol + "//" + disqus_shortname + ".disqus.com/embed.js"; (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" target="_blank" rel="noopener noreferrer">comments powered by Disqus.</a>
+</noscript> <a href="https://disqus.com" class="dsq-brlink" target="_blank" rel="noopener noreferrer">comments powered by <span class="logo-disqus">Disqus</span></a></section>
+</div></div>
+</div></div>
+</div></div></div></div><div class="footer pt-11 pb-3 bg-dark text-base"><div class="container"><div class="row">
+<div class="col-lg-2 col-md-4 col-6"><div class="mb-4">
+<h4 class="mb-4 text-white">About</h4>
+<ul class="list-unstyled list-group">
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/about" class="list-group-item-link">About me</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/book" class="list-group-item-link">My book</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/resume" class="list-group-item-link">Resume</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/readinglist" class="list-group-item-link">Reading list</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/guest-author" class="list-group-item-link">Authors</a></li>
+</ul>
+</div></div>
+<div class="col-lg-2 col-md-4 col-6"><div class="mb-4">
+<h4 class="mb-4 text-white">Blog</h4>
+<ul class="list-unstyled list-group">
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/happiness/" class="list-group-item-link">Happiness</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/lifestyle/" class="list-group-item-link">Lifestyle</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/brazil-travel-guide/" class="list-group-item-link">Brazil</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/colombia-travel-guide/" class="list-group-item-link">Colombia</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/india-travel-guide/" class="list-group-item-link">India</a></li>
+</ul>
+</div></div>
+<div class="col-lg-2 col-md-4 col-6"><div class="mb-4">
+<h4 class="mb-4 text-white">Resources</h4>
+<ul class="list-unstyled list-group">
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/contact" class="list-group-item-link">Contact</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/subscribe" class="list-group-item-link">Subscribe</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/mediakit" class="list-group-item-link">Media kit</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/guest-author" class="list-group-item-link">For guest authors</a></li>
+<li class="list-group-item"><a href="https://www.judsonlmoore.com/travel-insurance" class="list-group-item-link">Travel insurance</a></li>
+</ul>
+</div></div>
+<div class="col-lg-2 col-md-4 col-6"><div class="mb-4">
+<h4 class="mb-4 text-white">Follow Me</h4>
+<ul class="list-unstyled list-group">
+<li class="list-group-item"><a href="https://www.facebook.com/JudsonLMooreBlog" class="list-group-item-link" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+<li class="list-group-item"><a href="https://www.twitter.com/judsonlmoore" class="list-group-item-link" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+<li class="list-group-item"><a href="https://www.instagram.com/judsonlmoore/" class="list-group-item-link" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+<li class="list-group-item"><a href="https://www.youtube.com/judsonlmoore" class="list-group-item-link" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+<li class="list-group-item"><a href="https://www.linkedin.com/in/judsonlmoore" class="list-group-item-link" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+</ul>
+</div></div>
+<div class="col-lg-4 col-md-8 col-12"><div class="mb-4">
+<h4 class="mb-4 text-white">Subscribe to our newsletter</h4>
+<div>
+<p>Subscribe to get notified daily new motivational &amp; inspiration tips.</p>
+<form action="https://judsonlmoore.us2.list-manage.com/subscribepost?u=fcb5f983e8f1c7cb022f4353b&amp;id=2d85dca5fe" method="post" class="form-row mb-4" rel="noopener" novalidate>
+<div class="form-group mb-0 col-9"> <label for="email" class="sr-only"></label> <input type="email" name="email" class="form-control border-0 bg-light" id="email" aria-describedby="emailHelp" placeholder="Enter Email Address" autocomplete="on" required="">
+</div>
+<div class="col-3"> <button type="submit" value="Subscribe" name="subscribe" class="btn btn-primary"> Submit </button>
+</div>
+</form>
+</div>
+</div></div>
+<div class="col-md-12"><div class="mt-8"><ul class="list-inline">
+<li class="list-inline-item">© 2021 Judson L Moore</li>
+<li class="list-inline-item"><a href="https://www.judsonlmoore.com/terms" class="text-reset">Terms of Service</a></li>
+<li class="list-inline-item"><a href="https://www.judsonlmoore.com/privacy" class="text-reset">Privacy Policy</a></li>
+<li class="list-inline-item"><a href="https://www.judsonlmoore.com/sitemap.xml" class="text-reset">Sitemap</a></li>
+</ul></div></div>
+</div></div></div><script id="dsq-count-scr" src="//judsonlmoore.disqus.com/count.js" async> var disqus_config = function () { this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }]; }; </script> <script src="https://www.judsonlmoore.com/assets/libs/jquery/dist/jquery.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/jquery-slimscroll/jquery.slimscroll.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/prismjs/prism.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/leaflet/dist/leaflet.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/moment/min/moment.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/lightpick/lightpick.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/ion-rangeslider/js/ion.rangeSlider.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/inputmask/dist/jquery.inputmask.min.js"></script> <script src="https://www.judsonlmoore.com/assets/libs/lightbox/js/lightbox.min.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script> <script src="https://www.judsonlmoore.com/assets/js/theme.min.js"></script> <script src="https://www.judsonlmoore.com/assets/js/simple-jekyll-search.min.js"></script> <script> window.simpleJekyllSearch = new SimpleJekyllSearch({ searchInput: document.getElementById('search-input'), resultsContainer: document.getElementById('results-container'), json: 'https://www.judsonlmoore.com/search.json', searchResultTemplate: '<li class="list-group-item"><a href="{url}?query={query}" title="{desc}">{title}</a>', noResultsText: 'No results found', limit: 5, fuzzy: true, exclude: ['Welcome'] }); </script> <script type="text/javascript"> $(document).ready(function () { if (!sessionStorage.adModal) { setTimeout(function () { $("#admodal").find(".modal"); $("#admodal").modal({ backdrop: "static", keyboard: false, }); }, 30000); sessionStorage.adModal = 1; } }); </script> <script type="application/ld+json"> { "@context": "https://schema.org", "@graph": [ { "@type": "Person", "@id": "https://www.judsonlmoore.com/#person", "name": "Judson L Moore", "alternateName": "Judson L Moore", "url": "https://www.judsonlmoore.com/", "nationality": "American", "birthPlace": { "@type": "Place", "address": { "@type": "PostalAddress", "addressLocality": "Berlin", "addressRegion": "Berlin", "addressCountry": "Germany" } }, "alumniOf": [ { "@type": "CollegeOrUniversity", "name": "Louisiana State Univeristy", "sameAs": "https://www.lsu.edu/" } ], "gender": "Male", "Description": "Product manager, author, and travel adict", "disambiguatingDescription": "Author of Exponential Happiness", "jobTitle": "Senior Product Manager", "worksFor": [ { "@type": "Organization", "name": "eBay", "sameAs": ["https://twitter.com/ebay", "https://www.facebook.com/ebay/", "https://www.linkedin.com/company/ebay/mycompany/", "https://www.youtube.com/user/ebay"] } ], "image": "https://www.judsonlmoore.com/assets/images/avatars/avatar-judsonlmoore.png", "address": { "@type": "PostalAddress", "addressLocality": "Berlin", "addressRegion": "Berlin", "addressCountry": "Germany" }, "sameAs": [ "https://twitter.com/judsonlmoore", "https://instagram.com/judsonlmoore", "https://www.facebook.com/judsonlmooreblog", "https://www.linkedin.com/in/judsonlmoore/", "https://www.youtube.com/judsonlmoore", "https://github.com/judsonlmoore", "https://www.pinterest.com/judsonlmoore/" ] }, { "@type": "Organization", "@id": "https://www.judsonlmoore.com", "name": "Judson L Moore", "legalName": "Judson L Moore", "url": "http://www.judsonlmoore.com", "logo": { "@type": "ImageObject", "url": "https://www.judsonlmoore.com/assets/images/2019/11/judsonlmoore-holding-exponential-happiness.jpg" }, "address": { "@type": "PostalAddress", "streetAddress": "Krossener Str 20", "addressLocality": "Berlin", "addressRegion": "Berlin", "postalCode": "10245", "addressCountry": "Germany" }, "contactPoint": { "@type": "ContactPoint", "contactType": "customer support", "telephone": "[+1.310.571.5210]", "email": "contact@judsonlmoore.com" }, "sameAs": [ "https://twitter.com/judsonlmoore", "https://instagram.com/judsonlmoore", "https://www.facebook.com/judsonlmooreblog", "https://www.linkedin.com/in/judsonlmoore/", "https://www.youtube.com/judsonlmoore", "https://github.com/judsonlmoore", "https://www.pinterest.com/judsonlmoore/" ] } ,{ "@type": "Article", "headline": "How to migrate from Wordpress to Jekyll with CircleCI and AWS", "alternativeHeadline": "I decreased my page load time by 400% while learning about the static site generator, Jekyll", "image": { "@type": "ImageObject", "url": "https://www.judsonlmoore.com/assets/images/2020/01/wordpress-vs-jekyll.png" }, "author": "Judson L Moore", "editor": "Judson L Moore", "keywords": "career product managementweb developmentjekyll", "wordcount": 3835, "publisher": { "@type": "Organization", "@id": "https://www.judsonlmoore.com/#organization", "name": "Judson L Moore", "logo": { "@type": "ImageObject", "url": "https://www.judsonlmoore.com/assets/images/favicon.png" } }, "url": "/how-to-migrate-wordpress-to-jekyll", "mainEntityOfPage": { "@type": "WebPage", "@id": "" }, "datePublished": "2020-01-15T00:00:00+00:00", "dateCreated": "2020-01-15T00:00:00+00:00", "dateModified": "2020-01-15T00:00:00+00:00", "description": "I decreased my page load time by 400% while learning about the static site generator, Jekyll", "inLanguage": "us-EN" } ] } </script>

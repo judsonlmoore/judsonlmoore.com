@@ -1,0 +1,53 @@
+**Environment:** Win XP, Browser Chrome 11, Screensize 1024x768, Viewport Size 640x480, Zoom 120%
+**Stage:** e.g staging, prod, nonprod, etc.
+**Codebase:** e.g. repo-branch at commit sha
+
+----
+**Summary**
+_1 sentence which describes the bug._
+
+The label on the logout button is not correct.
+
+----
+**Expected Results**
+_Describe what should happen when this feature runs?_
+
+The logout button should be labeled with "log off".
+
+----
+**Actual Results**
+_Describe what is actually happening when this bug is triggered._ 
+
+The logout button is currently labeled as "logout".
+
+----
+**Steps to Reproduce**
+_Describe how to reproduce this bug._ 
+- Start
+- ...
+- ...
+- ...
+- See bug here
+
+----
+**Source URL**
+_Where does this bug occur?_ 
+
+[Link to the bug](https://linktobug.com) or description of the screen.
+
+----
+**Screenshots**
+_Please add a screenshot of the bug in action._
+
+image1.png
+
+image2.png
+
+----
+**Logs, Exceptions**
+_Upload, link to, or copy / paste relevant logging of the bug._
+
+```Failed to load resource: net::ERR_BLOCKED_BY_CLIENT```
+
+----
+**FYI:** @mention _stakeholders, relevant team members, or anyone else who might be impacted by this task's outcomes_

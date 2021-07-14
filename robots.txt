@@ -1,0 +1,11 @@
+Sitemap: https://www.judsonlmoore.com/sitemap.xml
+
+User-agent: *
+Disallow: /book-rcala/
+Disallow: /book-rye/
+Disallow: /exponential-happiness-book-preview/
+Disallow: /resources/
+Disallow: /search/
+Disallow: /subscribe-confirm/
+Disallow: /subscribe-thank-you/
+Disallow: /subscription-updated/
